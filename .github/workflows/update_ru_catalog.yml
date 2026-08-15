@@ -1,0 +1,36 @@
+name: Daily Update RU Catalog
+
+on:
+  schedule:
+    # Runs every day at 09:00 UTC (switch_games.json scraper starts at 06:00 UTC)
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ru-catalog-update
+  cancel-in-progress: false
+
+jobs:
+  update-ru-catalog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run RU catalog build script
+        run: python scripts/build_ru_catalog.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update RU_catalog.json"
+          file_pattern: "RU_catalog.json"
