@@ -1,4 +1,9 @@
 [
+  {"title": "No Skin", "title_id": "01002B1026E88000", "metacritic": null},
+  {"title": "Easy Red 2 + DLC Stalingrad, Normandy, Ardennes 1940-1944, Shanghai Nanking, Blood on the Danube", "title_id": "010026F0153C2000", "metacritic": null},
+  {"title": "PlateUp (Plate Up) + DLC", "title_id": "01003F901A83E000", "metacritic": null},
+  {"title": "RetroMania Wrestling + DLC Legends Pack the Madness Returns", "title_id": "0100BB700EF82000", "metacritic": 74.0},
+  {"title": "Nordic Ashes the Complete Saga: Survivors of Ragnarok, Remnants of Corruption, Dark Knights", "title_id": "0100F2501DEB0000", "metacritic": null},
   {"title": "R-Type Tactics I-II (1-2) Cosmos + 5 DLC", "title_id": "01003A8019D74000", "metacritic": null},
   {"title": "Defender of the Crown the Legend Returns", "title_id": "0100B11027658000", "metacritic": null},
   {"title": "Tyrant's Realm", "title_id": "0100852026502000", "metacritic": null},
@@ -36,10 +41,5 @@
   {"title": "An English Haunting", "title_id": "0100E07022BD0000", "metacritic": 83.0},
   {"title": "Wander Stars", "title_id": "010034801FCBE000", "metacritic": 83.0},
   {"title": "Easy Delivery Co", "title_id": "01000780260F6000", "metacritic": null},
-  {"title": "Deltarune: Chapter 1-2-3-4-5", "title_id": "010023800D64A000", "metacritic": 86.0},
-  {"title": "Deathbulge Battle of the Bands", "title_id": "01009C6026008000", "metacritic": null},
-  {"title": "Peppered an Existential Platformer", "title_id": "0100C6D027354000", "metacritic": null},
-  {"title": "Luxor Evolved", "title_id": "0100A2301BDE8000", "metacritic": null},
-  {"title": "Cemu NX: эмулятор Nintendo Wii U + игра DuckTales Remastered (Duck Tales / Утиные истории)", "title_id": "01007D5508F1D000", "metacritic": null},
-  {"title": "OneShot World Machine edition", "title_id": "0100E3C016D4E000", "metacritic": null}
+  {"title": "Deltarune: Chapter 1-2-3-4-5", "title_id": "010023800D64A000", "metacritic": 86.0}
 ]
