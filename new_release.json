@@ -1,4 +1,9 @@
 [
+  {"title": "Metaverse Keeper", "title_id": "0100AFF00F938000", "metacritic": null},
+  {"title": "Sacred 2 Fallen Angel Remaster + Ice and Blood", "title_id": "010074402766A000", "metacritic": null},
+  {"title": "Strange Antiquities", "title_id": "01007E702319C000", "metacritic": 81.0},
+  {"title": "Shard Squad + DLC", "title_id": "01006ED025A74000", "metacritic": null},
+  {"title": "Maestro (демонстрационная версия)", "title_id": "01005710291E8000", "metacritic": null},
   {"title": "No Skin", "title_id": "01002B1026E88000", "metacritic": null},
   {"title": "Easy Red 2 + DLC Stalingrad, Normandy, Ardennes 1940-1944, Shanghai Nanking, Blood on the Danube", "title_id": "010026F0153C2000", "metacritic": null},
   {"title": "PlateUp (Plate Up) + DLC", "title_id": "01003F901A83E000", "metacritic": null},
@@ -34,12 +39,5 @@
   {"title": "Main Frames (Mainframes)", "title_id": "01002ED01DCAA000", "metacritic": 75.0},
   {"title": "Nicktoons and The Dice of Destiny", "title_id": "0100668022DF4000", "metacritic": null},
   {"title": "Жизнь и страдания господина Бранте в эпоху падения блаженной империи Аркнов / The Life and Suffering of Sir Brante", "title_id": "01007E101479A000", "metacritic": null},
-  {"title": "Heave Ho 1-2", "title_id": "010071502662C000", "metacritic": 80.0},
-  {"title": "The Ramsey", "title_id": "01002DB01ABEC000", "metacritic": null},
-  {"title": "Shard Squad + DLC", "title_id": "01006ED025A74000", "metacritic": null},
-  {"title": "Minecraft (онлайн с tagNX)", "title_id": "0100D71004694000", "metacritic": 93.0},
-  {"title": "An English Haunting", "title_id": "0100E07022BD0000", "metacritic": 83.0},
-  {"title": "Wander Stars", "title_id": "010034801FCBE000", "metacritic": 83.0},
-  {"title": "Easy Delivery Co", "title_id": "01000780260F6000", "metacritic": null},
-  {"title": "Deltarune: Chapter 1-2-3-4-5", "title_id": "010023800D64A000", "metacritic": 86.0}
+  {"title": "Heave Ho 1-2", "title_id": "010071502662C000", "metacritic": 80.0}
 ]
