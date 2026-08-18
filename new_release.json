@@ -1,4 +1,11 @@
 [
+  {"title": "Card Quest", "title_id": "0100198023692000", "metacritic": null},
+  {"title": "Wingspan + 8 DLC", "title_id": "0100E05011350000", "metacritic": 78.0},
+  {"title": "The Last Faith + DLC Awakened Ancients", "title_id": "0100C69018E4A000", "metacritic": 72.0},
+  {"title": "Obakeidoro 2 Chase and Seek", "title_id": "010044D027C72000", "metacritic": null},
+  {"title": "Blazblue Entropy Effect X Deluxe edition + 43 DLC", "title_id": "01006CE026722000", "metacritic": null},
+  {"title": "Woodo (демонстрационная версия)", "title_id": "010050F0282CC000", "metacritic": null},
+  {"title": "Sally Face", "title_id": "0100BBF0122B4000", "metacritic": null},
   {"title": "Metaverse Keeper", "title_id": "0100AFF00F938000", "metacritic": null},
   {"title": "Sacred 2 Fallen Angel Remaster + Ice and Blood", "title_id": "010074402766A000", "metacritic": null},
   {"title": "Strange Antiquities", "title_id": "01007E702319C000", "metacritic": 81.0},
@@ -32,12 +39,5 @@
   {"title": "Schrodinger's Call", "title_id": "0100159026D88000", "metacritic": null},
   {"title": "Pipistrello and the Cursed Yoyo", "title_id": "0100D1E01FB56000", "metacritic": 87.0},
   {"title": "Rune Dice", "title_id": "0100F5102672C000", "metacritic": null},
-  {"title": "Tetris the Grand Master TGM 4 Absolute Eye", "title_id": "0100A9F027F1C000", "metacritic": null},
-  {"title": "Achilles Survivor", "title_id": "0100CD6023C84000", "metacritic": 82.0},
-  {"title": "Sid Meier's Civilization VII (7) + 34 DLC", "title_id": "0100C3601518C000", "metacritic": 88.0},
-  {"title": "The Lord of the Rings: War in the North Legacy edition (Властелин колец: Война на севере)", "title_id": "01004D501F078000", "metacritic": 81.0},
-  {"title": "Main Frames (Mainframes)", "title_id": "01002ED01DCAA000", "metacritic": 75.0},
-  {"title": "Nicktoons and The Dice of Destiny", "title_id": "0100668022DF4000", "metacritic": null},
-  {"title": "Жизнь и страдания господина Бранте в эпоху падения блаженной империи Аркнов / The Life and Suffering of Sir Brante", "title_id": "01007E101479A000", "metacritic": null},
-  {"title": "Heave Ho 1-2", "title_id": "010071502662C000", "metacritic": 80.0}
+  {"title": "Tetris the Grand Master TGM 4 Absolute Eye", "title_id": "0100A9F027F1C000", "metacritic": null}
 ]
