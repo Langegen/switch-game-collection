@@ -1,4 +1,12 @@
 [
+  {"title": "Wobbly Life", "title_id": "010039501F11C000", "metacritic": null},
+  {"title": "Tomb Raider I-III (+ Unfinished Business) / TR II (2) The Dagger of Xian + Golden Mask / TombRaider III (3) Adventures of Starring Lara Croft + The Lost Artifact Remastered", "title_id": "010024601BB16000", "metacritic": null},
+  {"title": "Teeto", "title_id": "0100AE20256E0000", "metacritic": null},
+  {"title": "Steins Gate Re Boot (Reboot)", "title_id": "01008BC024FDE000", "metacritic": null},
+  {"title": "Sacred 2 Remaster", "title_id": "010074402766A000", "metacritic": null},
+  {"title": "Fantasy Life i: The Girl Who Steals Time + 3 DLC", "title_id": "0100755017EE0000", "metacritic": 80.0},
+  {"title": "Defender of the Crown the Legend Returns", "title_id": "0100B11027658000", "metacritic": null},
+  {"title": "The Legend of Heroes: Trails in the Sky 2nd Chapter Remake (демонстрационная версия)", "title_id": "0100AD6029730000", "metacritic": null},
   {"title": "Two Strikes Ultimate edition + 3 DLC", "title_id": "010075B0206D6000", "metacritic": null},
   {"title": "Conquistadorio", "title_id": "01004FD0213C6000", "metacritic": null},
   {"title": "Xenotilt Hostile Pinball Action (пинбол)", "title_id": "0100F7501A2FE000", "metacritic": null},
@@ -23,7 +31,6 @@
   {"title": "Woodo (демонстрационная версия)", "title_id": "010050F0282CC000", "metacritic": null},
   {"title": "Sally Face", "title_id": "0100BBF0122B4000", "metacritic": null},
   {"title": "Metaverse Keeper", "title_id": "0100AFF00F938000", "metacritic": null},
-  {"title": "Sacred 2 Fallen Angel Remaster + Ice and Blood", "title_id": "010074402766A000", "metacritic": null},
   {"title": "Strange Antiquities", "title_id": "01007E702319C000", "metacritic": 81.0},
   {"title": "Shard Squad + DLC", "title_id": "01006ED025A74000", "metacritic": null},
   {"title": "Maestro (демонстрационная версия)", "title_id": "01005710291E8000", "metacritic": null},
@@ -31,13 +38,5 @@
   {"title": "Easy Red 2 + DLC Stalingrad, Normandy, Ardennes 1940-1944, Shanghai Nanking, Blood on the Danube", "title_id": "010026F0153C2000", "metacritic": null},
   {"title": "PlateUp (Plate Up) + DLC", "title_id": "01003F901A83E000", "metacritic": null},
   {"title": "RetroMania Wrestling + DLC Legends Pack the Madness Returns", "title_id": "0100BB700EF82000", "metacritic": 74.0},
-  {"title": "Nordic Ashes the Complete Saga: Survivors of Ragnarok, Remnants of Corruption, Dark Knights", "title_id": "0100F2501DEB0000", "metacritic": null},
-  {"title": "R-Type Tactics I-II (1-2) Cosmos + 5 DLC", "title_id": "01003A8019D74000", "metacritic": null},
-  {"title": "Defender of the Crown the Legend Returns", "title_id": "0100B11027658000", "metacritic": null},
-  {"title": "Tyrant's Realm", "title_id": "0100852026502000", "metacritic": null},
-  {"title": "Realm of Ink", "title_id": "0100DE3026A54000", "metacritic": null},
-  {"title": "Nitro Gen Omega", "title_id": "0100AB4026E8A000", "metacritic": null},
-  {"title": "Momento", "title_id": "0100A62027346000", "metacritic": null},
-  {"title": "Grayland Remastered", "title_id": "010074B027F44000", "metacritic": null},
-  {"title": "Lost to Time", "title_id": "0100E8F026846000", "metacritic": null}
+  {"title": "Nordic Ashes the Complete Saga: Survivors of Ragnarok, Remnants of Corruption, Dark Knights", "title_id": "0100F2501DEB0000", "metacritic": null}
 ]
