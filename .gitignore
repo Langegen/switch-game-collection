@@ -1,0 +1,13 @@
+# Downloaded temporary TitleDB & scraper databases
+US.en.json
+GB.en.json
+RU.ru.json
+switch_games.json
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/

@@ -1,4 +1,4 @@
-name: Daily Update RU Catalog
+name: Daily Update Game Catalogs (RU & EN)
 
 on:
   schedule:
@@ -10,11 +10,11 @@ permissions:
   contents: write
 
 concurrency:
-  group: ru-catalog-update
+  group: catalogs-update
   cancel-in-progress: false
 
 jobs:
-  update-ru-catalog:
+  update-catalogs:
     runs-on: ubuntu-latest
 
     steps:
@@ -29,8 +29,11 @@ jobs:
       - name: Run RU catalog build script
         run: python scripts/build_ru_catalog.py
 
+      - name: Run EN catalog build script
+        run: python scripts/build_en_catalog.py
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update RU_catalog.json"
-          file_pattern: "RU_catalog.json"
+          commit_message: "Auto-update RU_catalog.json & EN_catalog.json"
+          file_pattern: "RU_catalog.json EN_catalog.json scripts/translations_cache.json"

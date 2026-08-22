@@ -1,8 +1,47 @@
-# Nintendo Switch Game Collections
+# Nintendo Switch Game Collections & Catalogs
 
-Коллекции и подборки лучших игр для **Nintendo Switch** с указанием их уникального **Title ID** и актуальным рейтингом **Metacritic**.
+Коллекции, подборки и полные каталоги игр для **Nintendo Switch** с указанием их уникального **Title ID**, актуальным рейтингом **Metacritic**, описаниями, скриншотами и метаданными раздач.
 
 Все подборки сформированы на основе официальной классификации категорий Nintendo eShop (TitleDB) и отсортированы по оценкам Metacritic. Каждый элемент гарантированно сопоставлен с единым реестром раздач [`switch_games.json`](https://raw.githubusercontent.com/Langegen/switch-games/refs/heads/main/switch_games.json).
+
+---
+
+## 🎮 Полные каталоги игр (RU & EN)
+
+Полные реестры всех доступных игр для Nintendo Switch (более 7,000 игр), готовые для интеграции в сторонние приложения, боты и веб-каталоги. Оба файла имеют **100% идентичную структуру и порядок элементов**:
+
+| Файл | Язык | Описание |
+| :--- | :---: | :--- |
+| 🇷🇺 [`RU_catalog.json`](./RU_catalog.json) | Русский | Полный каталог со всеми характеристиками, описаниями и скриншотами на русском языке |
+| 🇬🇧 [`EN_catalog.json`](./EN_catalog.json) | English | Полная англоязычная копия каталога с официальными описаниями eShop, скриншотами и переведёнными метаданными |
+
+### Формат данных каталогов:
+```json
+[
+  {
+    "title": "The Legend of Heroes: Trails in the Sky 2nd Chapter Remake (demo version) [NSZ][DEMO][ENG]",
+    "size": "3.63 GB",
+    "magnet": "magnet:?xt=urn:btih:BDE9FC9AC4884B1759956051405EDC3C02DF05DF...",
+    "topic_id": "6897473",
+    "url": "https://rutracker.org/forum/viewtopic.php?t=6897473",
+    "year": "2026, September",
+    "genre": "Role-Playing, Action",
+    "developer": "Nihon Falcom",
+    "publisher": "GungHo America",
+    "image_format": ".NSZ (compressed ~22%, installed size 4.65 GB) [DEMO]",
+    "interface_lang": "English [ENG]",
+    "voice_lang": "Japanese",
+    "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
+    "multiplayer": "No",
+    "cover": "https://i8.imageban.ru/out/2026/08/20/21580fd359b08238c48501f5159cfefe.png",
+    "screenshots": [
+      "https://i128.fastpic.org/thumb/2026/0820/23/dd26f869597f963b1b8961e591a61923.jpeg"
+    ],
+    "description": "The plot continues immediately after the events of the first part...",
+    "title_id": "0100AD6029730000"
+  }
+]
+```
 
 ---
 
@@ -30,39 +69,17 @@
 
 ---
 
-## 📋 Формат данных
+## 🤖 Автообновление (GitHub Actions)
 
-Все файлы подборок сохранены в стандартном формате JSON (массив объектов, 1 объект на строку, кодировка UTF-8):
+1. **Обновление каталогов (`RU_catalog.json` & `EN_catalog.json`)**:
+   - **Workflow**: [`.github/workflows/update_ru_catalog.yml`](./.github/workflows/update_ru_catalog.yml)
+   - **Расписание**: Каждый день в **09:00 UTC**.
+   - **Скрипты**: [`build_ru_catalog.py`](./scripts/build_ru_catalog.py) и [`build_en_catalog.py`](./scripts/build_en_catalog.py). Оба каталога синхронно обновляются и сопоставляются 1:1.
 
-```json
-[
-  {
-    "title": "The Legend of Zelda: Tears of the Kingdom",
-    "title_id": "0100F2C0115B6000",
-    "metacritic": 96.0
-  },
-  {
-    "title": "Super Mario Odyssey",
-    "title_id": "0100000000010000",
-    "metacritic": 97.0
-  }
-]
-```
-
-### Описание полей:
-- `title` (*string*) — Название игры (очищенное от лишних технически тегов релиза).
-- `title_id` (*string*) — Уникальный 16-значный HEX-идентификатор приложения Nintendo Switch.
-- `metacritic` (*float | null*) — Оценка игры на сайте Metacritic (0.0 — 100.0).
-
----
-
-## 🤖 Ежедневное автообновление новых релизов
-
-Проект использует **GitHub Actions** ([`.github/workflows/update_new_release.yml`](./.github/workflows/update_new_release.yml)) для автоматического обновления файла [`new_release.json`](./new_release.json):
-
-- **Расписание**: Каждый день в **04:00 UTC**.
-- **Источник**: Atom-лента свежих раздач `https://feed.rutracker.cc/atom/f/1605.atom`.
-- **Логика**: Скрипт [`update_new_release.py`](./scripts/update_new_release.py) сопоставляет раздачи с базой `switch_games.json`, подтягивает оценки Metacritic и коммитит обновления.
+2. **Обновление новых релизов (`new_release.json`)**:
+   - **Workflow**: [`.github/workflows/update_new_release.yml`](./.github/workflows/update_new_release.yml)
+   - **Расписание**: Каждый день в **04:00 UTC**.
+   - **Скрипт**: [`update_new_release.py`](./scripts/update_new_release.py).
 
 ---
 
@@ -70,4 +87,4 @@
 
 - **База релизов & Title ID**: [`switch_games.json`](https://raw.githubusercontent.com/Langegen/switch-games/refs/heads/main/switch_games.json)
 - **Оценки Metacritic**: [`nintendolife_switch_games_with_metacritic.csv`](https://raw.githubusercontent.com/texboy/switch-games-dasboard/refs/heads/main/nintendolife_switch_games_with_metacritic.csv)
-- **Категории eShop**: [`blawar/titledb`](https://github.com/blawar/titledb) (`RU.ru.json` & `US.en.json`)
+- **Категории eShop & Описания**: [`blawar/titledb`](https://github.com/blawar/titledb) (`RU.ru.json`, `US.en.json`, `GB.en.json`)
