@@ -1,4 +1,9 @@
 [
+  {"title": "Bendy and the Ink Machine", "title_id": "010074500BBC4000", "metacritic": 71.0},
+  {"title": "Scott Pilgrim Ex", "title_id": "0100D59022590000", "metacritic": null},
+  {"title": "Steins Gate Re Boot (Reboot)", "title_id": "01008BC024FDE000", "metacritic": null},
+  {"title": "Dave the Diver + 6 DLC (In the Jungle)", "title_id": "010097F018538000", "metacritic": 90.0},
+  {"title": "The Garden Path", "title_id": "010030F01A882000", "metacritic": null},
   {"title": "Metal Gear Solid: Master Collection Edition, Vol. 2 (MGS 4 / Peace Walker / Guns of the Patriots / Metal Gear Ghost Babel)", "title_id": "0100C6F01C4F8000", "metacritic": null},
   {"title": "Super Bomberman Collection (7 игр)", "title_id": "01002D4023E52000", "metacritic": null},
   {"title": "Outbound + DLC", "title_id": "0100ED9024EB8000", "metacritic": null},
@@ -31,9 +36,5 @@
   {"title": "Yomi 2 Fighting Card Game + DLC Renegades", "title_id": "0100A68024556000", "metacritic": 77.0},
   {"title": "Helix Descent n Ascent", "title_id": "01004A101F3F6000", "metacritic": null},
   {"title": "Guns of Mercy Rangers edition", "title_id": "010088700C5F8000", "metacritic": null},
-  {"title": "Splatoon 3 + DLC Side Order, Inkopolis", "title_id": "0100C2500FC20000", "metacritic": 83.0},
-  {"title": "Steins Gate Re Boot (Reboot)", "title_id": "01008BC024FDE000", "metacritic": null},
-  {"title": "Just Shapes and Beats", "title_id": "0100830008426000", "metacritic": null},
-  {"title": "One Piece Pirate Warriors 4 + 25 DLC", "title_id": "01008FE00E2F7000", "metacritic": 75.0},
-  {"title": "Bunker 22", "title_id": "0100B10023388000", "metacritic": null}
+  {"title": "Splatoon 3 + DLC Side Order, Inkopolis", "title_id": "0100C2500FC20000", "metacritic": 83.0}
 ]
