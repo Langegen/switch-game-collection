@@ -1,5 +1,35 @@
 [
     {
+        "title": "Game and Watch, Elektronika IM — 84 igry (emulator Yokoi, Sharp SM510) [NRO][ENG]",
+        "size": "92.5 MB",
+        "magnet": "magnet:?xt=urn:btih:760755CE3F332DFB36C41D0C93F0713A4CEA21E0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6901661",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6901661",
+        "year": "1980",
+        "genre": "Emulator, Homebrew",
+        "developer": "Nintendo, VA",
+        "publisher": "SenseiFromClubPenguin, RetroValou",
+        "image_format": "NRO",
+        "interface_lang": "English [ENG]",
+        "voice_lang": "No voiceover",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://i2.imageban.ru/out/2026/08/29/12a8c27e3cfb149e104fd31880e6fd1e.png",
+        "screenshots": [
+            "https://i128.fastpic.org/thumb/2026/0829/db/69a7012de51f7748a4bc9a0a1eff09db.jpeg",
+            "https://i128.fastpic.org/thumb/2026/0829/a9/a108e139adcceef13fbb020f47b3eda9.jpeg",
+            "https://i128.fastpic.org/thumb/2026/0829/51/b2c66827ef28be0cb977d9bf91675151.jpeg",
+            "https://i128.fastpic.org/thumb/2026/0829/ed/19fd90015546c83750531c87bff7aeed.jpeg",
+            "https://i128.fastpic.org/thumb/2026/0829/1d/38a5ea15efab8e3b23c90266ee2ecd1d.jpeg",
+            "https://i128.fastpic.org/thumb/2026/0829/e0/8774982d3814a2be792a1380dbcd31e0.jpeg",
+            "https://i128.fastpic.org/thumb/2026/0829/89/906cc2a1385203d409c571b99293df89.jpeg",
+            "https://i128.fastpic.org/thumb/2026/0829/54/e34206814c8e7bdcffe8448a7d2cca54.jpeg",
+            "https://i128.fastpic.org/thumb/2026/0829/78/4fef4dc2c8b77f65b204dddeccc09078.jpeg"
+        ],
+        "description": "Game & Watch (russ. igra i chasy) — seriya portativnykh elektronnykh igr s ZhK-ekranom. Seriya byla sozdana razrabotchikom igr Gumpeem Yokoem v kompanii Nintendo, igry vypuskalis s 1980 goda. Bolshinstvo ustroystv pozvolyalo igrat tolko v odnu igru — eto ogranichenie bylo vyzvano ispolzovaniem segmentirovannogo ZhK-ekrana. Na mnogikh igrakh nakhodilis knopki «Igra A» i «Igra B», prichyom igra B obychno byla prosto bolee bystroy i slozhnoy versiey igry A.\n«Elektronika» — seriya sovetskikh elektronnykh igr, v osnovnom obedinyonnykh v edinuyu seriyu «IM» — igra mikroprotsessornaya. Chast igr etogo semeystva yavlyalis kopiyami, analogami i variatsiyami Game & Watch serii «Wide Screen», vypushchennykh kompaniey Nintendo v 1981—1982 godakh (EGG, Octopus, Mickey Mouse, Chef i drugie); vypuskalis s serediny vosmidesyatykh zavodami «Angstrem», «Mikron» (Zelenograd), «Arzamasskim zavodom radiodetaley» (Arzamas), «Billyur» (Gyandzha), «Evistor» (Vitebsk), «Kamerton» (Pinsk), «Oktyabr» (Vinnitsa), «Proton» (Oryol), «Severodonetskim priborostroitelnym zavodom» (Severodonetsk), «Voskhod» (Kaluga), «Ellar» (Riga), i nekotorymi drugimi.\n«Yokai» — eto standalone-emulyator (ne simulyator) igr G&W i «Elektroniki», sozdannykh na mikroprotsessore Sharp SM5A, SM510, SM511 i SM512.",
+        "title_id": null
+    },
+    {
         "title": "Vita3K-nx: emulator PlayStation Vita (PSV) + game Gravity Rush / Daze [NRO][RUS]",
         "size": "982.1 MB",
         "magnet": "magnet:?xt=urn:btih:54F967E50DA1BB1489495D5C7F1BB66446BF9098&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -26,7 +56,7 @@
             "https://i128.fastpic.org/thumb/2026/0828/87/021fbc5451dd06e4b46a87f86cda4487.jpeg",
             "https://i128.fastpic.org/thumb/2026/0828/c0/d9290f4f1b7ceb2ce68e6aa428c900c0.jpeg"
         ],
-        "description": "PlayStation Vita, PS Vita (yap. プレイステーション・ヴィータ Pureysute:syon Vi:ta) — portativnaya konsol ot Sony Computer Entertainment, preemnik PlayStation Portable. Vypushchena v Yaponii 17 dekabrya 2011 goda, v Severnoy Amerike i Evrope — 22 fevralya 2012 goda, nazyvalas PSP2, o kotoroy, kak i o PlayStation Phone bylo izvestno po slukham ot storonnikh razrabotchikov. Do E3 2011 sistema byla izvestna pod rabochim nazvaniem Next Generation Portable, NGP.\n«Gravity Rush» — iznachalno eksklyuziv PS Vita, reliz sostoyalsya 13 iyunya 2012 goda. Syuzhet rasskazyvaet istoriyu devushki Ket, kotoraya poteryala pamyat i teper pytaetsya uznat, kto ona, a takzhe spasti svoyo budushchee v razvalivayushchemsya mire. Ket obladaet interesnoy sposobnostyu – ona mozhet izmenyat gravitatsiyu, no ne na vsey planete, a lish v nebolshoy zone vokrug sebya. Ispolzuya takuyu sposobnost, devushka mozhet peremeshchatsya dazhe po stenam zdaniy; igra prisutstvuet v etoy razdache.Videotreyler.",
+        "description": "PlayStation Vita, PS Vita (yap. プレイステーション・ヴィータ Pureysute:syon Vi:ta) — portativnaya konsol ot Sony Computer Entertainment, preemnik PlayStation Portable. Vypushchena v Yaponii 17 dekabrya 2011 goda, v Severnoy Amerike i Evrope — 22 fevralya 2012 goda, nazyvalas PSP2, o kotoroy, kak i o PlayStation Phone bylo izvestno po slukham ot storonnikh razrabotchikov. Do E3 2011 sistema byla izvestna pod rabochim nazvaniem Next Generation Portable, NGP.\nVita3K — glavnyy polnotsennyy eksperimentalnyy emulyator portativnoy konsoli PlayStation Vita s otkrytym iskhodnym kodom, rasprostranyaemyy po litsenzii MIT. Imeet priyatnyy minimalistichnyy dizayn, pozvolyaet zapuskat bolshuyu chast kommercheskikh igry i polzovatelskikh khoumbryu-prilozheniy, sozdannykh dlya PS Vita. Sovmestimost postoyanno rastet, a spisok podderzhivaemykh proektov regulyarno obnovlyaetsya.\n«Gravity Rush» — iznachalno eksklyuziv PS Vita, reliz sostoyalsya 13 iyunya 2012 goda. Syuzhet rasskazyvaet istoriyu devushki Ket, kotoraya poteryala pamyat i teper pytaetsya uznat, kto ona, a takzhe spasti svoyo budushchee v razvalivayushchemsya mire. Ket obladaet interesnoy sposobnostyu – ona mozhet izmenyat gravitatsiyu, no ne na vsey planete, a lish v nebolshoy zone vokrug sebya. Ispolzuya takuyu sposobnost, devushka mozhet peremeshchatsya dazhe po stenam zdaniy; igra prisutstvuet v etoy razdache.Videotreyler.",
         "title_id": null
     },
     {
@@ -2000,9 +2030,9 @@
         "title_id": "0100D39012C1A000"
     },
     {
-        "title": "Vampire Survivors (VS) + DLC Ante Chamber, Emerald Diorama, Ode to Castlevania, Operation Guns, Emergency Meeting, Legacy of the Moonspell, Tides of the Foscari [NSP][RUS/Multi10]",
-        "size": "1.41 GB",
-        "magnet": "magnet:?xt=urn:btih:4FE3E2F4092C190475B57B87F081E61D989E1F9D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "title": "Vampire Survivors (VS) First Survivaton + DLC Legacy of the Bloodmoon, Ante Chamber, Emerald Diorama, Ode to Castlevania, Operation Guns, Emergency Meeting, Legacy of the Moonspell, Tides of the Foscari [NSP][RUS/Multi10]",
+        "size": "1.46 GB",
+        "magnet": "magnet:?xt=urn:btih:72D4C8C5790B2D0C47E04BA98B1E9BE8C1929C24&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6398059",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6398059",
         "year": "2023, August",
@@ -2016,15 +2046,15 @@
         "multiplayer": "Up to 4 players",
         "cover": "https://i4.imageban.ru/out/2023/07/15/2f574e31d5726dd92b688ecfa35df648.png",
         "screenshots": [
+            "https://i128.fastpic.org/thumb/2026/0829/a9/75a7f01c3fd0ba04824786a69f950fa9.jpeg",
+            "https://i128.fastpic.org/thumb/2026/0829/f4/0ef8d18f4f00df7ddcaf91821a40e9f4.jpeg",
+            "https://i128.fastpic.org/thumb/2026/0829/e5/980f63d2ad275fbdfe5e590f38a9fbe5.jpeg",
+            "https://i128.fastpic.org/thumb/2026/0829/4a/ea535443e1b765aaaa7088ccf314114a.jpeg",
+            "https://i128.fastpic.org/thumb/2026/0829/34/057fb048afead0b5b82d4aba27cfd334.jpeg",
             "https://i122.fastpic.org/thumb/2023/0715/c2/71451d6ea94773cb71df3ac6c14771c2.jpeg",
             "https://i122.fastpic.org/thumb/2023/0715/a9/72f5971c6a81195e291458578adca0a9.jpeg",
             "https://i122.fastpic.org/thumb/2023/0715/dd/09495281100b97dccc7a8e51adac3fdd.jpeg",
-            "https://i122.fastpic.org/thumb/2023/0715/89/6943045c4ee6fd543fe72f0fcf63f789.jpeg",
-            "https://i122.fastpic.org/thumb/2023/0817/80/b54810146a2181be44bfaafbe1eb2c80.jpeg",
-            "https://i122.fastpic.org/thumb/2023/0817/7a/e441479608649ce79a8d1425ebdac57a.jpeg",
-            "https://i122.fastpic.org/thumb/2023/0817/fc/aace653ce66ebad6a160b9ca0b56abfc.jpeg",
-            "https://i122.fastpic.org/thumb/2023/0817/54/14ba9ec4ca00ed9f8986b977fa5c8654.jpeg",
-            "https://i122.fastpic.org/thumb/2023/0817/6d/573f622fa37e4ef0c168bef92301bf6d.jpeg"
+            "https://i122.fastpic.org/thumb/2023/0715/89/6943045c4ee6fd543fe72f0fcf63f789.jpeg"
         ],
         "description": "Pachkami kosit porozhdeniy nochi i dozhit do rassveta! Vampire Survivors — kazualnaya igra v stile goticheskogo khorrora s elementami uproshchyonnogo rogalika. Zdes kazhdoe vashe reshenie mozhet vyzvat lavinu posledstviy dlya ord monstrov, s kotorymi vam predstoit stolknutsya.\nAd opustel, a vse demony prishli syuda, i teper uzhe nekuda bezhat ili pryatatsya. Vam ostaetsya tolko vyzhivat, skolko smozhete, no odnazhdy smert obyazatelno polozhit konets i vashim potugam. Sobirayte zoloto v kazhdyy zakhod, chtoby kupit uluchsheniya i pomoch sleduyushchemu vyzhivshemu. Indi-fenomen so sverkhestestvennym mirom, gde vy i grad pul stanovites ediny!\nV versii dlya Nintendo Switch igrayte vchetverom na odnoy konsoli!.. Bolshe igrokov > bolshe monstrov > eshchyo bolshe veselya!..\nIgru Vampire Crawlers sm. tam.",
         "title_id": "010089A0197E5000"
@@ -5922,7 +5952,7 @@
     {
         "title": "EA Sports FC 26 [NSP][RUS/Multi11]",
         "size": "35.53 GB",
-        "magnet": "magnet:?xt=urn:btih:41EB6B539B397FE4EA516B17132D5EA872376056&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:6B8E9C5F96F889D248E13DE4A14AFA8B1AD62FB1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6747241",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6747241",
         "year": "2025",
@@ -25624,9 +25654,9 @@
         "title_id": "010060200FC44000"
     },
     {
-        "title": "Ghost Master Resurrection + 7 DLC [NSP][RUS/Multi9]",
+        "title": "Ghost Master Resurrection + 8 DLC [NSP][RUS/Multi9]",
         "size": "12.12 GB",
-        "magnet": "magnet:?xt=urn:btih:6E432110AD74952DC7DC34D93A812523A30F3390&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:E760DEE0EC25843CDD9E8AE45F2F20E23470DCA2&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6833526",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6833526",
         "year": "2026, March",
@@ -32931,7 +32961,7 @@
         "url": "https://rutracker.org/forum/viewtopic.php?t=5780011",
         "year": "2019, September",
         "genre": "Arcade, Adventure, Runner",
-        "developer": "Simogo",
+        "developer": "Magnus 'Gordon' Gardebäck, Simon Flesser (Simogo)",
         "publisher": "Annapurna Interactive",
         "image_format": ".NSZ (compressed ~59%, installed size 1.21 GB)",
         "interface_lang": "Russian, English [RUS / ENG / Multi 11]",
@@ -76627,31 +76657,31 @@
         "title_id": "01004C200B0B4000"
     },
     {
-        "title": "Aggelos [NSP][RUS/Multi10]",
-        "size": "220.7 MB",
-        "magnet": "magnet:?xt=urn:btih:1AB3BFB9E8BBC71A79D08B1F99ABB7D1F974C04C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "title": "Aggelos 1-2 [NSP][RUS/Multi10]",
+        "size": "445.7 MB",
+        "magnet": "magnet:?xt=urn:btih:DDB04552508FA2A809F8BCA1A7D667A07B19F2C9&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5994398",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5994398",
-        "year": "2019, April",
+        "year": "2019, April - 2026, August",
         "genre": "Platformer, Action, Metroidvania",
-        "developer": "Storybird Games, Wonderboy Bobi",
+        "developer": "Wonderboy Bobi, Storybird Games",
         "publisher": "PQube",
         "image_format": "NSP",
         "interface_lang": "Russian, English [RUS / ENG / Multi 10]",
         "voice_lang": "No voiceover",
-        "performance": "Yes (on 8.0.1, Atmosphere 0.17.0)",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
         "cover": "http://images.vfl.ru/ii/1610170250/2857aaee/32894995.png",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/a8ebf399b2297d64950daac6a7671b6901cf67c773068a41a9b8547267aee0a5.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/07817cf52454d945d85c2d3633a03531d50a251d5b0f14bf5eb2300e6a3fd09c.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/021d9d7e61870860b772995564c7c40c452ff83d41e2971cfcd513381d6c4ba8.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/c1e314f22c64b54398cc7fbb1b766cbefdc7dbe8131a3cd79d75a2b418678e57.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/e317c8f3bf4aa22eada983cfb57df1c75c5205deb9017743c3e953b8511dc98c.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/b9a8135502360c05666b63b09cfc864634f63f2a805a55a1e834e49e9bd60b0d.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/d3b7db7f212a7ea41e7858a7bf7bc8f3d73ec8747fe28fe04786c9b6b01447fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a4a05cf6337ef2367517dc6857b9acc684033cd45781dd5fee7a71265cd9438.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee97acd1a65da75098fa3fea71546f0edccc0658a597f9327796edeaa51cc0a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf25fd9874470c2b1c946a268a37aa3ff8ab65700b35a202a6324aa746b783bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39514f726bfe79ada4d953716f35bf1e123459b54c174cc1ee8dd141c2db239a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa88aa7375eb637f3c351bcdc0c54c353c503d40becbafbe12cc9e03651c4881.jpg"
         ],
-        "description": "Step through time and discover a mesmerizing new action-RPG that looks like it was plucked straight out of the 16-bit era, but plays like a modern-day marvel! \n\nInspired by non-linear Japanese retro adventures, Aggelos hurls players into the middle of a colossal struggle for survival as beings from another dimension threaten to invade the peaceful Kingdom of Lumen. Bursting with secrets and side-quests, and boasting slick melee combat that any 2D action game would envy, Aggelos is the perfect combination of retro style and modern-day game design.\n\nA VAST KINGDOM TO EXPLORE\nVenture through forests, seas, cave systems and ancient temples as you seek to uncover the magical elements needed to save the world from total annihilation.\n\nA CLASSICAL NON-LINEAR ADVENTURE\nExplore a sprawling world that gradually reveals itself, Metroidvania-style, as you gain new abilities and equipment. \n\nDEADLY ENCOUNTERS\nThwart towering bosses and their tricky minions as you take on perilous mainline quests and optional odd-jobs for the people of Lumen.\n\nTACTICAL DEPTH\nUnlock magical abilities and high-level attacks, expertly chaining these immense powers together to clear screens of enemies in seconds.\n\nSTUNNING SPRITE ART\nForget out-of-place modern art: Aggelos boasts superlative character designs and animations while remaining proudly, and faithfully, 16-bit through and through.\n\nMEMORABLE CHIPTUNES\nLose yourself to a retro-inspired soundtrack that floods the Kingdom of Lumen with life.",
-        "title_id": "010004D00A9C0000"
+        "description": "Aggelos 2 is an explosive action-platformer where lightning-fast combat, precision platforming, and two opposing worlds collide. As an Aggelos, the highest order of angels, you are chosen by Balro to venture through the Kingdom of Lumen, domain of the supreme God of Light. But with Lumen under siege and the Gods facing imminent defeat at the hands of the Army of Darkness, you are forced to embrace a shadowy new form to survive the chaos of both light and dark realms.\n\nWhile your angelic side favors a slower, disciplined approach, your demon form is highly agile, aggressive, and bristling with dark powers. Mastering the shift between both forms is key to survival, and only by balancing order and chaos can you hope to overcome formidable enemies, deadly obstacles, and challenging puzzles along your path.\n\n- Parallel realms: Explore two massive, overlapping maps, each with their own unique characteristics, enemies to fight, secrets to discover, and challenges to overcome.\n- Dual Combat System: Switch between Angel and Demon forms to change the world and your playstyle, from precise defenses to fast assaults, mastering timing, strategy, and reflexes.\n- Emerge victorious: Take on hordes of enemies and conquer 13 massive bosses across both realms. Steel yourself for memorable encounters that build on the original game’s signature battles.\n- Puzzles of Discovery: Solve challenges by mastering skills, memorising routes, manipulating mechanisms, avoiding traps, and interacting with the world to reveal secrets and new paths.\n- Grow your power: Collect orbs to unlock devastating special attacks, boost your strength and increase your survivability, adding a tactical layer to your progression.\n- Evolve to survive: Unlock new skills as you progress, from flight and wall grabs to dashes and powerful special attacks, offering up new ways to explore and reach previously inaccessible areas.\n- Stunning 16-bit Artwork: Striking pixel art and detailed sprites designed to complement smooth, fast-paced 2D gameplay.",
+        "title_id": "010040F01EC60000"
     },
     {
         "title": "9 Years of Shadows [NSZ][RUS/Multi8]",
@@ -85481,34 +85511,31 @@
         "title_id": "0100EBD023B36000"
     },
     {
-        "title": "Figure it Out the Tantrum Simulator (demo version) [NSZ][DEMO][ENG]",
-        "size": "177.3 MB",
-        "magnet": "magnet:?xt=urn:btih:5F40DF9B3C5F875DDEB494065D50DC7DD0484FCE&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "Figure it Out the Tantrum Simulator [NSZ][ENG]",
+        "size": "223.2 MB",
+        "magnet": "magnet:?xt=urn:btih:A75DD5FF6270D4F7C90A963B9DBBB175D22965E1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6773273",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6773273",
         "year": "2025, October",
         "genre": "Puzzle, Simulator",
         "developer": "Pat-o-Logic",
         "publisher": "Pat-o-logic Studio",
-        "image_format": ".NSZ (compressed ~79%, installed size 0.86 GB) [DEMO]",
+        "image_format": ".NSZ (compressed ~84%, installed size 1.36 GB)",
         "interface_lang": "English [ENG]",
         "voice_lang": "No voiceover",
         "performance": "Yes (on 20.5.0, Atmosphere 1.9.5)",
         "multiplayer": "No",
-        "cover": "https://i4.imageban.ru/out/2025/11/16/12e0252dd3086fc51dbf595e6d9d4cbb.png",
+        "cover": "https://i2.imageban.ru/out/2025/11/16/984343902498d107c7333a0413f5fda6.png",
         "screenshots": [
-            "https://i126.fastpic.org/thumb/2025/1116/1a/2218f986938f05039f2ebe6aef3ff71a.jpeg",
-            "https://i126.fastpic.org/thumb/2025/1116/7d/3a9e5fada26e9215c5fd1138373a7b7d.jpeg",
-            "https://i126.fastpic.org/thumb/2025/1116/4b/a55f708aef29cf7a1666c5c1059d634b.jpeg",
-            "https://i126.fastpic.org/thumb/2025/1116/28/9f4ceb752cdd3070549bcd54391d5028.jpeg",
-            "https://i126.fastpic.org/thumb/2025/1116/4e/8df0ed2159cd9730b4904a10b074444e.jpeg",
-            "https://i126.fastpic.org/thumb/2025/1116/ad/8bb20de95a939dc99a3d37c96b8d22ad.jpeg",
-            "https://i126.fastpic.org/thumb/2025/1116/77/ec130bea11a9779725e5bee559376c77.jpeg",
-            "https://i126.fastpic.org/thumb/2025/1116/3f/16441b8584cf7bcc0b19cb4c1b2dda3f.jpeg",
-            "https://i126.fastpic.org/thumb/2025/1116/27/4923485e37658ba75607aacd286c8b27.jpeg"
+            "https://img-eshop.cdn.nintendo.net/i/2d0e4d460ac54a92163672f669a3bdaf74860120e581f40698dd8b75264caf29.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4729fd9ad47017749337e8d459fc0b77ac8322010eff06e54c672d9ad26ffde.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7cc3be3a070048a32b581148b6864995ac54150df2dec4335cd1a7630eb89896.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94c722371e8dc65c58fa20404872f1dcfba01b76d1a7d26321928648f3f79451.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ce4ac805b288765c86e0def1bc42ef040d652e7f84e773e48a10fa71dc0f044.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d984f3ae8d3d4a6cacc8c5802a762b49569654494945d08bcb69eadfae2bd89.jpg"
         ],
-        "description": "So vremyon Drevnego Egipta (pervoe opisanie vstrechaetsya v Kakhunskom meditsinskom papiruse ~1950 goda do nashey ery), mnogie zhenskie bolezni schitalis boleznyami matki, khotya o rasstroystvakh povedeniya ili emotsiy tam eshchyo ne govoritsya, razve chto upominaetsya «lechenie zhenshchiny, kotoroy nravitsya byt v posteli» s diagnozom spazmy matki. Diagnoz «isteriya» vpervye poyavlyaetsya v Drevney Gretsii i opisan u Gippokrata. Ego sovremennik, Platon opisyvaet «beshenstvo», v kotoroe vpadaet zhenshchiny, ne imeya vozmozhnosti zachat, on byl krayne populyaren v meditsine kontsa XIX — nachala XX veka; na materiale isterii Zh. M. Sharko i Zigmund Freyd sdelali ryad vazhnykh otkrytiy v terapii psikhicheskikh rasstroystv. Iskhodya iz predstavleniy drevnikh o prirode, predpolozheniy o vozmozhnosti isterii u muzhchin dolgoe vremya ne dopuskalos, no s XVII veka byl vvedyon termin i muzhskoy isterii.\nPoprobuete spasti ot «beshenstva matki» svoyu lyubimuyu devushku.. Pryamo v to vremya, kogda vasha blagovernaya razyarena?.. Esli, konechno, smozhete! Usmirite eyo gnev, spasyote i svoyo polozhenie! Ved kogda vasha zhenshchina zlitsya, ves mir naturalno sodrogaetsya — okna razbivayutsya, vulkany izvergayutsya, a vzroslye muzhiki syozhivayutsya ot strakha! Osnovnaya zadacha — spasti mir, usmiriv eyo isteriki.",
-        "title_id": "01006500262CA000"
+        "description": "When a woman gets angry, the world trembles - windows shatter, volcanoes erupt, and people cower in fear! It’s your job to save the world by taming her tantrums. In this fast-paced puzzle game, you race against the clock to arrange comic-style illustrations using subtle hints, piecing together the chain of events that sparked each meltdown.\n\nA puzzle game like no other - blending sharp humor with clever mechanics. With comic-book flair, pin-up sass, and beautifully animated sequences, the game drops you into a gallery of scenarios that are sometimes hilariously absurd, sometimes uncomfortably relatable.\n\nIt’s part puzzle-solving, part comedy of errors - a mix that keeps you guessing, laughing, and sometimes cringing at just how familiar it all feels. A perfect icebreaker game - entertaining not just for players, but also for anyone watching!\n\nFEATURES:\n\n- Unique fast-paced puzzle gameplay: under a ticking clock, decode the hints, line up the illustrations, and watch the tantrum take shape\n\n- 150+ hilarious tantrum scenarios from absurd misunderstandings to relatable everyday conflicts - spanning date nights, family matters, parties, gaming nights and plenty more\n\n- Absurd yet painfully relatable situations that will make you either howl from secondhand embarrassment or laugh at their sheer stupidity\n\n- Three distinct playable characters, each with their own quirks, personality, and tantrum triggers\n\n- Balanced humor: lightheartedly pokes fun at stereotypes for both men and women\n\n- Stylish visuals blending comic book flair with retro pin-up aesthetics\n\n- Beautifully animated comic book sequences that bring every meltdown to life\n\n- Hidden ending: sometimes even failure has a silver lining - your choices and “mistakes” can unlock unexpected outcomes.",
+        "title_id": "01003FA025986000"
     },
     {
         "title": "Wildkeepers Rising [NSP][ENG]",
