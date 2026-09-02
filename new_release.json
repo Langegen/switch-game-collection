@@ -1,4 +1,9 @@
 [
+  {"title": "Super Smash Bros Ultimate (SSBU) + 99 DLC", "title_id": "01006A800016E000", "metacritic": 93.0},
+  {"title": "Mario Kart 8 Deluxe (MK8D) + DLC Booster Course Pass, волна 6", "title_id": "0100152000022000", "metacritic": 92.0},
+  {"title": "The Wizard of Bug (демонстрационная версия)", "title_id": "0100F48023A6E000", "metacritic": null},
+  {"title": "Nintendo Switch Online (официальные игры NSO + опциональный мод): NES, Nintendo Entertainment System / SNES, Super Nintendo Entertainment System Virtual Console", "title_id": "0100D870045B6000", "metacritic": null},
+  {"title": "MIG Switch Game Collection Vol 2: сборник №2 из 250 игр для флеш-картриджа MIG Switch", "title_id": "0100749009844000", "metacritic": null},
   {"title": "Astrea Six Sided Oracles", "title_id": "010071401A274000", "metacritic": 85.0},
   {"title": "Mostroscopy", "title_id": "010075801F788000", "metacritic": null},
   {"title": "Teenage Mutant Ninja Turtles (TMNT) Splintered Fate + 5 DLC", "title_id": "01005CF01E784000", "metacritic": null},
@@ -37,11 +42,5 @@
   {"title": "Metal Gear Solid: Master Collection Edition, Vol. 2 (MGS 4 / Peace Walker / Guns of the Patriots / Metal Gear Ghost Babel)", "title_id": "0100C6F01C4F8000", "metacritic": null},
   {"title": "Super Bomberman Collection (7 игр)", "title_id": "01002D4023E52000", "metacritic": null},
   {"title": "Outbound + DLC", "title_id": "0100ED9024EB8000", "metacritic": null},
-  {"title": "Dungeon Clawler", "title_id": "0100A500257A4000", "metacritic": null},
-  {"title": "Realm of Ink", "title_id": "0100DE3026A54000", "metacritic": null},
-  {"title": "Discounty", "title_id": "0100D7401D59A000", "metacritic": 79.0},
-  {"title": "Lost to Time", "title_id": "0100E8F026846000", "metacritic": null},
-  {"title": "Memory of Memorie a Chill Story", "title_id": "01005460280CA000", "metacritic": null},
-  {"title": "Planet Quiz Learn and Discover + 4 DLC", "title_id": "010057C015C3A000", "metacritic": null},
-  {"title": "The Choice of Life Middle Ages 1 / 2 / Wild Islands", "title_id": "01008330227F4000", "metacritic": null}
+  {"title": "Dungeon Clawler", "title_id": "0100A500257A4000", "metacritic": null}
 ]
