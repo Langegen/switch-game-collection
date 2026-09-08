@@ -1,4 +1,9 @@
 [
+  {"title": "Wingspan + 8 DLC", "title_id": "0100E05011350000", "metacritic": 78.0},
+  {"title": "Terraformers + 3 DLC", "title_id": "0100C1B01872A000", "metacritic": 80.0},
+  {"title": "Manafinder (Mana Finder)", "title_id": "0100253027088000", "metacritic": null},
+  {"title": "Guts 'n Grunts / Jr. / Sr. / Buck Blastem", "title_id": "01009B7027934000", "metacritic": null},
+  {"title": "Popucom + 2 DLC", "title_id": "0100C8D01F9FA000", "metacritic": 83.0},
   {"title": "Ys vs. Trails in the Sky Alternative Saga", "title_id": "010033001F050000", "metacritic": 83.0},
   {"title": "Clover Pit Unholy edition (CloverPit)", "title_id": "0100ABA02501A000", "metacritic": null},
   {"title": "Tavern Talk 1-2 Stories Dreamwalker + DLC", "title_id": "01009A0024398000", "metacritic": 80.0},
@@ -35,10 +40,5 @@
   {"title": "Ghost Master Resurrection + 8 DLC", "title_id": "01001E1025696000", "metacritic": null},
   {"title": "Castlevania Dominus Collection: Dawn of Sorrow / Portrait of Ruin / Order of Ecclesia / Haunted Castle", "title_id": "0100FA501AF90000", "metacritic": 89.0},
   {"title": "Super Smash Bros Ultimate (SSBU) + 99 DLC", "title_id": "01006A800016E000", "metacritic": 93.0},
-  {"title": "Mario Kart 8 Deluxe (MK8D) + DLC Booster Course Pass, волна 6", "title_id": "0100152000022000", "metacritic": 92.0},
-  {"title": "The Wizard of Bug", "title_id": "0100593022F3E000", "metacritic": null},
-  {"title": "MIG Switch Game Collection Vol 2: сборник №2 из 250 игр для флеш-картриджа MIG Switch", "title_id": "0100749009844000", "metacritic": null},
-  {"title": "Astrea Six Sided Oracles", "title_id": "010071401A274000", "metacritic": 85.0},
-  {"title": "Mostroscopy", "title_id": "010075801F788000", "metacritic": null},
-  {"title": "Teenage Mutant Ninja Turtles (TMNT) Splintered Fate + 5 DLC", "title_id": "01005CF01E784000", "metacritic": null}
+  {"title": "Mario Kart 8 Deluxe (MK8D) + DLC Booster Course Pass, волна 6", "title_id": "0100152000022000", "metacritic": 92.0}
 ]
