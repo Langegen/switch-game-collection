@@ -1,7 +1,13 @@
 # Downloaded temporary TitleDB & scraper databases
-US.en.json
-GB.en.json
-RU.ru.json
+*.en.json
+*.es.json
+*.fr.json
+*.de.json
+*.it.json
+*.pt.json
+*.zh.json
+*.ru.json
+*.ja.json
 switch_games.json
 
 # Python caches

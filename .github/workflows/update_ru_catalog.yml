@@ -1,4 +1,4 @@
-name: Daily Update Game Catalogs (RU & EN)
+name: Daily Update Game Catalogs (All Languages)
 
 on:
   schedule:
@@ -29,11 +29,11 @@ jobs:
       - name: Run RU catalog build script
         run: python scripts/build_ru_catalog.py
 
-      - name: Run EN catalog build script
-        run: python scripts/build_en_catalog.py
+      - name: Run Multi-Language Catalogs build script (EN, ES, FR, DE, IT, PT-BR, ZH-Hans)
+        run: python scripts/build_catalogs.py --lang all
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update RU_catalog.json & EN_catalog.json"
-          file_pattern: "RU_catalog.json EN_catalog.json scripts/translations_cache.json"
+          commit_message: "Auto-update all localized game catalogs"
+          file_pattern: "*_catalog.json scripts/translations_cache*.json"

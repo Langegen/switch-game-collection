@@ -6,14 +6,20 @@
 
 ---
 
-## 🎮 Полные каталоги игр (RU & EN)
+## 🎮 Полные каталоги игр (8 языков)
 
-Полные реестры всех доступных игр для Nintendo Switch (более 7,000 игр), готовые для интеграции в сторонние приложения, боты и веб-каталоги. Оба файла имеют **100% идентичную структуру и порядок элементов**:
+Полные реестры всех доступных игр для Nintendo Switch (более 7,000 игр), готовые для интеграции в сторонние приложения, боты и веб-каталоги. Все файлы имеют **100% идентичную структуру, порядок элементов и сопоставление раздач 1:1**:
 
-| Файл | Язык | Описание |
-| :--- | :---: | :--- |
-| 🇷🇺 [`RU_catalog.json`](./RU_catalog.json) | Русский | Полный каталог со всеми характеристиками, описаниями и скриншотами на русском языке |
-| 🇬🇧 [`EN_catalog.json`](./EN_catalog.json) | English | Полная англоязычная копия каталога с официальными описаниями eShop, скриншотами и переведёнными метаданными |
+| Файл | Язык | Код | Описание |
+| :--- | :---: | :---: | :--- |
+| 🇷🇺 [`RU_catalog.json`](./RU_catalog.json) | Русский | `ru` | Полный каталог со всеми характеристиками, описаниями и скриншотами на русском языке |
+| 🇬🇧 [`EN_catalog.json`](./EN_catalog.json) | English | `en` | Полная англоязычная копия каталога с официальными описаниями eShop и переведёнными метаданными |
+| 🇪🇸 [`ES_catalog.json`](./ES_catalog.json) | Español | `es` | Полный каталог на испанском языке (официальные описания eShop ES/MX) |
+| 🇫🇷 [`FR_catalog.json`](./FR_catalog.json) | Français | `fr` | Полный каталог на французском языке (официальные описания eShop FR/CA) |
+| 🇩🇪 [`DE_catalog.json`](./DE_catalog.json) | Deutsch | `de` | Полный каталог на немецком языке (официальные описания eShop DE/AT) |
+| 🇮🇹 [`IT_catalog.json`](./IT_catalog.json) | Italiano | `it` | Полный каталог на итальянском языке (официальные описания eShop IT) |
+| 🇧🇷 [`PT_BR_catalog.json`](./PT_BR_catalog.json) | Português (Brasil) | `pt-BR` | Полный каталог на бразильском португальском языке (официальные описания eShop BR/PT) |
+| 🇨🇳 [`ZH_Hans_catalog.json`](./ZH_Hans_catalog.json) | 简体中文 | `zh-Hans` | Полный каталог на упрощённом китайском языке (официальные описания eShop CN/HK) |
 
 ### Формат данных каталогов:
 ```json
@@ -71,10 +77,10 @@
 
 ## 🤖 Автообновление (GitHub Actions)
 
-1. **Обновление каталогов (`RU_catalog.json` & `EN_catalog.json`)**:
+1. **Обновление всех каталогов (`*_catalog.json`)**:
    - **Workflow**: [`.github/workflows/update_ru_catalog.yml`](./.github/workflows/update_ru_catalog.yml)
    - **Расписание**: Каждый день в **09:00 UTC**.
-   - **Скрипты**: [`build_ru_catalog.py`](./scripts/build_ru_catalog.py) и [`build_en_catalog.py`](./scripts/build_en_catalog.py). Оба каталога синхронно обновляются и сопоставляются 1:1.
+   - **Скрипты**: [`build_ru_catalog.py`](./scripts/build_ru_catalog.py) и [`build_catalogs.py`](./scripts/build_catalogs.py). Все 8 языковых каталогов синхронно обновляются и сопоставляются 1:1.
 
 2. **Обновление новых релизов (`new_release.json`)**:
    - **Workflow**: [`.github/workflows/update_new_release.yml`](./.github/workflows/update_new_release.yml)
@@ -87,4 +93,4 @@
 
 - **База релизов & Title ID**: [`switch_games.json`](https://raw.githubusercontent.com/Langegen/switch-games/refs/heads/main/switch_games.json)
 - **Оценки Metacritic**: [`nintendolife_switch_games_with_metacritic.csv`](https://raw.githubusercontent.com/texboy/switch-games-dasboard/refs/heads/main/nintendolife_switch_games_with_metacritic.csv)
-- **Категории eShop & Описания**: [`blawar/titledb`](https://github.com/blawar/titledb) (`RU.ru.json`, `US.en.json`, `GB.en.json`)
+- **Категории eShop & Описания**: [`blawar/titledb`](https://github.com/blawar/titledb) (`RU.ru.json`, `US.en.json`, `GB.en.json`, `ES.es.json`, `MX.es.json`, `FR.fr.json`, `CA.fr.json`, `DE.de.json`, `AT.de.json`, `IT.it.json`, `BR.pt.json`, `PT.pt.json`, `CN.zh.json`, `HK.zh.json`)
