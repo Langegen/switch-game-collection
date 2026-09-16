@@ -1,6 +1,11 @@
 [
+  {"title": "22 судоку (Sudoku Relax, Universe, Master, Zenkai, Classic, Grandmaster и др.) + игры Nikoli S", "title_id": "01001D8020AEC000", "metacritic": null},
+  {"title": "Hyperdimension Neptunia Unlimited / 超新時空ゲイム ネプテューヌ∞", "title_id": "01005A901EE3E000", "metacritic": null},
+  {"title": "Grand Theft Auto V (порт GTA 5, репак)", "title_id": "0100B00B51230000", "metacritic": null},
   {"title": "Final Fantasy Resonance (демонстрационная версия)", "title_id": "0100517027E86000", "metacritic": null},
-  {"title": "Guts 'n Grunts / Jr. / Sr. / Buck Blastem", "title_id": "01009B7027934000", "metacritic": null},
+  {"title": "Anvil Saga", "title_id": "0100FC001ACE0000", "metacritic": null},
+  {"title": "Guts 'n Grunts / Jr. / Sr. / Buck Blastem / Cave Ranger", "title_id": "01009B7027934000", "metacritic": null},
+  {"title": "Goodnight Universe", "title_id": "0100D0902359C000", "metacritic": 83.0},
   {"title": "Senren Banka", "title_id": "01005F80166FA000", "metacritic": null},
   {"title": "Steins Gate Re Boot (Reboot)", "title_id": "01008BC024FDE000", "metacritic": null},
   {"title": "Dustland Delivery + DLC Sheol", "title_id": "01002290253B4000", "metacritic": null},
@@ -22,7 +27,6 @@
   {"title": "The Noexistencen of You and Me", "title_id": "0100C55026EF6000", "metacritic": null},
   {"title": "Resonant Blade", "title_id": "0100CBC027D92000", "metacritic": null},
   {"title": "Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD", "title_id": "010040B0270A2000", "metacritic": 86.0},
-  {"title": "Grand Theft Auto V (порт GTA 5)", "title_id": "0100B00B51230000", "metacritic": null},
   {"title": "Tiebreak Plus Ace edition (Tie-Break, теннис)", "title_id": "010008301AA96000", "metacritic": null},
   {"title": "Earth Must Die", "title_id": "0100CB0027CEE000", "metacritic": null},
   {"title": "Barbarian Saga the Beastmaster", "title_id": "01002AD01BEB0000", "metacritic": null},
@@ -33,8 +37,5 @@
   {"title": "Wingspan + 8 DLC", "title_id": "0100E05011350000", "metacritic": 78.0},
   {"title": "Terraformers + 3 DLC", "title_id": "0100C1B01872A000", "metacritic": 80.0},
   {"title": "Manafinder (Mana Finder)", "title_id": "0100253027088000", "metacritic": null},
-  {"title": "Popucom + 2 DLC", "title_id": "0100C8D01F9FA000", "metacritic": 83.0},
-  {"title": "Ys vs. Trails in the Sky Alternative Saga", "title_id": "010033001F050000", "metacritic": 83.0},
-  {"title": "Clover Pit Unholy edition (CloverPit)", "title_id": "0100ABA02501A000", "metacritic": null},
-  {"title": "Tavern Talk 1-2 Stories Dreamwalker + DLC", "title_id": "01009A0024398000", "metacritic": 80.0}
+  {"title": "Popucom + 2 DLC", "title_id": "0100C8D01F9FA000", "metacritic": 83.0}
 ]
