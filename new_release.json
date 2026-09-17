@@ -1,4 +1,8 @@
 [
+  {"title": "Cemu NX: эмулятор Nintendo Wii U + игра DuckTales Remastered (Duck Tales / Утиные истории)", "title_id": "01007D5508F1D000", "metacritic": null},
+  {"title": "DC Super Hero Girls Teen Power", "title_id": "0100F8F00C4F2000", "metacritic": 66.0},
+  {"title": "Tales of Berseria Remastered + 11 DLC", "title_id": "0100E0D01F224000", "metacritic": null},
+  {"title": "Nova Hearts", "title_id": "01002AF021C28000", "metacritic": null},
   {"title": "22 судоку (Sudoku Relax, Universe, Master, Zenkai, Classic, Grandmaster и др.) + игры Nikoli S", "title_id": "01001D8020AEC000", "metacritic": null},
   {"title": "Hyperdimension Neptunia Unlimited / 超新時空ゲイム ネプテューヌ∞", "title_id": "01005A901EE3E000", "metacritic": null},
   {"title": "Grand Theft Auto V (порт GTA 5, репак)", "title_id": "0100B00B51230000", "metacritic": null},
@@ -35,7 +39,5 @@
   {"title": "Terraria", "title_id": "0100E46006708000", "metacritic": 81.0},
   {"title": "Obakeidoro 2 Chase and Seek", "title_id": "010044D027C72000", "metacritic": null},
   {"title": "Wingspan + 8 DLC", "title_id": "0100E05011350000", "metacritic": 78.0},
-  {"title": "Terraformers + 3 DLC", "title_id": "0100C1B01872A000", "metacritic": 80.0},
-  {"title": "Manafinder (Mana Finder)", "title_id": "0100253027088000", "metacritic": null},
-  {"title": "Popucom + 2 DLC", "title_id": "0100C8D01F9FA000", "metacritic": 83.0}
+  {"title": "Terraformers + 3 DLC", "title_id": "0100C1B01872A000", "metacritic": 80.0}
 ]
