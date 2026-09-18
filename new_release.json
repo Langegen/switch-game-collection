@@ -1,4 +1,8 @@
 [
+  {"title": "Chronoquartz (Chrono Quartz)", "title_id": "010080202582E000", "metacritic": null},
+  {"title": "Mortal Glory 2 + DLC Reign of Tyrants", "title_id": "01000C3021F74000", "metacritic": null},
+  {"title": "Another Eden Begins", "title_id": "010015A027150000", "metacritic": null},
+  {"title": "Коллекция ShootEmUp аркад, 395 шт. (R-Type Final 2, Ikaruga, Zero Gunner 2, Sky Force Reloaded, Danmaku U3, PSYVARIAR, Devil Engine, R-Type D-EX, RXN Raijin, Ultionus, Pawarumi, Psikyo, Rive, Sine Mora EX, Gradius Origins, Do Don Pachi, Cotton Reboot и др.)", "title_id": "0100F930136B6000", "metacritic": 72.0},
   {"title": "Cemu NX: эмулятор Nintendo Wii U + игра DuckTales Remastered (Duck Tales / Утиные истории)", "title_id": "01007D5508F1D000", "metacritic": null},
   {"title": "DC Super Hero Girls Teen Power", "title_id": "0100F8F00C4F2000", "metacritic": 66.0},
   {"title": "Tales of Berseria Remastered + 11 DLC", "title_id": "0100E0D01F224000", "metacritic": null},
@@ -34,10 +38,5 @@
   {"title": "Tiebreak Plus Ace edition (Tie-Break, теннис)", "title_id": "010008301AA96000", "metacritic": null},
   {"title": "Earth Must Die", "title_id": "0100CB0027CEE000", "metacritic": null},
   {"title": "Barbarian Saga the Beastmaster", "title_id": "01002AD01BEB0000", "metacritic": null},
-  {"title": "Dungeon Antiqua 1-2", "title_id": "0100EB2027FB2000", "metacritic": null},
-  {"title": "Watermelon Game (スイカゲーム, 29 DLC) / Suika Planet + 3 DLC", "title_id": "0100800015926000", "metacritic": null},
-  {"title": "Terraria", "title_id": "0100E46006708000", "metacritic": 81.0},
-  {"title": "Obakeidoro 2 Chase and Seek", "title_id": "010044D027C72000", "metacritic": null},
-  {"title": "Wingspan + 8 DLC", "title_id": "0100E05011350000", "metacritic": 78.0},
-  {"title": "Terraformers + 3 DLC", "title_id": "0100C1B01872A000", "metacritic": 80.0}
+  {"title": "Dungeon Antiqua 1-2", "title_id": "0100EB2027FB2000", "metacritic": null}
 ]
