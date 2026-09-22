@@ -51,6 +51,34 @@
 
 ---
 
+## ⚡ Единый файл изменений за 72 часа ([`catalog_diff.json`](./catalog_diff.json))
+
+Для удобной инкрементальной синхронизации внешних приложений генерируется единый файл изменений со скользящим окном в **72 часа** (3 суток). Он содержит все новые раздачи, обновлённые темы (магнеты, размеры, описания) и удалённые раздачи за последние 72 часа для всех 8 языков:
+
+### Структура `catalog_diff.json`:
+```json
+{
+  "version": 1,
+  "generated_at": 1726992000,
+  "window_hours": 72,
+  "deleted_topic_ids": [
+    "6890123"
+  ],
+  "added_or_updated": {
+    "ru": [ ...игры за последние 72ч... ],
+    "en": [ ...игры за последние 72ч... ],
+    "es": [ ... ],
+    "fr": [ ... ],
+    "de": [ ... ],
+    "it": [ ... ],
+    "pt_br": [ ... ],
+    "zh_hans": [ ... ]
+  }
+}
+```
+
+---
+
 ## 📁 Подборки по жанрам
 
 Каждая подборка содержит **ровно 100 проверенных игр** (за исключением ежедневно автообновляемого файла свежих релизов):
@@ -77,10 +105,10 @@
 
 ## 🤖 Автообновление (GitHub Actions)
 
-1. **Обновление всех каталогов (`*_catalog.json`)**:
+1. **Обновление всех каталогов (`*_catalog.json`) и файла изменений (`catalog_diff.json`)**:
    - **Workflow**: [`.github/workflows/update_ru_catalog.yml`](./.github/workflows/update_ru_catalog.yml)
-   - **Расписание**: Каждый день в **09:00 UTC**.
-   - **Скрипты**: [`build_ru_catalog.py`](./scripts/build_ru_catalog.py) и [`build_catalogs.py`](./scripts/build_catalogs.py). Все 8 языковых каталогов синхронно обновляются и сопоставляются 1:1.
+   - **Расписание**: Каждые 4 часа, начиная с **01:00 МСК** (02:00, 06:00, 10:00, 14:00, 18:00, 22:00 UTC).
+   - **Скрипты**: [`build_ru_catalog.py`](./scripts/build_ru_catalog.py), [`build_catalogs.py`](./scripts/build_catalogs.py) и [`generate_catalog_diff.py`](./scripts/generate_catalog_diff.py). Все 8 языковых каталогов и скользящий дифф за 72 часа синхронно обновляются и сопоставляются 1:1.
 
 2. **Обновление новых релизов (`new_release.json`)**:
    - **Workflow**: [`.github/workflows/update_new_release.yml`](./.github/workflows/update_new_release.yml)

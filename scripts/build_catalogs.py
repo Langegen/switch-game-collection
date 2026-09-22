@@ -1238,6 +1238,15 @@ def main():
     for lang in languages:
         build_catalog_for_lang(lang)
 
+    if args.lang.lower() == "all":
+        try:
+            sys.path.insert(0, str(SCRIPTS_DIR))
+            from generate_catalog_diff import update_catalog_diff
+            print("\nUpdating unified 72-hour catalog diff (catalog_diff.json)...", flush=True)
+            update_catalog_diff()
+        except Exception as e:
+            print(f"Warning: Could not update catalog_diff.json: {e}", file=sys.stderr)
+
     print("\nAll requested catalogs built successfully!")
 
 

@@ -1,9 +1,9 @@
-name: Daily Update Game Catalogs (All Languages)
+name: Update Game Catalogs & 72h Diff (Every 4 Hours)
 
 on:
   schedule:
-    # Runs every day at 09:00 UTC (switch_games.json scraper starts at 06:00 UTC)
-    - cron: '0 9 * * *'
+    # Runs every 4 hours starting from 01:00 MSK / UTC+3 (02:00, 06:00, 10:00, 14:00, 18:00, 22:00 UTC)
+    - cron: '0 2,6,10,14,18,22 * * *'
   workflow_dispatch:
 
 permissions:
@@ -32,8 +32,12 @@ jobs:
       - name: Run Multi-Language Catalogs build script (EN, ES, FR, DE, IT, PT-BR, ZH-Hans)
         run: python scripts/build_catalogs.py --lang all
 
+      - name: Generate unified 72-hour catalog diff
+        run: python scripts/generate_catalog_diff.py
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update all localized game catalogs"
-          file_pattern: "*_catalog.json scripts/translations_cache*.json"
+          commit_message: "Auto-update localized game catalogs and 72h catalog diff"
+          file_pattern: "*_catalog.json catalog_diff.json diff_history.json scripts/translations_cache*.json"
+
