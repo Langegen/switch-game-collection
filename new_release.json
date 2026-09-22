@@ -1,12 +1,18 @@
 [
+  {"title": "Captain Tsubasa 2: World Fighters + 5 DLC", "title_id": "01009720213B0000", "metacritic": null},
+  {"title": "Realm of Ink", "title_id": "0100DE3026A54000", "metacritic": null},
+  {"title": "The Garden Path", "title_id": "010030F01A882000", "metacritic": null},
+  {"title": "Hello Kitty Island Adventure Deluxe edition + DLC The Tea Garden, City Town, Wheatflour Wonderland", "title_id": "010027901C89C000", "metacritic": 80.0},
+  {"title": "Aggelos 1-2", "title_id": "010004D00A9C0000", "metacritic": 79.0},
+  {"title": "Minecraft", "title_id": "0100D71004694000", "metacritic": 93.0},
   {"title": "The Lord of the Rings: War in the North Legacy edition (Властелин колец: Война на севере)", "title_id": "01004D501F078000", "metacritic": 81.0},
-  {"title": "No Man's Sky + 22 экспедиции", "title_id": "0100853015E86000", "metacritic": 71.0},
+  {"title": "No Man's Sky + 23 экспедиции", "title_id": "0100853015E86000", "metacritic": 71.0},
   {"title": "Mini Metro / Mini Motorways", "title_id": "01000D3015088000", "metacritic": 87.0},
   {"title": "Culdcept Begins", "title_id": "01004F4024504000", "metacritic": null},
   {"title": "Absolum", "title_id": "0100A83022A22000", "metacritic": 86.0},
   {"title": "The Rogue Prince of Persia", "title_id": "01008D9022462000", "metacritic": 80.0},
   {"title": "Astroneer + DLC Megatech, Glitchwalkers", "title_id": "0100E63013E60000", "metacritic": 71.0},
-  {"title": "Disgaea Mayhem", "title_id": "01001B0027758000", "metacritic": null},
+  {"title": "Disgaea Mayhem + 3 DLC", "title_id": "01001B0027758000", "metacritic": null},
   {"title": "Dungeon Clawler", "title_id": "0100A500257A4000", "metacritic": null},
   {"title": "Fate Reawakened (Prometheus, Undiscovered Realms, The Traitor Soul, The Cursed King)", "title_id": "0100B5C01F99C000", "metacritic": null},
   {"title": "Marsupilami 2 Salsa Palombia", "title_id": "01000990277CA000", "metacritic": null},
@@ -34,9 +40,5 @@
   {"title": "Final Fantasy Resonance (демонстрационная версия)", "title_id": "0100517027E86000", "metacritic": null},
   {"title": "Anvil Saga", "title_id": "0100FC001ACE0000", "metacritic": null},
   {"title": "Guts 'n Grunts / Jr. / Sr. / Buck Blastem / Cave Ranger", "title_id": "01009B7027934000", "metacritic": null},
-  {"title": "Goodnight Universe", "title_id": "0100D0902359C000", "metacritic": 83.0},
-  {"title": "Senren Banka", "title_id": "01005F80166FA000", "metacritic": null},
-  {"title": "Steins Gate Re Boot (Reboot)", "title_id": "01008BC024FDE000", "metacritic": null},
-  {"title": "Dustland Delivery + DLC Sheol", "title_id": "01002290253B4000", "metacritic": null},
-  {"title": "Vampire Survivors (VS) First Survivaton + DLC Legacy of the Bloodmoon, Ante Chamber, Emerald Diorama, Ode to Castlevania, Operation Guns, Emergency Meeting, Legacy of the Moonspell, Tides of the Foscari", "title_id": "010089A0197E5000", "metacritic": 86.0}
+  {"title": "Goodnight Universe", "title_id": "0100D0902359C000", "metacritic": 83.0}
 ]
