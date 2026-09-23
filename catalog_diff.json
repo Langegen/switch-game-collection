@@ -1,10 +1,37 @@
 {
   "version": 1,
-  "generated_at": 1790175237,
+  "generated_at": 1790198820,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
     "ru": [
+      {
+        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
+        "size": "357 MB",
+        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "5677550",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
+        "year": "2018, август",
+        "genre": "Puzzle, Simulation, Education",
+        "developer": "Dinosaur Polo Club",
+        "publisher": "Radial Games",
+        "image_format": ".NSZ (сжато ~33%, установленный объём 0.21 ГБ)",
+        "interface_lang": "Русский, Английский [RUS / ENG / Multi 11]",
+        "voice_lang": "нет",
+        "performance": "Да (на 15.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "до 4 человек",
+        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
+        ],
+        "description": "Mini Motorways — это игра от создателей Mini Metro по развитию дорожной сети растущего города. Проводите дороги, одну за другой, чтобы создать настоящий мегаполис. Перепланируйте город в соответствии с меняющимися городскими условиями так, чтобы не было пробок. Проверьте, как долго вам удастся поддерживать движение.\n\nОСОБЕННОСТИ\n• Проводите дороги в динамично растущих городах — каждая игра уникальна!\n• Исследуйте замечательные карты, созданные на основе городов со всего мира.\n• Выбирайте из множества вариантов обновлений постоянно растущей дорожной сети: шоссе, круги и др.!\n• В спокойном бесконечном режиме вам предлагается расслабляющий геймплей, а также возможность продолжить строительство города после окончания игры.\n• Примите главный вызов в нашем новом режиме эксперта с такими неожиданными ходами, как постоянные дороги и ограниченные обновления.\n• Выбирайте различные цветовые режимы на каждой карте, включая ночной режим и режим дальтонизма.\n• Расслабляйтесь под саундтрек от Disasterpeace, усиливающийся вместе с ростом города.\n• Открывайте новые карты и достижения по мере роста мастерства.\n• Соревнуйтесь с другими игроками в ежедневных и еженедельных челленджах.",
+        "title_id": "01000D3015088000"
+      },
       {
         "title": "GunGunGun / Gun Kid 99 [NSZ][ENG]",
         "size": "273.3 MB",
@@ -812,33 +839,6 @@
         "title_id": "0100D71004694000"
       },
       {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, август",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Radial Games",
-        "image_format": ".NSZ (сжато ~33%, установленный объём 0.21 ГБ)",
-        "interface_lang": "Русский, Английский [RUS / ENG / Multi 11]",
-        "voice_lang": "нет",
-        "performance": "Да (на 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "до 4 человек",
-        "cover": "https://i106.fastpic.ru/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Mini Motorways — это игра от создателей Mini Metro по развитию дорожной сети растущего города. Проводите дороги, одну за другой, чтобы создать настоящий мегаполис. Перепланируйте город в соответствии с меняющимися городскими условиями так, чтобы не было пробок. Проверьте, как долго вам удастся поддерживать движение.\n\nОСОБЕННОСТИ\n• Проводите дороги в динамично растущих городах — каждая игра уникальна!\n• Исследуйте замечательные карты, созданные на основе городов со всего мира.\n• Выбирайте из множества вариантов обновлений постоянно растущей дорожной сети: шоссе, круги и др.!\n• В спокойном бесконечном режиме вам предлагается расслабляющий геймплей, а также возможность продолжить строительство города после окончания игры.\n• Примите главный вызов в нашем новом режиме эксперта с такими неожиданными ходами, как постоянные дороги и ограниченные обновления.\n• Выбирайте различные цветовые режимы на каждой карте, включая ночной режим и режим дальтонизма.\n• Расслабляйтесь под саундтрек от Disasterpeace, усиливающийся вместе с ростом города.\n• Открывайте новые карты и достижения по мере роста мастерства.\n• Соревнуйтесь с другими игроками в ежедневных и еженедельных челленджах.",
-        "title_id": "01000D3015088000"
-      },
-      {
         "title": "Reus 2 + DLC Ice Age [NSZ][RUS/Multi7]",
         "size": "786.7 MB",
         "magnet": "magnet:?xt=urn:btih:2278E2F76B2F4E323AF4D558CE476FEBAA1E1E63&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -1170,6 +1170,33 @@
       }
     ],
     "en": [
+      {
+        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
+        "size": "357 MB",
+        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "5677550",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
+        "year": "2018, August",
+        "genre": "Puzzle, Simulation, Education",
+        "developer": "Dinosaur Polo Club",
+        "publisher": "Dinosaur Polo Club",
+        "image_format": ".NSZ (compressed ~33%, installed size 0.21 GB)",
+        "interface_lang": "Russian, English [RUS / ENG / Multi 11]",
+        "voice_lang": "None",
+        "performance": "Yes (on 15.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "Up to 4 players",
+        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
+        ],
+        "description": "Have you ever been stuck in traffic and wished you could do something to fix it? In Mini Motorways, the city’s traffic problems are in your hands. \n\nFrom the makers of Mini Metro, Mini Motorways is a game about drawing the roads that drive a growing city. Build a road network, one road at a time, to create a bustling metropolis. Redesign your city to keep the traffic flowing, and carefully manage upgrades to meet the changing demands. How long can you keep the cities of the world moving?\n\nFeatures:\n\n• Draw roads in dynamic cities that grow and change - every game is unique!\n• Explore stunning maps inspired by cities all around the world.\n• Choose from a variety of upgrades to meet the demands of your ever-expanding road network: highways, roundabouts, and more!\n• Stress-free Endless Mode offers you a relaxing gameplay experience, plus you can continue building your city after Game Over.\n• Tackle our Expert Mode, which features twists such as permanent roads and limited upgrades for the ultimate challenge.\n• Select different colour palettes on every map including colourblind and night modes.\n• Relax to a responsive soundtrack from Disasterpeace that grows along with your city.\n• Unlock new maps as you achieve mastery. \n• Compete against other players in Daily and Weekly Challenges.",
+        "title_id": "01000D3015088000"
+      },
       {
         "title": "GunGunGun / Gun Kid 99 [NSZ][ENG]",
         "size": "273.3 MB",
@@ -1927,33 +1954,6 @@
         "title_id": "0100D71004694000"
       },
       {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, August",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (compressed ~33%, installed size 0.21 GB)",
-        "interface_lang": "Russian, English [RUS / ENG / Multi 11]",
-        "voice_lang": "None",
-        "performance": "Yes (on 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Up to 4 players",
-        "cover": "https://i106.fastpic.ru/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Have you ever been stuck in traffic and wished you could do something to fix it? In Mini Motorways, the city’s traffic problems are in your hands. \n\nFrom the makers of Mini Metro, Mini Motorways is a game about drawing the roads that drive a growing city. Build a road network, one road at a time, to create a bustling metropolis. Redesign your city to keep the traffic flowing, and carefully manage upgrades to meet the changing demands. How long can you keep the cities of the world moving?\n\nFeatures:\n\n• Draw roads in dynamic cities that grow and change - every game is unique!\n• Explore stunning maps inspired by cities all around the world.\n• Choose from a variety of upgrades to meet the demands of your ever-expanding road network: highways, roundabouts, and more!\n• Stress-free Endless Mode offers you a relaxing gameplay experience, plus you can continue building your city after Game Over.\n• Tackle our Expert Mode, which features twists such as permanent roads and limited upgrades for the ultimate challenge.\n• Select different colour palettes on every map including colourblind and night modes.\n• Relax to a responsive soundtrack from Disasterpeace that grows along with your city.\n• Unlock new maps as you achieve mastery. \n• Compete against other players in Daily and Weekly Challenges.",
-        "title_id": "01000D3015088000"
-      },
-      {
         "title": "Reus 2 + DLC Ice Age [NSZ][RUS/Multi7]",
         "size": "786.7 MB",
         "magnet": "magnet:?xt=urn:btih:2278E2F76B2F4E323AF4D558CE476FEBAA1E1E63&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -2261,6 +2261,33 @@
       }
     ],
     "es": [
+      {
+        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
+        "size": "357 MB",
+        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "5677550",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
+        "year": "2018, agosto",
+        "genre": "Puzzle, Simulation, Education",
+        "developer": "Dinosaur Polo Club",
+        "publisher": "Dinosaur Polo Club",
+        "image_format": ".NSZ (comprimido ~33%, tamaño instalado 0.21 GB)",
+        "interface_lang": "Ruso, Inglés [RUS / ENG / Multi 11]",
+        "voice_lang": "Ninguno",
+        "performance": "Sí (en 15.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "Hasta 4 jugadores",
+        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
+        ],
+        "description": "Seguro que más de una vez te has visto en un atasco interminable que te habría gustado solucionar. En Mini Motorways, el tráfico de la ciudad está en tus manos.\n\nMini Motorways, de los creadores de Mini Metro, es un juego en el que diseñas las vías de una ciudad en constante crecimiento. Crea las carreteras de la red una a una para conseguir una metrópolis dinámica. Rediseña la ciudad para que el tráfico fluya y gestiona cuidadosamente los nuevos recursos para satisfacer todas las necesidades de la ciudad. ¿Durante cuánto tiempo podrás mantener las ciudades del mundo en movimiento?\n\nCaracterísticas:\n・Dibuja carreteras en ciudades dinámicas que crecen y cambian, ¡cada partida es única!\n・Explora maravillosos mapas inspirados en ciudades de todo el mundo.\n・Elige entre una amplia gama de recursos para satisfacer las necesidades de una red vial en expansión: ¡autopistas, rotondas y mucho más!\n・ El Modo infinito, sin estrés, te ofrece una experiencia de juego relajante, además de poder seguir construyendo tu ciudad después de la finalización de la partida.\n・Afronta nuestro Modo experto, que incluye giros como carreteras permanentes y mejoras limitadas para lograr el máximo desafío.\n・Selecciona distintos modos de color en cada mapa, incluidos el modo nocturno y el modo para daltónicos\n・Relájate escuchando una banda sonora adaptable que crece con tu ciudad, creada por Disasterpeace.\n・Desbloquea nuevos mapas y logros a medida que vas mejorando.\n・Compite contra otros jugadores en los retos diarios y semanales.",
+        "title_id": "01000D3015088000"
+      },
       {
         "title": "GunGunGun / Gun Kid 99 [NSZ][ENG]",
         "size": "273.3 MB",
@@ -3018,33 +3045,6 @@
         "title_id": "0100D71004694000"
       },
       {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, agosto",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (comprimido ~33%, tamaño instalado 0.21 GB)",
-        "interface_lang": "Ruso, Inglés [RUS / ENG / Multi 11]",
-        "voice_lang": "Ninguno",
-        "performance": "Sí (en 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Hasta 4 jugadores",
-        "cover": "https://i106.fastpic.ru/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Seguro que más de una vez te has visto en un atasco interminable que te habría gustado solucionar. En Mini Motorways, el tráfico de la ciudad está en tus manos.\n\nMini Motorways, de los creadores de Mini Metro, es un juego en el que diseñas las vías de una ciudad en constante crecimiento. Crea las carreteras de la red una a una para conseguir una metrópolis dinámica. Rediseña la ciudad para que el tráfico fluya y gestiona cuidadosamente los nuevos recursos para satisfacer todas las necesidades de la ciudad. ¿Durante cuánto tiempo podrás mantener las ciudades del mundo en movimiento?\n\nCaracterísticas:\n・Dibuja carreteras en ciudades dinámicas que crecen y cambian, ¡cada partida es única!\n・Explora maravillosos mapas inspirados en ciudades de todo el mundo.\n・Elige entre una amplia gama de recursos para satisfacer las necesidades de una red vial en expansión: ¡autopistas, rotondas y mucho más!\n・ El Modo infinito, sin estrés, te ofrece una experiencia de juego relajante, además de poder seguir construyendo tu ciudad después de la finalización de la partida.\n・Afronta nuestro Modo experto, que incluye giros como carreteras permanentes y mejoras limitadas para lograr el máximo desafío.\n・Selecciona distintos modos de color en cada mapa, incluidos el modo nocturno y el modo para daltónicos\n・Relájate escuchando una banda sonora adaptable que crece con tu ciudad, creada por Disasterpeace.\n・Desbloquea nuevos mapas y logros a medida que vas mejorando.\n・Compite contra otros jugadores en los retos diarios y semanales.",
-        "title_id": "01000D3015088000"
-      },
-      {
         "title": "Reus 2 + DLC Ice Age [NSZ][RUS/Multi7]",
         "size": "786.7 MB",
         "magnet": "magnet:?xt=urn:btih:2278E2F76B2F4E323AF4D558CE476FEBAA1E1E63&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -3351,6 +3351,33 @@
       }
     ],
     "fr": [
+      {
+        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
+        "size": "357 MB",
+        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "5677550",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
+        "year": "2018, août",
+        "genre": "Puzzle, Simulation, Education",
+        "developer": "Dinosaur Polo Club",
+        "publisher": "Dinosaur Polo Club",
+        "image_format": ".NSZ (compressé ~33%, taille installée 0.21 GB)",
+        "interface_lang": "Russe, Anglais [RUS / ENG / Multi 11]",
+        "voice_lang": "Aucun",
+        "performance": "Oui (sur 15.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "Jusqu'à 4 joueurs",
+        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
+        ],
+        "description": "Vous avez déjà rêvé de redéfinir le paysage urbain de votre ville pour en finir avec les embouteillages? Mini Motorways est le jeu qu’il vous faut.\n\nConçu par le studio qui a créé Mini Metro, Mini Motorways est un jeu de construction des routes qui parcourent une ville en expansion. Construisez un réseau routier afin de concevoir une métropole effervescente. Faites en sorte que le trafic reste fluide, et gérez les améliorations avec précaution afin de répondre aux demandes de votre réseau. Combien de temps pourrez-vous garder les villes du monde en mouvement?\n\nCaractéristiques:\n・Dessinez des routes dans des villes dynamiques qui grandissent et changent continuellement. Chaque partie est unique!\n・Explorez de superbes cartes inspirées de villes du monde entier.\n・Choisissez parmi une variété de mises à niveau pour répondre aux exigences de votre réseau routier en constante expansion : autoroutes, ronds-points, et plus encore!\n・Le mode Sans fin vous offre une expérience de jeu relaxante et vous permet de continuer à développer votre ville après la fin du jeu.\n・Tentez notre mode Expert, qui propose des fonctionnalités comme les routes définitives et les améliorations limitées pour défi ultime.\n・Sélectionnez différentes palettes de couleurs sur chaque carte, y compris les modes daltonien et nuit.\n・Détendez-vous en écoutant une bande sonore réactive de Disasterpeace qui évolue en même temps que votre ville.\n・Débloquez de nouvelles cartes et des accomplissements au fur et à mesure de votre maîtrise du jeu.\n・Affrontez d'autres joueurs dans les défis quotidiens et hebdomadaires.",
+        "title_id": "01000D3015088000"
+      },
       {
         "title": "GunGunGun / Gun Kid 99 [NSZ][ENG]",
         "size": "273.3 MB",
@@ -4108,33 +4135,6 @@
         "title_id": "0100D71004694000"
       },
       {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, août",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (compressé ~33%, taille installée 0.21 GB)",
-        "interface_lang": "Russe, Anglais [RUS / ENG / Multi 11]",
-        "voice_lang": "Aucun",
-        "performance": "Oui (sur 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Jusqu'à 4 joueurs",
-        "cover": "https://i106.fastpic.ru/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Vous avez déjà rêvé de redéfinir le paysage urbain de votre ville pour en finir avec les embouteillages? Mini Motorways est le jeu qu’il vous faut.\n\nConçu par le studio qui a créé Mini Metro, Mini Motorways est un jeu de construction des routes qui parcourent une ville en expansion. Construisez un réseau routier afin de concevoir une métropole effervescente. Faites en sorte que le trafic reste fluide, et gérez les améliorations avec précaution afin de répondre aux demandes de votre réseau. Combien de temps pourrez-vous garder les villes du monde en mouvement?\n\nCaractéristiques:\n・Dessinez des routes dans des villes dynamiques qui grandissent et changent continuellement. Chaque partie est unique!\n・Explorez de superbes cartes inspirées de villes du monde entier.\n・Choisissez parmi une variété de mises à niveau pour répondre aux exigences de votre réseau routier en constante expansion : autoroutes, ronds-points, et plus encore!\n・Le mode Sans fin vous offre une expérience de jeu relaxante et vous permet de continuer à développer votre ville après la fin du jeu.\n・Tentez notre mode Expert, qui propose des fonctionnalités comme les routes définitives et les améliorations limitées pour défi ultime.\n・Sélectionnez différentes palettes de couleurs sur chaque carte, y compris les modes daltonien et nuit.\n・Détendez-vous en écoutant une bande sonore réactive de Disasterpeace qui évolue en même temps que votre ville.\n・Débloquez de nouvelles cartes et des accomplissements au fur et à mesure de votre maîtrise du jeu.\n・Affrontez d'autres joueurs dans les défis quotidiens et hebdomadaires.",
-        "title_id": "01000D3015088000"
-      },
-      {
         "title": "Reus 2 + DLC Ice Age [NSZ][RUS/Multi7]",
         "size": "786.7 MB",
         "magnet": "magnet:?xt=urn:btih:2278E2F76B2F4E323AF4D558CE476FEBAA1E1E63&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -4441,6 +4441,33 @@
       }
     ],
     "de": [
+      {
+        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
+        "size": "357 MB",
+        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "5677550",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
+        "year": "2018, August",
+        "genre": "Puzzle, Simulation, Education",
+        "developer": "Dinosaur Polo Club",
+        "publisher": "Dinosaur Polo Club",
+        "image_format": ".NSZ (komprimiert ~33%, installierte Größe 0.21 GB)",
+        "interface_lang": "Russisch, Englisch [RUS / ENG / Multi 11]",
+        "voice_lang": "Keine",
+        "performance": "Ja (auf 15.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "Bis zu 4 Spieler",
+        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
+        ],
+        "description": "Du kennst das: Du steckst mal wieder im Stau fest und fragst dich genervt, warum es bei so vielen Fahrzeugen für diese Fahrtrichtung nur eine Spur gibt. Du hättest das natürlich besser gelöst, aber dich fragt ja keiner … \n\nDoch das ändert sich genau jetzt! In Mini Motorways von den Machern von Mini Metro liegt die Verkehrsplanung der Stadt komplett in deinen Händen. Deine Aufgabe: Errichte Schritt für Schritt ein Straßennetz, das dem Verkehrsaufkommen einer echten Metropole standhalten kann, und nutze Upgrades mit Bedacht, um ständig wechselnde Bedingungen zu meistern. Na, wie lange hältst du die Stadt in Bewegung?\n\nDiese Features erwarten dich:\n\n• Zeichnet Straßen in dynamischen Städten, die wachsen und sich verändern – jedes Spiel ist einzigartig!\n• Entdeckt atemberaubende Karten, die von Städten auf der ganzen Welt inspiriert sind.\n• Wählt aus einer Vielzahl von Upgrades, um den Anforderungen deines ständig wachsenden Straßennetzes gerecht zu werden: Autobahnen, Kreisverkehre und mehr!\n• Mit dem stressfreien Endlosmodus kannst du entspannt spielen und nach einem Game Over einfach deine Stadt weiterbauen.\n• Probiere unseren Expertenmodus aus, der Funktionen wie dauerhafte Straßen und eingeschränkte Upgrades als ultimative Herausforderung enthält.\n• Wählt verschiedene Farbpaletten auf jeder Karte, einschließlich Farbenblindheit und Nachtmodus.\n• Entspannt euch zu einem ansprechenden Soundtrack von Disasterpeace, der mit eurer Stadt mitwächst.\n• Schaltet neue Karten frei, wenn ihr sie meistert.\n• Tretet gegen andere Spieler in täglichen und wöchentlichen Herausforderungen an.",
+        "title_id": "01000D3015088000"
+      },
       {
         "title": "GunGunGun / Gun Kid 99 [NSZ][ENG]",
         "size": "273.3 MB",
@@ -5198,33 +5225,6 @@
         "title_id": "0100D71004694000"
       },
       {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, August",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (komprimiert ~33%, installierte Größe 0.21 GB)",
-        "interface_lang": "Russisch, Englisch [RUS / ENG / Multi 11]",
-        "voice_lang": "Keine",
-        "performance": "Ja (auf 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Bis zu 4 Spieler",
-        "cover": "https://i106.fastpic.ru/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Du kennst das: Du steckst mal wieder im Stau fest und fragst dich genervt, warum es bei so vielen Fahrzeugen für diese Fahrtrichtung nur eine Spur gibt. Du hättest das natürlich besser gelöst, aber dich fragt ja keiner … \n\nDoch das ändert sich genau jetzt! In Mini Motorways von den Machern von Mini Metro liegt die Verkehrsplanung der Stadt komplett in deinen Händen. Deine Aufgabe: Errichte Schritt für Schritt ein Straßennetz, das dem Verkehrsaufkommen einer echten Metropole standhalten kann, und nutze Upgrades mit Bedacht, um ständig wechselnde Bedingungen zu meistern. Na, wie lange hältst du die Stadt in Bewegung?\n\nDiese Features erwarten dich:\n\n• Zeichnet Straßen in dynamischen Städten, die wachsen und sich verändern – jedes Spiel ist einzigartig!\n• Entdeckt atemberaubende Karten, die von Städten auf der ganzen Welt inspiriert sind.\n• Wählt aus einer Vielzahl von Upgrades, um den Anforderungen deines ständig wachsenden Straßennetzes gerecht zu werden: Autobahnen, Kreisverkehre und mehr!\n• Mit dem stressfreien Endlosmodus kannst du entspannt spielen und nach einem Game Over einfach deine Stadt weiterbauen.\n• Probiere unseren Expertenmodus aus, der Funktionen wie dauerhafte Straßen und eingeschränkte Upgrades als ultimative Herausforderung enthält.\n• Wählt verschiedene Farbpaletten auf jeder Karte, einschließlich Farbenblindheit und Nachtmodus.\n• Entspannt euch zu einem ansprechenden Soundtrack von Disasterpeace, der mit eurer Stadt mitwächst.\n• Schaltet neue Karten frei, wenn ihr sie meistert.\n• Tretet gegen andere Spieler in täglichen und wöchentlichen Herausforderungen an.",
-        "title_id": "01000D3015088000"
-      },
-      {
         "title": "Reus 2 + DLC Ice Age [NSZ][RUS/Multi7]",
         "size": "786.7 MB",
         "magnet": "magnet:?xt=urn:btih:2278E2F76B2F4E323AF4D558CE476FEBAA1E1E63&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -5532,6 +5532,33 @@
       }
     ],
     "it": [
+      {
+        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
+        "size": "357 MB",
+        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "5677550",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
+        "year": "2018, agosto",
+        "genre": "Puzzle, Simulation, Education",
+        "developer": "Dinosaur Polo Club",
+        "publisher": "Dinosaur Polo Club",
+        "image_format": ".NSZ (compresso ~33%, dimensione installata 0.21 GB)",
+        "interface_lang": "Russo, Inglese [RUS / ENG / Multi 11]",
+        "voice_lang": "Nessuno",
+        "performance": "Sì (su 15.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "Fino a 4 giocatori",
+        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
+        ],
+        "description": "Ti è mai capitato di ritrovarti in un ingorgo, desiderando di poter fare qualcosa per risolvere la situazione? In Mini Motorways i problemi di traffico della città sono nelle tue mani.\n\nDai creatori di Mini Metro, Mini Motorways è un gioco in cui dovrai progettare delle strade che facciano muovere una città in crescita. Costruisci una rete stradale, una strada alla volta, per creare una vivace metropoli. Ridefinisci la tua città per mantenere il traffico scorrevole e gestisci con attenzione le migliorie per soddisfare le mutevoli esigenze. Per quanto tempo riuscirai a mantenere in movimento le città del mondo?\n\nCaratteristiche:\n\n• Progetta le strade di città dinamiche in rapida crescita: ogni partita è diversa da quella precedente!\n• Esplora stupende mappe ispirate a città di tutto il mondo.\n• Scegli tra diverse risorse per soddisfare le esigenze della tua rete stradale in continua espansione: autostrade, rotatorie e altro ancora!\n• La modalità Infinita ti libera dallo stress, facendoti giocare in relax. In più, potrai continuare a costruire la tua città anche dopo la fine del gioco.\n• Prova la modalità Esperto: troverai colpi di scena come le strade permanenti e gli upgrade limitati, per una sfida da urlo.\n• Seleziona modalità di colore diverse per ogni mappa, come la modalità per daltonici e quella notturna.\n• Rilassati con una colonna sonora reattiva che cresce con la tua città, firmata da Disasterpeace.\n• Sblocca nuove mappe e obiettivi man mano che ti perfezioni.\n• Esporta GIF delle tue creazioni per condividerle con i tuoi amici.\n• Confrontati con gli altri giocatori nelle sfide giornaliere e settimanali.",
+        "title_id": "01000D3015088000"
+      },
       {
         "title": "GunGunGun / Gun Kid 99 [NSZ][ENG]",
         "size": "273.3 MB",
@@ -6289,33 +6316,6 @@
         "title_id": "0100D71004694000"
       },
       {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, agosto",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (compresso ~33%, dimensione installata 0.21 GB)",
-        "interface_lang": "Russo, Inglese [RUS / ENG / Multi 11]",
-        "voice_lang": "Nessuno",
-        "performance": "Sì (su 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Fino a 4 giocatori",
-        "cover": "https://i106.fastpic.ru/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Ti è mai capitato di ritrovarti in un ingorgo, desiderando di poter fare qualcosa per risolvere la situazione? In Mini Motorways i problemi di traffico della città sono nelle tue mani.\n\nDai creatori di Mini Metro, Mini Motorways è un gioco in cui dovrai progettare delle strade che facciano muovere una città in crescita. Costruisci una rete stradale, una strada alla volta, per creare una vivace metropoli. Ridefinisci la tua città per mantenere il traffico scorrevole e gestisci con attenzione le migliorie per soddisfare le mutevoli esigenze. Per quanto tempo riuscirai a mantenere in movimento le città del mondo?\n\nCaratteristiche:\n\n• Progetta le strade di città dinamiche in rapida crescita: ogni partita è diversa da quella precedente!\n• Esplora stupende mappe ispirate a città di tutto il mondo.\n• Scegli tra diverse risorse per soddisfare le esigenze della tua rete stradale in continua espansione: autostrade, rotatorie e altro ancora!\n• La modalità Infinita ti libera dallo stress, facendoti giocare in relax. In più, potrai continuare a costruire la tua città anche dopo la fine del gioco.\n• Prova la modalità Esperto: troverai colpi di scena come le strade permanenti e gli upgrade limitati, per una sfida da urlo.\n• Seleziona modalità di colore diverse per ogni mappa, come la modalità per daltonici e quella notturna.\n• Rilassati con una colonna sonora reattiva che cresce con la tua città, firmata da Disasterpeace.\n• Sblocca nuove mappe e obiettivi man mano che ti perfezioni.\n• Esporta GIF delle tue creazioni per condividerle con i tuoi amici.\n• Confrontati con gli altri giocatori nelle sfide giornaliere e settimanali.",
-        "title_id": "01000D3015088000"
-      },
-      {
         "title": "Reus 2 + DLC Ice Age [NSZ][RUS/Multi7]",
         "size": "786.7 MB",
         "magnet": "magnet:?xt=urn:btih:2278E2F76B2F4E323AF4D558CE476FEBAA1E1E63&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -6623,6 +6623,33 @@
       }
     ],
     "pt_br": [
+      {
+        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
+        "size": "357 MB",
+        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "5677550",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
+        "year": "2018, agosto",
+        "genre": "Puzzle, Simulation, Education",
+        "developer": "Dinosaur Polo Club",
+        "publisher": "Dinosaur Polo Club",
+        "image_format": ".NSZ (compactado ~33%, tamanho instalado 0.21 GB)",
+        "interface_lang": "Russo, Inglês [RUS / ENG / Multi 11]",
+        "voice_lang": "Nenhum",
+        "performance": "Sim (no 15.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "Até 4 jogadores",
+        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
+        ],
+        "description": "Já ficou preso no trânsito e desejou que pudesse fazer algo para resolver o problema? Em Mini Motorways, os problemas do trânsito da cidade estão nas suas mãos.\n\nDos criadores do Mini Metro, Mini Motorways é um jogo em que você desenha as ruas que movem uma cidade em expansão. Construa uma malha viária, uma rua de cada vez, para criar uma metrópole movimentada. Refaça o projeto da cidade para manter o fluxo do tráfego e gerencie as modificações com cuidado para atender às demandas em constante mudança. Por quanto tempo você consegue manter as cidades do mundo em movimento?\n\nCaracterísticas:\n\n• Desenhe estradas em cidades dinâmicas que crescem e se modificam - cada jogo é único!\n• Explore mapas impressionantes inspirados em cidades de todo o mundo.\n• Escolha entre uma variedade de upgrades para atender às demandas da sua rede de estradas em constante transformação: autoestradas, rotatórias e muito mais!\n• O modo Infinito e sem estresse oferece uma experiência de jogo relaxante, e você ainda pode continuar construindo sua cidade mesmo após o Fim de Jogo.\n• Experimente nosso modo Expert, que oferece reviravoltas como estradas permanentes e upgrades limitados para o máximo desafio.\n• Selecione diversas paletas de cores em todos os mapas, inclusive com os modos daltônico e noturno.\n• Relaxe com uma trilha sonora responsiva de Disasterpeace, que cresce com sua cidade.\n• Libere novos mapas e novas conquistas à medida que alcança o domínio.\n• Participe de competições com outros jogadores em desafios diários e semanais.",
+        "title_id": "01000D3015088000"
+      },
       {
         "title": "GunGunGun / Gun Kid 99 [NSZ][ENG]",
         "size": "273.3 MB",
@@ -7380,33 +7407,6 @@
         "title_id": "0100D71004694000"
       },
       {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, agosto",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (compactado ~33%, tamanho instalado 0.21 GB)",
-        "interface_lang": "Russo, Inglês [RUS / ENG / Multi 11]",
-        "voice_lang": "Nenhum",
-        "performance": "Sim (no 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Até 4 jogadores",
-        "cover": "https://i106.fastpic.ru/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Já ficou preso no trânsito e desejou que pudesse fazer algo para resolver o problema? Em Mini Motorways, os problemas do trânsito da cidade estão nas suas mãos.\n\nDos criadores do Mini Metro, Mini Motorways é um jogo em que você desenha as ruas que movem uma cidade em expansão. Construa uma malha viária, uma rua de cada vez, para criar uma metrópole movimentada. Refaça o projeto da cidade para manter o fluxo do tráfego e gerencie as modificações com cuidado para atender às demandas em constante mudança. Por quanto tempo você consegue manter as cidades do mundo em movimento?\n\nCaracterísticas:\n\n• Desenhe estradas em cidades dinâmicas que crescem e se modificam - cada jogo é único!\n• Explore mapas impressionantes inspirados em cidades de todo o mundo.\n• Escolha entre uma variedade de upgrades para atender às demandas da sua rede de estradas em constante transformação: autoestradas, rotatórias e muito mais!\n• O modo Infinito e sem estresse oferece uma experiência de jogo relaxante, e você ainda pode continuar construindo sua cidade mesmo após o Fim de Jogo.\n• Experimente nosso modo Expert, que oferece reviravoltas como estradas permanentes e upgrades limitados para o máximo desafio.\n• Selecione diversas paletas de cores em todos os mapas, inclusive com os modos daltônico e noturno.\n• Relaxe com uma trilha sonora responsiva de Disasterpeace, que cresce com sua cidade.\n• Libere novos mapas e novas conquistas à medida que alcança o domínio.\n• Participe de competições com outros jogadores em desafios diários e semanais.",
-        "title_id": "01000D3015088000"
-      },
-      {
         "title": "Reus 2 + DLC Ice Age [NSZ][RUS/Multi7]",
         "size": "786.7 MB",
         "magnet": "magnet:?xt=urn:btih:2278E2F76B2F4E323AF4D558CE476FEBAA1E1E63&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -7714,6 +7714,33 @@
       }
     ],
     "zh_hans": [
+      {
+        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
+        "size": "357 MB",
+        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "5677550",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
+        "year": "2018, 8月",
+        "genre": "Puzzle, Simulation, Education",
+        "developer": "Dinosaur Polo Club",
+        "publisher": "Dinosaur Polo Club",
+        "image_format": ".NSZ (已压缩 ~33%, 安装大小 0.21 GB)",
+        "interface_lang": "俄语, 英语 [RUS / ENG / Multi 11]",
+        "voice_lang": "无",
+        "performance": "是 (在 15.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "最多 4 人",
+        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/a90631a61c3f9507db1ed5c7d7db1723f54e31e11916f80209bd18815aada52e.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/7e1cf0628cd3ae01ce9141adc8143412557276aad58f1d8891b291d299307fbc.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/130baa3abfd014cc42cafec856ba41602658178439c572d6708d19307af4de30.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/447d238a9b504ac18fed5d287f94390a531e8afa7e2278bb459795fd9b56da33.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/4a641b286bab459f1e310da6e2c61aabbd6a30cbbe1ee50460a229f59c48d51e.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6afe0b9c07bae43aae52b73e1d758603c2380a06440ecd38f4c941adbeafc5fc.jpg"
+        ],
+        "description": "塞車塞到動彈不得的痛苦，想必你也曾體會過，如果能改變這個情況那多好。在《迷你公路》(Mini Motorways)裡，你就可以妥善規劃城市的道路，疏導交通。\n\n這款遊戲由《迷你地鐵》的製作團隊開發。你將能親手「畫」出一條又一條道路，打造便捷的交通網。為了滿足城市的多變需求，你還須適時重新規劃，謹慎管理各項設施。不過，你能維持交通順暢多久呢？  \n\n遊戲特色：\n• 在不斷成長變化的城市中打造路網 - 每局遊戲都獨一無二！\n• 探索以世界各城市為底的美麗地圖。\n• 從多種升級中為持續擴張的路網挑出最需要的選項：高速公路、圓環和更多升級！\n• 無壓力的「無限模式」為你提供輕鬆的遊戲體驗，並且你還可以在遊戲結束後繼續建設你的城市。\n• 挑戰我們全新的「專家模式」，具有像永久性道路和有限升級的嶄新的變化，給你帶來終極挑戰。\n• 為地圖挑選不同的色調，包括色盲模式和深色模式。\n• 聆聽由 Disasterpeace 製作的音樂，隨著城市發展而有不同變化。\n• 解鎖新地圖和成就，打造厲害的路網吧。\n• 在每日和每周挑戰中與各路玩家較勁。",
+        "title_id": "01000D3015088000"
+      },
       {
         "title": "GunGunGun / Gun Kid 99 [NSZ][ENG]",
         "size": "273.3 MB",
@@ -8488,33 +8515,6 @@
         ],
         "description": "Minecraft 是放置方塊，並且出外冒險的遊戲。\n您可探索隨機產生的世界，也能搭造有意思的建物，從最簡單的家屋到最雄偉的城堡都能辦到。玩創造模式時會有無限資源可供運用，在生存模式中整個世界任您挖掘，並可打造武器和盔甲，擊退危險的生物。",
         "title_id": "0100D71004694000"
-      },
-      {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, 8月",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (已压缩 ~33%, 安装大小 0.21 GB)",
-        "interface_lang": "俄语, 英语 [RUS / ENG / Multi 11]",
-        "voice_lang": "无",
-        "performance": "是 (在 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "最多 4 人",
-        "cover": "https://i106.fastpic.ru/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/a90631a61c3f9507db1ed5c7d7db1723f54e31e11916f80209bd18815aada52e.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/7e1cf0628cd3ae01ce9141adc8143412557276aad58f1d8891b291d299307fbc.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/130baa3abfd014cc42cafec856ba41602658178439c572d6708d19307af4de30.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/447d238a9b504ac18fed5d287f94390a531e8afa7e2278bb459795fd9b56da33.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/4a641b286bab459f1e310da6e2c61aabbd6a30cbbe1ee50460a229f59c48d51e.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6afe0b9c07bae43aae52b73e1d758603c2380a06440ecd38f4c941adbeafc5fc.jpg"
-        ],
-        "description": "塞車塞到動彈不得的痛苦，想必你也曾體會過，如果能改變這個情況那多好。在《迷你公路》(Mini Motorways)裡，你就可以妥善規劃城市的道路，疏導交通。\n\n這款遊戲由《迷你地鐵》的製作團隊開發。你將能親手「畫」出一條又一條道路，打造便捷的交通網。為了滿足城市的多變需求，你還須適時重新規劃，謹慎管理各項設施。不過，你能維持交通順暢多久呢？  \n\n遊戲特色：\n• 在不斷成長變化的城市中打造路網 - 每局遊戲都獨一無二！\n• 探索以世界各城市為底的美麗地圖。\n• 從多種升級中為持續擴張的路網挑出最需要的選項：高速公路、圓環和更多升級！\n• 無壓力的「無限模式」為你提供輕鬆的遊戲體驗，並且你還可以在遊戲結束後繼續建設你的城市。\n• 挑戰我們全新的「專家模式」，具有像永久性道路和有限升級的嶄新的變化，給你帶來終極挑戰。\n• 為地圖挑選不同的色調，包括色盲模式和深色模式。\n• 聆聽由 Disasterpeace 製作的音樂，隨著城市發展而有不同變化。\n• 解鎖新地圖和成就，打造厲害的路網吧。\n• 在每日和每周挑戰中與各路玩家較勁。",
-        "title_id": "01000D3015088000"
       },
       {
         "title": "Reus 2 + DLC Ice Age [NSZ][RUS/Multi7]",
