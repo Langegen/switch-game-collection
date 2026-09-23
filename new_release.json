@@ -1,4 +1,7 @@
 [
+  {"title": "Artis Impact", "title_id": "01006DD02868A000", "metacritic": null},
+  {"title": "Core Keeper", "title_id": "010070201D1BA000", "metacritic": 85.0},
+  {"title": "Kingdom Two Crowns + DLC Call of Olympus + Norse Lands, Shogun, Dead Lands, Norse Lands / Kingdom Majestic: New Lands", "title_id": "01005EF003FF2000", "metacritic": 85.0},
   {"title": "Captain Tsubasa 2: World Fighters + 5 DLC", "title_id": "01009720213B0000", "metacritic": null},
   {"title": "Realm of Ink", "title_id": "0100DE3026A54000", "metacritic": null},
   {"title": "The Garden Path", "title_id": "010030F01A882000", "metacritic": null},
@@ -35,10 +38,5 @@
   {"title": "Tales of Berseria Remastered + 11 DLC", "title_id": "0100E0D01F224000", "metacritic": null},
   {"title": "Nova Hearts", "title_id": "01002AF021C28000", "metacritic": null},
   {"title": "22 судоку (Sudoku Relax, Universe, Master, Zenkai, Classic, Grandmaster и др.) + игры Nikoli S", "title_id": "01001D8020AEC000", "metacritic": null},
-  {"title": "Hyperdimension Neptunia Unlimited / 超新時空ゲイム ネプテューヌ∞", "title_id": "01005A901EE3E000", "metacritic": null},
-  {"title": "Grand Theft Auto V (порт GTA 5, репак)", "title_id": "0100B00B51230000", "metacritic": null},
-  {"title": "Final Fantasy Resonance (демонстрационная версия)", "title_id": "0100517027E86000", "metacritic": null},
-  {"title": "Anvil Saga", "title_id": "0100FC001ACE0000", "metacritic": null},
-  {"title": "Guts 'n Grunts / Jr. / Sr. / Buck Blastem / Cave Ranger", "title_id": "01009B7027934000", "metacritic": null},
-  {"title": "Goodnight Universe", "title_id": "0100D0902359C000", "metacritic": 83.0}
+  {"title": "Hyperdimension Neptunia Unlimited / 超新時空ゲイム ネプテューヌ∞", "title_id": "01005A901EE3E000", "metacritic": null}
 ]
