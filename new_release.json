@@ -1,4 +1,13 @@
 [
+  {"title": "Fate Reawakened (Prometheus, Undiscovered Realms, The Traitor Soul, The Cursed King)", "title_id": "0100B5C01F99C000", "metacritic": null},
+  {"title": "LEGO Party", "title_id": "0100A760232D3000", "metacritic": 81.0},
+  {"title": "Graveyard Keeper II (2) + DLC", "title_id": "0100005027A18000", "metacritic": 69.0},
+  {"title": "Monster Prom XXL / Prom 2 Monster Camp XXL / Prom 3 Monster Roadtrip XXL / 4 Monster Con XXL", "title_id": "010048701A9F8000", "metacritic": 73.0},
+  {"title": "GunGunGun / Gun Kid 99", "title_id": "0100B79014D66000", "metacritic": null},
+  {"title": "Potion Party", "title_id": "01000A4014596000", "metacritic": 62.0},
+  {"title": "A Tale for Anna", "title_id": "010032A01AACA000", "metacritic": null},
+  {"title": "Lord Ambermaze", "title_id": "0100E89026B82000", "metacritic": null},
+  {"title": "Well Dweller", "title_id": "0100217023F6C000", "metacritic": null},
   {"title": "Artis Impact", "title_id": "01006DD02868A000", "metacritic": null},
   {"title": "Core Keeper", "title_id": "010070201D1BA000", "metacritic": 85.0},
   {"title": "Kingdom Two Crowns + DLC Call of Olympus + Norse Lands, Shogun, Dead Lands, Norse Lands / Kingdom Majestic: New Lands", "title_id": "01005EF003FF2000", "metacritic": 85.0},
@@ -17,7 +26,6 @@
   {"title": "Astroneer + DLC Megatech, Glitchwalkers", "title_id": "0100E63013E60000", "metacritic": 71.0},
   {"title": "Disgaea Mayhem + 3 DLC", "title_id": "01001B0027758000", "metacritic": null},
   {"title": "Dungeon Clawler", "title_id": "0100A500257A4000", "metacritic": null},
-  {"title": "Fate Reawakened (Prometheus, Undiscovered Realms, The Traitor Soul, The Cursed King)", "title_id": "0100B5C01F99C000", "metacritic": null},
   {"title": "Marsupilami 2 Salsa Palombia", "title_id": "01000990277CA000", "metacritic": null},
   {"title": "Quest of Dungeons", "title_id": "01001DE005012000", "metacritic": 74.0},
   {"title": "The Legend of Heroes: Trails in the Sky 2nd Chapter Remake + 30 DLC", "title_id": "0100AD6029730000", "metacritic": null},
@@ -36,7 +44,5 @@
   {"title": "Cemu NX: эмулятор Nintendo Wii U + игра DuckTales Remastered (Duck Tales / Утиные истории)", "title_id": "01007D5508F1D000", "metacritic": null},
   {"title": "DC Super Hero Girls Teen Power", "title_id": "0100F8F00C4F2000", "metacritic": 66.0},
   {"title": "Tales of Berseria Remastered + 11 DLC", "title_id": "0100E0D01F224000", "metacritic": null},
-  {"title": "Nova Hearts", "title_id": "01002AF021C28000", "metacritic": null},
-  {"title": "22 судоку (Sudoku Relax, Universe, Master, Zenkai, Classic, Grandmaster и др.) + игры Nikoli S", "title_id": "01001D8020AEC000", "metacritic": null},
-  {"title": "Hyperdimension Neptunia Unlimited / 超新時空ゲイム ネプテューヌ∞", "title_id": "01005A901EE3E000", "metacritic": null}
+  {"title": "Nova Hearts", "title_id": "01002AF021C28000", "metacritic": null}
 ]
