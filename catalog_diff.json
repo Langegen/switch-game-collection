@@ -1,10 +1,37 @@
 {
   "version": 1,
-  "generated_at": 1790261642,
+  "generated_at": 1790285249,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
     "ru": [
+      {
+        "title": "Sega Genesis / Mega Drive: Nintendo Switch Online (официальные игры NSO) + 2 кастомных LFS-мода [NSZ][ENG]",
+        "size": "1.59 GB",
+        "magnet": "magnet:?xt=urn:btih:FA91F228654D6C7DC5C10FBACFE86642CE4478B1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6128064",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6128064",
+        "year": "2021, октябрь",
+        "genre": "Emulator",
+        "developer": "SEGA",
+        "publisher": "Nintendo",
+        "image_format": ".NSZ (сжато ~38%, установленный объём 0.21 ГБ)",
+        "interface_lang": "Английский [ENG]",
+        "voice_lang": "не озвучивается",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "до 2 игроков",
+        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6200c6afaeab359a7cb0d5ebebd88f03ccc95ffa2c9938a7132768d3c28fc4a1.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/ca1499817f2751606cd23295367bc4c3cd67b410270d0ea96dac2b066fb2e382.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/9f32e70266c1f71ea5b53dfe379d0da52173147ebc7f26b7f4413c2388e9c3d4.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/444e79188cc45f9fdd398cf0871b0a4c0fbf020d5286037b4b28df2dc822ce87.jpg"
+        ],
+        "description": "Получите доступ к растущей библиотеке 16-битной классики от SEGA на Nintendo Switch. Для пользования этим сервисом требуется платное членство Nintendo Switch Online + пакет расширения.\n\nИзбранные игры поддерживают онлайн-функции, так что вы сможете насладиться ими в компании друзей.\n\nВот частичный список доступных классических игр SEGA Mega Drive:\n\n•\tGolden Axe\n•\tStrider\n•\tMusha\n•\tShining Force\n•\tSonic The Hedgehog 2\n•\tDr. Robotnik's Mean Bean Machine\n•\tStreets of Rage 2\n•\tShinobi III: Return of the Ninja Master\n•\tEcco The Dolphin\n•\tGunstar Heroes\n•\tPhantasy Star IV\n•\tCastlevania Bloodline\n•\tContra Hard Corps\n•\tRistar\n\nЕсли Вы хотите сыграть в одну из этих классических игр SEGA Mega Drive, вы можете загрузить специальное приложение в Nintendo eShop, и вся библиотека игр будет в вашем распоряжении!",
+        "title_id": "0100B3C014BDA000"
+      },
       {
         "title": "Graveyard Keeper II (2) + DLC [NSZ][RUS/Multi11]",
         "size": "854.8 MB",
@@ -951,6 +978,33 @@
     ],
     "en": [
       {
+        "title": "SEGA Mega Drive – Nintendo Switch Online [NSZ][ENG]",
+        "size": "1.59 GB",
+        "magnet": "magnet:?xt=urn:btih:FA91F228654D6C7DC5C10FBACFE86642CE4478B1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6128064",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6128064",
+        "year": "2021, October",
+        "genre": "Emulator",
+        "developer": "SEGA",
+        "publisher": "Nintendo",
+        "image_format": ".NSZ (compressed ~38%, installed size 0.21 GB)",
+        "interface_lang": "English [ENG]",
+        "voice_lang": "No voiceover",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Up to 2 players",
+        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6200c6afaeab359a7cb0d5ebebd88f03ccc95ffa2c9938a7132768d3c28fc4a1.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/ca1499817f2751606cd23295367bc4c3cd67b410270d0ea96dac2b066fb2e382.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/9f32e70266c1f71ea5b53dfe379d0da52173147ebc7f26b7f4413c2388e9c3d4.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/444e79188cc45f9fdd398cf0871b0a4c0fbf020d5286037b4b28df2dc822ce87.jpg"
+        ],
+        "description": "Enjoy access to a growing library of classic SEGA Mega Drive games anytime, anywhere, right on your Nintendo Switch. A paid Nintendo Switch Online + Expansion Pack membership is required to use this service.\n\nSelect games include added online functionality so you can compete and co-operate with friends.\n\nHere’s a list of some available classic SEGA Mega Drive games:\n\n•\tGolden Axe\n•\tStrider\n•\tMusha\n•\tShining Force\n•\tSonic The Hedgehog 2\n•\tDr. Robotnik's Mean Bean Machine\n•\tStreets of Rage 2\n•\tShinobi III: Return of the Ninja Master\n•\tEcco The Dolphin\n•\tGunstar Heroes\n•\tPhantasy Star IV\n•\tCastlevania Bloodline\n•\tContra Hard Corps\n•\tRistar\n\nIf you want to try one of these classic  SEGA Mega Drive games you can download the dedicated app on Nintendo eShop: the entire library will then be ready for you to enjoy!",
+        "title_id": "0100B3C014BDA000"
+      },
+      {
         "title": "Graveyard Keeper II (2) + DLC [NSZ][RUS/Multi11]",
         "size": "854.8 MB",
         "magnet": "magnet:?xt=urn:btih:6BE3715B292B7EA5D5C06BBB8C4EDCD146514EB6&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -1842,6 +1896,33 @@
       }
     ],
     "es": [
+      {
+        "title": "SEGA Genesis™ – Nintendo Switch Online [NSZ][ENG]",
+        "size": "1.59 GB",
+        "magnet": "magnet:?xt=urn:btih:FA91F228654D6C7DC5C10FBACFE86642CE4478B1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6128064",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6128064",
+        "year": "2021, octubre",
+        "genre": "Emulator",
+        "developer": "SEGA",
+        "publisher": "Nintendo",
+        "image_format": ".NSZ (comprimido ~38%, tamaño instalado 0.21 GB)",
+        "interface_lang": "Inglés [ENG]",
+        "voice_lang": "Sin voces",
+        "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Hasta 2 jugadores",
+        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/50d67f56b0bf48285ae7f97249786ca8f5c533e9f4d9ce80b37c75ac4b90bcb1.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6f8a2fd88cb52485c408ea9c6a2729aaf81ce3190c86c71d033c3966c43de8d3.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/54ab2a43dba448d5f37effeb3300679afe02dd226a7fda79eb966bcc2cf9bbb2.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/777cc790c4c779c8ca514496e22be6a4ca0c2fec8a5da93774c095cf8e68fbef.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6be0caa4071a26ffc9d0aea292a47ff284fb0009f49476b492279fac8c98bece.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/a03240860a8fc7c9ac913ec07ad19ee591f6b1c67a8d1a428d9ea6973bf87b5d.jpg"
+        ],
+        "description": "Con una suscripción a Nintendo Switch Online + Paquete de expansión podrás acceder a un catálogo de juegos de SEGA Genesis™ ¡que son perfectos para jugar en cualquier momento y en cualquier lugar! Podrás jugar estos juegos clásicos con funciones adicionales, ¡como rebobinar para obtener los aros en Sonic the Hedgehog 2, crear un punto de guardado durante el jefe final de Golden Axe o jugar Streets of Rage 2 con un amigo usando el juego en línea!\n\n• Una selección de juegos clásicos de SEGA Genesis que incluyen Sonic the Hedgehog 2, Streets of Rage 2, Ecco the Dolphin y más\n• Juega de forma competitiva o cooperativa usando el modo multijugador en línea\n• Juega en el camino en cualquier lugar y en cualquier momento\n• Pausa la partida y guarda tu progreso en cualquier punto del juego\n• Rebobina el juego fácilmente si cometes un error o si quieres intentar de nuevo una sección del juego al mantener oprimidos los botones ZL y ZR\n• Compatible con los controles Joy-Con™, el control Pro de Nintendo Switch™* y el control de SEGA Genesis**",
+        "title_id": "0100B3C014BDA000"
+      },
       {
         "title": "Graveyard Keeper II (2) + DLC [NSZ][RUS/Multi11]",
         "size": "854.8 MB",
@@ -2736,6 +2817,33 @@
     ],
     "fr": [
       {
+        "title": "SEGA Genesis™ – Nintendo Switch Online [NSZ][ENG]",
+        "size": "1.59 GB",
+        "magnet": "magnet:?xt=urn:btih:FA91F228654D6C7DC5C10FBACFE86642CE4478B1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6128064",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6128064",
+        "year": "2021, octobre",
+        "genre": "Emulator",
+        "developer": "SEGA",
+        "publisher": "Nintendo",
+        "image_format": ".NSZ (compressé ~38%, taille installée 0.21 GB)",
+        "interface_lang": "Anglais [ENG]",
+        "voice_lang": "Sans voix",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Jusqu'à 2 joueurs",
+        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/50d67f56b0bf48285ae7f97249786ca8f5c533e9f4d9ce80b37c75ac4b90bcb1.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6f8a2fd88cb52485c408ea9c6a2729aaf81ce3190c86c71d033c3966c43de8d3.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/54ab2a43dba448d5f37effeb3300679afe02dd226a7fda79eb966bcc2cf9bbb2.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/777cc790c4c779c8ca514496e22be6a4ca0c2fec8a5da93774c095cf8e68fbef.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6be0caa4071a26ffc9d0aea292a47ff284fb0009f49476b492279fac8c98bece.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/a03240860a8fc7c9ac913ec07ad19ee591f6b1c67a8d1a428d9ea6973bf87b5d.jpg"
+        ],
+        "description": "Avec un abonnement au service Nintendo Switch Online + Ensemble additionnel, accédez à une collection de jeux SEGA Genesis™ auxquels vous pouvez jouer n’importe où, n’importe quand! Vous pouvez jouer à ces classiques avec des fonctions ajoutées telles que Recul pour récupérer les anneaux dans Sonic the Hedgehog 2, créer un point de sauvegarde avant le boss final de Golden Axe, ou jouer à Streets of Rage 2 avec un ami en utilisant le jeu en ligne!\n\n• Une collection de jeux classiques SEGA Genesis tels que Sonic the Hedgehog 2, Streets of Rage 2, Ecco the Dolphin, et plus!\n• Compétitionnez ou coopérez avec un ami en utilisant le jeu multijoueur en ligne \n• Jouez sur le pouce, n’importe où, n’importe quand\n• Créez des points de suspension pour chaque jeu pour sauvegarder votre progression\n• Revenez en arrière facilement dans votre jeu en maintenant les boutons ZL + ZR enfoncés si vous faites une erreur ou avez juste envie de réessayer une section du jeu\n• Compatible avec les manettes Joy-Con™, Nintendo Switch™ Pro*, et SEGA Genesis**",
+        "title_id": "0100B3C014BDA000"
+      },
+      {
         "title": "Graveyard Keeper II (2) + DLC [NSZ][RUS/Multi11]",
         "size": "854.8 MB",
         "magnet": "magnet:?xt=urn:btih:6BE3715B292B7EA5D5C06BBB8C4EDCD146514EB6&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -3629,6 +3737,33 @@
     ],
     "de": [
       {
+        "title": "SEGA Mega Drive – Nintendo Switch Online [NSZ][ENG]",
+        "size": "1.59 GB",
+        "magnet": "magnet:?xt=urn:btih:FA91F228654D6C7DC5C10FBACFE86642CE4478B1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6128064",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6128064",
+        "year": "2021, Oktober",
+        "genre": "Emulator",
+        "developer": "SEGA",
+        "publisher": "Nintendo",
+        "image_format": ".NSZ (komprimiert ~38%, installierte Größe 0.21 GB)",
+        "interface_lang": "Englisch [ENG]",
+        "voice_lang": "Keine Sprachausgabe",
+        "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Bis zu 2 Spieler",
+        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6200c6afaeab359a7cb0d5ebebd88f03ccc95ffa2c9938a7132768d3c28fc4a1.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/ca1499817f2751606cd23295367bc4c3cd67b410270d0ea96dac2b066fb2e382.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/9f32e70266c1f71ea5b53dfe379d0da52173147ebc7f26b7f4413c2388e9c3d4.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/444e79188cc45f9fdd398cf0871b0a4c0fbf020d5286037b4b28df2dc822ce87.jpg"
+        ],
+        "description": "Auf deiner Nintendo Switch-Konsole steht dir jederzeit und überall eine beständig wachsende Auswahl von SEGA Mega Drive-Klassikern zur Verfügung. Es wird eine kostenpflichtige Nintendo Switch Online + Erweiterungspaket-Mitgliedschaft benötigt, um diesen Service nutzen zu können.\n\nFür ausgewählte Spiele ist eine Online-Funktion verfügbar. So kannst du dich mit Rivalen messen und mit Freunden verbünden.\n\nHier eine Liste einiger verfügbarer SEGA Mega Drive-Klassiker: \n\n•\tGolden Axe\n•\tStrider\n•\tMusha\n•\tShining Force\n•\tSonic The Hedgehog 2\n•\tDr. Robotnik's Mean Bean Machine\n•\tStreets of Rage 2\n•\tShinobi III: Return of the Ninja Master\n•\tEcco The Dolphin\n•\tGunstar Heroes\n•\tPhantasy Star IV\n•\tCastlevania Bloodline\n•\tContra Hard Corps\n•\tRistar\n\nWenn du einen dieser SEGA Mega Drive-Klassiker spielen möchtest, kannst du die dedizierte App im Nintendo eShop herunterladen. Danach steht dir der gesamte Spielekatalog zur Verfügung!",
+        "title_id": "0100B3C014BDA000"
+      },
+      {
         "title": "Graveyard Keeper II (2) + DLC [NSZ][RUS/Multi11]",
         "size": "854.8 MB",
         "magnet": "magnet:?xt=urn:btih:6BE3715B292B7EA5D5C06BBB8C4EDCD146514EB6&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -4520,6 +4655,33 @@
       }
     ],
     "it": [
+      {
+        "title": "SEGA Mega Drive – Nintendo Switch Online [NSZ][ENG]",
+        "size": "1.59 GB",
+        "magnet": "magnet:?xt=urn:btih:FA91F228654D6C7DC5C10FBACFE86642CE4478B1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6128064",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6128064",
+        "year": "2021, ottobre",
+        "genre": "Emulator",
+        "developer": "SEGA",
+        "publisher": "Nintendo",
+        "image_format": ".NSZ (compresso ~38%, dimensione installata 0.21 GB)",
+        "interface_lang": "Inglese [ENG]",
+        "voice_lang": "Senza doppiaggio",
+        "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Fino a 2 giocatori",
+        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6200c6afaeab359a7cb0d5ebebd88f03ccc95ffa2c9938a7132768d3c28fc4a1.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/ca1499817f2751606cd23295367bc4c3cd67b410270d0ea96dac2b066fb2e382.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/9f32e70266c1f71ea5b53dfe379d0da52173147ebc7f26b7f4413c2388e9c3d4.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/444e79188cc45f9fdd398cf0871b0a4c0fbf020d5286037b4b28df2dc822ce87.jpg"
+        ],
+        "description": "Goditi un catalogo in continua espansione di classici per SEGA Mega Drive, dove e quando vuoi, sulla tua console Nintendo Switch. Per utilizzare questo servizio è necessaria un'iscrizione a pagamento a Nintendo Switch Online + Pacchetto aggiuntivo.\n\nAlcuni dei titoli inclusi sono giocabili online, dandoti la possibilità di competere e cooperare con gli amici.\n\nEcco una lista di alcuni classici per SEGA Mega Drive disponibili:\n\n•\tGolden Axe\n•\tStrider\n•\tMusha\n•\tShining Force\n•\tSonic The Hedgehog 2\n•\tDr. Robotnik's Mean Bean Machine\n•\tStreets of Rage 2\n•\tShinobi III: Return of the Ninja Master\n•\tEcco The Dolphin\n•\tGunstar Heroes\n•\tPhantasy Star IV\n•\tCastlevania Bloodline\n•\tContra Hard Corps\n•\tRistar\n\nSe vuoi provare qualcuno di questi grandi classici, puoi scaricare l'app dedicata dal Nintendo eShop: l'intera libreria di giochi sarà a tua disposizione!",
+        "title_id": "0100B3C014BDA000"
+      },
       {
         "title": "Graveyard Keeper II (2) + DLC [NSZ][RUS/Multi11]",
         "size": "854.8 MB",
@@ -5413,6 +5575,33 @@
     ],
     "pt_br": [
       {
+        "title": "SEGA Mega Drive – Nintendo Switch Online [NSZ][ENG]",
+        "size": "1.59 GB",
+        "magnet": "magnet:?xt=urn:btih:FA91F228654D6C7DC5C10FBACFE86642CE4478B1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6128064",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6128064",
+        "year": "2021, outubro",
+        "genre": "Emulator",
+        "developer": "SEGA",
+        "publisher": "Nintendo",
+        "image_format": ".NSZ (compactado ~38%, tamanho instalado 0.21 GB)",
+        "interface_lang": "Inglês [ENG]",
+        "voice_lang": "Sem dublagem",
+        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Até 2 jogadores",
+        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6200c6afaeab359a7cb0d5ebebd88f03ccc95ffa2c9938a7132768d3c28fc4a1.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/ca1499817f2751606cd23295367bc4c3cd67b410270d0ea96dac2b066fb2e382.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/9f32e70266c1f71ea5b53dfe379d0da52173147ebc7f26b7f4413c2388e9c3d4.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/444e79188cc45f9fdd398cf0871b0a4c0fbf020d5286037b4b28df2dc822ce87.jpg"
+        ],
+        "description": "O serviço dá-te acesso a um catálogo de clássicos para a SEGA Mega Drive em constante expansão que podes jogar quando, onde e como quiseres na Nintendo Switch! A utilização deste serviço requer uma adesão válida do Nintendo Switch Online + Pack de expansão.\n\nAlguns títulos oferecem opções de jogo online que te permitem competir ou cooperar com amigos.\n\nEstes são alguns dos jogos clássicos para a SEGA Mega Drive disponíveis:\n\n•\tGolden Axe\n•\tStrider\n•\tMusha\n•\tShining Force\n•\tSonic The Hedgehog 2\n•\tDr. Robotnik's Mean Bean Machine\n•\tStreets of Rage 2\n•\tShinobi III: Return of the Ninja Master\n•\tEcco The Dolphin\n•\tGunstar Heroes\n•\tPhantasy Star IV\n•\tCastlevania Bloodline\n•\tContra Hard Corps\n•\tRistar\n\nSe quiseres experimentar um destes títulos clássicos para a SEGA Mega Drive, basta descarregar a aplicação específica na Nintendo eShop: o catálogo completo ficará então à tua disposição!",
+        "title_id": "0100B3C014BDA000"
+      },
+      {
         "title": "Graveyard Keeper II (2) + DLC [NSZ][RUS/Multi11]",
         "size": "854.8 MB",
         "magnet": "magnet:?xt=urn:btih:6BE3715B292B7EA5D5C06BBB8C4EDCD146514EB6&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -6304,6 +6493,33 @@
       }
     ],
     "zh_hans": [
+      {
+        "title": "Sega Genesis / Mega Drive: Nintendo Switch Online (ofitsialnye igry NSO) + 2 kastomnykh LFS-moda [NSZ][ENG]",
+        "size": "1.59 GB",
+        "magnet": "magnet:?xt=urn:btih:FA91F228654D6C7DC5C10FBACFE86642CE4478B1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6128064",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6128064",
+        "year": "2021, 10月",
+        "genre": "Emulator",
+        "developer": "SEGA",
+        "publisher": "Nintendo",
+        "image_format": ".NSZ (已压缩 ~38%, 安装大小 0.21 GB)",
+        "interface_lang": "英语 [ENG]",
+        "voice_lang": "无语音",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "最多 2 人",
+        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/6200c6afaeab359a7cb0d5ebebd88f03ccc95ffa2c9938a7132768d3c28fc4a1.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/ca1499817f2751606cd23295367bc4c3cd67b410270d0ea96dac2b066fb2e382.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/9f32e70266c1f71ea5b53dfe379d0da52173147ebc7f26b7f4413c2388e9c3d4.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/444e79188cc45f9fdd398cf0871b0a4c0fbf020d5286037b4b28df2dc822ce87.jpg"
+        ],
+        "description": "Poluchite dostup k rastushchey biblioteke 16-bitnoy klassiki ot SEGA na Nintendo Switch. Dlya polzovaniya etim servisom trebuetsya platnoe chlenstvo Nintendo Switch Online + paket rasshireniya.\n\nIzbrannye igry podderzhivayut onlayn-funktsii, tak chto vy smozhete nasladitsya imi v kompanii druzey.\n\nVot chastichnyy spisok dostupnykh klassicheskikh igr SEGA Mega Drive:\n\n•\tGolden Axe\n•\tStrider\n•\tMusha\n•\tShining Force\n•\tSonic The Hedgehog 2\n•\tDr. Robotnik's Mean Bean Machine\n•\tStreets of Rage 2\n•\tShinobi III: Return of the Ninja Master\n•\tEcco The Dolphin\n•\tGunstar Heroes\n•\tPhantasy Star IV\n•\tCastlevania Bloodline\n•\tContra Hard Corps\n•\tRistar\n\nEsli Vy khotite sygrat v odnu iz etikh klassicheskikh igr SEGA Mega Drive, vy mozhete zagruzit spetsialnoe prilozhenie v Nintendo eShop, i vsya biblioteka igr budet v vashem rasporyazhenii!",
+        "title_id": "0100B3C014BDA000"
+      },
       {
         "title": "Graveyard Keeper II (2) + DLC [NSZ][RUS/Multi11]",
         "size": "854.8 MB",
