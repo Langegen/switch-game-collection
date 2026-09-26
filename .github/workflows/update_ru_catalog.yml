@@ -45,5 +45,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update localized game catalogs, covers, and 72h catalog diff"
-          file_pattern: "*_catalog.json catalog_diff.json diff_history.json scripts/translations_cache*.json covers/*.webp"
+          file_pattern: "*_catalog.json catalog_diff.json diff_history.json scripts/translations_cache*.json covers/*.jpg"
 

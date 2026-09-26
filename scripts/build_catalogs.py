@@ -1192,9 +1192,9 @@ def build_catalog_for_lang(lang_code):
         multiplayer = translate_multiplayer(item.get("multiplayer", ""), cfg, cache)
 
         topic_id = str(item.get("topic_id", "")).strip()
-        cover_path = COVERS_DIR / f"{topic_id}.webp"
+        cover_path = COVERS_DIR / f"{topic_id}.jpg"
         if cover_path.exists() and cover_path.stat().st_size > 500:
-            cover = f"{COVERS_BASE_URL}/{topic_id}.webp"
+            cover = f"{COVERS_BASE_URL}/{topic_id}.jpg"
         else:
             cover = item.get("cover", "")
 

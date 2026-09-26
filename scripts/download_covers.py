@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import argparse
 import concurrent.futures
-import glob
 import io
 import json
 import os
@@ -30,7 +29,7 @@ SWITCH_GAMES_URL = "https://raw.githubusercontent.com/Langegen/switch-games/main
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
 MAX_HEIGHT = 600
-WEBP_QUALITY = 80
+JPEG_QUALITY = 85
 
 
 def clean_title(t):
@@ -86,7 +85,7 @@ def fetch_image_bytes(url, session):
 
 def fetch_via_proxy(url, session):
     quoted = urllib.parse.quote(url, safe="")
-    proxy_url = f"https://wsrv.nl/?url={quoted}&output=webp"
+    proxy_url = f"https://wsrv.nl/?url={quoted}&output=jpg"
     headers = {"User-Agent": USER_AGENT}
     resp = session.get(proxy_url, headers=headers, timeout=20, verify=False)
     if resp.status_code == 200 and len(resp.content) > 200:
@@ -94,11 +93,14 @@ def fetch_via_proxy(url, session):
     return None
 
 
-def process_image_to_webp(data_bytes, out_path):
+def process_image_to_jpg(data_bytes, out_path):
     with Image.open(io.BytesIO(data_bytes)) as img:
-        # Convert color mode
+        # Convert color mode to RGB with white background for transparent images
         if img.mode in ("RGBA", "LA") or (img.mode == "P" and "transparency" in img.info):
             img = img.convert("RGBA")
+            bg = Image.new("RGB", img.size, (255, 255, 255))
+            bg.paste(img, mask=img.split()[3])
+            img = bg
         else:
             img = img.convert("RGB")
 
@@ -110,8 +112,8 @@ def process_image_to_webp(data_bytes, out_path):
             img = img.resize((new_w, MAX_HEIGHT), Image.Resampling.LANCZOS)
 
         # Save to temporary file first to guarantee atomic write
-        tmp_path = out_path.with_suffix(".tmp.webp")
-        img.save(tmp_path, "WEBP", quality=WEBP_QUALITY, method=4)
+        tmp_path = out_path.with_suffix(".tmp.jpg")
+        img.save(tmp_path, "JPEG", quality=JPEG_QUALITY, optimize=True)
         if tmp_path.exists():
             if out_path.exists():
                 out_path.unlink()
@@ -125,7 +127,7 @@ def download_single_cover(item, titledb_by_id, titledb_by_name, session, force=F
     if not topic_id:
         return topic_id, "no_topic_id", None
 
-    target_file = COVERS_DIR / f"{topic_id}.webp"
+    target_file = COVERS_DIR / f"{topic_id}.jpg"
     if not force and target_file.exists() and target_file.stat().st_size > 500:
         return topic_id, "skipped", target_file
 
@@ -183,7 +185,7 @@ def download_single_cover(item, titledb_by_id, titledb_by_name, session, force=F
         return topic_id, "failed", original_url
 
     try:
-        success = process_image_to_webp(image_bytes, target_file)
+        success = process_image_to_jpg(image_bytes, target_file)
         if success:
             return topic_id, f"downloaded_{source_used}", target_file
         else:
@@ -193,7 +195,7 @@ def download_single_cover(item, titledb_by_id, titledb_by_name, session, force=F
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Download and optimize Nintendo Switch covers into repo.")
+    parser = argparse.ArgumentParser(description="Download and optimize Nintendo Switch covers into repo as JPEG.")
     parser.add_argument("--workers", type=int, default=20, help="Number of parallel worker threads (default: 20)")
     parser.add_argument("--limit", type=int, default=0, help="Limit number of covers to process (0 = all)")
     parser.add_argument("--force", action="store_true", help="Force re-download even if cover exists")
@@ -290,10 +292,10 @@ def main():
         print(f"  {k}: {v}")
 
     # Check total size of covers folder
-    total_files = len(list(COVERS_DIR.glob("*.webp")))
-    total_bytes = sum(f.stat().st_size for f in COVERS_DIR.glob("*.webp"))
+    total_files = len(list(COVERS_DIR.glob("*.jpg")))
+    total_bytes = sum(f.stat().st_size for f in COVERS_DIR.glob("*.jpg"))
     print(f"\nCovers folder status:")
-    print(f"  Total .webp files: {total_files} / {total} ({total_files/total*100:.2f}%)")
+    print(f"  Total .jpg files: {total_files} / {total} ({total_files/total*100:.2f}%)")
     print(f"  Total size on disk: {total_bytes / 1024 / 1024:.2f} MB")
     if total_files > 0:
         print(f"  Average file size: {total_bytes / total_files / 1024:.1f} KB")
