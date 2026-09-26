@@ -1,4 +1,14 @@
 [
+  {"title": "Ila a Frosty Glide", "title_id": "010013E0230B6000", "metacritic": 74.0},
+  {"title": "Clone Drone in the Danger Zone", "title_id": "0100AA201236E000", "metacritic": 82.0},
+  {"title": "Tokyo Valkyries", "title_id": "01002D6020242000", "metacritic": null},
+  {"title": "Cozy Caravan", "title_id": "0100FE10223C2000", "metacritic": null},
+  {"title": "Moomintroll: Winter's Warmth / Snufkin Melody of Moominvalley (Снусмумрик: Мелодия Муми-дола, Муми-тролль: Тепло среди зимы)", "title_id": "0100F1B026B30000", "metacritic": 81.0},
+  {"title": "Demonschool (Demon School)", "title_id": "0100CD601AB4C000", "metacritic": 78.0},
+  {"title": "Obakeidoro 2 Chase and Seek", "title_id": "010044D027C72000", "metacritic": null},
+  {"title": "Hunt the Night", "title_id": "01009440164AE000", "metacritic": 80.0},
+  {"title": "Until Then + DLC Afterimages", "title_id": "010019C023004000", "metacritic": 79.0},
+  {"title": "Echoes of the Plum Grove", "title_id": "0100600020CA4000", "metacritic": null},
   {"title": "Under Night In-birth II (2) Sys Celes + 5 DLC", "title_id": "0100BD401D18A000", "metacritic": null},
   {"title": "Terraria", "title_id": "0100E46006708000", "metacritic": 81.0},
   {"title": "Lucky Tower Ultimate", "title_id": "0100B5B01AC50000", "metacritic": null},
@@ -32,17 +42,5 @@
   {"title": "Disgaea Mayhem + 3 DLC", "title_id": "01001B0027758000", "metacritic": null},
   {"title": "Dungeon Clawler", "title_id": "0100A500257A4000", "metacritic": null},
   {"title": "Marsupilami 2 Salsa Palombia", "title_id": "01000990277CA000", "metacritic": null},
-  {"title": "Quest of Dungeons", "title_id": "01001DE005012000", "metacritic": 74.0},
-  {"title": "The Legend of Heroes: Trails in the Sky 2nd Chapter Remake + 30 DLC", "title_id": "0100AD6029730000", "metacritic": null},
-  {"title": "Reus 2 + DLC Ice Age", "title_id": "01009D6022DC2000", "metacritic": 77.0},
-  {"title": "The Grinch Christmas Adventures + DLC / The Grinch 2 Saving Christmas (Гринч: Рождественские приключения, Спасение Рождества)", "title_id": "010009702250C000", "metacritic": null},
-  {"title": "Maestro + DLC", "title_id": "0100E1C0252F8000", "metacritic": null},
-  {"title": "Akiba Lost", "title_id": "0100C66026536000", "metacritic": null},
-  {"title": "Urban Jungle + DLC", "title_id": "0100304027592000", "metacritic": null},
-  {"title": "Woodo", "title_id": "01001B90277BE000", "metacritic": null},
-  {"title": "Tyrant's Realm", "title_id": "0100852026502000", "metacritic": null},
-  {"title": "Little Witch in the Woods", "title_id": "010057D02461E000", "metacritic": null},
-  {"title": "Chronoquartz (Chrono Quartz)", "title_id": "010080202582E000", "metacritic": null},
-  {"title": "Mortal Glory 2 + DLC Reign of Tyrants", "title_id": "01000C3021F74000", "metacritic": null},
-  {"title": "Another Eden Begins", "title_id": "010015A027150000", "metacritic": null}
+  {"title": "Quest of Dungeons", "title_id": "01001DE005012000", "metacritic": 74.0}
 ]
