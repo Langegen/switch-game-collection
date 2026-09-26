@@ -20,6 +20,9 @@ RU_CATALOG_FILE = str(BASE_DIR / "RU_catalog.json")
 SWITCH_GAMES_FILE = str(BASE_DIR / "switch_games.json")
 SWITCH_GAMES_URL = "https://raw.githubusercontent.com/Langegen/switch-games/main/switch_games.json"
 
+COVERS_DIR = BASE_DIR / "covers"
+COVERS_BASE_URL = "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers"
+
 LANG_CONFIGS = {
     "en": {
         "output_file": "EN_catalog.json",
@@ -1188,6 +1191,13 @@ def build_catalog_for_lang(lang_code):
         performance = translate_performance(item.get("performance", ""), cfg, cache)
         multiplayer = translate_multiplayer(item.get("multiplayer", ""), cfg, cache)
 
+        topic_id = str(item.get("topic_id", "")).strip()
+        cover_path = COVERS_DIR / f"{topic_id}.webp"
+        if cover_path.exists() and cover_path.stat().st_size > 500:
+            cover = f"{COVERS_BASE_URL}/{topic_id}.webp"
+        else:
+            cover = item.get("cover", "")
+
         catalog.append({
             "title": title,
             "size": item.get("size", ""),
@@ -1203,7 +1213,7 @@ def build_catalog_for_lang(lang_code):
             "voice_lang": voice_lang,
             "performance": performance,
             "multiplayer": multiplayer,
-            "cover": item.get("cover", ""),
+            "cover": cover,
             "screenshots": screenshots,
             "description": description,
             "title_id": item.get("title_id", ""),

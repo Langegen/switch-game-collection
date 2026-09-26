@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1790407839,
+  "generated_at": 1790413864,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
@@ -20,7 +20,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "до 2 игроков",
-        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6128064.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
           "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
@@ -44,10 +44,10 @@
         "publisher": "tinyBuild Games",
         "image_format": ".NSZ (сжато ~19%, установленный объём 1.06 ГБ)",
         "interface_lang": "Русский, Английский [RUS / ENG / Multi 11]",
-        "voice_lang": "не озвучивается",
+        "voice_lang": "английская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i5.imageban.ru/out/2026/09/20/131443547f64f0db24582003c7223269.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6913110.webp",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/0920/8f/22d0857cdfd2be21f7d75ba12dda378f.jpeg",
           "https://i128.fastpic.org/thumb/2026/0920/a9/be788b37656ce36bb1040cac680a4aa9.jpeg",
@@ -64,8 +64,8 @@
       },
       {
         "title": "Хоумбрю-порты на Wine-NX: Condemned Criminal Origins, Deus Ex, Dead Space [NRO][RUS]",
-        "size": "15.63 GB",
-        "magnet": "magnet:?xt=urn:btih:6206BA7135F95725A7A33A923649AA5410C1FAC8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "15.11 GB",
+        "magnet": "magnet:?xt=urn:btih:F478F1EC3ED66C6A4046EEA44E981813B38A4A9A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6910463",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6910463",
         "year": "2006",
@@ -77,7 +77,7 @@
         "voice_lang": "русская, от Team Raccoon",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i128.fastpic.org/big/2026/0923/4d/b8b97a859cb51dfa82c773424a278f4d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6910463.webp",
         "screenshots": [
           "https://i128.fastpic.org/big/2026/0918/71/dbbc9f641002b4a8d2d5d874fa6a2871.jpeg",
           "https://i128.fastpic.org/thumb/2026/0918/62/2a7aa6c1b0107d83322262a5de101462.jpeg",
@@ -107,7 +107,7 @@
         "voice_lang": "английская, французская, немецкая, испанская",
         "performance": "Да (на 20.4.0, Atmosphere 1.9.4)",
         "multiplayer": "до 4 игроков",
-        "cover": "https://i2.imageban.ru/out/2025/09/15/2086d93cbf6e29e1727bd558a3c05e81.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6751728.webp",
         "screenshots": [
           "https://i125.fastpic.org/thumb/2025/0915/17/2c43ec325ea48396366bc5798036b517.jpeg",
           "https://i125.fastpic.org/thumb/2025/0915/6e/0184eaee0943c0f016fdfc3b5d42236e.jpeg",
@@ -137,7 +137,7 @@
         "voice_lang": "английская",
         "performance": "Да (на 21.2.0, Atmosphere 1.10.2)",
         "multiplayer": "нет",
-        "cover": "https://i8.imageban.ru/out/2025/03/12/9788ad1ab212afdb4fde0e6499ab3e3a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6661272.webp",
         "screenshots": [
           "https://i124.fastpic.org/thumb/2025/0312/fa/6fbc7dbe2f7a196683971432fea8f2fa.jpeg",
           "https://i124.fastpic.org/thumb/2025/0312/98/e2da6f568280abe283b176195eff0198.jpeg",
@@ -167,7 +167,7 @@
         "voice_lang": "японская, английская",
         "performance": "Да (на 13.2.1, Atmosphere 1.2.6)",
         "multiplayer": "нет",
-        "cover": "https://i3.imageban.ru/out/2022/03/09/3d1718bdb522f683932c8ac4ccb62ac5.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6188547.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/503520f1124dc823a03656c59773e886df01e2a538df3ce2fd94ed4bcbc2ab85.jpg",
           "https://img-eshop.cdn.nintendo.net/i/49d0fa5770ed12596eee9cf361bfcb94f997f3d8386f9cc3917cd4e6002ca9f5.jpg",
@@ -193,7 +193,7 @@
         "voice_lang": "Нет",
         "performance": "Да (на 14.1.2, Atmosphere 1.3.2)",
         "multiplayer": "Нет",
-        "cover": "https://i115.fastpic.org/big/2021/0719/9c/8ec35853ef1a8a4b863443c0c5c2fe9c.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6077335.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/1e63bf500270240b892f721aa46227886cc95f8a0181e55a52a9381839eca359.jpg",
           "https://img-eshop.cdn.nintendo.net/i/2cec404e1f99241fd491bff217aa9680ed08c2b2c8da972a98f9b618e93d1783.jpg",
@@ -220,7 +220,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 13.2.0, Atmosphere 1.2.5)",
         "multiplayer": "до 4 игроков",
-        "cover": "http://images.vfl.ru/ii/1644906249/6348663d/38039602.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5899150.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/3f0d78436dbe4959d2479811c1e8a44a00196d6961fb61f1c2ff533e7b3c778b.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6fbd3f192b97083f5f2883c2035df35f23ddf58b1ec1320f412991774065d63a.jpg",
@@ -247,7 +247,7 @@
         "voice_lang": "нет",
         "performance": "Да (на 15.0.1, Atmosphere 1.4.1)",
         "multiplayer": "до 4 человек",
-        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
@@ -274,7 +274,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 13.2.0, Atmosphere 1.11.2)",
         "multiplayer": "до 2 игроков",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/9b97dca52e35bbc4c282928b46f86a97.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912713.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/10f8685bdbf15d2365d40f52de7bf306fdf125c4a42b33762aaaa99ff4ec9d30.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fc4f116461a92aeec60354399f2b7104c6dcd6e25c6b848c4f5bae0520591621.jpg",
@@ -301,7 +301,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 12.1.0, Atmosphere 1.11.2)",
         "multiplayer": "для 4 игроков",
-        "cover": "https://i7.imageban.ru/out/2026/09/23/0261d30c07a94ee3976b3c2f28240737.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912677.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/ad7a15f820391d47715b3573386688deff4315de36d3b61d213151a62c004a31.jpg",
           "https://img-eshop.cdn.nintendo.net/i/e88b7fe298cc00da31ff8103e34b4eeae22c4363d08a4c38cb54009273673092.jpg",
@@ -328,7 +328,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 16.2.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i5.imageban.ru/out/2026/09/23/b368341be9c0960c303476e8382bc1be.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912660.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4cc1bd00242cd57c30e49b825847824296113698293f1b6a550f1301d8a2cbaf.jpg",
           "https://img-eshop.cdn.nintendo.net/i/08c965517ebf0b37c9b4b6ea08db1e2d45fe20998b7640460635e0978a18ac9f.jpg",
@@ -355,7 +355,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i1.imageban.ru/out/2026/09/23/903ea6a3b525d2b319e129ef134afae3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912647.webp",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/0923/3e/bf11111b3004ac33657b8148aee2f13e.jpeg",
           "https://i128.fastpic.org/thumb/2026/0923/08/ec0035073beccc0c31012f3a8f95d408.jpeg",
@@ -385,7 +385,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/651ef3bab8b1d1117317d833f9d4bd55.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912643.webp",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/0923/62/494e2a73624d8fdb8183e484f38bd562.jpeg",
           "https://i128.fastpic.org/thumb/2026/0923/d6/469c1a3de9dab4ea447d6435d3d915d6.jpeg",
@@ -414,7 +414,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i4.imageban.ru/out/2026/09/22/533d6ee6aed2eef90f9980b6b344980e.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912256.webp",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/0922/27/9aa70b319165ff19ee20ce6b17aa6027.jpeg",
           "https://i128.fastpic.org/thumb/2026/0922/22/5c755dad202328ffd67a0ac73cfb3422.jpeg",
@@ -446,7 +446,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Up to 2 players",
-        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6128064.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
           "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
@@ -470,25 +470,28 @@
         "publisher": "tinyBuild Games",
         "image_format": ".NSZ (compressed ~19%, installed size 1.06 GB)",
         "interface_lang": "Russian, English [RUS / ENG / Multi 11]",
-        "voice_lang": "No voiceover",
+        "voice_lang": "English",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/09/20/131443547f64f0db24582003c7223269.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6913110.webp",
         "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/827f45740729a5014b35184fced695414039ab8a82537ccafec986c41c5a864f.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/5197cadd1398d994f026717250b6f8d970a7021de338eb9888515b6b9f29c7cd.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b4620eb23d1f264105a5546b0019838562e9b87afa19b408db9b051a401a48b0.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/c7b3f8ee7b8129c77e8983ce41466a11ec43b49a652b20300306b2c1a7cdf5a3.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/34fa9884975f50a1ebaf9b9cd2d11fd45ccd4abb22e9a319c27b2743be7216e9.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/878fd0dbb17888c1adf19312a615bec11ea3d2f9eabbeb905a039fa0477ee5a4.jpg"
+          "https://i128.fastpic.org/thumb/2026/0920/8f/22d0857cdfd2be21f7d75ba12dda378f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0920/a9/be788b37656ce36bb1040cac680a4aa9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0920/23/f44c5e81ad02b39888feb2a804593323.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0920/e7/ba1bfe59f69ba36b6307bd5e74b893e7.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0920/4f/f061812e3bc746d2ac4cd50e01ccf54f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0920/e7/65d9b4714d50468d92ac117ae0bfd5e7.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0920/59/41fb80a0072427aaee22d0d365608559.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0920/83/c7249b595c90d65a82d2bda552322083.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0924/6f/46188c0a360a8d1548cba4b2d58c7f6f.jpeg"
         ],
-        "description": "You are the Grand Inquisitor now! Restore the town and lead your undead army into battle to save the realm from a zombie apocalypse. Welcome to Graveyard Keeper 2 - the sequel to the original, unhinged classic!\n\nManage. Grind. Automate!\nBuild and manage your own medieval graveyard. Harvest as much flora, fauna, and human remains as you can to build extraordinary machinery, automate production, and expand your graveyard for pure profit.\n\nSave the Kingdom!\nBecome the Inquisitor and lead your undead army into battle to save the Kingdom from a zombie apocalypse. Build towers and fortifications, craft powerful armour and weapons, arm and train your not-so-smart troops, and slash your way to victory!\n\nRebuild The Town. For Profits!\nHelp the townsfolk restore their homes and turn their problems into revenue. Complete quests throughout the city, as your undead workers take care of the heavy lifting behind the scenes. With zombie-based automation and structured systems, you can transform local efforts into a scalable and profitable operation.",
+        "description": "Rebuild the city, manage the cemetery, automate production, lead your army of the undead into battle and turn the problem of the living dead into a thriving business.",
         "title_id": "0100005027A18000"
       },
       {
         "title": "Khoumbryu-porty na Wine-NX: Condemned Criminal Origins, Deus Ex, Dead Space [NRO][RUS]",
-        "size": "15.63 GB",
-        "magnet": "magnet:?xt=urn:btih:6206BA7135F95725A7A33A923649AA5410C1FAC8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "15.11 GB",
+        "magnet": "magnet:?xt=urn:btih:F478F1EC3ED66C6A4046EEA44E981813B38A4A9A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6910463",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6910463",
         "year": "2006",
@@ -500,7 +503,7 @@
         "voice_lang": "Russian, by Team Raccoon",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i128.fastpic.org/big/2026/0923/4d/b8b97a859cb51dfa82c773424a278f4d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6910463.webp",
         "screenshots": [
           "https://i128.fastpic.org/big/2026/0918/71/dbbc9f641002b4a8d2d5d874fa6a2871.jpeg",
           "https://i128.fastpic.org/thumb/2026/0918/62/2a7aa6c1b0107d83322262a5de101462.jpeg",
@@ -530,7 +533,7 @@
         "voice_lang": "English, French, German, Spanish",
         "performance": "Yes (on 20.4.0, Atmosphere 1.9.4)",
         "multiplayer": "Up to 4 players",
-        "cover": "https://i2.imageban.ru/out/2025/09/15/2086d93cbf6e29e1727bd558a3c05e81.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6751728.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4d27136638114a8436f649398b3a2865bffe71b736c0871c07e54a202e8bd0f6.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe4aa02ad66d6caadd2d1da40798616a821282c3a6c22a9540601caeb8f33751.jpg",
@@ -557,7 +560,7 @@
         "voice_lang": "English",
         "performance": "Yes (on 21.2.0, Atmosphere 1.10.2)",
         "multiplayer": "No",
-        "cover": "https://i8.imageban.ru/out/2025/03/12/9788ad1ab212afdb4fde0e6499ab3e3a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6661272.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4e5e20f6b51a7373318a8852847511bc77d6dfb919509387a4e8281cf09c713a.jpg",
           "https://img-eshop.cdn.nintendo.net/i/4b83ded1417ea08186da074f8a16f8ee60582a5f3d80568655711979edbb4836.jpg",
@@ -584,7 +587,7 @@
         "voice_lang": "Japanese, English",
         "performance": "Yes (on 13.2.1, Atmosphere 1.2.6)",
         "multiplayer": "No",
-        "cover": "https://i3.imageban.ru/out/2022/03/09/3d1718bdb522f683932c8ac4ccb62ac5.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6188547.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/503520f1124dc823a03656c59773e886df01e2a538df3ce2fd94ed4bcbc2ab85.jpg",
           "https://img-eshop.cdn.nintendo.net/i/49d0fa5770ed12596eee9cf361bfcb94f997f3d8386f9cc3917cd4e6002ca9f5.jpg",
@@ -610,7 +613,7 @@
         "voice_lang": "None",
         "performance": "Yes (on 14.1.2, Atmosphere 1.3.2)",
         "multiplayer": "No",
-        "cover": "https://i115.fastpic.org/big/2021/0719/9c/8ec35853ef1a8a4b863443c0c5c2fe9c.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6077335.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/1e63bf500270240b892f721aa46227886cc95f8a0181e55a52a9381839eca359.jpg",
           "https://img-eshop.cdn.nintendo.net/i/2cec404e1f99241fd491bff217aa9680ed08c2b2c8da972a98f9b618e93d1783.jpg",
@@ -637,7 +640,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 13.2.0, Atmosphere 1.2.5)",
         "multiplayer": "Up to 4 players",
-        "cover": "http://images.vfl.ru/ii/1644906249/6348663d/38039602.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5899150.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/3f0d78436dbe4959d2479811c1e8a44a00196d6961fb61f1c2ff533e7b3c778b.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6fbd3f192b97083f5f2883c2035df35f23ddf58b1ec1320f412991774065d63a.jpg",
@@ -664,7 +667,7 @@
         "voice_lang": "None",
         "performance": "Yes (on 15.0.1, Atmosphere 1.4.1)",
         "multiplayer": "Up to 4 players",
-        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
@@ -691,7 +694,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 13.2.0, Atmosphere 1.11.2)",
         "multiplayer": "Up to 2 players",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/9b97dca52e35bbc4c282928b46f86a97.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912713.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/10f8685bdbf15d2365d40f52de7bf306fdf125c4a42b33762aaaa99ff4ec9d30.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fc4f116461a92aeec60354399f2b7104c6dcd6e25c6b848c4f5bae0520591621.jpg",
@@ -718,7 +721,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 12.1.0, Atmosphere 1.11.2)",
         "multiplayer": "4 players",
-        "cover": "https://i7.imageban.ru/out/2026/09/23/0261d30c07a94ee3976b3c2f28240737.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912677.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/ad7a15f820391d47715b3573386688deff4315de36d3b61d213151a62c004a31.jpg",
           "https://img-eshop.cdn.nintendo.net/i/e88b7fe298cc00da31ff8103e34b4eeae22c4363d08a4c38cb54009273673092.jpg",
@@ -745,7 +748,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 16.2.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/09/23/b368341be9c0960c303476e8382bc1be.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912660.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4cc1bd00242cd57c30e49b825847824296113698293f1b6a550f1301d8a2cbaf.jpg",
           "https://img-eshop.cdn.nintendo.net/i/08c965517ebf0b37c9b4b6ea08db1e2d45fe20998b7640460635e0978a18ac9f.jpg",
@@ -772,7 +775,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i1.imageban.ru/out/2026/09/23/903ea6a3b525d2b319e129ef134afae3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912647.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/e56f01e7ee9b0632ffb6ed4e1f88826a05467f0c9e26d8f7a95a3cfc77f932e3.jpg",
           "https://img-eshop.cdn.nintendo.net/i/c4df3839c6f09df6d1a240341b27f298309c5e4d71caf1ecec81b357eabc4ccb.jpg",
@@ -799,14 +802,18 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/651ef3bab8b1d1117317d833f9d4bd55.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912643.webp",
         "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/d6b06f1ac5d48b9fc1e6fc9cfc10c879ebfdf91ceba677a5b9b69bbc52f3de73.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/fe311f432b0593357505e163cb2bc1abe5e798d19ff1377a04b23a86e136b7bb.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/1b1c8fa88185403f0c6a371b970b251f25c6d9c898b757ac4d304e1e91fd98b8.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/5cd083a5d1229f980e5b3bf01e0768f4d26990029f47aa031774d38d24694c3a.jpg"
+          "https://i128.fastpic.org/thumb/2026/0923/62/494e2a73624d8fdb8183e484f38bd562.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0923/d6/469c1a3de9dab4ea447d6435d3d915d6.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0923/f6/b9f60d78661dcd03e68e5089bc7ecaf6.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0923/fc/cd45f736f5dc9d778c51c100e3412bfc.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0923/1f/2403333cb21653d0ea4b9b156eb8891f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0923/b8/52bbb6d35d6ff3ee26d09f21961791b8.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0923/8a/b68367966a066977107b613709a5018a.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0923/5f/c625c486083061107e02a8ea7982e65f.jpeg"
         ],
-        "description": "Deep within the forest, at the bottom of a well, lives the only creature brave enough to kill the queen... \n\nPlay as Glimmer - a tiny bird armed with a matchstick- who must burn the wicked queen to save his family. Explore a dark fairy-tale landscape and befriend the charming characters who reside in the kingdom’s underbelly. Battle terrifying beasts and gain new abilities to expand your map. Solve puzzles, discover secrets, and unravel the mysteries that lie in this rotted kingdom.\n\nAmong the rotting ruins are a charming cast of characters just trying to get by.  Go camping with Ilda, a tiny mouse who is on the run from the queens grasp. Explore an abandoned castle with Looter, a mysterious scavenger who searches the kingdom for the best wares to steal. And find and reunite with all of your sheltered siblings who were snatched up one night by a crazed hunter.\n\nLight up your matchstick to illuminate the world and aid in combat. Collect trinkets to upgrade your abilities, and mix-and-match them to customize your game play. Solve puzzles, defeat vicious bosses, and forge your path to the queens quarters to save your family.",
+        "description": "Deep in the forest there is a well, and at the bottom of it lives the only creature who has the courage to kill the queen. Control Blik, a tiny bird armed with a match. He must burn the evil queen to save his family. Travel through dark fairy-tale landscapes and meet the charming characters who inhabit the underbelly of the kingdom. Fight terrible monsters and gain new abilities to expand the map. Solve puzzles, discover mysteries and secrets that the rotten kingdom hides.\nA dark, fairy-tale Metroidvania with charming characters living in a thoroughly rotten kingdom. Control Blik, a tiny bird armed with a match. He must burn the evil queen to save his family.\nAmong the nightmarish ruins you will find the cutest characters who are simply trying to survive. Live in nature with Ilda, a mouse who is hiding from the queen. Explore an abandoned castle with Grabber, a mysterious marauder who roams the kingdom in search of better loot. Find all your sisters and brother who were stolen one night by a mad hunter.\nLight a match to illuminate the world and make your battle easier. Collect trinkets to improve your abilities; combine them to customize the game for yourself. Solve puzzles, defeat terrifying bosses, and make your way to the queen's home to save your family.\nFrom the creator of Crypt Custodian.",
         "title_id": "0100217023F6C000"
       },
       {
@@ -818,22 +825,25 @@
         "year": "2026, September",
         "genre": "Role-Playing, Adventure",
         "developer": "Mas",
-        "publisher": "Feuxon",
+        "publisher": "Feuxon, Happinet",
         "image_format": ".NSZ (compressed ~19%, installed size 1.28 GB)",
         "interface_lang": "Russian, English [RUS / ENG / Multi 12]",
         "voice_lang": "No voiceover",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i4.imageban.ru/out/2026/09/22/533d6ee6aed2eef90f9980b6b344980e.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912256.webp",
         "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/8cfd761421f5f05b906beaaf6a4880ffbf15c8e9839b10d91a461b70caca3b7c.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/9d955489789e77fe00de1e2f5e0ddd48e7c8876ad5ca1ada8d21b18e7114f8f2.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e33978451e775a19d45156474c2e16ea9970b6b84ff4bd17e52400f5a15c29d9.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/2af04116febafe6064592526359418b8b9acd8f3083efb3621a7f20accb8a69f.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bb9790bab48e2b993d8e27e0bfd4d7e78a87f2e65911d6304ef9461b930a8312.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/5d553fac5932c30d216e7aba04ec985c663d1f1e627dc961b352b7c288b76f2c.jpg"
+          "https://i128.fastpic.org/thumb/2026/0922/27/9aa70b319165ff19ee20ce6b17aa6027.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0922/22/5c755dad202328ffd67a0ac73cfb3422.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0922/7c/b5d9993daac8533dcaa7f51bc3e7f07c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0922/b3/50a6476319e0419da5963c53e006ddb3.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0922/45/ce363dd1f997665e16d2a304fed49545.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0922/81/e15ff7d5388827dc76c7e838287cfc81.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0922/d7/4dba84afca31471cce3cc06e85216ed7.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0922/27/892466dbb484c48f2475ebfbbee22a27.jpeg",
+          "https://i128.fastpic.org/thumb/2026/0922/8c/36551625ed24d3c3539ea3813fe1688c.jpeg"
         ],
-        "description": "A fun turn-based RPG set in a future world of humans and AI. Play as Akane to explore vibrant locations, battle with simple yet fluid combat, and enjoy side quests full of charming surprises. With a playful, humorous style and clever details, this adventure is light, easy, and full of smiles.",
+        "description": "An adult, story-rich pixel jRPG with classic turn-based combat. Players will take on the role of Akana and team up with her AI companion to unravel the mysteries of a post-apocalyptic world. Explore locations, upgrade your house and develop your skills..",
         "title_id": "01006DD02868A000"
       }
     ],
@@ -853,7 +863,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Hasta 2 jugadores",
-        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6128064.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/50d67f56b0bf48285ae7f97249786ca8f5c533e9f4d9ce80b37c75ac4b90bcb1.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6f8a2fd88cb52485c408ea9c6a2729aaf81ce3190c86c71d033c3966c43de8d3.jpg",
@@ -877,10 +887,10 @@
         "publisher": "tinyBuild Games",
         "image_format": ".NSZ (comprimido ~19%, tamaño instalado 1.06 GB)",
         "interface_lang": "Ruso, Inglés [RUS / ENG / Multi 11]",
-        "voice_lang": "Sin voces",
+        "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/09/20/131443547f64f0db24582003c7223269.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6913110.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/fbc916b74422cdc56254f1b7583230f4a42b836a880973889412e84c834bf225.jpg",
           "https://img-eshop.cdn.nintendo.net/i/827f45740729a5014b35184fced695414039ab8a82537ccafec986c41c5a864f.jpg",
@@ -894,8 +904,8 @@
       },
       {
         "title": "Khoumbryu-porty na Wine-NX: Condemned Criminal Origins, Deus Ex, Dead Space [NRO][RUS]",
-        "size": "15.63 GB",
-        "magnet": "magnet:?xt=urn:btih:6206BA7135F95725A7A33A923649AA5410C1FAC8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "15.11 GB",
+        "magnet": "magnet:?xt=urn:btih:F478F1EC3ED66C6A4046EEA44E981813B38A4A9A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6910463",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6910463",
         "year": "2006",
@@ -907,7 +917,7 @@
         "voice_lang": "Ruso, de Team Raccoon",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i128.fastpic.org/big/2026/0923/4d/b8b97a859cb51dfa82c773424a278f4d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6910463.webp",
         "screenshots": [
           "https://i128.fastpic.org/big/2026/0918/71/dbbc9f641002b4a8d2d5d874fa6a2871.jpeg",
           "https://i128.fastpic.org/thumb/2026/0918/62/2a7aa6c1b0107d83322262a5de101462.jpeg",
@@ -937,7 +947,7 @@
         "voice_lang": "Inglés, Francés, Alemán, Español",
         "performance": "Sí (en 20.4.0, Atmosphere 1.9.4)",
         "multiplayer": "Hasta 4 jugadores",
-        "cover": "https://i2.imageban.ru/out/2025/09/15/2086d93cbf6e29e1727bd558a3c05e81.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6751728.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4d27136638114a8436f649398b3a2865bffe71b736c0871c07e54a202e8bd0f6.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe4aa02ad66d6caadd2d1da40798616a821282c3a6c22a9540601caeb8f33751.jpg",
@@ -964,7 +974,7 @@
         "voice_lang": "Inglés",
         "performance": "Sí (en 21.2.0, Atmosphere 1.10.2)",
         "multiplayer": "No",
-        "cover": "https://i8.imageban.ru/out/2025/03/12/9788ad1ab212afdb4fde0e6499ab3e3a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6661272.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4e5e20f6b51a7373318a8852847511bc77d6dfb919509387a4e8281cf09c713a.jpg",
           "https://img-eshop.cdn.nintendo.net/i/4b83ded1417ea08186da074f8a16f8ee60582a5f3d80568655711979edbb4836.jpg",
@@ -991,7 +1001,7 @@
         "voice_lang": "Japonés, Inglés",
         "performance": "Sí (en 13.2.1, Atmosphere 1.2.6)",
         "multiplayer": "No",
-        "cover": "https://i3.imageban.ru/out/2022/03/09/3d1718bdb522f683932c8ac4ccb62ac5.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6188547.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/5f8cbb22271e28e0cc255bca0d43dc6361c12d3ee14ccea6e89c659461c1af7d.jpg",
           "https://img-eshop.cdn.nintendo.net/i/97eb8b66e120bf50dbf0702afeddce3e7cf72f7f71b3512823d648045717dbcd.jpg",
@@ -1018,7 +1028,7 @@
         "voice_lang": "Ninguno",
         "performance": "Sí (en 14.1.2, Atmosphere 1.3.2)",
         "multiplayer": "No",
-        "cover": "https://i115.fastpic.org/big/2021/0719/9c/8ec35853ef1a8a4b863443c0c5c2fe9c.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6077335.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/1e63bf500270240b892f721aa46227886cc95f8a0181e55a52a9381839eca359.jpg",
           "https://img-eshop.cdn.nintendo.net/i/2cec404e1f99241fd491bff217aa9680ed08c2b2c8da972a98f9b618e93d1783.jpg",
@@ -1045,7 +1055,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 13.2.0, Atmosphere 1.2.5)",
         "multiplayer": "Hasta 4 jugadores",
-        "cover": "http://images.vfl.ru/ii/1644906249/6348663d/38039602.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5899150.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/8e99ff4581713b69a5c5a8f99dd2c13a1803fc9cdca0e79470bb298d86d272e6.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6fbd3f192b97083f5f2883c2035df35f23ddf58b1ec1320f412991774065d63a.jpg",
@@ -1072,7 +1082,7 @@
         "voice_lang": "Ninguno",
         "performance": "Sí (en 15.0.1, Atmosphere 1.4.1)",
         "multiplayer": "Hasta 4 jugadores",
-        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
@@ -1099,7 +1109,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 13.2.0, Atmosphere 1.11.2)",
         "multiplayer": "Hasta 2 jugadores",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/9b97dca52e35bbc4c282928b46f86a97.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912713.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/10f8685bdbf15d2365d40f52de7bf306fdf125c4a42b33762aaaa99ff4ec9d30.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fc4f116461a92aeec60354399f2b7104c6dcd6e25c6b848c4f5bae0520591621.jpg",
@@ -1126,7 +1136,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 12.1.0, Atmosphere 1.11.2)",
         "multiplayer": "4 jugadores",
-        "cover": "https://i7.imageban.ru/out/2026/09/23/0261d30c07a94ee3976b3c2f28240737.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912677.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/ad7a15f820391d47715b3573386688deff4315de36d3b61d213151a62c004a31.jpg",
           "https://img-eshop.cdn.nintendo.net/i/e88b7fe298cc00da31ff8103e34b4eeae22c4363d08a4c38cb54009273673092.jpg",
@@ -1153,7 +1163,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 16.2.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/09/23/b368341be9c0960c303476e8382bc1be.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912660.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4cc1bd00242cd57c30e49b825847824296113698293f1b6a550f1301d8a2cbaf.jpg",
           "https://img-eshop.cdn.nintendo.net/i/08c965517ebf0b37c9b4b6ea08db1e2d45fe20998b7640460635e0978a18ac9f.jpg",
@@ -1180,7 +1190,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i1.imageban.ru/out/2026/09/23/903ea6a3b525d2b319e129ef134afae3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912647.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/e56f01e7ee9b0632ffb6ed4e1f88826a05467f0c9e26d8f7a95a3cfc77f932e3.jpg",
           "https://img-eshop.cdn.nintendo.net/i/c4df3839c6f09df6d1a240341b27f298309c5e4d71caf1ecec81b357eabc4ccb.jpg",
@@ -1207,7 +1217,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/651ef3bab8b1d1117317d833f9d4bd55.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912643.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/d6b06f1ac5d48b9fc1e6fc9cfc10c879ebfdf91ceba677a5b9b69bbc52f3de73.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe311f432b0593357505e163cb2bc1abe5e798d19ff1377a04b23a86e136b7bb.jpg",
@@ -1232,7 +1242,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i4.imageban.ru/out/2026/09/22/533d6ee6aed2eef90f9980b6b344980e.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912256.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/8cfd761421f5f05b906beaaf6a4880ffbf15c8e9839b10d91a461b70caca3b7c.jpg",
           "https://img-eshop.cdn.nintendo.net/i/9d955489789e77fe00de1e2f5e0ddd48e7c8876ad5ca1ada8d21b18e7114f8f2.jpg",
@@ -1261,7 +1271,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Jusqu'à 2 joueurs",
-        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6128064.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/50d67f56b0bf48285ae7f97249786ca8f5c533e9f4d9ce80b37c75ac4b90bcb1.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6f8a2fd88cb52485c408ea9c6a2729aaf81ce3190c86c71d033c3966c43de8d3.jpg",
@@ -1285,10 +1295,10 @@
         "publisher": "tinyBuild Games",
         "image_format": ".NSZ (compressé ~19%, taille installée 1.06 GB)",
         "interface_lang": "Russe, Anglais [RUS / ENG / Multi 11]",
-        "voice_lang": "Sans voix",
+        "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i5.imageban.ru/out/2026/09/20/131443547f64f0db24582003c7223269.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6913110.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/fbc916b74422cdc56254f1b7583230f4a42b836a880973889412e84c834bf225.jpg",
           "https://img-eshop.cdn.nintendo.net/i/827f45740729a5014b35184fced695414039ab8a82537ccafec986c41c5a864f.jpg",
@@ -1302,8 +1312,8 @@
       },
       {
         "title": "Khoumbryu-porty na Wine-NX: Condemned Criminal Origins, Deus Ex, Dead Space [NRO][RUS]",
-        "size": "15.63 GB",
-        "magnet": "magnet:?xt=urn:btih:6206BA7135F95725A7A33A923649AA5410C1FAC8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "15.11 GB",
+        "magnet": "magnet:?xt=urn:btih:F478F1EC3ED66C6A4046EEA44E981813B38A4A9A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6910463",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6910463",
         "year": "2006",
@@ -1315,7 +1325,7 @@
         "voice_lang": "Russe, par Team Raccoon",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i128.fastpic.org/big/2026/0923/4d/b8b97a859cb51dfa82c773424a278f4d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6910463.webp",
         "screenshots": [
           "https://i128.fastpic.org/big/2026/0918/71/dbbc9f641002b4a8d2d5d874fa6a2871.jpeg",
           "https://i128.fastpic.org/thumb/2026/0918/62/2a7aa6c1b0107d83322262a5de101462.jpeg",
@@ -1345,7 +1355,7 @@
         "voice_lang": "Anglais, Français, Allemand, Espagnol",
         "performance": "Oui (sur 20.4.0, Atmosphere 1.9.4)",
         "multiplayer": "Jusqu'à 4 joueurs",
-        "cover": "https://i2.imageban.ru/out/2025/09/15/2086d93cbf6e29e1727bd558a3c05e81.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6751728.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4d27136638114a8436f649398b3a2865bffe71b736c0871c07e54a202e8bd0f6.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe4aa02ad66d6caadd2d1da40798616a821282c3a6c22a9540601caeb8f33751.jpg",
@@ -1372,7 +1382,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 21.2.0, Atmosphere 1.10.2)",
         "multiplayer": "Non",
-        "cover": "https://i8.imageban.ru/out/2025/03/12/9788ad1ab212afdb4fde0e6499ab3e3a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6661272.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4e5e20f6b51a7373318a8852847511bc77d6dfb919509387a4e8281cf09c713a.jpg",
           "https://img-eshop.cdn.nintendo.net/i/4b83ded1417ea08186da074f8a16f8ee60582a5f3d80568655711979edbb4836.jpg",
@@ -1399,7 +1409,7 @@
         "voice_lang": "Japonais, Anglais",
         "performance": "Oui (sur 13.2.1, Atmosphere 1.2.6)",
         "multiplayer": "Non",
-        "cover": "https://i3.imageban.ru/out/2022/03/09/3d1718bdb522f683932c8ac4ccb62ac5.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6188547.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/5f8cbb22271e28e0cc255bca0d43dc6361c12d3ee14ccea6e89c659461c1af7d.jpg",
           "https://img-eshop.cdn.nintendo.net/i/97eb8b66e120bf50dbf0702afeddce3e7cf72f7f71b3512823d648045717dbcd.jpg",
@@ -1426,7 +1436,7 @@
         "voice_lang": "Aucun",
         "performance": "Oui (sur 14.1.2, Atmosphere 1.3.2)",
         "multiplayer": "Non",
-        "cover": "https://i115.fastpic.org/big/2021/0719/9c/8ec35853ef1a8a4b863443c0c5c2fe9c.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6077335.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/1e63bf500270240b892f721aa46227886cc95f8a0181e55a52a9381839eca359.jpg",
           "https://img-eshop.cdn.nintendo.net/i/2cec404e1f99241fd491bff217aa9680ed08c2b2c8da972a98f9b618e93d1783.jpg",
@@ -1453,7 +1463,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 13.2.0, Atmosphere 1.2.5)",
         "multiplayer": "Jusqu'à 4 joueurs",
-        "cover": "http://images.vfl.ru/ii/1644906249/6348663d/38039602.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5899150.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/8e99ff4581713b69a5c5a8f99dd2c13a1803fc9cdca0e79470bb298d86d272e6.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6fbd3f192b97083f5f2883c2035df35f23ddf58b1ec1320f412991774065d63a.jpg",
@@ -1480,7 +1490,7 @@
         "voice_lang": "Aucun",
         "performance": "Oui (sur 15.0.1, Atmosphere 1.4.1)",
         "multiplayer": "Jusqu'à 4 joueurs",
-        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
@@ -1507,7 +1517,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 13.2.0, Atmosphere 1.11.2)",
         "multiplayer": "Jusqu'à 2 joueurs",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/9b97dca52e35bbc4c282928b46f86a97.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912713.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/10f8685bdbf15d2365d40f52de7bf306fdf125c4a42b33762aaaa99ff4ec9d30.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fc4f116461a92aeec60354399f2b7104c6dcd6e25c6b848c4f5bae0520591621.jpg",
@@ -1534,7 +1544,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 12.1.0, Atmosphere 1.11.2)",
         "multiplayer": "4 joueurs",
-        "cover": "https://i7.imageban.ru/out/2026/09/23/0261d30c07a94ee3976b3c2f28240737.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912677.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/ad7a15f820391d47715b3573386688deff4315de36d3b61d213151a62c004a31.jpg",
           "https://img-eshop.cdn.nintendo.net/i/e88b7fe298cc00da31ff8103e34b4eeae22c4363d08a4c38cb54009273673092.jpg",
@@ -1561,7 +1571,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 16.2.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i5.imageban.ru/out/2026/09/23/b368341be9c0960c303476e8382bc1be.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912660.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4cc1bd00242cd57c30e49b825847824296113698293f1b6a550f1301d8a2cbaf.jpg",
           "https://img-eshop.cdn.nintendo.net/i/08c965517ebf0b37c9b4b6ea08db1e2d45fe20998b7640460635e0978a18ac9f.jpg",
@@ -1588,7 +1598,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i1.imageban.ru/out/2026/09/23/903ea6a3b525d2b319e129ef134afae3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912647.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/e56f01e7ee9b0632ffb6ed4e1f88826a05467f0c9e26d8f7a95a3cfc77f932e3.jpg",
           "https://img-eshop.cdn.nintendo.net/i/c4df3839c6f09df6d1a240341b27f298309c5e4d71caf1ecec81b357eabc4ccb.jpg",
@@ -1615,7 +1625,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/651ef3bab8b1d1117317d833f9d4bd55.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912643.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/d6b06f1ac5d48b9fc1e6fc9cfc10c879ebfdf91ceba677a5b9b69bbc52f3de73.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe311f432b0593357505e163cb2bc1abe5e798d19ff1377a04b23a86e136b7bb.jpg",
@@ -1640,7 +1650,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i4.imageban.ru/out/2026/09/22/533d6ee6aed2eef90f9980b6b344980e.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912256.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/8cfd761421f5f05b906beaaf6a4880ffbf15c8e9839b10d91a461b70caca3b7c.jpg",
           "https://img-eshop.cdn.nintendo.net/i/9d955489789e77fe00de1e2f5e0ddd48e7c8876ad5ca1ada8d21b18e7114f8f2.jpg",
@@ -1669,7 +1679,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Bis zu 2 Spieler",
-        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6128064.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
           "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
@@ -1693,10 +1703,10 @@
         "publisher": "tinyBuild Games",
         "image_format": ".NSZ (komprimiert ~19%, installierte Größe 1.06 GB)",
         "interface_lang": "Russisch, Englisch [RUS / ENG / Multi 11]",
-        "voice_lang": "Keine Sprachausgabe",
+        "voice_lang": "Englisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i5.imageban.ru/out/2026/09/20/131443547f64f0db24582003c7223269.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6913110.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/827f45740729a5014b35184fced695414039ab8a82537ccafec986c41c5a864f.jpg",
           "https://img-eshop.cdn.nintendo.net/i/5197cadd1398d994f026717250b6f8d970a7021de338eb9888515b6b9f29c7cd.jpg",
@@ -1710,8 +1720,8 @@
       },
       {
         "title": "Khoumbryu-porty na Wine-NX: Condemned Criminal Origins, Deus Ex, Dead Space [NRO][RUS]",
-        "size": "15.63 GB",
-        "magnet": "magnet:?xt=urn:btih:6206BA7135F95725A7A33A923649AA5410C1FAC8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "15.11 GB",
+        "magnet": "magnet:?xt=urn:btih:F478F1EC3ED66C6A4046EEA44E981813B38A4A9A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6910463",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6910463",
         "year": "2006",
@@ -1723,7 +1733,7 @@
         "voice_lang": "Russisch, von Team Raccoon",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i128.fastpic.org/big/2026/0923/4d/b8b97a859cb51dfa82c773424a278f4d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6910463.webp",
         "screenshots": [
           "https://i128.fastpic.org/big/2026/0918/71/dbbc9f641002b4a8d2d5d874fa6a2871.jpeg",
           "https://i128.fastpic.org/thumb/2026/0918/62/2a7aa6c1b0107d83322262a5de101462.jpeg",
@@ -1753,7 +1763,7 @@
         "voice_lang": "Englisch, Französisch, Deutsch, Spanisch",
         "performance": "Ja (auf 20.4.0, Atmosphere 1.9.4)",
         "multiplayer": "Bis zu 4 Spieler",
-        "cover": "https://i2.imageban.ru/out/2025/09/15/2086d93cbf6e29e1727bd558a3c05e81.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6751728.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4d27136638114a8436f649398b3a2865bffe71b736c0871c07e54a202e8bd0f6.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe4aa02ad66d6caadd2d1da40798616a821282c3a6c22a9540601caeb8f33751.jpg",
@@ -1780,7 +1790,7 @@
         "voice_lang": "Englisch",
         "performance": "Ja (auf 21.2.0, Atmosphere 1.10.2)",
         "multiplayer": "Nein",
-        "cover": "https://i8.imageban.ru/out/2025/03/12/9788ad1ab212afdb4fde0e6499ab3e3a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6661272.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4e5e20f6b51a7373318a8852847511bc77d6dfb919509387a4e8281cf09c713a.jpg",
           "https://img-eshop.cdn.nintendo.net/i/4b83ded1417ea08186da074f8a16f8ee60582a5f3d80568655711979edbb4836.jpg",
@@ -1807,7 +1817,7 @@
         "voice_lang": "Japanisch, Englisch",
         "performance": "Ja (auf 13.2.1, Atmosphere 1.2.6)",
         "multiplayer": "Nein",
-        "cover": "https://i3.imageban.ru/out/2022/03/09/3d1718bdb522f683932c8ac4ccb62ac5.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6188547.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/503520f1124dc823a03656c59773e886df01e2a538df3ce2fd94ed4bcbc2ab85.jpg",
           "https://img-eshop.cdn.nintendo.net/i/49d0fa5770ed12596eee9cf361bfcb94f997f3d8386f9cc3917cd4e6002ca9f5.jpg",
@@ -1833,7 +1843,7 @@
         "voice_lang": "Keine",
         "performance": "Ja (auf 14.1.2, Atmosphere 1.3.2)",
         "multiplayer": "Nein",
-        "cover": "https://i115.fastpic.org/big/2021/0719/9c/8ec35853ef1a8a4b863443c0c5c2fe9c.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6077335.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/1e63bf500270240b892f721aa46227886cc95f8a0181e55a52a9381839eca359.jpg",
           "https://img-eshop.cdn.nintendo.net/i/2cec404e1f99241fd491bff217aa9680ed08c2b2c8da972a98f9b618e93d1783.jpg",
@@ -1860,7 +1870,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 13.2.0, Atmosphere 1.2.5)",
         "multiplayer": "Bis zu 4 Spieler",
-        "cover": "http://images.vfl.ru/ii/1644906249/6348663d/38039602.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5899150.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/3f0d78436dbe4959d2479811c1e8a44a00196d6961fb61f1c2ff533e7b3c778b.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6fbd3f192b97083f5f2883c2035df35f23ddf58b1ec1320f412991774065d63a.jpg",
@@ -1887,7 +1897,7 @@
         "voice_lang": "Keine",
         "performance": "Ja (auf 15.0.1, Atmosphere 1.4.1)",
         "multiplayer": "Bis zu 4 Spieler",
-        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
@@ -1914,7 +1924,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 13.2.0, Atmosphere 1.11.2)",
         "multiplayer": "Bis zu 2 Spieler",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/9b97dca52e35bbc4c282928b46f86a97.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912713.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/10f8685bdbf15d2365d40f52de7bf306fdf125c4a42b33762aaaa99ff4ec9d30.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fc4f116461a92aeec60354399f2b7104c6dcd6e25c6b848c4f5bae0520591621.jpg",
@@ -1941,7 +1951,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 12.1.0, Atmosphere 1.11.2)",
         "multiplayer": "4 Spieler",
-        "cover": "https://i7.imageban.ru/out/2026/09/23/0261d30c07a94ee3976b3c2f28240737.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912677.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/ad7a15f820391d47715b3573386688deff4315de36d3b61d213151a62c004a31.jpg",
           "https://img-eshop.cdn.nintendo.net/i/e88b7fe298cc00da31ff8103e34b4eeae22c4363d08a4c38cb54009273673092.jpg",
@@ -1968,7 +1978,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 16.2.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i5.imageban.ru/out/2026/09/23/b368341be9c0960c303476e8382bc1be.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912660.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4cc1bd00242cd57c30e49b825847824296113698293f1b6a550f1301d8a2cbaf.jpg",
           "https://img-eshop.cdn.nintendo.net/i/08c965517ebf0b37c9b4b6ea08db1e2d45fe20998b7640460635e0978a18ac9f.jpg",
@@ -1995,7 +2005,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i1.imageban.ru/out/2026/09/23/903ea6a3b525d2b319e129ef134afae3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912647.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/e56f01e7ee9b0632ffb6ed4e1f88826a05467f0c9e26d8f7a95a3cfc77f932e3.jpg",
           "https://img-eshop.cdn.nintendo.net/i/c4df3839c6f09df6d1a240341b27f298309c5e4d71caf1ecec81b357eabc4ccb.jpg",
@@ -2022,7 +2032,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/651ef3bab8b1d1117317d833f9d4bd55.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912643.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/d6b06f1ac5d48b9fc1e6fc9cfc10c879ebfdf91ceba677a5b9b69bbc52f3de73.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe311f432b0593357505e163cb2bc1abe5e798d19ff1377a04b23a86e136b7bb.jpg",
@@ -2047,7 +2057,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i4.imageban.ru/out/2026/09/22/533d6ee6aed2eef90f9980b6b344980e.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912256.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/8cfd761421f5f05b906beaaf6a4880ffbf15c8e9839b10d91a461b70caca3b7c.jpg",
           "https://img-eshop.cdn.nintendo.net/i/9d955489789e77fe00de1e2f5e0ddd48e7c8876ad5ca1ada8d21b18e7114f8f2.jpg",
@@ -2076,7 +2086,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Fino a 2 giocatori",
-        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6128064.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
           "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
@@ -2100,10 +2110,10 @@
         "publisher": "tinyBuild Games",
         "image_format": ".NSZ (compresso ~19%, dimensione installata 1.06 GB)",
         "interface_lang": "Russo, Inglese [RUS / ENG / Multi 11]",
-        "voice_lang": "Senza doppiaggio",
+        "voice_lang": "Inglese",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/09/20/131443547f64f0db24582003c7223269.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6913110.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/827f45740729a5014b35184fced695414039ab8a82537ccafec986c41c5a864f.jpg",
           "https://img-eshop.cdn.nintendo.net/i/5197cadd1398d994f026717250b6f8d970a7021de338eb9888515b6b9f29c7cd.jpg",
@@ -2117,8 +2127,8 @@
       },
       {
         "title": "Khoumbryu-porty na Wine-NX: Condemned Criminal Origins, Deus Ex, Dead Space [NRO][RUS]",
-        "size": "15.63 GB",
-        "magnet": "magnet:?xt=urn:btih:6206BA7135F95725A7A33A923649AA5410C1FAC8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "15.11 GB",
+        "magnet": "magnet:?xt=urn:btih:F478F1EC3ED66C6A4046EEA44E981813B38A4A9A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6910463",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6910463",
         "year": "2006",
@@ -2130,7 +2140,7 @@
         "voice_lang": "Russo, di Team Raccoon",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i128.fastpic.org/big/2026/0923/4d/b8b97a859cb51dfa82c773424a278f4d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6910463.webp",
         "screenshots": [
           "https://i128.fastpic.org/big/2026/0918/71/dbbc9f641002b4a8d2d5d874fa6a2871.jpeg",
           "https://i128.fastpic.org/thumb/2026/0918/62/2a7aa6c1b0107d83322262a5de101462.jpeg",
@@ -2160,7 +2170,7 @@
         "voice_lang": "Inglese, Francese, Tedesco, Spagnolo",
         "performance": "Sì (su 20.4.0, Atmosphere 1.9.4)",
         "multiplayer": "Fino a 4 giocatori",
-        "cover": "https://i2.imageban.ru/out/2025/09/15/2086d93cbf6e29e1727bd558a3c05e81.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6751728.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4d27136638114a8436f649398b3a2865bffe71b736c0871c07e54a202e8bd0f6.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe4aa02ad66d6caadd2d1da40798616a821282c3a6c22a9540601caeb8f33751.jpg",
@@ -2187,7 +2197,7 @@
         "voice_lang": "Inglese",
         "performance": "Sì (su 21.2.0, Atmosphere 1.10.2)",
         "multiplayer": "No",
-        "cover": "https://i8.imageban.ru/out/2025/03/12/9788ad1ab212afdb4fde0e6499ab3e3a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6661272.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4e5e20f6b51a7373318a8852847511bc77d6dfb919509387a4e8281cf09c713a.jpg",
           "https://img-eshop.cdn.nintendo.net/i/4b83ded1417ea08186da074f8a16f8ee60582a5f3d80568655711979edbb4836.jpg",
@@ -2214,7 +2224,7 @@
         "voice_lang": "Giapponese, Inglese",
         "performance": "Sì (su 13.2.1, Atmosphere 1.2.6)",
         "multiplayer": "No",
-        "cover": "https://i3.imageban.ru/out/2022/03/09/3d1718bdb522f683932c8ac4ccb62ac5.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6188547.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/503520f1124dc823a03656c59773e886df01e2a538df3ce2fd94ed4bcbc2ab85.jpg",
           "https://img-eshop.cdn.nintendo.net/i/49d0fa5770ed12596eee9cf361bfcb94f997f3d8386f9cc3917cd4e6002ca9f5.jpg",
@@ -2240,7 +2250,7 @@
         "voice_lang": "Nessuno",
         "performance": "Sì (su 14.1.2, Atmosphere 1.3.2)",
         "multiplayer": "No",
-        "cover": "https://i115.fastpic.org/big/2021/0719/9c/8ec35853ef1a8a4b863443c0c5c2fe9c.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6077335.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/1e63bf500270240b892f721aa46227886cc95f8a0181e55a52a9381839eca359.jpg",
           "https://img-eshop.cdn.nintendo.net/i/2cec404e1f99241fd491bff217aa9680ed08c2b2c8da972a98f9b618e93d1783.jpg",
@@ -2267,7 +2277,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 13.2.0, Atmosphere 1.2.5)",
         "multiplayer": "Fino a 4 giocatori",
-        "cover": "http://images.vfl.ru/ii/1644906249/6348663d/38039602.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5899150.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/3f0d78436dbe4959d2479811c1e8a44a00196d6961fb61f1c2ff533e7b3c778b.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6fbd3f192b97083f5f2883c2035df35f23ddf58b1ec1320f412991774065d63a.jpg",
@@ -2294,7 +2304,7 @@
         "voice_lang": "Nessuno",
         "performance": "Sì (su 15.0.1, Atmosphere 1.4.1)",
         "multiplayer": "Fino a 4 giocatori",
-        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
@@ -2321,7 +2331,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 13.2.0, Atmosphere 1.11.2)",
         "multiplayer": "Fino a 2 giocatori",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/9b97dca52e35bbc4c282928b46f86a97.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912713.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/10f8685bdbf15d2365d40f52de7bf306fdf125c4a42b33762aaaa99ff4ec9d30.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fc4f116461a92aeec60354399f2b7104c6dcd6e25c6b848c4f5bae0520591621.jpg",
@@ -2348,7 +2358,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 12.1.0, Atmosphere 1.11.2)",
         "multiplayer": "4 giocatori",
-        "cover": "https://i7.imageban.ru/out/2026/09/23/0261d30c07a94ee3976b3c2f28240737.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912677.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/ad7a15f820391d47715b3573386688deff4315de36d3b61d213151a62c004a31.jpg",
           "https://img-eshop.cdn.nintendo.net/i/e88b7fe298cc00da31ff8103e34b4eeae22c4363d08a4c38cb54009273673092.jpg",
@@ -2375,7 +2385,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 16.2.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/09/23/b368341be9c0960c303476e8382bc1be.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912660.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4cc1bd00242cd57c30e49b825847824296113698293f1b6a550f1301d8a2cbaf.jpg",
           "https://img-eshop.cdn.nintendo.net/i/08c965517ebf0b37c9b4b6ea08db1e2d45fe20998b7640460635e0978a18ac9f.jpg",
@@ -2402,7 +2412,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i1.imageban.ru/out/2026/09/23/903ea6a3b525d2b319e129ef134afae3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912647.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/e56f01e7ee9b0632ffb6ed4e1f88826a05467f0c9e26d8f7a95a3cfc77f932e3.jpg",
           "https://img-eshop.cdn.nintendo.net/i/c4df3839c6f09df6d1a240341b27f298309c5e4d71caf1ecec81b357eabc4ccb.jpg",
@@ -2429,7 +2439,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/651ef3bab8b1d1117317d833f9d4bd55.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912643.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/d6b06f1ac5d48b9fc1e6fc9cfc10c879ebfdf91ceba677a5b9b69bbc52f3de73.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe311f432b0593357505e163cb2bc1abe5e798d19ff1377a04b23a86e136b7bb.jpg",
@@ -2454,7 +2464,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i4.imageban.ru/out/2026/09/22/533d6ee6aed2eef90f9980b6b344980e.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912256.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/8cfd761421f5f05b906beaaf6a4880ffbf15c8e9839b10d91a461b70caca3b7c.jpg",
           "https://img-eshop.cdn.nintendo.net/i/9d955489789e77fe00de1e2f5e0ddd48e7c8876ad5ca1ada8d21b18e7114f8f2.jpg",
@@ -2483,7 +2493,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Até 2 jogadores",
-        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6128064.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
           "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
@@ -2507,10 +2517,10 @@
         "publisher": "tinyBuild Games",
         "image_format": ".NSZ (compactado ~19%, tamanho instalado 1.06 GB)",
         "interface_lang": "Russo, Inglês [RUS / ENG / Multi 11]",
-        "voice_lang": "Sem dublagem",
+        "voice_lang": "Inglês",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i5.imageban.ru/out/2026/09/20/131443547f64f0db24582003c7223269.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6913110.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/827f45740729a5014b35184fced695414039ab8a82537ccafec986c41c5a864f.jpg",
           "https://img-eshop.cdn.nintendo.net/i/5197cadd1398d994f026717250b6f8d970a7021de338eb9888515b6b9f29c7cd.jpg",
@@ -2524,8 +2534,8 @@
       },
       {
         "title": "Khoumbryu-porty na Wine-NX: Condemned Criminal Origins, Deus Ex, Dead Space [NRO][RUS]",
-        "size": "15.63 GB",
-        "magnet": "magnet:?xt=urn:btih:6206BA7135F95725A7A33A923649AA5410C1FAC8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "15.11 GB",
+        "magnet": "magnet:?xt=urn:btih:F478F1EC3ED66C6A4046EEA44E981813B38A4A9A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6910463",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6910463",
         "year": "2006",
@@ -2537,7 +2547,7 @@
         "voice_lang": "Russo, por Team Raccoon",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i128.fastpic.org/big/2026/0923/4d/b8b97a859cb51dfa82c773424a278f4d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6910463.webp",
         "screenshots": [
           "https://i128.fastpic.org/big/2026/0918/71/dbbc9f641002b4a8d2d5d874fa6a2871.jpeg",
           "https://i128.fastpic.org/thumb/2026/0918/62/2a7aa6c1b0107d83322262a5de101462.jpeg",
@@ -2567,7 +2577,7 @@
         "voice_lang": "Inglês, Francês, Alemão, Espanhol",
         "performance": "Sim (no 20.4.0, Atmosphere 1.9.4)",
         "multiplayer": "Até 4 jogadores",
-        "cover": "https://i2.imageban.ru/out/2025/09/15/2086d93cbf6e29e1727bd558a3c05e81.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6751728.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4d27136638114a8436f649398b3a2865bffe71b736c0871c07e54a202e8bd0f6.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe4aa02ad66d6caadd2d1da40798616a821282c3a6c22a9540601caeb8f33751.jpg",
@@ -2594,7 +2604,7 @@
         "voice_lang": "Inglês",
         "performance": "Sim (no 21.2.0, Atmosphere 1.10.2)",
         "multiplayer": "Não",
-        "cover": "https://i8.imageban.ru/out/2025/03/12/9788ad1ab212afdb4fde0e6499ab3e3a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6661272.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4e5e20f6b51a7373318a8852847511bc77d6dfb919509387a4e8281cf09c713a.jpg",
           "https://img-eshop.cdn.nintendo.net/i/4b83ded1417ea08186da074f8a16f8ee60582a5f3d80568655711979edbb4836.jpg",
@@ -2621,7 +2631,7 @@
         "voice_lang": "Japonês, Inglês",
         "performance": "Sim (no 13.2.1, Atmosphere 1.2.6)",
         "multiplayer": "Não",
-        "cover": "https://i3.imageban.ru/out/2022/03/09/3d1718bdb522f683932c8ac4ccb62ac5.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6188547.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/503520f1124dc823a03656c59773e886df01e2a538df3ce2fd94ed4bcbc2ab85.jpg",
           "https://img-eshop.cdn.nintendo.net/i/49d0fa5770ed12596eee9cf361bfcb94f997f3d8386f9cc3917cd4e6002ca9f5.jpg",
@@ -2647,7 +2657,7 @@
         "voice_lang": "Nenhum",
         "performance": "Sim (no 14.1.2, Atmosphere 1.3.2)",
         "multiplayer": "Não",
-        "cover": "https://i115.fastpic.org/big/2021/0719/9c/8ec35853ef1a8a4b863443c0c5c2fe9c.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6077335.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/1e63bf500270240b892f721aa46227886cc95f8a0181e55a52a9381839eca359.jpg",
           "https://img-eshop.cdn.nintendo.net/i/2cec404e1f99241fd491bff217aa9680ed08c2b2c8da972a98f9b618e93d1783.jpg",
@@ -2674,7 +2684,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 13.2.0, Atmosphere 1.2.5)",
         "multiplayer": "Até 4 jogadores",
-        "cover": "http://images.vfl.ru/ii/1644906249/6348663d/38039602.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5899150.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/3f0d78436dbe4959d2479811c1e8a44a00196d6961fb61f1c2ff533e7b3c778b.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6fbd3f192b97083f5f2883c2035df35f23ddf58b1ec1320f412991774065d63a.jpg",
@@ -2701,7 +2711,7 @@
         "voice_lang": "Nenhum",
         "performance": "Sim (no 15.0.1, Atmosphere 1.4.1)",
         "multiplayer": "Até 4 jogadores",
-        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
@@ -2728,7 +2738,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 13.2.0, Atmosphere 1.11.2)",
         "multiplayer": "Até 2 jogadores",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/9b97dca52e35bbc4c282928b46f86a97.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912713.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/10f8685bdbf15d2365d40f52de7bf306fdf125c4a42b33762aaaa99ff4ec9d30.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fc4f116461a92aeec60354399f2b7104c6dcd6e25c6b848c4f5bae0520591621.jpg",
@@ -2755,7 +2765,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 12.1.0, Atmosphere 1.11.2)",
         "multiplayer": "4 jogadores",
-        "cover": "https://i7.imageban.ru/out/2026/09/23/0261d30c07a94ee3976b3c2f28240737.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912677.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/ad7a15f820391d47715b3573386688deff4315de36d3b61d213151a62c004a31.jpg",
           "https://img-eshop.cdn.nintendo.net/i/e88b7fe298cc00da31ff8103e34b4eeae22c4363d08a4c38cb54009273673092.jpg",
@@ -2782,7 +2792,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 16.2.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i5.imageban.ru/out/2026/09/23/b368341be9c0960c303476e8382bc1be.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912660.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4cc1bd00242cd57c30e49b825847824296113698293f1b6a550f1301d8a2cbaf.jpg",
           "https://img-eshop.cdn.nintendo.net/i/08c965517ebf0b37c9b4b6ea08db1e2d45fe20998b7640460635e0978a18ac9f.jpg",
@@ -2809,7 +2819,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i1.imageban.ru/out/2026/09/23/903ea6a3b525d2b319e129ef134afae3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912647.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/e56f01e7ee9b0632ffb6ed4e1f88826a05467f0c9e26d8f7a95a3cfc77f932e3.jpg",
           "https://img-eshop.cdn.nintendo.net/i/c4df3839c6f09df6d1a240341b27f298309c5e4d71caf1ecec81b357eabc4ccb.jpg",
@@ -2836,7 +2846,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/651ef3bab8b1d1117317d833f9d4bd55.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912643.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/d6b06f1ac5d48b9fc1e6fc9cfc10c879ebfdf91ceba677a5b9b69bbc52f3de73.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe311f432b0593357505e163cb2bc1abe5e798d19ff1377a04b23a86e136b7bb.jpg",
@@ -2861,7 +2871,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i4.imageban.ru/out/2026/09/22/533d6ee6aed2eef90f9980b6b344980e.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912256.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/8cfd761421f5f05b906beaaf6a4880ffbf15c8e9839b10d91a461b70caca3b7c.jpg",
           "https://img-eshop.cdn.nintendo.net/i/9d955489789e77fe00de1e2f5e0ddd48e7c8876ad5ca1ada8d21b18e7114f8f2.jpg",
@@ -2890,7 +2900,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "最多 2 人",
-        "cover": "http://images.vfl.ru/ii/1635255396/cbd4e06a/36424769.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6128064.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/5c5bf5b705962e98aa21012557d140f7fc3e508855bdda1d3f4e1e71b3999447.jpg",
           "https://img-eshop.cdn.nintendo.net/i/c75f57f3a18c4031da2a14560d9de3d9aae2954e06b95d21a5715b86b00b466d.jpg",
@@ -2914,10 +2924,10 @@
         "publisher": "tinyBuild Games",
         "image_format": ".NSZ (已压缩 ~19%, 安装大小 1.06 GB)",
         "interface_lang": "俄语, 英语 [RUS / ENG / Multi 11]",
-        "voice_lang": "无语音",
+        "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i5.imageban.ru/out/2026/09/20/131443547f64f0db24582003c7223269.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6913110.webp",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/0920/8f/22d0857cdfd2be21f7d75ba12dda378f.jpeg",
           "https://i128.fastpic.org/thumb/2026/0920/a9/be788b37656ce36bb1040cac680a4aa9.jpeg",
@@ -2934,8 +2944,8 @@
       },
       {
         "title": "Khoumbryu-porty na Wine-NX: Condemned Criminal Origins, Deus Ex, Dead Space [NRO][RUS]",
-        "size": "15.63 GB",
-        "magnet": "magnet:?xt=urn:btih:6206BA7135F95725A7A33A923649AA5410C1FAC8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "15.11 GB",
+        "magnet": "magnet:?xt=urn:btih:F478F1EC3ED66C6A4046EEA44E981813B38A4A9A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6910463",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6910463",
         "year": "2006",
@@ -2947,7 +2957,7 @@
         "voice_lang": "俄语, 来自 Team Raccoon",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i128.fastpic.org/big/2026/0923/4d/b8b97a859cb51dfa82c773424a278f4d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6910463.webp",
         "screenshots": [
           "https://i128.fastpic.org/big/2026/0918/71/dbbc9f641002b4a8d2d5d874fa6a2871.jpeg",
           "https://i128.fastpic.org/thumb/2026/0918/62/2a7aa6c1b0107d83322262a5de101462.jpeg",
@@ -2977,7 +2987,7 @@
         "voice_lang": "英语, 法语, 德语, 西班牙语",
         "performance": "是 (在 20.4.0, Atmosphere 1.9.4)",
         "multiplayer": "最多 4 人",
-        "cover": "https://i2.imageban.ru/out/2025/09/15/2086d93cbf6e29e1727bd558a3c05e81.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6751728.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4d27136638114a8436f649398b3a2865bffe71b736c0871c07e54a202e8bd0f6.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe4aa02ad66d6caadd2d1da40798616a821282c3a6c22a9540601caeb8f33751.jpg",
@@ -3004,7 +3014,7 @@
         "voice_lang": "英语",
         "performance": "是 (在 21.2.0, Atmosphere 1.10.2)",
         "multiplayer": "无",
-        "cover": "https://i8.imageban.ru/out/2025/03/12/9788ad1ab212afdb4fde0e6499ab3e3a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6661272.webp",
         "screenshots": [
           "https://i124.fastpic.org/thumb/2025/0312/fa/6fbc7dbe2f7a196683971432fea8f2fa.jpeg",
           "https://i124.fastpic.org/thumb/2025/0312/98/e2da6f568280abe283b176195eff0198.jpeg",
@@ -3034,7 +3044,7 @@
         "voice_lang": "日语, 英语",
         "performance": "是 (在 13.2.1, Atmosphere 1.2.6)",
         "multiplayer": "无",
-        "cover": "https://i3.imageban.ru/out/2022/03/09/3d1718bdb522f683932c8ac4ccb62ac5.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6188547.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/503520f1124dc823a03656c59773e886df01e2a538df3ce2fd94ed4bcbc2ab85.jpg",
           "https://img-eshop.cdn.nintendo.net/i/49d0fa5770ed12596eee9cf361bfcb94f997f3d8386f9cc3917cd4e6002ca9f5.jpg",
@@ -3060,7 +3070,7 @@
         "voice_lang": "无",
         "performance": "是 (在 14.1.2, Atmosphere 1.3.2)",
         "multiplayer": "无",
-        "cover": "https://i115.fastpic.org/big/2021/0719/9c/8ec35853ef1a8a4b863443c0c5c2fe9c.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6077335.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/1e63bf500270240b892f721aa46227886cc95f8a0181e55a52a9381839eca359.jpg",
           "https://img-eshop.cdn.nintendo.net/i/2cec404e1f99241fd491bff217aa9680ed08c2b2c8da972a98f9b618e93d1783.jpg",
@@ -3087,7 +3097,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 13.2.0, Atmosphere 1.2.5)",
         "multiplayer": "最多 4 人",
-        "cover": "http://images.vfl.ru/ii/1644906249/6348663d/38039602.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5899150.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/3f0d78436dbe4959d2479811c1e8a44a00196d6961fb61f1c2ff533e7b3c778b.jpg",
           "https://img-eshop.cdn.nintendo.net/i/6fbd3f192b97083f5f2883c2035df35f23ddf58b1ec1320f412991774065d63a.jpg",
@@ -3114,7 +3124,7 @@
         "voice_lang": "无",
         "performance": "是 (在 15.0.1, Atmosphere 1.4.1)",
         "multiplayer": "最多 4 人",
-        "cover": "https://i106.fastpic.org/big/2019/0120/04/274f3873deb3cdb7a3aa13720264e104.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/a90631a61c3f9507db1ed5c7d7db1723f54e31e11916f80209bd18815aada52e.jpg",
           "https://img-eshop.cdn.nintendo.net/i/7e1cf0628cd3ae01ce9141adc8143412557276aad58f1d8891b291d299307fbc.jpg",
@@ -3141,7 +3151,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 13.2.0, Atmosphere 1.11.2)",
         "multiplayer": "最多 2 人",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/9b97dca52e35bbc4c282928b46f86a97.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912713.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/10f8685bdbf15d2365d40f52de7bf306fdf125c4a42b33762aaaa99ff4ec9d30.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fc4f116461a92aeec60354399f2b7104c6dcd6e25c6b848c4f5bae0520591621.jpg",
@@ -3168,7 +3178,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 12.1.0, Atmosphere 1.11.2)",
         "multiplayer": "4 人",
-        "cover": "https://i7.imageban.ru/out/2026/09/23/0261d30c07a94ee3976b3c2f28240737.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912677.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/ad7a15f820391d47715b3573386688deff4315de36d3b61d213151a62c004a31.jpg",
           "https://img-eshop.cdn.nintendo.net/i/e88b7fe298cc00da31ff8103e34b4eeae22c4363d08a4c38cb54009273673092.jpg",
@@ -3195,7 +3205,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 16.2.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i5.imageban.ru/out/2026/09/23/b368341be9c0960c303476e8382bc1be.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912660.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/4cc1bd00242cd57c30e49b825847824296113698293f1b6a550f1301d8a2cbaf.jpg",
           "https://img-eshop.cdn.nintendo.net/i/08c965517ebf0b37c9b4b6ea08db1e2d45fe20998b7640460635e0978a18ac9f.jpg",
@@ -3222,7 +3232,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i1.imageban.ru/out/2026/09/23/903ea6a3b525d2b319e129ef134afae3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912647.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/c334727506bc3cfad7aeb6c46d42dc9c4275419e1c1757b9701e0edfc3773038.jpg",
           "https://img-eshop.cdn.nintendo.net/i/7a720fd7e7475c643f8fd3f02f260882c056c43c62be6041fec3e341caf251a0.jpg",
@@ -3249,7 +3259,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i4.imageban.ru/out/2026/09/23/651ef3bab8b1d1117317d833f9d4bd55.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912643.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/7eaae5b95534d3640fb7c6fef4340d7f5840d4c0de4e6c47ce1ed8f6197396e3.jpg",
           "https://img-eshop.cdn.nintendo.net/i/fe311f432b0593357505e163cb2bc1abe5e798d19ff1377a04b23a86e136b7bb.jpg",
@@ -3274,7 +3284,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i4.imageban.ru/out/2026/09/22/533d6ee6aed2eef90f9980b6b344980e.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6912256.webp",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/e5da56a8103127c24a05e2719e3f70ca936dbee3669ac8cebc764bd3309c2dfe.jpg",
           "https://img-eshop.cdn.nintendo.net/i/7f4042d999a33c78b9f2d789706d236094301f6088231a616212210083e2537a.jpg",

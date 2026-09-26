@@ -26,6 +26,12 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install dependencies
+        run: pip install pillow requests
+
+      - name: Download covers for new releases
+        run: python scripts/download_covers.py
+
       - name: Run RU catalog build script
         run: python scripts/build_ru_catalog.py
 
@@ -38,6 +44,6 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update localized game catalogs and 72h catalog diff"
-          file_pattern: "*_catalog.json catalog_diff.json diff_history.json scripts/translations_cache*.json"
+          commit_message: "Auto-update localized game catalogs, covers, and 72h catalog diff"
+          file_pattern: "*_catalog.json catalog_diff.json diff_history.json scripts/translations_cache*.json covers/*.webp"
 

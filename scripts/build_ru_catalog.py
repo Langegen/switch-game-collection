@@ -11,6 +11,9 @@ TITLEDB_RU_FILE = "RU.ru.json"
 SWITCH_GAMES_URL = "https://raw.githubusercontent.com/Langegen/switch-games/main/switch_games.json"
 TITLEDB_RU_URL = "https://raw.githubusercontent.com/blawar/titledb/master/RU.ru.json"
 
+COVERS_DIR = Path("covers")
+COVERS_BASE_URL = "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers"
+
 
 def load_json_file(filename, fallback_url):
     if os.path.exists(filename) and os.path.getsize(filename) > 1000:
@@ -121,6 +124,13 @@ def main():
             if not isinstance(screenshots, list):
                 screenshots = []
 
+        topic_id = str(item.get("topic_id", "")).strip()
+        cover_path = COVERS_DIR / f"{topic_id}.webp"
+        if cover_path.exists() and cover_path.stat().st_size > 500:
+            cover = f"{COVERS_BASE_URL}/{topic_id}.webp"
+        else:
+            cover = item.get("cover", "")
+
         ru_catalog.append({
             "title": item.get("title", ""),
             "size": item.get("size", ""),
@@ -136,7 +146,7 @@ def main():
             "voice_lang": item.get("voice_lang", ""),
             "performance": item.get("performance", ""),
             "multiplayer": item.get("multiplayer", ""),
-            "cover": item.get("cover", ""),
+            "cover": cover,
             "screenshots": screenshots,
             "description": description,
             "title_id": item.get("title_id", ""),
