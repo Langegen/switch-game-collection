@@ -90779,8 +90779,8 @@
         "url": "https://rutracker.org/forum/viewtopic.php?t=6382196",
         "year": "2023, 6月",
         "genre": "Action, Platformer, Metroidvania",
-        "developer": "Seafloor",
-        "publisher": "Seafloor Games LLC",
+        "developer": "Seafloor Games",
+        "publisher": "Top Hat Studios",
         "image_format": ".NSZ (已压缩 ~80%, 安装大小 0.42 GB)",
         "interface_lang": "英语 [ENG]",
         "voice_lang": "无语音",
@@ -91194,12 +91194,12 @@
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5821038.jpg",
         "screenshots": [
-            "https://i111.fastpic.ru/thumb/2019/1215/a5/bfab3625742609450abdba05c871ada5.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1215/73/8183e3713ce3e1137c85ebff0997ad73.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1215/be/ea15d5d8ec3cf3bd1fad76371c84d7be.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1215/ec/350240e5acdd819cf1503d01da11e2ec.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1215/79/453edef1c41079502aaf148c987e3879.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1215/22/14d3f7d5ef5f71d3a909d0792b3cf522.jpeg"
+            "https://i111.fastpic.org/thumb/2019/1215/a5/bfab3625742609450abdba05c871ada5.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1215/73/8183e3713ce3e1137c85ebff0997ad73.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1215/be/ea15d5d8ec3cf3bd1fad76371c84d7be.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1215/ec/350240e5acdd819cf1503d01da11e2ec.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1215/79/453edef1c41079502aaf148c987e3879.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1215/22/14d3f7d5ef5f71d3a909d0792b3cf522.jpeg"
         ],
         "description": "V nedalekom mrachnom budushchem, napominayushchem opisannoe Oruellom, kompaniya «Regnantkorp» porabotila naselenie pri pomoshchi svoikh vyzyvayushchikh zavisimost besplatnykh videoigr.\nVam predstoit vzhitsya v rol buntarya-enota, kotoryy vmeste so svoim vernym skakunom-lamoy probralsya v fantasticheskiy, napominayushchiy zamok ofis «Regnantkorp», gde polno vragov, ispytaniy, sekretov i zanimayushchikh vysokie posty sviney.\nProbeytes s boem v glavnyy shtab zlodeev, raskroyte ikh zagovor i spasite lyubimye videoigry!..",
         "title_id": "0100630010252000"
@@ -93374,7 +93374,7 @@
         "genre": "Puzzle, Homebrew",
         "developer": "akouzoukos",
         "publisher": "akouzoukos",
-        "image_format": "NSP",
+        "image_format": "NRO",
         "interface_lang": "英语 [ENG]",
         "voice_lang": "无语音",
         "performance": "是 (在 18.1.0, Atmosphere 1.7.1)",
