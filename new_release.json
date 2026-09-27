@@ -1,4 +1,8 @@
 [
+  {"title": "Sin Reloaded Gold + Wages of Sin", "title_id": "0100F07026DA8000", "metacritic": null},
+  {"title": "Pit Panic", "title_id": "010036B02609E000", "metacritic": null},
+  {"title": "Noobs Want to Live", "title_id": "010091901BE24000", "metacritic": null},
+  {"title": "Choppa Rescue Rivals", "title_id": "0100F7501198E000", "metacritic": null},
   {"title": "Ila a Frosty Glide", "title_id": "010013E0230B6000", "metacritic": 74.0},
   {"title": "Clone Drone in the Danger Zone", "title_id": "0100AA201236E000", "metacritic": 82.0},
   {"title": "Tokyo Valkyries", "title_id": "01002D6020242000", "metacritic": null},
@@ -9,10 +13,15 @@
   {"title": "Hunt the Night", "title_id": "01009440164AE000", "metacritic": 80.0},
   {"title": "Until Then + DLC Afterimages", "title_id": "010019C023004000", "metacritic": 79.0},
   {"title": "Echoes of the Plum Grove", "title_id": "0100600020CA4000", "metacritic": null},
+  {"title": "EA Sports FC 27", "title_id": "0100C49025D3E000", "metacritic": null},
+  {"title": "Qliphah in Providence's Shadow", "title_id": "01008E20257E0000", "metacritic": null},
+  {"title": "Kalanoro", "title_id": "0100EB60202C8000", "metacritic": null},
+  {"title": "Tentacle Tango", "title_id": "01001AA022B66000", "metacritic": null},
+  {"title": "Garfield Escape from Monday", "title_id": "01000EB0276F2000", "metacritic": null},
   {"title": "Under Night In-birth II (2) Sys Celes + 5 DLC", "title_id": "0100BD401D18A000", "metacritic": null},
   {"title": "Terraria", "title_id": "0100E46006708000", "metacritic": 81.0},
   {"title": "Lucky Tower Ultimate", "title_id": "0100B5B01AC50000", "metacritic": null},
-  {"title": "Ghost Master Resurrection + 8 DLC", "title_id": "01001E1025696000", "metacritic": null},
+  {"title": "Ghost Master Resurrection + 9 DLC", "title_id": "01001E1025696000", "metacritic": null},
   {"title": "Sega Genesis / Mega Drive: Nintendo Switch Online (официальные игры NSO) + 2 кастомных LFS-мода", "title_id": "0100B3C014BDA000", "metacritic": null},
   {"title": "Fate Reawakened (Prometheus, Undiscovered Realms, The Traitor Soul, The Cursed King)", "title_id": "0100B5C01F99C000", "metacritic": null},
   {"title": "LEGO Party", "title_id": "0100A760232D3000", "metacritic": 81.0},
@@ -38,9 +47,5 @@
   {"title": "Culdcept Begins", "title_id": "01004F4024504000", "metacritic": null},
   {"title": "Absolum", "title_id": "0100A83022A22000", "metacritic": 86.0},
   {"title": "The Rogue Prince of Persia", "title_id": "01008D9022462000", "metacritic": 80.0},
-  {"title": "Astroneer + DLC Megatech, Glitchwalkers", "title_id": "0100E63013E60000", "metacritic": 71.0},
-  {"title": "Disgaea Mayhem + 3 DLC", "title_id": "01001B0027758000", "metacritic": null},
-  {"title": "Dungeon Clawler", "title_id": "0100A500257A4000", "metacritic": null},
-  {"title": "Marsupilami 2 Salsa Palombia", "title_id": "01000990277CA000", "metacritic": null},
-  {"title": "Quest of Dungeons", "title_id": "01001DE005012000", "metacritic": 74.0}
+  {"title": "Astroneer + DLC Megatech, Glitchwalkers", "title_id": "0100E63013E60000", "metacritic": 71.0}
 ]
