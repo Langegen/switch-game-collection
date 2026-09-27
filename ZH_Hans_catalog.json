@@ -89480,15 +89480,18 @@
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6191122.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/0389cbbb94dbd906661664547ea0dc651b4c2f006cc3547d8915d17254e9e7f3.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a3bb6d712b61eb619423dd3e6f5670b69b10eda5aa189dd39a126211a5d09c3a.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/fa1885eb66f0714f985d32f732087e8268b7ed7096fda4283aa0d617057d68cc.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f82b7e84564a962a8a4057c28bca5628eab1e32e85375d35589d7d08b0ad1a80.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/d23079073eaa0ff8836ce04b212ea5cb379a36685f8d864006c0acac5f55da2c.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/6cd8aefb7159faddd4828901e540cb7d91636d37b1a98f58fbdc74ee889c1b3f.jpg"
+            "https://i116.fastpic.org/thumb/2022/0316/68/bdab1a0d5090c5c7a42aadd4c4c24d68.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0316/e1/4f6a15db6b425bc147d9e84aab82bfe1.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0316/d1/55fb2908db90922885ec4c1d03a1ecd1.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0316/21/1a1c36e366a9bef58753d9e546bea521.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0316/8d/1eeb00d338d968a1fcc9da2bb83f158d.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0316/6e/9538131cf6b2c22344d9766ae80e936e.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0316/ef/74bf913ab0823e2d9c022b58c427c6ef.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0316/f7/35f6a24b0ef5534b3e510bbde356c0f7.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0316/68/6f0f40a71da22e41b9539907276d1168.jpeg"
         ],
-        "description": "Fight back in turn-based battles, manage character relationships, collect dangerous artefacts, and hopefully restore a world torn apart by oathbreakers, warmongers, and wielders of forbidden arcane secrets.\n\nA world on its last strand of hope brought to its knees by a Calamity centuries ago that tore down its mighty civilizations. Petty kings rule in place of grand emperors of old that wage fruitless, ill-advised wars picking over ancient ruins like glorified scavengers.\n\nLead a team of four students in the Brookstead Military Academy, who are shut down on the mysterious orders of King Varic. The ruler of the Kingdom of Delia is preparing to break a millennium-old treaty and Brookstead students make for fine cannon fodder... However, these four soldiers are destined for more than just acting as unwilling meat for another grinder.\n\nThey may not know it yet, but they will make their mark on history.\n\nA World Plagued by War\n\nLead soldiers into the fray across a world torn apart by endless war and magical cataclysms.\n\nFight through hand-crafted, turn-based combat scenarios spread out across 28 chapters, as rookies become veterans.\n\nTest your tactical mettle. Maneuver, attack, break through, and - maybe - turn the tide of the war.\n\nEngineer the rise of legends, from a pile of raw conscripts to a band of mythical heroes.\n\nHeroes in the Making\n\nCarefully nurture your squad to ensure survival through long bouts to make a difference in a seemingly hopeless world.\n\nAssemble the squad from 30 playable characters, with their own background, personality, and motivations, then train them and pick from 54 distinct classes, with their own iconic attacks and skills. \n\nOutfit each team with hundreds of weapons and spells, from simple blades and missiles to ancient, eldritch artefacts that produce world-ending magic.\n\nDefeat doesn’t mean permadeath, but there is a price to pay: Every time a warrior falls, it means a grave wound, a stat penalty, and weakening your squad.\n\nA Glimmer of Hope\n\nHope is a rare commodity in a world ruined by Calamity, good thing these heroes are filled to the brim.\n\nDefy the fates and make a difference as the head of this unlikely band of heroes.\n\nWatch characters bond together on the battlefield and their relationships evolve through 400 individual conversations.\n\nRemember: Any hero can make a difference - if they live long enough.",
-        "title_id": "01003E701510E000"
+        "description": "进行回合制战斗，管理角色关系，收集危险的文物，也许还可以恢复被战争贩子和禁忌秘密持有者撕裂的世界。\n一个濒临最后一丝希望的世界，被一场毁灭了其强大文明的灾难击垮了。小国王们发动了毫无成果、鲁莽的战争，像光荣的拾荒者一样在古老的废墟中搜寻。\n带领一支由布鲁克斯泰德军事学院的四名学生组成的团队，他们是由瓦里克国王的神秘命令召集起来的。迪莉娅王国的统治者准备撕毁千年条约，学生们成为优秀的炮灰……然而，这四名士兵注定不仅仅是另一个军事绞肉机的不甘人肉的角色。",
+        "title_id": "01009DE023B88000"
     },
     {
         "title": "Mad Bullets [NSZ][ENG]",
@@ -90212,7 +90215,7 @@
         "genre": "First Person Shooter, Action, Homebrew",
         "developer": "Ritual Entertainment",
         "publisher": "Activision",
-        "image_format": "NSP",
+        "image_format": "NRO",
         "interface_lang": "英语 [ENG] + 俄语, lyubitelskiy 来自 7Wolf",
         "voice_lang": "英语 + 俄语 lyubitelskaya 来自 Districh",
         "performance": "是 (在 18.1.0, Atmosphere 1.7.1)",

@@ -1,10 +1,40 @@
 {
   "version": 1,
-  "generated_at": 1790456466,
+  "generated_at": 1790468858,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
     "ru": [
+      {
+        "title": "Dark Deity 1-2 [NSZ][ENG]",
+        "size": "1.74 GB",
+        "magnet": "magnet:?xt=urn:btih:6AE85D592EEBD10CC61409EA622F4A2A29CFD180&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6191122",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6191122",
+        "year": "2022, март — 2025, сентябрь",
+        "genre": "Role-Playing, Strategy",
+        "developer": "Sword & Axe LLC",
+        "publisher": "Freedom Games, Indie.io",
+        "image_format": ".NSZ (сжато ~17%, установленный объём 2.09 ГБ)",
+        "interface_lang": "Английский [ENG]",
+        "voice_lang": "не озвучивается",
+        "performance": "Да (на 14.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "нет",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6191122.jpg",
+        "screenshots": [
+          "https://i116.fastpic.org/thumb/2022/0316/68/bdab1a0d5090c5c7a42aadd4c4c24d68.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/e1/4f6a15db6b425bc147d9e84aab82bfe1.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/d1/55fb2908db90922885ec4c1d03a1ecd1.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/21/1a1c36e366a9bef58753d9e546bea521.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/8d/1eeb00d338d968a1fcc9da2bb83f158d.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/6e/9538131cf6b2c22344d9766ae80e936e.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/ef/74bf913ab0823e2d9c022b58c427c6ef.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/f7/35f6a24b0ef5534b3e510bbde356c0f7.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/68/6f0f40a71da22e41b9539907276d1168.jpeg"
+        ],
+        "description": "Сражайтесь в пошаговых битвах, управляйте взаимоотношениями персонажей, собирайте опасные артефакты и, возможно, восстановите мир, раздираемый на части поджигателями войны и обладателями запретных тайн.\nМир на последней нити надежды, поставленный на колени Бедствием, уничтожившим его могучие цивилизации. Мелкие короли, которые ведут бесплодные, опрометчивые войны, ковыряясь в древних руинах, словно прославленные падальщики.\nВозглавьте команду из четырех студентов Военной академии Брукстеда, которые были созваны по таинственному приказу короля Варика. Правитель Королевства Делия готовится разорвать договор тысячелетней давности, и студенты становятся прекрасным пушечным мясом... Однако этим четырем солдатам суждено нечто большее, чем просто роль невольного мяса для очередной военный мясорубки.",
+        "title_id": "01009DE023B88000"
+      },
       {
         "title": "Sega Genesis / Mega Drive: Nintendo Switch Online (официальные игры NSO) + 2 кастомных LFS-мода [NSZ][ENG]",
         "size": "1.59 GB",
@@ -231,36 +261,36 @@
         ],
         "description": "\"Monster Prom 3: Monster Roadtrip\" finally answers the age-old question: \"What if we added survival mechanics to a beloved dating sim franchise?\"\n\nMonster Roadtrip adds a twist to its predecessors Monster Prom and Monster Camp, multiplayer dating sims brimming with beautiful art and unapologetic humour.\n\nThis sequel takes you on an unforgettable road trip along with fan-favourites Scott and Polly. On the way, you will stay at crummy motels, engage in dark cult rituals, help out strangers on the road and pick up more hitchhikers than Scott can count. Bump into old friends and meet plenty of new faces on your way to one of six destinations!\n\nMonster Roadtrip adds three difficulty levels to customise your road trip, and two different multiplayer modes: cooperate with other players or compete to see who the Ultimate Prank Master is! And if it's romance you're looking for, don't fret: we've got you covered! More than 15 characters are waiting for you on the road. Meet them, sit together by the benches at the rest stop, and hold intimate conversations that may lead to love. \n\nBut that's not all! The XXL version includes ALL of the extra playable characters: Zoe, Juan, Hazel and Glitch!\n\nMonster Roadtrip has everything you love about the \"Monster Prom\" formula, and adds new mechanics for a road trip you will remember forever! ;)",
         "title_id": "010048701A9F8000"
-      },
-      {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, август",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Radial Games",
-        "image_format": ".NSZ (сжато ~33%, установленный объём 0.21 ГБ)",
-        "interface_lang": "Русский, Английский [RUS / ENG / Multi 11]",
-        "voice_lang": "нет",
-        "performance": "Да (на 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "до 4 человек",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Mini Motorways — это игра от создателей Mini Metro по развитию дорожной сети растущего города. Проводите дороги, одну за другой, чтобы создать настоящий мегаполис. Перепланируйте город в соответствии с меняющимися городскими условиями так, чтобы не было пробок. Проверьте, как долго вам удастся поддерживать движение.\n\nОСОБЕННОСТИ\n• Проводите дороги в динамично растущих городах — каждая игра уникальна!\n• Исследуйте замечательные карты, созданные на основе городов со всего мира.\n• Выбирайте из множества вариантов обновлений постоянно растущей дорожной сети: шоссе, круги и др.!\n• В спокойном бесконечном режиме вам предлагается расслабляющий геймплей, а также возможность продолжить строительство города после окончания игры.\n• Примите главный вызов в нашем новом режиме эксперта с такими неожиданными ходами, как постоянные дороги и ограниченные обновления.\n• Выбирайте различные цветовые режимы на каждой карте, включая ночной режим и режим дальтонизма.\n• Расслабляйтесь под саундтрек от Disasterpeace, усиливающийся вместе с ростом города.\n• Открывайте новые карты и достижения по мере роста мастерства.\n• Соревнуйтесь с другими игроками в ежедневных и еженедельных челленджах.",
-        "title_id": "01000D3015088000"
       }
     ],
     "en": [
+      {
+        "title": "Dark Deity 1-2 [NSZ][ENG]",
+        "size": "1.74 GB",
+        "magnet": "magnet:?xt=urn:btih:6AE85D592EEBD10CC61409EA622F4A2A29CFD180&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6191122",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6191122",
+        "year": "2022, March — 2025, September",
+        "genre": "Role-Playing, Strategy",
+        "developer": "Sword & Axe LLC",
+        "publisher": "indie.io",
+        "image_format": ".NSZ (compressed ~17%, installed size 2.09 GB)",
+        "interface_lang": "English [ENG]",
+        "voice_lang": "No voiceover",
+        "performance": "Yes (on 14.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6191122.jpg",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/ca9aaeea7723afd8b047b608baa4112d97284986bf7d07594b96c79eaa167da7.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/5a450640411ea65375c5643a7d9f2b4d95ff562617914a595d6cffa2d246067c.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/cbb357863fb204cb8787c1bda6e0ffab4e39928f3ff8ecea57ff40534cf6c89e.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/76f19a2a9a1f3bd8dc3a9c6dacf303d70982043ab8ba55d4379e854f998e2550.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b521b4a2f6bacea1b1bd6d9b2f0897019e62402e7e2792ce1469fd0205efdd46.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/1ccbf42394a2ed29929c236f7800af014a0cb981c21e627561174bf63847fb57.jpg"
+        ],
+        "description": "A quarter of a century has passed, as Irving and the Eternal Order carefully rebuilt Verroa to protect it against a future war. Their efforts will be put to the test far too soon as a new threat looms on the horizon. The neighboring Holy Asverellian Empire needs new lands to grow, and the fractious, fragile Verroa seems ripe for the taking. All that stands in its way is the Order and twenty scrappy heroes-to-be. \n\nTake command of the Eternal Delegation, led by Irving’s descendants. Gwyn and Riordian will have to navigate the treacherous politics of Verroa, and weave a web of alliances to turn the tide of the coming war. Your decisions will determine the shape of these alliances and define your army. Coupled with the help of a giant pool of customizations, no two playthroughs will ever feel the same.\n\nPut simply, Dark Deity 2 is about playing your way, all the way.\n\nTurn-based tactical combat is at the heart of Dark Deity 2. Your 20 heroes have access to 45 branching classes, each with its own powerful abilities, passive effects, and its own tactical niche…\n\n…that’s until you start experimenting with skills, abilities, and gear that can completely change the way a unit performs in the field and upend your tactics in a good way..\n\nHeroes will bond as they fight seemingly impossible odds. Hardship forges the strongest bonds…but can also destroy friendships and wreak havoc. Will you be able to walk the line between the two?\n\nA desperate defense against an overwhelming foe. A land in the grasp of war fever, panic, and factional strife. A traitor around every corner. To have a chance at winning the war, you’ll need to make some difficult choices. \n\nVerroa is torn apart by factions, and many of these factions are fractured in turn. Decide who to support and who to throw to the wolves - but weigh each option carefully. After all, your choices may drastically change the coming battles…\n\nEvery choice can fundamentally change the way you play the game. No two playthroughs are the same and what goes right in one game can go terribly wrong in the other.\n\nNo playthroughs are the same, but you can push Dark Deity 2 even further. Inspired by the many community-made randomizers for popular RPGs, Dark Deity 2 features a built-in comprehensive randomizer and campaign customization suite from launch. Random recruitment order, custom difficulty runs with stat, aptitude, xp, gold sliders, and more are available, allowing for near-limitless replayability!",
+        "title_id": "01009DE023B88000"
+      },
       {
         "title": "SEGA Mega Drive – Nintendo Switch Online [NSZ][ENG]",
         "size": "1.59 GB",
@@ -481,36 +511,36 @@
         ],
         "description": "\"Monster Prom 3: Monster Roadtrip\" finally answers the age-old question: \"What if we added survival mechanics to a beloved dating sim franchise?\"\n\nMonster Roadtrip adds a twist to its predecessors Monster Prom and Monster Camp, multiplayer dating sims brimming with beautiful art and unapologetic humour.\n\nThis sequel takes you on an unforgettable road trip along with fan-favourites Scott and Polly. On the way, you will stay at crummy motels, engage in dark cult rituals, help out strangers on the road and pick up more hitchhikers than Scott can count. Bump into old friends and meet plenty of new faces on your way to one of six destinations!\n\nMonster Roadtrip adds three difficulty levels to customise your road trip, and two different multiplayer modes: cooperate with other players or compete to see who the Ultimate Prank Master is! And if it's romance you're looking for, don't fret: we've got you covered! More than 15 characters are waiting for you on the road. Meet them, sit together by the benches at the rest stop, and hold intimate conversations that may lead to love. \n\nBut that's not all! The XXL version includes ALL of the extra playable characters: Zoe, Juan, Hazel and Glitch!\n\nMonster Roadtrip has everything you love about the \"Monster Prom\" formula, and adds new mechanics for a road trip you will remember forever! ;)",
         "title_id": "010048701A9F8000"
-      },
-      {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, August",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (compressed ~33%, installed size 0.21 GB)",
-        "interface_lang": "Russian, English [RUS / ENG / Multi 11]",
-        "voice_lang": "None",
-        "performance": "Yes (on 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Up to 4 players",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Have you ever been stuck in traffic and wished you could do something to fix it? In Mini Motorways, the city’s traffic problems are in your hands. \n\nFrom the makers of Mini Metro, Mini Motorways is a game about drawing the roads that drive a growing city. Build a road network, one road at a time, to create a bustling metropolis. Redesign your city to keep the traffic flowing, and carefully manage upgrades to meet the changing demands. How long can you keep the cities of the world moving?\n\nFeatures:\n\n• Draw roads in dynamic cities that grow and change - every game is unique!\n• Explore stunning maps inspired by cities all around the world.\n• Choose from a variety of upgrades to meet the demands of your ever-expanding road network: highways, roundabouts, and more!\n• Stress-free Endless Mode offers you a relaxing gameplay experience, plus you can continue building your city after Game Over.\n• Tackle our Expert Mode, which features twists such as permanent roads and limited upgrades for the ultimate challenge.\n• Select different colour palettes on every map including colourblind and night modes.\n• Relax to a responsive soundtrack from Disasterpeace that grows along with your city.\n• Unlock new maps as you achieve mastery. \n• Compete against other players in Daily and Weekly Challenges.",
-        "title_id": "01000D3015088000"
       }
     ],
     "es": [
+      {
+        "title": "Dark Deity 1-2 [NSZ][ENG]",
+        "size": "1.74 GB",
+        "magnet": "magnet:?xt=urn:btih:6AE85D592EEBD10CC61409EA622F4A2A29CFD180&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6191122",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6191122",
+        "year": "2022, marzo — 2025, septiembre",
+        "genre": "Role-Playing, Strategy",
+        "developer": "Sword & Axe LLC",
+        "publisher": "indie.io",
+        "image_format": ".NSZ (comprimido ~17%, tamaño instalado 2.09 GB)",
+        "interface_lang": "Inglés [ENG]",
+        "voice_lang": "Sin voces",
+        "performance": "Sí (en 14.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6191122.jpg",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/ca9aaeea7723afd8b047b608baa4112d97284986bf7d07594b96c79eaa167da7.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/5a450640411ea65375c5643a7d9f2b4d95ff562617914a595d6cffa2d246067c.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/cbb357863fb204cb8787c1bda6e0ffab4e39928f3ff8ecea57ff40534cf6c89e.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/76f19a2a9a1f3bd8dc3a9c6dacf303d70982043ab8ba55d4379e854f998e2550.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b521b4a2f6bacea1b1bd6d9b2f0897019e62402e7e2792ce1469fd0205efdd46.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/1ccbf42394a2ed29929c236f7800af014a0cb981c21e627561174bf63847fb57.jpg"
+        ],
+        "description": "Han pasado veinticinco años. Irving y la Orden Eterna han reconstruido Verroa con esmero para protegerla de futuras guerras. Pero sus esfuerzos serán puestos a prueba mucho antes de lo esperado. El Imperio Sagrado de Asverell, su vecino, necesita nuevas tierras para expandirse, y la frágil Verroa parece un objetivo fácil. Solo la Orden y veinte jóvenes héroes en ciernes se interponen en su camino.\n\nToma el mando de la Delegación Eterna, liderada por los descendientes de Irving. Gwyn y Riordian deberán navegar por la política traicionera de Verroa y tejer alianzas para cambiar el curso de la guerra. Tus decisiones definirán estas alianzas y formarán tu ejército. Con enormes opciones de personalización, cada partida será única.\n\nEn pocas palabras, Dark Deity 2 trata de jugar a tu manera, hasta el final.\n\nEl combate táctico por turnos es el núcleo de Dark Deity 2. Tus 20 héroes pueden acceder a 45 clases ramificadas, cada una con sus habilidades, efectos pasivos y roles estratégicos.\n\nPero al experimentar con habilidades, destrezas y equipamiento, podrás transformar completamente el rendimiento de tus unidades y alterar tus tácticas de forma sorprendente.\n\nLos héroes forjarán lazos mientras enfrentan desafíos imposibles. La adversidad une… pero también puede romper amistades. ¿Podrás mantener el equilibrio?\n\nUna defensa desesperada contra un enemigo arrollador. Una tierra consumida por la guerra, el pánico y las luchas de facciones. Los traidores acechan en cada rincón. Tomar decisiones difíciles será imprescindible para sobrevivir.\n\nVerroa está dividida en facciones, y muchas de ellas están fragmentadas internamente. Decide a quién apoyar y a quién traicionar — tus elecciones determinarán el desarrollo de las batallas.\n\nCada decisión cambia radicalmente la experiencia. No hay dos partidas iguales: lo que funciona en una puede fracasar en otra.\n\nY aún hay más: inspirado en los randomizers creados por la comunidad de RPGs, Dark Deity 2 incluye desde su lanzamiento un completo sistema de randomización y personalización de campaña. Orden de reclutamiento aleatorio, dificultad ajustable, modificadores de estadísticas, experiencia, oro ¡y mucho más para disfrutar de una rejugabilidad casi infinita!",
+        "title_id": "01009DE023B88000"
+      },
       {
         "title": "SEGA Genesis™ – Nintendo Switch Online [NSZ][ENG]",
         "size": "1.59 GB",
@@ -729,36 +759,36 @@
         ],
         "description": "\"Monster Prom 3: Monster Roadtrip\" al fin responde a la eterna pregunta: \"¿Qué pasaría si le añadieras mecánicas de survival a una aclamada franquicia de dating sims?\"\n\nMonster Roadtrip le da una vuelta de tuerca a sus predecesores Monster Prom y Monster Camp, dating sims multijugador que destacan por su bello diseño y un atrevido sentido del humor.\n\nEsta secuela te lleva a un inolvidable viaje por carretera junto a dos de los personajes más queridos del juego, Scott y Polly. Por el camino, te alojarás en moteles destartalados, participarás en los oscuros rituales de alguna que otra secta, ayudarás a desconocidos en la carretera y recogerás a tantos autoestopistas que Scott perderá la cuenta. ¡Reencuentra a viejos amigos y conoce a muchísimas caras nuevas de camino a uno de los seis destinos del viaje!\n\nMonster Roadtrip añade tres niveles de dificultad para que personalices tu viaje en carretera, y dos modos distintos para multijugador: ¡coopera con los demás jugadores o compite para ver quién es el Prank Master definitivo! Y si lo que quieres es romance, no te preocupes: ¡tenemos justo lo que estás buscando! Hay más de 15 personajes esperándote en el viaje. Encuéntrate con ellos, siéntense en los bancos del área de descanso y tengan charlas íntimas en las que puede que encuentren el amor. \n\n¡Aún hay más! ¡La versión XXL incluye todos los personajes jugables extra: Zoe, Juan, Hazel y Glitch!\n\nMonster Roadtrip coge lo mejor de la fórmula \"Monster Prom\" y añade nuevas mecánicas para un viaje por carretera que nunca olvidarás ;)",
         "title_id": "010048701A9F8000"
-      },
-      {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, agosto",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (comprimido ~33%, tamaño instalado 0.21 GB)",
-        "interface_lang": "Ruso, Inglés [RUS / ENG / Multi 11]",
-        "voice_lang": "Ninguno",
-        "performance": "Sí (en 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Hasta 4 jugadores",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Seguro que más de una vez te has visto en un atasco interminable que te habría gustado solucionar. En Mini Motorways, el tráfico de la ciudad está en tus manos.\n\nMini Motorways, de los creadores de Mini Metro, es un juego en el que diseñas las vías de una ciudad en constante crecimiento. Crea las carreteras de la red una a una para conseguir una metrópolis dinámica. Rediseña la ciudad para que el tráfico fluya y gestiona cuidadosamente los nuevos recursos para satisfacer todas las necesidades de la ciudad. ¿Durante cuánto tiempo podrás mantener las ciudades del mundo en movimiento?\n\nCaracterísticas:\n・Dibuja carreteras en ciudades dinámicas que crecen y cambian, ¡cada partida es única!\n・Explora maravillosos mapas inspirados en ciudades de todo el mundo.\n・Elige entre una amplia gama de recursos para satisfacer las necesidades de una red vial en expansión: ¡autopistas, rotondas y mucho más!\n・ El Modo infinito, sin estrés, te ofrece una experiencia de juego relajante, además de poder seguir construyendo tu ciudad después de la finalización de la partida.\n・Afronta nuestro Modo experto, que incluye giros como carreteras permanentes y mejoras limitadas para lograr el máximo desafío.\n・Selecciona distintos modos de color en cada mapa, incluidos el modo nocturno y el modo para daltónicos\n・Relájate escuchando una banda sonora adaptable que crece con tu ciudad, creada por Disasterpeace.\n・Desbloquea nuevos mapas y logros a medida que vas mejorando.\n・Compite contra otros jugadores en los retos diarios y semanales.",
-        "title_id": "01000D3015088000"
       }
     ],
     "fr": [
+      {
+        "title": "Dark Deity 1-2 [NSZ][ENG]",
+        "size": "1.74 GB",
+        "magnet": "magnet:?xt=urn:btih:6AE85D592EEBD10CC61409EA622F4A2A29CFD180&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6191122",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6191122",
+        "year": "2022, mars — 2025, septembre",
+        "genre": "Role-Playing, Strategy",
+        "developer": "Sword & Axe LLC",
+        "publisher": "indie.io",
+        "image_format": ".NSZ (compressé ~17%, taille installée 2.09 GB)",
+        "interface_lang": "Anglais [ENG]",
+        "voice_lang": "Sans voix",
+        "performance": "Oui (sur 14.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6191122.jpg",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/ca9aaeea7723afd8b047b608baa4112d97284986bf7d07594b96c79eaa167da7.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/5a450640411ea65375c5643a7d9f2b4d95ff562617914a595d6cffa2d246067c.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/cbb357863fb204cb8787c1bda6e0ffab4e39928f3ff8ecea57ff40534cf6c89e.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/76f19a2a9a1f3bd8dc3a9c6dacf303d70982043ab8ba55d4379e854f998e2550.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b521b4a2f6bacea1b1bd6d9b2f0897019e62402e7e2792ce1469fd0205efdd46.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/1ccbf42394a2ed29929c236f7800af014a0cb981c21e627561174bf63847fb57.jpg"
+        ],
+        "description": "Un quart de siècle s’est écoulé. Irving et l’Ordre Éternel ont patiemment reconstruit Verroa pour le préparer aux conflits à venir. Mais leurs efforts seront mis à rude épreuve bien plus tôt que prévu. L'Empire Saint d’Asverell, voisin, cherche de nouvelles terres à conquérir, et Verroa, instable et divisé, semble une cible idéale. Seuls l’Ordre et vingt jeunes héros en devenir s’opposent à cette menace.\n\nPrenez le commandement de la Délégation Éternelle, dirigée par les descendants d’Irving. Gwyn et Riordian devront manœuvrer à travers les jeux de pouvoir de Verroa et tisser des alliances pour espérer inverser le cours de la guerre. Vos décisions façonneront ces alliances et définiront votre armée. Grâce aux nombreuses options de personnalisation, aucune partie ne se ressemblera.\n\nEn résumé, Dark Deity 2 vous permet de jouer à votre manière, du début à la fin.\n\nLe combat tactique au tour par tour est au cœur de Dark Deity 2. Vos 20 héros disposent de 45 classes évolutives, avec leurs propres compétences, effets passifs et rôles tactiques uniques.\n\nMais en expérimentant les compétences, capacités et équipements, vous pourrez transformer totalement les performances de vos unités et réinventer vos stratégies.\n\nLes héros tisseront des liens face à des épreuves insurmontables. L’adversité peut forger des amitiés solides… ou tout briser. Saurez-vous trouver l’équilibre ?\n\nUne défense désespérée face à un ennemi écrasant. Une terre rongée par la guerre, la panique et les luttes de factions. Les traîtres se cachent à chaque coin de rue. Pour espérer gagner, des choix difficiles seront nécessaires.\n\nVerroa est déchiré par les factions, elles-mêmes souvent divisées. Décidez qui soutenir et qui sacrifier — chaque choix influencera profondément vos futures batailles.\n\nChaque choix modifie fondamentalement votre façon de jouer. Aucune partie ne se ressemble : ce qui marche une fois peut tourner au désastre la fois suivante.\n\nMais Dark Deity 2 va encore plus loin : inspiré par les randomizers créés par la communauté RPG, il propose dès sa sortie un système de randomisation et de personnalisation de campagne complet. Ordre de recrutement aléatoire, ajustement de difficulté, sliders de stats, d’expérience, d’or et bien plus — pour une rejouabilité presque infinie !",
+        "title_id": "01009DE023B88000"
+      },
       {
         "title": "SEGA Genesis™ – Nintendo Switch Online [NSZ][ENG]",
         "size": "1.59 GB",
@@ -977,36 +1007,36 @@
         ],
         "description": "Avec Monster Prom 3: Monster Roadtrip, une question existentielle trouve enfin sa réponse : que se passerait-il si l'on rajoutait à une série populaire de jeux de romance des mécanismes de survie?\n\nAvec Monster Roadtrip, qui fait suite à ses prédécesseurs, Monster Prom et Monster Camp, des simulations de romance multijoueur aux graphismes fabuleux et à l'humour sans concession, la recette éprouvée se réinvente!\n\nCette fois, l'on vous convie à une escapade routière inoubliable en compagnie de Scott et Polly, les chouchous des fans. Tout au long de l'aventure, passez la nuit dans des motels miteux, participez aux terribles rituels de sectes étranges, aidez des inconnus et prenez plus de passagers en autostop que Scott ne peut les compter. Retrouvez de vieux amis et faites de nombreuses nouvelles rencontres en chemin vers l'une des six destinations!\n\nMonster Roadtrip propose trois niveaux de difficulté pour personnaliser votre expérience, ainsi que deux modes multijoueur : coopérez avec les autres joueurs ou rivalisez pour voir qui fait les blagues les plus déjantées! Et si vous vous sentez d'humeur romantique, pas de panique ! Plus de 15 personnages vous attendent au long de la route. Faites des rencontres, passez du temps ensemble sur les bancs des arrêts de repos, et tenez des discussions intimes qui conduiront peut-être à l'amour!\n\nEt ce n'est pas tout! La version XXL inclut QUATRE personnages jouables supplémentaires : Zoe, Juan, Hazel et Glitch!\n\nMonster Roadtrip propose tout ce que vous aimez dans la série Monster Prom et introduit de nouveaux mécanismes. Le résultat, c'est une escapade routière qui restera à jamais gravée dans votre mémoire! ;)",
         "title_id": "010048701A9F8000"
-      },
-      {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, août",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (compressé ~33%, taille installée 0.21 GB)",
-        "interface_lang": "Russe, Anglais [RUS / ENG / Multi 11]",
-        "voice_lang": "Aucun",
-        "performance": "Oui (sur 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Jusqu'à 4 joueurs",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Vous avez déjà rêvé de redéfinir le paysage urbain de votre ville pour en finir avec les embouteillages? Mini Motorways est le jeu qu’il vous faut.\n\nConçu par le studio qui a créé Mini Metro, Mini Motorways est un jeu de construction des routes qui parcourent une ville en expansion. Construisez un réseau routier afin de concevoir une métropole effervescente. Faites en sorte que le trafic reste fluide, et gérez les améliorations avec précaution afin de répondre aux demandes de votre réseau. Combien de temps pourrez-vous garder les villes du monde en mouvement?\n\nCaractéristiques:\n・Dessinez des routes dans des villes dynamiques qui grandissent et changent continuellement. Chaque partie est unique!\n・Explorez de superbes cartes inspirées de villes du monde entier.\n・Choisissez parmi une variété de mises à niveau pour répondre aux exigences de votre réseau routier en constante expansion : autoroutes, ronds-points, et plus encore!\n・Le mode Sans fin vous offre une expérience de jeu relaxante et vous permet de continuer à développer votre ville après la fin du jeu.\n・Tentez notre mode Expert, qui propose des fonctionnalités comme les routes définitives et les améliorations limitées pour défi ultime.\n・Sélectionnez différentes palettes de couleurs sur chaque carte, y compris les modes daltonien et nuit.\n・Détendez-vous en écoutant une bande sonore réactive de Disasterpeace qui évolue en même temps que votre ville.\n・Débloquez de nouvelles cartes et des accomplissements au fur et à mesure de votre maîtrise du jeu.\n・Affrontez d'autres joueurs dans les défis quotidiens et hebdomadaires.",
-        "title_id": "01000D3015088000"
       }
     ],
     "de": [
+      {
+        "title": "Dark Deity 1-2 [NSZ][ENG]",
+        "size": "1.74 GB",
+        "magnet": "magnet:?xt=urn:btih:6AE85D592EEBD10CC61409EA622F4A2A29CFD180&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6191122",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6191122",
+        "year": "2022, März — 2025, September",
+        "genre": "Role-Playing, Strategy",
+        "developer": "Sword & Axe LLC",
+        "publisher": "indie.io",
+        "image_format": ".NSZ (komprimiert ~17%, installierte Größe 2.09 GB)",
+        "interface_lang": "Englisch [ENG]",
+        "voice_lang": "Keine Sprachausgabe",
+        "performance": "Ja (auf 14.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "Nein",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6191122.jpg",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/ca9aaeea7723afd8b047b608baa4112d97284986bf7d07594b96c79eaa167da7.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/5a450640411ea65375c5643a7d9f2b4d95ff562617914a595d6cffa2d246067c.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/cbb357863fb204cb8787c1bda6e0ffab4e39928f3ff8ecea57ff40534cf6c89e.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/76f19a2a9a1f3bd8dc3a9c6dacf303d70982043ab8ba55d4379e854f998e2550.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b521b4a2f6bacea1b1bd6d9b2f0897019e62402e7e2792ce1469fd0205efdd46.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/1ccbf42394a2ed29929c236f7800af014a0cb981c21e627561174bf63847fb57.jpg"
+        ],
+        "description": "Ein Vierteljahrhundert ist vergangen. Irving und der Ewige Orden haben Verroa behutsam wiederaufgebaut, um das Land auf kommende Kriege vorzubereiten. Doch ihre Bemühungen werden viel früher auf die Probe gestellt, als sie dachten. Das benachbarte Heilige Asverellianische Imperium sucht nach neuen Gebieten, und das instabile, zersplitterte Verroa scheint ein leichtes Ziel. Nur der Orden und zwanzig junge Helden stellen sich ihm in den Weg.\n\nÜbernimm das Kommando über die Ewige Delegation, angeführt von Irvings Nachfahren. Gwyn und Riordian müssen sich in der gefährlichen Politik Verroas behaupten und Allianzen schmieden, um den Krieg zu wenden. Deine Entscheidungen bestimmen diese Allianzen und formen deine Armee. Dank zahlreicher Anpassungsoptionen gleicht kein Spieldurchlauf dem anderen.\n\nKurz gesagt: Dark Deity 2 lässt dich auf deine ganz eigene Art spielen – von Anfang bis Ende.\n\nRundenbasierte Taktikgefechte stehen im Zentrum von Dark Deity 2. Deine 20 Helden haben Zugang zu 45 verzweigten Klassen mit eigenen Fähigkeiten, passiven Effekten und taktischen Rollen.\n\nDoch durch das Experimentieren mit Fähigkeiten, Talenten und Ausrüstung kannst du die Leistung deiner Einheiten völlig verändern und neue Strategien entwickeln.\n\nDie Helden schmieden im Angesicht überwältigender Gefahren enge Bande. Not schweißt zusammen — doch sie kann auch Freundschaften zerstören. Schaffst du es, das Gleichgewicht zu halten?\n\nEin verzweifelter Verteidigungskampf gegen einen übermächtigen Feind. Ein Land im Griff von Krieg, Panik und Fraktionskämpfen. Verrat lauert überall. Um zu gewinnen, musst du schwierige Entscheidungen treffen.\n\nVerroa ist zerrissen von Fraktionen, die oft selbst gespalten sind. Entscheide, wen du unterstützt und wen du opferst – jede Wahl beeinflusst die kommenden Schlachten entscheidend.\n\nJede Entscheidung verändert dein Spielerlebnis grundlegend. Kein Durchlauf gleicht dem anderen: Was einmal funktioniert, kann beim nächsten Mal scheitern.\n\nDoch Dark Deity 2 geht noch weiter: Inspiriert von den Randomizern der RPG-Community bietet das Spiel von Beginn an einen umfassenden Randomizer und Kampagnen-Editor. Zufällige Rekrutierungsreihenfolge, anpassbare Schwierigkeitsgrade, Werte-, Erfahrungs- und Gold-Slider und vieles mehr sorgen für nahezu endlose Wiederspielbarkeit!",
+        "title_id": "01009DE023B88000"
+      },
       {
         "title": "SEGA Mega Drive – Nintendo Switch Online [NSZ][ENG]",
         "size": "1.59 GB",
@@ -1224,36 +1254,36 @@
         ],
         "description": "\"Monster Prom 3: Monster Roadtrip\" gibt endlich eine Antwort auf die lang gehegte Frage: \"Was kommt heraus, wenn wir einer kultigen Dating-Simulation auch noch Survival-Mechaniken verpassen?\"\n\nMonster Roadtrip nimmt das Beste aus Monster Prom und Monster Camp, zwei Multiplayer-Dating-Simulationen mit tollem Look und unverfrorenem Humor, und setzt noch mal einen drauf.\n\nIm neuesten Teil der Reihe gehst du mit den beiden Fan-Lieblingen Scott und Polly auf einen unvergesslichen Roadtrip. Unterwegs übernachtet ihr in schäbigen Motels, beteiligt euch an finsteren kultischen Ritualen, helft Fremden aus der Patsche und nehmt mehr Anhalter mit, als Scott überhaupt zählen kann. Macht euch auf den Weg zu einem von sechs Reisezielen und trefft dabei alte Freunde sowie jede Menge neue Gesichter!\n\nMonster Roadtrip bietet drei Schwierigkeitsstufen für eine ganz individuelle Autotour. Dazu gibt es zwei Multiplayer-Modi: Spielt kooperativ zusammen oder tretet gegen einander an, um den Großmeister der Streiche zu küren! Und wenn du auf der Suche nach Romantik bist, keine Sorge: Davon gibt es mehr als genug! Mehr als 15 Charaktere warten unterwegs auf dich. Lernt euch kennen, hängt gemeinsam auf den Bänken am Rastplatz ab und führt innige Gespräche, aus denen am Ende Liebe entstehen kann.\n\nAber das ist noch nicht alles! Die XXL-Version enthält VIER der zusätzlichen spielbaren Charaktere: Zoe, Juan, Hazel und Glitch!\n\nMonster Roadtrip hat alles, was unsere Fans am Konzept von \"Monster Prom\" schon immer toll fanden, und fügt neue Mechaniken hinzu, die einen unvergesslichen Roadtrip garantieren! ;)",
         "title_id": "010048701A9F8000"
-      },
-      {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, August",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (komprimiert ~33%, installierte Größe 0.21 GB)",
-        "interface_lang": "Russisch, Englisch [RUS / ENG / Multi 11]",
-        "voice_lang": "Keine",
-        "performance": "Ja (auf 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Bis zu 4 Spieler",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Du kennst das: Du steckst mal wieder im Stau fest und fragst dich genervt, warum es bei so vielen Fahrzeugen für diese Fahrtrichtung nur eine Spur gibt. Du hättest das natürlich besser gelöst, aber dich fragt ja keiner … \n\nDoch das ändert sich genau jetzt! In Mini Motorways von den Machern von Mini Metro liegt die Verkehrsplanung der Stadt komplett in deinen Händen. Deine Aufgabe: Errichte Schritt für Schritt ein Straßennetz, das dem Verkehrsaufkommen einer echten Metropole standhalten kann, und nutze Upgrades mit Bedacht, um ständig wechselnde Bedingungen zu meistern. Na, wie lange hältst du die Stadt in Bewegung?\n\nDiese Features erwarten dich:\n\n• Zeichnet Straßen in dynamischen Städten, die wachsen und sich verändern – jedes Spiel ist einzigartig!\n• Entdeckt atemberaubende Karten, die von Städten auf der ganzen Welt inspiriert sind.\n• Wählt aus einer Vielzahl von Upgrades, um den Anforderungen deines ständig wachsenden Straßennetzes gerecht zu werden: Autobahnen, Kreisverkehre und mehr!\n• Mit dem stressfreien Endlosmodus kannst du entspannt spielen und nach einem Game Over einfach deine Stadt weiterbauen.\n• Probiere unseren Expertenmodus aus, der Funktionen wie dauerhafte Straßen und eingeschränkte Upgrades als ultimative Herausforderung enthält.\n• Wählt verschiedene Farbpaletten auf jeder Karte, einschließlich Farbenblindheit und Nachtmodus.\n• Entspannt euch zu einem ansprechenden Soundtrack von Disasterpeace, der mit eurer Stadt mitwächst.\n• Schaltet neue Karten frei, wenn ihr sie meistert.\n• Tretet gegen andere Spieler in täglichen und wöchentlichen Herausforderungen an.",
-        "title_id": "01000D3015088000"
       }
     ],
     "it": [
+      {
+        "title": "Dark Deity 1-2 [NSZ][ENG]",
+        "size": "1.74 GB",
+        "magnet": "magnet:?xt=urn:btih:6AE85D592EEBD10CC61409EA622F4A2A29CFD180&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6191122",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6191122",
+        "year": "2022, marzo — 2025, settembre",
+        "genre": "Role-Playing, Strategy",
+        "developer": "Sword & Axe LLC",
+        "publisher": "indie.io",
+        "image_format": ".NSZ (compresso ~17%, dimensione installata 2.09 GB)",
+        "interface_lang": "Inglese [ENG]",
+        "voice_lang": "Senza doppiaggio",
+        "performance": "Sì (su 14.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6191122.jpg",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/ca9aaeea7723afd8b047b608baa4112d97284986bf7d07594b96c79eaa167da7.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/5a450640411ea65375c5643a7d9f2b4d95ff562617914a595d6cffa2d246067c.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/cbb357863fb204cb8787c1bda6e0ffab4e39928f3ff8ecea57ff40534cf6c89e.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/76f19a2a9a1f3bd8dc3a9c6dacf303d70982043ab8ba55d4379e854f998e2550.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b521b4a2f6bacea1b1bd6d9b2f0897019e62402e7e2792ce1469fd0205efdd46.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/1ccbf42394a2ed29929c236f7800af014a0cb981c21e627561174bf63847fb57.jpg"
+        ],
+        "description": "Sono passati venticinque anni. Irving e l’Ordine Eterno hanno ricostruito con cura Verroa per prepararla a eventuali guerre future. Ma i loro sforzi verranno messi alla prova molto prima del previsto. Il vicino Impero Sacro di Asverell cerca nuove terre per espandersi, e la fragile Verroa sembra una preda facile. Solo l’Ordine e venti giovani eroi si frappongono sulla sua strada.\n\nPrendi il comando della Delegazione Eterna, guidata dai discendenti di Irving. Gwyn e Riordian dovranno destreggiarsi tra le pericolose dinamiche politiche di Verroa e stringere alleanze per cambiare il destino della guerra. Le tue scelte definiranno queste alleanze e il tuo esercito. Grazie alle ampie possibilità di personalizzazione, ogni partita sarà diversa.\n\nIn poche parole: Dark Deity 2 ti permette di giocare come vuoi, dall’inizio alla fine.\n\nIl combattimento tattico a turni è il cuore di Dark Deity 2. I tuoi 20 eroi possono scegliere tra 45 classi ramificate, ognuna con abilità uniche, effetti passivi e ruoli strategici specifici.\n\nSperimentando con abilità, talenti e equipaggiamenti, potrai cambiare radicalmente le performance delle tue unità e rivoluzionare le tue strategie.\n\nGli eroi stringeranno legami combattendo contro ogni probabilità. Le difficoltà possono rafforzare i rapporti… o distruggerli. Riuscirai a mantenere l’equilibrio?\n\nUna disperata difesa contro un nemico soverchiante. Una terra divorata dalla guerra, dal panico e dalle lotte di fazione. Traditori ovunque. Per avere una possibilità di vittoria, dovrai prendere decisioni difficili.\n\nVerroa è dilaniata dalle fazioni, molte delle quali sono a loro volta frammentate. Scegli chi sostenere e chi sacrificare — ogni decisione avrà ripercussioni dirette sui combattimenti futuri.\n\nOgni scelta cambia radicalmente il modo di giocare. Nessuna partita sarà uguale: ciò che funziona una volta può portare al disastro in un’altra.\n\nMa Dark Deity 2 va ancora oltre: ispirato dai randomizer creati dalla community RPG, offre fin da subito un sistema completo di randomizzazione e personalizzazione della campagna. Ordine casuale di reclutamento, difficoltà personalizzabile, modificatori di statistiche, esperienza, oro e molto altro per una rigiocabilità praticamente infinita!",
+        "title_id": "01009DE023B88000"
+      },
       {
         "title": "SEGA Mega Drive – Nintendo Switch Online [NSZ][ENG]",
         "size": "1.59 GB",
@@ -1471,36 +1501,36 @@
         ],
         "description": "\"Monster Prom 3: Monster Roadtrip\" risponde alla domanda di sempre: \"E se aggiungessimo elementi di sopravvivenza a un amatissimo simulatore di appuntamenti?\".\n\n\"Monster Roadtrip\" aggiunge una novità ai precedenti simulatori di appuntamenti multigiocatore \"Monster Prom\" e \"Monster Camp\", apprezzati per il bellissimo stile artistico e lo sfrontato senso dell'umorismo.\n\nIn questo sequel accompagnerai Scott e Polly, due dei personaggi preferiti dei fan, in un indimenticabile road trip. Durante il viaggio vi fermerete in pulciosi motel, prenderete parte a oscuri rituali da setta, aiuterete sconosciuti e darete passaggi a più autostoppisti di quanti Scott sia in grado di contarne. Incontra amici vecchi e nuovi mentre raggiungi una tra sei destinazioni!\n\n\"Monster Roadtrip\" prevede tre livelli di difficoltà per personalizzare il tuo viaggio, e due modalità multigiocatore: i giocatori possono scegliere di cooperare o competere per stabilire chi sarà il Maestro supremo degli scherzi! Se invece sei in cerca di romanticismo, non temere, ci pensiamo noi! Più di 15 personaggi ti aspettano sul percorso. Incontrali, siediti con loro sulle panchine o nelle aree di sosta, e intrattieni conversazioni intime che potrebbero far sbocciare l'amore.\n\nNon è tutto! La versione XXL comprende QUATRO personaggi giocabili aggiuntivi: Zoe, Juan, Hazel e Glitch!\n\nMonster Roadtrip aggiunge delle nuove meccaniche di gioco a tutto ciò che ami di \"Monster Prom\" per un road trip che ricorderai per sempre! ;)",
         "title_id": "010048701A9F8000"
-      },
-      {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, agosto",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (compresso ~33%, dimensione installata 0.21 GB)",
-        "interface_lang": "Russo, Inglese [RUS / ENG / Multi 11]",
-        "voice_lang": "Nessuno",
-        "performance": "Sì (su 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Fino a 4 giocatori",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Ti è mai capitato di ritrovarti in un ingorgo, desiderando di poter fare qualcosa per risolvere la situazione? In Mini Motorways i problemi di traffico della città sono nelle tue mani.\n\nDai creatori di Mini Metro, Mini Motorways è un gioco in cui dovrai progettare delle strade che facciano muovere una città in crescita. Costruisci una rete stradale, una strada alla volta, per creare una vivace metropoli. Ridefinisci la tua città per mantenere il traffico scorrevole e gestisci con attenzione le migliorie per soddisfare le mutevoli esigenze. Per quanto tempo riuscirai a mantenere in movimento le città del mondo?\n\nCaratteristiche:\n\n• Progetta le strade di città dinamiche in rapida crescita: ogni partita è diversa da quella precedente!\n• Esplora stupende mappe ispirate a città di tutto il mondo.\n• Scegli tra diverse risorse per soddisfare le esigenze della tua rete stradale in continua espansione: autostrade, rotatorie e altro ancora!\n• La modalità Infinita ti libera dallo stress, facendoti giocare in relax. In più, potrai continuare a costruire la tua città anche dopo la fine del gioco.\n• Prova la modalità Esperto: troverai colpi di scena come le strade permanenti e gli upgrade limitati, per una sfida da urlo.\n• Seleziona modalità di colore diverse per ogni mappa, come la modalità per daltonici e quella notturna.\n• Rilassati con una colonna sonora reattiva che cresce con la tua città, firmata da Disasterpeace.\n• Sblocca nuove mappe e obiettivi man mano che ti perfezioni.\n• Esporta GIF delle tue creazioni per condividerle con i tuoi amici.\n• Confrontati con gli altri giocatori nelle sfide giornaliere e settimanali.",
-        "title_id": "01000D3015088000"
       }
     ],
     "pt_br": [
+      {
+        "title": "Dark Deity 1-2 [NSZ][ENG]",
+        "size": "1.74 GB",
+        "magnet": "magnet:?xt=urn:btih:6AE85D592EEBD10CC61409EA622F4A2A29CFD180&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6191122",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6191122",
+        "year": "2022, março — 2025, setembro",
+        "genre": "Role-Playing, Strategy",
+        "developer": "Sword & Axe LLC",
+        "publisher": "indie.io",
+        "image_format": ".NSZ (compactado ~17%, tamanho instalado 2.09 GB)",
+        "interface_lang": "Inglês [ENG]",
+        "voice_lang": "Sem dublagem",
+        "performance": "Sim (no 14.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "Não",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6191122.jpg",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/ca9aaeea7723afd8b047b608baa4112d97284986bf7d07594b96c79eaa167da7.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/5a450640411ea65375c5643a7d9f2b4d95ff562617914a595d6cffa2d246067c.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/cbb357863fb204cb8787c1bda6e0ffab4e39928f3ff8ecea57ff40534cf6c89e.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/76f19a2a9a1f3bd8dc3a9c6dacf303d70982043ab8ba55d4379e854f998e2550.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/b521b4a2f6bacea1b1bd6d9b2f0897019e62402e7e2792ce1469fd0205efdd46.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/1ccbf42394a2ed29929c236f7800af014a0cb981c21e627561174bf63847fb57.jpg"
+        ],
+        "description": "Vinte e cinco anos se passaram. Irving e a Ordem Eterna reconstruíram Verroa com cuidado, preparando-a para resistir a guerras futuras. Mas seus esforços serão testados muito antes do esperado. O vizinho Império Sagrado de Asverell busca novas terras para expandir seu domínio, e a frágil e dividida Verroa parece ser o alvo ideal. Apenas a Ordem e vinte jovens heróis estão em seu caminho.\n\nAssuma o comando da Delegação Eterna, liderada pelos descendentes de Irving. Gwyn e Riordian precisarão navegar pela política traiçoeira de Verroa e formar alianças para virar o jogo da guerra. Suas decisões vão moldar essas alianças e definir o seu exército. Com um vasto leque de personalizações, nenhuma campanha será igual à outra.\n\nResumindo: Dark Deity 2 é sobre jogar do seu jeito, do começo ao fim.\n\nO combate tático por turnos é o coração de Dark Deity 2. Seus 20 heróis podem escolher entre 45 classes ramificadas, cada uma com habilidades únicas, efeitos passivos e papéis táticos distintos.\n\nMas, ao experimentar diferentes habilidades, poderes e equipamentos, você pode transformar completamente o desempenho das unidades e criar novas táticas.\n\nOs heróis criarão laços enquanto enfrentam desafios quase impossíveis. A adversidade pode forjar amizades poderosas… ou destruí-las. Você conseguirá manter o equilíbrio?\n\nUma defesa desesperada contra um inimigo esmagador. Uma terra em meio ao caos da guerra, do medo e da disputa entre facções. Traidores espreitam em cada esquina. Para vencer, você precisará fazer escolhas difíceis.\n\nVerroa está dilacerada por facções, e muitas delas estão em conflito interno. Decida quem apoiar e quem sacrificar — cada escolha terá impacto direto nas batalhas futuras.\n\nCada decisão altera fundamentalmente o rumo da partida. Nenhuma campanha será igual: o que dá certo em uma jogada pode ser desastroso na próxima.\n\nE ainda tem mais: inspirado pelos randomizers criados pela comunidade de RPGs, Dark Deity 2 já chega com um sistema completo de randomização e personalização de campanha. Ordem de recrutamento aleatória, dificuldade ajustável, modificadores de atributos, experiência, ouro e muito mais — oferecendo rejogabilidade praticamente infinita!",
+        "title_id": "01009DE023B88000"
+      },
       {
         "title": "SEGA Mega Drive – Nintendo Switch Online [NSZ][ENG]",
         "size": "1.59 GB",
@@ -1718,36 +1748,39 @@
         ],
         "description": "O \"Monster Prom 3: Monster Roadtrip\" responde finalmente à pergunta: \"O que aconteceria se um popular jogo de simulação de encontros também fosse um jogo de sobrevivência?\"\n\nO Monster Roadtrip dá um toque diferente aos antecessores, os simuladores de encontros Monster Prom e Monster Camp, mas os gráficos encantadores e o sentido de humor característico não mudaram.\n\nEsta sequela leva-te numa viagem de carro com duas personagens que já conheces: Scott e Polly. Vais ficar em motéis duvidosos, participar em rituais de cultos obscuros, ajudar estranhos que encontras pelo caminho e dar boleia a uma série de viajantes. Reencontra caras conhecidas e faz novas amizades enquanto viajas até seis destinos!\n\nO Monster Roadtrip tem mais três níveis de dificuldade e dois modos multijogador para personalizares a tua viagem: podes jogar em equipa ou competir pelo título de Grande Mestre das Partidas! Mas se preferes algo mais romântico, não te preocupes! Durante a viagem, vais conhecer mais de 15 personagens. Fala com elas quando parares para descansar na área de serviço e tem conversas profundas que podem levar ao amor. \n\nMas há mais! A versão XXL inclui TODAS as personagens extra: Zoe, Juan, Hazel e Glitch!\n\nO Monster Roadtrip combina tudo aquilo que adoras na série \"Monster Prom\" com novas mecânicas para que nunca te esqueças desta viagem! ;)",
         "title_id": "010048701A9F8000"
-      },
-      {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, agosto",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (compactado ~33%, tamanho instalado 0.21 GB)",
-        "interface_lang": "Russo, Inglês [RUS / ENG / Multi 11]",
-        "voice_lang": "Nenhum",
-        "performance": "Sim (no 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Até 4 jogadores",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/f4958270f9ed32aa9ae4211c681407da46fe584f9d5f206603ab00926d506710.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6384d9572c382e8721acb0560a6abd491281740f0e91c283252c8b54a827c954.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/f74edfd6eeb3e660e3a750939b04f04c9e5a4a5b9cbf93b3b2a1a2374b365000.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/e9f80814821208fc2b3f858010caeab2c161820682ebc35573300c149c4e7628.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/bcba91d66bdbc2eefda96fca97d22276331851c864b2781ff77389b9c5380d62.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
-        ],
-        "description": "Já ficou preso no trânsito e desejou que pudesse fazer algo para resolver o problema? Em Mini Motorways, os problemas do trânsito da cidade estão nas suas mãos.\n\nDos criadores do Mini Metro, Mini Motorways é um jogo em que você desenha as ruas que movem uma cidade em expansão. Construa uma malha viária, uma rua de cada vez, para criar uma metrópole movimentada. Refaça o projeto da cidade para manter o fluxo do tráfego e gerencie as modificações com cuidado para atender às demandas em constante mudança. Por quanto tempo você consegue manter as cidades do mundo em movimento?\n\nCaracterísticas:\n\n• Desenhe estradas em cidades dinâmicas que crescem e se modificam - cada jogo é único!\n• Explore mapas impressionantes inspirados em cidades de todo o mundo.\n• Escolha entre uma variedade de upgrades para atender às demandas da sua rede de estradas em constante transformação: autoestradas, rotatórias e muito mais!\n• O modo Infinito e sem estresse oferece uma experiência de jogo relaxante, e você ainda pode continuar construindo sua cidade mesmo após o Fim de Jogo.\n• Experimente nosso modo Expert, que oferece reviravoltas como estradas permanentes e upgrades limitados para o máximo desafio.\n• Selecione diversas paletas de cores em todos os mapas, inclusive com os modos daltônico e noturno.\n• Relaxe com uma trilha sonora responsiva de Disasterpeace, que cresce com sua cidade.\n• Libere novos mapas e novas conquistas à medida que alcança o domínio.\n• Participe de competições com outros jogadores em desafios diários e semanais.",
-        "title_id": "01000D3015088000"
       }
     ],
     "zh_hans": [
+      {
+        "title": "Dark Deity 1-2 [NSZ][ENG]",
+        "size": "1.74 GB",
+        "magnet": "magnet:?xt=urn:btih:6AE85D592EEBD10CC61409EA622F4A2A29CFD180&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6191122",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6191122",
+        "year": "2022, 3月 — 2025, 9月",
+        "genre": "Role-Playing, Strategy",
+        "developer": "Sword & Axe LLC",
+        "publisher": "Freedom Games, Indie.io",
+        "image_format": ".NSZ (已压缩 ~17%, 安装大小 2.09 GB)",
+        "interface_lang": "英语 [ENG]",
+        "voice_lang": "无语音",
+        "performance": "是 (在 14.0.1, Atmosphere 1.4.1)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6191122.jpg",
+        "screenshots": [
+          "https://i116.fastpic.org/thumb/2022/0316/68/bdab1a0d5090c5c7a42aadd4c4c24d68.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/e1/4f6a15db6b425bc147d9e84aab82bfe1.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/d1/55fb2908db90922885ec4c1d03a1ecd1.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/21/1a1c36e366a9bef58753d9e546bea521.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/8d/1eeb00d338d968a1fcc9da2bb83f158d.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/6e/9538131cf6b2c22344d9766ae80e936e.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/ef/74bf913ab0823e2d9c022b58c427c6ef.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/f7/35f6a24b0ef5534b3e510bbde356c0f7.jpeg",
+          "https://i116.fastpic.org/thumb/2022/0316/68/6f0f40a71da22e41b9539907276d1168.jpeg"
+        ],
+        "description": "进行回合制战斗，管理角色关系，收集危险的文物，也许还可以恢复被战争贩子和禁忌秘密持有者撕裂的世界。\n一个濒临最后一丝希望的世界，被一场毁灭了其强大文明的灾难击垮了。小国王们发动了毫无成果、鲁莽的战争，像光荣的拾荒者一样在古老的废墟中搜寻。\n带领一支由布鲁克斯泰德军事学院的四名学生组成的团队，他们是由瓦里克国王的神秘命令召集起来的。迪莉娅王国的统治者准备撕毁千年条约，学生们成为优秀的炮灰……然而，这四名士兵注定不仅仅是另一个军事绞肉机的不甘人肉的角色。",
+        "title_id": "01009DE023B88000"
+      },
       {
         "title": "Sega Genesis / Mega Drive: Nintendo Switch Online (ofitsialnye igry NSO) + 2 kastomnykh LFS-moda [NSZ][ENG]",
         "size": "1.59 GB",
@@ -1971,33 +2004,6 @@
         ],
         "description": "\"Monster Prom 3: Monster Roadtrip\" finally answers the age-old question: \"What if we added survival mechanics to a beloved dating sim franchise?\"\n\nMonster Roadtrip adds a twist to its predecessors Monster Prom and Monster Camp, multiplayer dating sims brimming with beautiful art and unapologetic humour.\n\nThis sequel takes you on an unforgettable road trip along with fan-favourites Scott and Polly. On the way, you will stay at crummy motels, engage in dark cult rituals, help out strangers on the road and pick up more hitchhikers than Scott can count. Bump into old friends and meet plenty of new faces on your way to one of six destinations!\n\nMonster Roadtrip adds three difficulty levels to customise your road trip, and two different multiplayer modes: cooperate with other players or compete to see who the Ultimate Prank Master is! And if it's romance you're looking for, don't fret: we've got you covered! More than 15 characters are waiting for you on the road. Meet them, sit together by the benches at the rest stop, and hold intimate conversations that may lead to love. \n\nBut that's not all! The XXL version includes ALL of the extra playable characters: Zoe, Juan, Hazel and Glitch!\n\nMonster Roadtrip has everything you love about the \"Monster Prom\" formula, and adds new mechanics for a road trip you will remember forever! ;)",
         "title_id": "010048701A9F8000"
-      },
-      {
-        "title": "Mini Metro / Mini Motorways [NSZ][RUS/Multi11]",
-        "size": "357 MB",
-        "magnet": "magnet:?xt=urn:btih:5BA9C542B4FEEBF4744642C46CC725AA81A57995&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "5677550",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=5677550",
-        "year": "2018, 8月",
-        "genre": "Puzzle, Simulation, Education",
-        "developer": "Dinosaur Polo Club",
-        "publisher": "Dinosaur Polo Club",
-        "image_format": ".NSZ (已压缩 ~33%, 安装大小 0.21 GB)",
-        "interface_lang": "俄语, 英语 [RUS / ENG / Multi 11]",
-        "voice_lang": "无",
-        "performance": "是 (在 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "最多 4 人",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5677550.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/a90631a61c3f9507db1ed5c7d7db1723f54e31e11916f80209bd18815aada52e.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/7e1cf0628cd3ae01ce9141adc8143412557276aad58f1d8891b291d299307fbc.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/130baa3abfd014cc42cafec856ba41602658178439c572d6708d19307af4de30.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/447d238a9b504ac18fed5d287f94390a531e8afa7e2278bb459795fd9b56da33.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/4a641b286bab459f1e310da6e2c61aabbd6a30cbbe1ee50460a229f59c48d51e.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/6afe0b9c07bae43aae52b73e1d758603c2380a06440ecd38f4c941adbeafc5fc.jpg"
-        ],
-        "description": "塞車塞到動彈不得的痛苦，想必你也曾體會過，如果能改變這個情況那多好。在《迷你公路》(Mini Motorways)裡，你就可以妥善規劃城市的道路，疏導交通。\n\n這款遊戲由《迷你地鐵》的製作團隊開發。你將能親手「畫」出一條又一條道路，打造便捷的交通網。為了滿足城市的多變需求，你還須適時重新規劃，謹慎管理各項設施。不過，你能維持交通順暢多久呢？  \n\n遊戲特色：\n• 在不斷成長變化的城市中打造路網 - 每局遊戲都獨一無二！\n• 探索以世界各城市為底的美麗地圖。\n• 從多種升級中為持續擴張的路網挑出最需要的選項：高速公路、圓環和更多升級！\n• 無壓力的「無限模式」為你提供輕鬆的遊戲體驗，並且你還可以在遊戲結束後繼續建設你的城市。\n• 挑戰我們全新的「專家模式」，具有像永久性道路和有限升級的嶄新的變化，給你帶來終極挑戰。\n• 為地圖挑選不同的色調，包括色盲模式和深色模式。\n• 聆聽由 Disasterpeace 製作的音樂，隨著城市發展而有不同變化。\n• 解鎖新地圖和成就，打造厲害的路網吧。\n• 在每日和每周挑戰中與各路玩家較勁。",
-        "title_id": "01000D3015088000"
       }
     ]
   }
