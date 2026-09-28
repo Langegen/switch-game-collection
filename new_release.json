@@ -1,4 +1,6 @@
 [
+  {"title": "Deltarune: Chapter 1-2-3-4-5", "title_id": "010023800D64A000", "metacritic": 86.0},
+  {"title": "Golden Force", "title_id": "01007DE013A48000", "metacritic": 65.0},
   {"title": "Sin Reloaded Gold + Wages of Sin", "title_id": "0100F07026DA8000", "metacritic": null},
   {"title": "Pit Panic", "title_id": "010036B02609E000", "metacritic": null},
   {"title": "Noobs Want to Live", "title_id": "010091901BE24000", "metacritic": null},
@@ -45,7 +47,5 @@
   {"title": "No Man's Sky + 23 экспедиции", "title_id": "0100853015E86000", "metacritic": 71.0},
   {"title": "Mini Metro / Mini Motorways", "title_id": "01000D3015088000", "metacritic": 87.0},
   {"title": "Culdcept Begins", "title_id": "01004F4024504000", "metacritic": null},
-  {"title": "Absolum", "title_id": "0100A83022A22000", "metacritic": 86.0},
-  {"title": "The Rogue Prince of Persia", "title_id": "01008D9022462000", "metacritic": 80.0},
-  {"title": "Astroneer + DLC Megatech, Glitchwalkers", "title_id": "0100E63013E60000", "metacritic": 71.0}
+  {"title": "Absolum", "title_id": "0100A83022A22000", "metacritic": 86.0}
 ]
