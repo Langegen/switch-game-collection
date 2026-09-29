@@ -5061,7 +5061,7 @@
         "developer": "Tobi Foks",
         "publisher": "8-4",
         "image_format": ".NSZ (compresso ~33%, dimensione installata 0.96 GB)",
-        "interface_lang": "Inglese [ENG] + dva optsionalnykh perevoda: 1) di Lenivoy Vykhukholi, nikthecat po pyatuyu glavu, 2) di Cozy Inn, bez chetvyortoy glavy",
+        "interface_lang": "Inglese [ENG] + dva optsionalnykh perevoda: 1) di Lenivoy Vykhukholi, nikthecat po pyatuyu glavu, 2) di Cozy Inn, bez vtoroy glavy",
         "voice_lang": "Nessuno",
         "performance": "Sì (su 19.0.1, Atmosphere 1.9.1)",
         "multiplayer": "No",
@@ -109722,11 +109722,11 @@
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6019937.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2021/0303/16/f5ede9293d9839b4849af97f1b1fad16.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0303/c3/be71977c3538ce1ee7e04fe50a3471c3.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0303/6b/9f80121e725369d055ca70e2e36c406b.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0303/79/bacc052e2dd3b0d4a559176106718a79.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0303/01/d87a8c9ba1851f2057506d44659b2701.jpeg"
+            "https://i114.fastpic.org/thumb/2021/0303/16/f5ede9293d9839b4849af97f1b1fad16.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0303/c3/be71977c3538ce1ee7e04fe50a3471c3.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0303/6b/9f80121e725369d055ca70e2e36c406b.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0303/79/bacc052e2dd3b0d4a559176106718a79.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0303/01/d87a8c9ba1851f2057506d44659b2701.jpeg"
         ],
         "description": "Poslushayte rasskazy dedushki ob ushedshikh denkakh ego yunosti, sobirayte veshchi i begite proch ot gorodskoy suety v tikhoe i spokoynoe Olivkino.",
         "title_id": "010017301007E000"

@@ -5165,7 +5165,7 @@
         "developer": "Tobi Foks",
         "publisher": "8-4 Ltd.",
         "image_format": ".NSZ (已压缩 ~33%, 安装大小 0.96 GB)",
-        "interface_lang": "英语 [ENG] + dva optsionalnykh perevoda: 1) 来自 Lenivoy Vykhukholi, nikthecat po pyatuyu glavu, 2) 来自 Cozy Inn, bez chetvyortoy glavy",
+        "interface_lang": "英语 [ENG] + dva optsionalnykh perevoda: 1) 来自 Lenivoy Vykhukholi, nikthecat po pyatuyu glavu, 2) 来自 Cozy Inn, bez vtoroy glavy",
         "voice_lang": "无",
         "performance": "是 (在 19.0.1, Atmosphere 1.9.1)",
         "multiplayer": "无",
@@ -109964,12 +109964,12 @@
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5844523.jpg",
         "screenshots": [
-            "https://i111.fastpic.ru/thumb/2020/0201/de/41c78ad143d32e963301ae58fbd233de.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0201/98/04547de2c3ebdf345474b8dd1d741a98.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0201/a8/6ff976107c74edaa0359d0dbc44350a8.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0201/5c/5d6c64ae8f65c428a4ebe7612303745c.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0201/67/61d8102d4c5415ecc828e4730e784e67.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0201/b8/03bc343772250aa6b0a6730b91ee26b8.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0201/de/41c78ad143d32e963301ae58fbd233de.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0201/98/04547de2c3ebdf345474b8dd1d741a98.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0201/a8/6ff976107c74edaa0359d0dbc44350a8.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0201/5c/5d6c64ae8f65c428a4ebe7612303745c.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0201/67/61d8102d4c5415ecc828e4730e784e67.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0201/b8/03bc343772250aa6b0a6730b91ee26b8.jpeg",
             "https://i6.imageban.ru/out/2024/03/27/3e268535e0bb224315620fc937ebae78.png",
             "https://i123.fastpic.org/thumb/2024/0327/64/033006bec9b905213453f4df1f6ac864.jpeg",
             "https://i123.fastpic.org/thumb/2024/0327/71/451c1492fb4448d5678d3d93f3064b71.jpeg"
@@ -110921,11 +110921,11 @@
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6019937.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2021/0303/16/f5ede9293d9839b4849af97f1b1fad16.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0303/c3/be71977c3538ce1ee7e04fe50a3471c3.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0303/6b/9f80121e725369d055ca70e2e36c406b.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0303/79/bacc052e2dd3b0d4a559176106718a79.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0303/01/d87a8c9ba1851f2057506d44659b2701.jpeg"
+            "https://i114.fastpic.org/thumb/2021/0303/16/f5ede9293d9839b4849af97f1b1fad16.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0303/c3/be71977c3538ce1ee7e04fe50a3471c3.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0303/6b/9f80121e725369d055ca70e2e36c406b.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0303/79/bacc052e2dd3b0d4a559176106718a79.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0303/01/d87a8c9ba1851f2057506d44659b2701.jpeg"
         ],
         "description": "Poslushayte rasskazy dedushki ob ushedshikh denkakh ego yunosti, sobirayte veshchi i begite proch ot gorodskoy suety v tikhoe i spokoynoe Olivkino.",
         "title_id": "010017301007E000"
