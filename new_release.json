@@ -1,4 +1,14 @@
 [
+  {"title": "Keep Driving", "title_id": "0100F57025F44000", "metacritic": null},
+  {"title": "Castlevania Belmont's Curse (демонстрационная версия)", "title_id": "0100D1D027E96000", "metacritic": null},
+  {"title": "Chocobos Mystery Dungeon Every Buddy (Final Fantasy Fables: Chocobo's Dungeon / Chocobo's Mystery Dungeon: the Labyrinth of Forgotten Time) + 14 DLC", "title_id": "0100BF600BF26000", "metacritic": 76.0},
+  {"title": "Isle of Reveries", "title_id": "010034B029D48000", "metacritic": null},
+  {"title": "Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD", "title_id": "010040B0270A2000", "metacritic": 86.0},
+  {"title": "King's Blade", "title_id": "010032A025C8A000", "metacritic": null},
+  {"title": "K-Pop Idol Stories Road to Debut", "title_id": "01003F7020A7C000", "metacritic": null},
+  {"title": "Unrailed 2 Back on Track", "title_id": "01006D00241E6000", "metacritic": 77.0},
+  {"title": "Easy Delivery Co", "title_id": "01000780260F6000", "metacritic": null},
+  {"title": "The King is Watching", "title_id": "0100F2B023A26000", "metacritic": null},
   {"title": "Sid Meier's Civilization VII (7) + 34 DLC", "title_id": "0100C3601518C000", "metacritic": 88.0},
   {"title": "Pools / The Pools / Anomaly Pools", "title_id": "010005B02556E000", "metacritic": null},
   {"title": "Doraemon Story of Seasons", "title_id": "010073700E412000", "metacritic": 75.0},
@@ -37,15 +47,5 @@
   {"title": "Hunt the Night", "title_id": "01009440164AE000", "metacritic": 80.0},
   {"title": "Until Then + DLC Afterimages", "title_id": "010019C023004000", "metacritic": 79.0},
   {"title": "Echoes of the Plum Grove", "title_id": "0100600020CA4000", "metacritic": null},
-  {"title": "EA Sports FC 27", "title_id": "0100C49025D3E000", "metacritic": null},
-  {"title": "Qliphah in Providence's Shadow", "title_id": "01008E20257E0000", "metacritic": null},
-  {"title": "Kalanoro", "title_id": "0100EB60202C8000", "metacritic": null},
-  {"title": "Tentacle Tango", "title_id": "01001AA022B66000", "metacritic": null},
-  {"title": "Garfield Escape from Monday", "title_id": "01000EB0276F2000", "metacritic": null},
-  {"title": "Under Night In-birth II (2) Sys Celes + 5 DLC", "title_id": "0100BD401D18A000", "metacritic": null},
-  {"title": "Terraria", "title_id": "0100E46006708000", "metacritic": 81.0},
-  {"title": "Lucky Tower Ultimate", "title_id": "0100B5B01AC50000", "metacritic": null},
-  {"title": "Ghost Master Resurrection + 9 DLC", "title_id": "01001E1025696000", "metacritic": null},
-  {"title": "Sega Genesis / Mega Drive: Nintendo Switch Online (официальные игры NSO) + 2 кастомных LFS-мода", "title_id": "0100B3C014BDA000", "metacritic": null},
-  {"title": "Fate Reawakened (Prometheus, Undiscovered Realms, The Traitor Soul, The Cursed King)", "title_id": "0100B5C01F99C000", "metacritic": null}
+  {"title": "EA Sports FC 27", "title_id": "0100C49025D3E000", "metacritic": null}
 ]
