@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1790894281,
+  "generated_at": 1790929410,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
@@ -20,7 +20,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i2.imageban.ru/out/2026/10/01/3388ae9ecc60314b584c43e746eeb535.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916806.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/4a/4124d4c76683ffa342e0be8c7491014a.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ae/b8578809c25c5f0826dc2b0d942c39ae.jpeg",
@@ -50,7 +50,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i1.imageban.ru/out/2026/10/01/d11357e22c259707087e89dbb3b1e19d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916793.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/31/fbce21cc3f383c8da18f433407f03b31.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/0e/d993094bd1d622f75afe6259a785610e.jpeg",
@@ -80,7 +80,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i7.imageban.ru/out/2026/10/01/5f1f821cf958461bad922372bf689fcc.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916789.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/f5/4f50b5c96eb67dcf5660816c32a46af5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ba/4576a5714e1b384873da1b1c9d6e50ba.jpeg",
@@ -96,7 +96,7 @@
         "title_id": null
       },
       {
-        "title": "Need For Speed Underground 2 (хоумбрю NFS:U2) [NRO][ENG]",
+        "title": "Need For Speed Underground 2 (хоумбрю NFS:U2) [NRO][RUS/ENG]",
         "size": "3.17 GB",
         "magnet": "magnet:?xt=urn:btih:2E4BAA3E4AB70908D45F2BCF393FA26F911C6518&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6916744",
@@ -110,7 +110,7 @@
         "voice_lang": "английская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i5.imageban.ru/out/2026/10/01/f9352d886182ada1119ebbef627c94f6.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
@@ -1146,33 +1146,6 @@
         ],
         "description": "Погрузитесь в захватывающую психологическую историю ужасов, происходящую в уединенной японской деревне Ясумидзу. Тяжелый туман окружает это место, не давая никому уйти. Древние боги вернулись, чтобы открыть охоту на каждого из жителей деревни. Пир начался, сумеете выбраться из деревни живьем?",
         "title_id": "010020400E1C2000"
-      },
-      {
-        "title": "Jurassic World Aftermath Collection (Парк юрского периода: Коллекция) [RePack][NSZ][RUS (Mod.)]",
-        "size": "1.12 GB",
-        "magnet": "magnet:?xt=urn:btih:184E13199232B5E06BDFC4DF249E42F5914D5AB1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6915308",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6915308",
-        "year": "2022, ноябрь",
-        "genre": "Adventure, Action, Puzzle, Stealth",
-        "developer": "Coatsink",
-        "publisher": "Coatsink Software",
-        "image_format": ".NSZ (сжато ~25%, установленный объём 1.49 ГБ), репак",
-        "interface_lang": "Русский [RUS] машинный от Larich_D",
-        "voice_lang": "английская",
-        "performance": "Да (на 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "нет",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6915308.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/31a620ce8904aa97d5a7d16dcc0f9c6c143b4821413145f9073f1d8f2eee6f74.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/19aaf65b013b35e4d71e5c4bf921c0ced93975fa6629508265a02bf9c2f9e1f0.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/c851e84854c35304a3986eae0f6bfc8dd6b971adfd1298dbe97976aebfc6b5b1.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/02ad95d15784fd1192bd80253e216c8128b3db3ecb32dd0bd2f76d4734bc638c.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/0078748ff4cbbf34212fe194b736e18f13556901bb7f1dfd21267d204c3c0014.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/619ec2a5171d04547feddf6065067fc28c6c44ed44184b333c3599f0ae5853de.jpg"
-        ],
-        "description": "Вы совершаете аварийную посадку на Исла-Нублар, когда тематический парк «Мир юрского периода» уже разгромлен. Игроки оказываются в заброшенном исследовательском комплексе, а их миссия по добыче ценной информации терпит крах. Чтобы выжить, им придется находить и решать головоломки, уходя от свирепых динозавров: хищных птеранодонов, хитрых велоцирапторов и жуткого тираннозавра.\n \n Сможете сбежать с Исла-Нублар?\n \n - Полная версия Jurassic World Aftermath — теперь и на Nintendo Switch™.\n - Действие происходит в промежутке между Jurassic World и Jurassic World: Fallen Kingdom.\n - Полностью озвученное повествование с участием Лоры Бейли и Джеффа Голдблюма.\n - Самые разные инструменты, чтобы решать всяческие головоломки.\n - Захватывающий геймплей, даже без оружия.",
-        "title_id": "0100A280180D4000"
       }
     ],
     "en": [
@@ -1191,7 +1164,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i2.imageban.ru/out/2026/10/01/3388ae9ecc60314b584c43e746eeb535.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916806.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/4a/4124d4c76683ffa342e0be8c7491014a.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ae/b8578809c25c5f0826dc2b0d942c39ae.jpeg",
@@ -1221,7 +1194,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i1.imageban.ru/out/2026/10/01/d11357e22c259707087e89dbb3b1e19d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916793.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/31/fbce21cc3f383c8da18f433407f03b31.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/0e/d993094bd1d622f75afe6259a785610e.jpeg",
@@ -1251,7 +1224,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i7.imageban.ru/out/2026/10/01/5f1f821cf958461bad922372bf689fcc.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916789.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/f5/4f50b5c96eb67dcf5660816c32a46af5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ba/4576a5714e1b384873da1b1c9d6e50ba.jpeg",
@@ -1267,7 +1240,7 @@
         "title_id": null
       },
       {
-        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][ENG]",
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
         "size": "3.17 GB",
         "magnet": "magnet:?xt=urn:btih:2E4BAA3E4AB70908D45F2BCF393FA26F911C6518&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6916744",
@@ -1281,7 +1254,7 @@
         "voice_lang": "English",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/10/01/f9352d886182ada1119ebbef627c94f6.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
@@ -2262,33 +2235,6 @@
         ],
         "description": "Immerse yourself in a thrilling psychological horror story taking place in the secluded Japanese village of Yasumizu. A heavy mist surrounds the place, preventing everyone from ever leaving. Ancient gods have come back to hunt the villagers down one by one. The feast has begun, can you escape the village alive?\n\nA tribute to Japanese folklore \nHaruaki Fusaishi is a young man freshly arrived to Yasumizu, a remote settlement in a mountainous region of Japan. He will become involved in an ominous local tradition known as the feast. Among the villagers lurks the werewolf, an entity who has sworn to take revenge on everyone. \n\nA visual novel with a complex branching story\nKeep track of all your choices thanks to a comprehensible flowchart. Rewind the story and select other actions to see different outcomes and learn about the characters’ motivation. A death may be rewarded with a new piece of information, a Key that will give you access to new paths and bring you closer to the identity of the killer.\n \nAn extensive new game plus \nClear the game to unlock the Revelation Mode and discover the story in a new light. You will see the inner thoughts of the characters and unlock new scenes that will give you more insight about their motivation.\n\nAn endless spiral of deaths\nHaruaki Fusaishi will find himself stuck in inextricable loop from which he cannot escape. Conscious of his own fate, he will take advantage of all the knowledge acquired before his tragic deaths.",
         "title_id": "010020400E1C2000"
-      },
-      {
-        "title": "Jurassic World Aftermath Collection [RePack][NSZ][RUS (Mod.)]",
-        "size": "1.12 GB",
-        "magnet": "magnet:?xt=urn:btih:184E13199232B5E06BDFC4DF249E42F5914D5AB1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6915308",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6915308",
-        "year": "2022, November",
-        "genre": "Adventure, Action, Puzzle, Stealth",
-        "developer": "Coatsink",
-        "publisher": "Coatsink Software",
-        "image_format": ".NSZ (compressed ~25%, installed size 1.49 GB), repack",
-        "interface_lang": "Russian [RUS] mashinnyy by Larich_D",
-        "voice_lang": "English",
-        "performance": "Yes (on 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6915308.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/31a620ce8904aa97d5a7d16dcc0f9c6c143b4821413145f9073f1d8f2eee6f74.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/19aaf65b013b35e4d71e5c4bf921c0ced93975fa6629508265a02bf9c2f9e1f0.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/c851e84854c35304a3986eae0f6bfc8dd6b971adfd1298dbe97976aebfc6b5b1.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/02ad95d15784fd1192bd80253e216c8128b3db3ecb32dd0bd2f76d4734bc638c.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/0078748ff4cbbf34212fe194b736e18f13556901bb7f1dfd21267d204c3c0014.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/619ec2a5171d04547feddf6065067fc28c6c44ed44184b333c3599f0ae5853de.jpg"
-        ],
-        "description": "Crash-landing on Isla Nublar after the fall of the Jurassic World theme park, players find themselves trapped in an abandoned research facility when their mission to recover valuable information goes disastrously wrong. To survive, they’ll need to explore and solve puzzles while evading a menagerie of ferocious dinosaurs, including ravenous Pteranodons, cunning Velociraptors and the terrifying T. rex.\n\nWill you escape Isla Nublar?\n\n- The full Jurassic World Aftermath experience, now on Nintendo Switch™\n- Set between Jurassic World and Jurassic World: Fallen Kingdom\n- Fully voice acted narrative, featuring Laura Bailey and Jeff Goldblum\n- Use a variety of tools to solve a host of unique puzzles\n- Gripping gameplay without the use of weapons",
-        "title_id": "0100A280180D4000"
       }
     ],
     "es": [
@@ -2307,7 +2253,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i2.imageban.ru/out/2026/10/01/3388ae9ecc60314b584c43e746eeb535.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916806.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/4a/4124d4c76683ffa342e0be8c7491014a.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ae/b8578809c25c5f0826dc2b0d942c39ae.jpeg",
@@ -2337,7 +2283,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i1.imageban.ru/out/2026/10/01/d11357e22c259707087e89dbb3b1e19d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916793.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/31/fbce21cc3f383c8da18f433407f03b31.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/0e/d993094bd1d622f75afe6259a785610e.jpeg",
@@ -2367,7 +2313,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i7.imageban.ru/out/2026/10/01/5f1f821cf958461bad922372bf689fcc.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916789.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/f5/4f50b5c96eb67dcf5660816c32a46af5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ba/4576a5714e1b384873da1b1c9d6e50ba.jpeg",
@@ -2383,7 +2329,7 @@
         "title_id": null
       },
       {
-        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][ENG]",
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
         "size": "3.17 GB",
         "magnet": "magnet:?xt=urn:btih:2E4BAA3E4AB70908D45F2BCF393FA26F911C6518&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6916744",
@@ -2397,7 +2343,7 @@
         "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/10/01/f9352d886182ada1119ebbef627c94f6.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
@@ -3376,33 +3322,6 @@
         ],
         "description": "Sumérgete en una apasionante historia de terror psicológico ambientada en la recóndita aldea japonesa de Yasumizu. Una espesa niebla rodea el lugar, impidiendo a la población abandonar la zona. Antiguos dioses han regresado para cazar a los aldeanos uno por uno. El banquete ha comenzado... ¿Puedes escapar de la aldea con vida?",
         "title_id": "010020400E1C2000"
-      },
-      {
-        "title": "Jurassic World Aftermath Collection [RePack][NSZ][RUS (Mod.)]",
-        "size": "1.12 GB",
-        "magnet": "magnet:?xt=urn:btih:184E13199232B5E06BDFC4DF249E42F5914D5AB1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6915308",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6915308",
-        "year": "2022, noviembre",
-        "genre": "Adventure, Action, Puzzle, Stealth",
-        "developer": "Coatsink",
-        "publisher": "Coatsink Software",
-        "image_format": ".NSZ (comprimido ~25%, tamaño instalado 1.49 GB), repack",
-        "interface_lang": "Ruso [RUS] mashinnyy de Larich_D",
-        "voice_lang": "Inglés",
-        "performance": "Sí (en 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6915308.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/dd8320baca87439aeba093ca8260e0bd7399f030a7acfe14094455af545eb1cb.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/725e8e33d397e9051bad53225802f420758368bd9d3bd20c632fbfa2479b18de.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/53d39610e7855cb4bc0967fb79570b7f85784e5e7d8d112512748fd885789416.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/79ef69d4c6ec83b83eb0d3848c59f6d2f03fc0ce19ea68007bf6e8ae592185b1.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/ba0e66a6febd877d3b628841345525c18a3c3ca58128e12ca7cac654a110aa8c.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/1c6e5f1f6c031edac5a271674992a2109d61bb4d53054ee343d1a401c09497cf.jpg"
-        ],
-        "description": "Jurassic World Aftermath Collection es una aventura de supervivencia y suspenso. Después de un aterrizaje forzado en la isla Nublar tras la caída de Jurassic World, los jugadores se encuentran atrapados en un centro de investigación cuando la misión para recuperar información valiosa fracasa por completo. Para sobrevivir, deberán explorar y resolver enigmas mientras esquivan a una serie de dinosaurios feroces que incluyen pteranodones voraces, velocirraptores astutos y un T. rex aterrador.\n \n ¿Escaparás de la isla Nublar?\n \n - La experiencia completa de Jurassic World Aftermath experience, ahora en Nintendo Switch\n - Situado entre Jurassic World y Jurassic World: Fallen Kingdom\n - Narrativa completa con actores de voz, que incluyen a Laura Bailey y Jeff Goldblum\n - Usa una variedad de herramientas para resolver muchos enigmas únicos\n - Jugabilidad atrapante sin usar armas",
-        "title_id": "0100A280180D4000"
       }
     ],
     "fr": [
@@ -3421,7 +3340,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i2.imageban.ru/out/2026/10/01/3388ae9ecc60314b584c43e746eeb535.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916806.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/4a/4124d4c76683ffa342e0be8c7491014a.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ae/b8578809c25c5f0826dc2b0d942c39ae.jpeg",
@@ -3451,7 +3370,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i1.imageban.ru/out/2026/10/01/d11357e22c259707087e89dbb3b1e19d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916793.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/31/fbce21cc3f383c8da18f433407f03b31.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/0e/d993094bd1d622f75afe6259a785610e.jpeg",
@@ -3481,7 +3400,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i7.imageban.ru/out/2026/10/01/5f1f821cf958461bad922372bf689fcc.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916789.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/f5/4f50b5c96eb67dcf5660816c32a46af5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ba/4576a5714e1b384873da1b1c9d6e50ba.jpeg",
@@ -3497,7 +3416,7 @@
         "title_id": null
       },
       {
-        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][ENG]",
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
         "size": "3.17 GB",
         "magnet": "magnet:?xt=urn:btih:2E4BAA3E4AB70908D45F2BCF393FA26F911C6518&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6916744",
@@ -3511,7 +3430,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i5.imageban.ru/out/2026/10/01/f9352d886182ada1119ebbef627c94f6.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
@@ -4489,33 +4408,6 @@
         ],
         "description": "Plongez dans un récit d'horreur psychologique palpitant se déroulant dans le village japonais isolé de Yasumizu. Le lieu est recouvert d'un épais brouillard, empêchant quiconque de s'enfuir. D'anciens dieux sont revenus, traquant les villageois un par un. Leur festin a commencé, parviendrez-vous à survivre et à vous enfuir?",
         "title_id": "010020400E1C2000"
-      },
-      {
-        "title": "Jurassic World Aftermath Collection [RePack][NSZ][RUS (Mod.)]",
-        "size": "1.12 GB",
-        "magnet": "magnet:?xt=urn:btih:184E13199232B5E06BDFC4DF249E42F5914D5AB1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6915308",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6915308",
-        "year": "2022, novembre",
-        "genre": "Adventure, Action, Puzzle, Stealth",
-        "developer": "Coatsink",
-        "publisher": "Coatsink Software",
-        "image_format": ".NSZ (compressé ~25%, taille installée 1.49 GB), repack",
-        "interface_lang": "Russe [RUS] mashinnyy par Larich_D",
-        "voice_lang": "Anglais",
-        "performance": "Oui (sur 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Non",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6915308.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/dd8320baca87439aeba093ca8260e0bd7399f030a7acfe14094455af545eb1cb.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/725e8e33d397e9051bad53225802f420758368bd9d3bd20c632fbfa2479b18de.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/53d39610e7855cb4bc0967fb79570b7f85784e5e7d8d112512748fd885789416.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/79ef69d4c6ec83b83eb0d3848c59f6d2f03fc0ce19ea68007bf6e8ae592185b1.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/ba0e66a6febd877d3b628841345525c18a3c3ca58128e12ca7cac654a110aa8c.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/1c6e5f1f6c031edac5a271674992a2109d61bb4d53054ee343d1a401c09497cf.jpg"
-        ],
-        "description": "Jurassic World Aftermath Collection est une aventure de survie remplie de suspense. Échoués sur Isla Nublar après la chute du parc d’attractions Jurassic World, les joueurs se retrouvent coincés dans un centre de recherche abandonné lorsque leur mission consistant à récupérer de précieux renseignements tourne au désastre. Pour survivre, ils devront explorer le centre et résoudre des énigmes tout en évitant une variété de féroces dinosaures, dont de voraces ptéranodons, de rusés vélociraptors et le terrifiant T. rex.\n \n Échapperez-vous à Isla Nublar?\n \n - L’expérience Jurassic World Aftermath complète, maintenant sur Nintendo Switch\n - L’histoire se déroule entre Jurassic World et Jurassic World: Fallen Kingdom\n - Doublage complet de l’histoire mettant en vedette Laura Bailey et Jeff Goldblum\n - Utilisez des outils variés pour résoudre des énigmes originales\n - Une mécanique de jeu captivante sans recourir à des armes",
-        "title_id": "0100A280180D4000"
       }
     ],
     "de": [
@@ -4534,7 +4426,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i2.imageban.ru/out/2026/10/01/3388ae9ecc60314b584c43e746eeb535.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916806.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/4a/4124d4c76683ffa342e0be8c7491014a.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ae/b8578809c25c5f0826dc2b0d942c39ae.jpeg",
@@ -4564,7 +4456,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i1.imageban.ru/out/2026/10/01/d11357e22c259707087e89dbb3b1e19d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916793.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/31/fbce21cc3f383c8da18f433407f03b31.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/0e/d993094bd1d622f75afe6259a785610e.jpeg",
@@ -4594,7 +4486,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i7.imageban.ru/out/2026/10/01/5f1f821cf958461bad922372bf689fcc.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916789.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/f5/4f50b5c96eb67dcf5660816c32a46af5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ba/4576a5714e1b384873da1b1c9d6e50ba.jpeg",
@@ -4610,7 +4502,7 @@
         "title_id": null
       },
       {
-        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][ENG]",
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
         "size": "3.17 GB",
         "magnet": "magnet:?xt=urn:btih:2E4BAA3E4AB70908D45F2BCF393FA26F911C6518&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6916744",
@@ -4624,7 +4516,7 @@
         "voice_lang": "Englisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i5.imageban.ru/out/2026/10/01/f9352d886182ada1119ebbef627c94f6.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
@@ -5605,33 +5497,6 @@
         ],
         "description": "Tauche in eine packende Psycho-Horror-Geschichte ein, die sich in dem abgelegenen japanischen Dorf Yasumizu abspielt. Der Ort ist von einem dichten Nebel umgeben, der jeden davon abhält, ihn jemals zu verlassen. Uralte Götter sind zurückgekehrt, um die Dorfbewohner einen nach dem anderen zur Strecke zu bringen. Das Festmahl hat begonnen. Kannst du lebendig aus dem Dorf entkommen?",
         "title_id": "010020400E1C2000"
-      },
-      {
-        "title": "Jurassic World Aftermath Collection [RePack][NSZ][RUS (Mod.)]",
-        "size": "1.12 GB",
-        "magnet": "magnet:?xt=urn:btih:184E13199232B5E06BDFC4DF249E42F5914D5AB1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6915308",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6915308",
-        "year": "2022, November",
-        "genre": "Adventure, Action, Puzzle, Stealth",
-        "developer": "Coatsink",
-        "publisher": "Coatsink Software",
-        "image_format": ".NSZ (komprimiert ~25%, installierte Größe 1.49 GB), Repack",
-        "interface_lang": "Russisch [RUS] mashinnyy von Larich_D",
-        "voice_lang": "Englisch",
-        "performance": "Ja (auf 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Nein",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6915308.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/31a620ce8904aa97d5a7d16dcc0f9c6c143b4821413145f9073f1d8f2eee6f74.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/19aaf65b013b35e4d71e5c4bf921c0ced93975fa6629508265a02bf9c2f9e1f0.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/c851e84854c35304a3986eae0f6bfc8dd6b971adfd1298dbe97976aebfc6b5b1.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/02ad95d15784fd1192bd80253e216c8128b3db3ecb32dd0bd2f76d4734bc638c.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/0078748ff4cbbf34212fe194b736e18f13556901bb7f1dfd21267d204c3c0014.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/619ec2a5171d04547feddf6065067fc28c6c44ed44184b333c3599f0ae5853de.jpg"
-        ],
-        "description": "Die Spieler sind nach dem Fall von Jurassic World auf Isla Nublar abgestürzt und in einer Forschungseinrichtung gefangen, als ihre Mission zur Beschaffung wichtiger Informationen katastrophal scheitert. Um zu überleben, müssen die Spieler ihre Umgebung erkunden, Rätsel lösen und den zahlreichen blutrünstigen Dinosauriern, wie ausgehungerten Pteranodons, gerissenen Velociraptoren und dem schrecklichen Tyrannosaurus Rex entgehen.\n \n Entkommt ihr von Isla Nublar?\n \n - Der komplette Spielspaß von Jurassic World Aftermath, jetzt auf Nintendo Switch™\n - Spielt zwischen Jurassic World und Jurassic World: Fallen Kingdom\n - Voll synchronisiert u. a. von Laura Bailey and Jeff Goldblum\n - Löse zahllose einzigartige Puzzles mit einer großen Auswahl an Werkzeugen\n - Packendes Gameplay ohne Einsatz von Waffen",
-        "title_id": "0100A280180D4000"
       }
     ],
     "it": [
@@ -5650,7 +5515,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i2.imageban.ru/out/2026/10/01/3388ae9ecc60314b584c43e746eeb535.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916806.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/4a/4124d4c76683ffa342e0be8c7491014a.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ae/b8578809c25c5f0826dc2b0d942c39ae.jpeg",
@@ -5680,7 +5545,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i1.imageban.ru/out/2026/10/01/d11357e22c259707087e89dbb3b1e19d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916793.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/31/fbce21cc3f383c8da18f433407f03b31.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/0e/d993094bd1d622f75afe6259a785610e.jpeg",
@@ -5710,7 +5575,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i7.imageban.ru/out/2026/10/01/5f1f821cf958461bad922372bf689fcc.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916789.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/f5/4f50b5c96eb67dcf5660816c32a46af5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ba/4576a5714e1b384873da1b1c9d6e50ba.jpeg",
@@ -5726,7 +5591,7 @@
         "title_id": null
       },
       {
-        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][ENG]",
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
         "size": "3.17 GB",
         "magnet": "magnet:?xt=urn:btih:2E4BAA3E4AB70908D45F2BCF393FA26F911C6518&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6916744",
@@ -5740,7 +5605,7 @@
         "voice_lang": "Inglese",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/10/01/f9352d886182ada1119ebbef627c94f6.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
@@ -6721,33 +6586,6 @@
         ],
         "description": "Immergiti in un'emozionante storia horror psicologica ambientata nell'isolato villaggio giapponese di Yasumizu. Una fitta nebbia circonda il villaggio, impedendo a tutti di poterlo lasciare. Gli antichi dei sono ritornati per dare la caccia agli abitanti del villaggio uno ad uno. Il banchetto è iniziato, riuscirai a fuggire dal villaggio vivo?",
         "title_id": "010020400E1C2000"
-      },
-      {
-        "title": "Jurassic World Aftermath Collection [RePack][NSZ][RUS (Mod.)]",
-        "size": "1.12 GB",
-        "magnet": "magnet:?xt=urn:btih:184E13199232B5E06BDFC4DF249E42F5914D5AB1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6915308",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6915308",
-        "year": "2022, novembre",
-        "genre": "Adventure, Action, Puzzle, Stealth",
-        "developer": "Coatsink",
-        "publisher": "Coatsink Software",
-        "image_format": ".NSZ (compresso ~25%, dimensione installata 1.49 GB), repack",
-        "interface_lang": "Russo [RUS] mashinnyy di Larich_D",
-        "voice_lang": "Inglese",
-        "performance": "Sì (su 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6915308.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/31a620ce8904aa97d5a7d16dcc0f9c6c143b4821413145f9073f1d8f2eee6f74.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/19aaf65b013b35e4d71e5c4bf921c0ced93975fa6629508265a02bf9c2f9e1f0.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/c851e84854c35304a3986eae0f6bfc8dd6b971adfd1298dbe97976aebfc6b5b1.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/02ad95d15784fd1192bd80253e216c8128b3db3ecb32dd0bd2f76d4734bc638c.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/0078748ff4cbbf34212fe194b736e18f13556901bb7f1dfd21267d204c3c0014.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/619ec2a5171d04547feddf6065067fc28c6c44ed44184b333c3599f0ae5853de.jpg"
-        ],
-        "description": "Precipitati su Isla Nublar dopo la distruzione del parco a tema Jurassic World, i giocatori si ritrovano intrappolati in un centro di ricerca abbandonato e la loro missione di recupero di informazioni preziose fallisce miseramente. Per sopravvivere, dovranno esplorare i dintorni e risolvere enigmi evitando una serie di feroci dinosauri, tra cui i famelici pteranodonti, gli astuti velociraptor e il terrificante T. Rex.\n \n Riuscirai a fuggire da Isla Nublar?\n \n - L'esperienza completa di Jurassic World Aftermath, ora su Nintendo Switch™\n - Ambientato tra Jurassic World e Jurassic World: Il regno distrutto\n - Narrazione completamente recitata con Laura Bailey e Jeff Goldblum\n - Utilizza una varietà di strumenti per risolvere una serie di enigmi unici.\n - Gameplay avvincente senza l'uso di armi",
-        "title_id": "0100A280180D4000"
       }
     ],
     "pt_br": [
@@ -6766,7 +6604,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i2.imageban.ru/out/2026/10/01/3388ae9ecc60314b584c43e746eeb535.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916806.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/4a/4124d4c76683ffa342e0be8c7491014a.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ae/b8578809c25c5f0826dc2b0d942c39ae.jpeg",
@@ -6796,7 +6634,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i1.imageban.ru/out/2026/10/01/d11357e22c259707087e89dbb3b1e19d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916793.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/31/fbce21cc3f383c8da18f433407f03b31.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/0e/d993094bd1d622f75afe6259a785610e.jpeg",
@@ -6826,7 +6664,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i7.imageban.ru/out/2026/10/01/5f1f821cf958461bad922372bf689fcc.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916789.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/f5/4f50b5c96eb67dcf5660816c32a46af5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ba/4576a5714e1b384873da1b1c9d6e50ba.jpeg",
@@ -6842,7 +6680,7 @@
         "title_id": null
       },
       {
-        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][ENG]",
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
         "size": "3.17 GB",
         "magnet": "magnet:?xt=urn:btih:2E4BAA3E4AB70908D45F2BCF393FA26F911C6518&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6916744",
@@ -6856,7 +6694,7 @@
         "voice_lang": "Inglês",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i5.imageban.ru/out/2026/10/01/f9352d886182ada1119ebbef627c94f6.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
@@ -7837,33 +7675,6 @@
         ],
         "description": "Mergulha numa emocionante história de terror psicológico passada na remota aldeia japonesa de Yasumizu. Uma neblina cerrada envolve a aldeia, impedindo qualquer pessoa de sair. Os deuses antigos regressaram para perseguir os aldeões, um a um. O banquete começou, consegues escapar vivo da aldeia?",
         "title_id": "010020400E1C2000"
-      },
-      {
-        "title": "Jurassic World Aftermath Collection [RePack][NSZ][RUS (Mod.)]",
-        "size": "1.12 GB",
-        "magnet": "magnet:?xt=urn:btih:184E13199232B5E06BDFC4DF249E42F5914D5AB1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6915308",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6915308",
-        "year": "2022, novembro",
-        "genre": "Adventure, Action, Puzzle, Stealth",
-        "developer": "Coatsink",
-        "publisher": "Coatsink Software",
-        "image_format": ".NSZ (compactado ~25%, tamanho instalado 1.49 GB), repack",
-        "interface_lang": "Russo [RUS] mashinnyy por Larich_D",
-        "voice_lang": "Inglês",
-        "performance": "Sim (no 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "Não",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6915308.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/31a620ce8904aa97d5a7d16dcc0f9c6c143b4821413145f9073f1d8f2eee6f74.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/19aaf65b013b35e4d71e5c4bf921c0ced93975fa6629508265a02bf9c2f9e1f0.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/c851e84854c35304a3986eae0f6bfc8dd6b971adfd1298dbe97976aebfc6b5b1.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/02ad95d15784fd1192bd80253e216c8128b3db3ecb32dd0bd2f76d4734bc638c.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/0078748ff4cbbf34212fe194b736e18f13556901bb7f1dfd21267d204c3c0014.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/619ec2a5171d04547feddf6065067fc28c6c44ed44184b333c3599f0ae5853de.jpg"
-        ],
-        "description": "Tendo despenhado na Isla Nublar após a queda de Jurassic World, dás por ti encurralado numas instalações de pesquisa quando a tua missão para recuperar informações valiosas corre terrivelmente mal. Para sobreviver, terás de explorar e resolver puzzles ao mesmo tempo que evitas uma coleção de dinossauros ferozes, incluindo Pteranodons vorazes, Velociraptors astutos e o terrível T-Rex.\n \n Conseguirás escapar da Isla Nublar?\n \n - A experiência Jurassic World Aftermath completa, agora para a Nintendo Switch™\n - O jogo decorre no período entre Jurassic World e Jurassic World: Fallen Kingdom\n - Narração completa, com Laura Bailey e Jeff Goldblum\n - Usa uma variedade de ferramentas para resolver um conjunto de puzzles únicos\n - Jogabilidade arrebatadora sem uso de armas",
-        "title_id": "0100A280180D4000"
       }
     ],
     "zh_hans": [
@@ -7882,7 +7693,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i2.imageban.ru/out/2026/10/01/3388ae9ecc60314b584c43e746eeb535.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916806.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/4a/4124d4c76683ffa342e0be8c7491014a.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ae/b8578809c25c5f0826dc2b0d942c39ae.jpeg",
@@ -7912,7 +7723,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i1.imageban.ru/out/2026/10/01/d11357e22c259707087e89dbb3b1e19d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916793.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/31/fbce21cc3f383c8da18f433407f03b31.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/0e/d993094bd1d622f75afe6259a785610e.jpeg",
@@ -7942,7 +7753,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i7.imageban.ru/out/2026/10/01/5f1f821cf958461bad922372bf689fcc.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916789.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/f5/4f50b5c96eb67dcf5660816c32a46af5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/ba/4576a5714e1b384873da1b1c9d6e50ba.jpeg",
@@ -7958,7 +7769,7 @@
         "title_id": null
       },
       {
-        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][ENG]",
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
         "size": "3.17 GB",
         "magnet": "magnet:?xt=urn:btih:2E4BAA3E4AB70908D45F2BCF393FA26F911C6518&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6916744",
@@ -7972,7 +7783,7 @@
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i5.imageban.ru/out/2026/10/01/f9352d886182ada1119ebbef627c94f6.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
           "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
@@ -8964,33 +8775,6 @@
         ],
         "description": "Pogruzites v zakhvatyvayushchuyu psikhologicheskuyu istoriyu uzhasov, proiskhodyashchuyu v uedinennoy yaponskoy derevne Yasumidzu. Tyazhelyy tuman okruzhaet eto mesto, ne davaya nikomu uyti. Drevnie bogi vernulis, chtoby otkryt okhotu na kazhdogo iz zhiteley derevni. Pir nachalsya, sumeete vybratsya iz derevni zhivem?",
         "title_id": "010020400E1C2000"
-      },
-      {
-        "title": "Jurassic World Aftermath Collection [RePack][NSZ][RUS (Mod.)]",
-        "size": "1.12 GB",
-        "magnet": "magnet:?xt=urn:btih:184E13199232B5E06BDFC4DF249E42F5914D5AB1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6915308",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6915308",
-        "year": "2022, 11月",
-        "genre": "Adventure, Action, Puzzle, Stealth",
-        "developer": "Coatsink",
-        "publisher": "Coatsink Software",
-        "image_format": ".NSZ (已压缩 ~25%, 安装大小 1.49 GB), 整合版",
-        "interface_lang": "俄语 [RUS] mashinnyy 来自 Larich_D",
-        "voice_lang": "英语",
-        "performance": "是 (在 15.0.1, Atmosphere 1.4.1)",
-        "multiplayer": "无",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6915308.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/31a620ce8904aa97d5a7d16dcc0f9c6c143b4821413145f9073f1d8f2eee6f74.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/19aaf65b013b35e4d71e5c4bf921c0ced93975fa6629508265a02bf9c2f9e1f0.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/c851e84854c35304a3986eae0f6bfc8dd6b971adfd1298dbe97976aebfc6b5b1.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/02ad95d15784fd1192bd80253e216c8128b3db3ecb32dd0bd2f76d4734bc638c.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/0078748ff4cbbf34212fe194b736e18f13556901bb7f1dfd21267d204c3c0014.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/619ec2a5171d04547feddf6065067fc28c6c44ed44184b333c3599f0ae5853de.jpg"
-        ],
-        "description": "《侏羅紀世界餘波系列》是一款懸疑重重的生存冒險遊戲。侏羅紀世界主題公園倒塌後，玩家墜落在努布拉島，發現自己被困在一個廢棄的研究設施中，而他們恢復寶貴資訊的任務卻出現了災難性錯誤。為了生存，他們需要探索和解決謎題，同時躲避一群兇猛的恐龍，包括貪婪的翼龍、狡猾的迅猛龍和可怕的霸王龍。\n \n 你能逃離努布拉島嗎？\n \n - 《侏羅紀世界餘波系列》現已登陸Nintendo Switch，可暢玩體驗。\n - 背景設定在《侏羅紀世界》和《侏羅紀世界：迷失國度》之間\n - 由蘿拉·貝莉(Laura Bailey)和謝夫·高拔林(Jeff Goldblum)全程配音敘事\n - 使用各種工具來解決一系列獨特謎題\n - 在不使用武器的情況下，進行扣人心弦的遊戲。",
-        "title_id": "0100A280180D4000"
       }
     ]
   }
