@@ -1,4 +1,8 @@
 [
+  {"title": "Kingdom Two Crowns + DLC Call of Olympus + Norse Lands, Shogun, Dead Lands, Norse Lands / Kingdom Majestic: New Lands", "title_id": "01005EF003FF2000", "metacritic": 85.0},
+  {"title": "Kanon", "title_id": "0100FB7019ADE000", "metacritic": null},
+  {"title": "The Zibbo Show (демонстрационная версия)", "title_id": "0100156029766000", "metacritic": null},
+  {"title": "Manairons (демонстрационная версия)", "title_id": "010012802925C000", "metacritic": null},
   {"title": "Love Ghostie", "title_id": "01005A7022A32000", "metacritic": 78.0},
   {"title": "Sands of Aura", "title_id": "0100B1A023F18000", "metacritic": null},
   {"title": "Wingspan + 8 DLC", "title_id": "0100E05011350000", "metacritic": 78.0},
@@ -36,9 +40,5 @@
   {"title": "Farlands (Far Lands)", "title_id": "0100F4601CBA6000", "metacritic": null},
   {"title": "Blades and Battles", "title_id": "01000BC021FF2000", "metacritic": null},
   {"title": "Farming Camp", "title_id": "0100CE4026B60000", "metacritic": null},
-  {"title": "Outbound + DLC", "title_id": "0100ED9024EB8000", "metacritic": null},
-  {"title": "Quake + Dawn of the Machine + 11 DLC + 37 кастомных модов", "title_id": "0100BA5012E54000", "metacritic": null},
-  {"title": "Raging Loop", "title_id": "010020400E1C2000", "metacritic": 79.0},
-  {"title": "Minecraft Dungeons II (2) + DLC", "title_id": "0100A7C01B792000", "metacritic": 93.0},
-  {"title": "Fountains + DLC Shattered Shape", "title_id": "010063302712A000", "metacritic": null}
+  {"title": "Outbound + DLC", "title_id": "0100ED9024EB8000", "metacritic": null}
 ]
