@@ -1,4 +1,7 @@
 [
+  {"title": "Stories from the Outbreak", "title_id": "010076D01F49C000", "metacritic": null},
+  {"title": "EA Sports FC 27", "title_id": "0100C49025D3E000", "metacritic": null},
+  {"title": "Little Nightmares III (3) + DLC Secrets of the Spiral (The Backstage, The Shores)", "title_id": "010066101A55A000", "metacritic": 71.0},
   {"title": "Kingdom Two Crowns + DLC Call of Olympus + Norse Lands, Shogun, Dead Lands, Norse Lands / Kingdom Majestic: New Lands", "title_id": "01005EF003FF2000", "metacritic": 85.0},
   {"title": "Kanon", "title_id": "0100FB7019ADE000", "metacritic": null},
   {"title": "The Zibbo Show (демонстрационная версия)", "title_id": "0100156029766000", "metacritic": null},
@@ -35,10 +38,5 @@
   {"title": "Mr Sleepy Man", "title_id": "01007CD025ADE000", "metacritic": null},
   {"title": "Neko Odyssey", "title_id": "0100727028694000", "metacritic": null},
   {"title": "Puppergeist (Pupper Geist)", "title_id": "0100D9D028292000", "metacritic": null},
-  {"title": "Uno + 13 DLC", "title_id": "0100B6E012EBF000", "metacritic": null},
-  {"title": "Gang Beasts", "title_id": "0100D58012E12000", "metacritic": 68.0},
-  {"title": "Farlands (Far Lands)", "title_id": "0100F4601CBA6000", "metacritic": null},
-  {"title": "Blades and Battles", "title_id": "01000BC021FF2000", "metacritic": null},
-  {"title": "Farming Camp", "title_id": "0100CE4026B60000", "metacritic": null},
-  {"title": "Outbound + DLC", "title_id": "0100ED9024EB8000", "metacritic": null}
+  {"title": "Uno + 13 DLC", "title_id": "0100B6E012EBF000", "metacritic": null}
 ]
