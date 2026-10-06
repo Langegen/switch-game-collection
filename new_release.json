@@ -1,4 +1,9 @@
 [
+  {"title": "Cattle Country", "title_id": "0100A5B021446000", "metacritic": null},
+  {"title": "Hello, Mario, Yoshi, Luigi, Peach! (Привет, Марио, Йоши, Луиджи, Пич!) + мини-сериал My Mario, с. 1-9", "title_id": "01008790251AC000", "metacritic": null},
+  {"title": "Frostpunk (демонстрационная версия)", "title_id": "0100193028708000", "metacritic": null},
+  {"title": "Super Bunny Man", "title_id": "0100EF401D9D8000", "metacritic": null},
+  {"title": "Kong Survivor Instinct", "title_id": "0100D400244D4000", "metacritic": null},
   {"title": "Stories from the Outbreak", "title_id": "010076D01F49C000", "metacritic": null},
   {"title": "EA Sports FC 27", "title_id": "0100C49025D3E000", "metacritic": null},
   {"title": "Little Nightmares III (3) + DLC Secrets of the Spiral (The Backstage, The Shores)", "title_id": "010066101A55A000", "metacritic": 71.0},
@@ -30,13 +35,5 @@
   {"title": "Unrailed 2 Back on Track", "title_id": "01006D00241E6000", "metacritic": 77.0},
   {"title": "Easy Delivery Co", "title_id": "01000780260F6000", "metacritic": null},
   {"title": "The King is Watching", "title_id": "0100F2B023A26000", "metacritic": null},
-  {"title": "Pools / The Pools / Anomaly Pools", "title_id": "010005B02556E000", "metacritic": null},
-  {"title": "Doraemon Story of Seasons", "title_id": "010073700E412000", "metacritic": 75.0},
-  {"title": "The Room / The Room Two (2) / Three 3 / 4 Old Sins", "title_id": "0100665017A3A000", "metacritic": 75.0},
-  {"title": "The Merlies", "title_id": "0100091028782000", "metacritic": null},
-  {"title": "The Convenience Store", "title_id": "0100196028A3E000", "metacritic": null},
-  {"title": "Mr Sleepy Man", "title_id": "01007CD025ADE000", "metacritic": null},
-  {"title": "Neko Odyssey", "title_id": "0100727028694000", "metacritic": null},
-  {"title": "Puppergeist (Pupper Geist)", "title_id": "0100D9D028292000", "metacritic": null},
-  {"title": "Uno + 13 DLC", "title_id": "0100B6E012EBF000", "metacritic": null}
+  {"title": "Pools / The Pools / Anomaly Pools", "title_id": "010005B02556E000", "metacritic": null}
 ]
