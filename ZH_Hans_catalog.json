@@ -173272,12 +173272,12 @@
         "multiplayer": "最多 4 人",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5739146.jpg",
         "screenshots": [
-            "https://i106.fastpic.ru/thumb/2019/0601/be/c21e09ef721cae5990d3f3917a8b4dbe.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0601/bc/48fd62b74a80a881f41cf94179d832bc.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0601/01/9d593c18367966eb458ec589c0b3d901.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0601/df/bed810bf46d3d07e0db71b274bec27df.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0601/e6/65eef340c6b0450877174266754befe6.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0601/99/1bbd90ebbd8edcb34c9a2051ce843f99.jpeg"
+            "https://i106.fastpic.org/thumb/2019/0601/be/c21e09ef721cae5990d3f3917a8b4dbe.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0601/bc/48fd62b74a80a881f41cf94179d832bc.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0601/01/9d593c18367966eb458ec589c0b3d901.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0601/df/bed810bf46d3d07e0db71b274bec27df.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0601/e6/65eef340c6b0450877174266754befe6.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0601/99/1bbd90ebbd8edcb34c9a2051ce843f99.jpeg"
         ],
         "description": "Ispolzuyte gazonnykh gnomov, chtoby kosit travu na svoyom zadnem dvore i kidat veshchi! Udivitelno veselo!",
         "title_id": "01001C500D850000"
@@ -173514,21 +173514,21 @@
         "genre": "Racing, Arcade, Homebrew",
         "developer": "Sega AM2, Chris White, MVG",
         "publisher": "rsn8887",
-        "image_format": "NSP",
+        "image_format": "NRO",
         "interface_lang": "英语 [ENG]",
         "voice_lang": "无语音",
         "performance": "是 (在 13.2.0, Atmosphere 1.2.5)",
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5927674.jpg",
         "screenshots": [
-            "https://i112.fastpic.ru/thumb/2020/0807/ff/4d88740601ed9636984ec03d2b05e2ff.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0807/56/7b0f3e73bbfa66f8fbbc7a41f1a8fa56.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0807/d7/1f4024c4fb741aeae87c3362a3265ad7.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0807/f2/a70435cbef7371fc53c99c0c4c9e09f2.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0807/6c/d69529feb1fe82e86aeb957fc92a4d6c.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0807/be/bad22d471b989a64c02a77d216a380be.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0807/95/1b06963f424a2ab619a96eb424606b95.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0807/09/2ca12486bb2ce42ef025c5fc5d1fab09.jpeg"
+            "https://i112.fastpic.org/thumb/2020/0807/ff/4d88740601ed9636984ec03d2b05e2ff.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0807/56/7b0f3e73bbfa66f8fbbc7a41f1a8fa56.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0807/d7/1f4024c4fb741aeae87c3362a3265ad7.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0807/f2/a70435cbef7371fc53c99c0c4c9e09f2.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0807/6c/d69529feb1fe82e86aeb957fc92a4d6c.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0807/be/bad22d471b989a64c02a77d216a380be.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0807/95/1b06963f424a2ab619a96eb424606b95.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0807/09/2ca12486bb2ce42ef025c5fc5d1fab09.jpeg"
         ],
         "description": "Out Run (yap. アウトラン, Auto Ran), takzhe izvestnaya kak OutRun i Outrun — avtosimulyator 1986 goda, razrabotannyy Yu Sudzuki i Sega AM2 iznachalno dlya rynka videoarkad. Vposledstvii igra byla portirovana na mnogie drugie populyarnye platformy. V retrospektivnykh intervyu Yu Sudzuki nazyval Out Run «ne gonochnoy, a voditelskoy igroy».\nIgrok upravlyaet voditelem, sidyashchim za Ferrari Testarossa (prototip Testarossa Ferrari Mythos), kotoryy edet so svoey lyubimoy svetlovolosoy podrugoy. Nachinaya poezdku po Kokosovomu plyazhu, on dolzhen proekhat cherez chetyre kontrolnykh tochki za zadannoe vremya.\nV moment svoego vypuska igra byla unikalna vozmozhnostyu vybora puti dvizheniya. Pered kazhdoy kontrolnoy tochkoy est razvilka, kotoraya dayot vozmozhnost igroku vybrat odin iz dvukh putey (podobnaya vetvyashchayasya sistema takzhe ispolzovalas v igre TX-1 Atari/Tatsumi 1983 goda, no v toy igre vybor chetvyortogo puti opredelyal i pyatyy put).",
         "title_id": null
