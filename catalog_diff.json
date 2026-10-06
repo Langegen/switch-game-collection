@@ -1,10 +1,40 @@
 {
   "version": 1,
-  "generated_at": 1791227642,
+  "generated_at": 1791252734,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
     "ru": [
+      {
+        "title": "Frostpunk (демонстрационная версия) [NSP][DEMO][RUS/Multi10]",
+        "size": "1.85 GB",
+        "magnet": "magnet:?xt=urn:btih:BAFBD9AB98216BDB8112E2A8FFE8D3C6096B6822&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6918667",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6918667",
+        "year": "2026, октябрь",
+        "genre": "Strategy, Simulator",
+        "developer": "11 bit studios",
+        "publisher": "11 bit studios",
+        "image_format": "NSP [DEMO]",
+        "interface_lang": "Русский, Английский [RUS / ENG / Multi 10]",
+        "voice_lang": "английская",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "нет",
+        "cover": "https://i1.imageban.ru/out/2026/10/05/2c0cfc68d83801cac013cda090356b07.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1005/95/2a2fc9383a94ca03cdd2fa4c5c189d95.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/5f/d723fbe02d8feeac59ff8ebbfd14af5f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a1/ce08f670233eab957d42f99b39d195a1.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/43/a731c901129c143a465cfd0d7087ed43.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/ba/36a26603e79f748881297190ba9e07ba.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/74/aafa360290d2504e59dcd9492a13de74.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/21/0f46458a9c2fc1a41a7a8cab7074ec21.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a5/f94de6731fd6666b886e72c24c0290a5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/bb/fe18c2c2a888bc4ae2ea1eda97bc8cbb.jpeg"
+        ],
+        "description": "«Зима близко…» ©\nДействие игры происходит в конце XIX века, ~1886 году, когда во всём мире начинается постепенное похолодание. Официально это происходит из-за того, что вулканы Кракатау и Тамбора, постоянно извергаясь, выбрасывают в атмосферу огромные количества вулканической пыли, которая мешает лучам Солнца проходить через атмосферу Земли и нагревать её поверхность. Британская империя финансирует строительство секретной обсерватории в Арктике, после чего работающие там учёные приходят к выводу, что похолодание вызвано затуханием Солнца, и этот процесс будет продолжаться. В атмосфере строжайшей секретности британцы строят в Арктике, на территориях, не тронутых цивилизацией и сохранивших нетронутыми большие запасы полезных ископаемых, генераторы — огромные и высокие печи, сжигающие каменный уголь и генерирующие тепло для обогрева территории вокруг себя. Климатические изменения происходят быстрее, чем прогнозировали учёные, южные государства, никогда не испытывавшие подобных проблем и совершенно к ним не готовые, погибают первыми.\nЭто — сложная игра про выживание общества, где без тепла нет жизни, а каждое решение имеет свою цену. В полностью промерзшем мире люди разрабатывают паровые машины, чтобы противостоять невыносимому холоду. Вам предстоит построить последний город на земле и обеспечить свой народ средствами выживания. Часто на одной чаше весов оказываются оптимизация и рациональное использование ресурсов, а на другой — сочувствие и человечность. В то время как управление городом и обществом будет отнимать львиную долю времени правителя, в определенный момент исследование внешнего мира станет необходимым для понимания его истории и современного состояния.\nКакие решения вы примете, чтобы общество выжило? На что пойдете, дойдя до предела? И кем вы сами станете при этом?",
+        "title_id": "0100193028708000"
+      },
       {
         "title": "Mass Effect 1 (порт) [NRO][ENG]",
         "size": "7.3 GB",
@@ -20,7 +50,7 @@
         "voice_lang": "английская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/365c48cf209f5836e069c4724bf34668.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918585.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/61/e6241453544e59416791fb7b075a5d61.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/08/1da7ab8c81f38f5a73ea4dd2fca03708.jpeg",
@@ -50,7 +80,7 @@
         "voice_lang": "английская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i6.imageban.ru/out/2026/10/05/6cca332f20cb11141a36a9c9b8dbac8b.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918569.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f5/d6fa40d13a3a68557f5440dcb8f39cf5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/df/2e5e66c57074046610209420b87a5bdf.jpeg",
@@ -80,7 +110,7 @@
         "voice_lang": "английская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i5.imageban.ru/out/2026/10/05/9299444e07e07993535c73f54c3480e4.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918516.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f4/15a60b38a36e0a69d2069c1238faa1f4.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/fc/d9c938af815504165cf7bf9b49c948fc.jpeg",
@@ -110,7 +140,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i4.imageban.ru/out/2026/10/05/835bfc5e9e2a5f093479ad3985490f92.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918496.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/19/0fa721e4831f740d8d7d4e54d85b2919.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/75/1db597179bae17e03197fd06e11a2a75.jpeg",
@@ -140,7 +170,7 @@
         "voice_lang": "английская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/f6b9c3f0381ff088d797f347660359b2.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918472.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/fa/3fc2f6fcbbf63fa38f6c34d4383428fa.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/4d/43805b54b749392c4f579f746b67d74d.jpeg",
@@ -679,38 +709,39 @@
         ],
         "description": "Это официальное цифровое издание одноименной настольной игры, получившей престижную немецкую премию Kennerspiel des Jahres как лучшая игра 2019 года.\n\nВ этой игре вы выступите в роли орнитологов, коллекционеров, знатоков и наблюдателей, желающих отыскать и приманить в природные заповедники самых интересных пернатых. Карты птиц создают цепочки особых свойств в одной из сред обитания. Эти среды зависят от главного способа развития ваших заповедников.\n\nСобирайте партии до 5 игроков и соревнуйтесь в создании лучших заповедников. Помните, число ходов ограничено! Каждая птичка в вашей колоде улучшает показатели откладывания яиц, вытягивания карт или сбора еды. Многие из 170 уникальных видов обладают теми же способностями, что и в реальной жизни: ястребы будут летать на охоту, пеликаны ловить рыбу, а гуси объединяться в стаи.\n\nОсобенности\n* Спокойная карточная игра, основанная на поиске необычных птиц и создании заповедников.\n* Однопользовательский и многопользовательский режимы, объединяющие до 5 игроков.\n* Создана по мотивам знаменитой соревновательной настольной игры со средним уровнем сложности, сосредоточенной на наращивании потенциала.\n* Сотни уникальных анимированных птиц и запись звуков природы.\n* Множество способов накопления очков с помощью птиц, бонусных карт и целей раунда.",
         "title_id": "0100E05011350000"
-      },
-      {
-        "title": "Sorcerer's Servant SweetWitch [NSZ][ENG]",
-        "size": "1.3 GB",
-        "magnet": "magnet:?xt=urn:btih:AE6638B2DF3B9395194BEC756C702B0903B8070F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6917018",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6917018",
-        "year": "2026, октябрь",
-        "genre": "Arcade, Role-Playing, Roguelite",
-        "developer": "2202 Games",
-        "publisher": "2202Games",
-        "image_format": ".NSZ (сжато ~33%, установленный объём 1.94 ГБ)",
-        "interface_lang": "Английский [ENG]",
-        "voice_lang": "не озвучивается",
-        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "нет",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6917018.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1002/bd/c2d53f25ecae272cd702242b2976fbbd.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/c3/11ea03f195273f423106c5ac38cd9bc3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/ba/3d8ba28ded4122fddaaecc441a9606ba.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/e3/e8cb009ddf109e788509adfcb14049e3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d9/168e9603baad4fc4442d68c7319dfbd9.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d5/a6cbee485f773ddbac64b2063df26ed5.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/76/414626693f5077b8df3680ea4092da76.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/26/b18d5b31f47621697aeeae1b9ddf3f26.jpeg"
-        ],
-        "description": "Ролевой аркадный рогалик, где битвы проходят с использованием предметов и слотов: выбирайте предметы и объединяйте их в цепочки для эволюции.\nВы — помощник милой волшебницы, и именно от вас зависит её судьба!",
-        "title_id": "010031C027BD6000"
       }
     ],
     "en": [
+      {
+        "title": "Frostpunk (demo version) [NSP][DEMO][RUS/Multi10]",
+        "size": "1.85 GB",
+        "magnet": "magnet:?xt=urn:btih:BAFBD9AB98216BDB8112E2A8FFE8D3C6096B6822&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6918667",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6918667",
+        "year": "2026, October",
+        "genre": "Strategy, Simulator",
+        "developer": "11 bit studios",
+        "publisher": "11 bit studios",
+        "image_format": "NSP [DEMO]",
+        "interface_lang": "Russian, English [RUS / ENG / Multi 10]",
+        "voice_lang": "English",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://i1.imageban.ru/out/2026/10/05/2c0cfc68d83801cac013cda090356b07.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1005/95/2a2fc9383a94ca03cdd2fa4c5c189d95.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/5f/d723fbe02d8feeac59ff8ebbfd14af5f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a1/ce08f670233eab957d42f99b39d195a1.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/43/a731c901129c143a465cfd0d7087ed43.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/ba/36a26603e79f748881297190ba9e07ba.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/74/aafa360290d2504e59dcd9492a13de74.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/21/0f46458a9c2fc1a41a7a8cab7074ec21.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a5/f94de6731fd6666b886e72c24c0290a5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/bb/fe18c2c2a888bc4ae2ea1eda97bc8cbb.jpeg"
+        ],
+        "description": "“Winter is coming...” ©\nThe game takes place at the end of the 19th century, ~1886, when a gradual cooling began throughout the world. Officially, this is due to the fact that the Krakatoa and Tambora volcanoes, constantly erupting, emit huge amounts of volcanic dust into the atmosphere, which prevents the sun's rays from passing through the Earth's atmosphere and heating its surface. The British Empire funds the construction of a secret observatory in the Arctic, after which scientists working there come to the conclusion that the cooling is caused by the attenuation of the Sun, and this process will continue. In an atmosphere of the strictest secrecy, the British are building generators in the Arctic, in territories untouched by civilization and with large reserves of mineral resources intact, - huge and tall furnaces that burn coal and generate heat to heat the area around them. Climate change is happening faster than scientists predicted; southern states, which have never experienced such problems and are completely unprepared for them, are the first to die.\nThis is a complex game about the survival of a society where without heat there is no life, and every decision has its own price. In a completely frozen world, people develop steam engines to withstand the unbearable cold. You have to build the last city on earth and provide your people with the means of survival. Often, optimization and rational use of resources are on one side of the scale, while compassion and humanity are on the other. While managing the city and society will take up the lion's share of the ruler's time, at some point exploration of the outside world will become necessary to understand its history and current state.\nWhat decisions will you make to ensure society survives? What will you do when you reach the limit? And who will you become?",
+        "title_id": "0100193028708000"
+      },
       {
         "title": "Mass Effect 1 (port ) [NRO][ENG]",
         "size": "7.3 GB",
@@ -726,7 +757,7 @@
         "voice_lang": "English",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/365c48cf209f5836e069c4724bf34668.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918585.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/61/e6241453544e59416791fb7b075a5d61.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/08/1da7ab8c81f38f5a73ea4dd2fca03708.jpeg",
@@ -756,7 +787,7 @@
         "voice_lang": "English",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i6.imageban.ru/out/2026/10/05/6cca332f20cb11141a36a9c9b8dbac8b.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918569.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f5/d6fa40d13a3a68557f5440dcb8f39cf5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/df/2e5e66c57074046610209420b87a5bdf.jpeg",
@@ -786,7 +817,7 @@
         "voice_lang": "English",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/10/05/9299444e07e07993535c73f54c3480e4.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918516.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f4/15a60b38a36e0a69d2069c1238faa1f4.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/fc/d9c938af815504165cf7bf9b49c948fc.jpeg",
@@ -816,7 +847,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i4.imageban.ru/out/2026/10/05/835bfc5e9e2a5f093479ad3985490f92.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918496.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/19/0fa721e4831f740d8d7d4e54d85b2919.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/75/1db597179bae17e03197fd06e11a2a75.jpeg",
@@ -846,7 +877,7 @@
         "voice_lang": "English",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/f6b9c3f0381ff088d797f347660359b2.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918472.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/cbd12c69d5019fa0574ff38bdf1edd01fd18bc311e885b5460be4e8c70c86f04.jpg",
           "https://img-eshop.cdn.nintendo.net/i/ac909be3c834e065b75f0dbc975ef2f63221c8e46f5041b7e93fd21d90f6fd77.jpg",
@@ -1353,38 +1384,39 @@
         ],
         "description": "The officially licensed digital adaptation of Wingspan, the winner of the prestigious 2019 Kennerspiel des Jahres board game award.\n\nYou are bird enthusiasts—researchers, bird watchers, ornithologists, and collectors—seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats. Each habitat focuses on a key aspect of the growth of your preserves.\n\nIn Wingspan up to 5 players compete to build up their nature preserves in a limited number of turns. Each beautiful bird that you add to your preserve makes you better at laying eggs, drawing cards, or gathering food. Many of the 170 unique birds have powers that echo real life: your hawks will hunt, your pelicans will fish, and your geese will form a flock.\n\nFeatures\n* Relaxing strategy card game where your goal is to discover and attract the best birds.\n* Single player and multiplayer modes for up to five players.\n* Based on the award winning, competitive, medium-weight, card-driven, engine-building board game.\n* Hundreds of unique, animated birds with their real life sound recordings.\n* Multiple ways to accumulate points with birds, bonus cards and end-of-round goals.",
         "title_id": "0100E05011350000"
-      },
-      {
-        "title": "Sorcerer's Servant SweetWitch [NSZ][ENG]",
-        "size": "1.3 GB",
-        "magnet": "magnet:?xt=urn:btih:AE6638B2DF3B9395194BEC756C702B0903B8070F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6917018",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6917018",
-        "year": "2026, October",
-        "genre": "Arcade, Role-Playing, Roguelite",
-        "developer": "2202 Games",
-        "publisher": "2202Games",
-        "image_format": ".NSZ (compressed ~33%, installed size 1.94 GB)",
-        "interface_lang": "English [ENG]",
-        "voice_lang": "No voiceover",
-        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6917018.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1002/bd/c2d53f25ecae272cd702242b2976fbbd.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/c3/11ea03f195273f423106c5ac38cd9bc3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/ba/3d8ba28ded4122fddaaecc441a9606ba.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/e3/e8cb009ddf109e788509adfcb14049e3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d9/168e9603baad4fc4442d68c7319dfbd9.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d5/a6cbee485f773ddbac64b2063df26ed5.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/76/414626693f5077b8df3680ea4092da76.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/26/b18d5b31f47621697aeeae1b9ddf3f26.jpeg"
-        ],
-        "description": "An arcade role-playing roguelike where battles take place using items and slots: select items and combine them into chains for evolution.\nYou are the assistant of a sweet sorceress, and her fate depends on you!",
-        "title_id": "010031C027BD6000"
       }
     ],
     "es": [
+      {
+        "title": "Frostpunk (versión demo) [NSP][DEMO][RUS/Multi10]",
+        "size": "1.85 GB",
+        "magnet": "magnet:?xt=urn:btih:BAFBD9AB98216BDB8112E2A8FFE8D3C6096B6822&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6918667",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6918667",
+        "year": "2026, octubre",
+        "genre": "Strategy, Simulator",
+        "developer": "11 bit studios",
+        "publisher": "11 bit studios",
+        "image_format": "NSP [DEMO]",
+        "interface_lang": "Ruso, Inglés [RUS / ENG / Multi 10]",
+        "voice_lang": "Inglés",
+        "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://i1.imageban.ru/out/2026/10/05/2c0cfc68d83801cac013cda090356b07.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1005/95/2a2fc9383a94ca03cdd2fa4c5c189d95.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/5f/d723fbe02d8feeac59ff8ebbfd14af5f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a1/ce08f670233eab957d42f99b39d195a1.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/43/a731c901129c143a465cfd0d7087ed43.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/ba/36a26603e79f748881297190ba9e07ba.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/74/aafa360290d2504e59dcd9492a13de74.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/21/0f46458a9c2fc1a41a7a8cab7074ec21.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a5/f94de6731fd6666b886e72c24c0290a5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/bb/fe18c2c2a888bc4ae2ea1eda97bc8cbb.jpeg"
+        ],
+        "description": "“Se acerca el invierno...” ©\nEl juego tiene lugar a finales del siglo XIX, ~1886, cuando comenzó un enfriamiento gradual en todo el mundo. Oficialmente, esto se debe a que los volcanes Krakatoa y Tambora, en constante erupción, emiten a la atmósfera enormes cantidades de polvo volcánico, lo que impide que los rayos del sol atraviesen la atmósfera terrestre y calienten su superficie. El Imperio Británico financia la construcción de un observatorio secreto en el Ártico, después de lo cual los científicos que trabajan allí llegan a la conclusión de que el enfriamiento se debe a la atenuación del Sol y que este proceso continuará. En una atmósfera del más estricto secreto, los británicos están construyendo generadores en el Ártico, en territorios no tocados por la civilización y con grandes reservas de recursos minerales intactos: hornos enormes y altos que queman carbón y generan calor para calentar el área que los rodea. El cambio climático está ocurriendo más rápido de lo que predijeron los científicos; Los primeros en morir son los estados del sur, que nunca han experimentado tales problemas y no están en absoluto preparados para ellos.\nSe trata de un juego complejo sobre la supervivencia de una sociedad donde sin calor no hay vida y cada decisión tiene su propio precio. En un mundo completamente helado, la gente desarrolla máquinas de vapor para resistir el frío insoportable. Tienes que construir la última ciudad del mundo y proporcionar a tu gente los medios de supervivencia. A menudo, la optimización y el uso racional de los recursos están en un lado de la balanza, mientras que la compasión y la humanidad están en el otro. Si bien la gestión de la ciudad y la sociedad ocupará la mayor parte del tiempo del gobernante, en algún momento será necesaria la exploración del mundo exterior para comprender su historia y su estado actual.\n¿Qué decisiones tomará para garantizar que la sociedad sobreviva? ¿Qué harás cuando llegues al límite? ¿Y en quién te convertirás?",
+        "title_id": "0100193028708000"
+      },
       {
         "title": "Mass Effect 1 (port ) [NRO][ENG]",
         "size": "7.3 GB",
@@ -1400,7 +1432,7 @@
         "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/365c48cf209f5836e069c4724bf34668.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918585.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/61/e6241453544e59416791fb7b075a5d61.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/08/1da7ab8c81f38f5a73ea4dd2fca03708.jpeg",
@@ -1430,7 +1462,7 @@
         "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i6.imageban.ru/out/2026/10/05/6cca332f20cb11141a36a9c9b8dbac8b.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918569.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f5/d6fa40d13a3a68557f5440dcb8f39cf5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/df/2e5e66c57074046610209420b87a5bdf.jpeg",
@@ -1460,7 +1492,7 @@
         "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/10/05/9299444e07e07993535c73f54c3480e4.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918516.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f4/15a60b38a36e0a69d2069c1238faa1f4.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/fc/d9c938af815504165cf7bf9b49c948fc.jpeg",
@@ -1490,7 +1522,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i4.imageban.ru/out/2026/10/05/835bfc5e9e2a5f093479ad3985490f92.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918496.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/19/0fa721e4831f740d8d7d4e54d85b2919.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/75/1db597179bae17e03197fd06e11a2a75.jpeg",
@@ -1520,7 +1552,7 @@
         "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/f6b9c3f0381ff088d797f347660359b2.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918472.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/cbd12c69d5019fa0574ff38bdf1edd01fd18bc311e885b5460be4e8c70c86f04.jpg",
           "https://img-eshop.cdn.nintendo.net/i/ac909be3c834e065b75f0dbc975ef2f63221c8e46f5041b7e93fd21d90f6fd77.jpg",
@@ -2027,38 +2059,39 @@
         ],
         "description": "La adaptación oficial de Wingspan, que ganó en 2019 el prestigioso galardón de Juego para expertos del año en Alemania (Kennerspiel des Jahres).\n\nEn este juego, sois unos apasionados de las aves (investigadores, observadores de aves, ornitólogos y coleccionistas) que intentan descubrir y atraer a las más interesantes a vuestra red de reservas naturales. Cada ave es un nuevo engranaje en las potentes cadenas de combinaciones que formaréis en vuestros hábitats. Cada uno de estos hábitats se centra en un aspecto fundamental del crecimiento de vuestras reservas naturales.\n\nEn Wingspan, los jugadores (un máximo de 5) compiten para construir un aviario en una cantidad limitada de turnos. Cada preciosidad de ave que añadas a la reserva te ayudará a que mejores la habilidad de poner huevos, a sacar cartas o a reunir comida. Muchas de las 170 aves tienen habilidades que se asemejan a su función en la vida real: los halcones cazan, los pelícanos pescan y los gansos formarán bandadas.\n\nCaracterísticas\n* Juego de estrategia relajante cuyo objetivo consiste en descubrir y atraer a las mejores aves.\n* Modo un jugador y multijugador de hasta 5 jugadores.\n* Está basado en un juego de mesa competitivo, ligero y de cartas que, además, ha ganado un galardón.\n* Cientos de aves animadas con grabaciones de sonidos reales.\n* Hay varias formas de acumular puntos: con aves, cartas extra y objetivos al terminar las rondas.",
         "title_id": "0100E05011350000"
-      },
-      {
-        "title": "Sorcerer's Servant SweetWitch [NSZ][ENG]",
-        "size": "1.3 GB",
-        "magnet": "magnet:?xt=urn:btih:AE6638B2DF3B9395194BEC756C702B0903B8070F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6917018",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6917018",
-        "year": "2026, octubre",
-        "genre": "Arcade, Role-Playing, Roguelite",
-        "developer": "2202 Games",
-        "publisher": "2202Games",
-        "image_format": ".NSZ (comprimido ~33%, tamaño instalado 1.94 GB)",
-        "interface_lang": "Inglés [ENG]",
-        "voice_lang": "Sin voces",
-        "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6917018.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1002/bd/c2d53f25ecae272cd702242b2976fbbd.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/c3/11ea03f195273f423106c5ac38cd9bc3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/ba/3d8ba28ded4122fddaaecc441a9606ba.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/e3/e8cb009ddf109e788509adfcb14049e3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d9/168e9603baad4fc4442d68c7319dfbd9.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d5/a6cbee485f773ddbac64b2063df26ed5.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/76/414626693f5077b8df3680ea4092da76.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/26/b18d5b31f47621697aeeae1b9ddf3f26.jpeg"
-        ],
-        "description": "Un roguelike arcade de rol donde las batallas se llevan a cabo usando elementos y tragamonedas: selecciona elementos y combínalos en cadenas para evolucionar.\n¡Eres la asistente de una dulce hechicera y su destino depende de ti!",
-        "title_id": "010031C027BD6000"
       }
     ],
     "fr": [
+      {
+        "title": "Frostpunk (version démo) [NSP][DEMO][RUS/Multi10]",
+        "size": "1.85 GB",
+        "magnet": "magnet:?xt=urn:btih:BAFBD9AB98216BDB8112E2A8FFE8D3C6096B6822&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6918667",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6918667",
+        "year": "2026, octobre",
+        "genre": "Strategy, Simulator",
+        "developer": "11 bit studios",
+        "publisher": "11 bit studios",
+        "image_format": "NSP [DEMO]",
+        "interface_lang": "Russe, Anglais [RUS / ENG / Multi 10]",
+        "voice_lang": "Anglais",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Non",
+        "cover": "https://i1.imageban.ru/out/2026/10/05/2c0cfc68d83801cac013cda090356b07.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1005/95/2a2fc9383a94ca03cdd2fa4c5c189d95.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/5f/d723fbe02d8feeac59ff8ebbfd14af5f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a1/ce08f670233eab957d42f99b39d195a1.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/43/a731c901129c143a465cfd0d7087ed43.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/ba/36a26603e79f748881297190ba9e07ba.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/74/aafa360290d2504e59dcd9492a13de74.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/21/0f46458a9c2fc1a41a7a8cab7074ec21.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a5/f94de6731fd6666b886e72c24c0290a5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/bb/fe18c2c2a888bc4ae2ea1eda97bc8cbb.jpeg"
+        ],
+        "description": "« L’hiver arrive… » ©\nLe jeu se déroule à la fin du 19ème siècle, ~1886, alors qu'un refroidissement progressif commençait à travers le monde. Officiellement, cela est dû au fait que les volcans Krakatoa et Tambora, en éruption constante, émettent d'énormes quantités de poussière volcanique dans l'atmosphère, ce qui empêche les rayons du soleil de traverser l'atmosphère terrestre et de réchauffer sa surface. L'Empire britannique finance la construction d'un observatoire secret dans l'Arctique, après quoi les scientifiques qui y travaillent arrivent à la conclusion que le refroidissement est dû à l'atténuation du Soleil, et ce processus va se poursuivre. Dans une atmosphère de secret le plus strict, les Britanniques construisent dans l'Arctique, dans des territoires épargnés par la civilisation et avec d'importantes réserves de ressources minérales intactes, des générateurs - des fours énormes et hauts qui brûlent du charbon et génèrent de la chaleur pour chauffer la zone qui les entoure. Le changement climatique se produit plus rapidement que ne le prévoyaient les scientifiques ; Les États du Sud, qui n’ont jamais connu de tels problèmes et n’y sont absolument pas préparés, sont les premiers à mourir.\nIl s’agit d’un jeu complexe sur la survie d’une société où sans chaleur il n’y a pas de vie et où chaque décision a son propre prix. Dans un monde complètement gelé, les gens développent des machines à vapeur pour résister au froid insupportable. Vous devez construire la dernière ville sur terre et fournir à votre peuple les moyens de survie. Souvent, l’optimisation et l’utilisation rationnelle des ressources se situent d’un côté de l’échelle, tandis que la compassion et l’humanité se trouvent de l’autre. Alors que la gestion de la ville et de la société occupera la part du lion du temps du dirigeant, à un moment donné, l'exploration du monde extérieur deviendra nécessaire pour comprendre son histoire et son état actuel.\nQuelles décisions prendrez-vous pour assurer la survie de la société ? Que ferez-vous lorsque vous atteindrez la limite ? Et qui deviendras-tu ?",
+        "title_id": "0100193028708000"
+      },
       {
         "title": "Mass Effect 1 (portage ) [NRO][ENG]",
         "size": "7.3 GB",
@@ -2074,7 +2107,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/365c48cf209f5836e069c4724bf34668.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918585.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/61/e6241453544e59416791fb7b075a5d61.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/08/1da7ab8c81f38f5a73ea4dd2fca03708.jpeg",
@@ -2104,7 +2137,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i6.imageban.ru/out/2026/10/05/6cca332f20cb11141a36a9c9b8dbac8b.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918569.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f5/d6fa40d13a3a68557f5440dcb8f39cf5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/df/2e5e66c57074046610209420b87a5bdf.jpeg",
@@ -2134,7 +2167,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i5.imageban.ru/out/2026/10/05/9299444e07e07993535c73f54c3480e4.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918516.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f4/15a60b38a36e0a69d2069c1238faa1f4.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/fc/d9c938af815504165cf7bf9b49c948fc.jpeg",
@@ -2164,7 +2197,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i4.imageban.ru/out/2026/10/05/835bfc5e9e2a5f093479ad3985490f92.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918496.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/19/0fa721e4831f740d8d7d4e54d85b2919.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/75/1db597179bae17e03197fd06e11a2a75.jpeg",
@@ -2194,7 +2227,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/f6b9c3f0381ff088d797f347660359b2.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918472.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/cbd12c69d5019fa0574ff38bdf1edd01fd18bc311e885b5460be4e8c70c86f04.jpg",
           "https://img-eshop.cdn.nintendo.net/i/ac909be3c834e065b75f0dbc975ef2f63221c8e46f5041b7e93fd21d90f6fd77.jpg",
@@ -2701,38 +2734,39 @@
         ],
         "description": "L'adaptation numérique sous licence officielle de Wingspan, le jeu de plateau lauréat du prix prestigieux Kennerspiel des Jahres 2019.\n\nVous êtes des passionnés d’oiseaux — chercheurs, observateurs, ornithologues ou collectionneurs — dont le but est de découvrir les plus beaux spécimens et de les attirer dans vos réserves naturelles. Chaque oiseau déclenche un enchaînement de combinaisons puissantes dans l'un de vos habitats, et chaque habitat se concentre sur un aspect clé de la croissance de vos réserves naturelles.\n\nDans Wingspan, jusqu'à 5 joueurs s'affrontent pour développer leurs réserves naturelles en un nombre de tours limité. Chaque oiseau que vous ajoutez à votre réserve améliore vos capacités à pondre des œufs, tirer des cartes ou ramasser de la nourriture. La plupart des 170 espèces uniques possèdent des pouvoirs proches de leur vraie nature : vos aigles chassent, vos pélicans pêchent et vos oies se regroupent en volées.\n\nFonctionnalités\n* Un jeu de stratégie à base de cartes consistant à découvrir et attirer les meilleurs oiseaux.\n* Un mode solo ainsi qu'un mode multijoueur accueillant jusqu'à cinq joueurs.\n* Une adaptation du jeu de plateau primé, compétitif et de taille moyenne, fonctionnant à base de cartes et de création de moteurs de jeu.\n* Des centaines d'oiseaux uniques, animés avec de véritables enregistrements naturels.\n* Des moyens divers de marquer des points avec des oiseaux, des cartes bonus et des objectifs au tour par tour.",
         "title_id": "0100E05011350000"
-      },
-      {
-        "title": "Sorcerer's Servant SweetWitch [NSZ][ENG]",
-        "size": "1.3 GB",
-        "magnet": "magnet:?xt=urn:btih:AE6638B2DF3B9395194BEC756C702B0903B8070F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6917018",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6917018",
-        "year": "2026, octobre",
-        "genre": "Arcade, Role-Playing, Roguelite",
-        "developer": "2202 Games",
-        "publisher": "2202Games",
-        "image_format": ".NSZ (compressé ~33%, taille installée 1.94 GB)",
-        "interface_lang": "Anglais [ENG]",
-        "voice_lang": "Sans voix",
-        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "Non",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6917018.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1002/bd/c2d53f25ecae272cd702242b2976fbbd.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/c3/11ea03f195273f423106c5ac38cd9bc3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/ba/3d8ba28ded4122fddaaecc441a9606ba.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/e3/e8cb009ddf109e788509adfcb14049e3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d9/168e9603baad4fc4442d68c7319dfbd9.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d5/a6cbee485f773ddbac64b2063df26ed5.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/76/414626693f5077b8df3680ea4092da76.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/26/b18d5b31f47621697aeeae1b9ddf3f26.jpeg"
-        ],
-        "description": "Un jeu de rôle d'arcade roguelike où les batailles se déroulent à l'aide d'objets et d'emplacements : sélectionnez des objets et combinez-les en chaînes pour évoluer.\nVous êtes l'assistante d'une douce sorcière, et son sort dépend de vous !",
-        "title_id": "010031C027BD6000"
       }
     ],
     "de": [
+      {
+        "title": "Frostpunk (Demo-Version) [NSP][DEMO][RUS/Multi10]",
+        "size": "1.85 GB",
+        "magnet": "magnet:?xt=urn:btih:BAFBD9AB98216BDB8112E2A8FFE8D3C6096B6822&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6918667",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6918667",
+        "year": "2026, Oktober",
+        "genre": "Strategy, Simulator",
+        "developer": "11 bit studios",
+        "publisher": "11 bit studios",
+        "image_format": "NSP [DEMO]",
+        "interface_lang": "Russisch, Englisch [RUS / ENG / Multi 10]",
+        "voice_lang": "Englisch",
+        "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Nein",
+        "cover": "https://i1.imageban.ru/out/2026/10/05/2c0cfc68d83801cac013cda090356b07.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1005/95/2a2fc9383a94ca03cdd2fa4c5c189d95.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/5f/d723fbe02d8feeac59ff8ebbfd14af5f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a1/ce08f670233eab957d42f99b39d195a1.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/43/a731c901129c143a465cfd0d7087ed43.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/ba/36a26603e79f748881297190ba9e07ba.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/74/aafa360290d2504e59dcd9492a13de74.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/21/0f46458a9c2fc1a41a7a8cab7074ec21.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a5/f94de6731fd6666b886e72c24c0290a5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/bb/fe18c2c2a888bc4ae2ea1eda97bc8cbb.jpeg"
+        ],
+        "description": "„Der Winter kommt…“ ©\nDas Spiel spielt am Ende des 19. Jahrhunderts, etwa 1886, als weltweit eine allmähliche Abkühlung einsetzte. Offiziell ist dies darauf zurückzuführen, dass die Vulkane Krakatoa und Tambora bei ständigen Ausbrüchen große Mengen vulkanischen Staubs in die Atmosphäre abgeben, was verhindert, dass die Sonnenstrahlen die Erdatmosphäre durchdringen und deren Oberfläche erhitzen. Das Britische Empire finanziert den Bau eines geheimen Observatoriums in der Arktis, woraufhin die dort arbeitenden Wissenschaftler zu dem Schluss kommen, dass die Abkühlung durch die Schwächung der Sonne verursacht wird und dass dieser Prozess weitergehen wird. Unter strengster Geheimhaltung bauen die Briten in der Arktis, in Gebieten, die von der Zivilisation unberührt sind und in denen große Reserven an Bodenschätzen intakt sind, Generatoren – riesige und hohe Öfen, die Kohle verbrennen und Wärme erzeugen, um die Umgebung zu heizen. Der Klimawandel vollzieht sich schneller als von Wissenschaftlern vorhergesagt; Südstaaten, die solche Probleme noch nie erlebt haben und völlig unvorbereitet darauf sind, sterben als erste.\nDies ist ein komplexes Spiel über das Überleben einer Gesellschaft, in der es ohne Wärme kein Leben gibt und jede Entscheidung ihren eigenen Preis hat. In einer völlig gefrorenen Welt entwickeln Menschen Dampfmaschinen, um der unerträglichen Kälte standzuhalten. Sie müssen die letzte Stadt der Erde bauen und Ihrem Volk die Mittel zum Überleben zur Verfügung stellen. Oftmals stehen Optimierung und rationelle Ressourcennutzung auf der einen Seite der Skala, während Mitgefühl und Menschlichkeit auf der anderen Seite stehen. Während die Verwaltung der Stadt und der Gesellschaft den Löwenanteil der Zeit des Herrschers in Anspruch nehmen wird, wird es irgendwann notwendig sein, die Außenwelt zu erkunden, um ihre Geschichte und ihren aktuellen Zustand zu verstehen.\nWelche Entscheidungen werden Sie treffen, um das Überleben der Gesellschaft zu sichern? Was werden Sie tun, wenn Sie das Limit erreichen? Und wer wirst du werden?",
+        "title_id": "0100193028708000"
+      },
       {
         "title": "Mass Effect 1 (Port ) [NRO][ENG]",
         "size": "7.3 GB",
@@ -2748,7 +2782,7 @@
         "voice_lang": "Englisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/365c48cf209f5836e069c4724bf34668.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918585.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/61/e6241453544e59416791fb7b075a5d61.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/08/1da7ab8c81f38f5a73ea4dd2fca03708.jpeg",
@@ -2778,7 +2812,7 @@
         "voice_lang": "Englisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i6.imageban.ru/out/2026/10/05/6cca332f20cb11141a36a9c9b8dbac8b.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918569.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f5/d6fa40d13a3a68557f5440dcb8f39cf5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/df/2e5e66c57074046610209420b87a5bdf.jpeg",
@@ -2808,7 +2842,7 @@
         "voice_lang": "Englisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i5.imageban.ru/out/2026/10/05/9299444e07e07993535c73f54c3480e4.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918516.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f4/15a60b38a36e0a69d2069c1238faa1f4.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/fc/d9c938af815504165cf7bf9b49c948fc.jpeg",
@@ -2838,7 +2872,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i4.imageban.ru/out/2026/10/05/835bfc5e9e2a5f093479ad3985490f92.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918496.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/19/0fa721e4831f740d8d7d4e54d85b2919.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/75/1db597179bae17e03197fd06e11a2a75.jpeg",
@@ -2868,7 +2902,7 @@
         "voice_lang": "Englisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/f6b9c3f0381ff088d797f347660359b2.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918472.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/cbd12c69d5019fa0574ff38bdf1edd01fd18bc311e885b5460be4e8c70c86f04.jpg",
           "https://img-eshop.cdn.nintendo.net/i/ac909be3c834e065b75f0dbc975ef2f63221c8e46f5041b7e93fd21d90f6fd77.jpg",
@@ -3375,38 +3409,39 @@
         ],
         "description": "Offiziell lizenzierte digitale Adaptation von Flügelschlag, dem Gewinner der prestigeträchtigen Auszeichnung Kennerspiel des Jahres 2019.\n\nIhr seid Vogelliebhaber – Forscher, Vogelbeobachter, Ornithologen und Sammler – und versucht, eine Vielzahl an unterschiedlichen Arten in eure Naturschutzgebiete zu locken. Jede Vogelart bildet starke Kombinationsketten in einem der Lebensräume. Jeder der drei Lebensräume steht für einen wesentlichen Aspekt des Wachstums eurer Gebiete.\n\nIn Wingspan (Flügelschlag) wetteifern bis zu 5 Spieler darum, in einer vorgegebenen Rundenanzahl ihre Naturschutzgebiete aufzubauen. Jeder der wunderschönen Vögel, die du einem Gebiet hinzufügst, verbessert deine Fertigkeiten beim Eierlegen, Kartenziehen und Futtersammeln. Viele der 170 einzigartigen Vögel verfügen über Fähigkeiten, die ihr echtes Leben widerspiegeln: Falken jagen, Pelikane fangen Fische und Gänse bilden Schwärme.\n\nMerkmale\n* Entspannendes Strategie-Kartenspiel mit dem Ziel, die besten Vögel zu entdecken und anzulocken.\n* Einzelspieler- und Mehrspielermodi für bis zu 5 Spieler.\n* Basierend auf dem preisgekrönten, kompetitiven, mittelschweren, kartengesteuerten Engine-Builder-Brettspiel.\n* Hunderte von einzigartigen animierten Vögeln mit lebensechten Audioaufnahmen.\n* Verschiedene Möglichkeiten zum Sammeln von Punkten mit Vögeln, Bonuskarten und Rundenzielen.",
         "title_id": "0100E05011350000"
-      },
-      {
-        "title": "Sorcerer's Servant SweetWitch [NSZ][ENG]",
-        "size": "1.3 GB",
-        "magnet": "magnet:?xt=urn:btih:AE6638B2DF3B9395194BEC756C702B0903B8070F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6917018",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6917018",
-        "year": "2026, Oktober",
-        "genre": "Arcade, Role-Playing, Roguelite",
-        "developer": "2202 Games",
-        "publisher": "2202Games",
-        "image_format": ".NSZ (komprimiert ~33%, installierte Größe 1.94 GB)",
-        "interface_lang": "Englisch [ENG]",
-        "voice_lang": "Keine Sprachausgabe",
-        "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "Nein",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6917018.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1002/bd/c2d53f25ecae272cd702242b2976fbbd.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/c3/11ea03f195273f423106c5ac38cd9bc3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/ba/3d8ba28ded4122fddaaecc441a9606ba.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/e3/e8cb009ddf109e788509adfcb14049e3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d9/168e9603baad4fc4442d68c7319dfbd9.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d5/a6cbee485f773ddbac64b2063df26ed5.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/76/414626693f5077b8df3680ea4092da76.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/26/b18d5b31f47621697aeeae1b9ddf3f26.jpeg"
-        ],
-        "description": "Ein Roguelike-Arcade-Rollenspiel, bei dem Kämpfe mithilfe von Gegenständen und Slots stattfinden: Wählen Sie Gegenstände aus und kombinieren Sie sie zu Ketten, um sie weiterzuentwickeln.\nDu bist die Assistentin einer süßen Zauberin und ihr Schicksal hängt von dir ab!",
-        "title_id": "010031C027BD6000"
       }
     ],
     "it": [
+      {
+        "title": "Frostpunk (versione demo) [NSP][DEMO][RUS/Multi10]",
+        "size": "1.85 GB",
+        "magnet": "magnet:?xt=urn:btih:BAFBD9AB98216BDB8112E2A8FFE8D3C6096B6822&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6918667",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6918667",
+        "year": "2026, ottobre",
+        "genre": "Strategy, Simulator",
+        "developer": "11 bit studios",
+        "publisher": "11 bit studios",
+        "image_format": "NSP [DEMO]",
+        "interface_lang": "Russo, Inglese [RUS / ENG / Multi 10]",
+        "voice_lang": "Inglese",
+        "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://i1.imageban.ru/out/2026/10/05/2c0cfc68d83801cac013cda090356b07.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1005/95/2a2fc9383a94ca03cdd2fa4c5c189d95.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/5f/d723fbe02d8feeac59ff8ebbfd14af5f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a1/ce08f670233eab957d42f99b39d195a1.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/43/a731c901129c143a465cfd0d7087ed43.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/ba/36a26603e79f748881297190ba9e07ba.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/74/aafa360290d2504e59dcd9492a13de74.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/21/0f46458a9c2fc1a41a7a8cab7074ec21.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a5/f94de6731fd6666b886e72c24c0290a5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/bb/fe18c2c2a888bc4ae2ea1eda97bc8cbb.jpeg"
+        ],
+        "description": "“L'inverno sta arrivando...” ©\nIl gioco è ambientato alla fine del XIX secolo, circa 1886, quando iniziò un graduale raffreddamento in tutto il mondo. Ufficialmente, ciò è dovuto al fatto che i vulcani Krakatoa e Tambora, in costante eruzione, emettono enormi quantità di polvere vulcanica nell'atmosfera, che impedisce ai raggi del sole di attraversare l'atmosfera terrestre e riscaldarne la superficie. L'Impero britannico finanzia la costruzione di un osservatorio segreto nell'Artico, dopo di che gli scienziati che lavorano lì giungono alla conclusione che il raffreddamento è causato dall'attenuazione del Sole, e questo processo continuerà. Nell'atmosfera della più stretta segretezza, gli inglesi stanno costruendo generatori nell'Artico, in territori non toccati dalla civiltà e con grandi riserve di risorse minerarie intatte, - enormi e alte fornaci che bruciano carbone e generano calore per riscaldare l'area circostante. Il cambiamento climatico sta accadendo più velocemente di quanto previsto dagli scienziati; Gli stati del sud, che non hanno mai sperimentato tali problemi e sono completamente impreparati ad affrontarli, sono i primi a morire.\nQuesto è un gioco complesso sulla sopravvivenza di una società dove senza calore non c'è vita e ogni decisione ha il suo prezzo. In un mondo completamente ghiacciato, le persone sviluppano motori a vapore per resistere al freddo insopportabile. Devi costruire l'ultima città sulla terra e fornire alla tua gente i mezzi di sopravvivenza. Spesso l’ottimizzazione e l’uso razionale delle risorse sono da un lato della bilancia, mentre la compassione e l’umanità dall’altro. Mentre la gestione della città e della società occuperà la maggior parte del tempo del sovrano, a un certo punto l'esplorazione del mondo esterno diventerà necessaria per comprenderne la storia e lo stato attuale.\nQuali decisioni prenderai per garantire la sopravvivenza della società? Cosa farai quando raggiungerai il limite? E chi diventerai?",
+        "title_id": "0100193028708000"
+      },
       {
         "title": "Mass Effect 1 (port ) [NRO][ENG]",
         "size": "7.3 GB",
@@ -3422,7 +3457,7 @@
         "voice_lang": "Inglese",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/365c48cf209f5836e069c4724bf34668.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918585.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/61/e6241453544e59416791fb7b075a5d61.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/08/1da7ab8c81f38f5a73ea4dd2fca03708.jpeg",
@@ -3452,7 +3487,7 @@
         "voice_lang": "Inglese",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i6.imageban.ru/out/2026/10/05/6cca332f20cb11141a36a9c9b8dbac8b.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918569.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f5/d6fa40d13a3a68557f5440dcb8f39cf5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/df/2e5e66c57074046610209420b87a5bdf.jpeg",
@@ -3482,7 +3517,7 @@
         "voice_lang": "Inglese",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/10/05/9299444e07e07993535c73f54c3480e4.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918516.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f4/15a60b38a36e0a69d2069c1238faa1f4.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/fc/d9c938af815504165cf7bf9b49c948fc.jpeg",
@@ -3512,7 +3547,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i4.imageban.ru/out/2026/10/05/835bfc5e9e2a5f093479ad3985490f92.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918496.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/19/0fa721e4831f740d8d7d4e54d85b2919.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/75/1db597179bae17e03197fd06e11a2a75.jpeg",
@@ -3542,7 +3577,7 @@
         "voice_lang": "Inglese",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/f6b9c3f0381ff088d797f347660359b2.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918472.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/cbd12c69d5019fa0574ff38bdf1edd01fd18bc311e885b5460be4e8c70c86f04.jpg",
           "https://img-eshop.cdn.nintendo.net/i/ac909be3c834e065b75f0dbc975ef2f63221c8e46f5041b7e93fd21d90f6fd77.jpg",
@@ -4049,38 +4084,39 @@
         ],
         "description": "L'adattamento digitale con licenza ufficiale di Wingspan, vincitore del prestigioso premio per giochi da tavolo Kennerspiel des Jahres 2019.\n\nSiete amanti dei volatili – ricercatori, bird watcher, ornitologi e collezionisti – che mirano a scoprire e attirare nella propria rete di riserve naturali gli esemplari migliori. Ogni uccello accresce la catena di potenti combinazioni disponibili in uno dei propri habitat. Ogni habitat si concentra su un aspetto chiave della crescita delle tue riserve.\n\nIn Wingspan, fino a un massimo di 5 giocatori competono per ampliare le loro riserve naturali nel corso di un numero limitato di turni. Ciascuno splendido esemplare aggiunto a una tua riserva ti permette di deporre più uova, pescare più carte oppure ottenere più cibo. Molti dei 170 uccelli unici presenti nel gioco hanno delle abilità che rispecchiano il mondo reale: i falchi cacciano, i pellicani pescano e le oche formano uno stormo.\n\nCaratteristiche\n* Rilassante gioco di carte strategico in cui scopri e attiri gli uccelli migliori.\n* Modalità giocatore singolo e multigiocatore per un massimo di cinque giocatori.\n* Basato sul premiato gioco di carte competitivo, di complessità media, engine-builder.\n* Centinaia di uccelli unici, animati con registrazioni dei loro autentici richiami.\n* Numerosi modi per accumulare punti con uccelli, carte bonus e obiettivi al termine del round.",
         "title_id": "0100E05011350000"
-      },
-      {
-        "title": "Sorcerer's Servant SweetWitch [NSZ][ENG]",
-        "size": "1.3 GB",
-        "magnet": "magnet:?xt=urn:btih:AE6638B2DF3B9395194BEC756C702B0903B8070F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6917018",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6917018",
-        "year": "2026, ottobre",
-        "genre": "Arcade, Role-Playing, Roguelite",
-        "developer": "2202 Games",
-        "publisher": "2202Games",
-        "image_format": ".NSZ (compresso ~33%, dimensione installata 1.94 GB)",
-        "interface_lang": "Inglese [ENG]",
-        "voice_lang": "Senza doppiaggio",
-        "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6917018.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1002/bd/c2d53f25ecae272cd702242b2976fbbd.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/c3/11ea03f195273f423106c5ac38cd9bc3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/ba/3d8ba28ded4122fddaaecc441a9606ba.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/e3/e8cb009ddf109e788509adfcb14049e3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d9/168e9603baad4fc4442d68c7319dfbd9.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d5/a6cbee485f773ddbac64b2063df26ed5.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/76/414626693f5077b8df3680ea4092da76.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/26/b18d5b31f47621697aeeae1b9ddf3f26.jpeg"
-        ],
-        "description": "Un gioco di ruolo arcade roguelike in cui le battaglie si svolgono utilizzando oggetti e slot: seleziona gli oggetti e combinali in catene per l'evoluzione.\nSei l'assistente di una dolce maga e il suo destino dipende da te!",
-        "title_id": "010031C027BD6000"
       }
     ],
     "pt_br": [
+      {
+        "title": "Frostpunk (versão demo) [NSP][DEMO][RUS/Multi10]",
+        "size": "1.85 GB",
+        "magnet": "magnet:?xt=urn:btih:BAFBD9AB98216BDB8112E2A8FFE8D3C6096B6822&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6918667",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6918667",
+        "year": "2026, outubro",
+        "genre": "Strategy, Simulator",
+        "developer": "11 bit studios",
+        "publisher": "11 bit studios",
+        "image_format": "NSP [DEMO]",
+        "interface_lang": "Russo, Inglês [RUS / ENG / Multi 10]",
+        "voice_lang": "Inglês",
+        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Não",
+        "cover": "https://i1.imageban.ru/out/2026/10/05/2c0cfc68d83801cac013cda090356b07.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1005/95/2a2fc9383a94ca03cdd2fa4c5c189d95.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/5f/d723fbe02d8feeac59ff8ebbfd14af5f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a1/ce08f670233eab957d42f99b39d195a1.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/43/a731c901129c143a465cfd0d7087ed43.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/ba/36a26603e79f748881297190ba9e07ba.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/74/aafa360290d2504e59dcd9492a13de74.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/21/0f46458a9c2fc1a41a7a8cab7074ec21.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a5/f94de6731fd6666b886e72c24c0290a5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/bb/fe18c2c2a888bc4ae2ea1eda97bc8cbb.jpeg"
+        ],
+        "description": "“O inverno está chegando...” ©\nO jogo se passa no final do século 19, ~1886, quando um esfriamento gradual começou em todo o mundo. Oficialmente, isso se deve ao fato de que os vulcões Krakatoa e Tambora, em constante erupção, emitem grandes quantidades de poeira vulcânica na atmosfera, o que impede que os raios solares passem pela atmosfera terrestre e aqueçam sua superfície. O Império Britânico financia a construção de um observatório secreto no Ártico, após o qual os cientistas que ali trabalham chegam à conclusão de que o resfriamento é causado pela atenuação do Sol, e esse processo continuará. Numa atmosfera do mais estrito sigilo, os britânicos estão a construir geradores no Ártico, em territórios intocados pela civilização e com grandes reservas de recursos minerais intactas, - enormes e altos fornos que queimam carvão e geram calor para aquecer a área ao seu redor. As alterações climáticas estão a acontecer mais rapidamente do que os cientistas previram; os estados do sul, que nunca passaram por tais problemas e estão completamente despreparados para eles, são os primeiros a morrer.\nEste é um jogo complexo sobre a sobrevivência de uma sociedade onde sem calor não há vida e cada decisão tem o seu preço. Num mundo completamente congelado, as pessoas desenvolvem motores a vapor para resistir ao frio insuportável. Você tem que construir a última cidade do planeta e fornecer ao seu povo os meios de sobrevivência. Muitas vezes, a otimização e o uso racional dos recursos estão de um lado da escala, enquanto a compaixão e a humanidade estão do outro. Embora a gestão da cidade e da sociedade ocupe a maior parte do tempo do governante, em algum momento a exploração do mundo exterior será necessária para compreender a sua história e estado actual.\nQue decisões você tomará para garantir que a sociedade sobreviva? O que você fará quando atingir o limite? E quem você se tornará?",
+        "title_id": "0100193028708000"
+      },
       {
         "title": "Mass Effect 1 (port ) [NRO][ENG]",
         "size": "7.3 GB",
@@ -4096,7 +4132,7 @@
         "voice_lang": "Inglês",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/365c48cf209f5836e069c4724bf34668.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918585.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/61/e6241453544e59416791fb7b075a5d61.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/08/1da7ab8c81f38f5a73ea4dd2fca03708.jpeg",
@@ -4126,7 +4162,7 @@
         "voice_lang": "Inglês",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i6.imageban.ru/out/2026/10/05/6cca332f20cb11141a36a9c9b8dbac8b.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918569.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f5/d6fa40d13a3a68557f5440dcb8f39cf5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/df/2e5e66c57074046610209420b87a5bdf.jpeg",
@@ -4156,7 +4192,7 @@
         "voice_lang": "Inglês",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i5.imageban.ru/out/2026/10/05/9299444e07e07993535c73f54c3480e4.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918516.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f4/15a60b38a36e0a69d2069c1238faa1f4.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/fc/d9c938af815504165cf7bf9b49c948fc.jpeg",
@@ -4186,7 +4222,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i4.imageban.ru/out/2026/10/05/835bfc5e9e2a5f093479ad3985490f92.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918496.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/19/0fa721e4831f740d8d7d4e54d85b2919.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/75/1db597179bae17e03197fd06e11a2a75.jpeg",
@@ -4216,7 +4252,7 @@
         "voice_lang": "Inglês",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/f6b9c3f0381ff088d797f347660359b2.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918472.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/cbd12c69d5019fa0574ff38bdf1edd01fd18bc311e885b5460be4e8c70c86f04.jpg",
           "https://img-eshop.cdn.nintendo.net/i/ac909be3c834e065b75f0dbc975ef2f63221c8e46f5041b7e93fd21d90f6fd77.jpg",
@@ -4723,38 +4759,39 @@
         ],
         "description": "A adaptação digital oficialmente licenciada de Wingspan, vencedora do prestigioso prêmio de jogo de tabuleiro Kennerspiel des Jahres 2019.\n\nVocês são entusiastas de pássaros — pesquisadores, observadores de pássaros, ornitólogos e colecionadores — procurando descobrir e atrair os melhores pássaros para sua rede de reservas de vida selvagem. Cada pássaro expande uma cadeia de combinações poderosas em um de seus habitats. Cada habitat se concentra em um aspecto fundamental do crescimento de suas reservas.\n\nEm Wingspan, até 5 jogadores competem para construir suas reservas naturais em um número limitado de turnos. Cada pássaro lindo que você adiciona à sua reserva melhora sua capacidade de colocar ovos, tirar cartas ou colher alimentos. Muitos dos 170 pássaros únicos têm poderes que refletem na vida real: seus falcões caçam, seus pelicanos pescam e seus gansos formam um bando.\n\nCaracterísticas\n* Jogo de cartas de estratégia relaxante, onde seu objetivo é descobrir e atrair os melhores pássaros.\n* Modos solo e multijogador para até cinco jogadores.\n* Com base no premiado e competitivo jogo de tabuleiro baseado em cartas e construção motores.\n* Centenas de pássaros animados e únicos, com gravações de seus cantos reais.\n* Diversas maneiras de acumular pontos com pássaros, cartas de bônus e objetivos de final de rodada.",
         "title_id": "0100E05011350000"
-      },
-      {
-        "title": "Sorcerer's Servant SweetWitch [NSZ][ENG]",
-        "size": "1.3 GB",
-        "magnet": "magnet:?xt=urn:btih:AE6638B2DF3B9395194BEC756C702B0903B8070F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6917018",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6917018",
-        "year": "2026, outubro",
-        "genre": "Arcade, Role-Playing, Roguelite",
-        "developer": "2202 Games",
-        "publisher": "2202Games",
-        "image_format": ".NSZ (compactado ~33%, tamanho instalado 1.94 GB)",
-        "interface_lang": "Inglês [ENG]",
-        "voice_lang": "Sem dublagem",
-        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "Não",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6917018.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1002/bd/c2d53f25ecae272cd702242b2976fbbd.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/c3/11ea03f195273f423106c5ac38cd9bc3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/ba/3d8ba28ded4122fddaaecc441a9606ba.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/e3/e8cb009ddf109e788509adfcb14049e3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d9/168e9603baad4fc4442d68c7319dfbd9.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d5/a6cbee485f773ddbac64b2063df26ed5.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/76/414626693f5077b8df3680ea4092da76.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/26/b18d5b31f47621697aeeae1b9ddf3f26.jpeg"
-        ],
-        "description": "Um roguelike de RPG de arcade onde as batalhas acontecem usando itens e slots: selecione itens e combine-os em cadeias para evoluir.\nVocê é o assistente de uma doce feiticeira e o destino dela depende de você!",
-        "title_id": "010031C027BD6000"
       }
     ],
     "zh_hans": [
+      {
+        "title": "Frostpunk (试玩版) [NSP][DEMO][RUS/Multi10]",
+        "size": "1.85 GB",
+        "magnet": "magnet:?xt=urn:btih:BAFBD9AB98216BDB8112E2A8FFE8D3C6096B6822&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6918667",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6918667",
+        "year": "2026, 10月",
+        "genre": "Strategy, Simulator",
+        "developer": "11 bit studios",
+        "publisher": "11 bit studios",
+        "image_format": "NSP [DEMO]",
+        "interface_lang": "俄语, 英语 [RUS / ENG / Multi 10]",
+        "voice_lang": "英语",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "无",
+        "cover": "https://i1.imageban.ru/out/2026/10/05/2c0cfc68d83801cac013cda090356b07.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1005/95/2a2fc9383a94ca03cdd2fa4c5c189d95.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/5f/d723fbe02d8feeac59ff8ebbfd14af5f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a1/ce08f670233eab957d42f99b39d195a1.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/43/a731c901129c143a465cfd0d7087ed43.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/ba/36a26603e79f748881297190ba9e07ba.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/74/aafa360290d2504e59dcd9492a13de74.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/21/0f46458a9c2fc1a41a7a8cab7074ec21.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/a5/f94de6731fd6666b886e72c24c0290a5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1005/bb/fe18c2c2a888bc4ae2ea1eda97bc8cbb.jpeg"
+        ],
+        "description": "“冬天来了……”©\n游戏发生在 19 世纪末，即 1886 年，当时世界各地开始逐渐降温。官方说法是，这是因为喀拉喀托火山和坦博拉火山不断喷发，向大气中排放大量火山尘埃，阻碍了太阳光线穿过地球大气层并加热地球表面。大英帝国资助在北极建造一座秘密天文台，之后在那里工作的科学家得出结论，降温是由太阳的衰减引起的，而这个过程还将继续下去。在最严格保密的气氛中，英国人正在北极地区建造发电机，这些地区没有受到文明的影响，并且拥有大量完好的矿产资源储备，这些巨大而高大的熔炉燃烧煤炭并产生热量来为周围地区供暖。气候变化发生的速度比科学家预测的要快；南方各州从未经历过此类问题，也对此毫无准备，因此最先死亡。\n这是一场关于社会生存的复杂游戏，没有热量就没有生命，每一个决定都有自己的代价。在完全冰冻的世界里，人们发明了蒸汽机来抵御难以忍受的寒冷。你必须建造地球上最后一座城市，并为你的人民提供生存手段。通常，资源的优化和合理利用位于天平的一侧，而同情心和人性则位于另一侧。虽然管理城市和社会将占据统治者的大部分时间，但在某些时候，探索外部世界将成为了解其历史和现状的必要条件。\n您将做出哪些决定来确保社会生存？当你达到极限时你会做什么？而你会成为谁？",
+        "title_id": "0100193028708000"
+      },
       {
         "title": "Mass Effect 1 (移植版 ) [NRO][ENG]",
         "size": "7.3 GB",
@@ -4770,7 +4807,7 @@
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/365c48cf209f5836e069c4724bf34668.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918585.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/61/e6241453544e59416791fb7b075a5d61.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/08/1da7ab8c81f38f5a73ea4dd2fca03708.jpeg",
@@ -4800,7 +4837,7 @@
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i6.imageban.ru/out/2026/10/05/6cca332f20cb11141a36a9c9b8dbac8b.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918569.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f5/d6fa40d13a3a68557f5440dcb8f39cf5.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/df/2e5e66c57074046610209420b87a5bdf.jpeg",
@@ -4830,7 +4867,7 @@
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i5.imageban.ru/out/2026/10/05/9299444e07e07993535c73f54c3480e4.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918516.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/f4/15a60b38a36e0a69d2069c1238faa1f4.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/fc/d9c938af815504165cf7bf9b49c948fc.jpeg",
@@ -4860,7 +4897,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i4.imageban.ru/out/2026/10/05/835bfc5e9e2a5f093479ad3985490f92.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918496.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/19/0fa721e4831f740d8d7d4e54d85b2919.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/75/1db597179bae17e03197fd06e11a2a75.jpeg",
@@ -4890,7 +4927,7 @@
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i1.imageban.ru/out/2026/10/05/f6b9c3f0381ff088d797f347660359b2.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6918472.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1005/fa/3fc2f6fcbbf63fa38f6c34d4383428fa.jpeg",
           "https://i128.fastpic.org/thumb/2026/1005/4d/43805b54b749392c4f579f746b67d74d.jpeg",
@@ -5412,35 +5449,6 @@
         ],
         "description": "《Wingspan》官方授權的改編遊戲，曾榮獲2019年德國年度桌面遊戲獎。\n\n你們是一群鳥類發燒友——研究員、鳥類觀察家、鳥類學家和收藏家——你們一直在尋覓並試圖吸引那些最美麗的鳥類棲息到自己的野生動物保護區中來。每一種鳥的加入都會讓你其中一塊棲息地上的鳥類組合變得更為豐富多彩。每一塊棲息地都各自專注於保護區生態搭建的某一個重要方面。  \n\n本遊戲中，1-5名玩家在有限的回合中建造他們的自然保護區，與其他玩家競爭。你添加到保護區的每一隻美麗的鳥都會讓你提高在產卵、抽卡或收集食物方面的技能。這170隻獨特的鳥中有許多具有與現實生活相呼應的能力：老鷹會捕獵，鵜鶘會捕魚，白鵝喜歡群居。\n\n功能\n* 輕鬆愉快的策略類卡牌遊戲，你的目標是發現和吸引最好的鳥兒。\n* 同時支持單人和多人模式，最多可5名玩家組隊暢玩。\n* 基於屢獲殊榮的引擎構築桌面遊戲，以卡牌為驅動，富有競爭樂趣。\n* 數百隻獨特的鳥兒，配有動畫畫面和真實錄音。\n* 用多種方式積累積分，包括鳥兒、獎勵卡牌和回合目標。",
         "title_id": "0100E05011350000"
-      },
-      {
-        "title": "Sorcerer's Servant SweetWitch [NSZ][ENG]",
-        "size": "1.3 GB",
-        "magnet": "magnet:?xt=urn:btih:AE6638B2DF3B9395194BEC756C702B0903B8070F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6917018",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6917018",
-        "year": "2026, 10月",
-        "genre": "Arcade, Role-Playing, Roguelite",
-        "developer": "2202 Games",
-        "publisher": "2202Games",
-        "image_format": ".NSZ (已压缩 ~33%, 安装大小 1.94 GB)",
-        "interface_lang": "英语 [ENG]",
-        "voice_lang": "无语音",
-        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "无",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6917018.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1002/bd/c2d53f25ecae272cd702242b2976fbbd.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/c3/11ea03f195273f423106c5ac38cd9bc3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/ba/3d8ba28ded4122fddaaecc441a9606ba.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/e3/e8cb009ddf109e788509adfcb14049e3.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d9/168e9603baad4fc4442d68c7319dfbd9.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/d5/a6cbee485f773ddbac64b2063df26ed5.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/76/414626693f5077b8df3680ea4092da76.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1002/26/b18d5b31f47621697aeeae1b9ddf3f26.jpeg"
-        ],
-        "description": "街机角色扮演 Roguelike 游戏，使用物品和插槽进行战斗：选择物品并将它们组合成链以进行进化。\n你是一位可爱女巫的助手，她的命运取决于你！",
-        "title_id": "010031C027BD6000"
       }
     ]
   }
