@@ -1,10 +1,40 @@
 {
   "version": 1,
-  "generated_at": 1791414114,
+  "generated_at": 1791449364,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
     "ru": [
+      {
+        "title": "The Simpsons Game (порт) [NRO][ENG]",
+        "size": "4.15 GB",
+        "magnet": "magnet:?xt=urn:btih:1A30A1993CC73955A35B989E277ADA3C276FB04E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6919612",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6919612",
+        "year": "2007",
+        "genre": "3D Platformer, Adventure, Homebrew",
+        "developer": "EA Redwood Shores",
+        "publisher": "Rodrigo 'R-drg' Ferreira",
+        "image_format": "NRO",
+        "interface_lang": "Английский [ENG]",
+        "voice_lang": "английская",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "нет",
+        "cover": "https://i5.imageban.ru/out/2026/10/07/0f84304b85ea2741f0295e566ae63147.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1007/8e/48c7ab29cf91c6dc7e3833f78cf3048e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/c5/eb7565cc64bda3d6389c2f84ec9b66c5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/1d/0fe2c755b74168813d726aada45f301d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/d7/92f61c2f05ff096d824d42e58140c2d7.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/f9/213fcf53bb74773db4de619a3ce33bf9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/4d/fd5e072d2bc77cbddd0d7d8ae753b54d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/44/6f46cb02e10d473d28851320c6207344.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/61/0ca4559e466d6fcdd79a6cefee604461.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/86/ae6a697ada0133809817f6691d5b8c86.jpeg"
+        ],
+        "description": "Сюжет начинается с поедания Гомером Симпсоном шоколадных конфет Красти, после чего он засыпает. Во сне герой мечтает о мире шоколада и попадает в шоколадную страну, где преследует, а затем съедает «Белого шоколадного кролика» — объект своих фантазий, попутно делая то же самое и с другими попадающимися на глаза шоколадными кроликами. Сон обрывается, Гомер просыпается на своём диване у телевизора, жалуется на просыпание и проклинает себя.\nПозже в город Спрингфилд завозят новую видеоигру под названием Grand Theft Scratchy, которая отличается особой жестокостью и высоким уровнем насилия. Барт, договорившись с продавцом, покупает её, однако, выйдя из магазина, его встречает Мардж. Та, разузнав про приобретение сына, отбирает у него игру..\nЯвляется спин-оффом американского мультсериала «Симпсоны» и двадцать третьей игрой из серии игр, выпускаемых на основе «Симпсонов». Она была создана по оригинальному сюжету, написанному Тимом Лонгом, Мэттом Селманом и Мэттом Уорбертоном. Критики дали игре преимущественно позитивные оценки. Они дали высокую оценку игре за её графику и сюжетные повороты, в котором было много пародий на другие видеоигры; по состоянию на 31 января 2008 года по всему миру было продано четыре миллиона копий игры.",
+        "title_id": null
+      },
       {
         "title": "Sonic Adventure 2 Battle (хоумбрю) [NRO][ENG]",
         "size": "2.42 GB",
@@ -20,7 +50,7 @@
         "voice_lang": "английская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/95e8ac32a2c0d1686c228cecb3cadde7.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919599.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/41/5b95712b337b09ee08fd5ffefc420341.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/ae/4f7b72c14e8822be042cf2600b860cae.jpeg",
@@ -50,7 +80,7 @@
         "voice_lang": "английская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i8.imageban.ru/out/2026/10/07/eeb290f5f8154c5afbdd05d2fd177738.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919586.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/c9/e85213eeb51279adbdc93c287370efc9.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/64/1ed4d04f54fce6e713ccbc28cea7ca64.jpeg",
@@ -62,7 +92,7 @@
           "https://i128.fastpic.org/thumb/2026/1007/15/28ff905210d3c85ee2e759d96a66f615.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/c5/807b0cf89df88ecde37c6170088488c5.jpeg"
         ],
-        "description": "Нам — 20 лет! Любимые герои возвращаются, начиная с самого первого приключения!..\nОбязательный к ознакомлению сборник всем любителям Disney и SQUARE ENIX: вооружитесь легендарным Ключ-Клинком и раскройте истинную магию дружбы, исследуя полюбившиеся с детства миры, и защищая их от тьмы..\nВ этот официальный сборник включены следующие 4 игры:",
+        "description": "Нам — 20 лет! Любимые герои возвращаются, начиная с самого первого приключения!..\nОбязательный к ознакомлению сборник всем любителям Disney и SQUARE ENIX: вооружитесь легендарным Ключ-Клинком и раскройте истинную магию дружбы, исследуя полюбившиеся с детства миры, защищая их от тьмы..\nВ эту официальную коллекцию включены следующие 4 игры:",
         "title_id": "010090C022978000"
       },
       {
@@ -80,7 +110,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "до 3 игроков",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/3126e78e322d4b681103eae2dea56c50.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919574.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/a8/e6539388080be2d1fc3b8d2de8fe29a8.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/34/671195577d6c5be11ef2d32af330ca34.jpeg",
@@ -659,6 +689,36 @@
     ],
     "en": [
       {
+        "title": "The Simpsons Game (port ) [NRO][ENG]",
+        "size": "4.15 GB",
+        "magnet": "magnet:?xt=urn:btih:1A30A1993CC73955A35B989E277ADA3C276FB04E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6919612",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6919612",
+        "year": "2007",
+        "genre": "3D Platformer, Adventure, Homebrew",
+        "developer": "EA Redwood Shores",
+        "publisher": "Rodrigo 'R-drg' Ferreira",
+        "image_format": "NRO",
+        "interface_lang": "English [ENG]",
+        "voice_lang": "English",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://i5.imageban.ru/out/2026/10/07/0f84304b85ea2741f0295e566ae63147.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1007/8e/48c7ab29cf91c6dc7e3833f78cf3048e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/c5/eb7565cc64bda3d6389c2f84ec9b66c5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/1d/0fe2c755b74168813d726aada45f301d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/d7/92f61c2f05ff096d824d42e58140c2d7.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/f9/213fcf53bb74773db4de619a3ce33bf9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/4d/fd5e072d2bc77cbddd0d7d8ae753b54d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/44/6f46cb02e10d473d28851320c6207344.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/61/0ca4559e466d6fcdd79a6cefee604461.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/86/ae6a697ada0133809817f6691d5b8c86.jpeg"
+        ],
+        "description": "The plot begins with Homer Simpson eating Krusty's chocolates, after which he falls asleep. In a dream, the hero dreams of a world of chocolate and ends up in a chocolate country, where he chases and then eats the “White Chocolate Rabbit” - the object of his fantasies, simultaneously doing the same with other chocolate rabbits that catch his eye. The dream ends and Homer wakes up on his couch watching TV, complaining about waking up and cursing himself.\nLater, a new video game called Grand Theft Scratchy is brought to the city of Springfield, which is particularly brutal and has a high level of violence. Bart, having agreed with the seller, buys it, however, leaving the store, he is met by Marge. She, having found out about her son’s acquisition, takes the game away from him..\nIt is a spin-off of the American animated series The Simpsons and the twenty-third game in the series of games based on The Simpsons. It was created from an original story written by Tim Long, Matt Selman and Matt Warburton. Critics gave the game mostly positive reviews. They praised the game for its graphics and plot twists, which included many parodies of other video games; as of January 31, 2008, the game had sold four million copies worldwide.",
+        "title_id": null
+      },
+      {
         "title": "Sonic Adventure 2 Battle (homebrew) [NRO][ENG]",
         "size": "2.42 GB",
         "magnet": "magnet:?xt=urn:btih:FD82BE79B55116BF857A69E05FA95475E442C1B3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -673,7 +733,7 @@
         "voice_lang": "English",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/95e8ac32a2c0d1686c228cecb3cadde7.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919599.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/41/5b95712b337b09ee08fd5ffefc420341.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/ae/4f7b72c14e8822be042cf2600b860cae.jpeg",
@@ -703,7 +763,7 @@
         "voice_lang": "English",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i8.imageban.ru/out/2026/10/07/eeb290f5f8154c5afbdd05d2fd177738.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919586.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/c9/e85213eeb51279adbdc93c287370efc9.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/64/1ed4d04f54fce6e713ccbc28cea7ca64.jpeg",
@@ -715,7 +775,7 @@
           "https://i128.fastpic.org/thumb/2026/1007/15/28ff905210d3c85ee2e759d96a66f615.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/c5/807b0cf89df88ecde37c6170088488c5.jpeg"
         ],
-        "description": "We are 20 years old! Favorite characters are back, starting from the very first adventure!..\nA must-read collection for all fans of Disney and SQUARE ENIX: arm yourself with the legendary Keyblade and unlock the true magic of friendship, exploring the worlds you have loved since childhood, and protecting them from darkness..\nThis official collection includes the following 4 games:",
+        "description": "We are 20 years old! Favorite characters are back, starting from the very first adventure!..\nA must-read collection for all fans of Disney and SQUARE ENIX: arm yourself with the legendary Keyblade and discover the true magic of friendship, exploring the worlds you have loved since childhood, protecting them from darkness..\nThis official collection includes the following 4 games:",
         "title_id": "010090C022978000"
       },
       {
@@ -733,7 +793,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Up to 3 players",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/3126e78e322d4b681103eae2dea56c50.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919574.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/a8/e6539388080be2d1fc3b8d2de8fe29a8.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/34/671195577d6c5be11ef2d32af330ca34.jpeg",
@@ -1294,6 +1354,36 @@
     ],
     "es": [
       {
+        "title": "The Simpsons Game (port ) [NRO][ENG]",
+        "size": "4.15 GB",
+        "magnet": "magnet:?xt=urn:btih:1A30A1993CC73955A35B989E277ADA3C276FB04E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6919612",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6919612",
+        "year": "2007",
+        "genre": "3D Platformer, Adventure, Homebrew",
+        "developer": "EA Redwood Shores",
+        "publisher": "Rodrigo 'R-drg' Ferreira",
+        "image_format": "NRO",
+        "interface_lang": "Inglés [ENG]",
+        "voice_lang": "Inglés",
+        "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://i5.imageban.ru/out/2026/10/07/0f84304b85ea2741f0295e566ae63147.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1007/8e/48c7ab29cf91c6dc7e3833f78cf3048e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/c5/eb7565cc64bda3d6389c2f84ec9b66c5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/1d/0fe2c755b74168813d726aada45f301d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/d7/92f61c2f05ff096d824d42e58140c2d7.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/f9/213fcf53bb74773db4de619a3ce33bf9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/4d/fd5e072d2bc77cbddd0d7d8ae753b54d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/44/6f46cb02e10d473d28851320c6207344.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/61/0ca4559e466d6fcdd79a6cefee604461.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/86/ae6a697ada0133809817f6691d5b8c86.jpeg"
+        ],
+        "description": "La trama comienza con Homer Simpson comiendo los chocolates de Krusty, tras lo cual se queda dormido. En un sueño, el héroe sueña con un mundo de chocolate y se encuentra en un país de chocolate, donde persigue y luego se come al \"Conejo de chocolate blanco\", el objeto de sus fantasías, al mismo tiempo que hace lo mismo con otros conejos de chocolate que le llaman la atención. El sueño termina y Homer se despierta en su sofá viendo la televisión, quejándose del despertar y maldiciéndose a sí mismo.\nPosteriormente, llega a la ciudad de Springfield un nuevo videojuego llamado Grand Theft Scratchy, que es particularmente brutal y tiene un alto nivel de violencia. Bart, habiendo acordado con el vendedor, lo compra, sin embargo, al salir de la tienda, se encuentra con Marge. Ella, al enterarse de la adquisición de su hijo, le quita el juego.\nEs un spin-off de la serie animada estadounidense Los Simpson y el vigésimo tercer juego de la serie de juegos basados en Los Simpson. Fue creado a partir de una historia original escrita por Tim Long, Matt Selman y Matt Warburton. Los críticos le dieron al juego críticas en su mayoría positivas. Elogiaron el juego por sus gráficos y giros argumentales, que incluían muchas parodias de otros videojuegos; Al 31 de enero de 2008, el juego había vendido cuatro millones de copias en todo el mundo.",
+        "title_id": null
+      },
+      {
         "title": "Sonic Adventure 2 Battle (homebrew) [NRO][ENG]",
         "size": "2.42 GB",
         "magnet": "magnet:?xt=urn:btih:FD82BE79B55116BF857A69E05FA95475E442C1B3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -1308,7 +1398,7 @@
         "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/95e8ac32a2c0d1686c228cecb3cadde7.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919599.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/41/5b95712b337b09ee08fd5ffefc420341.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/ae/4f7b72c14e8822be042cf2600b860cae.jpeg",
@@ -1338,7 +1428,7 @@
         "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i8.imageban.ru/out/2026/10/07/eeb290f5f8154c5afbdd05d2fd177738.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919586.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/c9/e85213eeb51279adbdc93c287370efc9.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/64/1ed4d04f54fce6e713ccbc28cea7ca64.jpeg",
@@ -1350,7 +1440,7 @@
           "https://i128.fastpic.org/thumb/2026/1007/15/28ff905210d3c85ee2e759d96a66f615.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/c5/807b0cf89df88ecde37c6170088488c5.jpeg"
         ],
-        "description": "¡Cumplimos 20 años! ¡Los personajes favoritos están de vuelta, desde la primera aventura!\nUna colección de lectura obligada para todos los fans de Disney y SQUARE ENIX: ármate con la legendaria Keyblade y desbloquea la verdadera magia de la amistad, explorando los mundos que has amado desde la infancia y protegiéndolos de la oscuridad.\nEsta colección oficial incluye los siguientes 4 juegos:",
+        "description": "¡Cumplimos 20 años! ¡Los personajes favoritos están de vuelta, desde la primera aventura!\nUna colección de lectura obligada para todos los fans de Disney y SQUARE ENIX: ármate con la legendaria Keyblade y descubre la verdadera magia de la amistad, explorando los mundos que has amado desde la infancia, protegiéndolos de la oscuridad.\nEsta colección oficial incluye los siguientes 4 juegos:",
         "title_id": "010090C022978000"
       },
       {
@@ -1368,7 +1458,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Hasta 3 jugadores",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/3126e78e322d4b681103eae2dea56c50.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919574.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/a8/e6539388080be2d1fc3b8d2de8fe29a8.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/34/671195577d6c5be11ef2d32af330ca34.jpeg",
@@ -1929,6 +2019,36 @@
     ],
     "fr": [
       {
+        "title": "The Simpsons Game (portage ) [NRO][ENG]",
+        "size": "4.15 GB",
+        "magnet": "magnet:?xt=urn:btih:1A30A1993CC73955A35B989E277ADA3C276FB04E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6919612",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6919612",
+        "year": "2007",
+        "genre": "3D Platformer, Adventure, Homebrew",
+        "developer": "EA Redwood Shores",
+        "publisher": "Rodrigo 'R-drg' Ferreira",
+        "image_format": "NRO",
+        "interface_lang": "Anglais [ENG]",
+        "voice_lang": "Anglais",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Non",
+        "cover": "https://i5.imageban.ru/out/2026/10/07/0f84304b85ea2741f0295e566ae63147.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1007/8e/48c7ab29cf91c6dc7e3833f78cf3048e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/c5/eb7565cc64bda3d6389c2f84ec9b66c5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/1d/0fe2c755b74168813d726aada45f301d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/d7/92f61c2f05ff096d824d42e58140c2d7.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/f9/213fcf53bb74773db4de619a3ce33bf9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/4d/fd5e072d2bc77cbddd0d7d8ae753b54d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/44/6f46cb02e10d473d28851320c6207344.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/61/0ca4559e466d6fcdd79a6cefee604461.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/86/ae6a697ada0133809817f6691d5b8c86.jpeg"
+        ],
+        "description": "L'intrigue commence avec Homer Simpson mangeant les chocolats de Krusty, après quoi il s'endort. Dans un rêve, le héros rêve d'un monde de chocolat et se retrouve dans un pays de chocolat, où il poursuit puis mange le « Lapin en chocolat blanc » - l'objet de ses fantasmes, faisant simultanément de même avec d'autres lapins en chocolat qui attirent son attention. Le rêve se termine et Homer se réveille sur son canapé en regardant la télévision, se plaignant de s'être réveillé et se maudissant.\nPlus tard, un nouveau jeu vidéo appelé Grand Theft Scratchy est introduit dans la ville de Springfield, qui est particulièrement brutale et présente un niveau de violence élevé. Bart, après s'être mis d'accord avec le vendeur, l'achète, mais en quittant le magasin, il rencontre Marge. Elle, ayant découvert l’acquisition de son fils, lui enlève le jeu.\nIl s'agit d'un spin-off de la série animée américaine Les Simpsons et du vingt-troisième jeu de la série de jeux basés sur Les Simpsons. Il a été créé à partir d'une histoire originale écrite par Tim Long, Matt Selman et Matt Warburton. Les critiques ont donné au jeu des critiques majoritairement positives. Ils ont fait l'éloge du jeu pour ses graphismes et ses rebondissements, qui comprenaient de nombreuses parodies d'autres jeux vidéo ; au 31 janvier 2008, le jeu s'était vendu à quatre millions d'exemplaires dans le monde.",
+        "title_id": null
+      },
+      {
         "title": "Sonic Adventure 2 Battle (homebrew) [NRO][ENG]",
         "size": "2.42 GB",
         "magnet": "magnet:?xt=urn:btih:FD82BE79B55116BF857A69E05FA95475E442C1B3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -1943,7 +2063,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/95e8ac32a2c0d1686c228cecb3cadde7.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919599.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/41/5b95712b337b09ee08fd5ffefc420341.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/ae/4f7b72c14e8822be042cf2600b860cae.jpeg",
@@ -1973,7 +2093,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i8.imageban.ru/out/2026/10/07/eeb290f5f8154c5afbdd05d2fd177738.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919586.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/c9/e85213eeb51279adbdc93c287370efc9.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/64/1ed4d04f54fce6e713ccbc28cea7ca64.jpeg",
@@ -1985,7 +2105,7 @@
           "https://i128.fastpic.org/thumb/2026/1007/15/28ff905210d3c85ee2e759d96a66f615.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/c5/807b0cf89df88ecde37c6170088488c5.jpeg"
         ],
-        "description": "Nous avons 20 ans ! Les personnages préférés sont de retour, dès la toute première aventure !..\nUne collection incontournable pour tous les fans de Disney et de SQUARE ENIX : armez-vous de la légendaire Keyblade et débloquez la véritable magie de l'amitié, en explorant les mondes que vous aimez depuis l'enfance et en les protégeant des ténèbres.\nCette collection officielle comprend les 4 jeux suivants :",
+        "description": "Nous avons 20 ans ! Les personnages préférés sont de retour, dès la toute première aventure !..\nUne collection incontournable pour tous les fans de Disney et de SQUARE ENIX : armez-vous de la légendaire Keyblade et découvrez la véritable magie de l'amitié, en explorant les mondes que vous aimez depuis l'enfance, en les protégeant des ténèbres.\nCette collection officielle comprend les 4 jeux suivants :",
         "title_id": "010090C022978000"
       },
       {
@@ -2003,7 +2123,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Jusqu'à 3 joueurs",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/3126e78e322d4b681103eae2dea56c50.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919574.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/a8/e6539388080be2d1fc3b8d2de8fe29a8.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/34/671195577d6c5be11ef2d32af330ca34.jpeg",
@@ -2564,6 +2684,36 @@
     ],
     "de": [
       {
+        "title": "The Simpsons Game (Port ) [NRO][ENG]",
+        "size": "4.15 GB",
+        "magnet": "magnet:?xt=urn:btih:1A30A1993CC73955A35B989E277ADA3C276FB04E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6919612",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6919612",
+        "year": "2007",
+        "genre": "3D Platformer, Adventure, Homebrew",
+        "developer": "EA Redwood Shores",
+        "publisher": "Rodrigo 'R-drg' Ferreira",
+        "image_format": "NRO",
+        "interface_lang": "Englisch [ENG]",
+        "voice_lang": "Englisch",
+        "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Nein",
+        "cover": "https://i5.imageban.ru/out/2026/10/07/0f84304b85ea2741f0295e566ae63147.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1007/8e/48c7ab29cf91c6dc7e3833f78cf3048e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/c5/eb7565cc64bda3d6389c2f84ec9b66c5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/1d/0fe2c755b74168813d726aada45f301d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/d7/92f61c2f05ff096d824d42e58140c2d7.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/f9/213fcf53bb74773db4de619a3ce33bf9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/4d/fd5e072d2bc77cbddd0d7d8ae753b54d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/44/6f46cb02e10d473d28851320c6207344.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/61/0ca4559e466d6fcdd79a6cefee604461.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/86/ae6a697ada0133809817f6691d5b8c86.jpeg"
+        ],
+        "description": "Die Handlung beginnt damit, dass Homer Simpson Krustys Pralinen isst und anschließend einschläft. In einem Traum träumt der Held von einer Welt voller Schokolade und landet in einem Schokoladenland, wo er das „weiße Schokoladenkaninchen“ – das Objekt seiner Fantasien – jagt und dann verspeist, während er gleichzeitig das Gleiche mit anderen Schokoladenkaninchen tut, die ihm ins Auge fallen. Der Traum endet und Homer wacht auf seiner Couch vor dem Fernseher auf, beschwert sich über das Aufwachen und verflucht sich.\nSpäter wird ein neues Videospiel namens Grand Theft Scratchy in die Stadt Springfield gebracht, die besonders brutal ist und ein hohes Maß an Gewalt aufweist. Bart, der mit dem Verkäufer einverstanden ist, kauft es, doch als er den Laden verlässt, trifft ihn Marge. Als sie von der Übernahme ihres Sohnes erfährt, nimmt sie ihm das Spiel weg.\nEs ist ein Spin-off der amerikanischen Zeichentrickserie „Die Simpsons“ und das dreiundzwanzigste Spiel der auf „Die Simpsons“ basierenden Spielereihe. Es basiert auf einer Originalgeschichte von Tim Long, Matt Selman und Matt Warburton. Kritiker bewerteten das Spiel überwiegend positiv. Sie lobten das Spiel für seine Grafik und Wendungen in der Handlung, die viele Parodien anderer Videospiele enthielten; Bis zum 31. Januar 2008 hatte sich das Spiel weltweit vier Millionen Mal verkauft.",
+        "title_id": null
+      },
+      {
         "title": "Sonic Adventure 2 Battle (Homebrew) [NRO][ENG]",
         "size": "2.42 GB",
         "magnet": "magnet:?xt=urn:btih:FD82BE79B55116BF857A69E05FA95475E442C1B3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -2578,7 +2728,7 @@
         "voice_lang": "Englisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/95e8ac32a2c0d1686c228cecb3cadde7.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919599.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/41/5b95712b337b09ee08fd5ffefc420341.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/ae/4f7b72c14e8822be042cf2600b860cae.jpeg",
@@ -2608,7 +2758,7 @@
         "voice_lang": "Englisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i8.imageban.ru/out/2026/10/07/eeb290f5f8154c5afbdd05d2fd177738.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919586.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/c9/e85213eeb51279adbdc93c287370efc9.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/64/1ed4d04f54fce6e713ccbc28cea7ca64.jpeg",
@@ -2620,7 +2770,7 @@
           "https://i128.fastpic.org/thumb/2026/1007/15/28ff905210d3c85ee2e759d96a66f615.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/c5/807b0cf89df88ecde37c6170088488c5.jpeg"
         ],
-        "description": "Wir sind 20 Jahre alt! Die Lieblingscharaktere sind vom ersten Abenteuer an zurück!\nEine unverzichtbare Sammlung für alle Fans von Disney und SQUARE ENIX: Bewaffnen Sie sich mit dem legendären Schlüsselschwert und entfesseln Sie die wahre Magie der Freundschaft, erkunden Sie die Welten, die Sie seit Ihrer Kindheit geliebt haben, und schützen Sie sie vor der Dunkelheit.\nDiese offizielle Sammlung umfasst die folgenden 4 Spiele:",
+        "description": "Wir sind 20 Jahre alt! Die Lieblingscharaktere sind vom ersten Abenteuer an zurück!\nEine unverzichtbare Sammlung für alle Fans von Disney und SQUARE ENIX: Bewaffnen Sie sich mit dem legendären Schlüsselschwert und entdecken Sie die wahre Magie der Freundschaft, erkunden Sie die Welten, die Sie seit Ihrer Kindheit geliebt haben, und schützen Sie sie vor der Dunkelheit.\nDiese offizielle Sammlung umfasst die folgenden 4 Spiele:",
         "title_id": "010090C022978000"
       },
       {
@@ -2638,7 +2788,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Bis zu 3 Spieler",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/3126e78e322d4b681103eae2dea56c50.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919574.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/a8/e6539388080be2d1fc3b8d2de8fe29a8.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/34/671195577d6c5be11ef2d32af330ca34.jpeg",
@@ -3199,6 +3349,36 @@
     ],
     "it": [
       {
+        "title": "The Simpsons Game (port ) [NRO][ENG]",
+        "size": "4.15 GB",
+        "magnet": "magnet:?xt=urn:btih:1A30A1993CC73955A35B989E277ADA3C276FB04E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6919612",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6919612",
+        "year": "2007",
+        "genre": "3D Platformer, Adventure, Homebrew",
+        "developer": "EA Redwood Shores",
+        "publisher": "Rodrigo 'R-drg' Ferreira",
+        "image_format": "NRO",
+        "interface_lang": "Inglese [ENG]",
+        "voice_lang": "Inglese",
+        "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://i5.imageban.ru/out/2026/10/07/0f84304b85ea2741f0295e566ae63147.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1007/8e/48c7ab29cf91c6dc7e3833f78cf3048e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/c5/eb7565cc64bda3d6389c2f84ec9b66c5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/1d/0fe2c755b74168813d726aada45f301d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/d7/92f61c2f05ff096d824d42e58140c2d7.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/f9/213fcf53bb74773db4de619a3ce33bf9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/4d/fd5e072d2bc77cbddd0d7d8ae753b54d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/44/6f46cb02e10d473d28851320c6207344.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/61/0ca4559e466d6fcdd79a6cefee604461.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/86/ae6a697ada0133809817f6691d5b8c86.jpeg"
+        ],
+        "description": "La trama inizia con Homer Simpson che mangia i cioccolatini di Krusty, dopo di che si addormenta. In un sogno, l'eroe sogna un mondo di cioccolato e finisce nel paese del cioccolato, dove insegue e poi mangia il \"Coniglio di cioccolato bianco\" - l'oggetto delle sue fantasie, facendo allo stesso tempo lo stesso con altri conigli di cioccolato che attirano la sua attenzione. Il sogno finisce e Homer si sveglia sul divano guardando la TV, lamentandosi del risveglio e maledicendosi.\nSuccessivamente, nella città di Springfield viene portato un nuovo videogioco chiamato Grand Theft Scratchy, particolarmente brutale e con un alto livello di violenza. Bart, dopo aver concordato con il venditore, lo acquista, tuttavia, uscendo dal negozio, viene accolto da Marge. Lei, venuta a conoscenza dell'acquisizione del figlio, gli toglie il gioco..\nÈ uno spin-off della serie animata americana I Simpson e il ventitreesimo gioco della serie di giochi basati su I Simpson. È stato creato da una storia originale scritta da Tim Long, Matt Selman e Matt Warburton. I critici hanno dato al gioco recensioni per lo più positive. Hanno elogiato il gioco per la sua grafica e i colpi di scena, che includevano molte parodie di altri videogiochi; al 31 gennaio 2008, il gioco aveva venduto quattro milioni di copie in tutto il mondo.",
+        "title_id": null
+      },
+      {
         "title": "Sonic Adventure 2 Battle (homebrew) [NRO][ENG]",
         "size": "2.42 GB",
         "magnet": "magnet:?xt=urn:btih:FD82BE79B55116BF857A69E05FA95475E442C1B3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -3213,7 +3393,7 @@
         "voice_lang": "Inglese",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/95e8ac32a2c0d1686c228cecb3cadde7.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919599.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/41/5b95712b337b09ee08fd5ffefc420341.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/ae/4f7b72c14e8822be042cf2600b860cae.jpeg",
@@ -3243,7 +3423,7 @@
         "voice_lang": "Inglese",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i8.imageban.ru/out/2026/10/07/eeb290f5f8154c5afbdd05d2fd177738.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919586.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/c9/e85213eeb51279adbdc93c287370efc9.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/64/1ed4d04f54fce6e713ccbc28cea7ca64.jpeg",
@@ -3255,7 +3435,7 @@
           "https://i128.fastpic.org/thumb/2026/1007/15/28ff905210d3c85ee2e759d96a66f615.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/c5/807b0cf89df88ecde37c6170088488c5.jpeg"
         ],
-        "description": "Abbiamo 20 anni! I personaggi preferiti sono tornati, a partire dalla primissima avventura!..\nUna raccolta imperdibile per tutti i fan di Disney e SQUARE ENIX: armati del leggendario Keyblade e sblocca la vera magia dell'amicizia, esplorando i mondi che hai amato fin dall'infanzia e proteggendoli dall'oscurità.\nQuesta raccolta ufficiale include i seguenti 4 giochi:",
+        "description": "Abbiamo 20 anni! I personaggi preferiti sono tornati, a partire dalla primissima avventura!..\nUna raccolta imperdibile per tutti i fan di Disney e SQUARE ENIX: armati del leggendario Keyblade e scopri la vera magia dell'amicizia, esplorando i mondi che hai amato fin dall'infanzia, proteggendoli dall'oscurità..\nQuesta raccolta ufficiale include i seguenti 4 giochi:",
         "title_id": "010090C022978000"
       },
       {
@@ -3273,7 +3453,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Fino a 3 giocatori",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/3126e78e322d4b681103eae2dea56c50.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919574.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/a8/e6539388080be2d1fc3b8d2de8fe29a8.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/34/671195577d6c5be11ef2d32af330ca34.jpeg",
@@ -3834,6 +4014,36 @@
     ],
     "pt_br": [
       {
+        "title": "The Simpsons Game (port ) [NRO][ENG]",
+        "size": "4.15 GB",
+        "magnet": "magnet:?xt=urn:btih:1A30A1993CC73955A35B989E277ADA3C276FB04E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6919612",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6919612",
+        "year": "2007",
+        "genre": "3D Platformer, Adventure, Homebrew",
+        "developer": "EA Redwood Shores",
+        "publisher": "Rodrigo 'R-drg' Ferreira",
+        "image_format": "NRO",
+        "interface_lang": "Inglês [ENG]",
+        "voice_lang": "Inglês",
+        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Não",
+        "cover": "https://i5.imageban.ru/out/2026/10/07/0f84304b85ea2741f0295e566ae63147.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1007/8e/48c7ab29cf91c6dc7e3833f78cf3048e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/c5/eb7565cc64bda3d6389c2f84ec9b66c5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/1d/0fe2c755b74168813d726aada45f301d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/d7/92f61c2f05ff096d824d42e58140c2d7.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/f9/213fcf53bb74773db4de619a3ce33bf9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/4d/fd5e072d2bc77cbddd0d7d8ae753b54d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/44/6f46cb02e10d473d28851320c6207344.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/61/0ca4559e466d6fcdd79a6cefee604461.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/86/ae6a697ada0133809817f6691d5b8c86.jpeg"
+        ],
+        "description": "A trama começa com Homer Simpson comendo os chocolates de Krusty e depois adormecendo. Num sonho, o herói sonha com um mundo de chocolate e acaba num país de chocolate, onde persegue e depois come o “Coelho de Chocolate Branco” - objecto das suas fantasias, fazendo simultaneamente o mesmo com outros coelhos de chocolate que lhe chamam a atenção. O sonho termina e Homer acorda no sofá assistindo TV, reclamando de ter acordado e se xingando.\nMais tarde, um novo videogame chamado Grand Theft Scratchy é trazido para a cidade de Springfield, que é particularmente brutal e tem um alto nível de violência. Bart, tendo combinado com o vendedor, compra, porém, ao sair da loja, é recebido por Marge. Ela, ao saber da aquisição do filho, tira o jogo dele.\nÉ um spin-off da série animada americana Os Simpsons e o vigésimo terceiro jogo da série de jogos baseada em Os Simpsons. Foi criado a partir de uma história original escrita por Tim Long, Matt Selman e Matt Warburton. Os críticos deram ao jogo críticas positivas. Eles elogiaram o jogo por seus gráficos e reviravoltas na trama, que incluíam muitas paródias de outros videogames; em 31 de janeiro de 2008, o jogo vendeu quatro milhões de cópias em todo o mundo.",
+        "title_id": null
+      },
+      {
         "title": "Sonic Adventure 2 Battle (homebrew) [NRO][ENG]",
         "size": "2.42 GB",
         "magnet": "magnet:?xt=urn:btih:FD82BE79B55116BF857A69E05FA95475E442C1B3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -3848,7 +4058,7 @@
         "voice_lang": "Inglês",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/95e8ac32a2c0d1686c228cecb3cadde7.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919599.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/41/5b95712b337b09ee08fd5ffefc420341.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/ae/4f7b72c14e8822be042cf2600b860cae.jpeg",
@@ -3878,7 +4088,7 @@
         "voice_lang": "Inglês",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i8.imageban.ru/out/2026/10/07/eeb290f5f8154c5afbdd05d2fd177738.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919586.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/c9/e85213eeb51279adbdc93c287370efc9.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/64/1ed4d04f54fce6e713ccbc28cea7ca64.jpeg",
@@ -3890,7 +4100,7 @@
           "https://i128.fastpic.org/thumb/2026/1007/15/28ff905210d3c85ee2e759d96a66f615.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/c5/807b0cf89df88ecde37c6170088488c5.jpeg"
         ],
-        "description": "Completamos 20 anos! Os personagens favoritos estão de volta, começando desde a primeira aventura!..\nUma coleção de leitura obrigatória para todos os fãs da Disney e da SQUARE ENIX: arme-se com a lendária Keyblade e desbloqueie a verdadeira magia da amizade, explorando os mundos que você ama desde a infância e protegendo-os da escuridão.\nEsta coleção oficial inclui os seguintes 4 jogos:",
+        "description": "Completamos 20 anos! Os personagens favoritos estão de volta, começando desde a primeira aventura!..\nUma coleção de leitura obrigatória para todos os fãs da Disney e da SQUARE ENIX: arme-se com a lendária Keyblade e descubra a verdadeira magia da amizade, explorando os mundos que você amou desde a infância, protegendo-os da escuridão.\nEsta coleção oficial inclui os seguintes 4 jogos:",
         "title_id": "010090C022978000"
       },
       {
@@ -3908,7 +4118,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Até 3 jogadores",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/3126e78e322d4b681103eae2dea56c50.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919574.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/a8/e6539388080be2d1fc3b8d2de8fe29a8.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/34/671195577d6c5be11ef2d32af330ca34.jpeg",
@@ -4469,6 +4679,36 @@
     ],
     "zh_hans": [
       {
+        "title": "The Simpsons Game (移植版 ) [NRO][ENG]",
+        "size": "4.15 GB",
+        "magnet": "magnet:?xt=urn:btih:1A30A1993CC73955A35B989E277ADA3C276FB04E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6919612",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6919612",
+        "year": "2007",
+        "genre": "3D Platformer, Adventure, Homebrew",
+        "developer": "EA Redwood Shores",
+        "publisher": "Rodrigo 'R-drg' Ferreira",
+        "image_format": "NRO",
+        "interface_lang": "英语 [ENG]",
+        "voice_lang": "英语",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "无",
+        "cover": "https://i5.imageban.ru/out/2026/10/07/0f84304b85ea2741f0295e566ae63147.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1007/8e/48c7ab29cf91c6dc7e3833f78cf3048e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/c5/eb7565cc64bda3d6389c2f84ec9b66c5.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/1d/0fe2c755b74168813d726aada45f301d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/d7/92f61c2f05ff096d824d42e58140c2d7.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/f9/213fcf53bb74773db4de619a3ce33bf9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/4d/fd5e072d2bc77cbddd0d7d8ae753b54d.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/44/6f46cb02e10d473d28851320c6207344.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/61/0ca4559e466d6fcdd79a6cefee604461.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1007/86/ae6a697ada0133809817f6691d5b8c86.jpeg"
+        ],
+        "description": "情节从荷马·辛普森吃了库斯蒂的巧克力开始，然后他睡着了。主人公在梦中梦见了一个巧克力世界，最终来到了一个巧克力国度，他追逐并吃掉了自己幻想中的“白巧克力兔”，同时也吃掉了其他吸引他目光的巧克力兔。梦结束了，荷马在沙发上看电视醒来，抱怨醒来并咒骂自己。\n后来，一款名为 Grand Theft Scratchy 的新电子游戏被带到了斯普林菲尔德市，该市特别残酷，暴力程度很高。巴特与卖家达成一致后购买了它，然而，离开商店时，他遇到了玛吉。她发现儿子被收购后，就剥夺了他的游戏权利。\n它是美国动画系列《辛普森一家》的衍生作品，也是基于《辛普森一家》的系列游戏中的第二十三款游戏。它是根据蒂姆·朗、马特·塞尔曼和马特·沃伯顿撰写的原创故事创作的。评论家对游戏的评价大多是正面的。他们称赞这款游戏的图形和情节曲折，其中包括许多对其他视频游戏的模仿；截至2008年1月31日，该游戏在全球已售出400万份。",
+        "title_id": null
+      },
+      {
         "title": "Sonic Adventure 2 Battle (自制程序) [NRO][ENG]",
         "size": "2.42 GB",
         "magnet": "magnet:?xt=urn:btih:FD82BE79B55116BF857A69E05FA95475E442C1B3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -4483,7 +4723,7 @@
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/95e8ac32a2c0d1686c228cecb3cadde7.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919599.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/41/5b95712b337b09ee08fd5ffefc420341.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/ae/4f7b72c14e8822be042cf2600b860cae.jpeg",
@@ -4513,7 +4753,7 @@
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i8.imageban.ru/out/2026/10/07/eeb290f5f8154c5afbdd05d2fd177738.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919586.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/c9/e85213eeb51279adbdc93c287370efc9.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/64/1ed4d04f54fce6e713ccbc28cea7ca64.jpeg",
@@ -4525,7 +4765,7 @@
           "https://i128.fastpic.org/thumb/2026/1007/15/28ff905210d3c85ee2e759d96a66f615.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/c5/807b0cf89df88ecde37c6170088488c5.jpeg"
         ],
-        "description": "我们20岁了！最喜欢的角色回来了，从第一次冒险开始！\nA must-read collection for all fans of Disney and SQUARE ENIX: arm yourself with the legendary Keyblade and unlock the true magic of friendship, exploring the worlds you have loved since childhood, and protecting them from darkness..\n该官方合集包括以下 4 款游戏：",
+        "description": "我们20岁了！最喜欢的角色回来了，从第一次冒险开始！\n所有迪士尼和 SQUARE ENIX 粉丝必读的合集：用传奇的 Keyblade 武装自己，发现友谊的真正魔力，探索您从小就喜爱的世界，保护它们免受黑暗的侵害。\n该官方合集包括以下 4 款游戏：",
         "title_id": "010090C022978000"
       },
       {
@@ -4543,7 +4783,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "最多 3 人",
-        "cover": "https://i2.imageban.ru/out/2026/10/07/3126e78e322d4b681103eae2dea56c50.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6919574.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1007/a8/e6539388080be2d1fc3b8d2de8fe29a8.jpeg",
           "https://i128.fastpic.org/thumb/2026/1007/34/671195577d6c5be11ef2d32af330ca34.jpeg",
