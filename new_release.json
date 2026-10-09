@@ -1,4 +1,8 @@
 [
+  {"title": "The Walking Dead Streets of Survival + DLC", "title_id": "0100CE9028EFE000", "metacritic": 62.0},
+  {"title": "Need For Speed Carbon (хоумбрю NFS:C)", "title_id": "0100000000000000", "metacritic": null},
+  {"title": "Muse Dash + 2 DLC (и версия с 3 кодами разблокировки оффлайн)", "title_id": "01008E200C5C2000", "metacritic": 73.0},
+  {"title": "Kong Survivor Instinct", "title_id": "0100D400244D4000", "metacritic": null},
   {"title": "Doraemon Story of Seasons: Friends of the Great Kingdom + 12 DLC", "title_id": "01009B50139A9000", "metacritic": 75.0},
   {"title": "Brave Dungeon + Dark Witch Story Combat / The Meaning of Justice", "title_id": "010068A00DAFC000", "metacritic": null},
   {"title": "Infinite Seek and Find + 3 DLC", "title_id": "0100C430202CA000", "metacritic": null},
@@ -13,7 +17,6 @@
   {"title": "Hello, Mario, Yoshi, Luigi, Peach! (Привет, Марио, Йоши, Луиджи, Пич!) + мини-сериал My Mario, с. 1-9", "title_id": "01008790251AC000", "metacritic": null},
   {"title": "Frostpunk (демонстрационная версия)", "title_id": "0100193028708000", "metacritic": null},
   {"title": "Super Bunny Man", "title_id": "0100EF401D9D8000", "metacritic": null},
-  {"title": "Kong Survivor Instinct", "title_id": "0100D400244D4000", "metacritic": null},
   {"title": "Stories from the Outbreak", "title_id": "010076D01F49C000", "metacritic": null},
   {"title": "EA Sports FC 27", "title_id": "0100C49025D3E000", "metacritic": null},
   {"title": "Little Nightmares III (3) + DLC Secrets of the Spiral (The Backstage, The Shores)", "title_id": "010066101A55A000", "metacritic": 71.0},
@@ -29,8 +32,5 @@
   {"title": "Sorcerer's Servant SweetWitch", "title_id": "010031C027BD6000", "metacritic": null},
   {"title": "Everybody's Golf Hot Shots (гольф)", "title_id": "0100760020BBA000", "metacritic": 72.0},
   {"title": "Sid Meier's Civilization VII (7) + 42 DLC", "title_id": "0100C3601518C000", "metacritic": 88.0},
-  {"title": "Mai Child of Ages + DLC Storms of Time", "title_id": "0100A0A0225DE000", "metacritic": null},
-  {"title": "Easy Red 2 + DLC Stalingrad, Normandy, Ardennes 1940-1944, Shanghai Nanking, Blood on the Danube", "title_id": "010026F0153C2000", "metacritic": null},
-  {"title": "Dave the Diver + 6 DLC (In the Jungle)", "title_id": "010097F018538000", "metacritic": 90.0},
-  {"title": "Astrea Six Sided Oracles", "title_id": "010071401A274000", "metacritic": 85.0}
+  {"title": "Mai Child of Ages + DLC Storms of Time", "title_id": "0100A0A0225DE000", "metacritic": null}
 ]
