@@ -328,8 +328,8 @@
     },
     {
         "title": "Kong Survivor Instinct [NSZ][RUS (Mod.)/ENG]",
-        "size": "2.03 GB",
-        "magnet": "magnet:?xt=urn:btih:0630AE68174003FA72D729372B4DB6C860A22355&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "2.02 GB",
+        "magnet": "magnet:?xt=urn:btih:F5E8A98CB92556BFB2BDC778356DE96026C583E5&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6918472",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6918472",
         "year": "2026, setembro",
@@ -193474,11 +193474,11 @@
         "multiplayer": "Não",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5722207.jpg",
         "screenshots": [
-            "https://i109.fastpic.ru/thumb/2019/0422/16/fc0ba1cce33c2a74451dc0e41b9da216.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0422/35/586475fa6cfc3873d311131566b06535.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0422/fd/164d283d3b62905401ab82d2d092d5fd.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0422/6e/7ffe0726365d17b42e46f655e0f5b86e.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0422/d3/431d0f9452336f328e0b17a53dce92d3.jpeg"
+            "https://i109.fastpic.org/thumb/2019/0422/16/fc0ba1cce33c2a74451dc0e41b9da216.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0422/35/586475fa6cfc3873d311131566b06535.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0422/fd/164d283d3b62905401ab82d2d092d5fd.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0422/6e/7ffe0726365d17b42e46f655e0f5b86e.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0422/d3/431d0f9452336f328e0b17a53dce92d3.jpeg"
         ],
         "description": "Prosto, no slozhno! Sobiratsya s druzyami, srazhatsya s bossami — eto vsyo kruto, no vydelit nemnogo vremeni dlya sebya eshchyo kruche. Kazhdomu nravitsya provodit vremya v odinochestve, a prinyat vyzov v etoy igre — otlichnyy sposob eto sdelat!\nMozhet byt, prishlo vremya otdokhnut ot igr dlya drugikh lyudey.",
         "title_id": "01000A800B998000"
@@ -193794,12 +193794,12 @@
         "multiplayer": "Não",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5840101.jpg",
         "screenshots": [
-            "https://i111.fastpic.ru/thumb/2020/0124/79/8c697f1d4d3608f945622bec614cf579.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0124/a0/ea42aded4e954d605d2b88c15e1e33a0.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0124/c8/b6590d50a0790e627d75691ebc9facc8.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0124/48/7125c13536984b12031ab515d4c0af48.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0124/b8/84c8220260cd1dd81ce45eedd7eda1b8.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0124/da/9fb0ab6108a9dcff61087cbfe6b291da.jpeg"
+            "https://i111.fastpic.org/thumb/2020/0124/79/8c697f1d4d3608f945622bec614cf579.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0124/a0/ea42aded4e954d605d2b88c15e1e33a0.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0124/c8/b6590d50a0790e627d75691ebc9facc8.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0124/48/7125c13536984b12031ab515d4c0af48.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0124/b8/84c8220260cd1dd81ce45eedd7eda1b8.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0124/da/9fb0ab6108a9dcff61087cbfe6b291da.jpeg"
         ],
         "description": "Ochnuvshis, geroy ponimaet, chto popal v lovushku vnutri eksperimentalnoy mashiny, postroennoy dlya imitatsii vospominaniy. On ne pomnit, pochemu voshyol v etu virtualnuyu sredu, no golos iskusstvennogo intellekta napravlyaet ego.\nPytayas sbezhat, protagonist stalkivaetsya s vospominaniyami iz proshlogo, kotorye, vozmozhno, ne khotel by vspominat. Igra sozdana pod vpechatleniem ot serialov «Sumerechnaya zona», «Sekretnye materialy» i «Chyornoe zerkalo» i predlagaet svoy vzglyad na nekotorye filosofskie voprosy..",
         "title_id": "0100D5800DECA000"
@@ -194001,7 +194001,7 @@
         "genre": "Platformer, Homebrew",
         "developer": "CaspD3V",
         "publisher": "caspd3v",
-        "image_format": "NSP",
+        "image_format": "NRO",
         "interface_lang": "Inglês [ENG]",
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 14.1.2, Atmosphere 1.3.2)",
@@ -194718,22 +194718,22 @@
         "genre": "Role-playing, Roguelike, Homebrew",
         "developer": "Brian Walker",
         "publisher": "capsterx",
-        "image_format": "NSP",
+        "image_format": "NRO",
         "interface_lang": "Inglês [ENG]",
         "voice_lang": "Nenhum",
         "performance": "Sim (no 12.1.0, Atmosphere 0.19.5)",
         "multiplayer": "Não",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5970501.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2020/1117/b3/168a9960a92e390cd239b0f2e076e9b3.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/4d/29c76441f7c4ecdd3a94ff7f1d8e7d4d.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/00/b7c8f321fd60cacd013b4a453a6c8f00.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/03/e64d68dfb4decacb14b860630cd83303.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/ae/442107fb5778642b28c2478d8d5873ae.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/e1/2c7eedcb45eaf3ab05c928f23f68b1e1.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/95/c215ecaded6be692366de1fb70c22695.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/85/9a60b973f12d5817ecd32734fd8bc585.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/a4/f56fc097439b3907c59e53b9b4a493a4.jpeg"
+            "https://i114.fastpic.org/thumb/2020/1117/b3/168a9960a92e390cd239b0f2e076e9b3.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/4d/29c76441f7c4ecdd3a94ff7f1d8e7d4d.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/00/b7c8f321fd60cacd013b4a453a6c8f00.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/03/e64d68dfb4decacb14b860630cd83303.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/ae/442107fb5778642b28c2478d8d5873ae.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/e1/2c7eedcb45eaf3ab05c928f23f68b1e1.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/95/c215ecaded6be692366de1fb70c22695.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/85/9a60b973f12d5817ecd32734fd8bc585.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/a4/f56fc097439b3907c59e53b9b4a493a4.jpeg"
         ],
         "description": "Rogue («roug») — videoigra, napisannaya v 1980 godu Mayklom Toyem, Glennom Vichmanom i Kenom Arnoldom. Eyo osnovnoy temoy yavlyaetsya issledovanie podzemeliy. Ona byla neobychayno populyarnoy na universitetskikh Unix-sistemakh v nachale 1980-kh godov i porodila tselyy zhanr, izvestnyy kak «Roguelike» (Rogue-podobnye igry, t.n. «rogaliki»).\nBrogue — izvestnaya sovremennaya otkrytaya, besplatnaya i svobodnaya igra v zhanre rogalik, sozdannaya Brayanom Uokerom. Kak i v ego predshestvennike, Rogue, tsel Brogue sostoit v tom, chtoby igrok (predstavlennyy personazhem «@») spustilsya na 26-y etazh Dungeons of Doom, zabral Amulet Yendora i vernulsya na poverkhnost. U igrokov takzhe est vozmozhnost uglubitsya v podzemele, chtoby nabrat bolshe ochkov. Eta zadacha uslozhnyaetsya nalichiem monstrov i lovushek v protsedurno generiruemom podzemele.\nRazrabotka igry nachalas v 2009 godu, a eyo interfeys, dizayn i grafika personazhey poluchili vysokuyu otsenku za ikh odnovremennuyu gibkost, mnogochislennye vozmozhnosti, prostotu vospriyatiya i krasotu.",
         "title_id": null
