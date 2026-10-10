@@ -1,8 +1,14 @@
 [
-  {"title": "The Walking Dead Streets of Survival + DLC", "title_id": "0100CE9028EFE000", "metacritic": 62.0},
+  {"title": "Soul Searching", "title_id": "0100F2100F0B2000", "metacritic": null},
+  {"title": "Defender of the Crown the Legend Returns", "title_id": "0100B11027658000", "metacritic": null},
+  {"title": "Concordia Digital edition + 6 DLC", "title_id": "0100482015D95000", "metacritic": null},
+  {"title": "Human Fall Flat + 2 DLC", "title_id": "01000CA004DCA000", "metacritic": 70.0},
+  {"title": "Hello Kitty Island Adventure Deluxe edition + DLC The Tea Garden, City Town, Wheatflour Wonderland", "title_id": "010027901C89C000", "metacritic": 80.0},
+  {"title": "The Merlies", "title_id": "0100091028782000", "metacritic": null},
+  {"title": "Kong Survivor Instinct", "title_id": "0100D400244D4000", "metacritic": null},
+  {"title": "The Walking Dead Streets of Survival + DLC", "title_id": "0100CE9028EFF000", "metacritic": 62.0},
   {"title": "Need For Speed Carbon (хоумбрю NFS:C)", "title_id": "0100000000000000", "metacritic": null},
   {"title": "Muse Dash + 2 DLC (и версия с 3 кодами разблокировки оффлайн)", "title_id": "01008E200C5C2000", "metacritic": 73.0},
-  {"title": "Kong Survivor Instinct", "title_id": "0100D400244D4000", "metacritic": null},
   {"title": "Doraemon Story of Seasons: Friends of the Great Kingdom + 12 DLC", "title_id": "01009B50139A9000", "metacritic": 75.0},
   {"title": "Brave Dungeon + Dark Witch Story Combat / The Meaning of Justice", "title_id": "010068A00DAFC000", "metacritic": null},
   {"title": "Infinite Seek and Find + 3 DLC", "title_id": "0100C430202CA000", "metacritic": null},
@@ -25,12 +31,5 @@
   {"title": "The Zibbo Show (демонстрационная версия)", "title_id": "0100156029766000", "metacritic": null},
   {"title": "Manairons (демонстрационная версия)", "title_id": "010012802925C000", "metacritic": null},
   {"title": "Love Ghostie", "title_id": "01005A7022A32000", "metacritic": 78.0},
-  {"title": "Sands of Aura", "title_id": "0100B1A023F18000", "metacritic": null},
-  {"title": "Wingspan + 8 DLC", "title_id": "0100E05011350000", "metacritic": 78.0},
-  {"title": "Little Witch in the Woods", "title_id": "010057D02461E000", "metacritic": null},
-  {"title": "Under Night In-birth II (2) Sys Celes + 6 DLC", "title_id": "0100BD401D18A000", "metacritic": null},
-  {"title": "Sorcerer's Servant SweetWitch", "title_id": "010031C027BD6000", "metacritic": null},
-  {"title": "Everybody's Golf Hot Shots (гольф)", "title_id": "0100760020BBA000", "metacritic": 72.0},
-  {"title": "Sid Meier's Civilization VII (7) + 42 DLC", "title_id": "0100C3601518C000", "metacritic": 88.0},
-  {"title": "Mai Child of Ages + DLC Storms of Time", "title_id": "0100A0A0225DE000", "metacritic": null}
+  {"title": "Sands of Aura", "title_id": "0100B1A023F18000", "metacritic": null}
 ]
