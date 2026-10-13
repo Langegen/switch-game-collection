@@ -14,7 +14,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i3.imageban.ru/out/2026/10/12/99d48d628b763a8267eda22b626964a8.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6921901.jpg",
         "screenshots": [
             "https://i128.fastpic.org/thumb/2026/1012/0f/c6c77791258d2c463bf1981f5f585d0f.jpeg",
             "https://i128.fastpic.org/thumb/2026/1012/da/56cb99925354bdfddf3ba582ed3333da.jpeg",
@@ -44,7 +44,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i1.imageban.ru/out/2026/10/12/600c7eb6d0d74d9539108130f702d3b1.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6921774.jpg",
         "screenshots": [
             "https://i128.fastpic.org/thumb/2026/1012/4d/f8acf294b0b1d052e91f5671d46e804d.jpeg",
             "https://i128.fastpic.org/thumb/2026/1012/a5/d0df59c646ad6f3d994ee6d5edd3f5a5.jpeg",
@@ -74,7 +74,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i7.imageban.ru/out/2026/10/12/a72ca81942c19475eefe410d76ba7030.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6921821.jpg",
         "screenshots": [
             "https://i128.fastpic.org/thumb/2026/1012/e1/de315da71fdca592f6979749057ccbe1.jpeg",
             "https://i128.fastpic.org/thumb/2026/1012/de/c72e3b0345bd255163c44e23a77f22de.jpeg",
@@ -104,7 +104,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i2.imageban.ru/out/2026/10/12/c36e02e3c362a40e9a84ad0436ea4fc8.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6921727.jpg",
         "screenshots": [
             "https://i1.imageban.ru/thumbs/2026.10.12/ecd5167786a0285be5da8eaa0ea0b864.jpg",
             "https://i5.imageban.ru/thumbs/2026.10.12/c56cf6e045a5ba5e7eae4bcf572bf66f.jpg",
@@ -133,7 +133,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i1.imageban.ru/out/2026/10/12/65a088540c7bf20a67c0d9e5c8dbb58b.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6921754.jpg",
         "screenshots": [
             "https://i128.fastpic.org/thumb/2026/1012/1a/f6c9fd5b168dda5e0cd1270a43df161a.jpeg",
             "https://i128.fastpic.org/thumb/2026/1012/ce/61b9d1129cb1de7327e7101b785eb5ce.jpeg",
@@ -8447,11 +8447,11 @@
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5760780.jpg",
         "screenshots": [
-            "https://i106.fastpic.ru/thumb/2019/0630/00/6f99d340f06bda75afcf81ed72fdc000.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0630/da/23ebd97a2cbfef7ccbe32839b929a6da.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0630/74/61353e1c0bde3c13073807f36436e374.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0630/60/e9162cd6a3c440bc51c37b269a8b0b60.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0630/77/4b77105d85e00d4117b5b7ee157da877.jpeg"
+            "https://i106.fastpic.org/thumb/2019/0630/00/6f99d340f06bda75afcf81ed72fdc000.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0630/da/23ebd97a2cbfef7ccbe32839b929a6da.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0630/74/61353e1c0bde3c13073807f36436e374.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0630/60/e9162cd6a3c440bc51c37b269a8b0b60.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0630/77/4b77105d85e00d4117b5b7ee157da877.jpeg"
         ],
         "description": "Igra, v kotoroy kazhdyy vybor menyaet eyo okonchanie. A chto vas zhdyot posle vosmi kontsovok?..\nRobin v odinochku nachinaet rassledovat skrytuyu pravdu, no…\n«Vse normalno, dazhe esli eto pravilno. Vse normalno, dazhe esli eto nepravilno»",
         "title_id": "010092600E9A2000"
@@ -8520,7 +8520,7 @@
         "genre": "Simulator, Adventure, Eroge, Homebrew",
         "developer": "Akabur",
         "publisher": "BerenNK",
-        "image_format": "NSP",
+        "image_format": "NRO",
         "interface_lang": "Russe [RUS], krome 6-7 epizodov Broken Heart Bordello na angliyskom",
         "voice_lang": "Aucun",
         "performance": "Oui (sur 15.0.1, Atmosphere 1.4.1)",
@@ -9299,7 +9299,7 @@
         "genre": "Emulation, Homebrew",
         "developer": "Unknown",
         "publisher": "Unknown",
-        "image_format": "NSP",
+        "image_format": "NRO",
         "interface_lang": "Anglais [ENG]",
         "voice_lang": "Unknown",
         "performance": "Oui",
@@ -9972,7 +9972,7 @@
         "publisher": "Red Hook Studios",
         "image_format": "NSP",
         "interface_lang": "Russe, Anglais [RUS / ENG / Multi 9] + Russe lyubitelskiy par GamesVoice",
-        "voice_lang": "Anglais + Russe lyubitelskiy par GamesVoice (primer ozvuchki)",
+        "voice_lang": "Russe lyubitelskaya par GamesVoice (primer ozvuchki)",
         "performance": "Oui (sur 8.0.1, Atmosphere 0.9.1)",
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5749028.jpg",
