@@ -1,5 +1,35 @@
 [
     {
+        "title": "Flatout 2 (homebrew) [NRO][ENG]",
+        "size": "2.31 GB",
+        "magnet": "magnet:?xt=urn:btih:E5509845EC2B586170238751177AF702DD0D428E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6922509",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6922509",
+        "year": "2006",
+        "genre": "Racing, Homebrew",
+        "developer": "Bugbear Entertainment",
+        "publisher": "antoxa2584x",
+        "image_format": "NRO",
+        "interface_lang": "Inglês [ENG]",
+        "voice_lang": "Sem dublagem",
+        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Não",
+        "cover": "https://i7.imageban.ru/out/2026/10/14/9d51401174b20dacdb21dfd6cd74b885.png",
+        "screenshots": [
+            "https://i128.fastpic.org/thumb/2026/1014/7f/4e3572c8e50528b2e407dbf4ab06157f.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1014/69/0b916bbd0d4d0ae9c88f592299b25869.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1014/39/66a2df5f750e52975248f6a8d87f1a39.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1014/21/8b2e584d318373928e8c077c7b781321.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1014/c2/856399a099c0f53bc622b58f71c8e7c2.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1014/76/328cc227cf3f365e6bc6c0d2d0ed2976.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1014/99/8834d8ef0ca3498328e05bcdad97db99.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1014/e1/c57aee53d3ab32098c5ad808c6c22de1.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1014/46/893fa511adf0413315c41a2f9508cd46.jpeg"
+        ],
+        "description": "Experimente uma direção incrível enquanto dirige descontroladamente dentro e fora da pista: destrua cercas, jogue pilhas de pneus e envie tanques de água e barris voando para bater em outros carros.\nFlatOut 2 apresenta 5 modos de jogo: Carreira, Corrida, Corrida Única, Acrobacias e Derby:",
+        "title_id": null
+    },
+    {
         "title": "SpongeBob SquarePants: Titans of the Tide + 5 DLC [NSP][RUS/Multi12]",
         "size": "3.51 GB",
         "magnet": "magnet:?xt=urn:btih:D8307DB5514C6A99464FD05A23255F269528211F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -111,9 +141,9 @@
         "title_id": "010083B01D9B8000"
     },
     {
-        "title": "Halo Combat Evolved (port OpenCE) [NRO][ENG]",
-        "size": "2.51 GB",
-        "magnet": "magnet:?xt=urn:btih:B1B11C1E834C3238624697ACF553F9E243B59F28&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "title": "Halo Combat Evolved (port OpenCE) [NRO][ENG,RUS (Voice.)]",
+        "size": "3.96 GB",
+        "magnet": "magnet:?xt=urn:btih:8C6C01329B590ABF9576986AB36D6DABEF3D1FF7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6922090",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6922090",
         "year": "2001",
@@ -122,7 +152,7 @@
         "publisher": "thelinkin3000, OpenCommunity, bnunu, punpckhdq",
         "image_format": "NRO",
         "interface_lang": "Inglês [ENG]",
-        "voice_lang": "Inglês",
+        "voice_lang": "Inglês + mod russkoy ozvuchki por rockeynik",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Até 128 jogadores",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922090.jpg",
@@ -349,7 +379,7 @@
     {
         "title": "Silent Hill 2 EE (port ) [NRO][RUS]",
         "size": "1.26 GB",
-        "magnet": "magnet:?xt=urn:btih:F24283DD0A331489607780138B5A5C5BFFB405D0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:5DEC7BF0C57DC0D1B04FD2AD88D2403E205140A3&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6920678",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6920678",
         "year": "2001",
@@ -1817,9 +1847,9 @@
         "title_id": "0100EB60202C8000"
     },
     {
-        "title": "Qliphah in Providence's Shadow [NSP][ENG]",
+        "title": "Qliphah in Providence's Shadow + 2 DLC [NSP][ENG]",
         "size": "1.3 GB",
-        "magnet": "magnet:?xt=urn:btih:B0E10A8A9454B02C93AA2FACB2DA8661F3DF5305&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:FAECD4D9228283A022FA54514D0E321B0F4E847E&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6913736",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6913736",
         "year": "2026, setembro",
@@ -5948,8 +5978,8 @@
     },
     {
         "title": "PlateUp (Plate Up) + DLC [NSZ][RUS/Multi8]",
-        "size": "425.8 MB",
-        "magnet": "magnet:?xt=urn:btih:1A9525A6FBFE6A0902FB368D7010F0B799FE8DB4&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "446.4 MB",
+        "magnet": "magnet:?xt=urn:btih:BC9F661031BB97D0B072413AFDD3656B96FF9F7E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6488345",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6488345",
         "year": "2024, fevereiro",
@@ -8260,18 +8290,18 @@
     },
     {
         "title": "Game Boy Advance – Nintendo Switch Online [NSZ][RUS (Mod.)/ENG]",
-        "size": "1.57 GB",
-        "magnet": "magnet:?xt=urn:btih:782047BBD5E3B0A90D40B30912171E822819764E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "1.78 GB",
+        "magnet": "magnet:?xt=urn:btih:8BF84707FA560953EC06125DB2DA35FF58D882CE&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6320519",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6320519",
         "year": "2023, fevereiro",
         "genre": "Emulator",
         "developer": "VA",
         "publisher": "Nintendo",
-        "image_format": ".NSZ (compactado ~25%, tamanho instalado 1.00 GB)",
+        "image_format": ".NSZ (compactado ~25%, tamanho instalado 1.04 GB)",
         "interface_lang": "Inglês [ENG] + Russo tradução v ROM'akh s modom",
         "voice_lang": "Sem dublagem",
-        "performance": "Sim (no 20.4.0, Atmosphere 1.9.4)",
+        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Até 2 jogadores",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6320519.jpg",
         "screenshots": [
@@ -8368,8 +8398,8 @@
     },
     {
         "title": "Mario Kart™ 8 Deluxe [NSZ][RUS/Multi11]",
-        "size": "7.9 GB",
-        "magnet": "magnet:?xt=urn:btih:1DDCE31CAA3A669DF8A8D7D5F5AFD2E75EDEA97B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "8.08 GB",
+        "magnet": "magnet:?xt=urn:btih:889D6F015043D5E3628DA5A9F2E6419B77FF0E8F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5757587",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5757587",
         "year": "2019, julho",
@@ -15528,8 +15558,8 @@
     },
     {
         "title": "Don't Starve Together / Dont Starve: Nintendo Switch Edition + Hamlet DLC [NSZ][RUS (+Mod.)/Multi7]",
-        "size": "5.14 GB",
-        "magnet": "magnet:?xt=urn:btih:30150023FD2AD1F67FD563C7EFF9BD647AF99E96&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "5.17 GB",
+        "magnet": "magnet:?xt=urn:btih:004D2F9E9F2D9FC8110A0DF474B025AF26286A71&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5677357",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5677357",
         "year": "2018, abril",
@@ -21022,9 +21052,9 @@
             "https://i115.fastpic.org/thumb/2021/1002/0b/56f089caf87f8532cae00e74ab3a7d0b.jpeg",
             "https://i115.fastpic.org/thumb/2021/1002/c0/0275602c0de660e8f799f5b6d48e53c0.jpeg",
             "https://i115.fastpic.org/thumb/2021/1002/b5/8d428d49a7f971da36fe4c616ba5dfb5.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1212/31/aa5ed9437713e8e30e612711f6c28231.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1212/d7/bcb574a6a37c33938b96ab5c0179c2d7.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1212/c0/e2f09a417438469adaa5328af97b36c0.jpeg"
+            "https://i114.fastpic.org/thumb/2020/1212/31/aa5ed9437713e8e30e612711f6c28231.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1212/d7/bcb574a6a37c33938b96ab5c0179c2d7.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1212/c0/e2f09a417438469adaa5328af97b36c0.jpeg"
         ],
         "description": "Knockout Home Fitness (ili FiNC HOME FiT v Yaponii) — fitnes-igra, osnovannaya na razlichnykh boevykh iskusstvakh, takikh kak boks, karate, muay-tay i kung-fu putyom sochetaniya kardiouprazhneniy s vysokim szhiganiem zhira i obshchey LFK-trenirovki dlya razvitiya balansa tela.\nIgra vklyuchaet v sebya v obshchey slozhnosti 60 programm trenirovok, khorosho podkhodyashchikh dlya tekh, komu ne khvataet uprazhneniy iz-za vozderzhaniya ot vykhoda na ulitsu i prodolzhitelnoy udalennoy raboty, a takzhe tekh, kto sidit na diete i ne mozhet khodit v trenazhernyy zal!\nChetyre personalnykh trenera predlozhat rezhim ezhednevnykh uprazhneniy, optimizirovannyy dlya tseley i potrebnostey igroka. Motiviruya igroka - inogda strogo, no chashche vsego dobrozhelatelno, - oni obespechivayut nadlezhashchuyu podderzhku v povsednevnykh uprazhneniyakh. Ozvuchivayut trenerov Ayane Sakura, Marina Inoue, Kotono Mitsuisi i Khiro Shimono.\nIgra byla razrabotana pod kontrolem FiNC, yaponskogo prilozheniya dlya zdorovya i fitnesa v Yaponii, potomu, userdno zanimayas, vy obyazatelno dolzhny uvidet khot kakie-to rezultaty!",
         "title_id": "0100A1B0149E4000"
@@ -21354,7 +21384,7 @@
         "topic_id": "5741455",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5741455",
         "year": "2019, junho",
-        "genre": "Adventure, Role-Playing, Strategy, TCG",
+        "genre": "Role-Playing, TCG",
         "developer": "Mega Crit",
         "publisher": "Humble Games",
         "image_format": ".NSZ (compactado ~32%, tamanho instalado 0.53 GB)",
@@ -21679,7 +21709,7 @@
         "genre": "Emulation, Homebrew",
         "developer": "Henrik Rydgård",
         "publisher": "Unknown",
-        "image_format": "NSP",
+        "image_format": "NRO",
         "interface_lang": "Russo, Inglês [RUS / ENG]",
         "voice_lang": "Unknown",
         "performance": "Sim",
@@ -22334,11 +22364,11 @@
         "screenshots": [
             "https://ae01.alicdn.com/kf/Ha8b10c55d7c743b1884c4a6983839f39f.jpg",
             "https://ae01.alicdn.com/kf/H426c89dd18784830ba8b42480160cb81F.jpg",
-            "https://i111.fastpic.ru/thumb/2019/1127/9e/e47a8676f7b6ffa9cb956c848106489e.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1127/48/_70e50886872a6e7d26d0634298849548.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1127/04/_c0d46127753b8b3c10e598a0125ac604.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1127/16/ef60f192571e7e3b1999c585481fea16.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1127/d7/_75442ffe79e04c55e8f2a64c51339ad7.jpeg"
+            "https://i111.fastpic.org/thumb/2019/1127/9e/e47a8676f7b6ffa9cb956c848106489e.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1127/48/_70e50886872a6e7d26d0634298849548.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1127/04/_c0d46127753b8b3c10e598a0125ac604.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1127/16/ef60f192571e7e3b1999c585481fea16.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1127/d7/_75442ffe79e04c55e8f2a64c51339ad7.jpeg"
         ],
         "description": "RingFit Adventure",
         "title_id": "01002FF008C24000"
@@ -22836,7 +22866,7 @@
         "genre": "Visual Novel, Homebrew",
         "developer": "Four Leaf Studios, stanriders",
         "publisher": "TITS, Otorhin",
-        "image_format": "NSP",
+        "image_format": "NRO",
         "interface_lang": "Russo, Inglês [RUS / ENG / Multi 5]",
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 14.1.0, Atmosphere 1.4.0)",
@@ -39734,8 +39764,8 @@
     },
     {
         "title": "Fabledom [NSZ][RUS/Multi9]",
-        "size": "874.9 MB",
-        "magnet": "magnet:?xt=urn:btih:F22F2E94A1B15F582109BF9CEC8FF09DDB46F3BC&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "889.4 MB",
+        "magnet": "magnet:?xt=urn:btih:DD8FABE0C758DA2353D3383E3BDDE3C9AD96A350&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6572855",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6572855",
         "year": "2024, setembro",
@@ -64704,7 +64734,7 @@
     {
         "title": "Under Night In-birth II (2) Sys Celes + 6 DLC [NSP][ENG]",
         "size": "2.84 GB",
-        "magnet": "magnet:?xt=urn:btih:24F2F705808F45118953CCE457DD9523FA474307&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:659E15D12170DB558040CE9BF3EFF946846C4200&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6476048",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6476048",
         "year": "2024, janeiro",
@@ -75809,8 +75839,8 @@
     },
     {
         "title": "La-Mulana / LaMulana 2 [NSZ][RUS (Mod.),ENG]",
-        "size": "3.19 GB",
-        "magnet": "magnet:?xt=urn:btih:171D8DD503D0AF6D945F16568606773FB1D69D15&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "3.21 GB",
+        "magnet": "magnet:?xt=urn:btih:9D42B0F3A73CA406DEB7349E021E3EA4816627FE&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5867443",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5867443",
         "year": "2020, março",
@@ -75824,13 +75854,13 @@
         "multiplayer": "Não",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5867443.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/25cff6cd33989c4f9caee65e0d548934860df585a1298434c0fb93495f98f8d5.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/3141a6693c3b11c45c60c7d07e8a1a66a7470f1aba82e415389e38beeac9701f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/244e0bf599bf3d89a31d13bc73b6ad2e1b3acb49ee5c03cee3dcfc896c2d324c.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/ac81f15e7a86611944c4af12e0187b0776a83226aa24d5101bb52da5a79278d5.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/84ab763020a7a84a5ecc26653ba2155de5f87f514eb85ca6fdd07ce596ecbd72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7d757551235175618c36ebfc418cd29edba1db591780aa37dd219a88cbe1780.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44287960303b4002a77110d8f2b8d6646f91e5e1ce6d0c52ed8fc3088a93d40f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70090d1416924c1e086ee4f7a6a99cb91cb5ef681cb5bf54032e817bfb0034ad.jpg"
         ],
-        "description": "Experience a classic tale of exploration, puzzle-solving, and deadly action with LA-MULANA!\n\nYour destiny awaits in La-Mulana! Take control of archaeologist Lemeza Kosugi and navigate through puzzles, traps, and deadly Guardians in order to claim the Secret Treasure of Life. You'll need sharp wits, quick reflexes, and most importantly, all the courage you can muster. Will you succeed in unraveling the secrets of La-Mulana, or will you fall victim to the dangers that surround you?",
-        "title_id": "010026000F662000"
+        "description": "Experience a classic tale of exploration, puzzle-solving, and deadly action with LA-MULANA 2!\n\nRenowned archaeologist Lemeza Kosugi has gone missing, and only his daughter Lumisa can find him! Enter Eg-Lana, an upside-down version of the legendary ruins of La-Mulana. Think fast, act fast, and whip hard in order to overcome dangerous traps and elaborate puzzles in your quest to uncover unfathomable secrets. What will you find at the end of your journey: triumph, or defeat?",
+        "title_id": "010038000F644000"
     },
     {
         "title": "Crash Drive 2-3 [NSZ][ENG,RUS]",
@@ -102884,8 +102914,8 @@
     },
     {
         "title": "Dungeon Clawler [NSZ][RUS/Multi10]",
-        "size": "463.2 MB",
-        "magnet": "magnet:?xt=urn:btih:B5E5348F7BF85A5A9EE9F090B7327B4244D27D07&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "size": "465.3 MB",
+        "magnet": "magnet:?xt=urn:btih:7AF89A877DB978E70DD84CDC5E2ABCB95388C809&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6852384",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6852384",
         "year": "2026, abril",
@@ -134036,8 +134066,8 @@
     },
     {
         "title": "Shadow Corridor 1-2 [NSP][ENG,RUS]",
-        "size": "9.84 GB",
-        "magnet": "magnet:?xt=urn:btih:157B71564C001BD319635FC07D500B0712111282&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "size": "9.85 GB",
+        "magnet": "magnet:?xt=urn:btih:3B2A4E54C2019BD8EEBFAF3D1F0F9538E4ADACC6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5763892",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5763892",
         "year": "2019, agosto",
