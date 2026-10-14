@@ -1,4 +1,14 @@
 [
+  {"title": "Nintendo Switch Online (NSO, официальные игры + LFS-моды): Game Boy Advance (GBA) / GameBoy (GB) / Color (GBC)", "title_id": "010012F017576000", "metacritic": null},
+  {"title": "La-Mulana / LaMulana 2", "title_id": "010026000F662000", "metacritic": 77.0},
+  {"title": "Mario Kart 8 Deluxe (MK8D) + DLC Booster Course Pass, волна 6", "title_id": "0100152000022000", "metacritic": 92.0},
+  {"title": "Shadow Corridor 1-2", "title_id": "010018101FE54000", "metacritic": 61.0},
+  {"title": "Don't Starve Together / Dont Starve: Nintendo Switch Edition + Hamlet DLC", "title_id": "0100D1B006744000", "metacritic": 83.0},
+  {"title": "PlateUp (Plate Up) + DLC", "title_id": "01003F901A83E000", "metacritic": null},
+  {"title": "Sesame Street Friends and Fun", "title_id": "0100B8B027164000", "metacritic": null},
+  {"title": "Core Keeper", "title_id": "010070201D1BA000", "metacritic": 85.0},
+  {"title": "Another Eden Begins", "title_id": "010015A027150000", "metacritic": null},
+  {"title": "SpongeBob SquarePants: Titans of the Tide + 5 DLC (Губка Боб Квадратные Штаны: Гиганты глубин)", "title_id": "0100A0902789A000", "metacritic": null},
   {"title": "Fountains + DLC Shattered Shape", "title_id": "010063302712A000", "metacritic": null},
   {"title": "Animal Crossing (хоумбрю GCnx)", "title_id": "0100EF6A65972000", "metacritic": null},
   {"title": "Bluey's Quest for the Gold Pen", "title_id": "0100EF802631A000", "metacritic": null},
@@ -17,13 +27,5 @@
   {"title": "Need For Speed Carbon (хоумбрю NFS:C)", "title_id": "0100000000000000", "metacritic": null},
   {"title": "Muse Dash + 2 DLC (и версия с 3 кодами разблокировки оффлайн)", "title_id": "01008E200C5C2000", "metacritic": 73.0},
   {"title": "Doraemon Story of Seasons: Friends of the Great Kingdom + 12 DLC", "title_id": "01009B50139A9000", "metacritic": 75.0},
-  {"title": "Brave Dungeon + Dark Witch Story Combat / The Meaning of Justice", "title_id": "010068A00DAFC000", "metacritic": null},
-  {"title": "Infinite Seek and Find + 3 DLC", "title_id": "0100C430202CA000", "metacritic": null},
-  {"title": "Ketsu Battler + DLC Kiden", "title_id": "010045B01FAF8000", "metacritic": null},
-  {"title": "Kingdom Hearts HD 1.5+2.5 Remix, 4 игры", "title_id": "010090C022978000", "metacritic": null},
-  {"title": "Viractal Will You Trust Your Party", "title_id": "0100FD501F95A000", "metacritic": null},
-  {"title": "Core Keeper", "title_id": "010070201D1BA000", "metacritic": 85.0},
-  {"title": "Tomb Raider I-III (+ Unfinished Business) / TR II (2) The Dagger of Xian + Golden Mask / TombRaider III (3) Adventures of Starring Lara Croft + The Lost Artifact Remastered", "title_id": "010024601BB16000", "metacritic": null},
-  {"title": "Aggelos 1-2", "title_id": "010004D00A9C0000", "metacritic": 79.0},
-  {"title": "Deathbulge Battle of the Bands", "title_id": "01009C6026008000", "metacritic": null}
+  {"title": "Brave Dungeon + Dark Witch Story Combat / The Meaning of Justice", "title_id": "010068A00DAFC000", "metacritic": null}
 ]
