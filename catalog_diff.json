@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1791930996,
+  "generated_at": 1791962960,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
@@ -20,7 +20,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i2.imageban.ru/out/2026/10/13/15c8bb6887db5333dbecb2ca574b5f2d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922385.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1013/f6/257aaf6ccf4b4bbb220807d281bad8f6.jpeg",
           "https://i128.fastpic.org/thumb/2026/1013/a4/0e0a7a452fe302a61680ba916bc533a4.jpeg",
@@ -50,7 +50,7 @@
         "voice_lang": "английская, французская, немецкая, испанская, португальская, японская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i8.imageban.ru/out/2026/10/13/150b7626be7c6654b4f0b1d98064a71a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922343.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1013/b0/ff4dc6778cace47dad4624a945ad9bb0.jpeg",
           "https://i128.fastpic.org/thumb/2026/1013/34/27d070944554ac9e654ee35ceeaf7f34.jpeg",
@@ -80,7 +80,7 @@
         "voice_lang": "английская, французская, немецкая, испанская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "до 2 игроков",
-        "cover": "https://i3.imageban.ru/out/2026/10/13/ee8259219b91249dd2f6d48a4cdd4068.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922269.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1013/3f/de3a61bbd43762f4bb678406b3b1623f.jpeg",
           "https://i128.fastpic.org/thumb/2026/1013/e7/5cffdab6c71d8ae359ea04ef8822e5e7.jpeg",
@@ -1031,7 +1031,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i2.imageban.ru/out/2026/10/13/15c8bb6887db5333dbecb2ca574b5f2d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922385.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1013/f6/257aaf6ccf4b4bbb220807d281bad8f6.jpeg",
           "https://i128.fastpic.org/thumb/2026/1013/a4/0e0a7a452fe302a61680ba916bc533a4.jpeg",
@@ -1061,7 +1061,7 @@
         "voice_lang": "English, French, German, Spanish, Portuguese, Japanese",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i8.imageban.ru/out/2026/10/13/150b7626be7c6654b4f0b1d98064a71a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922343.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/479c806d16ce3f87d1b7685746008251d4cbdb08a1e8eee6d0cf563eead5b60d.jpg",
           "https://img-eshop.cdn.nintendo.net/i/0c40bb5b578d913889cb2bd134dad77a340541ef2b1cc78c996e9c828885328d.jpg",
@@ -1088,7 +1088,7 @@
         "voice_lang": "English, French, German, Spanish",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Up to 2 players",
-        "cover": "https://i3.imageban.ru/out/2026/10/13/ee8259219b91249dd2f6d48a4cdd4068.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922269.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/50716ea0fa82d1e75078ab62c9c3b49f8fe3579cdfba73a0cf7fc4747db04b6a.jpg",
           "https://img-eshop.cdn.nintendo.net/i/05a5b00601436048dcc94a4d9fa44521d435ab65c5c9c0d179728469e93985e0.jpg",
@@ -2006,7 +2006,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i2.imageban.ru/out/2026/10/13/15c8bb6887db5333dbecb2ca574b5f2d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922385.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1013/f6/257aaf6ccf4b4bbb220807d281bad8f6.jpeg",
           "https://i128.fastpic.org/thumb/2026/1013/a4/0e0a7a452fe302a61680ba916bc533a4.jpeg",
@@ -2036,7 +2036,7 @@
         "voice_lang": "Inglés, Francés, Alemán, Español, Portugués, Japonés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i8.imageban.ru/out/2026/10/13/150b7626be7c6654b4f0b1d98064a71a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922343.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/479c806d16ce3f87d1b7685746008251d4cbdb08a1e8eee6d0cf563eead5b60d.jpg",
           "https://img-eshop.cdn.nintendo.net/i/0c40bb5b578d913889cb2bd134dad77a340541ef2b1cc78c996e9c828885328d.jpg",
@@ -2063,7 +2063,7 @@
         "voice_lang": "Inglés, Francés, Alemán, Español",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Hasta 2 jugadores",
-        "cover": "https://i3.imageban.ru/out/2026/10/13/ee8259219b91249dd2f6d48a4cdd4068.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922269.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/50716ea0fa82d1e75078ab62c9c3b49f8fe3579cdfba73a0cf7fc4747db04b6a.jpg",
           "https://img-eshop.cdn.nintendo.net/i/05a5b00601436048dcc94a4d9fa44521d435ab65c5c9c0d179728469e93985e0.jpg",
@@ -2981,7 +2981,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i2.imageban.ru/out/2026/10/13/15c8bb6887db5333dbecb2ca574b5f2d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922385.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1013/f6/257aaf6ccf4b4bbb220807d281bad8f6.jpeg",
           "https://i128.fastpic.org/thumb/2026/1013/a4/0e0a7a452fe302a61680ba916bc533a4.jpeg",
@@ -3011,7 +3011,7 @@
         "voice_lang": "Anglais, Français, Allemand, Espagnol, Portugais, Japonais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i8.imageban.ru/out/2026/10/13/150b7626be7c6654b4f0b1d98064a71a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922343.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/479c806d16ce3f87d1b7685746008251d4cbdb08a1e8eee6d0cf563eead5b60d.jpg",
           "https://img-eshop.cdn.nintendo.net/i/0c40bb5b578d913889cb2bd134dad77a340541ef2b1cc78c996e9c828885328d.jpg",
@@ -3038,7 +3038,7 @@
         "voice_lang": "Anglais, Français, Allemand, Espagnol",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Jusqu'à 2 joueurs",
-        "cover": "https://i3.imageban.ru/out/2026/10/13/ee8259219b91249dd2f6d48a4cdd4068.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922269.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/50716ea0fa82d1e75078ab62c9c3b49f8fe3579cdfba73a0cf7fc4747db04b6a.jpg",
           "https://img-eshop.cdn.nintendo.net/i/05a5b00601436048dcc94a4d9fa44521d435ab65c5c9c0d179728469e93985e0.jpg",
@@ -3956,7 +3956,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i2.imageban.ru/out/2026/10/13/15c8bb6887db5333dbecb2ca574b5f2d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922385.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1013/f6/257aaf6ccf4b4bbb220807d281bad8f6.jpeg",
           "https://i128.fastpic.org/thumb/2026/1013/a4/0e0a7a452fe302a61680ba916bc533a4.jpeg",
@@ -3986,7 +3986,7 @@
         "voice_lang": "Englisch, Französisch, Deutsch, Spanisch, Portugiesisch, Japanisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i8.imageban.ru/out/2026/10/13/150b7626be7c6654b4f0b1d98064a71a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922343.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/479c806d16ce3f87d1b7685746008251d4cbdb08a1e8eee6d0cf563eead5b60d.jpg",
           "https://img-eshop.cdn.nintendo.net/i/0c40bb5b578d913889cb2bd134dad77a340541ef2b1cc78c996e9c828885328d.jpg",
@@ -4013,7 +4013,7 @@
         "voice_lang": "Englisch, Französisch, Deutsch, Spanisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Bis zu 2 Spieler",
-        "cover": "https://i3.imageban.ru/out/2026/10/13/ee8259219b91249dd2f6d48a4cdd4068.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922269.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/50716ea0fa82d1e75078ab62c9c3b49f8fe3579cdfba73a0cf7fc4747db04b6a.jpg",
           "https://img-eshop.cdn.nintendo.net/i/05a5b00601436048dcc94a4d9fa44521d435ab65c5c9c0d179728469e93985e0.jpg",
@@ -4934,7 +4934,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i2.imageban.ru/out/2026/10/13/15c8bb6887db5333dbecb2ca574b5f2d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922385.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1013/f6/257aaf6ccf4b4bbb220807d281bad8f6.jpeg",
           "https://i128.fastpic.org/thumb/2026/1013/a4/0e0a7a452fe302a61680ba916bc533a4.jpeg",
@@ -4964,7 +4964,7 @@
         "voice_lang": "Inglese, Francese, Tedesco, Spagnolo, Portoghese, Giapponese",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i8.imageban.ru/out/2026/10/13/150b7626be7c6654b4f0b1d98064a71a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922343.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/479c806d16ce3f87d1b7685746008251d4cbdb08a1e8eee6d0cf563eead5b60d.jpg",
           "https://img-eshop.cdn.nintendo.net/i/0c40bb5b578d913889cb2bd134dad77a340541ef2b1cc78c996e9c828885328d.jpg",
@@ -4991,7 +4991,7 @@
         "voice_lang": "Inglese, Francese, Tedesco, Spagnolo",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Fino a 2 giocatori",
-        "cover": "https://i3.imageban.ru/out/2026/10/13/ee8259219b91249dd2f6d48a4cdd4068.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922269.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/50716ea0fa82d1e75078ab62c9c3b49f8fe3579cdfba73a0cf7fc4747db04b6a.jpg",
           "https://img-eshop.cdn.nintendo.net/i/05a5b00601436048dcc94a4d9fa44521d435ab65c5c9c0d179728469e93985e0.jpg",
@@ -5912,7 +5912,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i2.imageban.ru/out/2026/10/13/15c8bb6887db5333dbecb2ca574b5f2d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922385.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1013/f6/257aaf6ccf4b4bbb220807d281bad8f6.jpeg",
           "https://i128.fastpic.org/thumb/2026/1013/a4/0e0a7a452fe302a61680ba916bc533a4.jpeg",
@@ -5942,7 +5942,7 @@
         "voice_lang": "Inglês, Francês, Alemão, Espanhol, Português, Japonês",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i8.imageban.ru/out/2026/10/13/150b7626be7c6654b4f0b1d98064a71a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922343.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/479c806d16ce3f87d1b7685746008251d4cbdb08a1e8eee6d0cf563eead5b60d.jpg",
           "https://img-eshop.cdn.nintendo.net/i/0c40bb5b578d913889cb2bd134dad77a340541ef2b1cc78c996e9c828885328d.jpg",
@@ -5969,7 +5969,7 @@
         "voice_lang": "Inglês, Francês, Alemão, Espanhol",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Até 2 jogadores",
-        "cover": "https://i3.imageban.ru/out/2026/10/13/ee8259219b91249dd2f6d48a4cdd4068.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922269.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/50716ea0fa82d1e75078ab62c9c3b49f8fe3579cdfba73a0cf7fc4747db04b6a.jpg",
           "https://img-eshop.cdn.nintendo.net/i/05a5b00601436048dcc94a4d9fa44521d435ab65c5c9c0d179728469e93985e0.jpg",
@@ -6887,7 +6887,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i2.imageban.ru/out/2026/10/13/15c8bb6887db5333dbecb2ca574b5f2d.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922385.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1013/f6/257aaf6ccf4b4bbb220807d281bad8f6.jpeg",
           "https://i128.fastpic.org/thumb/2026/1013/a4/0e0a7a452fe302a61680ba916bc533a4.jpeg",
@@ -6917,7 +6917,7 @@
         "voice_lang": "英语, 法语, 德语, 西班牙语, 葡萄牙语, 日语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i8.imageban.ru/out/2026/10/13/150b7626be7c6654b4f0b1d98064a71a.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922343.jpg",
         "screenshots": [
           "https://img-eshop.cdn.nintendo.net/i/479c806d16ce3f87d1b7685746008251d4cbdb08a1e8eee6d0cf563eead5b60d.jpg",
           "https://img-eshop.cdn.nintendo.net/i/0c40bb5b578d913889cb2bd134dad77a340541ef2b1cc78c996e9c828885328d.jpg",
@@ -6944,7 +6944,7 @@
         "voice_lang": "英语, 法语, 德语, 西班牙语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "最多 2 人",
-        "cover": "https://i3.imageban.ru/out/2026/10/13/ee8259219b91249dd2f6d48a4cdd4068.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922269.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1013/3f/de3a61bbd43762f4bb678406b3b1623f.jpeg",
           "https://i128.fastpic.org/thumb/2026/1013/e7/5cffdab6c71d8ae359ea04ef8822e5e7.jpeg",
