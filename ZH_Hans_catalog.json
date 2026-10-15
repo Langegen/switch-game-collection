@@ -1,5 +1,60 @@
 [
     {
+        "title": "Cubic Cosmos [NSP][ENG]",
+        "size": "1.04 GB",
+        "magnet": "magnet:?xt=urn:btih:4D5A59EAF4D0F74D1BFEF193944D5746872836E6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6922921",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6922921",
+        "year": "2026, 10月",
+        "genre": "TCG",
+        "developer": "Inkstone Atelier",
+        "publisher": "Happy Player",
+        "image_format": "NSP",
+        "interface_lang": "英语 [ENG]",
+        "voice_lang": "无语音",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "无",
+        "cover": "https://i2.imageban.ru/out/2026/10/15/1bd948320f51a60b771f61439b564e51.png",
+        "screenshots": [
+            "https://i128.fastpic.org/thumb/2026/1015/62/ee7166c82a5e035a4eda3a43a223c662.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/1f/455d44580138b4e03ef0717de7189e1f.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/33/301eef6722aa381111ff9fc92b037833.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/c4/583450669937b2cd0c29a7b2795bc0c4.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/5b/994044c63e8073019dd9c12a18aa895b.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/2e/8291124c6370c8d7afe61544c9a12f2e.jpeg"
+        ],
+        "description": "Dinamichnaya kartochnaya igra!\nSoberite neuderzhimuyu armiyu fishek, svyazyvayte moshchnye kombo i naslazhdaytes beskonechnymi vozmozhnostyami!..",
+        "title_id": "01000500296CA000"
+    },
+    {
+        "title": "Vault of Power [NSZ][ENG]",
+        "size": "243.8 MB",
+        "magnet": "magnet:?xt=urn:btih:282F24CF154EE7BF2464178DFCA1CE7C55852B14&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6922954",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6922954",
+        "year": "2026, 10月",
+        "genre": "Role-Playing, Roguelite",
+        "developer": "Jim Games",
+        "publisher": "Cgi Lab Games",
+        "image_format": ".NSZ (已压缩 ~22%, 安装大小 0.31 GB)",
+        "interface_lang": "英语 [ENG]",
+        "voice_lang": "无语音",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "无",
+        "cover": "https://i4.imageban.ru/out/2026/10/15/aa6d486c2993e5ed6e852a9bc113c5fb.png",
+        "screenshots": [
+            "https://i128.fastpic.org/thumb/2026/1015/4e/702277f046dc654a0c1a568a25e47a4e.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/35/3b980a48c4c33f28f1aaf3139d32f635.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/36/6050158c49ec279c74fa8c99641b7d36.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/9f/a6535e7659a68177530e7af29f564b9f.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/34/06fcfd09cccf6812907d1bcaedf8a434.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/19/a31b22f14930049f62c94ed5921a9a19.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/78/7bdf1a87bd5f5ff47573c54207798978.jpeg"
+        ],
+        "description": "Osvoyte moshchnye navyki, strategicheski razmeshchayte svoikh yunitov i pokoryayte slozhnye podzemelya.",
+        "title_id": "01004F302847E000"
+    },
+    {
         "title": "Silver Pines [NSZ][RUS/Multi9]",
         "size": "2.08 GB",
         "magnet": "magnet:?xt=urn:btih:B2B3298FBBFF29A30FD58F3FC1E239B2874B88D6&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -14,7 +69,7 @@
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i3.imageban.ru/out/2026/10/15/d418481c24f3452fe4cd150154e386b2.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922908.jpg",
         "screenshots": [
             "https://i128.fastpic.org/thumb/2026/1015/03/c74b90b53383c52350dc7615e8effd03.jpeg",
             "https://i128.fastpic.org/thumb/2026/1015/85/2daf9d0ee2f7b5fe15ce2ba6bc3b8d85.jpeg",
@@ -44,7 +99,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i3.imageban.ru/out/2026/10/15/f197527d7399f16b7ee4507a00cf9248.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922911.jpg",
         "screenshots": [
             "https://i128.fastpic.org/thumb/2026/1015/f8/e88f4edbb342b741963e48e5795a36f8.jpeg",
             "https://i128.fastpic.org/thumb/2026/1015/ab/3c7eedf6b630ff36174a59ca569376ab.jpeg",
@@ -10920,8 +10975,8 @@
     },
     {
         "title": "Constance [NSP][RUS/Multi16]",
-        "size": "1.86 GB",
-        "magnet": "magnet:?xt=urn:btih:E60957963187E2832C80A1AEBB2723C3C99D005B&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "1.83 GB",
+        "magnet": "magnet:?xt=urn:btih:66486212D29C7D5E09A7833240CA3DDE25602C45&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6853437",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6853437",
         "year": "2026, 5月",
@@ -19011,31 +19066,34 @@
         "title_id": "010010501B8B2000"
     },
     {
-        "title": "Creepy Tale 1 / 2 / 3 Ingrid Penance / 4 Some Other Place [NSZ][RUS/Multi7]",
-        "size": "1.29 GB",
-        "magnet": "magnet:?xt=urn:btih:2BD6F61FD91DBB45F78283D0CC91969DCCAFEEE8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "title": "Creepy Tale 1 / 2 / 3 Ingrid Penance / 4 Some Other Place / 5 Snow Child [NSZ][RUS/Multi7]",
+        "size": "2.05 GB",
+        "magnet": "magnet:?xt=urn:btih:FAA5B979DBFE39C8BA4B1342EFCE235D13E5B53E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5918248",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5918248",
-        "year": "2020-2024",
+        "year": "2020-2026",
         "genre": "Adventure, Puzzle, Horror",
         "developer": "Creepy Brothers Studio, Deqaf Studio",
-        "publisher": "Sometimes You",
-        "image_format": ".NSZ (已压缩 ~72%, 安装大小 4.54 GB)",
+        "publisher": "No Gravity Games",
+        "image_format": ".NSZ (已压缩 ~76%, 安装大小 8.58 GB)",
         "interface_lang": "俄语, 英语 [RUS / ENG / Multi 7]",
         "voice_lang": "俄语, 英语 (krome 1-oy chasti)",
-        "performance": "是 (在 18.1.0, Atmosphere 1.7.1)",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5918248.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/6eac65d1244fb4ef9ea91832c674033d594d908711328dcd20dc053375073258.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9772d776a3b5c4ff111f6c4d433a3e6a214cd99baf82834201fa80df261dc220.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/73bc9b309a01e8b6a3e6c4e26f60000e2c13aba1b30506f9e024316355707f36.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/df7b30a46c607a263c4cf7b2f68989d80a49eab139868d42c3904ad634272496.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/99ecfb6a6136d187b213a60addac92e6281179bd1bc9f3d67e75c6bd1f654012.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/56778f02e8e0aeed1a5816907dda9d98f1393644822aa16a6a1062c35e170cdf.jpg"
+            "https://i113.fastpic.org/thumb/2020/0711/1b/6ede6c89f7dd8c4e4dcfae376ddf081b.jpeg",
+            "https://i113.fastpic.org/thumb/2020/0711/0d/b7fb09927d7f42f1200270de29e83d0d.jpeg",
+            "https://i113.fastpic.org/thumb/2020/0711/a1/75b9d3f72a8684943665f140d0ddfba1.jpeg",
+            "https://i113.fastpic.org/thumb/2020/0711/67/a46bd7bf60abdf02391cce4f0dc83267.jpeg",
+            "https://i113.fastpic.org/thumb/2020/0711/07/3b0fd0d0942047fe6660caa135524b07.jpeg",
+            "https://i113.fastpic.org/thumb/2020/0711/27/860e2068684be00eed84c3b30e34ac27.jpeg",
+            "https://i113.fastpic.org/thumb/2020/0711/37/1c232afc29995dded038771fc9729237.jpeg",
+            "https://i115.fastpic.org/thumb/2021/1014/38/70549b1aa8bf1d6d2cefe348cf6ba738.jpeg",
+            "https://i115.fastpic.org/thumb/2021/1014/5a/b808c287d3198ce0d8fbdb023eb5505a.jpeg"
         ],
-        "description": "《驚悚故事》是一段充滿謎題和詭譎氣氛的神祕之旅。某個秋日的早晨，小男孩本來只想安安靜靜釣魚去，卻發生一連串事件，將他帶進「異世迷境」。找到回家的路，揭開成堆的祕密，盡全力拯救一路上所有人。\n\n《驚悚故事：異世迷境》取自我們熟悉的童話故事，故事卻截然不同。你眼前是驚心動魄的任務，目光所及皆是生動的故事與人物。 \n\n我們製作遊戲時著重雕塑細節，灌注了滿滿愛意。請和我們一起感受對驚悚故事的熱情，投入美妙音樂及停格動畫的黑暗世界。各式各樣值得探索的謎題等著你，各年齡層的玩家必定能體驗到樂趣。\n\n特色:\n- 融入多元機制的精彩謎題\n- 身歷其境的故事情節\n- 獨一無二的 2D 藝術風格與動畫\n- 經典迷你遊戲\n- 原聲帶",
-        "title_id": "010050B01FD30000"
+        "description": "Bespechnyy pokhod za gribami vmeste s bratom oborachivaetsya uzhasom i zatyagivaet geroya v cheredu zhutkikh sobytiy. Brat pokhishchen, a vy ostaetes odin na odin so zloveshchim lesom, napolnennym opasnostyami i strannymi sushchestvami. Reshayte golovolomki, kotorye vstrechayutsya u vas na puti, ne dayte sebya poymat i spasite brata iz lap nechistoy sily!\nUznayte temnuyu istoriyu, kotoraya postigla nekogda spokoynyy i mirolyubivyy les, prevrativ ego v zhutkoe mesto, napolnennoe zlom. Vozmozhno, imenno vy smozhete razgadat vse tayny i spasti eshche poka mirnykh zhiteley lesa?",
+        "title_id": "0100FAB02A21E000"
     },
     {
         "title": "Snoopy and the Great Mystery Club + DLC [NSZ][ENG]",
@@ -28910,15 +28968,15 @@
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5989076.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2020/1226/3f/73bb47ab66f1fa0d8945b1c7df75a83f.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/0d/45cea8210df1f3af0e4e4c2c6321280d.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/2d/8bc44a30e66851c7f8181bb9e5484a2d.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/bc/c9ee006ff386f0dab9eb621d1ec65abc.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/22/1eae0fcb236972b1e85dfb54bdfc5d22.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/3a/97e81f7c83df5a3263b822336a940d3a.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/7c/f791541a5c16a2469ff22e404584c47c.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/8b/69f33bb4bf73ab4f45d56dfca7180f8b.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/89/fc6a1a261431e7e0b5ef9c9faad65c89.jpeg"
+            "https://i114.fastpic.org/thumb/2020/1226/3f/73bb47ab66f1fa0d8945b1c7df75a83f.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/0d/45cea8210df1f3af0e4e4c2c6321280d.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/2d/8bc44a30e66851c7f8181bb9e5484a2d.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/bc/c9ee006ff386f0dab9eb621d1ec65abc.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/22/1eae0fcb236972b1e85dfb54bdfc5d22.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/3a/97e81f7c83df5a3263b822336a940d3a.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/7c/f791541a5c16a2469ff22e404584c47c.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/8b/69f33bb4bf73ab4f45d56dfca7180f8b.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/89/fc6a1a261431e7e0b5ef9c9faad65c89.jpeg"
         ],
         "description": "Heroes of Might and Magic («Geroi mecha i magii») — fenteziynaya seriya videoigr v zhanre poshagovoy strategii s elementami RPG, na dannyy moment vklyuchayushchaya v sebya sem osnovnykh chastey. Vymyshlennaya vselennaya Heroes of Might and Magic osnovana na vselennoy Might and Magic. Sobytiya vsekh igr serii do pyatoy razvorachivayutsya v vymyshlennom mire Enrot.\nHeroes of Might and Magic II: The Succession Wars + The Price of Loyalty (sokrashchyonno Heroes II ili HoMM2) — kompyuternaya igra v zhanre poshagovoy strategii s elementami RPG, vtoraya chast v serii fenteziynykh igr Heroes of Might and Magic. Igra byla razrabotana kompaniey New World Computing i izdana The 3DO Company 1 oktyabrya 1996 goda.",
         "title_id": null
@@ -29464,7 +29522,7 @@
         "topic_id": "5900501",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5900501",
         "year": "2020, 5月",
-        "genre": "Dungeon crawler",
+        "genre": "Action, Role-Playing",
         "developer": "Double Eleven",
         "publisher": "Mojang",
         "image_format": ".NSZ (已压缩 ~48%, 安装大小 7.38 GB)",
@@ -29531,15 +29589,15 @@
         "multiplayer": "最多 8 人",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5970428.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2020/1117/16/76d91ef04f93d7e566620e6bfe162416.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/54/b4534b43775c86c65b128ad5776a3954.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/a0/fce60ccdc304206a39e7928d43c86aa0.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/16/556e98867b7183730e5730e699ed0d16.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/17/c12ed59a03979e9a4e31da9acd402f17.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/25/ca66850ef70e148164923b599a182325.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/ce/8d001419672cb613b0ea5dacce05a2ce.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/d9/c72d1ef1f1c4a08b6c2b604bf6b7e2d9.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/5d/37714ae4021861a6c84f2606886c385d.jpeg"
+            "https://i114.fastpic.org/thumb/2020/1117/16/76d91ef04f93d7e566620e6bfe162416.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/54/b4534b43775c86c65b128ad5776a3954.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/a0/fce60ccdc304206a39e7928d43c86aa0.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/16/556e98867b7183730e5730e699ed0d16.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/17/c12ed59a03979e9a4e31da9acd402f17.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/25/ca66850ef70e148164923b599a182325.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/ce/8d001419672cb613b0ea5dacce05a2ce.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/d9/c72d1ef1f1c4a08b6c2b604bf6b7e2d9.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/5d/37714ae4021861a6c84f2606886c385d.jpeg"
         ],
         "description": "«Family Feud» — komandnaya igra i amerikanskoe teleshou. Russkoyazychnyy analog «Sto k odnomu» translirovalas na telekanalakh NTV (8 yanvarya 1995 — 30 dekabrya 1996), MTK (11 yanvarya — 7 iyunya 1997), «TV Tsentr» (14 iyunya 1997 — 20 sentyabrya 1998).",
         "title_id": "010060200FC44000"
@@ -29730,15 +29788,15 @@
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5789589.jpg",
         "screenshots": [
-            "https://i87.fastpic.ru/thumb/2019/1011/2c/d5e1e662ee2db7a07806b41efc79b22c.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/31/36212add0ef186b9f2487508b3e58831.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/91/43bfb157ba8d4cfa625056b917365e91.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/36/29adcd3df348205b9569cecd9c2c6336.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/d4/d99223be2d68eb2b8ebeb32ae9853dd4.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/99/d8d6dac48eb6c55866be94cba36c9999.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/b0/c2cb6a7f5306f6dd9703b8c47ea2ccb0.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/b4/e71e259d462c0a3d05d28b133cb39ab4.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/dd/c930020821a9b1e54629eb904cd3b2dd.jpeg"
+            "https://i87.fastpic.org/thumb/2019/1011/2c/d5e1e662ee2db7a07806b41efc79b22c.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/31/36212add0ef186b9f2487508b3e58831.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/91/43bfb157ba8d4cfa625056b917365e91.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/36/29adcd3df348205b9569cecd9c2c6336.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/d4/d99223be2d68eb2b8ebeb32ae9853dd4.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/99/d8d6dac48eb6c55866be94cba36c9999.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/b0/c2cb6a7f5306f6dd9703b8c47ea2ccb0.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/b4/e71e259d462c0a3d05d28b133cb39ab4.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/dd/c930020821a9b1e54629eb904cd3b2dd.jpeg"
         ],
         "description": "«Vedmak 3: Dikaya Okhota» — priklyuchencheskaya igra, deystvie kotoroy razvorachivaetsya v otkrytom fenteziynom mire. Vy budete igrat vedmakom Geraltom iz Rivii i zanimatsya okhotoy na chudovishch. Igra poluchila bolee 250 nagrad «Luchshaya igra goda».",
         "title_id": "01003D100E9C6000"
@@ -30119,15 +30177,15 @@
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5841804.jpg",
         "screenshots": [
-            "https://i111.fastpic.ru/thumb/2020/0127/71/b133ee0bec1ff1af8621c4d56530ea71.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/65/bfa6bc52cc736fb42152f7ac6668b665.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/9f/74ea5429e42dd59c3cac07d5f07ffb9f.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/1a/78999da0294a832549bc0ace5248851a.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/2e/ba961c3f669903c482a1ecdea188972e.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/23/cba8302aee1758fb701905f0773f4123.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/cf/9f581df6c8e03eca8fcd1a3c627cf5cf.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/61/00baa213309b79a0bebb50c34cc31a61.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/84/3c20a0dbdca931a6f9139344e6321384.jpeg"
+            "https://i111.fastpic.org/thumb/2020/0127/71/b133ee0bec1ff1af8621c4d56530ea71.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/65/bfa6bc52cc736fb42152f7ac6668b665.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/9f/74ea5429e42dd59c3cac07d5f07ffb9f.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/1a/78999da0294a832549bc0ace5248851a.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/2e/ba961c3f669903c482a1ecdea188972e.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/23/cba8302aee1758fb701905f0773f4123.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/cf/9f581df6c8e03eca8fcd1a3c627cf5cf.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/61/00baa213309b79a0bebb50c34cc31a61.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/84/3c20a0dbdca931a6f9139344e6321384.jpeg"
         ],
         "description": "Another Metroid 2 Remake (AM2R) — neofitsialnyy remeyk igry 1991-go goda c Game Boy Metroid II: Return of Samus v stilistike Metroid: Zero Mission (2004) ot Milton Guasti, dlya proekta sozdateli takzhe zaimstvovali elementy iz drugikh chastey serii.\n«V Project AM2R vy uznaete elementy geympleya, prisushchie Metroid: Zero Mission, atmosferu, kotoroy slavilas Super Metroid, a takzhe nakhodki iz drugikh chastey franshizy. Project Another Metroid 2 Remake — eto odin iz samykh ambitsioznykh proektov v istorii Metroid», — zayavili avtory. Etot reliz — port etoy igry ot Nikity 'tijesef' Krapivina na Switch, bez meshayushchego prokhozhdeniyu baga i s podderzhkoy russkogo yazyka, perevod ivanproff.\nChip And Dale Rescue Rangers Remastered, neofitsialnyy remeyk na GameMaker sm. zdes.",
         "title_id": null
@@ -31139,7 +31197,7 @@
         "genre": "Emulation, Homebrew",
         "developer": "Atari Corporation",
         "publisher": "K. Wilkins, libretro",
-        "image_format": "NSP",
+        "image_format": "NRO",
         "interface_lang": "英语 [ENG]",
         "voice_lang": "无语音",
         "performance": "是 (在 17.0.1, Atmosphere 1.6.2)",
@@ -31236,10 +31294,10 @@
         "multiplayer": "8kh",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5782787.jpg",
         "screenshots": [
-            "https://i86.fastpic.ru/thumb/2019/0926/1b/d37def9201ad789230306c186c46fd1b.jpeg",
-            "https://i86.fastpic.ru/thumb/2019/0926/94/eec501173f813b689ce48cf65e4a1794.jpeg",
-            "https://i86.fastpic.ru/thumb/2019/0926/5e/a06e03b54827a77566fa15e716185e5e.jpeg",
-            "https://i86.fastpic.ru/thumb/2019/0926/bf/3b703738e5e4d0bc458b8eab503ac7bf.jpeg"
+            "https://i86.fastpic.org/thumb/2019/0926/1b/d37def9201ad789230306c186c46fd1b.jpeg",
+            "https://i86.fastpic.org/thumb/2019/0926/94/eec501173f813b689ce48cf65e4a1794.jpeg",
+            "https://i86.fastpic.org/thumb/2019/0926/5e/a06e03b54827a77566fa15e716185e5e.jpeg",
+            "https://i86.fastpic.org/thumb/2019/0926/bf/3b703738e5e4d0bc458b8eab503ac7bf.jpeg"
         ],
         "description": "EA SPORTS ™ FIFA 20 Legacy Edition, gde predstavleny noveyshie komplekty, kluby i otryady iz nekotorykh vysshikh lig mira. V nem takzhe budut predstavleny nekotorye iz samykh izvestnykh v mire stadionov, v tom chisle nekotorye sovershenno novye dlya FIFA 20. Funktsii i rezhimy geympleya budut sootvetstvovat FIFA 19 na Nintendo Switch.",
         "title_id": null
@@ -31261,9 +31319,9 @@
         "multiplayer": "8x",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5952501.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2020/1009/a4/712f629e945769841c9edb13d44ebba4.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1009/66/b798a886bfaed7750f5baecdf9497066.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1009/d6/46418208bbe3a4611f40e79eaa82aad6.jpeg"
+            "https://i114.fastpic.org/thumb/2020/1009/a4/712f629e945769841c9edb13d44ebba4.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1009/66/b798a886bfaed7750f5baecdf9497066.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1009/d6/46418208bbe3a4611f40e79eaa82aad6.jpeg"
         ],
         "description": "V EA SPORTS™ FIFA 21 Legacy Edition na Nintendo Switch™ vas zhdut obnovlennye komplekty formy, kluby i sostavy luchshikh lig mira. Vy smozhete igrat na nekotorykh iz samykh izvestnykh stadionov mira, vklyuchaya novye areny, poyavivshiesya tolko v FIFA 21. Igrovoy protsess, vozmozhnosti i rezhimy budut sootvetstvovat FIFA 20 na Nintendo Switch™.\n\nIGROVOY PROTsESS\nIgrovoy protsess FIFA 21 Legacy Edition polnostyu sootvetstvuet igrovomu protsessu FIFA 20 i ne soderzhit novovvedeniy i znachimykh izmeneniy.\n\nOFORMLENIE MATChEY\nFIFA 21 Legacy Edition budet predstavlena v novom dizayne — vas zhdet novoe oformlenie glavnogo ekrana i ekranov menyu. Oformlenie translyatsiy matchey budet obnovleno vo vsekh rezhimakh.\n\nREZhIMY LEGACY\nV FIFA 21 budut vklyucheny sleduyushchie rezhimy (s vozmozhnostyami, sootvetstvuyushchimi FIFA 20):\n• Bystryy match\n• Rezhim karery\n• Turniry — litsenzirovannye i polzovatelskie, vklyuchaya UEFA Champions League\n• Women’s International Cup\n• Razvitie navykov\n• Onlayn-sezony\n• Setevye tovarishcheskie matchi\n• Lokalnye sezony\n\nFIFA ULTIMATE TEAM™\nV rezhim FIFA Ultimate Team vklyucheny:\n• Zadachi trenera\n• Odinochnye i onlayn-sezony\n• Odinochnye i setevye turniry\n• Odinochnyy draft i draft onlayn\n• Setevoy odinochnyy match\n• Ispytaniya podbora komandy",
         "title_id": "01000A001171A000"
@@ -77206,31 +77264,34 @@
         "title_id": "01003F000973E000"
     },
     {
-        "title": "Croc's World 1-4 / Run [NSZ][ENG,RUS]",
-        "size": "202.3 MB",
-        "magnet": "magnet:?xt=urn:btih:AD3094C6A2B916832C80C55ABAF6EB3C0AD6FA12&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "title": "Croc's World 1-5 / Run [NSZ][ENG,RUS]",
+        "size": "435.9 MB",
+        "magnet": "magnet:?xt=urn:btih:3828EA8EAFF7CCACA51A6DE473D35E34F9F6FFF4&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6482953",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6482953",
         "year": "Unknown",
         "genre": "Platformer, Arcade",
         "developer": "Sprakelsoft",
-        "publisher": "Sprakelsoft",
+        "publisher": "Sprakelsoft GmbH",
         "image_format": ".NSZ (已压缩 ~93%, 安装大小 2.81 GB)",
-        "interface_lang": "俄语 (1 igra), 英语 [ENG / RUS]",
+        "interface_lang": "俄语 (2 igry), 英语 [ENG / RUS]",
         "voice_lang": "无语音",
-        "performance": "是 (在 17.0.1, Atmosphere 1.6.2)",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6482953.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/ff5d8a8df44c00b278c6da6cb5414c48066f278b52be86c900090ae8cfcb76ef.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/04c8510eb8b6be977f549225f21d53847e8decd0c807d46f71317c2951796cc1.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1d41c5893b8206c659e6d8d730ca0e804678dbced297ab5b8c0b69dff80325cc.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/4c98054baeaf2a9398ce4af51f2670170e45a2df9cb04c0dd1c85aa9b8b58f38.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/ee2c36bcb7b5c34b36c2a8fecfff7da827819f10019598781580a602f4d1a236.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/d7051b85739e7bce732968c93205a5b7da9b1b964dbbbb960dcf755c15e0c28d.jpg"
+            "https://i123.fastpic.org/thumb/2024/0208/78/f3d048fee690185a193989556c31d678.jpeg",
+            "https://i123.fastpic.org/thumb/2024/0208/5a/8b6bba12b1713d980060c604c0465a5a.jpeg",
+            "https://i123.fastpic.org/thumb/2024/0208/e0/fa06e08175105e3e121b1a3d3de394e0.jpeg",
+            "https://i123.fastpic.org/thumb/2024/0208/13/d506a954615ebee6f563b1541b01a113.jpeg",
+            "https://i123.fastpic.org/thumb/2024/0208/e3/f1f58bccec625040e320c3f26ae4ace3.jpeg",
+            "https://i123.fastpic.org/thumb/2024/0208/c6/807088437e652399215633c9a8eae8c6.jpeg",
+            "https://i123.fastpic.org/thumb/2024/0208/5a/917321f5b93516e666d37d7f6ae7585a.jpeg",
+            "https://i123.fastpic.org/thumb/2024/0208/0b/3d90456f33580cd9208b79b9a0ac570b.jpeg",
+            "https://i123.fastpic.org/thumb/2024/0208/99/9a85b529980539eeba8f1b7d79ecaa99.jpeg"
         ],
-        "description": "在數百萬人玩完“鱷魚世界”的前 3 部分之後，現在是“鱷魚世界 4”的時候了！\n《Croc's World 4》是一款經典的平台遊戲，有許多新的敵人和新的轉折！\n\n其特點：\n+ 4 個島嶼上的 60 個令人難以置信的關卡！\n+ 2 個新角色：袋鼠“Roodie”和“Baby Croc”\n+ 2 種新載具：潛水艇和直升機\n+ 漂亮的圖形！\n+ 6 個不同的主題！\n+ 許多具有挑戰性的敵人\n+ 4 個邪惡的最終首領",
-        "title_id": "01006B301DF0A000"
+        "description": "«Mir krokodilchika Kroki» — eto seriya prostykh arkadnykh platformerov dlya samykh malenkikh igrokov, sozdannykh s nastoyashchim nemetskim kachestvom!\n300+ neveroyatnykh urovney + akkuratnaya HD-grafika + 15 raznykh biomov + mnozhestvo vragov: naydite shlem, chtoby razbivat kamennye bloki, otyshchite meshok s kamnyami, chtoby brosatsya imi, a esli soberyote 100 brilliantov, to poluchite dopolnitelnye zhizni!\nVklyucheny 6 igr:",
+        "title_id": "0100248029FA8000"
     },
     {
         "title": "Jerry Wanker and the Quest to get Laid (Anker and the Quest to get Love, bez tsenzury 18+) [NSZ][RUS/Multi5]",

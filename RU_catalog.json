@@ -1,5 +1,60 @@
 [
     {
+        "title": "Cubic Cosmos [NSP][ENG]",
+        "size": "1.04 GB",
+        "magnet": "magnet:?xt=urn:btih:4D5A59EAF4D0F74D1BFEF193944D5746872836E6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6922921",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6922921",
+        "year": "2026, октябрь",
+        "genre": "TCG",
+        "developer": "Inkstone Atelier",
+        "publisher": "Happy Player",
+        "image_format": "NSP",
+        "interface_lang": "Английский [ENG]",
+        "voice_lang": "не озвучивается",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "нет",
+        "cover": "https://i2.imageban.ru/out/2026/10/15/1bd948320f51a60b771f61439b564e51.png",
+        "screenshots": [
+            "https://i128.fastpic.org/thumb/2026/1015/62/ee7166c82a5e035a4eda3a43a223c662.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/1f/455d44580138b4e03ef0717de7189e1f.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/33/301eef6722aa381111ff9fc92b037833.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/c4/583450669937b2cd0c29a7b2795bc0c4.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/5b/994044c63e8073019dd9c12a18aa895b.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/2e/8291124c6370c8d7afe61544c9a12f2e.jpeg"
+        ],
+        "description": "Динамичная карточная игра!\nСоберите неудержимую армию фишек, связывайте мощные комбо и наслаждайтесь бесконечными возможностями!..",
+        "title_id": "01000500296CA000"
+    },
+    {
+        "title": "Vault of Power [NSZ][ENG]",
+        "size": "243.8 MB",
+        "magnet": "magnet:?xt=urn:btih:282F24CF154EE7BF2464178DFCA1CE7C55852B14&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6922954",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6922954",
+        "year": "2026, октябрь",
+        "genre": "Role-Playing, Roguelite",
+        "developer": "Jim Games",
+        "publisher": "Cgi Lab Games",
+        "image_format": ".NSZ (сжато ~22%, установленный объём 0.31 ГБ)",
+        "interface_lang": "Английский [ENG]",
+        "voice_lang": "не озвучивается",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "нет",
+        "cover": "https://i4.imageban.ru/out/2026/10/15/aa6d486c2993e5ed6e852a9bc113c5fb.png",
+        "screenshots": [
+            "https://i128.fastpic.org/thumb/2026/1015/4e/702277f046dc654a0c1a568a25e47a4e.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/35/3b980a48c4c33f28f1aaf3139d32f635.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/36/6050158c49ec279c74fa8c99641b7d36.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/9f/a6535e7659a68177530e7af29f564b9f.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/34/06fcfd09cccf6812907d1bcaedf8a434.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/19/a31b22f14930049f62c94ed5921a9a19.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/78/7bdf1a87bd5f5ff47573c54207798978.jpeg"
+        ],
+        "description": "Освойте мощные навыки, стратегически размещайте своих юнитов и покоряйте сложные подземелья.",
+        "title_id": "01004F302847E000"
+    },
+    {
         "title": "Silver Pines [NSZ][RUS/Multi9]",
         "size": "2.08 GB",
         "magnet": "magnet:?xt=urn:btih:B2B3298FBBFF29A30FD58F3FC1E239B2874B88D6&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -14,7 +69,7 @@
         "voice_lang": "английская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i3.imageban.ru/out/2026/10/15/d418481c24f3452fe4cd150154e386b2.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922908.jpg",
         "screenshots": [
             "https://i128.fastpic.org/thumb/2026/1015/03/c74b90b53383c52350dc7615e8effd03.jpeg",
             "https://i128.fastpic.org/thumb/2026/1015/85/2daf9d0ee2f7b5fe15ce2ba6bc3b8d85.jpeg",
@@ -44,7 +99,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i3.imageban.ru/out/2026/10/15/f197527d7399f16b7ee4507a00cf9248.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922911.jpg",
         "screenshots": [
             "https://i128.fastpic.org/thumb/2026/1015/f8/e88f4edbb342b741963e48e5795a36f8.jpeg",
             "https://i128.fastpic.org/thumb/2026/1015/ab/3c7eedf6b630ff36174a59ca569376ab.jpeg",
@@ -11225,8 +11280,8 @@
     },
     {
         "title": "Constance [NSP][RUS/Multi16]",
-        "size": "1.86 GB",
-        "magnet": "magnet:?xt=urn:btih:E60957963187E2832C80A1AEBB2723C3C99D005B&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "1.83 GB",
+        "magnet": "magnet:?xt=urn:btih:66486212D29C7D5E09A7833240CA3DDE25602C45&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6853437",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6853437",
         "year": "2026, май",
@@ -19529,19 +19584,19 @@
         "title_id": "010010501B8B2000"
     },
     {
-        "title": "Creepy Tale 1 / 2 / 3 Ingrid Penance / 4 Some Other Place [NSZ][RUS/Multi7]",
-        "size": "1.29 GB",
-        "magnet": "magnet:?xt=urn:btih:2BD6F61FD91DBB45F78283D0CC91969DCCAFEEE8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "title": "Creepy Tale 1 / 2 / 3 Ingrid Penance / 4 Some Other Place / 5 Snow Child [NSZ][RUS/Multi7]",
+        "size": "2.05 GB",
+        "magnet": "magnet:?xt=urn:btih:FAA5B979DBFE39C8BA4B1342EFCE235D13E5B53E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5918248",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5918248",
-        "year": "2020-2024",
+        "year": "2020-2026",
         "genre": "Adventure, Puzzle, Horror",
         "developer": "Creepy Brothers Studio, Deqaf Studio",
         "publisher": "No Gravity Games",
-        "image_format": ".NSZ (сжато ~72%, установленный объём 4.54 ГБ)",
+        "image_format": ".NSZ (сжато ~76%, установленный объём 8.58 ГБ)",
         "interface_lang": "Русский, Английский [RUS / ENG / Multi 7]",
         "voice_lang": "русская, английская (кроме 1-ой части)",
-        "performance": "Да (на 18.1.0, Atmosphere 1.7.1)",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5918248.jpg",
         "screenshots": [
@@ -19556,7 +19611,7 @@
             "https://i115.fastpic.org/thumb/2021/1014/5a/b808c287d3198ce0d8fbdb023eb5505a.jpeg"
         ],
         "description": "Беспечный поход за грибами вместе с братом оборачивается ужасом и затягивает героя в череду жутких событий. Брат похищен, а вы остаетесь один на один со зловещим лесом, наполненным опасностями и странными существами. Решайте головоломки, которые встречаются у вас на пути, не дайте себя поймать и спасите брата из лап нечистой силы!\nУзнайте темную историю, которая постигла некогда спокойный и миролюбивый лес, превратив его в жуткое место, наполненное злом. Возможно, именно вы сможете разгадать все тайны и спасти еще пока мирных жителей леса?",
-        "title_id": "010050B01FD30000"
+        "title_id": "0100FAB02A21E000"
     },
     {
         "title": "Snoopy and the Great Mystery Club + DLC (Снупи и Великий Клуб Тайн) [NSZ][ENG]",
@@ -29687,15 +29742,15 @@
         "multiplayer": "нет",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5989076.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2020/1226/3f/73bb47ab66f1fa0d8945b1c7df75a83f.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/0d/45cea8210df1f3af0e4e4c2c6321280d.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/2d/8bc44a30e66851c7f8181bb9e5484a2d.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/bc/c9ee006ff386f0dab9eb621d1ec65abc.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/22/1eae0fcb236972b1e85dfb54bdfc5d22.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/3a/97e81f7c83df5a3263b822336a940d3a.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/7c/f791541a5c16a2469ff22e404584c47c.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/8b/69f33bb4bf73ab4f45d56dfca7180f8b.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1226/89/fc6a1a261431e7e0b5ef9c9faad65c89.jpeg"
+            "https://i114.fastpic.org/thumb/2020/1226/3f/73bb47ab66f1fa0d8945b1c7df75a83f.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/0d/45cea8210df1f3af0e4e4c2c6321280d.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/2d/8bc44a30e66851c7f8181bb9e5484a2d.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/bc/c9ee006ff386f0dab9eb621d1ec65abc.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/22/1eae0fcb236972b1e85dfb54bdfc5d22.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/3a/97e81f7c83df5a3263b822336a940d3a.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/7c/f791541a5c16a2469ff22e404584c47c.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/8b/69f33bb4bf73ab4f45d56dfca7180f8b.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1226/89/fc6a1a261431e7e0b5ef9c9faad65c89.jpeg"
         ],
         "description": "Heroes of Might and Magic («Герои меча и магии») — фэнтезийная серия видеоигр в жанре пошаговой стратегии с элементами RPG, на данный момент включающая в себя семь основных частей. Вымышленная вселенная Heroes of Might and Magic основана на вселенной Might and Magic. События всех игр серии до пятой разворачиваются в вымышленном мире Энрот.\nHeroes of Might and Magic II: The Succession Wars + The Price of Loyalty (сокращённо Heroes II или HoMM2) — компьютерная игра в жанре пошаговой стратегии с элементами RPG, вторая часть в серии фэнтезийных игр Heroes of Might and Magic. Игра была разработана компанией New World Computing и издана The 3DO Company 1 октября 1996 года.",
         "title_id": null
@@ -30237,14 +30292,14 @@
         "multiplayer": "до 8 игроков",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5703121.jpg",
         "screenshots": [
-            "https://i110.fastpic.ru/thumb/2019/0312/71/8ea7d71afc97b53b7e5075205e276c71.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0312/da/387bec85a4b5abf558246c2a155847da.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0312/23/9b2aed9d2ee86730c35963a2fe313723.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0312/2d/_ce2911f3ecdc7bde0e101de2ffc1c42d.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0312/bc/2518d7f6e32bb2d405bd684ef31e2dbc.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0312/6d/184fe8e3f0347956a428be2993a1956d.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0425/e2/_3733743a4b0064ff4be691af2ed21de2.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0425/56/_c0f2b57aadaaf395477193ff40d92d56.jpeg"
+            "https://i110.fastpic.org/thumb/2019/0312/71/8ea7d71afc97b53b7e5075205e276c71.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0312/da/387bec85a4b5abf558246c2a155847da.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0312/23/9b2aed9d2ee86730c35963a2fe313723.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0312/2d/_ce2911f3ecdc7bde0e101de2ffc1c42d.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0312/bc/2518d7f6e32bb2d405bd684ef31e2dbc.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0312/6d/184fe8e3f0347956a428be2993a1956d.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0425/e2/_3733743a4b0064ff4be691af2ed21de2.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0425/56/_c0f2b57aadaaf395477193ff40d92d56.jpeg"
         ],
         "description": "Girls und Panzer: Dream Tank Match - танковый симулятор с милыми девушками с видом от третьего лица, основанный на одноименном аниме сериале. Вам предстоит окунуться в танковые сражения вместе с полюбившимися героинями.\nУчаствуйте в одиночных и сетевых баталиях 5x5 против компьютерных или живых противников и в фестивале «Панзефарен»!",
         "title_id": "01006DD00CC96000"
@@ -30256,7 +30311,7 @@
         "topic_id": "5900501",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5900501",
         "year": "2020, май",
-        "genre": "Dungeon crawler",
+        "genre": "Action, Role-Playing",
         "developer": "Double Eleven",
         "publisher": "Mojang",
         "image_format": ".NSZ (сжато ~48%, установленный объём 7.38 ГБ)",
@@ -30266,14 +30321,14 @@
         "multiplayer": "до 4 игроков",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5900501.jpg",
         "screenshots": [
-            "https://i112.fastpic.ru/thumb/2020/0524/a7/1eed724b95b63ea2fd64f0161c4209a7.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0524/68/b76ae58d6218bb59c9b4d27a0dd98268.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0524/cb/3c275f0600f2b6922d217e0ef9a414cb.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0524/aa/5ceca3c2a15d631105575ce9c5e93faa.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0524/10/b4a063d7cb8fca2e518bea7ea1c57810.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0524/f8/2245d5e531f09747d1b09ef50f43a7f8.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0524/3f/255b5be6d717f82c35ade1caecb5b43f.jpeg",
-            "https://i112.fastpic.ru/thumb/2020/0524/e9/11361ad2663df57bc692b577990020e9.jpeg"
+            "https://i112.fastpic.org/thumb/2020/0524/a7/1eed724b95b63ea2fd64f0161c4209a7.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0524/68/b76ae58d6218bb59c9b4d27a0dd98268.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0524/cb/3c275f0600f2b6922d217e0ef9a414cb.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0524/aa/5ceca3c2a15d631105575ce9c5e93faa.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0524/10/b4a063d7cb8fca2e518bea7ea1c57810.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0524/f8/2245d5e531f09747d1b09ef50f43a7f8.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0524/3f/255b5be6d717f82c35ade1caecb5b43f.jpeg",
+            "https://i112.fastpic.org/thumb/2020/0524/e9/11361ad2663df57bc692b577990020e9.jpeg"
         ],
         "description": "Пробивайтесь через врагов в совершенно новой динамичной игре во вселенной Minecraft по мотивам классических подземных приключений! Покоряйте подземелья в одиночку или объединяйтесь с друзьями! До четырех игроков могут вместе эпично сражаться на динамичных и разнообразных уровнях с сокровищами, чтобы спасти селян и победить Архизлодеянина!\n \nНайдите клад с новым могущественным оружием и предметами для борьбы с безжалостными ордами новых мерзких мобов. Бейтесь или убегайте по ущельям, болотам и, конечно же, шахтам! Любой искатель приключений, достаточно храбрый или глупый для исследования этого прекрасного блочного мира, должен основательно подготовиться. Так что не медлите и снаряжайтесь!\n \nКрипер подземелий! Сражайтесь с новыми мерзкими мобами в совершенно новой динамичной игре по мотивам классических подземных приключений.\nИгра по сети! До четырех игроков могут объединится и вместе сражаться в кооперативном режиме.\nСтановитесь сильнее! Открывайте десятки уникальных предметов и зачарований оружия для разрушительных приемов.\nРазнообразие! Придайте индивидуальности своему персонажу: сражайтесь в ближнем бою, отсиживайтесь вдалеке и атакуйте с расстояния или пробивайтесь через орды мобов под защитой тяжелой брони!\nЭпично! Исследуйте наполненные сокровищами уровни, чтобы победить Архизлодеянина!",
         "title_id": "01006C100EC08000"
@@ -30325,15 +30380,15 @@
         "multiplayer": "до 8 игроков",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5970428.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2020/1117/16/76d91ef04f93d7e566620e6bfe162416.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/54/b4534b43775c86c65b128ad5776a3954.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/a0/fce60ccdc304206a39e7928d43c86aa0.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/16/556e98867b7183730e5730e699ed0d16.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/17/c12ed59a03979e9a4e31da9acd402f17.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/25/ca66850ef70e148164923b599a182325.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/ce/8d001419672cb613b0ea5dacce05a2ce.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/d9/c72d1ef1f1c4a08b6c2b604bf6b7e2d9.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1117/5d/37714ae4021861a6c84f2606886c385d.jpeg"
+            "https://i114.fastpic.org/thumb/2020/1117/16/76d91ef04f93d7e566620e6bfe162416.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/54/b4534b43775c86c65b128ad5776a3954.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/a0/fce60ccdc304206a39e7928d43c86aa0.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/16/556e98867b7183730e5730e699ed0d16.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/17/c12ed59a03979e9a4e31da9acd402f17.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/25/ca66850ef70e148164923b599a182325.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/ce/8d001419672cb613b0ea5dacce05a2ce.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/d9/c72d1ef1f1c4a08b6c2b604bf6b7e2d9.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1117/5d/37714ae4021861a6c84f2606886c385d.jpeg"
         ],
         "description": "«Family Feud» — командная игра и американское телешоу. Русскоязычный аналог «Сто к одному» транслировалась на телеканалах НТВ (8 января 1995 — 30 декабря 1996), МТК (11 января — 7 июня 1997), «ТВ Центр» (14 июня 1997 — 20 сентября 1998).",
         "title_id": "010060200FC44000"
@@ -30530,15 +30585,15 @@
         "multiplayer": "нет",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5789589.jpg",
         "screenshots": [
-            "https://i87.fastpic.ru/thumb/2019/1011/2c/d5e1e662ee2db7a07806b41efc79b22c.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/31/36212add0ef186b9f2487508b3e58831.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/91/43bfb157ba8d4cfa625056b917365e91.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/36/29adcd3df348205b9569cecd9c2c6336.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/d4/d99223be2d68eb2b8ebeb32ae9853dd4.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/99/d8d6dac48eb6c55866be94cba36c9999.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/b0/c2cb6a7f5306f6dd9703b8c47ea2ccb0.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/b4/e71e259d462c0a3d05d28b133cb39ab4.jpeg",
-            "https://i87.fastpic.ru/thumb/2019/1011/dd/c930020821a9b1e54629eb904cd3b2dd.jpeg"
+            "https://i87.fastpic.org/thumb/2019/1011/2c/d5e1e662ee2db7a07806b41efc79b22c.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/31/36212add0ef186b9f2487508b3e58831.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/91/43bfb157ba8d4cfa625056b917365e91.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/36/29adcd3df348205b9569cecd9c2c6336.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/d4/d99223be2d68eb2b8ebeb32ae9853dd4.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/99/d8d6dac48eb6c55866be94cba36c9999.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/b0/c2cb6a7f5306f6dd9703b8c47ea2ccb0.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/b4/e71e259d462c0a3d05d28b133cb39ab4.jpeg",
+            "https://i87.fastpic.org/thumb/2019/1011/dd/c930020821a9b1e54629eb904cd3b2dd.jpeg"
         ],
         "description": "«Ведьмак 3: Дикая Охота» — приключенческая игра, действие которой разворачивается в открытом фэнтезийном мире. Вы будете играть ведьмаком Геральтом из Ривии и заниматься охотой на чудовищ. Игра получила более 250 наград «Лучшая игра года».",
         "title_id": "01003D100E9C6000"
@@ -30922,15 +30977,15 @@
         "multiplayer": "нет",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5841804.jpg",
         "screenshots": [
-            "https://i111.fastpic.ru/thumb/2020/0127/71/b133ee0bec1ff1af8621c4d56530ea71.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/65/bfa6bc52cc736fb42152f7ac6668b665.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/9f/74ea5429e42dd59c3cac07d5f07ffb9f.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/1a/78999da0294a832549bc0ace5248851a.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/2e/ba961c3f669903c482a1ecdea188972e.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/23/cba8302aee1758fb701905f0773f4123.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/cf/9f581df6c8e03eca8fcd1a3c627cf5cf.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/61/00baa213309b79a0bebb50c34cc31a61.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0127/84/3c20a0dbdca931a6f9139344e6321384.jpeg"
+            "https://i111.fastpic.org/thumb/2020/0127/71/b133ee0bec1ff1af8621c4d56530ea71.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/65/bfa6bc52cc736fb42152f7ac6668b665.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/9f/74ea5429e42dd59c3cac07d5f07ffb9f.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/1a/78999da0294a832549bc0ace5248851a.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/2e/ba961c3f669903c482a1ecdea188972e.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/23/cba8302aee1758fb701905f0773f4123.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/cf/9f581df6c8e03eca8fcd1a3c627cf5cf.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/61/00baa213309b79a0bebb50c34cc31a61.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0127/84/3c20a0dbdca931a6f9139344e6321384.jpeg"
         ],
         "description": "Another Metroid 2 Remake (AM2R) — неофициальный ремейк игры 1991-го года c Game Boy Metroid II: Return of Samus в стилистике Metroid: Zero Mission (2004) от Milton Guasti, для проекта создатели также заимствовали элементы из других частей серии.\n«В Project AM2R вы узнаете элементы геймплея, присущие Metroid: Zero Mission, атмосферу, которой славилась Super Metroid, а также находки из других частей франшизы. Project Another Metroid 2 Remake — это один из самых амбициозных проектов в истории Metroid», — заявили авторы. Этот релиз — порт этой игры от Никиты 'tijesef' Крапивина на Switch, без мешающего прохождению бага и с поддержкой русского языка, перевод ivanproff.\nChip And Dale Rescue Rangers Remastered, неофициальный ремейк на GameMaker см. здесь.",
         "title_id": null
@@ -31337,11 +31392,11 @@
             "https://i121.fastpic.org/thumb/2023/0304/c4/65b25f9ecc1ff27c41d2134b8176b6c4.jpeg",
             "https://i121.fastpic.org/thumb/2023/0304/59/1f70b92e7ca948e8ce2414b230db5f59.jpeg",
             "https://i121.fastpic.org/thumb/2023/0304/05/b935c29c57e66dcd594197dc8dd80305.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0107/03/73c8bf34d18c2e3eb43ac6f27718f303.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0107/5c/46de3861152ced487062c16f57eba55c.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0107/dc/ea299ce6f505f2f11ee9ab8013020bdc.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0107/d3/c296222b248b099339dc3dcc4a290dd3.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0107/c7/629f06f7f1ac8a51e1fa827b42982dc7.jpeg"
+            "https://i111.fastpic.org/thumb/2020/0107/03/73c8bf34d18c2e3eb43ac6f27718f303.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0107/5c/46de3861152ced487062c16f57eba55c.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0107/dc/ea299ce6f505f2f11ee9ab8013020bdc.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0107/d3/c296222b248b099339dc3dcc4a290dd3.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0107/c7/629f06f7f1ac8a51e1fa827b42982dc7.jpeg"
         ],
         "description": "Hatsune Miku: Project DIVA Mega Mix (Проект Дива, в Японии называется Project DIVA MEGA39s) — серия музыкальных ритм-игр, разработанных и издаваемых компаниями Sega и Crypton Future Media. Главной особенностью всей серии является использование ей технологии Vocaloid, что включает в себя песни, исполненные с помощью этой программы.\nГлавным протагонистом основной серии Hatsune Miku: Project DIVA и её спин-оффов выступает вокалоид Хацунэ Мику. При этом, здесь нередко появляются и другие вокалоиды, в большинстве своем разработанные Crypton Future Media, такие как: Кагамине Рин/Лен, Мегурине Лука, Мейко, Кайто.",
         "title_id": "0100F3100DA46000"
@@ -31452,9 +31507,9 @@
             "https://i125.fastpic.org/thumb/2025/0512/af/4bc09920703738d85a69e38c05841aaf.jpeg",
             "https://i125.fastpic.org/thumb/2025/0512/e5/79803bcdb4776e9334d091a0b7f26fe5.jpeg",
             "http://images.vfl.ru/ii/1621626184/de5c7259/34540402.png",
-            "https://i114.fastpic.ru/thumb/2021/0521/54/d3f97e557c9817a13d3b68b738fbb954.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0521/d4/227b392dba2535639c7048052cf142d4.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0521/f8/7e1d1bd3c46daf1099f56535f5d546f8.jpeg"
+            "https://i114.fastpic.org/thumb/2021/0521/54/d3f97e557c9817a13d3b68b738fbb954.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0521/d4/227b392dba2535639c7048052cf142d4.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0521/f8/7e1d1bd3c46daf1099f56535f5d546f8.jpeg"
         ],
         "description": "Милая кошко-девушка с кошачьими ушками составит вам компанию во время занятий математикой! Вы когда-нибудь хотели калькулятор с милым и необычным аниме-персонажем? Это — идеальное сочетание полезности и веселья. Приготовьтесь заниматься матешей с широкой улыбкой на лице!..\nКалькулятор Sakura Neko предлагает как базовые арифметические функции, так и продвинутый научный интерфейс для вычислений. А удобный интерфейс упрощает навигацию и выполнение всех действий.\nНаша полностью анимированная барышня по-разному реагирует, если вы вводите разные числа! Попробуйте ввести код 51339. Найдёте два других секретика?..",
         "title_id": "0100852021568000"
@@ -31974,7 +32029,7 @@
         "genre": "Emulation, Homebrew",
         "developer": "Atari Corporation",
         "publisher": "K. Wilkins, libretro",
-        "image_format": "NSP",
+        "image_format": "NRO",
         "interface_lang": "Английский [ENG]",
         "voice_lang": "не озвучивается",
         "performance": "Да (на 17.0.1, Atmosphere 1.6.2)",
@@ -32071,10 +32126,10 @@
         "multiplayer": "8х",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5782787.jpg",
         "screenshots": [
-            "https://i86.fastpic.ru/thumb/2019/0926/1b/d37def9201ad789230306c186c46fd1b.jpeg",
-            "https://i86.fastpic.ru/thumb/2019/0926/94/eec501173f813b689ce48cf65e4a1794.jpeg",
-            "https://i86.fastpic.ru/thumb/2019/0926/5e/a06e03b54827a77566fa15e716185e5e.jpeg",
-            "https://i86.fastpic.ru/thumb/2019/0926/bf/3b703738e5e4d0bc458b8eab503ac7bf.jpeg"
+            "https://i86.fastpic.org/thumb/2019/0926/1b/d37def9201ad789230306c186c46fd1b.jpeg",
+            "https://i86.fastpic.org/thumb/2019/0926/94/eec501173f813b689ce48cf65e4a1794.jpeg",
+            "https://i86.fastpic.org/thumb/2019/0926/5e/a06e03b54827a77566fa15e716185e5e.jpeg",
+            "https://i86.fastpic.org/thumb/2019/0926/bf/3b703738e5e4d0bc458b8eab503ac7bf.jpeg"
         ],
         "description": "EA SPORTS ™ FIFA 20 Legacy Edition, где представлены новейшие комплекты, клубы и отряды из некоторых высших лиг мира. В нем также будут представлены некоторые из самых известных в мире стадионов, в том числе некоторые совершенно новые для FIFA 20. Функции и режимы геймплея будут соответствовать FIFA 19 на Nintendo Switch.",
         "title_id": null
@@ -32096,9 +32151,9 @@
         "multiplayer": "8x",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5952501.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2020/1009/a4/712f629e945769841c9edb13d44ebba4.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1009/66/b798a886bfaed7750f5baecdf9497066.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1009/d6/46418208bbe3a4611f40e79eaa82aad6.jpeg"
+            "https://i114.fastpic.org/thumb/2020/1009/a4/712f629e945769841c9edb13d44ebba4.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1009/66/b798a886bfaed7750f5baecdf9497066.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1009/d6/46418208bbe3a4611f40e79eaa82aad6.jpeg"
         ],
         "description": "В EA SPORTS™ FIFA 21 Legacy Edition на Nintendo Switch™ вас ждут обновленные комплекты формы, клубы и составы лучших лиг мира. Вы сможете играть на некоторых из самых известных стадионов мира, включая новые арены, появившиеся только в FIFA 21. Игровой процесс, возможности и режимы будут соответствовать FIFA 20 на Nintendo Switch™.\n\nИГРОВОЙ ПРОЦЕСС\nИгровой процесс FIFA 21 Legacy Edition полностью соответствует игровому процессу FIFA 20 и не содержит нововведений и значимых изменений.\n\nОФОРМЛЕНИЕ МАТЧЕЙ\nFIFA 21 Legacy Edition будет представлена в новом дизайне — вас ждет новое оформление главного экрана и экранов меню. Оформление трансляций матчей будет обновлено во всех режимах.\n\nРЕЖИМЫ LEGACY\nВ FIFA 21 будут включены следующие режимы (с возможностями, соответствующими FIFA 20):\n• Быстрый матч\n• Режим карьеры\n• Турниры — лицензированные и пользовательские, включая UEFA Champions League\n• Women’s International Cup\n• Развитие навыков\n• Онлайн-сезоны\n• Сетевые товарищеские матчи\n• Локальные сезоны\n\nFIFA ULTIMATE TEAM™\nВ режим FIFA Ultimate Team включены:\n• Задачи тренера\n• Одиночные и онлайн-сезоны\n• Одиночные и сетевые турниры\n• Одиночный драфт и драфт онлайн\n• Сетевой одиночный матч\n• Испытания подбора команды",
         "title_id": "01000A001171A000"
@@ -78933,9 +78988,9 @@
         "title_id": "01003F000973E000"
     },
     {
-        "title": "Croc's World 1-4 / Run [NSZ][ENG,RUS]",
-        "size": "202.3 MB",
-        "magnet": "magnet:?xt=urn:btih:AD3094C6A2B916832C80C55ABAF6EB3C0AD6FA12&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "title": "Croc's World 1-5 / Run [NSZ][ENG,RUS]",
+        "size": "435.9 MB",
+        "magnet": "magnet:?xt=urn:btih:3828EA8EAFF7CCACA51A6DE473D35E34F9F6FFF4&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6482953",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6482953",
         "year": "Unknown",
@@ -78943,9 +78998,9 @@
         "developer": "Sprakelsoft",
         "publisher": "Sprakelsoft GmbH",
         "image_format": ".NSZ (сжато ~93%, установленный объём 2.81 ГБ)",
-        "interface_lang": "Русский (1 игра), Английский [ENG / RUS]",
+        "interface_lang": "Русский (2 игры), Английский [ENG / RUS]",
         "voice_lang": "не озвучивается",
-        "performance": "Да (на 17.0.1, Atmosphere 1.6.2)",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6482953.jpg",
         "screenshots": [
@@ -78959,8 +79014,8 @@
             "https://i123.fastpic.org/thumb/2024/0208/0b/3d90456f33580cd9208b79b9a0ac570b.jpeg",
             "https://i123.fastpic.org/thumb/2024/0208/99/9a85b529980539eeba8f1b7d79ecaa99.jpeg"
         ],
-        "description": "«Мир крокодильчика Кроки» — это серия простых аркадных платформеров для самых маленьких игроков, созданных с настоящим немецким качеством!\n300+ невероятных уровней + аккуратная HD-графика + 15 разных биомов + множество врагов: найдите шлем, чтобы разбивать каменные блоки, отыщите мешок с камнями, чтобы бросаться ими, а если соберёте 100 бриллиантов, то получите дополнительные жизни!\nВключены 5 игр:",
-        "title_id": "01006B301DF0A000"
+        "description": "«Мир крокодильчика Кроки» — это серия простых аркадных платформеров для самых маленьких игроков, созданных с настоящим немецким качеством!\n300+ невероятных уровней + аккуратная HD-графика + 15 разных биомов + множество врагов: найдите шлем, чтобы разбивать каменные блоки, отыщите мешок с камнями, чтобы бросаться ими, а если соберёте 100 бриллиантов, то получите дополнительные жизни!\nВключены 6 игр:",
+        "title_id": "0100248029FA8000"
     },
     {
         "title": "Jerry Wanker and the Quest to get Laid (Anker and the Quest to get Love, без цензуры 18+) [NSZ][RUS/Multi5]",
