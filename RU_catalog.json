@@ -1,5 +1,32 @@
 [
     {
+        "title": "Harvest Moon Echoes of Teradea [NSZ][ENG]",
+        "size": "3.52 GB",
+        "magnet": "magnet:?xt=urn:btih:B9E1CCBEEEE84CEDF9DD8C34E09415EEE4A10CC0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923274",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923274",
+        "year": "2026, октябрь",
+        "genre": "Simulator, Role-Playing, Farm",
+        "developer": "Imagica Geeq Inc.",
+        "publisher": "Natsume Inc.",
+        "image_format": ".NSZ (сжато ~18%, установленный объём 4.30 ГБ)",
+        "interface_lang": "Английский [ENG]",
+        "voice_lang": "не озвучивается",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "нет",
+        "cover": "https://i1.imageban.ru/out/2026/10/15/8ffa47f9346724b40782657581717a5c.png",
+        "screenshots": [
+            "https://i128.fastpic.org/thumb/2026/1015/cc/1cd86db96ac3bb96276bffb0a83ad3cc.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/98/e21717770421ee671502f921067d3298.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/5e/e96a1fdcafd7fed2f3e523b9dbf20f5e.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/32/78525eb333672f640c885e5c9cf54c32.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/0a/763e77eb95500f56744f5d55eb18760a.jpeg",
+            "https://i128.fastpic.org/thumb/2026/1015/1c/a03d0ace72192ceba02801bec0a0611c.jpeg"
+        ],
+        "description": "Отправляйтесь в незабываемое путешествие по волшебному миру Терадеи, где спокойная фермерская жизнь встречается с захватывающими приключениями! Загадочный туман распространяется из Леса Эха, дикие звери бродят в ночной тьме, а странные бедствия угрожают деревням по всей земле.",
+        "title_id": "0100839022642000"
+    },
+    {
         "title": "Toy Story 3 Complete edition / Disney Pixar Toy Story Retro Roundup (6 игр) [NSZ][RUS,ENG/Multi19]",
         "size": "12.81 GB",
         "magnet": "magnet:?xt=urn:btih:E52EE80844F5DC74A0B8F4E92B9AB89E1EF7E799&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -14,7 +41,7 @@
         "voice_lang": "русская (только у «Toy Story 3»), английская, французская, немецкая, итальянская, испанская, шведская, норвежская, польская, чешская, датская, португальская, финская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "до 2 игроков",
-        "cover": "https://i3.imageban.ru/out/2026/10/15/378da9c29c5acd4dfb9d486bd87c4168.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923106.jpg",
         "screenshots": [
             "https://i128.fastpic.org/thumb/2026/1015/f1/3f27dad1693f2048041e3b50f92fc7f1.jpeg",
             "https://i128.fastpic.org/thumb/2026/1015/08/90f23362f01d47891b375f067261d308.jpeg",
@@ -44,7 +71,7 @@
         "voice_lang": "японская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i5.imageban.ru/out/2026/10/15/5754b1e909bf3cf8970255a447277472.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923118.jpg",
         "screenshots": [
             "https://i128.fastpic.org/thumb/2026/1015/bb/52d7205ba7b4e22594832f42b508fbbb.jpeg",
             "https://i128.fastpic.org/thumb/2026/1015/5b/95af851046a452da48fa9bbce082485b.jpeg",
@@ -1368,8 +1395,8 @@
     },
     {
         "title": "Torchlight 1 (порт) [NRO][RUS/ENG]",
-        "size": "468.6 MB",
-        "magnet": "magnet:?xt=urn:btih:9823B9B733F8D09E98278455DB2C1223822B2068&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "467.7 MB",
+        "magnet": "magnet:?xt=urn:btih:FEA7389411DF3B3C95A8EABDD200449C0BC82791&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6918062",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6918062",
         "year": "2009",
@@ -10286,19 +10313,19 @@
         "title_id": "0100646019558000"
     },
     {
-        "title": "To the Moon / Finding Paradise [NSZ][RUS/Multi10]",
-        "size": "1.25 GB",
-        "magnet": "magnet:?xt=urn:btih:7A5F8136B2D7C9C0ADB260A1BAE99BCEEF65FDEB&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "To the Moon / Finding Paradise / A Bird Story [NSZ][RUS/Multi10]",
+        "size": "2.16 GB",
+        "magnet": "magnet:?xt=urn:btih:2119BC6BBB26AC363B8F563DF2D53B932F083024&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5836346",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5836346",
-        "year": "2020, январь - 2022, ноябрь",
+        "year": "2020, январь - 2026, октябрь",
         "genre": "Adventure, Role-Playing",
         "developer": "Freebird Games",
         "publisher": "X.D. Network",
-        "image_format": ".NSZ (сжато ~61%, установленный объём 3.24 ГБ)",
+        "image_format": ".NSZ (сжато ~60%, установленный объём 5.36 ГБ)",
         "interface_lang": "Русский, Английский [RUS / ENG / Multi 10]",
         "voice_lang": "не озвучивается",
-        "performance": "Да (на 14.1.0, Atmosphere 1.4.0)",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5836346.jpg",
         "screenshots": [
@@ -17380,12 +17407,12 @@
         "title_id": "01009970122E4000"
     },
     {
-        "title": "Just Dance JD Legacy Mod (1300+ песен Unlimited, Now, 2026 и др.) [NSP][ENG]",
-        "size": "154.58 GB",
-        "magnet": "magnet:?xt=urn:btih:8122A51A6D94C969C2210905046F41CEA7E0AF98&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "title": "Just Dance JD Legacy Mod (1400+ песен Decades of Hits, Unlimited, Now, 2026 и др.) [NSP][ENG]",
+        "size": "161.46 GB",
+        "magnet": "magnet:?xt=urn:btih:163A61D3F4261B38CA0CF2C2D6869B78619A9EE5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6734228",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6734228",
-        "year": "2025",
+        "year": "2026",
         "genre": "Music, Party, Fitness",
         "developer": "Unknown",
         "publisher": "Alexandre 'Mary Maryposah' Greff",
@@ -25804,9 +25831,9 @@
         "title_id": "010089C01E9CA000"
     },
     {
-        "title": "Touhou 11 Subterranean Animism / 10 Mountain of Faith / 9 Phantasmagoria of Flower View / Wonderful Waking World / 8 Imperishable Night / Youyoumu 7 Perfect Cherry Blossom / 6 Koumakyou the Embodiment of Scarlet Devil (порты EoSD, PCB, IN, WWW, PoFV, MOF, SA) [NRO][JAP,ENG]",
-        "size": "3.11 GB",
-        "magnet": "magnet:?xt=urn:btih:81F1F8F51D8C1F40F3F9136FDE3F5C5C7BC1D536&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "title": "Touhou 15 Legacy of Lunatic Kingdom / 11 / 10 Mountain of Faith / 9 Phantasmagoria of Flower View / Wonderful Waking World / 8 Imperishable Night / 7 Perfect Cherry Blossom / 6 Koumakyou the Embodiment of Scarlet Devil (порты EoSD, PCB, IN, WWW, PoFV, MOF, SA, LLK) [NRO][JAP,ENG]",
+        "size": "3.66 GB",
+        "magnet": "magnet:?xt=urn:btih:019A76679E10441F10BE5E86D45A6350083F30B6&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6883626",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6883626",
         "year": "2002",
@@ -34015,15 +34042,15 @@
         "multiplayer": "до 2 игроков",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5819010.jpg",
         "screenshots": [
-            "https://i111.fastpic.ru/thumb/2019/1212/28/3bc449fcdf3c57476e7fa873c5eaa328.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1212/4c/976c77870faac8023e234b065d31784c.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1212/6c/e3e23737b3fe676e4bbff5826d35226c.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1212/64/2e7ac5288826bd1e888aecd89f1f8464.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1212/45/f2251e153041e91c061da77c432fb845.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1212/d1/1d5e0e230176f7ffecdaa55e57d984d1.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1212/c2/d32bd339ef8da02f8f9394399ef606c2.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1212/33/3196c65bd32a1e66881cbf8f52c22133.jpeg",
-            "https://i111.fastpic.ru/thumb/2019/1212/81/b72ecca2db353ddb6d3b8812e3cd3c81.jpeg"
+            "https://i111.fastpic.org/thumb/2019/1212/28/3bc449fcdf3c57476e7fa873c5eaa328.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1212/4c/976c77870faac8023e234b065d31784c.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1212/6c/e3e23737b3fe676e4bbff5826d35226c.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1212/64/2e7ac5288826bd1e888aecd89f1f8464.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1212/45/f2251e153041e91c061da77c432fb845.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1212/d1/1d5e0e230176f7ffecdaa55e57d984d1.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1212/c2/d32bd339ef8da02f8f9394399ef606c2.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1212/33/3196c65bd32a1e66881cbf8f52c22133.jpeg",
+            "https://i111.fastpic.org/thumb/2019/1212/81/b72ecca2db353ddb6d3b8812e3cd3c81.jpeg"
         ],
         "description": "Действие игры разворачивается в 1787 году, во времена эры Тэнмэй в Японии. Страна охвачена ужасным злом: огонь, разорение и голод разразились по всей стране. Сидзука Годзэн, покойный дух молодой женщины, пойманной в ловушку, угрожает уничтожить весь мир. Все воины планеты сходятся, чтобы сразиться в великой битве со злыми силами и победить их!..",
         "title_id": "01002DF00F76C000"
@@ -34092,7 +34119,7 @@
         "genre": "Role-Playing, Emulation",
         "developer": "Nihon Falcom",
         "publisher": "Shedevr, PSCD, ChronoGraph",
-        "image_format": "NSP",
+        "image_format": "NRO",
         "interface_lang": "Русский, Английский [RUS / ENG]",
         "voice_lang": "не озвучивается",
         "performance": "Да (на 20.5.0, Atmosphere 1.9.5)",
@@ -34568,13 +34595,13 @@
         "multiplayer": "нет",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5856110.jpg",
         "screenshots": [
-            "https://i111.fastpic.ru/thumb/2020/0225/f1/fe14e9693b6844b00d1626f969b333f1.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0225/11/35b66841316983f81e64625946d86311.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0225/cf/a6c9a252e01d531cd097772a25cb10cf.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0225/b4/ce780905df542fab245f21157ada2db4.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0225/37/dd30d9692284b5e4e774c1fa11393637.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0225/8c/22aa95010aa37aeb64cc55f6eeac6c8c.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0225/22/e95cfceacc43d0dba67551271cdd1f22.jpeg"
+            "https://i111.fastpic.org/thumb/2020/0225/f1/fe14e9693b6844b00d1626f969b333f1.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0225/11/35b66841316983f81e64625946d86311.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0225/cf/a6c9a252e01d531cd097772a25cb10cf.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0225/b4/ce780905df542fab245f21157ada2db4.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0225/37/dd30d9692284b5e4e774c1fa11393637.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0225/8c/22aa95010aa37aeb64cc55f6eeac6c8c.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0225/22/e95cfceacc43d0dba67551271cdd1f22.jpeg"
         ],
         "description": "Вам предстоит взять на себя роль администратора клиники и ежедневно разбираться с нестандартными ситуациями, выполняя разнообразные задания. Главное – придерживаться простых правил: строить, лечить и совершенствовать в самых трудных и странных обстоятельствах!\nУправлять медицинской империей может быть нелегко, так что убедитесь, что вы знаете все особенности вашего разностороннего персонала и хорошо его обучили, если хотите одержать победу в соревновании здравоохранения округа. И не волнуйтесь, если не сможете спасти всех пациентов. Санитары, специализирующиеся на отлове привидений, готовы прийти на помощь в любой момент!..\nВерсия для Nintendo Switch включает в себя интегрированные DLC «Bigfoot» и «Pebberley Island».Игру Big Pharma / Operate Now: Hospital см. здесь, Two Point Campus тут.",
         "title_id": "010031200E045000"
@@ -34653,15 +34680,15 @@
         "multiplayer": "до 8 игроков",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5751166.jpg",
         "screenshots": [
-            "https://i110.fastpic.ru/thumb/2019/0702/41/4c9f5103471d389a54b2c82e008ee541.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0702/3b/25158826d7bed17d3782e1ea1342bf3b.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0702/3a/c05e81582fdc9f96b0d57f890a89c63a.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0702/1a/8c50343882b3a9792761054dea689a1a.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0702/09/0f9b3eb55f00a2f4927883559e63c109.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0702/46/e92cb86ff062e51e5b3039260f7a5746.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0702/5f/65fb96bc0a54f8661ba3e2c29d3f725f.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0702/7d/dfc774b035d0521fb46a64dbb3419b7d.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0702/e2/3b3838c267861cb477703b61cf3a47e2.jpeg"
+            "https://i110.fastpic.org/thumb/2019/0702/41/4c9f5103471d389a54b2c82e008ee541.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0702/3b/25158826d7bed17d3782e1ea1342bf3b.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0702/3a/c05e81582fdc9f96b0d57f890a89c63a.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0702/1a/8c50343882b3a9792761054dea689a1a.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0702/09/0f9b3eb55f00a2f4927883559e63c109.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0702/46/e92cb86ff062e51e5b3039260f7a5746.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0702/5f/65fb96bc0a54f8661ba3e2c29d3f725f.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0702/7d/dfc774b035d0521fb46a64dbb3419b7d.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0702/e2/3b3838c267861cb477703b61cf3a47e2.jpeg"
         ],
         "description": "Отриньте все страхи. A.O.T. 2 — это продолжение игры, основанной на популярном аниме «Attack on Titan».\nЭрен и его товарищи составят вам компанию в истории, повторяющей сюжет аниме. Им предстоит сражаться, чтобы спасти человечество от смертельно опасных людоедов-титанов.",
         "title_id": "010034500641A000"
@@ -34791,15 +34818,15 @@
         "multiplayer": "до 2 игроков",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5962349.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2020/1031/52/a9ed0c5e8f27c996a43d04b6effd8952.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1031/11/2a4d98c38df6872aa318d9cb44760c11.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1031/12/7d1fd516b792fe62a8e14fdf07af8012.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1031/fd/3ce5c9e8630f252f22dbc41eded945fd.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1031/3e/babe626e0ea19cd888202bd37dcb853e.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1031/1f/8a3ff579c5cd3a1022381314f62f891f.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1031/39/fdb9e11b3576d35f1647056084e96539.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1031/54/067bada91fb7ce9bf073b6dd93c1b454.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1031/35/e62b5206e0943213498a04884f6bc835.jpeg"
+            "https://i114.fastpic.org/thumb/2020/1031/52/a9ed0c5e8f27c996a43d04b6effd8952.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1031/11/2a4d98c38df6872aa318d9cb44760c11.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1031/12/7d1fd516b792fe62a8e14fdf07af8012.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1031/fd/3ce5c9e8630f252f22dbc41eded945fd.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1031/3e/babe626e0ea19cd888202bd37dcb853e.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1031/1f/8a3ff579c5cd3a1022381314f62f891f.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1031/39/fdb9e11b3576d35f1647056084e96539.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1031/54/067bada91fb7ce9bf073b6dd93c1b454.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1031/35/e62b5206e0943213498a04884f6bc835.jpeg"
         ],
         "description": "Управляйте маленьким НЛО по имени Джобски. Его везде ждет работа: помогите на ферме, поддержите чирлидеров, приготовьте лучший десерт в ресторане, стройте замки — и это только начало! Его замечательный манипулятор никогда не подведет: он захватывает, перемещает, ставит — всё, чего требует очередное задание.\n\nДело сделано? Не спешите! Тем, кто выполнит все подработки, откроется Остров сокровищ. Это рай для любителей головоломок — череда комнат, одна сложнее другой, которые можно исследовать в совместном режиме!",
         "title_id": "01006B5012B32000"
