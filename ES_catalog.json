@@ -14,7 +14,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i7.imageban.ru/out/2026/10/16/93cb852bb2829478b8b44a88caf78012.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923564.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/a1fff3d232236585b18afc869bba1c69b883cc0bce806b65bc9c6c8731aff01f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/eaa307ce13efc6e3215a6dc389764417380e4c5c85cbe07ba701d142fa08a211.jpg",
@@ -41,7 +41,7 @@
         "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i8.imageban.ru/out/2026/10/16/bba52fec0c0fac0c4d4fcd7eb1fe0dab.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
         "screenshots": [
             "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
             "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
@@ -87,9 +87,9 @@
         "title_id": "0100B04026946000"
     },
     {
-        "title": "Prototype (port ) [NRO][RUS]",
+        "title": "Prototype (port ) [NRO][RUS/ENG]",
         "size": "7.06 GB",
-        "magnet": "magnet:?xt=urn:btih:B27245A565A5381EA0ECF0309099C36CD03FBABF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:B99F78A867719151988457376B4F5A5FFBDCEF84&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6923419",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6923419",
         "year": "2009",
@@ -97,7 +97,7 @@
         "developer": "Radical Entertainment",
         "publisher": "Unknown",
         "image_format": "NRO",
-        "interface_lang": "Ruso [RUS]",
+        "interface_lang": "Ruso, Inglés [RUS/ENG]",
         "voice_lang": "Ruso",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
@@ -486,7 +486,7 @@
         "title_id": "0100928026668000"
     },
     {
-        "title": "Flatout 2 (homebrew) [NRO][ENG]",
+        "title": "Flatout 2 (homebrew) [NRO][RUS/ENG]",
         "size": "4.62 GB",
         "magnet": "magnet:?xt=urn:btih:A54FFB1D897F07C96D00AB15E962E0BC3C7F119D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6922509",
@@ -40718,15 +40718,15 @@
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5895044.jpg",
         "screenshots": [
-            "https://i111.fastpic.ru/thumb/2020/0512/c4/02b16502f056d853ff9c51b8cd4074c4.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0513/b2/bc2787cd70fc5fb0ba6c57b91ffdc9b2.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0513/ee/aaac21643d39d130186363d07a3193ee.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0513/4d/42d4be1a75d224093599c9d9521af34d.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0513/a9/60b3bd018cf5fa03aff3fcf7494e9da9.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0513/55/5ca9ac17068ea177fe82a5ec48eb7155.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0513/81/e87adce17a9ebaee2a0e639212451981.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0513/a9/a18ab9742b631e3995cc2fa83fcecda9.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0513/0a/a1e1691859cad948af813cae7be43b0a.jpeg"
+            "https://i111.fastpic.org/thumb/2020/0512/c4/02b16502f056d853ff9c51b8cd4074c4.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0513/b2/bc2787cd70fc5fb0ba6c57b91ffdc9b2.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0513/ee/aaac21643d39d130186363d07a3193ee.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0513/4d/42d4be1a75d224093599c9d9521af34d.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0513/a9/60b3bd018cf5fa03aff3fcf7494e9da9.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0513/55/5ca9ac17068ea177fe82a5ec48eb7155.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0513/81/e87adce17a9ebaee2a0e639212451981.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0513/a9/a18ab9742b631e3995cc2fa83fcecda9.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0513/0a/a1e1691859cad948af813cae7be43b0a.jpeg"
         ],
         "description": "Nintendo GameCube (ニンテンドーゲームキューブ Nintendo: Ge:mukyu:bu); ofitsialnoe sokrashchenie GCN ili NGC — chetvyortaya domashnyaya igrovaya konsol ot Nintendo, otnositsya k shestomu pokoleniyu igrovykh sistem.\nSerdtsem sistemy byl 485 MHz IBM Gekko PowerPC CPU na osnove 750CXe, tekhprotsess 180 nm, razmer 43 mm², 4.9 W,",
         "title_id": null
@@ -40775,15 +40775,15 @@
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5732500.jpg",
         "screenshots": [
-            "https://i110.fastpic.ru/thumb/2019/0516/db/f325cc56f0eb3c2009ab6f5ea67efadb.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0516/47/247c0ed1a66e3e739b84917cff6fae47.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0516/cb/3db30e58fd44d6aa9579b89fc017bacb.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0516/0e/1af42269756ad94eca79d9563317810e.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0516/8b/15b74aa8469139e3ea5f5a4186791a8b.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0516/98/2d8a30cdb6e9cd760c14d0d5884ae498.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0516/c6/7777d75ba63f32f7277fe9689adcc1c6.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0516/15/79a2df9830e7e1ea9647cb2293cc4215.jpeg",
-            "https://i109.fastpic.ru/thumb/2019/0516/f9/13bfe98cd01cc50025c2dace7bce5bf9.jpeg"
+            "https://i110.fastpic.org/thumb/2019/0516/db/f325cc56f0eb3c2009ab6f5ea67efadb.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0516/47/247c0ed1a66e3e739b84917cff6fae47.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0516/cb/3db30e58fd44d6aa9579b89fc017bacb.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0516/0e/1af42269756ad94eca79d9563317810e.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0516/8b/15b74aa8469139e3ea5f5a4186791a8b.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0516/98/2d8a30cdb6e9cd760c14d0d5884ae498.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0516/c6/7777d75ba63f32f7277fe9689adcc1c6.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0516/15/79a2df9830e7e1ea9647cb2293cc4215.jpeg",
+            "https://i109.fastpic.org/thumb/2019/0516/f9/13bfe98cd01cc50025c2dace7bce5bf9.jpeg"
         ],
         "description": "V razdache nakhoditsya MAME — emulyator, razrabotannyy dlya vossozdaniya elektronnogo oborudovaniya arkadnykh avtomatov v vide programmnogo obespecheniya, s tselyu sokhraneniya istorii igr i predotvrashcheniya ischeznoveniya starykh igr (nazvanie programmy yavlyaetsya akronimom dlya Multiple Arcade Machine Emulator — emulyator mnozhestva arkadnykh mashin), plyus 3244 igry iz podderzhivaemogo romseta v0.72 + Release4.\nArkadnyy avtomat (arcade machine, coin-op) — stoyka s apparaturoy dlya zapuska igr, obychno arkadnogo zhanra. Mnogie izvestnye kompyuternye igry vpervye poyavilis na igrovykh avtomatakh i lish spustya nekotoroe vremya byli portirovany na pristavki i domashnie kompyutery. S drugoy storony, igrovye avtomaty inogda sobirayutsya na osnove obychnykh kompyuterov i igrovykh pristavok.\nMAME 2003 Plus + 4859 igr («mnozhestvo arkadnykh mashin», Full Non-Merged Reference Set 2018) sm. zdes.\nPoka rabotaet tolko s OFW 9.0.0.",
         "title_id": null
@@ -41019,15 +41019,15 @@
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5914201.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2020/1119/82/888fd0d7c605572f57d9b8698a6df982.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1119/1c/e35a9938894085c64f4e7f6deeffee1c.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1119/ad/833fd2ec94170eec2fd6a70344c5f3ad.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1119/3e/260e4a9cf09da8edd3e97eab47aad23e.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1119/1f/4d89424fc5c9a36c96e91676487fa41f.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1119/87/fcb2de75065b0b6f187ab443243ea487.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1119/35/db75f2c771fdf8fa00e1a8ae9cd05e35.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1119/f5/61d05aebb220a759b873df980175e8f5.jpeg",
-            "https://i114.fastpic.ru/thumb/2020/1119/bd/dcdc4b4ed7c7e39b08ac815409ac1dbd.jpeg"
+            "https://i114.fastpic.org/thumb/2020/1119/82/888fd0d7c605572f57d9b8698a6df982.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1119/1c/e35a9938894085c64f4e7f6deeffee1c.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1119/ad/833fd2ec94170eec2fd6a70344c5f3ad.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1119/3e/260e4a9cf09da8edd3e97eab47aad23e.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1119/1f/4d89424fc5c9a36c96e91676487fa41f.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1119/87/fcb2de75065b0b6f187ab443243ea487.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1119/35/db75f2c771fdf8fa00e1a8ae9cd05e35.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1119/f5/61d05aebb220a759b873df980175e8f5.jpeg",
+            "https://i114.fastpic.org/thumb/2020/1119/bd/dcdc4b4ed7c7e39b08ac815409ac1dbd.jpeg"
         ],
         "description": "Postroyte kareru voditelya nastoyashchego brutalnogo gruzovika! Perevozite raznoobraznye gruzy i zasluzhite khoroshuyu reputatsiyu u mestnogo naseleniya. Nachnite s nizov, berite zakazy, pokupayte novye gruzoviki i zapchasti, stanovites uvazhaemym voditelem — i budte schastlivy!\nVy poluchaete gruzovik v nasledstvo ot svoego ottsa i reshaete popytat schastya v ognyakh bolshogo goroda. Zdes vy smozhete sdelat sebe imya i zavoevat uvazhenie mestnykh zhiteley: razezzhayte po dorogam otkrytogo mira, rabotayte s raznymi lyudmi, i dostigayte uspekha!",
         "title_id": "0100AAD01E04B000"
