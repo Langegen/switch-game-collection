@@ -1,10 +1,40 @@
 {
   "version": 1,
-  "generated_at": 1792256434,
+  "generated_at": 1792268962,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
     "ru": [
+      {
+        "title": "Tenebris Somnia [RePack][NSP][RUS (Mod.)/ENG]",
+        "size": "1.04 GB",
+        "magnet": "magnet:?xt=urn:btih:6A17F1D4E162B9AD9B1607CC24DA19AF7BF555DC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6924084",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6924084",
+        "year": "2026, октябрь",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Андрес Борги, Тобиас Русьян",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP, репак",
+        "interface_lang": "Английский [ENG] + машинный перевод от Onzi",
+        "voice_lang": "английская",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "нет",
+        "cover": "https://i6.imageban.ru/out/2026/10/17/255a46b0a46142f12fbabd015fbc1e2e.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/ae/69f2e138403ffddcc42805ea9cc1fcae.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/38/027fdab658b595a9c370d2ec0f166538.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/04/df6463a6d11e3dcb791fe659ddabe504.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/17/bb14fc3c3e460a9a759ab192c86e4317.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/51/47362db297779aedb541d0438ce80651.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f2/b54ceb0078907e3ee74bb7607f74cbf2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f3/47559f5e6dd8a86b7f7697a0f5a32df3.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/d9/d402456d1776568408499970b29d2dd9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/cc/77162131845e82afbc40921a45a3accc.jpeg"
+        ],
+        "description": "Горячая смесь классического приключенческого point-&-click 2D-экшн-хоррора на выживание в стиле LucasArts Maniac Mansion, включающий в себя полнометражные кат-сцены с участием живых актёров!..\nНад проектом работала отмеченная многочисленными наградами съемочная киногруппа из Аргентины. Погрузитесь в пугающую историю, решая головоломки и сражаясь с жуткими созданиями.\nВ главных ролях: Мария-Евгения Ригон, Клара Ковачич, Педро Мерло, Эстебан Прол, Флоренсия Ансальдо, Андрес Борги, Рикардо Кастро, Вик Чикута, Флор Фиори, Вирджиния Гарофало, Марианна Леттьери, Селеста Ногера, Эдуардо Педуто, Карлос Пиньейро, Тобиас Русжан, Мауро Серафини, Бьянка Темперини, Лаура Вич.Ещё FMV-игры.",
+        "title_id": "0100CD7028862000"
+      },
       {
         "title": "Lost Odyssey (порт) [NRO][ENG]",
         "size": "21.85 GB",
@@ -20,7 +50,7 @@
         "voice_lang": "английская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i7.imageban.ru/out/2026/10/17/74533c380b5ea89898dbbe22db209fd3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6924019.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/cf/6ace111f64ffd0a9894507147acfeccf.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/67/fb5bea2d9a77d6c3618658d376649467.jpeg",
@@ -32,7 +62,7 @@
           "https://i128.fastpic.org/thumb/2026/1017/4d/b40f372b831e2be1605fdf5f8e21904d.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/63/33295d7a36b1ca3d00ebfb8e8d8f2663.jpeg"
         ],
-        "description": "Магическая энергия всегда содержалась в живых существах, но её мощь сильно возросла за 30 лет до начала событий игры. Это сильно повлияло на общество благодаря созданию устройства «Магический Двигатель», с помощью которого появилась возможность использовать магическую силу для освещения, автомобилей, связи, роботов, а также для других целей. Если раньше только избранные могли использовать магию, то сейчас очень многие получили эту возможность.\nЭтот прогресс также вызвал желание у двух наций: королевства Гохтза, и Республики Ухра, недавно изменённого монархического общества; разработать новые и более мощные оружия массового поражения. Ухра строят Великий Посох, гигантский магический двигатель, в то время как высоко индустриализированные Гохтза активно изучают магию внутри себя. Третья нация, Свободные океанские штаты Нумары, остается изолированной и нейтральной, но в ней начинается беспорядок из-за попыток совершения Путча Ухра воюет с Кхентами, нацией звере-людей, они посылают свои силы в горы Уол для окончательной битвы, где и начинается игра!..\nLost Odyssey, япон. ロストオデッセイ Росуто одэссэй, или «Потерянная одиссея» — японская ролевая игра, изданная Microsoft Game Studios эксклюзивно для Xbox 360. Lost Odyssey была создана Хиронобу Сакагути, создателем знаменитой серии Final Fantasy. Это третий проект Сакагути вне Square Enix, после ASH: Archaic Sealed Heat и Blue Dragon. Игрок управляет персонажем по имени Каим, человеком, который живёт уже тысячу лет и ничего не помнит о своём прошлом, и начинает в мире, в котором близится магическая «промышленная революция»: Каим борется с возвращением своей памяти, и болью, которая она приносит. Famitsu присудило игре 36/40, все четыре критика поставили девятки.\nВидеотрейлер.",
+        "description": "Магическая энергия всегда содержалась в живых существах, но её мощь сильно возросла за 30 лет до начала событий игры. Это сильно повлияло на общество благодаря созданию устройства «Магический Двигатель», с помощью которого появилась возможность использовать магическую силу для освещения, автомобилей, связи, роботов, а также для других целей. Если раньше только избранные могли использовать магию, то сейчас очень многие получили эту возможность.\nЭтот прогресс также вызвал желание у двух наций, королевства Гохтза и республики Ухра, недавно изменённого монархического общества; разработать новые и более мощные оружия массового поражения. Ухра строят Великий Посох, гигантский магический двигатель, в то время как высоко индустриализированные Гохтза активно изучают магию внутри себя. Третья нация, Свободные океанские штаты Нумары, остается изолированной и нейтральной, но в ней начинается беспорядок из-за попыток совершения Путча Ухра воюет с Кхентами, нацией звере-людей, они посылают свои силы в горы Уол для окончательной битвы, где и начинается игра!..\nLost Odyssey, япон. Росуто одэссэй ロストオデッセイ, или «Потерянная одиссея» — японская ролевая игра, изданная Microsoft Game Studios эксклюзивно для Xbox 360. Lost Odyssey была создана Хиронобу Сакагути, создателем знаменитой серии Final Fantasy. Это третий проект Сакагути вне Square Enix, после ASH: Archaic Sealed Heat и Blue Dragon. Игрок управляет персонажем по имени Каим, человеком, который живёт уже тысячу лет и ничего не помнит о своём прошлом, и начинает в мире, в котором близится магическая «промышленная революция»: Каим борется с возвращением своей памяти, и болью, которая она приносит. Famitsu присудило игре 36/40, все четыре критика поставили девятки.\nВидеотрейлер.",
         "title_id": null
       },
       {
@@ -50,7 +80,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
-        "cover": "https://i5.imageban.ru/out/2026/10/17/8d7c11fd732ffc7a0160c0af0c600166.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923956.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/97/05a91a79fe7428f8dc1d0c606d7bc297.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/13/2cc46534baa519f57a2cad4233110513.jpeg",
@@ -62,8 +92,38 @@
           "https://i128.fastpic.org/thumb/2026/1017/98/c3dd451bc795f8282839978fbb4fc998.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/7b/920091d61b62015b625b1c108bb0a97b.jpeg"
         ],
-        "description": "«Наши слова — как капли вытекающей крови. Только горе в полной мере раскрывает людей.» ~©\nИгра предназначена исключительно для взрослой аудитории со стабильной психикой: крайняя жестокость и кровавость распространены повсеместно в подземельях, есть демонстрация использования наркотиков и поднимаются тяжёлые темы, от самоистязания до сексуального насилия. Все они — неотъемлемая часть создания мира и присутствуют, чтобы создать особую мрачную атмосферу, которая покажет, как далеко человек может зайти в своём стремлении выжить.\nДействие разворачивается в фэнтези средневековье в подземельях страха и голода, расположенных на территории королевства Рондон, аналога Франции и Великобритании, в 1590 году. На выбор предоставляется четыре персонажа: Наёмник, Рыцарь, Тёмный Жрец и Чужеземец. Герои отправляются в подземелья ради одной цели — отыскать заточённого в них человека по имени Ле’Гард. У каждого персонажа свой мотив на спуск и своя предыстория. В основе мира игры находятся древние боги, такие как Гро-Горот, бог разрушения и жертвоприношений, и Сильвиан, богиня любви и творения. Они являются крайне могущественными существами, которым поклоняются отдельные фракции людей. Также в мире существуют новые боги, смертные, воссевшие на троне Вознесения в легендарном городе богов Ма’Хавре.\nИгра имеет с десяток возможных концовок.",
+        "description": "«Наши слова — как капли вытекающей крови. Только горе в полной мере раскрывает людей.» ~©\nИгра предназначена исключительно для взрослой аудитории со стабильной психикой: крайняя жестокость и кровавость распространены повсеместно в подземельях, есть демонстрация использования наркотиков и поднимаются тяжёлые темы, от самоистязания до сексуального насилия. Все они — неотъемлемая часть создания мира и присутствуют, чтобы создать особую мрачную атмосферу, которая покажет, как далеко человек может зайти в своём стремлении выжить.\nДействие разворачивается в фэнтези-средневековье, подземельях страха и голода, расположенных на территории королевства Рондон, аналога Франции и Великобритании в 1590 году XVI века. На выбор предоставляется четыре персонажа: Наёмник, Рыцарь, Тёмный Жрец и Чужеземец. Герои отправляются в подземелья ради одной цели — отыскать заточённого в них человека по имени Ле’Гард. У каждого персонажа свой мотив на спуск и своя предыстория. В основе мира находятся древние боги, такие как Гро-Горот, бог разрушения и жертвоприношений, и Сильвиан, богиня любви и творения. Они являются крайне могущественными существами, которым поклоняются отдельные фракции людей. Также в мире существуют новые боги, смертные, воссевшие на троне Вознесения в легендарном городе богов Ма’Хавре.\nИгра имеет с десяток возможных концовок.",
         "title_id": null
+      },
+      {
+        "title": "Tenebris Somnia [NSP][ENG]",
+        "size": "15.4 GB",
+        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923613",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
+        "year": "2026, октябрь",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Андрес Борги, Тобиас Русьян",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP",
+        "interface_lang": "Английский [ENG]",
+        "voice_lang": "английская",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "нет",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
+        ],
+        "description": "Горячая смесь классического приключенческого point-&-click 2D-экшн-хоррора на выживание в стиле LucasArts Maniac Mansion, включающий в себя полнометражные кат-сцены с участием живых актёров!..\nНад проектом работала отмеченная многочисленными наградами съемочная киногруппа из Аргентины. Погрузитесь в пугающую историю, решая головоломки и сражаясь с жуткими созданиями.\nВ главных ролях: Мария-Евгения Ригон, Клара Ковачич, Педро Мерло, Эстебан Прол, Флоренсия Ансальдо, Андрес Борги, Рикардо Кастро, Вик Чикута, Флор Фиори, Вирджиния Гарофало, Марианна Леттьери, Селеста Ногера, Эдуардо Педуто, Карлос Пиньейро, Тобиас Русжан, Мауро Серафини, Бьянка Темперини, Лаура Вич.Ещё FMV-игры. Версия с ухудшенным качеством видео тут.",
+        "title_id": "0100CD7028862000"
       },
       {
         "title": "Spica Adventure [NSZ][ENG]",
@@ -211,36 +271,6 @@
         ],
         "description": "Необычный фитнес-файтинг для Nintendo Switch, предлагающий особый способ битвы — нужно сражаться своим джойконом около попы!\nДа, суть игры в том, чтобы разместить контроллер в заднем кармане брюк (или просто закрепить позади за поясом), и начать активно двигать бёдрами. Ваши движения напрямую управляют виртуальными персонажами на экране, которые сражаются, размахивая мечами! Весёлый файтинг с простым, но невероятно увлекательным геймплеем: для победы нужно встряхнуть оппонента и метко нанести удар мечом. В игре представлено 6 персонажей с разными боевыми стилями и спец. способностями, а для максимального успеха важно правильно выбрать тактику и не жалеть энергии тела на танцевальные движения. Проект ориентирован на дружеские вечеринки, соревнования с друзьями и тех, кто ценит игры с юмором и активной физической составляющей. Помимо основного режима дуэлей, разработчики обещают дополнительные испытания и варианты кастомизации персонажей.\nИгра идеально вписывается в список необычных развлечений консоли, где физическая активность становится неотъемлемой частью процесса.",
         "title_id": "010045B01FAF8000"
-      },
-      {
-        "title": "Tenebris Somnia [NSP][ENG]",
-        "size": "15.4 GB",
-        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6923613",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
-        "year": "2026, октябрь",
-        "genre": "FMV, Horror, Adventure, Action, Point & Click",
-        "developer": "Saibot Studios, Андрес Борги, Тобиас Русьян",
-        "publisher": "New Blood Interactive",
-        "image_format": "NSP",
-        "interface_lang": "Английский [ENG]",
-        "voice_lang": "английская",
-        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "нет",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
-        ],
-        "description": "Горячая смесь классического приключенческого point-&-click 2D-экшн-хоррора на выживание в стиле LucasArts Maniac Mansion, включающий в себя полнометражные кат-сцены с участием живых актёров!..\nНад проектом работала отмеченная многочисленными наградами съемочная киногруппа из Аргентины. Погрузитесь в пугающую историю, решая головоломки и сражаясь с жуткими созданиями.\nВ главных ролях: Мария-Евгения Ригон, Клара Ковачич, Педро Мерло, Эстебан Прол, Флоренсия Ансальдо, Андрес Борги, Рикардо Кастро, Вик Чикута, Флор Фиори, Вирджиния Гарофало, Марианна Леттьери, Селеста Ногера, Эдуардо Педуто, Карлос Пиньейро, Тобиас Русжан, Мауро Серафини, Бьянка Темперини, Лаура Вич.Ещё FMV-игры.",
-        "title_id": "0100CD7028862000"
       },
       {
         "title": "Content Warning [NSZ][RUS/Multi13]",
@@ -1473,6 +1503,36 @@
     ],
     "en": [
       {
+        "title": "Tenebris Somnia [RePack][NSP][RUS (Mod.)/ENG]",
+        "size": "1.04 GB",
+        "magnet": "magnet:?xt=urn:btih:6A17F1D4E162B9AD9B1607CC24DA19AF7BF555DC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6924084",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6924084",
+        "year": "2026, October",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP, repack",
+        "interface_lang": "English [ENG] + machine translation by Onzi",
+        "voice_lang": "English",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://i6.imageban.ru/out/2026/10/17/255a46b0a46142f12fbabd015fbc1e2e.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/ae/69f2e138403ffddcc42805ea9cc1fcae.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/38/027fdab658b595a9c370d2ec0f166538.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/04/df6463a6d11e3dcb791fe659ddabe504.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/17/bb14fc3c3e460a9a759ab192c86e4317.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/51/47362db297779aedb541d0438ce80651.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f2/b54ceb0078907e3ee74bb7607f74cbf2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f3/47559f5e6dd8a86b7f7697a0f5a32df3.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/d9/d402456d1776568408499970b29d2dd9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/cc/77162131845e82afbc40921a45a3accc.jpeg"
+        ],
+        "description": "A hot blend of classic point-&-click adventure 2D action-survival horror in the style of LucasArts Maniac Mansion, including full-length cutscenes with live actors!..\nAn award-winning film crew from Argentina worked on the project. Immerse yourself in a frightening story as you solve puzzles and fight creepy creatures.\nStarring: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.More FMV games.",
+        "title_id": "0100CD7028862000"
+      },
+      {
         "title": "Lost Odyssey (port ) [NRO][ENG]",
         "size": "21.85 GB",
         "magnet": "magnet:?xt=urn:btih:B186C549E9620DD86D8AC7B7B2882C4B2396F3C7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -1487,7 +1547,7 @@
         "voice_lang": "English",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i7.imageban.ru/out/2026/10/17/74533c380b5ea89898dbbe22db209fd3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6924019.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/cf/6ace111f64ffd0a9894507147acfeccf.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/67/fb5bea2d9a77d6c3618658d376649467.jpeg",
@@ -1499,7 +1559,7 @@
           "https://i128.fastpic.org/thumb/2026/1017/4d/b40f372b831e2be1605fdf5f8e21904d.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/63/33295d7a36b1ca3d00ebfb8e8d8f2663.jpeg"
         ],
-        "description": "Magical energy has always been contained in living beings, but its power has increased greatly 30 years before the events of the game. This greatly influenced society through the creation of the \"Magic Engine\" device, which made it possible to use magical power for lighting, cars, communications, robots, and other purposes. If previously only a select few could use magic, now many have received this opportunity.\nThis progress also created the desire of two nations: the Kingdom of Gohtz, and the Republic of Uhra, a newly reformed monarchical society; develop new and more powerful weapons of mass destruction. The Uhra build the Great Staff, a gigantic magical engine, while the highly industrialized Gohtza actively study the magic within themselves. The third nation, the Free Ocean States of Numara, remains isolated and neutral, but falls into disarray due to attempts at a Putsch. Uhra fights the Khents, a nation of beast-men, and they send their forces to the Wal Mountains for the final battle, where the game begins!...\nLost Odyssey, Japanese. ロストオデッセイ Rosuto odessey, or Lost Odyssey, is a Japanese role-playing game published by Microsoft Game Studios exclusively for the Xbox 360. Lost Odyssey was created by Hironobu Sakaguchi, creator of the famous Final Fantasy series. This is Sakaguchi's third project outside of Square Enix, following ASH: Archaic Sealed Heat and Blue Dragon. The player controls a character named Kaim, a man who has lived for a thousand years with no memory of his past, and begins in a world in which a magical \"industrial revolution\" is approaching: Kaim struggles with regaining his memory, and the pain it brings. Famitsu gave the game a score of 36/40, with all four critics giving it nines.\nVideo trailer.",
+        "description": "Magical energy has always been contained in living beings, but its power has increased greatly 30 years before the events of the game. This greatly influenced society through the creation of the \"Magic Engine\" device, which made it possible to use magical power for lighting, cars, communications, robots, and other purposes. If previously only a select few could use magic, now many have received this opportunity.\nThis progress also created a desire among the two nations, the Kingdom of Gohtz and the Republic of Uhra, for a newly reformed monarchical society; develop new and more powerful weapons of mass destruction. The Uhra build the Great Staff, a gigantic magical engine, while the highly industrialized Gohtza actively study the magic within themselves. The third nation, the Free Ocean States of Numara, remains isolated and neutral, but falls into disarray due to attempts at a Putsch. Uhra fights the Khents, a nation of beast-men, and they send their forces to the Wal Mountains for the final battle, where the game begins!...\nLost Odyssey, Japanese. Rosuto odessey ロストオデッセイ, or Lost Odyssey, is a Japanese role-playing game published by Microsoft Game Studios exclusively for the Xbox 360. Lost Odyssey was created by Hironobu Sakaguchi, creator of the famous Final Fantasy series. This is Sakaguchi's third project outside of Square Enix, following ASH: Archaic Sealed Heat and Blue Dragon. The player controls a character named Kaim, a man who has lived for a thousand years with no memory of his past, and begins in a world in which a magical \"industrial revolution\" is approaching: Kaim struggles with regaining his memory, and the pain it brings. Famitsu gave the game a score of 36/40, with all four critics giving it nines.\nVideo trailer.",
         "title_id": null
       },
       {
@@ -1517,7 +1577,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/10/17/8d7c11fd732ffc7a0160c0af0c600166.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923956.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/97/05a91a79fe7428f8dc1d0c606d7bc297.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/13/2cc46534baa519f57a2cad4233110513.jpeg",
@@ -1529,8 +1589,38 @@
           "https://i128.fastpic.org/thumb/2026/1017/98/c3dd451bc795f8282839978fbb4fc998.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/7b/920091d61b62015b625b1c108bb0a97b.jpeg"
         ],
-        "description": "“Our words are like drops of flowing blood. Only grief fully reveals people.” ~©\nThe game is intended exclusively for an adult audience with a stable psyche: extreme cruelty and bloodiness are common throughout the dungeons, there is a demonstration of the use of drugs and difficult topics are raised, from self-torture to sexual violence. All of them are an integral part of the creation of the world and are present to create a special dark atmosphere that shows how far a person can go in his quest to survive.\nThe action takes place in medieval fantasy in the dungeons of fear and hunger, located on the territory of the kingdom of Rondon, an analogue of France and Great Britain, in 1590. There are four characters to choose from: Mercenary, Knight, Dark Priest and Outlander. The heroes go into the dungeons for one purpose - to find a man imprisoned in them named Le'Gard. Each character has their own motive for the descent and their own backstory. At the heart of the game's world are ancient gods such as Gro-Goroth, the god of destruction and sacrifice, and Sylvian, the goddess of love and creation. They are extremely powerful beings who are worshiped by certain factions of people. There are also new gods in the world, mortals who sit on the throne of Ascension in the legendary city of the gods Ma'Havra.\nThe game has a dozen possible endings.",
+        "description": "“Our words are like drops of flowing blood. Only grief fully reveals people.” ~©\nThe game is intended exclusively for an adult audience with a stable psyche: extreme cruelty and bloodiness are common throughout the dungeons, there is a demonstration of the use of drugs and difficult topics are raised, from self-torture to sexual violence. All of them are an integral part of the creation of the world and are present to create a special dark atmosphere that shows how far a person can go in his quest to survive.\nThe action takes place in the fantasy Middle Ages, dungeons of fear and hunger, located on the territory of the kingdom of Rondon, an analogue of France and Great Britain in 1590 of the 16th century. There are four characters to choose from: Mercenary, Knight, Dark Priest and Outlander. The heroes go into the dungeons for one purpose - to find a man imprisoned in them named Le'Gard. Each character has their own motive for the descent and their own backstory. At the heart of the world are ancient gods such as Gro-Goroth, the god of destruction and sacrifice, and Sylvian, the goddess of love and creation. They are extremely powerful beings who are worshiped by certain factions of people. There are also new gods in the world, mortals who sit on the throne of Ascension in the legendary city of the gods Ma'Havra.\nThe game has a dozen possible endings.",
         "title_id": null
+      },
+      {
+        "title": "Tenebris Somnia [NSP][ENG]",
+        "size": "15.4 GB",
+        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923613",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
+        "year": "2026, October",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP",
+        "interface_lang": "English [ENG]",
+        "voice_lang": "English",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
+        ],
+        "description": "A hot blend of classic point-&-click adventure 2D action-survival horror in the style of LucasArts Maniac Mansion, including full-length cutscenes with live actors!..\nAn award-winning film crew from Argentina worked on the project. Immerse yourself in a frightening story as you solve puzzles and fight creepy creatures.\nStarring: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.More FMV games. A version with degraded video quality is here.",
+        "title_id": "0100CD7028862000"
       },
       {
         "title": "Spica Adventure [NSZ][ENG]",
@@ -1670,36 +1760,6 @@
         ],
         "description": "Ketsu Butler is a hilarious action game in which players fight by shaking their butts!\n\nWhen you set the Joy-Con™ on your pants and swing it, Ketsu Batller on the screen will also swing his sword in time with your movement! Hit your opponent in the head with your sword and win the game!\n\nEach of the six Ketsu Batller players has a different personality! Charge up your power by shaking your buttocks and overwhelm your opponent with your powerful moves!",
         "title_id": "010045B01FAF8000"
-      },
-      {
-        "title": "Tenebris Somnia [NSP][ENG]",
-        "size": "15.4 GB",
-        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6923613",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
-        "year": "2026, October",
-        "genre": "FMV, Horror, Adventure, Action, Point & Click",
-        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
-        "publisher": "New Blood Interactive",
-        "image_format": "NSP",
-        "interface_lang": "English [ENG]",
-        "voice_lang": "English",
-        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
-        ],
-        "description": "A hot blend of classic point-&-click adventure 2D action-survival horror in the style of LucasArts Maniac Mansion, including full-length cutscenes with live actors!..\nAn award-winning film crew from Argentina worked on the project. Immerse yourself in a frightening story as you solve puzzles and fight creepy creatures.\nStarring: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.More FMV games.",
-        "title_id": "0100CD7028862000"
       },
       {
         "title": "Content Warning [NSZ][RUS/Multi13]",
@@ -2897,6 +2957,36 @@
     ],
     "es": [
       {
+        "title": "Tenebris Somnia [RePack][NSP][RUS (Mod.)/ENG]",
+        "size": "1.04 GB",
+        "magnet": "magnet:?xt=urn:btih:6A17F1D4E162B9AD9B1607CC24DA19AF7BF555DC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6924084",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6924084",
+        "year": "2026, octubre",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP, repack",
+        "interface_lang": "Inglés [ENG] + traducción automática de Onzi",
+        "voice_lang": "Inglés",
+        "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://i6.imageban.ru/out/2026/10/17/255a46b0a46142f12fbabd015fbc1e2e.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/ae/69f2e138403ffddcc42805ea9cc1fcae.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/38/027fdab658b595a9c370d2ec0f166538.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/04/df6463a6d11e3dcb791fe659ddabe504.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/17/bb14fc3c3e460a9a759ab192c86e4317.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/51/47362db297779aedb541d0438ce80651.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f2/b54ceb0078907e3ee74bb7607f74cbf2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f3/47559f5e6dd8a86b7f7697a0f5a32df3.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/d9/d402456d1776568408499970b29d2dd9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/cc/77162131845e82afbc40921a45a3accc.jpeg"
+        ],
+        "description": "Una excelente combinación de aventura clásica de apuntar y hacer clic en 2D, acción y terror de supervivencia al estilo de LucasArts Maniac Mansion, ¡que incluye escenas completas con actores en vivo!\nEn el proyecto trabajó un equipo de filmación argentino galardonado. Sumérgete en una historia aterradora mientras resuelves acertijos y luchas contra criaturas espeluznantes.\nProtagonizada por: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Más juegos de FMV.",
+        "title_id": "0100CD7028862000"
+      },
+      {
         "title": "Lost Odyssey (port ) [NRO][ENG]",
         "size": "21.85 GB",
         "magnet": "magnet:?xt=urn:btih:B186C549E9620DD86D8AC7B7B2882C4B2396F3C7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -2911,7 +3001,7 @@
         "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i7.imageban.ru/out/2026/10/17/74533c380b5ea89898dbbe22db209fd3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6924019.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/cf/6ace111f64ffd0a9894507147acfeccf.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/67/fb5bea2d9a77d6c3618658d376649467.jpeg",
@@ -2923,7 +3013,7 @@
           "https://i128.fastpic.org/thumb/2026/1017/4d/b40f372b831e2be1605fdf5f8e21904d.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/63/33295d7a36b1ca3d00ebfb8e8d8f2663.jpeg"
         ],
-        "description": "La energía mágica siempre ha estado contenida en los seres vivos, pero su poder ha aumentado enormemente 30 años antes de los acontecimientos del juego. Esto influyó mucho en la sociedad mediante la creación del dispositivo \"Magic Engine\", que hizo posible utilizar el poder mágico para iluminación, automóviles, comunicaciones, robots y otros fines. Si antes sólo unos pocos podían utilizar la magia, ahora muchos han tenido esta oportunidad.\nEste progreso también creó el deseo de dos naciones: el Reino de Gohtz y la República de Uhra, una sociedad monárquica recientemente reformada; desarrollar armas de destrucción masiva nuevas y más poderosas. Los Uhra construyen el Gran Bastón, un gigantesco motor mágico, mientras que los altamente industrializados Gohtza estudian activamente la magia dentro de ellos mismos. La tercera nación, los Estados del Océano Libre de Numara, permanecen aisladas y neutrales, pero caen en el caos debido a los intentos de golpe de Estado. Uhra lucha contra los Khents, una nación de hombres bestia, y ellos envían sus fuerzas a las montañas Wal para la batalla final, ¡donde comienza el juego!...\nOdisea perdida, japonesa. ロストオデッセイ Rosuto odessey, o Lost Odyssey, es un juego de rol japonés publicado por Microsoft Game Studios exclusivamente para Xbox 360. Lost Odyssey fue creado por Hironobu Sakaguchi, creador de la famosa serie Final Fantasy. Este es el tercer proyecto de Sakaguchi fuera de Square Enix, después de ASH: Archaic Sealed Heat y Blue Dragon. El jugador controla a un personaje llamado Kaim, un hombre que ha vivido durante mil años sin recordar su pasado, y comienza en un mundo en el que se acerca una mágica \"revolución industrial\": Kaim lucha por recuperar su memoria y el dolor que ésta conlleva. Famitsu le dio al juego una puntuación de 36/40, y los cuatro críticos le dieron nueve.\nVídeo tráiler.",
+        "description": "La energía mágica siempre ha estado contenida en los seres vivos, pero su poder ha aumentado enormemente 30 años antes de los acontecimientos del juego. Esto influyó mucho en la sociedad mediante la creación del dispositivo \"Magic Engine\", que hizo posible utilizar el poder mágico para iluminación, automóviles, comunicaciones, robots y otros fines. Si antes sólo unos pocos podían utilizar la magia, ahora muchos han tenido esta oportunidad.\nEste progreso también creó el deseo entre las dos naciones, el Reino de Gohtz y la República de Uhra, de una sociedad monárquica recientemente reformada; desarrollar armas de destrucción masiva nuevas y más poderosas. Los Uhra construyen el Gran Bastón, un gigantesco motor mágico, mientras que los altamente industrializados Gohtza estudian activamente la magia dentro de ellos mismos. La tercera nación, los Estados del Océano Libre de Numara, permanecen aisladas y neutrales, pero caen en el caos debido a los intentos de golpe de Estado. Uhra lucha contra los Khents, una nación de hombres bestia, y ellos envían sus fuerzas a las montañas Wal para la batalla final, ¡donde comienza el juego!...\nOdisea perdida, japonesa. Rosuto odessey ロストオデッセイ, o Lost Odyssey, es un juego de rol japonés publicado por Microsoft Game Studios exclusivamente para Xbox 360. Lost Odyssey fue creado por Hironobu Sakaguchi, creador de la famosa serie Final Fantasy. Este es el tercer proyecto de Sakaguchi fuera de Square Enix, después de ASH: Archaic Sealed Heat y Blue Dragon. El jugador controla a un personaje llamado Kaim, un hombre que ha vivido durante mil años sin recordar su pasado, y comienza en un mundo en el que se acerca una mágica \"revolución industrial\": Kaim lucha por recuperar su memoria y el dolor que ésta conlleva. Famitsu le dio al juego una puntuación de 36/40, y los cuatro críticos le dieron nueve.\nVídeo tráiler.",
         "title_id": null
       },
       {
@@ -2941,7 +3031,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/10/17/8d7c11fd732ffc7a0160c0af0c600166.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923956.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/97/05a91a79fe7428f8dc1d0c606d7bc297.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/13/2cc46534baa519f57a2cad4233110513.jpeg",
@@ -2953,8 +3043,38 @@
           "https://i128.fastpic.org/thumb/2026/1017/98/c3dd451bc795f8282839978fbb4fc998.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/7b/920091d61b62015b625b1c108bb0a97b.jpeg"
         ],
-        "description": "\"Nuestras palabras son como gotas de sangre que fluyen. Sólo el dolor revela plenamente a las personas\". ~©\nEl juego está destinado exclusivamente a un público adulto con una psique estable: la crueldad extrema y la crueldad son comunes en todas las mazmorras, hay una demostración del uso de drogas y se plantean temas difíciles, desde la autotortura hasta la violencia sexual. Todos ellos son una parte integral de la creación del mundo y están presentes para crear una atmósfera oscura especial que muestra hasta dónde puede llegar una persona en su búsqueda por sobrevivir.\nLa acción se desarrolla en la fantasía medieval en las mazmorras del miedo y el hambre, ubicadas en el territorio del reino de Rondón, análogo de Francia y Gran Bretaña, en 1590. Hay cuatro personajes para elegir: Mercenario, Caballero, Sacerdote Oscuro y Forastero. Los héroes entran en las mazmorras con un propósito: encontrar a un hombre encarcelado en ellas llamado Le'Gard. Cada personaje tiene su propio motivo para el descenso y su propia historia de fondo. En el corazón del mundo del juego se encuentran dioses antiguos como Gro-Goroth, el dios de la destrucción y el sacrificio, y Sylvian, la diosa del amor y la creación. Son seres extremadamente poderosos que son adorados por ciertas facciones de personas. También hay nuevos dioses en el mundo, mortales que se sientan en el trono de la Ascensión en la legendaria ciudad de los dioses Ma'Havra.\nEl juego tiene una docena de finales posibles.",
+        "description": "\"Nuestras palabras son como gotas de sangre que fluyen. Sólo el dolor revela plenamente a las personas\". ~©\nEl juego está destinado exclusivamente a un público adulto con una psique estable: la crueldad extrema y la crueldad son comunes en todas las mazmorras, hay una demostración del uso de drogas y se plantean temas difíciles, desde la autotortura hasta la violencia sexual. Todos ellos son una parte integral de la creación del mundo y están presentes para crear una atmósfera oscura especial que muestra hasta dónde puede llegar una persona en su búsqueda por sobrevivir.\nLa acción se desarrolla en la Edad Media fantástica, mazmorras del miedo y el hambre, ubicadas en el territorio del reino de Rondon, análogo de Francia y Gran Bretaña en 1590 del siglo XVI. Hay cuatro personajes para elegir: Mercenario, Caballero, Sacerdote Oscuro y Outlander. Los héroes entran en las mazmorras con un propósito: encontrar a un hombre encarcelado en ellas llamado Le'Gard. Cada personaje tiene su propio motivo para el descenso y su propia historia de fondo. En el corazón del mundo se encuentran dioses antiguos como Gro-Goroth, el dios de la destrucción y el sacrificio, y Sylvian, la diosa del amor y la creación. Son seres extremadamente poderosos que son adorados por ciertas facciones de personas. También hay nuevos dioses en el mundo, mortales que se sientan en el trono de la Ascensión en la legendaria ciudad de los dioses Ma'Havra.\nEl juego tiene una docena de finales posibles.",
         "title_id": null
+      },
+      {
+        "title": "Tenebris Somnia [NSP][ENG]",
+        "size": "15.4 GB",
+        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923613",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
+        "year": "2026, octubre",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP",
+        "interface_lang": "Inglés [ENG]",
+        "voice_lang": "Inglés",
+        "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
+        ],
+        "description": "Una excelente combinación de aventura clásica de apuntar y hacer clic en 2D, acción y terror de supervivencia al estilo de LucasArts Maniac Mansion, ¡que incluye escenas completas con actores en vivo!\nEn el proyecto trabajó un equipo de filmación argentino galardonado. Sumérgete en una historia aterradora mientras resuelves acertijos y luchas contra criaturas espeluznantes.\nProtagonizada por: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Más juegos de FMV. Ya está aquí una versión con calidad de vídeo degradada.",
+        "title_id": "0100CD7028862000"
       },
       {
         "title": "Spica Adventure [NSZ][ENG]",
@@ -3094,36 +3214,6 @@
         ],
         "description": "Ketsu Butler is a hilarious action game in which players fight by shaking their butts!\n\nWhen you set the Joy-Con™ on your pants and swing it, Ketsu Batller on the screen will also swing his sword in time with your movement! Hit your opponent in the head with your sword and win the game!\n\nEach of the six Ketsu Batller players has a different personality! Charge up your power by shaking your buttocks and overwhelm your opponent with your powerful moves!",
         "title_id": "010045B01FAF8000"
-      },
-      {
-        "title": "Tenebris Somnia [NSP][ENG]",
-        "size": "15.4 GB",
-        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6923613",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
-        "year": "2026, octubre",
-        "genre": "FMV, Horror, Adventure, Action, Point & Click",
-        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
-        "publisher": "New Blood Interactive",
-        "image_format": "NSP",
-        "interface_lang": "Inglés [ENG]",
-        "voice_lang": "Inglés",
-        "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
-        ],
-        "description": "Una excelente combinación de aventura clásica de apuntar y hacer clic en 2D, acción y terror de supervivencia al estilo de LucasArts Maniac Mansion, ¡que incluye escenas completas con actores en vivo!\nEn el proyecto trabajó un equipo de filmación argentino galardonado. Sumérgete en una historia aterradora mientras resuelves acertijos y luchas contra criaturas espeluznantes.\nProtagonizada por: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Más juegos de FMV.",
-        "title_id": "0100CD7028862000"
       },
       {
         "title": "Content Warning [NSZ][RUS/Multi13]",
@@ -4321,6 +4411,36 @@
     ],
     "fr": [
       {
+        "title": "Tenebris Somnia [RePack][NSP][RUS (Mod.)/ENG]",
+        "size": "1.04 GB",
+        "magnet": "magnet:?xt=urn:btih:6A17F1D4E162B9AD9B1607CC24DA19AF7BF555DC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6924084",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6924084",
+        "year": "2026, octobre",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP, repack",
+        "interface_lang": "Anglais [ENG] + traduction automatique par Onzi",
+        "voice_lang": "Anglais",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Non",
+        "cover": "https://i6.imageban.ru/out/2026/10/17/255a46b0a46142f12fbabd015fbc1e2e.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/ae/69f2e138403ffddcc42805ea9cc1fcae.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/38/027fdab658b595a9c370d2ec0f166538.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/04/df6463a6d11e3dcb791fe659ddabe504.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/17/bb14fc3c3e460a9a759ab192c86e4317.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/51/47362db297779aedb541d0438ce80651.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f2/b54ceb0078907e3ee74bb7607f74cbf2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f3/47559f5e6dd8a86b7f7697a0f5a32df3.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/d9/d402456d1776568408499970b29d2dd9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/cc/77162131845e82afbc40921a45a3accc.jpeg"
+        ],
+        "description": "Un mélange chaud d'aventure, d'action et de survie en 2D classique pointer-cliquer dans le style de LucasArts Maniac Mansion, y compris des cinématiques complètes avec des acteurs en direct !\nUne équipe de tournage argentine primée a travaillé sur le projet. Plongez-vous dans une histoire effrayante en résolvant des énigmes et en combattant des créatures effrayantes.\nAvec : Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Plus de jeux FMV.",
+        "title_id": "0100CD7028862000"
+      },
+      {
         "title": "Lost Odyssey (portage ) [NRO][ENG]",
         "size": "21.85 GB",
         "magnet": "magnet:?xt=urn:btih:B186C549E9620DD86D8AC7B7B2882C4B2396F3C7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -4335,7 +4455,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i7.imageban.ru/out/2026/10/17/74533c380b5ea89898dbbe22db209fd3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6924019.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/cf/6ace111f64ffd0a9894507147acfeccf.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/67/fb5bea2d9a77d6c3618658d376649467.jpeg",
@@ -4347,7 +4467,7 @@
           "https://i128.fastpic.org/thumb/2026/1017/4d/b40f372b831e2be1605fdf5f8e21904d.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/63/33295d7a36b1ca3d00ebfb8e8d8f2663.jpeg"
         ],
-        "description": "L'énergie magique a toujours été contenue dans les êtres vivants, mais sa puissance a considérablement augmenté 30 ans avant les événements du jeu. Cela a grandement influencé la société grâce à la création du dispositif « Magic Engine », qui a permis d'utiliser le pouvoir magique pour l'éclairage, les voitures, les communications, les robots et à d'autres fins. Si auparavant seuls quelques privilégiés pouvaient utiliser la magie, nombreux sont désormais ceux qui ont eu cette opportunité.\nCe progrès a également créé le désir de deux nations : le Royaume de Gohtz et la République d'Uhra, une société monarchique nouvellement réformée ; développer de nouvelles armes de destruction massive plus puissantes. Les Uhra construisent le Grand Bâton, un gigantesque moteur magique, tandis que les Gohtza, hautement industrialisés, étudient activement la magie qui est en eux-mêmes. La troisième nation, les États libres de Numara, reste isolée et neutre, mais tombe dans le désarroi en raison de tentatives de putsch. Uhra combat les Khents, une nation d'hommes-bêtes, et ils envoient leurs forces dans les montagnes Wal pour la bataille finale, où le jeu commence !...\nOdyssée perdue, japonais. ロストオデッセイ Rosuto odessey, ou Lost Odyssey, est un jeu de rôle japonais publié par Microsoft Game Studios exclusivement pour la Xbox 360. Lost Odyssey a été créé par Hironobu Sakaguchi, créateur de la célèbre série Final Fantasy. Il s'agit du troisième projet de Sakaguchi en dehors de Square Enix, après ASH : Archaic Sealed Heat et Blue Dragon. Le joueur contrôle un personnage nommé Kaim, un homme qui a vécu mille ans sans aucun souvenir de son passé, et commence dans un monde dans lequel une « révolution industrielle » magique approche : Kaim a du mal à retrouver sa mémoire et la douleur qu'elle apporte. Famitsu a donné au jeu une note de 36/40, les quatre critiques lui donnant un score de neuf.\nBande-annonce vidéo.",
+        "description": "L'énergie magique a toujours été contenue dans les êtres vivants, mais sa puissance a considérablement augmenté 30 ans avant les événements du jeu. Cela a grandement influencé la société grâce à la création du dispositif « Magic Engine », qui a permis d'utiliser le pouvoir magique pour l'éclairage, les voitures, les communications, les robots et à d'autres fins. Si auparavant seuls quelques privilégiés pouvaient utiliser la magie, nombreux sont désormais ceux qui ont eu cette opportunité.\nCes progrès ont également créé le désir parmi les deux nations, le Royaume de Gohtz et la République d'Uhra, d'une société monarchique nouvellement réformée ; développer de nouvelles armes de destruction massive plus puissantes. Les Uhra construisent le Grand Bâton, un gigantesque moteur magique, tandis que les Gohtza, hautement industrialisés, étudient activement la magie qui est en eux-mêmes. La troisième nation, les États libres de Numara, reste isolée et neutre, mais tombe dans le désarroi en raison de tentatives de putsch. Uhra combat les Khents, une nation d'hommes-bêtes, et ils envoient leurs forces dans les montagnes Wal pour la bataille finale, où le jeu commence !...\nOdyssée perdue, japonais. Rosuto odessey ロストオデッセイ, ou Lost Odyssey, est un jeu de rôle japonais publié par Microsoft Game Studios exclusivement pour la Xbox 360. Lost Odyssey a été créé par Hironobu Sakaguchi, créateur de la célèbre série Final Fantasy. Il s'agit du troisième projet de Sakaguchi en dehors de Square Enix, après ASH : Archaic Sealed Heat et Blue Dragon. Le joueur contrôle un personnage nommé Kaim, un homme qui a vécu mille ans sans aucun souvenir de son passé, et commence dans un monde dans lequel une « révolution industrielle » magique approche : Kaim a du mal à retrouver sa mémoire et la douleur qu'elle apporte. Famitsu a donné au jeu une note de 36/40, les quatre critiques lui donnant un score de neuf.\nBande-annonce vidéo.",
         "title_id": null
       },
       {
@@ -4365,7 +4485,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i5.imageban.ru/out/2026/10/17/8d7c11fd732ffc7a0160c0af0c600166.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923956.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/97/05a91a79fe7428f8dc1d0c606d7bc297.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/13/2cc46534baa519f57a2cad4233110513.jpeg",
@@ -4377,8 +4497,38 @@
           "https://i128.fastpic.org/thumb/2026/1017/98/c3dd451bc795f8282839978fbb4fc998.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/7b/920091d61b62015b625b1c108bb0a97b.jpeg"
         ],
-        "description": "\"Nos paroles sont comme des gouttes de sang qui coule. Seul le chagrin révèle pleinement les gens.\" ~©\nLe jeu est destiné exclusivement à un public adulte au psychisme stable : une cruauté extrême et le sanglant sont courants dans les donjons, il y a une démonstration de l'usage de drogues et des sujets difficiles sont abordés, de l'auto-torture à la violence sexuelle. Tous font partie intégrante de la création du monde et sont présents pour créer une atmosphère sombre particulière qui montre jusqu'où une personne peut aller dans sa quête pour survivre.\nL'action se déroule dans la fantaisie médiévale dans les cachots de la peur et de la faim, situés sur le territoire du royaume de Rondon, analogue de la France et de la Grande-Bretagne, en 1590. Vous avez le choix entre quatre personnages : Mercenaire, Chevalier, Prêtre Noir et Outlander. Les héros pénètrent dans les cachots dans un seul but : y trouver un homme emprisonné nommé Le'Gard. Chaque personnage a son propre motif de descente et sa propre histoire. Au cœur du monde du jeu se trouvent des dieux anciens tels que Gro-Goroth, le dieu de la destruction et du sacrifice, et Sylvian, la déesse de l'amour et de la création. Ce sont des êtres extrêmement puissants qui sont vénérés par certaines factions de la population. Il existe également de nouveaux dieux dans le monde, des mortels qui siègent sur le trône de l'Ascension dans la légendaire cité des dieux Ma'Havra.\nLe jeu propose une douzaine de fins possibles.",
+        "description": "\"Nos paroles sont comme des gouttes de sang qui coule. Seul le chagrin révèle pleinement les gens.\" ~©\nLe jeu est destiné exclusivement à un public adulte au psychisme stable : une cruauté extrême et le sanglant sont courants dans les donjons, il y a une démonstration de l'usage de drogues et des sujets difficiles sont abordés, de l'auto-torture à la violence sexuelle. Tous font partie intégrante de la création du monde et sont présents pour créer une atmosphère sombre particulière qui montre jusqu'où une personne peut aller dans sa quête pour survivre.\nL'action se déroule dans le Moyen Âge fantastique, cachots de la peur et de la faim, situés sur le territoire du royaume de Rondon, analogue de la France et de la Grande-Bretagne en 1590 du XVIe siècle. Vous avez le choix entre quatre personnages : Mercenary, Knight, Dark Priest et Outlander. Les héros pénètrent dans les cachots dans un seul but : y trouver un homme emprisonné nommé Le'Gard. Chaque personnage a son propre motif de descente et sa propre histoire. Au cœur du monde se trouvent des dieux anciens tels que Gro-Goroth, le dieu de la destruction et du sacrifice, et Sylvian, la déesse de l'amour et de la création. Ce sont des êtres extrêmement puissants qui sont vénérés par certaines factions de la population. Il existe également de nouveaux dieux dans le monde, des mortels qui siègent sur le trône de l'Ascension dans la légendaire cité des dieux Ma'Havra.\nLe jeu propose une douzaine de fins possibles.",
         "title_id": null
+      },
+      {
+        "title": "Tenebris Somnia [NSP][ENG]",
+        "size": "15.4 GB",
+        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923613",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
+        "year": "2026, octobre",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP",
+        "interface_lang": "Anglais [ENG]",
+        "voice_lang": "Anglais",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
+        ],
+        "description": "Un mélange chaud d'aventure, d'action et de survie en 2D classique pointer-cliquer dans le style de LucasArts Maniac Mansion, y compris des cinématiques complètes avec des acteurs en direct !\nUne équipe de tournage argentine primée a travaillé sur le projet. Plongez-vous dans une histoire effrayante en résolvant des énigmes et en combattant des créatures effrayantes.\nAvec : Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Plus de jeux FMV. Une version avec une qualité vidéo dégradée est ici.",
+        "title_id": "0100CD7028862000"
       },
       {
         "title": "Spica Adventure [NSZ][ENG]",
@@ -4518,36 +4668,6 @@
         ],
         "description": "Ketsu Batller est un jeu d'action hilarant dans lequel vous secouez vos fesses !\n\nInsérez le Joy-Con™ dans votre pantalon et secouez-le, et Ketsu Batller à l'écran balancera son épée en rythme avec vos mouvements ! Frappez votre adversaire à la tête et gagnez !",
         "title_id": "010045B01FAF8000"
-      },
-      {
-        "title": "Tenebris Somnia [NSP][ENG]",
-        "size": "15.4 GB",
-        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6923613",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
-        "year": "2026, octobre",
-        "genre": "FMV, Horror, Adventure, Action, Point & Click",
-        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
-        "publisher": "New Blood Interactive",
-        "image_format": "NSP",
-        "interface_lang": "Anglais [ENG]",
-        "voice_lang": "Anglais",
-        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "Non",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
-        ],
-        "description": "Un mélange chaud d'aventure, d'action et de survie en 2D classique pointer-cliquer dans le style de LucasArts Maniac Mansion, y compris des cinématiques complètes avec des acteurs en direct !\nUne équipe de tournage argentine primée a travaillé sur le projet. Plongez-vous dans une histoire effrayante en résolvant des énigmes et en combattant des créatures effrayantes.\nAvec : Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Plus de jeux FMV.",
-        "title_id": "0100CD7028862000"
       },
       {
         "title": "Content Warning [NSZ][RUS/Multi13]",
@@ -5745,6 +5865,36 @@
     ],
     "de": [
       {
+        "title": "Tenebris Somnia [RePack][NSP][RUS (Mod.)/ENG]",
+        "size": "1.04 GB",
+        "magnet": "magnet:?xt=urn:btih:6A17F1D4E162B9AD9B1607CC24DA19AF7BF555DC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6924084",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6924084",
+        "year": "2026, Oktober",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP, Repack",
+        "interface_lang": "Englisch [ENG] + maschinelle Übersetzung von Onzi",
+        "voice_lang": "Englisch",
+        "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Nein",
+        "cover": "https://i6.imageban.ru/out/2026/10/17/255a46b0a46142f12fbabd015fbc1e2e.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/ae/69f2e138403ffddcc42805ea9cc1fcae.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/38/027fdab658b595a9c370d2ec0f166538.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/04/df6463a6d11e3dcb791fe659ddabe504.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/17/bb14fc3c3e460a9a759ab192c86e4317.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/51/47362db297779aedb541d0438ce80651.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f2/b54ceb0078907e3ee74bb7607f74cbf2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f3/47559f5e6dd8a86b7f7697a0f5a32df3.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/d9/d402456d1776568408499970b29d2dd9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/cc/77162131845e82afbc40921a45a3accc.jpeg"
+        ],
+        "description": "Eine heiße Mischung aus klassischem Point-&-Click-Adventure, 2D-Action-Survival-Horror im Stil von LucasArts Maniac Mansion, einschließlich Zwischensequenzen in voller Länge mit Live-Schauspielern!\nAn dem Projekt arbeitete ein preisgekröntes Filmteam aus Argentinien mit. Tauchen Sie ein in eine gruselige Geschichte, während Sie Rätsel lösen und gegen gruselige Kreaturen kämpfen.\nMit: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Mehr FMV Spiele.",
+        "title_id": "0100CD7028862000"
+      },
+      {
         "title": "Lost Odyssey (Port ) [NRO][ENG]",
         "size": "21.85 GB",
         "magnet": "magnet:?xt=urn:btih:B186C549E9620DD86D8AC7B7B2882C4B2396F3C7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -5759,7 +5909,7 @@
         "voice_lang": "Englisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i7.imageban.ru/out/2026/10/17/74533c380b5ea89898dbbe22db209fd3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6924019.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/cf/6ace111f64ffd0a9894507147acfeccf.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/67/fb5bea2d9a77d6c3618658d376649467.jpeg",
@@ -5771,7 +5921,7 @@
           "https://i128.fastpic.org/thumb/2026/1017/4d/b40f372b831e2be1605fdf5f8e21904d.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/63/33295d7a36b1ca3d00ebfb8e8d8f2663.jpeg"
         ],
-        "description": "Magische Energie war schon immer in Lebewesen enthalten, aber ihre Kraft hat 30 Jahre vor den Ereignissen des Spiels stark zugenommen. Dies hatte großen Einfluss auf die Gesellschaft durch die Entwicklung des Geräts „Magic Engine“, das es ermöglichte, magische Kräfte für Beleuchtung, Autos, Kommunikation, Roboter und andere Zwecke zu nutzen. Konnten früher nur wenige Auserwählte Magie nutzen, haben nun viele diese Möglichkeit erhalten.\nDieser Fortschritt weckte auch den Wunsch zweier Nationen: des Königreichs Gohtz und der Republik Uhra, einer neu reformierten monarchischen Gesellschaft; Entwicklung neuer und stärkerer Massenvernichtungswaffen. Die Uhra bauen den Großen Stab, eine gigantische magische Maschine, während die hochindustrialisierten Gohtza aktiv die Magie in sich selbst erforschen. Die dritte Nation, die Freien Ozeanstaaten Numara, bleibt isoliert und neutral, gerät jedoch aufgrund von Putschversuchen in Unordnung. Uhra kämpft gegen die Khents, eine Nation von Tiermenschen, und sie schicken ihre Streitkräfte zur letzten Schlacht in die Wal-Berge, wo das Spiel beginnt!...\nVerlorene Odyssee, Japanisch. ロストオデッセイ Rosuto odessey, oder Lost Odyssey, ist ein japanisches Rollenspiel, das von Microsoft Game Studios exklusiv für die Xbox 360 veröffentlicht wurde. Lost Odyssey wurde von Hironobu Sakaguchi, dem Schöpfer der berühmten Final Fantasy-Reihe, erstellt. Nach ASH: Archaic Sealed Heat und Blue Dragon ist dies Sakaguchis drittes Projekt außerhalb von Square Enix. Der Spieler steuert einen Charakter namens Kaim, einen Mann, der tausend Jahre ohne Erinnerung an seine Vergangenheit gelebt hat, und beginnt in einer Welt, in der eine magische „industrielle Revolution“ naht: Kaim kämpft darum, sein Gedächtnis wiederzugewinnen, und den damit verbundenen Schmerz. Famitsu bewertete das Spiel mit 36/40, wobei alle vier Kritiker neun Punkte gaben.\nVideotrailer.",
+        "description": "Magische Energie war schon immer in Lebewesen enthalten, aber ihre Kraft hat 30 Jahre vor den Ereignissen des Spiels stark zugenommen. Dies hatte großen Einfluss auf die Gesellschaft durch die Entwicklung des Geräts „Magic Engine“, das es ermöglichte, magische Kräfte für Beleuchtung, Autos, Kommunikation, Roboter und andere Zwecke zu nutzen. Konnten früher nur wenige Auserwählte Magie nutzen, haben nun viele diese Möglichkeit erhalten.\nDieser Fortschritt weckte auch bei den beiden Nationen, dem Königreich Gohtz und der Republik Uhra, den Wunsch nach einer neu reformierten monarchischen Gesellschaft; Entwicklung neuer und stärkerer Massenvernichtungswaffen. Die Uhra bauen den Großen Stab, eine gigantische magische Maschine, während die hochindustrialisierten Gohtza aktiv die Magie in sich selbst erforschen. Die dritte Nation, die Freien Ozeanstaaten Numara, bleibt isoliert und neutral, gerät jedoch aufgrund von Putschversuchen in Unordnung. Uhra kämpft gegen die Khents, eine Nation von Tiermenschen, und sie schicken ihre Streitkräfte zur letzten Schlacht in die Wal-Berge, wo das Spiel beginnt!...\nVerlorene Odyssee, Japanisch. Rosuto odessey ロストオデッセイ, oder Lost Odyssey, ist ein japanisches Rollenspiel, das von Microsoft Game Studios exklusiv für die Xbox 360 veröffentlicht wurde. Lost Odyssey wurde von Hironobu Sakaguchi, dem Schöpfer der berühmten Final Fantasy-Serie, erstellt. Nach ASH: Archaic Sealed Heat und Blue Dragon ist dies Sakaguchis drittes Projekt außerhalb von Square Enix. Der Spieler steuert einen Charakter namens Kaim, einen Mann, der tausend Jahre ohne Erinnerung an seine Vergangenheit gelebt hat, und beginnt in einer Welt, in der eine magische „industrielle Revolution“ naht: Kaim kämpft darum, sein Gedächtnis wiederzugewinnen, und den damit verbundenen Schmerz. Famitsu bewertete das Spiel mit 36/40, wobei alle vier Kritiker neun Punkte gaben.\nVideotrailer.",
         "title_id": null
       },
       {
@@ -5789,7 +5939,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i5.imageban.ru/out/2026/10/17/8d7c11fd732ffc7a0160c0af0c600166.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923956.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/97/05a91a79fe7428f8dc1d0c606d7bc297.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/13/2cc46534baa519f57a2cad4233110513.jpeg",
@@ -5801,8 +5951,38 @@
           "https://i128.fastpic.org/thumb/2026/1017/98/c3dd451bc795f8282839978fbb4fc998.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/7b/920091d61b62015b625b1c108bb0a97b.jpeg"
         ],
-        "description": "„Unsere Worte sind wie fließende Blutstropfen. Nur die Trauer offenbart die Menschen vollständig.“ ~©\nDas Spiel richtet sich ausschließlich an ein erwachsenes Publikum mit stabiler Psyche: Extreme Grausamkeit und Blutigkeit sind in den Dungeons an der Tagesordnung, es wird Drogenkonsum demonstriert und schwierige Themen werden angesprochen, von Selbstquälerei bis hin zu sexueller Gewalt. Sie alle sind ein wesentlicher Bestandteil der Erschaffung der Welt und schaffen eine besondere dunkle Atmosphäre, die zeigt, wie weit ein Mensch in seinem Streben nach Überleben gehen kann.\nDie Handlung spielt in der mittelalterlichen Fantasie in den Kerkern der Angst und des Hungers, die sich auf dem Territorium des Königreichs Rondon, einem Analogon von Frankreich und Großbritannien, im Jahr 1590 befinden. Es stehen vier Charaktere zur Auswahl: Söldner, Ritter, Dunkler Priester und Fremder. Die Helden gehen aus einem einzigen Grund in die Kerker: um einen darin eingesperrten Mann namens Le'Gard zu finden. Jeder Charakter hat sein eigenes Motiv für den Abstieg und seine eigene Hintergrundgeschichte. Im Mittelpunkt der Spielwelt stehen alte Götter wie Gro-Goroth, der Gott der Zerstörung und des Opfers, und Sylvian, die Göttin der Liebe und Schöpfung. Sie sind äußerst mächtige Wesen, die von bestimmten Bevölkerungsgruppen verehrt werden. Es gibt auch neue Götter auf der Welt, Sterbliche, die auf dem Thron des Aufstiegs in der legendären Götterstadt Ma'Havra sitzen.\nDas Spiel hat ein Dutzend mögliche Enden.",
+        "description": "„Unsere Worte sind wie fließende Blutstropfen. Nur die Trauer offenbart die Menschen vollständig.“ ~©\nDas Spiel richtet sich ausschließlich an ein erwachsenes Publikum mit stabiler Psyche: Extreme Grausamkeit und Blutigkeit sind in den Dungeons an der Tagesordnung, es wird Drogenkonsum demonstriert und schwierige Themen werden angesprochen, von Selbstquälerei bis hin zu sexueller Gewalt. Sie alle sind ein wesentlicher Bestandteil der Erschaffung der Welt und schaffen eine besondere dunkle Atmosphäre, die zeigt, wie weit ein Mensch in seinem Streben nach Überleben gehen kann.\nDie Handlung spielt im Fantasy-Mittelalter, in Kerkern der Angst und des Hungers, die sich auf dem Territorium des Königreichs Rondon befinden, einem Analogon zu Frankreich und Großbritannien im Jahr 1590 des 16. Jahrhunderts. Es stehen vier Charaktere zur Auswahl: Mercenary, Knight, Dark Priest und Outlander. Die Helden gehen aus einem einzigen Grund in die Kerker: um einen darin eingesperrten Mann namens Le'Gard zu finden. Jeder Charakter hat sein eigenes Motiv für den Abstieg und seine eigene Hintergrundgeschichte. Im Herzen der Welt stehen alte Götter wie Gro-Goroth, der Gott der Zerstörung und des Opfers, und Sylvian, die Göttin der Liebe und Schöpfung. Sie sind äußerst mächtige Wesen, die von bestimmten Bevölkerungsgruppen verehrt werden. Es gibt auch neue Götter auf der Welt, Sterbliche, die auf dem Thron des Aufstiegs in der legendären Götterstadt Ma'Havra sitzen.\nDas Spiel hat ein Dutzend mögliche Enden.",
         "title_id": null
+      },
+      {
+        "title": "Tenebris Somnia [NSP][ENG]",
+        "size": "15.4 GB",
+        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923613",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
+        "year": "2026, Oktober",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP",
+        "interface_lang": "Englisch [ENG]",
+        "voice_lang": "Englisch",
+        "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Nein",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
+        ],
+        "description": "Eine heiße Mischung aus klassischem Point-&-Click-Adventure, 2D-Action-Survival-Horror im Stil von LucasArts Maniac Mansion, einschließlich Zwischensequenzen in voller Länge mit Live-Schauspielern!\nAn dem Projekt arbeitete ein preisgekröntes Filmteam aus Argentinien mit. Tauchen Sie ein in eine gruselige Geschichte, während Sie Rätsel lösen und gegen gruselige Kreaturen kämpfen.\nMit: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Mehr FMV Spiele. Eine Version mit verschlechterter Videoqualität ist hier.",
+        "title_id": "0100CD7028862000"
       },
       {
         "title": "Spica Adventure [NSZ][ENG]",
@@ -5942,36 +6122,6 @@
         ],
         "description": "Neobychnyy fitnes-fayting dlya Nintendo Switch, predlagayushchiy osobyy sposob bitvy — nuzhno srazhatsya svoim dzhoykonom okolo popy!\nDa, sut igry v tom, chtoby razmestit kontroller v zadnem karmane bryuk (ili prosto zakrepit pozadi za poyasom), i nachat aktivno dvigat byodrami. Vashi dvizheniya napryamuyu upravlyayut virtualnymi personazhami na ekrane, kotorye srazhayutsya, razmakhivaya mechami! Vesyolyy fayting s prostym, no neveroyatno uvlekatelnym geympleem: dlya pobedy nuzhno vstryakhnut opponenta i metko nanesti udar mechom. V igre predstavleno 6 personazhey s raznymi boevymi stilyami i spets. sposobnostyami, a dlya maksimalnogo uspekha vazhno pravilno vybrat taktiku i ne zhalet energii tela na tantsevalnye dvizheniya. Proekt orientirovan na druzheskie vecherinki, sorevnovaniya s druzyami i tekh, kto tsenit igry s yumorom i aktivnoy fizicheskoy sostavlyayushchey. Pomimo osnovnogo rezhima dueley, razrabotchiki obeshchayut dopolnitelnye ispytaniya i varianty kastomizatsii personazhey.\nIgra idealno vpisyvaetsya v spisok neobychnykh razvlecheniy konsoli, gde fizicheskaya aktivnost stanovitsya neotemlemoy chastyu protsessa.",
         "title_id": "010045B01FAF8000"
-      },
-      {
-        "title": "Tenebris Somnia [NSP][ENG]",
-        "size": "15.4 GB",
-        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6923613",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
-        "year": "2026, Oktober",
-        "genre": "FMV, Horror, Adventure, Action, Point & Click",
-        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
-        "publisher": "New Blood Interactive",
-        "image_format": "NSP",
-        "interface_lang": "Englisch [ENG]",
-        "voice_lang": "Englisch",
-        "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "Nein",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
-        ],
-        "description": "Eine heiße Mischung aus klassischem Point-&-Click-Adventure, 2D-Action-Survival-Horror im Stil von LucasArts Maniac Mansion, einschließlich Zwischensequenzen in voller Länge mit Live-Schauspielern!\nAn dem Projekt arbeitete ein preisgekröntes Filmteam aus Argentinien mit. Tauchen Sie ein in eine gruselige Geschichte, während Sie Rätsel lösen und gegen gruselige Kreaturen kämpfen.\nMit: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Mehr FMV Spiele.",
-        "title_id": "0100CD7028862000"
       },
       {
         "title": "Content Warning [NSZ][RUS/Multi13]",
@@ -7175,6 +7325,36 @@
     ],
     "it": [
       {
+        "title": "Tenebris Somnia [RePack][NSP][RUS (Mod.)/ENG]",
+        "size": "1.04 GB",
+        "magnet": "magnet:?xt=urn:btih:6A17F1D4E162B9AD9B1607CC24DA19AF7BF555DC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6924084",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6924084",
+        "year": "2026, ottobre",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP, repack",
+        "interface_lang": "Inglese [ENG] + traduzione automatica di Onzi",
+        "voice_lang": "Inglese",
+        "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://i6.imageban.ru/out/2026/10/17/255a46b0a46142f12fbabd015fbc1e2e.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/ae/69f2e138403ffddcc42805ea9cc1fcae.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/38/027fdab658b595a9c370d2ec0f166538.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/04/df6463a6d11e3dcb791fe659ddabe504.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/17/bb14fc3c3e460a9a759ab192c86e4317.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/51/47362db297779aedb541d0438ce80651.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f2/b54ceb0078907e3ee74bb7607f74cbf2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f3/47559f5e6dd8a86b7f7697a0f5a32df3.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/d9/d402456d1776568408499970b29d2dd9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/cc/77162131845e82afbc40921a45a3accc.jpeg"
+        ],
+        "description": "Una calda miscela di classiche avventure punta e clicca, azione 2D e survival horror nello stile di LucasArts Maniac Mansion, inclusi filmati integrali con attori dal vivo!..\nUna troupe cinematografica argentina pluripremiata ha lavorato al progetto. Immergiti in una storia spaventosa mentre risolvi enigmi e combatti creature inquietanti.\nProtagonisti: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Altri giochi FMV.",
+        "title_id": "0100CD7028862000"
+      },
+      {
         "title": "Lost Odyssey (port ) [NRO][ENG]",
         "size": "21.85 GB",
         "magnet": "magnet:?xt=urn:btih:B186C549E9620DD86D8AC7B7B2882C4B2396F3C7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -7189,7 +7369,7 @@
         "voice_lang": "Inglese",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i7.imageban.ru/out/2026/10/17/74533c380b5ea89898dbbe22db209fd3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6924019.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/cf/6ace111f64ffd0a9894507147acfeccf.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/67/fb5bea2d9a77d6c3618658d376649467.jpeg",
@@ -7201,7 +7381,7 @@
           "https://i128.fastpic.org/thumb/2026/1017/4d/b40f372b831e2be1605fdf5f8e21904d.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/63/33295d7a36b1ca3d00ebfb8e8d8f2663.jpeg"
         ],
-        "description": "L'energia magica è sempre stata contenuta negli esseri viventi, ma il suo potere è aumentato notevolmente 30 anni prima degli eventi del gioco. Ciò ha influenzato notevolmente la società attraverso la creazione del dispositivo \"Magic Engine\", che ha permesso di utilizzare il potere magico per l'illuminazione, le automobili, le comunicazioni, i robot e altri scopi. Se prima solo pochi eletti potevano usare la magia, ora molti hanno ricevuto questa opportunità.\nQuesto progresso creò anche il desiderio di due nazioni: il Regno di Gohtz e la Repubblica di Uhra, una società monarchica recentemente riformata; sviluppare nuove e più potenti armi di distruzione di massa. Gli Uhra costruiscono il Grande Bastone, un gigantesco motore magico, mentre i Gohtza, altamente industrializzati, studiano attivamente la magia dentro di loro. La terza nazione, gli Stati liberi oceanici di Numara, rimane isolata e neutrale, ma cade nello scompiglio a causa dei tentativi di putsch. Uhra combatte i Khent, una nazione di uomini-bestia, e loro inviano le loro forze sui Monti Wal per la battaglia finale, dove inizia il gioco!...\nOdissea perduta, giapponese. ロストオデッセイ Rosuto odessey, o Lost Odyssey, è un gioco di ruolo giapponese pubblicato da Microsoft Game Studios esclusivamente per Xbox 360. Lost Odyssey è stato creato da Hironobu Sakaguchi, creatore della famosa serie Final Fantasy. Questo è il terzo progetto di Sakaguchi al di fuori di Square Enix, dopo ASH: Archaic Sealed Heat e Blue Dragon. Il giocatore controlla un personaggio di nome Kaim, un uomo che ha vissuto per mille anni senza memoria del suo passato, e inizia in un mondo in cui una magica \"rivoluzione industriale\" si sta avvicinando: Kaim lotta per riconquistare la memoria e il dolore che ne deriva. Famitsu ha assegnato al gioco un punteggio di 36/40, con tutti e quattro i critici che gli hanno assegnato nove.\nTrailer video.",
+        "description": "L'energia magica è sempre stata contenuta negli esseri viventi, ma il suo potere è aumentato notevolmente 30 anni prima degli eventi del gioco. Ciò ha influenzato notevolmente la società attraverso la creazione del dispositivo \"Magic Engine\", che ha permesso di utilizzare il potere magico per l'illuminazione, le automobili, le comunicazioni, i robot e altri scopi. Se prima solo pochi eletti potevano usare la magia, ora molti hanno ricevuto questa opportunità.\nQuesto progresso creò anche il desiderio tra le due nazioni, il Regno di Gohtz e la Repubblica di Uhra, per una società monarchica recentemente riformata; sviluppare nuove e più potenti armi di distruzione di massa. Gli Uhra costruiscono il Grande Bastone, un gigantesco motore magico, mentre i Gohtza, altamente industrializzati, studiano attivamente la magia dentro di loro. La terza nazione, gli Stati liberi oceanici di Numara, rimane isolata e neutrale, ma cade nello scompiglio a causa dei tentativi di putsch. Uhra combatte i Khent, una nazione di uomini-bestia, e loro inviano le loro forze sui Monti Wal per la battaglia finale, dove inizia il gioco!...\nOdissea perduta, giapponese. Rosuto odessey ロストオデッセイ, o Lost Odyssey, è un gioco di ruolo giapponese pubblicato da Microsoft Game Studios esclusivamente per Xbox 360. Lost Odyssey è stato creato da Hironobu Sakaguchi, creatore della famosa serie Final Fantasy. Questo è il terzo progetto di Sakaguchi al di fuori di Square Enix, dopo ASH: Archaic Sealed Heat e Blue Dragon. Il giocatore controlla un personaggio di nome Kaim, un uomo che ha vissuto per mille anni senza memoria del suo passato, e inizia in un mondo in cui una magica \"rivoluzione industriale\" si sta avvicinando: Kaim lotta per riconquistare la memoria e il dolore che ne deriva. Famitsu ha assegnato al gioco un punteggio di 36/40, con tutti e quattro i critici che gli hanno assegnato nove.\nTrailer video.",
         "title_id": null
       },
       {
@@ -7219,7 +7399,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
-        "cover": "https://i5.imageban.ru/out/2026/10/17/8d7c11fd732ffc7a0160c0af0c600166.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923956.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/97/05a91a79fe7428f8dc1d0c606d7bc297.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/13/2cc46534baa519f57a2cad4233110513.jpeg",
@@ -7231,8 +7411,38 @@
           "https://i128.fastpic.org/thumb/2026/1017/98/c3dd451bc795f8282839978fbb4fc998.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/7b/920091d61b62015b625b1c108bb0a97b.jpeg"
         ],
-        "description": "\"Le nostre parole sono come gocce di sangue che scorre. Solo il dolore rivela pienamente le persone.\" ~©\nIl gioco è destinato esclusivamente a un pubblico adulto con una psiche stabile: estrema crudeltà e sangue sono comuni in tutti i sotterranei, c'è una dimostrazione dell'uso di droghe e vengono sollevati argomenti difficili, dall'autotortura alla violenza sessuale. Tutti loro sono parte integrante della creazione del mondo e sono presenti per creare una speciale atmosfera oscura che mostra quanto lontano può spingersi una persona nella sua ricerca per sopravvivere.\nL'azione si svolge nella fantasia medievale nei sotterranei della paura e della fame, situati nel territorio del regno di Rondon, analogo a Francia e Gran Bretagna, nel 1590. Ci sono quattro personaggi tra cui scegliere: Mercenario, Cavaliere, Sacerdote Oscuro e Outlander. Gli eroi entrano nei sotterranei per uno scopo: trovare un uomo imprigionato al loro interno di nome Le'Gard. Ogni personaggio ha il proprio motivo per la discesa e il proprio retroscena. Al centro del mondo del gioco ci sono antiche divinità come Gro-Goroth, il dio della distruzione e del sacrificio, e Sylvian, la dea dell'amore e della creazione. Sono esseri estremamente potenti che vengono adorati da alcune fazioni di persone. Ci sono anche nuovi dei nel mondo, mortali che siedono sul trono dell'Ascensione nella leggendaria città degli dei Ma'Havra.\nIl gioco ha una dozzina di possibili finali.",
+        "description": "\"Le nostre parole sono come gocce di sangue che scorre. Solo il dolore rivela pienamente le persone.\" ~©\nIl gioco è destinato esclusivamente a un pubblico adulto con una psiche stabile: estrema crudeltà e sangue sono comuni in tutti i sotterranei, c'è una dimostrazione dell'uso di droghe e vengono sollevati argomenti difficili, dall'autotortura alla violenza sessuale. Tutti loro sono parte integrante della creazione del mondo e sono presenti per creare una speciale atmosfera oscura che mostra quanto lontano può spingersi una persona nella sua ricerca per sopravvivere.\nL'azione si svolge nel Medioevo fantastico, segrete della paura e della fame, situate nel territorio del regno di Rondon, analogo a Francia e Gran Bretagna nel 1590 del XVI secolo. Ci sono quattro personaggi tra cui scegliere: Mercenario, Cavaliere, Sacerdote Oscuro e Outlander. Gli eroi entrano nei sotterranei per uno scopo: trovare un uomo imprigionato al loro interno di nome Le'Gard. Ogni personaggio ha il proprio motivo per la discesa e il proprio retroscena. Nel cuore del mondo ci sono antichi dei come Gro-Goroth, il dio della distruzione e del sacrificio, e Sylvian, la dea dell'amore e della creazione. Sono esseri estremamente potenti che vengono adorati da alcune fazioni di persone. Ci sono anche nuovi dei nel mondo, mortali che siedono sul trono dell'Ascensione nella leggendaria città degli dei Ma'Havra.\nIl gioco ha una dozzina di possibili finali.",
         "title_id": null
+      },
+      {
+        "title": "Tenebris Somnia [NSP][ENG]",
+        "size": "15.4 GB",
+        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923613",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
+        "year": "2026, ottobre",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP",
+        "interface_lang": "Inglese [ENG]",
+        "voice_lang": "Inglese",
+        "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
+        ],
+        "description": "Una calda miscela di classiche avventure punta e clicca, azione 2D e survival horror nello stile di LucasArts Maniac Mansion, inclusi filmati integrali con attori dal vivo!..\nUna troupe cinematografica argentina pluripremiata ha lavorato al progetto. Immergiti in una storia spaventosa mentre risolvi enigmi e combatti creature inquietanti.\nProtagonisti: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Altri giochi FMV. È disponibile una versione con qualità video degradata.",
+        "title_id": "0100CD7028862000"
       },
       {
         "title": "Spica Adventure [NSZ][ENG]",
@@ -7372,36 +7582,6 @@
         ],
         "description": "Neobychnyy fitnes-fayting dlya Nintendo Switch, predlagayushchiy osobyy sposob bitvy — nuzhno srazhatsya svoim dzhoykonom okolo popy!\nDa, sut igry v tom, chtoby razmestit kontroller v zadnem karmane bryuk (ili prosto zakrepit pozadi za poyasom), i nachat aktivno dvigat byodrami. Vashi dvizheniya napryamuyu upravlyayut virtualnymi personazhami na ekrane, kotorye srazhayutsya, razmakhivaya mechami! Vesyolyy fayting s prostym, no neveroyatno uvlekatelnym geympleem: dlya pobedy nuzhno vstryakhnut opponenta i metko nanesti udar mechom. V igre predstavleno 6 personazhey s raznymi boevymi stilyami i spets. sposobnostyami, a dlya maksimalnogo uspekha vazhno pravilno vybrat taktiku i ne zhalet energii tela na tantsevalnye dvizheniya. Proekt orientirovan na druzheskie vecherinki, sorevnovaniya s druzyami i tekh, kto tsenit igry s yumorom i aktivnoy fizicheskoy sostavlyayushchey. Pomimo osnovnogo rezhima dueley, razrabotchiki obeshchayut dopolnitelnye ispytaniya i varianty kastomizatsii personazhey.\nIgra idealno vpisyvaetsya v spisok neobychnykh razvlecheniy konsoli, gde fizicheskaya aktivnost stanovitsya neotemlemoy chastyu protsessa.",
         "title_id": "010045B01FAF8000"
-      },
-      {
-        "title": "Tenebris Somnia [NSP][ENG]",
-        "size": "15.4 GB",
-        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6923613",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
-        "year": "2026, ottobre",
-        "genre": "FMV, Horror, Adventure, Action, Point & Click",
-        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
-        "publisher": "New Blood Interactive",
-        "image_format": "NSP",
-        "interface_lang": "Inglese [ENG]",
-        "voice_lang": "Inglese",
-        "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
-        ],
-        "description": "Una calda miscela di classiche avventure punta e clicca, azione 2D e survival horror nello stile di LucasArts Maniac Mansion, inclusi filmati integrali con attori dal vivo!..\nUna troupe cinematografica argentina pluripremiata ha lavorato al progetto. Immergiti in una storia spaventosa mentre risolvi enigmi e combatti creature inquietanti.\nProtagonisti: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Altri giochi FMV.",
-        "title_id": "0100CD7028862000"
       },
       {
         "title": "Content Warning [NSZ][RUS/Multi13]",
@@ -8605,6 +8785,36 @@
     ],
     "pt_br": [
       {
+        "title": "Tenebris Somnia [RePack][NSP][RUS (Mod.)/ENG]",
+        "size": "1.04 GB",
+        "magnet": "magnet:?xt=urn:btih:6A17F1D4E162B9AD9B1607CC24DA19AF7BF555DC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6924084",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6924084",
+        "year": "2026, outubro",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP, repack",
+        "interface_lang": "Inglês [ENG] + tradução automática por Onzi",
+        "voice_lang": "Inglês",
+        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Não",
+        "cover": "https://i6.imageban.ru/out/2026/10/17/255a46b0a46142f12fbabd015fbc1e2e.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/ae/69f2e138403ffddcc42805ea9cc1fcae.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/38/027fdab658b595a9c370d2ec0f166538.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/04/df6463a6d11e3dcb791fe659ddabe504.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/17/bb14fc3c3e460a9a759ab192c86e4317.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/51/47362db297779aedb541d0438ce80651.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f2/b54ceb0078907e3ee74bb7607f74cbf2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f3/47559f5e6dd8a86b7f7697a0f5a32df3.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/d9/d402456d1776568408499970b29d2dd9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/cc/77162131845e82afbc40921a45a3accc.jpeg"
+        ],
+        "description": "Uma mistura quente de aventura clássica de apontar e clicar, ação e terror de sobrevivência em 2D no estilo de LucasArts Maniac Mansion, incluindo cenas completas com atores ao vivo!\nUma premiada equipe de filmagem da Argentina trabalhou no projeto. Mergulhe em uma história assustadora enquanto resolve quebra-cabeças e luta contra criaturas assustadoras.\nEstrelando: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Mais jogos FMV.",
+        "title_id": "0100CD7028862000"
+      },
+      {
         "title": "Lost Odyssey (port ) [NRO][ENG]",
         "size": "21.85 GB",
         "magnet": "magnet:?xt=urn:btih:B186C549E9620DD86D8AC7B7B2882C4B2396F3C7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -8619,7 +8829,7 @@
         "voice_lang": "Inglês",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i7.imageban.ru/out/2026/10/17/74533c380b5ea89898dbbe22db209fd3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6924019.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/cf/6ace111f64ffd0a9894507147acfeccf.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/67/fb5bea2d9a77d6c3618658d376649467.jpeg",
@@ -8631,7 +8841,7 @@
           "https://i128.fastpic.org/thumb/2026/1017/4d/b40f372b831e2be1605fdf5f8e21904d.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/63/33295d7a36b1ca3d00ebfb8e8d8f2663.jpeg"
         ],
-        "description": "A energia mágica sempre esteve contida nos seres vivos, mas seu poder aumentou muito 30 anos antes dos acontecimentos do jogo. Isso influenciou muito a sociedade através da criação do dispositivo “Motor Mágico”, que possibilitou o uso do poder mágico para iluminação, carros, comunicações, robôs e outros fins. Se antes apenas alguns poucos podiam usar magia, agora muitos receberam esta oportunidade.\nEste progresso também criou o desejo de duas nações: o Reino de Gohtz e a República de Uhra, uma sociedade monárquica recentemente reformada; desenvolver novas e mais poderosas armas de destruição em massa. Os Uhra constroem o Grande Cajado, um gigantesco mecanismo mágico, enquanto os altamente industrializados Gohtza estudam ativamente a magia dentro de si. A terceira nação, os Estados do Oceano Livre de Numara, permanece isolada e neutra, mas cai em desordem devido a tentativas de golpe. Uhra luta contra os Khents, uma nação de homens-fera, e eles enviam suas forças para as Montanhas Wal para a batalha final, onde o jogo começa!...\nOdisséia Perdida, Japonês. ロストオデッセイ Rosuto odessey, ou Lost Odyssey, é um RPG japonês publicado pela Microsoft Game Studios exclusivamente para Xbox 360. Lost Odyssey foi criado por Hironobu Sakaguchi, criador da famosa série Final Fantasy. Este é o terceiro projeto de Sakaguchi fora da Square Enix, seguindo ASH: Archaic Sealed Heat e Blue Dragon. O jogador controla um personagem chamado Kaim, um homem que viveu durante mil anos sem memória do seu passado, e começa num mundo em que uma mágica \"revolução industrial\" se aproxima: Kaim luta para recuperar a sua memória e a dor que isso traz. A Famitsu deu ao jogo uma pontuação de 36/40, com todos os quatro críticos dando nove.\nTrailer de vídeo.",
+        "description": "A energia mágica sempre esteve contida nos seres vivos, mas seu poder aumentou muito 30 anos antes dos acontecimentos do jogo. Isso influenciou muito a sociedade através da criação do dispositivo “Motor Mágico”, que possibilitou o uso do poder mágico para iluminação, carros, comunicações, robôs e outros fins. Se antes apenas alguns poucos podiam usar magia, agora muitos receberam esta oportunidade.\nEste progresso também criou um desejo entre as duas nações, o Reino de Gohtz e a República de Uhra, de uma sociedade monárquica recentemente reformada; desenvolver novas e mais poderosas armas de destruição em massa. Os Uhra constroem o Grande Cajado, um gigantesco mecanismo mágico, enquanto os altamente industrializados Gohtza estudam ativamente a magia dentro de si. A terceira nação, os Estados do Oceano Livre de Numara, permanece isolada e neutra, mas cai em desordem devido a tentativas de golpe. Uhra luta contra os Khents, uma nação de homens-fera, e eles enviam suas forças para as Montanhas Wal para a batalha final, onde o jogo começa!...\nOdisséia Perdida, Japonês. Rosuto odessey ロストオデッセイ, ou Lost Odyssey, é um RPG japonês publicado pela Microsoft Game Studios exclusivamente para Xbox 360. Lost Odyssey foi criado por Hironobu Sakaguchi, criador da famosa série Final Fantasy. Este é o terceiro projeto de Sakaguchi fora da Square Enix, seguindo ASH: Archaic Sealed Heat e Blue Dragon. O jogador controla um personagem chamado Kaim, um homem que viveu durante mil anos sem memória do seu passado, e começa num mundo em que uma mágica \"revolução industrial\" se aproxima: Kaim luta para recuperar a sua memória e a dor que isso traz. A Famitsu deu ao jogo uma pontuação de 36/40, com todos os quatro críticos dando nove.\nTrailer de vídeo.",
         "title_id": null
       },
       {
@@ -8649,7 +8859,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
-        "cover": "https://i5.imageban.ru/out/2026/10/17/8d7c11fd732ffc7a0160c0af0c600166.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923956.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/97/05a91a79fe7428f8dc1d0c606d7bc297.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/13/2cc46534baa519f57a2cad4233110513.jpeg",
@@ -8661,8 +8871,38 @@
           "https://i128.fastpic.org/thumb/2026/1017/98/c3dd451bc795f8282839978fbb4fc998.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/7b/920091d61b62015b625b1c108bb0a97b.jpeg"
         ],
-        "description": "\"Nossas palavras são como gotas de sangue fluindo. Somente a dor revela plenamente as pessoas.\" ~©\nO jogo é destinado exclusivamente ao público adulto com psique estável: extrema crueldade e sangrenta são comuns nas masmorras, há demonstração do uso de drogas e são levantados temas difíceis, da autotortura à violência sexual. Todos eles são parte integrante da criação do mundo e estão presentes para criar uma atmosfera sombria especial que mostra até onde uma pessoa pode ir em sua busca pela sobrevivência.\nA ação se passa na fantasia medieval nas masmorras do medo e da fome, localizadas no território do reino de Rondon, análogo da França e da Grã-Bretanha, em 1590. Existem quatro personagens para escolher: Mercenário, Cavaleiro, Dark Priest e Outlander. Os heróis vão para as masmorras com um propósito: encontrar um homem preso nelas chamado Le'Gard. Cada personagem tem seu próprio motivo para a descida e sua própria história de fundo. No centro do mundo do jogo estão deuses antigos como Gro-Goroth, o deus da destruição e do sacrifício, e Sylvian, a deusa do amor e da criação. Eles são seres extremamente poderosos adorados por certas facções de pessoas. Existem também novos deuses no mundo, mortais que se sentam no trono da Ascensão na lendária cidade dos deuses Ma'Havra.\nO jogo tem uma dúzia de finais possíveis.",
+        "description": "\"Nossas palavras são como gotas de sangue fluindo. Somente a dor revela plenamente as pessoas.\" ~©\nO jogo é destinado exclusivamente ao público adulto com psique estável: extrema crueldade e sangrenta são comuns nas masmorras, há demonstração do uso de drogas e são levantados temas difíceis, da autotortura à violência sexual. Todos eles são parte integrante da criação do mundo e estão presentes para criar uma atmosfera sombria especial que mostra até onde uma pessoa pode ir em sua busca pela sobrevivência.\nA ação se passa na fantasia da Idade Média, masmorras do medo e da fome, localizadas no território do reino de Rondon, análogo da França e da Grã-Bretanha em 1590 do século XVI. Existem quatro personagens para escolher: Mercenário, Cavaleiro, Dark Priest e Outlander. Os heróis vão para as masmorras com um propósito: encontrar um homem preso nelas chamado Le'Gard. Cada personagem tem seu próprio motivo para a descida e sua própria história de fundo. No coração do mundo estão deuses antigos como Gro-Goroth, o deus da destruição e do sacrifício, e Sylvian, a deusa do amor e da criação. Eles são seres extremamente poderosos adorados por certas facções de pessoas. Existem também novos deuses no mundo, mortais que se sentam no trono da Ascensão na lendária cidade dos deuses Ma'Havra.\nO jogo tem uma dúzia de finais possíveis.",
         "title_id": null
+      },
+      {
+        "title": "Tenebris Somnia [NSP][ENG]",
+        "size": "15.4 GB",
+        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923613",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
+        "year": "2026, outubro",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP",
+        "interface_lang": "Inglês [ENG]",
+        "voice_lang": "Inglês",
+        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Não",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
+        ],
+        "description": "Uma mistura quente de aventura clássica de apontar e clicar, ação e terror de sobrevivência em 2D no estilo de LucasArts Maniac Mansion, incluindo cenas completas com atores ao vivo!\nUma premiada equipe de filmagem da Argentina trabalhou no projeto. Mergulhe em uma história assustadora enquanto resolve quebra-cabeças e luta contra criaturas assustadoras.\nEstrelando: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Mais jogos FMV. Uma versão com qualidade de vídeo degradada está aqui.",
+        "title_id": "0100CD7028862000"
       },
       {
         "title": "Spica Adventure [NSZ][ENG]",
@@ -8802,36 +9042,6 @@
         ],
         "description": "Ketsu Butler is a hilarious action game in which players fight by shaking their butts!\n\nWhen you set the Joy-Con™ on your pants and swing it, Ketsu Batller on the screen will also swing his sword in time with your movement! Hit your opponent in the head with your sword and win the game!\n\nEach of the six Ketsu Batller players has a different personality! Charge up your power by shaking your buttocks and overwhelm your opponent with your powerful moves!",
         "title_id": "010045B01FAF8000"
-      },
-      {
-        "title": "Tenebris Somnia [NSP][ENG]",
-        "size": "15.4 GB",
-        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6923613",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
-        "year": "2026, outubro",
-        "genre": "FMV, Horror, Adventure, Action, Point & Click",
-        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
-        "publisher": "New Blood Interactive",
-        "image_format": "NSP",
-        "interface_lang": "Inglês [ENG]",
-        "voice_lang": "Inglês",
-        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "Não",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
-        ],
-        "description": "Uma mistura quente de aventura clássica de apontar e clicar, ação e terror de sobrevivência em 2D no estilo de LucasArts Maniac Mansion, incluindo cenas completas com atores ao vivo!\nUma premiada equipe de filmagem da Argentina trabalhou no projeto. Mergulhe em uma história assustadora enquanto resolve quebra-cabeças e luta contra criaturas assustadoras.\nEstrelando: Maria Eugenia Rigon, Clara Kovacic, Pedro Merlo, Esteban Prol, Florencia Ansaldo, Andres Borghi, Ricardo Castro, Vic Cicuta, Flor Fiori, Virginia Garofalo, Marianne Lettieri, Celeste Noguera, Eduardo Peduto, Carlos Pinheiro, Tobias Rusjan, Mauro Serafini, Bianca Temperini, Laura Wich.Mais jogos FMV.",
-        "title_id": "0100CD7028862000"
       },
       {
         "title": "Content Warning [NSZ][RUS/Multi13]",
@@ -10029,6 +10239,36 @@
     ],
     "zh_hans": [
       {
+        "title": "Tenebris Somnia [RePack][NSP][RUS (Mod.)/ENG]",
+        "size": "1.04 GB",
+        "magnet": "magnet:?xt=urn:btih:6A17F1D4E162B9AD9B1607CC24DA19AF7BF555DC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6924084",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6924084",
+        "year": "2026, 10月",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP, 整合版",
+        "interface_lang": "英语 [ENG] + 机器翻译 来自 Onzi",
+        "voice_lang": "英语",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "无",
+        "cover": "https://i6.imageban.ru/out/2026/10/17/255a46b0a46142f12fbabd015fbc1e2e.png",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/ae/69f2e138403ffddcc42805ea9cc1fcae.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/38/027fdab658b595a9c370d2ec0f166538.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/04/df6463a6d11e3dcb791fe659ddabe504.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/17/bb14fc3c3e460a9a759ab192c86e4317.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/51/47362db297779aedb541d0438ce80651.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f2/b54ceb0078907e3ee74bb7607f74cbf2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/f3/47559f5e6dd8a86b7f7697a0f5a32df3.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/d9/d402456d1776568408499970b29d2dd9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/cc/77162131845e82afbc40921a45a3accc.jpeg"
+        ],
+        "description": "LucasArts Maniac Mansion 风格的经典点击式冒险 2D 动作生存恐怖的热门融合，包括由真人演员表演的完整过场动画！\n来自阿根廷的获奖电影摄制组参与了该项目的制作。当你解决谜题并与令人毛骨悚然的生物战斗时，让自己沉浸在一个可怕的故事中。\n主演：玛丽亚·尤金尼娅·里贡,克拉拉·科瓦契奇,佩德罗·梅洛,埃斯特万·普罗尔,弗洛伦西亚·安萨尔多,安德烈斯·博尔吉,里卡多·卡斯特罗,维克·西库塔,弗洛尔·菲奥里,弗吉尼亚·加罗法洛,玛丽安·莱蒂耶里,塞莱斯特·诺格拉,爱德华多·佩杜托,卡洛斯·皮涅罗,托比亚斯·鲁斯詹,毛罗·塞拉菲尼,比安卡·坦佩里尼,劳拉更多FMV 游戏。",
+        "title_id": "0100CD7028862000"
+      },
+      {
         "title": "Lost Odyssey (移植版 ) [NRO][ENG]",
         "size": "21.85 GB",
         "magnet": "magnet:?xt=urn:btih:B186C549E9620DD86D8AC7B7B2882C4B2396F3C7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -10043,7 +10283,7 @@
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i7.imageban.ru/out/2026/10/17/74533c380b5ea89898dbbe22db209fd3.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6924019.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/cf/6ace111f64ffd0a9894507147acfeccf.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/67/fb5bea2d9a77d6c3618658d376649467.jpeg",
@@ -10055,7 +10295,7 @@
           "https://i128.fastpic.org/thumb/2026/1017/4d/b40f372b831e2be1605fdf5f8e21904d.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/63/33295d7a36b1ca3d00ebfb8e8d8f2663.jpeg"
         ],
-        "description": "魔法能量一直蕴藏在生物体内，但其威力在游戏发生前三十年已大幅增加。通过创造“魔法引擎”装置，这极大地影响了社会，这使得将魔法力量用于照明、汽车、通信、机器人和其他目的成为可能。如果以前只有少数人可以使用魔法，那么现在很多人都获得了这个机会。\n这一进步也产生了两个国家的愿望：戈茨王国和新改革的君主制社会乌赫拉共和国；开发新的、威力更强大的大规模杀伤性武器。乌拉人建造了伟大的法杖，一个巨大的魔法引擎，而高度工业化的戈特扎则积极研究自身的魔法。第三个国家，自由海洋国家努马拉，仍然保持孤立和中立，但由于政变企图而陷入混乱。乌赫拉与野兽人国家肯特人作战，他们派出军队前往沃尔山脉进行最后的战斗，游戏开始于此！...\n失落的奥德赛，日本。 rosutoオデセイ Rosuto odessey，或称失落的奥德赛，是一款由 Microsoft Game Studios 专门为 Xbox 360 发行的日本角色扮演游戏。失落的奥德赛由著名的《最终幻想》系列的创作者坂口博信 (Hironobu Sakaguchi) 创作。这是继《ASH: Archaic Sealed Heat》和《Blue Dragon》之后，坂口在 Square Enix 之外的第三个项目。玩家控制一个名叫凯姆的角色，他已经活了一千年，对自己的过去没有任何记忆，并开始在一个神奇的“工业革命”即将到来的世界：凯姆努力恢复记忆，并承受由此带来的痛苦。 《Fami通》给这款游戏的评分为 36/40，四位评论家全部给了 9 分。\n视频预告片。",
+        "description": "魔法能量一直蕴藏在生物体内，但其威力在游戏发生前三十年已大幅增加。通过创造“魔法引擎”装置，这极大地影响了社会，这使得将魔法力量用于照明、汽车、通信、机器人和其他目的成为可能。如果以前只有少数人可以使用魔法，那么现在很多人都获得了这个机会。\n这一进步也引起了戈茨王国和乌赫拉共和国这两个国家对新改革的君主制社会的渴望。开发新的、威力更强大的大规模杀伤性武器。乌拉人建造了伟大的法杖，一个巨大的魔法引擎，而高度工业化的戈特扎则积极研究自身的魔法。第三个国家，自由海洋国家努马拉，仍然保持孤立和中立，但由于政变企图而陷入混乱。乌赫拉与野兽人国家肯特人作战，他们派出军队前往沃尔山脉进行最后的战斗，游戏开始于此！...\n失落的奥德赛，日本。 Rosuto odessey rosutoodesseui，或失落的奥德赛，是一款由微软游戏工作室专门为 Xbox 360 发行的日本角色扮演游戏。失落的奥德赛由著名的最终幻想系列的创作者坂口博信创作。这是继《ASH: Archaic Sealed Heat》和《Blue Dragon》之后，坂口在 Square Enix 之外的第三个项目。玩家控制一个名叫凯姆的角色，他已经活了一千年，对自己的过去没有任何记忆，并开始在一个神奇的“工业革命”即将到来的世界：凯姆努力恢复记忆，并承受由此带来的痛苦。 《Fami通》给这款游戏的评分为 36/40，四位评论家全部给了 9 分。\n视频预告片。",
         "title_id": null
       },
       {
@@ -10073,7 +10313,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i5.imageban.ru/out/2026/10/17/8d7c11fd732ffc7a0160c0af0c600166.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923956.jpg",
         "screenshots": [
           "https://i128.fastpic.org/thumb/2026/1017/97/05a91a79fe7428f8dc1d0c606d7bc297.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/13/2cc46534baa519f57a2cad4233110513.jpeg",
@@ -10085,8 +10325,38 @@
           "https://i128.fastpic.org/thumb/2026/1017/98/c3dd451bc795f8282839978fbb4fc998.jpeg",
           "https://i128.fastpic.org/thumb/2026/1017/7b/920091d61b62015b625b1c108bb0a97b.jpeg"
         ],
-        "description": "“我们的话语就像流淌的血滴，只有悲伤才能充分地揭示人的内心。” 〜©\n该游戏专为心理稳定的成年观众而设计：地牢中充斥着极端残忍和血腥，有毒品使用的演示，并提出了从自虐到性暴力等棘手的话题。所有这些都是世界创造过程中不可或缺的一部分，它们的存在是为了营造一种特殊的黑暗氛围，展示一个人为了生存可以走多远。\n故事发生在中世纪奇幻的恐惧与饥饿地牢中，位于朗东王国（相当于法国和英国）的领土上，时间为 1590 年。有四个角色可供选择：雇佣兵、骑士、黑暗牧师和异乡人。英雄们进入地牢的目的只有一个——找到一个被囚禁在其中的名叫勒加德的人。每个角色都有自己的下降动机和背景故事。游戏世界的核心是古老的神灵，例如破坏与牺牲之神格罗戈罗斯（Gro-Goroth）以及爱与创造女神西尔维安（Sylvian）。他们是极其强大的存在，受到某些派系的人们崇拜。世界上还有新的神祇，他们是坐在传说中的众神之城玛哈夫拉的升天王座上的凡人。\n游戏有十几种可能的结局。",
+        "description": "“我们的话语就像流淌的血滴，只有悲伤才能充分地揭示人。” 〜©\n该游戏专为心理稳定的成年观众而设计：地牢中充斥着极端残忍和血腥，有毒品使用的演示，并提出了从自虐到性暴力等棘手的话题。所有这些都是世界创造过程中不可或缺的一部分，它们的存在是为了营造一种特殊的黑暗氛围，展示一个人为了生存可以走多远。\n故事发生在奇幻的中世纪，充满恐惧和饥饿的地牢，位于隆东王国的领土上，相当于 16 世纪 1590 年的法国和英国。有四种角色可供选择：雇佣兵、骑士、黑暗牧师和外地人。英雄们进入地牢的目的只有一个——找到一个被囚禁在其中的名叫勒加德的人。每个角色都有自己的下降动机和自己的背景故事。世界的中心是古老的神灵，例如破坏与牺牲之神格罗戈罗斯，以及爱与创造女神西尔维安。他们是极其强大的存在，受到某些派系的人们崇拜。世界上还有新的神祇，他们是坐在传说中的众神之城玛哈夫拉的升天王座上的凡人。\n游戏有十几种可能的结局。",
         "title_id": null
+      },
+      {
+        "title": "Tenebris Somnia [NSP][ENG]",
+        "size": "15.4 GB",
+        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923613",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
+        "year": "2026, 10月",
+        "genre": "FMV, Horror, Adventure, Action, Point & Click",
+        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
+        "publisher": "New Blood Interactive",
+        "image_format": "NSP",
+        "interface_lang": "英语 [ENG]",
+        "voice_lang": "英语",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
+        ],
+        "description": "LucasArts Maniac Mansion 风格的经典点击式冒险 2D 动作生存恐怖的热门融合，包括由真人演员表演的完整过场动画！\n来自阿根廷的获奖电影摄制组参与了该项目的制作。当你解决谜题并与令人毛骨悚然的生物战斗时，让自己沉浸在一个可怕的故事中。\n主演：玛丽亚·尤金尼娅·里贡,克拉拉·科瓦契奇,佩德罗·梅洛,埃斯特万·普罗尔,弗洛伦西亚·安萨尔多,安德烈斯·博尔吉,里卡多·卡斯特罗,维克·西库塔,弗洛尔·菲奥里,弗吉尼亚·加罗法洛,玛丽安·莱蒂耶里,塞莱斯特·诺格拉,爱德华多·佩杜托,卡洛斯·皮涅罗,托比亚斯·鲁斯詹,毛罗·塞拉菲尼,比安卡·坦佩里尼,劳拉更多FMV 游戏。这里有一个视频质量下降的版本。",
+        "title_id": "0100CD7028862000"
       },
       {
         "title": "Spica Adventure [NSZ][ENG]",
@@ -10231,36 +10501,6 @@
         ],
         "description": "Neobychnyy fitnes-fayting dlya Nintendo Switch, predlagayushchiy osobyy sposob bitvy — nuzhno srazhatsya svoim dzhoykonom okolo popy!\nDa, sut igry v tom, chtoby razmestit kontroller v zadnem karmane bryuk (ili prosto zakrepit pozadi za poyasom), i nachat aktivno dvigat byodrami. Vashi dvizheniya napryamuyu upravlyayut virtualnymi personazhami na ekrane, kotorye srazhayutsya, razmakhivaya mechami! Vesyolyy fayting s prostym, no neveroyatno uvlekatelnym geympleem: dlya pobedy nuzhno vstryakhnut opponenta i metko nanesti udar mechom. V igre predstavleno 6 personazhey s raznymi boevymi stilyami i spets. sposobnostyami, a dlya maksimalnogo uspekha vazhno pravilno vybrat taktiku i ne zhalet energii tela na tantsevalnye dvizheniya. Proekt orientirovan na druzheskie vecherinki, sorevnovaniya s druzyami i tekh, kto tsenit igry s yumorom i aktivnoy fizicheskoy sostavlyayushchey. Pomimo osnovnogo rezhima dueley, razrabotchiki obeshchayut dopolnitelnye ispytaniya i varianty kastomizatsii personazhey.\nIgra idealno vpisyvaetsya v spisok neobychnykh razvlecheniy konsoli, gde fizicheskaya aktivnost stanovitsya neotemlemoy chastyu protsessa.",
         "title_id": "010045B01FAF8000"
-      },
-      {
-        "title": "Tenebris Somnia [NSP][ENG]",
-        "size": "15.4 GB",
-        "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6923613",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6923613",
-        "year": "2026, 10月",
-        "genre": "FMV, Horror, Adventure, Action, Point & Click",
-        "developer": "Saibot Studios, Andres Borgi, Tobias Rusyan",
-        "publisher": "New Blood Interactive",
-        "image_format": "NSP",
-        "interface_lang": "英语 [ENG]",
-        "voice_lang": "英语",
-        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "无",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923613.jpg",
-        "screenshots": [
-          "https://i128.fastpic.org/thumb/2026/1016/2e/1870133bd7388337f80b8eb80b41332e.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/e2/63a0f6b82c907dbd432eb73271fb90e2.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/01/5ea9e2834a7b2d97d66d3223af710f01.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/a6/d1b96dc7e8f87b469bc8bd8a72be94a6.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/6f/719126d8257b64dc21271c94cb63e76f.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/2a/4a03bd09b7efb530babcdd6e3d47e32a.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/3c/5095ec850bfdd64f50943e1fdc3d483c.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/00/7c60193acb0c8cbd3a26b181d5755300.jpeg",
-          "https://i128.fastpic.org/thumb/2026/1016/05/2b4bfc2867b2dd2d6bd3f1ff8fd0bb05.jpeg"
-        ],
-        "description": "LucasArts Maniac Mansion 风格的经典点击式冒险 2D 动作生存恐怖的热门融合，包括由真人演员表演的完整过场动画！\n来自阿根廷的获奖电影摄制组参与了该项目的制作。当你解决谜题并与令人毛骨悚然的生物战斗时，让自己沉浸在一个可怕的故事中。\n主演：玛丽亚·尤金尼娅·里贡,克拉拉·科瓦契奇,佩德罗·梅洛,埃斯特万·普罗尔,弗洛伦西亚·安萨尔多,安德烈斯·博尔吉,里卡多·卡斯特罗,维克·西库塔,弗洛尔·菲奥里,弗吉尼亚·加罗法洛,玛丽安·莱蒂耶里,塞莱斯特·诺格拉,爱德华多·佩杜托,卡洛斯·皮涅罗,托比亚斯·鲁斯詹,毛罗·塞拉菲尼,比安卡·坦佩里尼,劳拉更多FMV 游戏。",
-        "title_id": "0100CD7028862000"
       },
       {
         "title": "Content Warning [NSZ][RUS/Multi13]",
