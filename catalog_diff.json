@@ -1,10 +1,37 @@
 {
   "version": 1,
-  "generated_at": 1792196315,
+  "generated_at": 1792219922,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
     "ru": [
+      {
+        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
+        "size": "370.4 MB",
+        "magnet": "magnet:?xt=urn:btih:963881CD25606503B8631D2A41AD5C5F30E48EFC&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6612896",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
+        "year": "2024, декабрь",
+        "genre": "Fighting, Arcade, Fitness",
+        "developer": "Kayac",
+        "publisher": "KAYAC Inc.",
+        "image_format": ".NSZ (сжато ~56%, установленный объём 0.80 ГБ)",
+        "interface_lang": "Английский [ENG]",
+        "voice_lang": "не озвучивается",
+        "performance": "Да (на 18.1.0, Atmosphere 1.7.1)",
+        "multiplayer": "для 2 игроков",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
+        "screenshots": [
+          "https://i124.fastpic.org/thumb/2024/1213/1d/b6f4ff8907dd1ad1a8b0f6ca6ec1b81d.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/cf/e954f01208157afc4299fe147aa3a8cf.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/ed/845014d3241c46240a11e7bcdaed17ed.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/1c/b531f3a28acf4e2b45bc1e9087eb781c.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/31/b471ceec7487befa0ee300f180094131.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/2c/d4b2431555a9f19c3df05e5b1aa7862c.jpeg"
+        ],
+        "description": "Необычный фитнес-файтинг для Nintendo Switch, предлагающий особый способ битвы — нужно сражаться своим джойконом около попы!\nДа, суть игры в том, чтобы разместить контроллер в заднем кармане брюк (или просто закрепить позади за поясом), и начать активно двигать бёдрами. Ваши движения напрямую управляют виртуальными персонажами на экране, которые сражаются, размахивая мечами! Весёлый файтинг с простым, но невероятно увлекательным геймплеем: для победы нужно встряхнуть оппонента и метко нанести удар мечом. В игре представлено 6 персонажей с разными боевыми стилями и спец. способностями, а для максимального успеха важно правильно выбрать тактику и не жалеть энергии тела на танцевальные движения. Проект ориентирован на дружеские вечеринки, соревнования с друзьями и тех, кто ценит игры с юмором и активной физической составляющей. Помимо основного режима дуэлей, разработчики обещают дополнительные испытания и варианты кастомизации персонажей.\nИгра идеально вписывается в список необычных развлечений консоли, где физическая активность становится неотъемлемой частью процесса.",
+        "title_id": "010045B01FAF8000"
+      },
       {
         "title": "Tenebris Somnia [NSP][ENG]",
         "size": "15.4 GB",
@@ -645,33 +672,6 @@
         ],
         "description": "Динамичная карточная игра!\nСоберите неудержимую армию фишек, связывайте мощные комбо и наслаждайтесь бесконечными возможностями!..",
         "title_id": "01000500296CA000"
-      },
-      {
-        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
-        "size": "369.5 MB",
-        "magnet": "magnet:?xt=urn:btih:44C02C8C6251F0A58CAE6CD7D70366B693606F37&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6612896",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
-        "year": "2024, декабрь",
-        "genre": "Fighting, Arcade, Fitness",
-        "developer": "Kayac",
-        "publisher": "KAYAC Inc.",
-        "image_format": ".NSZ (сжато ~56%, установленный объём 0.80 ГБ)",
-        "interface_lang": "Английский [ENG]",
-        "voice_lang": "не озвучивается",
-        "performance": "Да (на 18.1.0, Atmosphere 1.7.1)",
-        "multiplayer": "для 2 игроков",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
-        "screenshots": [
-          "https://i124.fastpic.org/thumb/2024/1213/1d/b6f4ff8907dd1ad1a8b0f6ca6ec1b81d.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/cf/e954f01208157afc4299fe147aa3a8cf.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/ed/845014d3241c46240a11e7bcdaed17ed.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/1c/b531f3a28acf4e2b45bc1e9087eb781c.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/31/b471ceec7487befa0ee300f180094131.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/2c/d4b2431555a9f19c3df05e5b1aa7862c.jpeg"
-        ],
-        "description": "Необычный фитнес-файтинг для Nintendo Switch, предлагающий особый способ битвы — нужно сражаться своим джойконом около попы!\nДа, суть игры в том, чтобы разместить контроллер в заднем кармане брюк (или просто закрепить позади за поясом), и начать активно двигать бёдрами. Ваши движения напрямую управляют виртуальными персонажами на экране, которые сражаются, размахивая мечами! Весёлый файтинг с простым, но невероятно увлекательным геймплеем: для победы нужно встряхнуть оппонента и метко нанести удар мечом. В игре представлено 6 персонажей с разными боевыми стилями и спец. способностями, а для максимального успеха важно правильно выбрать тактику и не жалеть энергии тела на танцевальные движения. Проект ориентирован на дружеские вечеринки, соревнования с друзьями и тех, кто ценит игры с юмором и активной физической составляющей. Помимо основного режима дуэлей, разработчики обещают дополнительные испытания и варианты кастомизации персонажей.\nИгра идеально вписывается в список необычных развлечений консоли, где физическая активность становится неотъемлемой частью процесса.",
-        "title_id": "010045B01FAF8000"
       },
       {
         "title": "Croc's World 1-5 / Run [NSZ][ENG,RUS]",
@@ -1694,6 +1694,33 @@
     ],
     "en": [
       {
+        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
+        "size": "370.4 MB",
+        "magnet": "magnet:?xt=urn:btih:963881CD25606503B8631D2A41AD5C5F30E48EFC&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6612896",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
+        "year": "2024, December",
+        "genre": "Fighting, Arcade, Fitness",
+        "developer": "Kayac",
+        "publisher": "KAYAC",
+        "image_format": ".NSZ (compressed ~56%, installed size 0.80 GB)",
+        "interface_lang": "English [ENG]",
+        "voice_lang": "No voiceover",
+        "performance": "Yes (on 18.1.0, Atmosphere 1.7.1)",
+        "multiplayer": "2 players",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/3a0edad6348bbb48645a7634aa1bdca92cd047aa12255e086ffc2f19dab50783.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/c6d64ad14b8d04d257b6286086c184103625f029da4ab72874fcf3f69c385db2.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/fc8ae9d613ad4467cd486f9e91ed15690fcee3be7798770f2961e154908b372a.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/75dfa3c4fa3b885abc313e0300f6e21da0ccd9645acd67e4b23ed7bcfc2b9d45.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/cb97eebb13275ab47a171699643bf381e6d7c1ba48e259bc6ee5fa1b6ab93b93.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/0c5ad796f09d22460a6963fb4d33d4ec6da0483d2a1d683cd6d58df33312eeff.jpg"
+        ],
+        "description": "Ketsu Butler is a hilarious action game in which players fight by shaking their butts!\n\nWhen you set the Joy-Con™ on your pants and swing it, Ketsu Batller on the screen will also swing his sword in time with your movement! Hit your opponent in the head with your sword and win the game!\n\nEach of the six Ketsu Batller players has a different personality! Charge up your power by shaking your buttocks and overwhelm your opponent with your powerful moves!",
+        "title_id": "010045B01FAF8000"
+      },
+      {
         "title": "Tenebris Somnia [NSP][ENG]",
         "size": "15.4 GB",
         "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -2318,33 +2345,6 @@
         ],
         "description": "Dinamichnaya kartochnaya igra!\nSoberite neuderzhimuyu armiyu fishek, svyazyvayte moshchnye kombo i naslazhdaytes beskonechnymi vozmozhnostyami!..",
         "title_id": "01000500296CA000"
-      },
-      {
-        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
-        "size": "369.5 MB",
-        "magnet": "magnet:?xt=urn:btih:44C02C8C6251F0A58CAE6CD7D70366B693606F37&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6612896",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
-        "year": "2024, December",
-        "genre": "Fighting, Arcade, Fitness",
-        "developer": "Kayac",
-        "publisher": "KAYAC",
-        "image_format": ".NSZ (compressed ~56%, installed size 0.80 GB)",
-        "interface_lang": "English [ENG]",
-        "voice_lang": "No voiceover",
-        "performance": "Yes (on 18.1.0, Atmosphere 1.7.1)",
-        "multiplayer": "2 players",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/3a0edad6348bbb48645a7634aa1bdca92cd047aa12255e086ffc2f19dab50783.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/c6d64ad14b8d04d257b6286086c184103625f029da4ab72874fcf3f69c385db2.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/fc8ae9d613ad4467cd486f9e91ed15690fcee3be7798770f2961e154908b372a.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/75dfa3c4fa3b885abc313e0300f6e21da0ccd9645acd67e4b23ed7bcfc2b9d45.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/cb97eebb13275ab47a171699643bf381e6d7c1ba48e259bc6ee5fa1b6ab93b93.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/0c5ad796f09d22460a6963fb4d33d4ec6da0483d2a1d683cd6d58df33312eeff.jpg"
-        ],
-        "description": "Ketsu Butler is a hilarious action game in which players fight by shaking their butts!\n\nWhen you set the Joy-Con™ on your pants and swing it, Ketsu Batller on the screen will also swing his sword in time with your movement! Hit your opponent in the head with your sword and win the game!\n\nEach of the six Ketsu Batller players has a different personality! Charge up your power by shaking your buttocks and overwhelm your opponent with your powerful moves!",
-        "title_id": "010045B01FAF8000"
       },
       {
         "title": "Croc's World 1-5 / Run [NSZ][ENG,RUS]",
@@ -3327,6 +3327,33 @@
     ],
     "es": [
       {
+        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
+        "size": "370.4 MB",
+        "magnet": "magnet:?xt=urn:btih:963881CD25606503B8631D2A41AD5C5F30E48EFC&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6612896",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
+        "year": "2024, diciembre",
+        "genre": "Fighting, Arcade, Fitness",
+        "developer": "Kayac",
+        "publisher": "KAYAC",
+        "image_format": ".NSZ (comprimido ~56%, tamaño instalado 0.80 GB)",
+        "interface_lang": "Inglés [ENG]",
+        "voice_lang": "Sin voces",
+        "performance": "Sí (en 18.1.0, Atmosphere 1.7.1)",
+        "multiplayer": "2 jugadores",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/3a0edad6348bbb48645a7634aa1bdca92cd047aa12255e086ffc2f19dab50783.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/c6d64ad14b8d04d257b6286086c184103625f029da4ab72874fcf3f69c385db2.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/fc8ae9d613ad4467cd486f9e91ed15690fcee3be7798770f2961e154908b372a.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/75dfa3c4fa3b885abc313e0300f6e21da0ccd9645acd67e4b23ed7bcfc2b9d45.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/cb97eebb13275ab47a171699643bf381e6d7c1ba48e259bc6ee5fa1b6ab93b93.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/0c5ad796f09d22460a6963fb4d33d4ec6da0483d2a1d683cd6d58df33312eeff.jpg"
+        ],
+        "description": "Ketsu Butler is a hilarious action game in which players fight by shaking their butts!\n\nWhen you set the Joy-Con™ on your pants and swing it, Ketsu Batller on the screen will also swing his sword in time with your movement! Hit your opponent in the head with your sword and win the game!\n\nEach of the six Ketsu Batller players has a different personality! Charge up your power by shaking your buttocks and overwhelm your opponent with your powerful moves!",
+        "title_id": "010045B01FAF8000"
+      },
+      {
         "title": "Tenebris Somnia [NSP][ENG]",
         "size": "15.4 GB",
         "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -3951,33 +3978,6 @@
         ],
         "description": "Dinamichnaya kartochnaya igra!\nSoberite neuderzhimuyu armiyu fishek, svyazyvayte moshchnye kombo i naslazhdaytes beskonechnymi vozmozhnostyami!..",
         "title_id": "01000500296CA000"
-      },
-      {
-        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
-        "size": "369.5 MB",
-        "magnet": "magnet:?xt=urn:btih:44C02C8C6251F0A58CAE6CD7D70366B693606F37&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6612896",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
-        "year": "2024, diciembre",
-        "genre": "Fighting, Arcade, Fitness",
-        "developer": "Kayac",
-        "publisher": "KAYAC",
-        "image_format": ".NSZ (comprimido ~56%, tamaño instalado 0.80 GB)",
-        "interface_lang": "Inglés [ENG]",
-        "voice_lang": "Sin voces",
-        "performance": "Sí (en 18.1.0, Atmosphere 1.7.1)",
-        "multiplayer": "2 jugadores",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/3a0edad6348bbb48645a7634aa1bdca92cd047aa12255e086ffc2f19dab50783.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/c6d64ad14b8d04d257b6286086c184103625f029da4ab72874fcf3f69c385db2.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/fc8ae9d613ad4467cd486f9e91ed15690fcee3be7798770f2961e154908b372a.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/75dfa3c4fa3b885abc313e0300f6e21da0ccd9645acd67e4b23ed7bcfc2b9d45.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/cb97eebb13275ab47a171699643bf381e6d7c1ba48e259bc6ee5fa1b6ab93b93.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/0c5ad796f09d22460a6963fb4d33d4ec6da0483d2a1d683cd6d58df33312eeff.jpg"
-        ],
-        "description": "Ketsu Butler is a hilarious action game in which players fight by shaking their butts!\n\nWhen you set the Joy-Con™ on your pants and swing it, Ketsu Batller on the screen will also swing his sword in time with your movement! Hit your opponent in the head with your sword and win the game!\n\nEach of the six Ketsu Batller players has a different personality! Charge up your power by shaking your buttocks and overwhelm your opponent with your powerful moves!",
-        "title_id": "010045B01FAF8000"
       },
       {
         "title": "Croc's World 1-5 / Run [NSZ][ENG,RUS]",
@@ -4960,6 +4960,33 @@
     ],
     "fr": [
       {
+        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
+        "size": "370.4 MB",
+        "magnet": "magnet:?xt=urn:btih:963881CD25606503B8631D2A41AD5C5F30E48EFC&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6612896",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
+        "year": "2024, décembre",
+        "genre": "Fighting, Arcade, Fitness",
+        "developer": "Kayac",
+        "publisher": "KAYAC",
+        "image_format": ".NSZ (compressé ~56%, taille installée 0.80 GB)",
+        "interface_lang": "Anglais [ENG]",
+        "voice_lang": "Sans voix",
+        "performance": "Oui (sur 18.1.0, Atmosphere 1.7.1)",
+        "multiplayer": "2 joueurs",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/3a0edad6348bbb48645a7634aa1bdca92cd047aa12255e086ffc2f19dab50783.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/c6d64ad14b8d04d257b6286086c184103625f029da4ab72874fcf3f69c385db2.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/fc8ae9d613ad4467cd486f9e91ed15690fcee3be7798770f2961e154908b372a.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/75dfa3c4fa3b885abc313e0300f6e21da0ccd9645acd67e4b23ed7bcfc2b9d45.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/cb97eebb13275ab47a171699643bf381e6d7c1ba48e259bc6ee5fa1b6ab93b93.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/0c5ad796f09d22460a6963fb4d33d4ec6da0483d2a1d683cd6d58df33312eeff.jpg"
+        ],
+        "description": "Ketsu Batller est un jeu d'action hilarant dans lequel vous secouez vos fesses !\n\nInsérez le Joy-Con™ dans votre pantalon et secouez-le, et Ketsu Batller à l'écran balancera son épée en rythme avec vos mouvements ! Frappez votre adversaire à la tête et gagnez !",
+        "title_id": "010045B01FAF8000"
+      },
+      {
         "title": "Tenebris Somnia [NSP][ENG]",
         "size": "15.4 GB",
         "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -5584,33 +5611,6 @@
         ],
         "description": "Dinamichnaya kartochnaya igra!\nSoberite neuderzhimuyu armiyu fishek, svyazyvayte moshchnye kombo i naslazhdaytes beskonechnymi vozmozhnostyami!..",
         "title_id": "01000500296CA000"
-      },
-      {
-        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
-        "size": "369.5 MB",
-        "magnet": "magnet:?xt=urn:btih:44C02C8C6251F0A58CAE6CD7D70366B693606F37&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6612896",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
-        "year": "2024, décembre",
-        "genre": "Fighting, Arcade, Fitness",
-        "developer": "Kayac",
-        "publisher": "KAYAC",
-        "image_format": ".NSZ (compressé ~56%, taille installée 0.80 GB)",
-        "interface_lang": "Anglais [ENG]",
-        "voice_lang": "Sans voix",
-        "performance": "Oui (sur 18.1.0, Atmosphere 1.7.1)",
-        "multiplayer": "2 joueurs",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/3a0edad6348bbb48645a7634aa1bdca92cd047aa12255e086ffc2f19dab50783.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/c6d64ad14b8d04d257b6286086c184103625f029da4ab72874fcf3f69c385db2.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/fc8ae9d613ad4467cd486f9e91ed15690fcee3be7798770f2961e154908b372a.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/75dfa3c4fa3b885abc313e0300f6e21da0ccd9645acd67e4b23ed7bcfc2b9d45.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/cb97eebb13275ab47a171699643bf381e6d7c1ba48e259bc6ee5fa1b6ab93b93.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/0c5ad796f09d22460a6963fb4d33d4ec6da0483d2a1d683cd6d58df33312eeff.jpg"
-        ],
-        "description": "Ketsu Batller est un jeu d'action hilarant dans lequel vous secouez vos fesses !\n\nInsérez le Joy-Con™ dans votre pantalon et secouez-le, et Ketsu Batller à l'écran balancera son épée en rythme avec vos mouvements ! Frappez votre adversaire à la tête et gagnez !",
-        "title_id": "010045B01FAF8000"
       },
       {
         "title": "Croc's World 1-5 / Run [NSZ][ENG,RUS]",
@@ -6593,6 +6593,33 @@
     ],
     "de": [
       {
+        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
+        "size": "370.4 MB",
+        "magnet": "magnet:?xt=urn:btih:963881CD25606503B8631D2A41AD5C5F30E48EFC&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6612896",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
+        "year": "2024, Dezember",
+        "genre": "Fighting, Arcade, Fitness",
+        "developer": "Kayac",
+        "publisher": "KAYAC Inc.",
+        "image_format": ".NSZ (komprimiert ~56%, installierte Größe 0.80 GB)",
+        "interface_lang": "Englisch [ENG]",
+        "voice_lang": "Keine Sprachausgabe",
+        "performance": "Ja (auf 18.1.0, Atmosphere 1.7.1)",
+        "multiplayer": "2 Spieler",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
+        "screenshots": [
+          "https://i124.fastpic.org/thumb/2024/1213/1d/b6f4ff8907dd1ad1a8b0f6ca6ec1b81d.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/cf/e954f01208157afc4299fe147aa3a8cf.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/ed/845014d3241c46240a11e7bcdaed17ed.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/1c/b531f3a28acf4e2b45bc1e9087eb781c.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/31/b471ceec7487befa0ee300f180094131.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/2c/d4b2431555a9f19c3df05e5b1aa7862c.jpeg"
+        ],
+        "description": "Neobychnyy fitnes-fayting dlya Nintendo Switch, predlagayushchiy osobyy sposob bitvy — nuzhno srazhatsya svoim dzhoykonom okolo popy!\nDa, sut igry v tom, chtoby razmestit kontroller v zadnem karmane bryuk (ili prosto zakrepit pozadi za poyasom), i nachat aktivno dvigat byodrami. Vashi dvizheniya napryamuyu upravlyayut virtualnymi personazhami na ekrane, kotorye srazhayutsya, razmakhivaya mechami! Vesyolyy fayting s prostym, no neveroyatno uvlekatelnym geympleem: dlya pobedy nuzhno vstryakhnut opponenta i metko nanesti udar mechom. V igre predstavleno 6 personazhey s raznymi boevymi stilyami i spets. sposobnostyami, a dlya maksimalnogo uspekha vazhno pravilno vybrat taktiku i ne zhalet energii tela na tantsevalnye dvizheniya. Proekt orientirovan na druzheskie vecherinki, sorevnovaniya s druzyami i tekh, kto tsenit igry s yumorom i aktivnoy fizicheskoy sostavlyayushchey. Pomimo osnovnogo rezhima dueley, razrabotchiki obeshchayut dopolnitelnye ispytaniya i varianty kastomizatsii personazhey.\nIgra idealno vpisyvaetsya v spisok neobychnykh razvlecheniy konsoli, gde fizicheskaya aktivnost stanovitsya neotemlemoy chastyu protsessa.",
+        "title_id": "010045B01FAF8000"
+      },
+      {
         "title": "Tenebris Somnia [NSP][ENG]",
         "size": "15.4 GB",
         "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -7223,33 +7250,6 @@
         ],
         "description": "Dinamichnaya kartochnaya igra!\nSoberite neuderzhimuyu armiyu fishek, svyazyvayte moshchnye kombo i naslazhdaytes beskonechnymi vozmozhnostyami!..",
         "title_id": "01000500296CA000"
-      },
-      {
-        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
-        "size": "369.5 MB",
-        "magnet": "magnet:?xt=urn:btih:44C02C8C6251F0A58CAE6CD7D70366B693606F37&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6612896",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
-        "year": "2024, Dezember",
-        "genre": "Fighting, Arcade, Fitness",
-        "developer": "Kayac",
-        "publisher": "KAYAC Inc.",
-        "image_format": ".NSZ (komprimiert ~56%, installierte Größe 0.80 GB)",
-        "interface_lang": "Englisch [ENG]",
-        "voice_lang": "Keine Sprachausgabe",
-        "performance": "Ja (auf 18.1.0, Atmosphere 1.7.1)",
-        "multiplayer": "2 Spieler",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
-        "screenshots": [
-          "https://i124.fastpic.org/thumb/2024/1213/1d/b6f4ff8907dd1ad1a8b0f6ca6ec1b81d.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/cf/e954f01208157afc4299fe147aa3a8cf.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/ed/845014d3241c46240a11e7bcdaed17ed.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/1c/b531f3a28acf4e2b45bc1e9087eb781c.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/31/b471ceec7487befa0ee300f180094131.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/2c/d4b2431555a9f19c3df05e5b1aa7862c.jpeg"
-        ],
-        "description": "Neobychnyy fitnes-fayting dlya Nintendo Switch, predlagayushchiy osobyy sposob bitvy — nuzhno srazhatsya svoim dzhoykonom okolo popy!\nDa, sut igry v tom, chtoby razmestit kontroller v zadnem karmane bryuk (ili prosto zakrepit pozadi za poyasom), i nachat aktivno dvigat byodrami. Vashi dvizheniya napryamuyu upravlyayut virtualnymi personazhami na ekrane, kotorye srazhayutsya, razmakhivaya mechami! Vesyolyy fayting s prostym, no neveroyatno uvlekatelnym geympleem: dlya pobedy nuzhno vstryakhnut opponenta i metko nanesti udar mechom. V igre predstavleno 6 personazhey s raznymi boevymi stilyami i spets. sposobnostyami, a dlya maksimalnogo uspekha vazhno pravilno vybrat taktiku i ne zhalet energii tela na tantsevalnye dvizheniya. Proekt orientirovan na druzheskie vecherinki, sorevnovaniya s druzyami i tekh, kto tsenit igry s yumorom i aktivnoy fizicheskoy sostavlyayushchey. Pomimo osnovnogo rezhima dueley, razrabotchiki obeshchayut dopolnitelnye ispytaniya i varianty kastomizatsii personazhey.\nIgra idealno vpisyvaetsya v spisok neobychnykh razvlecheniy konsoli, gde fizicheskaya aktivnost stanovitsya neotemlemoy chastyu protsessa.",
-        "title_id": "010045B01FAF8000"
       },
       {
         "title": "Croc's World 1-5 / Run [NSZ][ENG,RUS]",
@@ -8232,6 +8232,33 @@
     ],
     "it": [
       {
+        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
+        "size": "370.4 MB",
+        "magnet": "magnet:?xt=urn:btih:963881CD25606503B8631D2A41AD5C5F30E48EFC&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6612896",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
+        "year": "2024, dicembre",
+        "genre": "Fighting, Arcade, Fitness",
+        "developer": "Kayac",
+        "publisher": "KAYAC Inc.",
+        "image_format": ".NSZ (compresso ~56%, dimensione installata 0.80 GB)",
+        "interface_lang": "Inglese [ENG]",
+        "voice_lang": "Senza doppiaggio",
+        "performance": "Sì (su 18.1.0, Atmosphere 1.7.1)",
+        "multiplayer": "2 giocatori",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
+        "screenshots": [
+          "https://i124.fastpic.org/thumb/2024/1213/1d/b6f4ff8907dd1ad1a8b0f6ca6ec1b81d.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/cf/e954f01208157afc4299fe147aa3a8cf.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/ed/845014d3241c46240a11e7bcdaed17ed.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/1c/b531f3a28acf4e2b45bc1e9087eb781c.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/31/b471ceec7487befa0ee300f180094131.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/2c/d4b2431555a9f19c3df05e5b1aa7862c.jpeg"
+        ],
+        "description": "Neobychnyy fitnes-fayting dlya Nintendo Switch, predlagayushchiy osobyy sposob bitvy — nuzhno srazhatsya svoim dzhoykonom okolo popy!\nDa, sut igry v tom, chtoby razmestit kontroller v zadnem karmane bryuk (ili prosto zakrepit pozadi za poyasom), i nachat aktivno dvigat byodrami. Vashi dvizheniya napryamuyu upravlyayut virtualnymi personazhami na ekrane, kotorye srazhayutsya, razmakhivaya mechami! Vesyolyy fayting s prostym, no neveroyatno uvlekatelnym geympleem: dlya pobedy nuzhno vstryakhnut opponenta i metko nanesti udar mechom. V igre predstavleno 6 personazhey s raznymi boevymi stilyami i spets. sposobnostyami, a dlya maksimalnogo uspekha vazhno pravilno vybrat taktiku i ne zhalet energii tela na tantsevalnye dvizheniya. Proekt orientirovan na druzheskie vecherinki, sorevnovaniya s druzyami i tekh, kto tsenit igry s yumorom i aktivnoy fizicheskoy sostavlyayushchey. Pomimo osnovnogo rezhima dueley, razrabotchiki obeshchayut dopolnitelnye ispytaniya i varianty kastomizatsii personazhey.\nIgra idealno vpisyvaetsya v spisok neobychnykh razvlecheniy konsoli, gde fizicheskaya aktivnost stanovitsya neotemlemoy chastyu protsessa.",
+        "title_id": "010045B01FAF8000"
+      },
+      {
         "title": "Tenebris Somnia [NSP][ENG]",
         "size": "15.4 GB",
         "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -8862,33 +8889,6 @@
         ],
         "description": "Dinamichnaya kartochnaya igra!\nSoberite neuderzhimuyu armiyu fishek, svyazyvayte moshchnye kombo i naslazhdaytes beskonechnymi vozmozhnostyami!..",
         "title_id": "01000500296CA000"
-      },
-      {
-        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
-        "size": "369.5 MB",
-        "magnet": "magnet:?xt=urn:btih:44C02C8C6251F0A58CAE6CD7D70366B693606F37&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6612896",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
-        "year": "2024, dicembre",
-        "genre": "Fighting, Arcade, Fitness",
-        "developer": "Kayac",
-        "publisher": "KAYAC Inc.",
-        "image_format": ".NSZ (compresso ~56%, dimensione installata 0.80 GB)",
-        "interface_lang": "Inglese [ENG]",
-        "voice_lang": "Senza doppiaggio",
-        "performance": "Sì (su 18.1.0, Atmosphere 1.7.1)",
-        "multiplayer": "2 giocatori",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
-        "screenshots": [
-          "https://i124.fastpic.org/thumb/2024/1213/1d/b6f4ff8907dd1ad1a8b0f6ca6ec1b81d.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/cf/e954f01208157afc4299fe147aa3a8cf.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/ed/845014d3241c46240a11e7bcdaed17ed.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/1c/b531f3a28acf4e2b45bc1e9087eb781c.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/31/b471ceec7487befa0ee300f180094131.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/2c/d4b2431555a9f19c3df05e5b1aa7862c.jpeg"
-        ],
-        "description": "Neobychnyy fitnes-fayting dlya Nintendo Switch, predlagayushchiy osobyy sposob bitvy — nuzhno srazhatsya svoim dzhoykonom okolo popy!\nDa, sut igry v tom, chtoby razmestit kontroller v zadnem karmane bryuk (ili prosto zakrepit pozadi za poyasom), i nachat aktivno dvigat byodrami. Vashi dvizheniya napryamuyu upravlyayut virtualnymi personazhami na ekrane, kotorye srazhayutsya, razmakhivaya mechami! Vesyolyy fayting s prostym, no neveroyatno uvlekatelnym geympleem: dlya pobedy nuzhno vstryakhnut opponenta i metko nanesti udar mechom. V igre predstavleno 6 personazhey s raznymi boevymi stilyami i spets. sposobnostyami, a dlya maksimalnogo uspekha vazhno pravilno vybrat taktiku i ne zhalet energii tela na tantsevalnye dvizheniya. Proekt orientirovan na druzheskie vecherinki, sorevnovaniya s druzyami i tekh, kto tsenit igry s yumorom i aktivnoy fizicheskoy sostavlyayushchey. Pomimo osnovnogo rezhima dueley, razrabotchiki obeshchayut dopolnitelnye ispytaniya i varianty kastomizatsii personazhey.\nIgra idealno vpisyvaetsya v spisok neobychnykh razvlecheniy konsoli, gde fizicheskaya aktivnost stanovitsya neotemlemoy chastyu protsessa.",
-        "title_id": "010045B01FAF8000"
       },
       {
         "title": "Croc's World 1-5 / Run [NSZ][ENG,RUS]",
@@ -9871,6 +9871,33 @@
     ],
     "pt_br": [
       {
+        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
+        "size": "370.4 MB",
+        "magnet": "magnet:?xt=urn:btih:963881CD25606503B8631D2A41AD5C5F30E48EFC&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6612896",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
+        "year": "2024, dezembro",
+        "genre": "Fighting, Arcade, Fitness",
+        "developer": "Kayac",
+        "publisher": "KAYAC",
+        "image_format": ".NSZ (compactado ~56%, tamanho instalado 0.80 GB)",
+        "interface_lang": "Inglês [ENG]",
+        "voice_lang": "Sem dublagem",
+        "performance": "Sim (no 18.1.0, Atmosphere 1.7.1)",
+        "multiplayer": "2 jogadores",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
+        "screenshots": [
+          "https://img-eshop.cdn.nintendo.net/i/3a0edad6348bbb48645a7634aa1bdca92cd047aa12255e086ffc2f19dab50783.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/c6d64ad14b8d04d257b6286086c184103625f029da4ab72874fcf3f69c385db2.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/fc8ae9d613ad4467cd486f9e91ed15690fcee3be7798770f2961e154908b372a.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/75dfa3c4fa3b885abc313e0300f6e21da0ccd9645acd67e4b23ed7bcfc2b9d45.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/cb97eebb13275ab47a171699643bf381e6d7c1ba48e259bc6ee5fa1b6ab93b93.jpg",
+          "https://img-eshop.cdn.nintendo.net/i/0c5ad796f09d22460a6963fb4d33d4ec6da0483d2a1d683cd6d58df33312eeff.jpg"
+        ],
+        "description": "Ketsu Butler is a hilarious action game in which players fight by shaking their butts!\n\nWhen you set the Joy-Con™ on your pants and swing it, Ketsu Batller on the screen will also swing his sword in time with your movement! Hit your opponent in the head with your sword and win the game!\n\nEach of the six Ketsu Batller players has a different personality! Charge up your power by shaking your buttocks and overwhelm your opponent with your powerful moves!",
+        "title_id": "010045B01FAF8000"
+      },
+      {
         "title": "Tenebris Somnia [NSP][ENG]",
         "size": "15.4 GB",
         "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -10495,33 +10522,6 @@
         ],
         "description": "Dinamichnaya kartochnaya igra!\nSoberite neuderzhimuyu armiyu fishek, svyazyvayte moshchnye kombo i naslazhdaytes beskonechnymi vozmozhnostyami!..",
         "title_id": "01000500296CA000"
-      },
-      {
-        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
-        "size": "369.5 MB",
-        "magnet": "magnet:?xt=urn:btih:44C02C8C6251F0A58CAE6CD7D70366B693606F37&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6612896",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
-        "year": "2024, dezembro",
-        "genre": "Fighting, Arcade, Fitness",
-        "developer": "Kayac",
-        "publisher": "KAYAC",
-        "image_format": ".NSZ (compactado ~56%, tamanho instalado 0.80 GB)",
-        "interface_lang": "Inglês [ENG]",
-        "voice_lang": "Sem dublagem",
-        "performance": "Sim (no 18.1.0, Atmosphere 1.7.1)",
-        "multiplayer": "2 jogadores",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
-        "screenshots": [
-          "https://img-eshop.cdn.nintendo.net/i/3a0edad6348bbb48645a7634aa1bdca92cd047aa12255e086ffc2f19dab50783.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/c6d64ad14b8d04d257b6286086c184103625f029da4ab72874fcf3f69c385db2.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/fc8ae9d613ad4467cd486f9e91ed15690fcee3be7798770f2961e154908b372a.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/75dfa3c4fa3b885abc313e0300f6e21da0ccd9645acd67e4b23ed7bcfc2b9d45.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/cb97eebb13275ab47a171699643bf381e6d7c1ba48e259bc6ee5fa1b6ab93b93.jpg",
-          "https://img-eshop.cdn.nintendo.net/i/0c5ad796f09d22460a6963fb4d33d4ec6da0483d2a1d683cd6d58df33312eeff.jpg"
-        ],
-        "description": "Ketsu Butler is a hilarious action game in which players fight by shaking their butts!\n\nWhen you set the Joy-Con™ on your pants and swing it, Ketsu Batller on the screen will also swing his sword in time with your movement! Hit your opponent in the head with your sword and win the game!\n\nEach of the six Ketsu Batller players has a different personality! Charge up your power by shaking your buttocks and overwhelm your opponent with your powerful moves!",
-        "title_id": "010045B01FAF8000"
       },
       {
         "title": "Croc's World 1-5 / Run [NSZ][ENG,RUS]",
@@ -11504,6 +11504,33 @@
     ],
     "zh_hans": [
       {
+        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
+        "size": "370.4 MB",
+        "magnet": "magnet:?xt=urn:btih:963881CD25606503B8631D2A41AD5C5F30E48EFC&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6612896",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
+        "year": "2024, 12月",
+        "genre": "Fighting, Arcade, Fitness",
+        "developer": "Kayac",
+        "publisher": "KAYAC Inc.",
+        "image_format": ".NSZ (已压缩 ~56%, 安装大小 0.80 GB)",
+        "interface_lang": "英语 [ENG]",
+        "voice_lang": "无语音",
+        "performance": "是 (在 18.1.0, Atmosphere 1.7.1)",
+        "multiplayer": "2 人",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
+        "screenshots": [
+          "https://i124.fastpic.org/thumb/2024/1213/1d/b6f4ff8907dd1ad1a8b0f6ca6ec1b81d.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/cf/e954f01208157afc4299fe147aa3a8cf.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/ed/845014d3241c46240a11e7bcdaed17ed.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/1c/b531f3a28acf4e2b45bc1e9087eb781c.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/31/b471ceec7487befa0ee300f180094131.jpeg",
+          "https://i124.fastpic.org/thumb/2024/1213/2c/d4b2431555a9f19c3df05e5b1aa7862c.jpeg"
+        ],
+        "description": "Neobychnyy fitnes-fayting dlya Nintendo Switch, predlagayushchiy osobyy sposob bitvy — nuzhno srazhatsya svoim dzhoykonom okolo popy!\nDa, sut igry v tom, chtoby razmestit kontroller v zadnem karmane bryuk (ili prosto zakrepit pozadi za poyasom), i nachat aktivno dvigat byodrami. Vashi dvizheniya napryamuyu upravlyayut virtualnymi personazhami na ekrane, kotorye srazhayutsya, razmakhivaya mechami! Vesyolyy fayting s prostym, no neveroyatno uvlekatelnym geympleem: dlya pobedy nuzhno vstryakhnut opponenta i metko nanesti udar mechom. V igre predstavleno 6 personazhey s raznymi boevymi stilyami i spets. sposobnostyami, a dlya maksimalnogo uspekha vazhno pravilno vybrat taktiku i ne zhalet energii tela na tantsevalnye dvizheniya. Proekt orientirovan na druzheskie vecherinki, sorevnovaniya s druzyami i tekh, kto tsenit igry s yumorom i aktivnoy fizicheskoy sostavlyayushchey. Pomimo osnovnogo rezhima dueley, razrabotchiki obeshchayut dopolnitelnye ispytaniya i varianty kastomizatsii personazhey.\nIgra idealno vpisyvaetsya v spisok neobychnykh razvlecheniy konsoli, gde fizicheskaya aktivnost stanovitsya neotemlemoy chastyu protsessa.",
+        "title_id": "010045B01FAF8000"
+      },
+      {
         "title": "Tenebris Somnia [NSP][ENG]",
         "size": "15.4 GB",
         "magnet": "magnet:?xt=urn:btih:6B44C8022DC0BC995F36ABB9ABD558FE5766C0DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -12131,33 +12158,6 @@
         ],
         "description": "Dinamichnaya kartochnaya igra!\nSoberite neuderzhimuyu armiyu fishek, svyazyvayte moshchnye kombo i naslazhdaytes beskonechnymi vozmozhnostyami!..",
         "title_id": "01000500296CA000"
-      },
-      {
-        "title": "Ketsu Battler + 2 DLC [NSZ][ENG]",
-        "size": "369.5 MB",
-        "magnet": "magnet:?xt=urn:btih:44C02C8C6251F0A58CAE6CD7D70366B693606F37&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6612896",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6612896",
-        "year": "2024, 12月",
-        "genre": "Fighting, Arcade, Fitness",
-        "developer": "Kayac",
-        "publisher": "KAYAC Inc.",
-        "image_format": ".NSZ (已压缩 ~56%, 安装大小 0.80 GB)",
-        "interface_lang": "英语 [ENG]",
-        "voice_lang": "无语音",
-        "performance": "是 (在 18.1.0, Atmosphere 1.7.1)",
-        "multiplayer": "2 人",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6612896.jpg",
-        "screenshots": [
-          "https://i124.fastpic.org/thumb/2024/1213/1d/b6f4ff8907dd1ad1a8b0f6ca6ec1b81d.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/cf/e954f01208157afc4299fe147aa3a8cf.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/ed/845014d3241c46240a11e7bcdaed17ed.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/1c/b531f3a28acf4e2b45bc1e9087eb781c.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/31/b471ceec7487befa0ee300f180094131.jpeg",
-          "https://i124.fastpic.org/thumb/2024/1213/2c/d4b2431555a9f19c3df05e5b1aa7862c.jpeg"
-        ],
-        "description": "Neobychnyy fitnes-fayting dlya Nintendo Switch, predlagayushchiy osobyy sposob bitvy — nuzhno srazhatsya svoim dzhoykonom okolo popy!\nDa, sut igry v tom, chtoby razmestit kontroller v zadnem karmane bryuk (ili prosto zakrepit pozadi za poyasom), i nachat aktivno dvigat byodrami. Vashi dvizheniya napryamuyu upravlyayut virtualnymi personazhami na ekrane, kotorye srazhayutsya, razmakhivaya mechami! Vesyolyy fayting s prostym, no neveroyatno uvlekatelnym geympleem: dlya pobedy nuzhno vstryakhnut opponenta i metko nanesti udar mechom. V igre predstavleno 6 personazhey s raznymi boevymi stilyami i spets. sposobnostyami, a dlya maksimalnogo uspekha vazhno pravilno vybrat taktiku i ne zhalet energii tela na tantsevalnye dvizheniya. Proekt orientirovan na druzheskie vecherinki, sorevnovaniya s druzyami i tekh, kto tsenit igry s yumorom i aktivnoy fizicheskoy sostavlyayushchey. Pomimo osnovnogo rezhima dueley, razrabotchiki obeshchayut dopolnitelnye ispytaniya i varianty kastomizatsii personazhey.\nIgra idealno vpisyvaetsya v spisok neobychnykh razvlecheniy konsoli, gde fizicheskaya aktivnost stanovitsya neotemlemoy chastyu protsessa.",
-        "title_id": "010045B01FAF8000"
       },
       {
         "title": "Croc's World 1-5 / Run [NSZ][ENG,RUS]",
