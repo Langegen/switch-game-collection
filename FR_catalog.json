@@ -1,5 +1,30 @@
 [
     {
+        "title": "Spica Adventure [NSZ][ENG]",
+        "size": "168.8 MB",
+        "magnet": "magnet:?xt=urn:btih:2A3A42D95C310A305611A6147CF1D9731C8C589E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923916",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923916",
+        "year": "2026, avril",
+        "genre": "Platformer, Arcade, Action",
+        "developer": "United Games Entertainment GmbH, Taito",
+        "publisher": "ININ Games",
+        "image_format": ".NSZ (compressé ~40%, taille installée 0.28 GB)",
+        "interface_lang": "Anglais [ENG]",
+        "voice_lang": "Sans voix",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Non",
+        "cover": "https://i2.imageban.ru/out/2026/10/17/c5849b760b8acbbe86a2dbc9f9a21216.png",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/31db853e26e1e02375d47ce6802cc7895dc850e5436e304e14d8cedbc9d8a3f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e5b053f415bf9b290eec0f6dba70411937d29011945937b9d5504c0248ff705.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6340fe4a20776f4fb0820c0f5683154aa2a86474f3c6a62a30def8182978e40d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4dcaf25b42ebc4d955b3e6ec9f9f72a3a3dd103412339adc7f079b83b4fa4781.jpg"
+        ],
+        "description": "Incarnez Nico, une petite fille vêtue de rose et armée d'un incroyable parasol, et lancez-vous dans une aventure intergalactique haute en couleurs !\n\nDisponible pour la toute première fois en dehors du Japon, Spica Adventure est un platformer en 2D tout mignon et bourré de charme venu tout droit de TAITO, légendes des jeux d'arcade. Le petit parasol jaune de Nico, votre nouvelle arme préférée, n'est pas sans rappeler l'accessoire phare de Parasol Stars: The Story of Bubble Bobble III - un outil idéal pour démonter tout un tas de jouets !\n\nLe parasol de Nico lui permet d'attaquer au corps à corps et à distance, de sauter, de planer ou encore de flotter. Il permet aussi de bloquer, parer des attaques et renvoyer des projectiles vers 8 directions. Un outil de protection idéal, et pas seulement contre le soleil !\n\nAvec 28 niveaux répartis sur plusieurs routes, chaque partie est une nouvelle aventure !\n\nSpécificités:\n• Tout droit sorti des bornes : un classique des arcades disponible sur consoles pour la toute première fois !\n• Un kaléidoscope de couleurs : cette patte graphique vibrante et choupinou est un vrai régal !\n• Action du Parasol : forcez le respect à grands coups de parasol !\n• Vers l'infini et au-delà : explorez 28 niveaux différents, répartis sur plusieurs routes.\n• Bande son 100% arcade : les grosses vibes de ZUNTATA vous feront oublier tous vos problèmes.\n\nPrêts à défendre Spica contre une horde d'ennemis tout aussi mignons que mortels ? N'oubliez surtout pas votre parasol !",
+        "title_id": "0100DF401DC02000"
+    },
+    {
         "title": "Content Warning [NSZ][RUS/Multi13]",
         "size": "242.5 MB",
         "magnet": "magnet:?xt=urn:btih:61160E84D9F06D8910807DFC4DBA8847C95A274F&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -4170,9 +4195,9 @@
         "title_id": "010057C015C3A000"
     },
     {
-        "title": "Metal Gear Solid: Master Collection Edition, Vol. 2 (MGS 4 / Peace Walker / Guns of the Patriots / Metal Gear Ghost Babel) [NSZ][ENG]",
+        "title": "Metal Gear Solid: Master Collection Edition, Vol. 2 (MGS 4 Guns of the Patriots / Peace Walker / Metal Gear Ghost Babel) [NSZ][ENG]",
         "size": "29.51 GB",
-        "magnet": "magnet:?xt=urn:btih:3EE679691CAD8E91E4B5953BC6661789E2A117B8&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:149E5AE56EC4C988524D1ADA6F1ACE2499A0946C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6900287",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6900287",
         "year": "2026, août",
@@ -21409,8 +21434,8 @@
     },
     {
         "title": "Nordic Ashes the Complete Saga: Survivors of Ragnarok, Remnants of Corruption, Dark Knights [NSP][RUS/Multi12]",
-        "size": "1.2 GB",
-        "magnet": "magnet:?xt=urn:btih:B56FB03F8CAA446DDA8475806839352BF518E60C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "1.21 GB",
+        "magnet": "magnet:?xt=urn:btih:49761EB4A2281DF2E42EA2B372F93240DBD2AA29&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6789747",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6789747",
         "year": "2025, décembre",
@@ -21420,7 +21445,7 @@
         "image_format": "NSP",
         "interface_lang": "Russe, Anglais [RUS / ENG / Multi 12]",
         "voice_lang": "Sans voix",
-        "performance": "Oui (sur 20.5.0, Atmosphere 1.9.5)",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6789747.jpg",
         "screenshots": [
@@ -45097,15 +45122,15 @@
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5885643.jpg",
         "screenshots": [
-            "https://i111.fastpic.ru/thumb/2020/0423/03/b1ed2f037050f610a85f2235b7474603.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0423/5b/64b846824ed6ea1fb591430a8628275b.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0423/d8/d347b336932237ca3595d91c4dcdfed8.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0423/f9/a764d2425e7d6f36125e8127f1af8bf9.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0423/b9/30baa9c3af3b74711010f8ae6b23dbb9.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0423/0f/252cdd497cb9d2eeb7ffa407222c460f.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0423/9a/ccc1f33caf268a669342118f1e47459a.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0423/cb/bbc4f5e126a2c74c26f944481635d7cb.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0423/b3/a4f096eeb7d77f4f2b7d6f1cdf9daeb3.jpeg"
+            "https://i111.fastpic.org/thumb/2020/0423/03/b1ed2f037050f610a85f2235b7474603.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0423/5b/64b846824ed6ea1fb591430a8628275b.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0423/d8/d347b336932237ca3595d91c4dcdfed8.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0423/f9/a764d2425e7d6f36125e8127f1af8bf9.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0423/b9/30baa9c3af3b74711010f8ae6b23dbb9.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0423/0f/252cdd497cb9d2eeb7ffa407222c460f.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0423/9a/ccc1f33caf268a669342118f1e47459a.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0423/cb/bbc4f5e126a2c74c26f944481635d7cb.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0423/b3/a4f096eeb7d77f4f2b7d6f1cdf9daeb3.jpeg"
         ],
         "description": "Tak nachinaetsya istoriya o sekretakh, zhenskoy lyubvi i.. Razrabotke videoigr!\nYumeutsutsu Re:Master — istoriya o priklyucheniyakh v malenkoy geymstudii «Evrika-Coft» v rayone Koendzi, Tokio. Geroinya igry Ai poluchaet pismo ot glavy studii i prikhodit rabotat k svoey sestre Kokoro.",
         "title_id": "010036A011302000"
@@ -45451,15 +45476,15 @@
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6017551.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2021/0226/1e/d1f308b68c2fb4b047d32c8d747c821e.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0226/d7/7358772742ec19fc944e35e0399717d7.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0226/3f/867056bfb73313f231dce727289a733f.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0226/85/7670a6b3e33de19ad803202d8a45c785.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0226/53/78535531382d77b612774bd501eabb53.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0226/5f/9c56db33ca41754ebbe03f0177408d5f.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0226/71/10a8455993bb741602ec8628f0a0e971.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0226/64/8620e0bc00eb3b6ed162109e5e806f64.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0226/61/a8807055d0586e9895787ccac8695f61.jpeg"
+            "https://i114.fastpic.org/thumb/2021/0226/1e/d1f308b68c2fb4b047d32c8d747c821e.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0226/d7/7358772742ec19fc944e35e0399717d7.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0226/3f/867056bfb73313f231dce727289a733f.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0226/85/7670a6b3e33de19ad803202d8a45c785.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0226/53/78535531382d77b612774bd501eabb53.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0226/5f/9c56db33ca41754ebbe03f0177408d5f.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0226/71/10a8455993bb741602ec8628f0a0e971.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0226/64/8620e0bc00eb3b6ed162109e5e806f64.jpeg",
+            "https://i114.fastpic.org/thumb/2021/0226/61/a8807055d0586e9895787ccac8695f61.jpeg"
         ],
         "description": "Max Payne — videoigra v zhanre shutera ot tretego litsa, razrabotannaya finskoy kompaniey Remedy Entertainment, sprodyusirovannaya 3D Realms i izdannaya Gathering of Developers v 2001 godu. Eto pervaya chast v serii Max Payne. Povestvovanie igry okhvatyvaet gody iz zhizni Maksa Peyna, agenta upravleniya po borbe s narkotikami, kotorogo podstavili, obviniv v ubiystve kollegi i luchshego druga.",
         "title_id": null
@@ -45698,15 +45723,15 @@
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5792465.jpg",
         "screenshots": [
-            "https://i90.fastpic.ru/thumb/2019/1017/9a/b494e614d4532af5bc7979d415d3d89a.jpeg",
-            "https://i90.fastpic.ru/thumb/2019/1017/d2/b9ceedc94c426c3f8518c3e3a430dcd2.jpeg",
-            "https://i90.fastpic.ru/thumb/2019/1017/ec/963081caa199f61eb9eac1131e497fec.jpeg",
-            "https://i90.fastpic.ru/thumb/2019/1017/ac/b8405b84ea7fbef4b7cc5ce74b9734ac.jpeg",
-            "https://i90.fastpic.ru/thumb/2019/1017/b2/4640424789a6c4d482135b26596a1fb2.jpeg",
-            "https://i90.fastpic.ru/thumb/2019/1017/59/5629573271a6eb57cf788e0db1935f59.jpeg",
-            "https://i90.fastpic.ru/thumb/2019/1017/18/3183dc9303a42f2a1297e061bc2b5918.jpeg",
-            "https://i90.fastpic.ru/thumb/2019/1017/1e/a0192ad9227bab86fe1d091f740dae1e.jpeg",
-            "https://i90.fastpic.ru/thumb/2019/1017/8f/d4402b1c7c4a1dd9a941b5e532e1df8f.jpeg"
+            "https://i90.fastpic.org/thumb/2019/1017/9a/b494e614d4532af5bc7979d415d3d89a.jpeg",
+            "https://i90.fastpic.org/thumb/2019/1017/d2/b9ceedc94c426c3f8518c3e3a430dcd2.jpeg",
+            "https://i90.fastpic.org/thumb/2019/1017/ec/963081caa199f61eb9eac1131e497fec.jpeg",
+            "https://i90.fastpic.org/thumb/2019/1017/ac/b8405b84ea7fbef4b7cc5ce74b9734ac.jpeg",
+            "https://i90.fastpic.org/thumb/2019/1017/b2/4640424789a6c4d482135b26596a1fb2.jpeg",
+            "https://i90.fastpic.org/thumb/2019/1017/59/5629573271a6eb57cf788e0db1935f59.jpeg",
+            "https://i90.fastpic.org/thumb/2019/1017/18/3183dc9303a42f2a1297e061bc2b5918.jpeg",
+            "https://i90.fastpic.org/thumb/2019/1017/1e/a0192ad9227bab86fe1d091f740dae1e.jpeg",
+            "https://i90.fastpic.org/thumb/2019/1017/8f/d4402b1c7c4a1dd9a941b5e532e1df8f.jpeg"
         ],
         "description": "Studiya Marvelous prigotovila polnotsennyy remeyk simulyatora derevenskoy zhizni Harvest Moon: Friends of Mineral Town (s vklyucheniem kontenta iz Harvest Moon: More Friends of Mineral Town). Vse igry serii Harvest Moon v tselom odinakovy: glavnyy geroy popadaet v usloviya, dalyokie ot gorodskikh, i uchitsya fermerstvovat, poputno nalazhivaya otnosheniya s odnoselchanami:",
         "title_id": "01001D900D9AC000"
@@ -45973,12 +45998,12 @@
         "multiplayer": "Jusqu'à 8 joueurs",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6076135.jpg",
         "screenshots": [
-            "https://i115.fastpic.ru/thumb/2021/0702/d5/b9d08bd424086572ca217aa24184b2d5.jpeg",
-            "https://i115.fastpic.ru/thumb/2021/0702/5d/5271c31e827ef5ea4250e76a997b355d.jpeg",
-            "https://i115.fastpic.ru/thumb/2021/0702/9e/df6e9f5173f2b3a4cabf86af0df7909e.jpeg",
-            "https://i115.fastpic.ru/thumb/2021/0702/77/76785c1bd246023cdc04f94273905b77.jpeg",
-            "https://i115.fastpic.ru/thumb/2021/0702/6d/4f798ca5078df8de84a06e38a2f4ba6d.jpeg",
-            "https://i115.fastpic.ru/thumb/2021/0702/b5/1e0d3069cf81af565ac2687746a5b1b5.jpeg"
+            "https://i115.fastpic.org/thumb/2021/0702/d5/b9d08bd424086572ca217aa24184b2d5.jpeg",
+            "https://i115.fastpic.org/thumb/2021/0702/5d/5271c31e827ef5ea4250e76a997b355d.jpeg",
+            "https://i115.fastpic.org/thumb/2021/0702/9e/df6e9f5173f2b3a4cabf86af0df7909e.jpeg",
+            "https://i115.fastpic.org/thumb/2021/0702/77/76785c1bd246023cdc04f94273905b77.jpeg",
+            "https://i115.fastpic.org/thumb/2021/0702/6d/4f798ca5078df8de84a06e38a2f4ba6d.jpeg",
+            "https://i115.fastpic.org/thumb/2021/0702/b5/1e0d3069cf81af565ac2687746a5b1b5.jpeg"
         ],
         "description": "Superkruteyshaya bitva nachinaetsya! Obychnyy yaponskiy Khiiro Ryugasaki spokoyno uchilsya sebe v akademii Tensey, poka odnazhdy v ego ruki ne popal zagadochnyy smartfon. A na nyom byla ustanovlena populyarnaya kartochnaya igra «Poeziya teney»!\nTeper vperedi vas zhdut novye soperniki, krupnye turniry i krepkaya druzhba!\nNovoe pokolenie kartochnykh boev: obedinites s geroyami anime i srazites v zakhvatyvayushchey kartochnoy bitve s potryasayushchey animatsiey prizyva i eksklyuzivnymi kartami! Podkhodit dlya novichkov! Izuchite pravila i terminy pryamo vo vremya igry, prokhodya uvlekatelnyy rolevoy syuzhet, napisannyy masterami iz Kabushiki gaisha Saigēmusu.",
         "title_id": "01003B90136DB000"
