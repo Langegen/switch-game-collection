@@ -1,10 +1,40 @@
 {
   "version": 1,
-  "generated_at": 1792343757,
+  "generated_at": 1792355406,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
     "ru": [
+      {
+        "title": "Need For Speed Underground 2 (хоумбрю NFS:U2) [NRO][RUS/ENG]",
+        "size": "3.56 GB",
+        "magnet": "magnet:?xt=urn:btih:4E29F461DDEBA03DF220933997A763F4FB6B158D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6916744",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6916744",
+        "year": "2004",
+        "genre": "Racing, Homebrew",
+        "developer": "EA Black Box",
+        "publisher": "antoxa2584x",
+        "image_format": "NRO",
+        "interface_lang": "Русский, Английский [RUS / ENG]",
+        "voice_lang": "русская (от СофтКлаб), английская",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "нет",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/3c/b9852d48f37abb540c0fc869c185483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/37/2a79fae02ebd47b5d55f44f56ebfd537.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/02/a1ab5e0788b1758ed93d29b269e95802.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/87/686163efbbba8e52333c98cc1fe76d87.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/8e/dbae3ab03b262a731b989f037e85458e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/45/dbd06cd76cc0889ec626017b19b68345.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/41/d3fb83e3791519849d19b064cb271e41.jpeg"
+        ],
+        "description": "Действия игры происходят в вымышленном городе Бэйвью — он имеет сходство с Лос-Анджелесом и Лас-Вегасом. Как и в Олимпик-Сити, городе Need for Speed: Underground, в Бэйвью не существует полиции, а действия всегда проходят в ночное время суток. По улицам города разъезжают машины, а также имеется динамическая смена погодных условий — при дожде, который может начаться и прекратиться в любой момент, управление автомобилями осложняется. Для ориентирования в городе присутствуют карта и система GPS.\nБэйвью состоит из пяти районов: Центр города, Старый город, Северное нагорье, Восточный порт и Западный порт. Они имеют между собой существенные различия, например, в Центре города преобладают широкие улицы и небоскрёбы, а в Северном нагорье — извилистые дороги и каньоны. Каждый следующий район открывается, когда игрок завершает прохождение текущего этапа. Большинство районов связаны сетью скоростных автомагистралей, которые выделены на карте белым цветом. Помимо этого, некоторые улицы доступны лишь в типе гонок «Драг-рейсинг», а отдельные территории — в типах «Стрит-X», «Дрифтинг», «Драг-рейсинг» и «Профессиональная лига».\nИгровой процесс в Need for Speed: Underground 2 придерживается основных аспектов предшественника: игроку предстоит участвовать в уличных гонках, зарабатывая деньги и получая уважение среди других гонщиков. В продолжении значительно улучшены возможности тюнинга автомобилей, который играет важную роль в прохождении. Помимо этого, в игре появились такие нововведения, как режим свободной езды и джипы. В режиме карьеры присутствует сюжет, в котором главный герой участвует в гонках на улицах города Бэйвью и старается победить серьёзного противника — Калеба.Другие Need For Speed-игры.",
+        "title_id": null
+      },
       {
         "title": "Silent Hill 3 (порт) [NRO][RUS/ENG]",
         "size": "4.5 GB",
@@ -1147,6 +1177,36 @@
     ],
     "en": [
       {
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
+        "size": "3.56 GB",
+        "magnet": "magnet:?xt=urn:btih:4E29F461DDEBA03DF220933997A763F4FB6B158D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6916744",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6916744",
+        "year": "2004",
+        "genre": "Racing, Homebrew",
+        "developer": "EA Black Box",
+        "publisher": "antoxa2584x",
+        "image_format": "NRO",
+        "interface_lang": "Russian, English [RUS / ENG]",
+        "voice_lang": "Russian (by SoftKlab), English",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/3c/b9852d48f37abb540c0fc869c185483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/37/2a79fae02ebd47b5d55f44f56ebfd537.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/02/a1ab5e0788b1758ed93d29b269e95802.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/87/686163efbbba8e52333c98cc1fe76d87.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/8e/dbae3ab03b262a731b989f037e85458e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/45/dbd06cd76cc0889ec626017b19b68345.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/41/d3fb83e3791519849d19b064cb271e41.jpeg"
+        ],
+        "description": "The game takes place in the fictional city of Bayview - it has similarities to Los Angeles and Las Vegas. Like Olympic City, the city of Need for Speed: Underground, there is no police force in Bayview, and the action always takes place at night. Cars drive along the city streets, and there is also a dynamic change in weather conditions - when it rains, which can start and stop at any moment, driving becomes more difficult. For orientation in the city there is a map and a GPS system.\nBayview is made up of five districts: Downtown, Old Town, Northern Highlands, East Port and West Port. They have significant differences, for example, the Downtown area is dominated by wide streets and skyscrapers, while the Northern Highlands are dominated by winding roads and canyons. Each subsequent area opens when the player completes the current stage. Most areas are connected by a network of expressways, which are highlighted in white on the map. In addition, some streets are only available in the Drag Racing type, and some areas are only available in the Street X, Drifting, Drag Racing and Pro League types.\nThe gameplay in Need for Speed: Underground 2 follows the main aspects of its predecessor: the player will compete in street races, earning money and gaining respect among other racers. In the sequel, the possibilities of car tuning have been significantly improved, which plays an important role in the passage. In addition, the game has new innovations such as free ride mode and jeeps. In career mode there is a plot in which the main character participates in races on the streets of the city of Bayview and tries to defeat a serious opponent - Caleb. Other Need For Speed ​​games.",
+        "title_id": null
+      },
+      {
         "title": "Silent Hill 3 (port ) [NRO][RUS/ENG]",
         "size": "4.5 GB",
         "magnet": "magnet:?xt=urn:btih:031F07D48DD06E1187066FD240EEFE60C7ADAF6E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -2258,6 +2318,36 @@
       }
     ],
     "es": [
+      {
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
+        "size": "3.56 GB",
+        "magnet": "magnet:?xt=urn:btih:4E29F461DDEBA03DF220933997A763F4FB6B158D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6916744",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6916744",
+        "year": "2004",
+        "genre": "Racing, Homebrew",
+        "developer": "EA Black Box",
+        "publisher": "antoxa2584x",
+        "image_format": "NRO",
+        "interface_lang": "Ruso, Inglés [RUS / ENG]",
+        "voice_lang": "Ruso (de SoftKlab), Inglés",
+        "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/3c/b9852d48f37abb540c0fc869c185483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/37/2a79fae02ebd47b5d55f44f56ebfd537.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/02/a1ab5e0788b1758ed93d29b269e95802.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/87/686163efbbba8e52333c98cc1fe76d87.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/8e/dbae3ab03b262a731b989f037e85458e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/45/dbd06cd76cc0889ec626017b19b68345.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/41/d3fb83e3791519849d19b064cb271e41.jpeg"
+        ],
+        "description": "El juego tiene lugar en la ciudad ficticia de Bayview; tiene similitudes con Los Ángeles y Las Vegas. Al igual que Olympic City, la ciudad de Need for Speed: Underground, no hay policía en Bayview y la acción siempre se desarrolla de noche. Los coches circulan por las calles de la ciudad y también hay un cambio dinámico en las condiciones climáticas: cuando llueve, que puede arrancar y detenerse en cualquier momento, la conducción se vuelve más difícil. Para orientación en la ciudad hay un mapa y un sistema GPS.\nBayview se compone de cinco distritos: Downtown, Old Town, Northern Highlands, East Port y West Port. Tienen diferencias significativas, por ejemplo, el área del centro está dominada por calles anchas y rascacielos, mientras que en las Tierras Altas del Norte predominan carreteras sinuosas y cañones. Cada área posterior se abre cuando el jugador completa la etapa actual. La mayoría de las áreas están conectadas por una red de autopistas, que están resaltadas en blanco en el mapa. Además, algunas calles solo están disponibles en el tipo Drag Racing, y algunas áreas solo están disponibles en los tipos Street X, Drifting, Drag Racing y Pro League.\nLa jugabilidad de Need for Speed: Underground 2 sigue los aspectos principales de su predecesor: el jugador competirá en carreras callejeras, ganará dinero y se ganará el respeto de otros corredores. En la secuela, las posibilidades de tuning del coche se han mejorado significativamente, lo que juega un papel importante en el pasaje. Además, el juego cuenta con nuevas innovaciones como el modo de viaje libre y jeeps. En el modo carrera hay una trama en la que el personaje principal participa en carreras en las calles de la ciudad de Bayview e intenta derrotar a un oponente serio: Caleb. Otros juegos de Need For Speed.",
+        "title_id": null
+      },
       {
         "title": "Silent Hill 3 (port ) [NRO][RUS/ENG]",
         "size": "4.5 GB",
@@ -3371,6 +3461,36 @@
     ],
     "fr": [
       {
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
+        "size": "3.56 GB",
+        "magnet": "magnet:?xt=urn:btih:4E29F461DDEBA03DF220933997A763F4FB6B158D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6916744",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6916744",
+        "year": "2004",
+        "genre": "Racing, Homebrew",
+        "developer": "EA Black Box",
+        "publisher": "antoxa2584x",
+        "image_format": "NRO",
+        "interface_lang": "Russe, Anglais [RUS / ENG]",
+        "voice_lang": "Russe (par SoftKlab), Anglais",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/3c/b9852d48f37abb540c0fc869c185483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/37/2a79fae02ebd47b5d55f44f56ebfd537.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/02/a1ab5e0788b1758ed93d29b269e95802.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/87/686163efbbba8e52333c98cc1fe76d87.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/8e/dbae3ab03b262a731b989f037e85458e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/45/dbd06cd76cc0889ec626017b19b68345.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/41/d3fb83e3791519849d19b064cb271e41.jpeg"
+        ],
+        "description": "Le jeu se déroule dans la ville fictive de Bayview – elle présente des similitudes avec Los Angeles et Las Vegas. Comme Olympic City, la ville de Need for Speed ​​: Underground, il n'y a pas de force de police à Bayview et l'action se déroule toujours la nuit. Les voitures roulent dans les rues de la ville et il y a aussi un changement dynamique des conditions météorologiques : lorsqu'il pleut, qui peut démarrer et s'arrêter à tout moment, la conduite devient plus difficile. Pour vous orienter dans la ville, il existe une carte et un système GPS.\nBayview est composé de cinq districts : le centre-ville, la vieille ville, les Northern Highlands, East Port et West Port. Ils présentent des différences significatives, par exemple, le centre-ville est dominé par de larges rues et des gratte-ciel, tandis que les Highlands du Nord sont dominées par des routes sinueuses et des canyons. Chaque zone suivante s'ouvre lorsque le joueur termine l'étape en cours. La plupart des zones sont reliées par un réseau d'autoroutes, indiquées en blanc sur la carte. De plus, certaines rues ne sont disponibles que dans le type Drag Racing, et certaines zones ne sont disponibles que dans les types Street X, Drifting, Drag Racing et Pro League.\nLe gameplay de Need for Speed: Underground 2 suit les principaux aspects de son prédécesseur : le joueur participera à des courses de rue, gagnera de l'argent et gagnera le respect des autres coureurs. Dans la suite, les possibilités de réglage de la voiture ont été considérablement améliorées, ce qui joue un rôle important dans le passage. De plus, le jeu propose de nouvelles innovations telles que le mode free ride et les jeeps. En mode carrière, il y a une intrigue dans laquelle le personnage principal participe à des courses dans les rues de la ville de Bayview et tente de vaincre un adversaire sérieux - Caleb. Autres jeux Need For Speed ​​​​.",
+        "title_id": null
+      },
+      {
         "title": "Silent Hill 3 (portage ) [NRO][RUS/ENG]",
         "size": "4.5 GB",
         "magnet": "magnet:?xt=urn:btih:031F07D48DD06E1187066FD240EEFE60C7ADAF6E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -4482,6 +4602,36 @@
       }
     ],
     "de": [
+      {
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
+        "size": "3.56 GB",
+        "magnet": "magnet:?xt=urn:btih:4E29F461DDEBA03DF220933997A763F4FB6B158D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6916744",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6916744",
+        "year": "2004",
+        "genre": "Racing, Homebrew",
+        "developer": "EA Black Box",
+        "publisher": "antoxa2584x",
+        "image_format": "NRO",
+        "interface_lang": "Russisch, Englisch [RUS / ENG]",
+        "voice_lang": "Russisch (von SoftKlab), Englisch",
+        "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Nein",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/3c/b9852d48f37abb540c0fc869c185483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/37/2a79fae02ebd47b5d55f44f56ebfd537.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/02/a1ab5e0788b1758ed93d29b269e95802.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/87/686163efbbba8e52333c98cc1fe76d87.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/8e/dbae3ab03b262a731b989f037e85458e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/45/dbd06cd76cc0889ec626017b19b68345.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/41/d3fb83e3791519849d19b064cb271e41.jpeg"
+        ],
+        "description": "Das Spiel findet in der fiktiven Stadt Bayview statt – sie weist Ähnlichkeiten mit Los Angeles und Las Vegas auf. Wie Olympic City, die Stadt von Need for Speed: Underground, gibt es in Bayview keine Polizei und die Action findet immer nachts statt. Auf den Straßen der Stadt fahren Autos, und auch die Wetterbedingungen ändern sich dynamisch – wenn es regnet, der jederzeit einsetzen und aufhören kann, wird das Autofahren schwieriger. Zur Orientierung in der Stadt gibt es eine Karte und ein GPS-System.\nBayview besteht aus fünf Bezirken: Downtown, Old Town, Northern Highlands, East Port und West Port. Sie weisen erhebliche Unterschiede auf, zum Beispiel wird der Innenstadtbereich von breiten Straßen und Wolkenkratzern dominiert, während die nördlichen Highlands von kurvenreichen Straßen und Schluchten dominiert werden. Jeder weitere Bereich öffnet sich, wenn der Spieler die aktuelle Stufe abschließt. Die meisten Gebiete sind durch ein Netz von Schnellstraßen verbunden, die auf der Karte weiß hervorgehoben sind. Darüber hinaus sind einige Straßen nur im Drag Racing-Typ verfügbar, und einige Bereiche sind nur im Street X-, Drifting-, Drag Racing- und Pro League-Typ verfügbar.\nDas Gameplay in Need for Speed: Underground 2 folgt den Hauptaspekten des Vorgängers: Der Spieler nimmt an Straßenrennen teil, verdient Geld und erlangt Respekt unter anderen Rennfahrern. In der Fortsetzung wurden die Möglichkeiten des Autotunings deutlich verbessert, was in der Passage eine wichtige Rolle spielt. Darüber hinaus verfügt das Spiel über neue Innovationen wie den Freeride-Modus und Jeeps. Im Karrieremodus gibt es eine Handlung, in der die Hauptfigur an Rennen auf den Straßen der Stadt Bayview teilnimmt und versucht, einen ernsthaften Gegner zu besiegen – Caleb. Andere Need For Speed-Spiele.",
+        "title_id": null
+      },
       {
         "title": "Silent Hill 3 (Port ) [NRO][RUS/ENG]",
         "size": "4.5 GB",
@@ -5601,6 +5751,36 @@
     ],
     "it": [
       {
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
+        "size": "3.56 GB",
+        "magnet": "magnet:?xt=urn:btih:4E29F461DDEBA03DF220933997A763F4FB6B158D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6916744",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6916744",
+        "year": "2004",
+        "genre": "Racing, Homebrew",
+        "developer": "EA Black Box",
+        "publisher": "antoxa2584x",
+        "image_format": "NRO",
+        "interface_lang": "Russo, Inglese [RUS / ENG]",
+        "voice_lang": "Russo (di SoftKlab), Inglese",
+        "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/3c/b9852d48f37abb540c0fc869c185483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/37/2a79fae02ebd47b5d55f44f56ebfd537.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/02/a1ab5e0788b1758ed93d29b269e95802.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/87/686163efbbba8e52333c98cc1fe76d87.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/8e/dbae3ab03b262a731b989f037e85458e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/45/dbd06cd76cc0889ec626017b19b68345.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/41/d3fb83e3791519849d19b064cb271e41.jpeg"
+        ],
+        "description": "Il gioco è ambientato nella città immaginaria di Bayview: ha somiglianze con Los Angeles e Las Vegas. Come Olympic City, la città di Need for Speed: Underground, non ci sono forze di polizia a Bayview e l'azione si svolge sempre di notte. Le auto percorrono le strade della città e si verifica anche un cambiamento dinamico delle condizioni meteorologiche: quando piove, che può iniziare e fermarsi in qualsiasi momento, guidare diventa più difficile. Per orientarsi in città è disponibile una mappa ed un sistema GPS.\nBayview è composta da cinque distretti: Downtown, Old Town, Northern Highlands, East Port e West Port. Presentano differenze significative, ad esempio, l'area del centro è dominata da strade larghe e grattacieli, mentre le Highlands settentrionali sono dominate da strade tortuose e canyon. Ogni area successiva si apre quando il giocatore completa la fase corrente. La maggior parte delle aree sono collegate da una rete di superstrade, evidenziate in bianco sulla mappa. Inoltre, alcune strade sono disponibili solo nella modalità Drag Racing, mentre alcune aree sono disponibili solo nella modalità Street X, Drifting, Drag Racing e Pro League.\nIl gameplay di Need for Speed: Underground 2 segue gli aspetti principali del suo predecessore: il giocatore gareggerà in gare su strada, guadagnando denaro e guadagnandosi il rispetto degli altri corridori. Nel seguito, le possibilità di messa a punto dell'auto sono state notevolmente migliorate, il che gioca un ruolo importante nel passaggio. Inoltre, il gioco presenta nuove innovazioni come la modalità free ride e le jeep. Nella modalità carriera c'è una trama in cui il personaggio principale partecipa a gare per le strade della città di Bayview e cerca di sconfiggere un avversario serio: Caleb. Altri giochi Need For Speed.",
+        "title_id": null
+      },
+      {
         "title": "Silent Hill 3 (port ) [NRO][RUS/ENG]",
         "size": "4.5 GB",
         "magnet": "magnet:?xt=urn:btih:031F07D48DD06E1187066FD240EEFE60C7ADAF6E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -6719,6 +6899,36 @@
     ],
     "pt_br": [
       {
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
+        "size": "3.56 GB",
+        "magnet": "magnet:?xt=urn:btih:4E29F461DDEBA03DF220933997A763F4FB6B158D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6916744",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6916744",
+        "year": "2004",
+        "genre": "Racing, Homebrew",
+        "developer": "EA Black Box",
+        "publisher": "antoxa2584x",
+        "image_format": "NRO",
+        "interface_lang": "Russo, Inglês [RUS / ENG]",
+        "voice_lang": "Russo (por SoftKlab), Inglês",
+        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Não",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/3c/b9852d48f37abb540c0fc869c185483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/37/2a79fae02ebd47b5d55f44f56ebfd537.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/02/a1ab5e0788b1758ed93d29b269e95802.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/87/686163efbbba8e52333c98cc1fe76d87.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/8e/dbae3ab03b262a731b989f037e85458e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/45/dbd06cd76cc0889ec626017b19b68345.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/41/d3fb83e3791519849d19b064cb271e41.jpeg"
+        ],
+        "description": "O jogo se passa na cidade fictícia de Bayview – tem semelhanças com Los Angeles e Las Vegas. Assim como a Cidade Olímpica, a cidade de Need for Speed: Underground, não há força policial em Bayview e a ação sempre acontece à noite. Os carros circulam pelas ruas da cidade e também ocorre uma mudança dinâmica nas condições climáticas - quando chove, que pode ligar e parar a qualquer momento, a condução fica mais difícil. Para orientação na cidade existe um mapa e um sistema GPS.\nBayview é composta por cinco distritos: Downtown, Old Town, Northern Highlands, East Port e West Port. Eles têm diferenças significativas, por exemplo, a área central é dominada por ruas largas e arranha-céus, enquanto as Terras Altas do Norte são dominadas por estradas sinuosas e desfiladeiros. Cada área subsequente é aberta quando o jogador completa a fase atual. A maioria das áreas está conectada por uma rede de vias expressas, destacadas em branco no mapa. Além disso, algumas ruas estão disponíveis apenas no tipo Drag Racing, e algumas áreas estão disponíveis apenas nos tipos Street X, Drifting, Drag Racing e Pro League.\nA jogabilidade em Need for Speed: Underground 2 segue os principais aspectos de seu antecessor: o jogador irá competir em corridas de rua, ganhando dinheiro e conquistando o respeito dos demais pilotos. Na sequência, as possibilidades de tuning do carro foram significativamente melhoradas, o que desempenha um papel importante na passagem. Além disso, o jogo traz inovações como modo free ride e jipes. No modo carreira há uma trama em que o personagem principal participa de corridas nas ruas da cidade de Bayview e tenta derrotar um sério adversário - Caleb. Outros jogos Need For Speed.",
+        "title_id": null
+      },
+      {
         "title": "Silent Hill 3 (port ) [NRO][RUS/ENG]",
         "size": "4.5 GB",
         "magnet": "magnet:?xt=urn:btih:031F07D48DD06E1187066FD240EEFE60C7ADAF6E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -7830,6 +8040,36 @@
       }
     ],
     "zh_hans": [
+      {
+        "title": "Need For Speed Underground 2 (khoumbryu NFS:U2) [NRO][RUS/ENG]",
+        "size": "3.56 GB",
+        "magnet": "magnet:?xt=urn:btih:4E29F461DDEBA03DF220933997A763F4FB6B158D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6916744",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6916744",
+        "year": "2004",
+        "genre": "Racing, Homebrew",
+        "developer": "EA Black Box",
+        "publisher": "antoxa2584x",
+        "image_format": "NRO",
+        "interface_lang": "俄语, 英语 [RUS / ENG]",
+        "voice_lang": "俄语 (来自 SoftKlab), 英语",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6916744.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1001/5b/0ca162f35b80f2dcce832981c57adc5b.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/60/97b8d086bfa8fd81b6479aeba0fee460.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/3c/b9852d48f37abb540c0fc869c185483c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/37/2a79fae02ebd47b5d55f44f56ebfd537.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/02/a1ab5e0788b1758ed93d29b269e95802.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/87/686163efbbba8e52333c98cc1fe76d87.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/8e/dbae3ab03b262a731b989f037e85458e.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/45/dbd06cd76cc0889ec626017b19b68345.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1001/41/d3fb83e3791519849d19b064cb271e41.jpeg"
+        ],
+        "description": "游戏发生在虚构的湾景市 - 它与洛杉矶和拉斯维加斯有相似之处。与《极品飞车：地下城》中的奥林匹克城一样，Bayview 也没有警察部队，而且行动总是在晚上进行。汽车在城市街道上行驶，天气状况也不断变化——下雨时，随时可能启动和停止，驾驶变得更加困难。为了在城市中定位，有地图和 GPS 系统。\nBayview 由五个区组成：市中心、老城区、北部高地、东港和西港。它们有显着的差异，例如，市中心地区以宽阔的街道和摩天大楼为主，而北部高地则以蜿蜒的道路和峡谷为主。当玩家完成当前阶段时，每个后续区域都会打开。大多数地区都由高速公路网络连接，这些高速公路在地图上以白色突出显示。此外，部分街道仅提供飙车类型，部分区域仅提供街道X、漂移、飙车和职业联赛类型。\n《Need for Speed: Underground 2》的游戏玩法沿袭了前作的主要方面：玩家将参加街头赛车，赚取金钱并赢得其他赛车手的尊重。在续作中，汽车改装的可能性得到了显着提高，这在通关中发挥了重要作用。此外，游戏还有搭便车模式、吉普车等新的创新。在职业模式中，有这样一个情节：主角参加湾景市街道上的比赛，并试图击败强劲的对手——迦勒。其他极品飞车游戏。",
+        "title_id": null
+      },
       {
         "title": "Silent Hill 3 (移植版 ) [NRO][RUS/ENG]",
         "size": "4.5 GB",
