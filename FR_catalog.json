@@ -1,5 +1,35 @@
 [
     {
+        "title": "Silent Hill 3 (portage ) [NRO][RUS/ENG]",
+        "size": "4.5 GB",
+        "magnet": "magnet:?xt=urn:btih:031F07D48DD06E1187066FD240EEFE60C7ADAF6E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6924378",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6924378",
+        "year": "2003",
+        "genre": "Horror, Action, Homebrew",
+        "developer": "Konami Team Silent",
+        "publisher": "nameart, cutarev",
+        "image_format": "NRO",
+        "interface_lang": "Russe [RUS] lyubitelskiy par GamesVoice, Anglais [RUS / ENG]",
+        "voice_lang": "Russe par GamesVoice, Anglais",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Non",
+        "cover": "https://i5.imageban.ru/out/2026/10/18/89205f1499c0e1f27db5dce01c262356.png",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1018/22/484e0c0d66642225bc436743c10b2a22.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1018/9f/dd9e9b7e4d1fbf2accdc05dc8a5aa49f.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1018/5f/2ee658e11eb3c391415ccf9e5460295f.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1018/84/9eb6888412ef7650ccbdd8ba0507fd84.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1018/b0/90883483278315466e385a3dfe7723b0.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1018/64/d6a3a0074a57d4f955d504e2f300fc64.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1018/47/6f026d0cd33c40e32732186445083647.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1018/17/a4f9d9f183de5a1dc05adbe180140317.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1018/66/4e1e8f8a728bbc5861c10c2645948866.jpeg"
+        ],
+        "description": "Plongez-vous dans l'univers fictif de Silent Hill, qui rappelle en partie le monde réel, où la réalité quotidienne croise un autre monde alternatif terrifiant. Le jeu commence 17 ans après la fin de la première partie.\nLe jeu vidéo a été très apprécié par la critique, qui a souligné à la fois le niveau exceptionnellement élevé de la conception graphique et sonore, ainsi que l'utilisation réussie d'éléments communs aux films et à la littérature d'horreur et aux thèmes traditionnels de la série. Silent Hill 3 arrive en tête des ventes de jeux au Japon et figure parmi les dix jeux les plus vendus au Royaume-Uni et en Russie. Le critique de GameSpot, Tyler Winegarner, a déclaré qu'au moment du trio, la série était devenue une franchise solide, devenant un nouveau standard dans l'industrie du jeu vidéo.\nLa composante technique est identifiée comme une force : les images granuleuses et les effets d'éclairage dynamiques ont élevé la barre des attentes graphiques, créant « des effets visuels vraiment étonnants ». Les modèles très détaillés, les textures haute résolution, les animations et les voix off des personnages ont été salués. Selon le critique, la bande-son exceptionnelle crée une atmosphère de peur et de tension, et la musique donne à Silent Hill 3 profondeur et réflexion.\n\"Silent Hill 1\" et \"Silent Hill 2\" ici.",
+        "title_id": null
+    },
+    {
         "title": "Tenebris Somnia [RePack][NSP][RUS (Mod.)/ENG]",
         "size": "1.04 GB",
         "magnet": "magnet:?xt=urn:btih:6A17F1D4E162B9AD9B1607CC24DA19AF7BF555DC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -53198,18 +53228,15 @@
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6044950.jpg",
         "screenshots": [
-            "https://i114.fastpic.ru/thumb/2021/0427/33/c1294b9207e82f93281a9081a35c8a33.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0427/17/146500663b93d3070309ce7428682f17.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0427/97/bfdcc66a05d85c3a49f73033c2213897.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0427/e8/52cb956aca4cdc45f2237752bdf25ae8.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0427/85/a5c9febc98f17f8b1dcb98fa71d87c85.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0427/a9/c6a39a9fcd39739c27052a6748a361a9.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0427/b3/b847c5fe45c00cbc6591035369d111b3.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0427/f0/3e0d42414d1b7ec00fee2adf1bb2b2f0.jpeg",
-            "https://i114.fastpic.ru/thumb/2021/0427/de/7e3b146eef68a19593869cf2ce1d81de.jpeg"
+            "https://img-eshop.cdn.nintendo.net/i/d4de05200a5d61e1f6338bb19ca76792009f0e5b62184ca0f017c301b3bd26aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b050b10f1b579452b5c2e7013e9911163bf205d8e7f5746c41204ed4c40dd0d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35a9c9b4d227a6bbfc8f56e39918c5c94f9c033f9d7a49b06513972326baf425.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16962d2a5f5d0d275b27473479ce84b46b0b2818a2dd9dc8f82cb9ed31cec738.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c451a1f508131f885e6b565ae2d95c42104c4719dabf462febaa5bffa62b9c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c0dd96e80466dcb957ec78ba3e228d66dd59b39841f97dedb0e137738627a07.jpg"
         ],
-        "description": "Raskroyte dramatichnuyu pravdu v remeyke polnoy klassicheskoy detektivnoy advenchurnoy dilogii vremyon NES!..",
-        "title_id": "0100B4500F7AE000"
+        "description": "Cherchez des indices, interrogez les suspects et explorez la campagne japonaise après la tragédie qui a frappé la riche famille Ayashiro. Rempli de suspense, ce récit est celui d'un détective amnésique qui tente de démêler son passé parmi les horreurs d'une pénible enquête sur un meurtre. Jouez à la maison, sur le pouce, ou dans votre coin lecture préféré – uniquement sur la console Nintendo Switch™.\n\nPlongez au cœur d’un roman vidéoludique interactif\n\nPressez les suspects en sélectionnant la bonne question parmi une série d’options. Découvrez les indices en faisant déplacer une loupe sur l’écran et en examinant vos environs à l’aide de boutons. Obtenez suffisamment d’informations pour poursuivre votre enquête, puis accédez à de nouveaux endroits pour rencontrer encore plus de suspects. Préparez-vous à faire un travail de détective et à remuer ciel et terre pour trouver la vérité.\n\nAchetez un jeu Famicom Detective Club et obtenez le deuxième à prix réduit\n\nFamicom Detective Club™: The Missing Heir est le premier jeu de la série. L’antépisode du jeu, Famicom Detective Club™: The Girl Who Stands Behind est également offert dans Nintendo eShop. Si vous achetez l'un de ces jeux dans Nintendo eShop, vous pourrez profiter d'une réduction de 10 $* sur le deuxième, si celui-ci est également acheté dans Nintendo eShop**!\n\nL’intrigue commence lorsqu’un homme appelé Amachi vous découvre sans connaissance au bord d’une falaise dans la campagne japonaise. Souffrant d’amnésie, vous apprenez que vous êtes détective grâce à une jeune femme, et vous devez reprendre votre enquête pour résoudre le meurtre survenu dans la riche famille Ayashiro. Dévoilez leurs secrets, trouvez l’assassin, et retrouvez vos souvenirs perdus.\n\nSorti pour la première fois au Japon uniquement, le jeu Famicom Détective Club: The Missing Heir a été adapté en anglais et modernisé pour la console Nintendo Switch. Si les graphismes, la musique et les effets sonores ont été recréés, les joueurs peuvent également choisir la bande sonore originale en 8 bits. Découvrez un morceau de l'histoire de Nintendo avec la série de jeux Famicom Detective Club.",
+        "title_id": "010033F0126F4000"
     },
     {
         "title": "Event Horizon + Space Defense [NSZ][ENG]",
@@ -53604,15 +53631,15 @@
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5679625.jpg",
         "screenshots": [
-            "https://i106.fastpic.ru/thumb/2019/0710/f5/35316124c81ba1aca6c6ecd1b0f9a5f5.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0710/eb/62a1d8b45f441e6d7ec9c472b03eb3eb.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0710/62/7c21801c12e32445ac09b00cb2295062.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0710/87/22e859b935a6bf7d49da827cdf3c7b87.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0710/1f/e32efd3a4976cfec89d8b21d542eab1f.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0710/b8/efd116b71f286586e1a6032c2cb0eeb8.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0710/6e/9507775dcc97385333d530a87bd0ad6e.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0710/93/19c4db9bbe2eb85324eca9b53ca04f93.jpeg",
-            "https://i106.fastpic.ru/thumb/2019/0710/71/03a3fa2a585ea9f6de797178f4f98371.jpeg"
+            "https://i106.fastpic.org/thumb/2019/0710/f5/35316124c81ba1aca6c6ecd1b0f9a5f5.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0710/eb/62a1d8b45f441e6d7ec9c472b03eb3eb.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0710/62/7c21801c12e32445ac09b00cb2295062.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0710/87/22e859b935a6bf7d49da827cdf3c7b87.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0710/1f/e32efd3a4976cfec89d8b21d542eab1f.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0710/b8/efd116b71f286586e1a6032c2cb0eeb8.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0710/6e/9507775dcc97385333d530a87bd0ad6e.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0710/93/19c4db9bbe2eb85324eca9b53ca04f93.jpeg",
+            "https://i106.fastpic.org/thumb/2019/0710/71/03a3fa2a585ea9f6de797178f4f98371.jpeg"
         ],
         "description": "Nasladites zavorazhivayushchim pinbolom, raspolozhivshis v Parke razvlecheniy v kompanii s milymi devushkami v kimono!",
         "title_id": "010082500350E000"
@@ -53695,14 +53722,14 @@
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5894074.jpg",
         "screenshots": [
             "http://images.vfl.ru/ii/1589153968/dd14e734/30477062.jpg",
-            "https://i111.fastpic.ru/thumb/2020/0510/73/44615cc148c85b382fd58695a40cd073.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0511/09/56b11f7330d2f684d50aa2676472b309.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0510/0d/bd4f572349f046eb5b7d663d7af1370d.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0510/00/b7a4667fcbc57014cefc11a97f797900.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0511/5f/0ef00b66177f579e0b6efc937fe2a25f.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0511/e9/6b75526fa68b7255bcfb1eb883743de9.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0511/0a/80fd2b77fc1e4a2f243bb7e06ec38d0a.jpeg",
-            "https://i111.fastpic.ru/thumb/2020/0511/db/068e15a8cd12c3d1f7040651f0bd14db.jpeg"
+            "https://i111.fastpic.org/thumb/2020/0510/73/44615cc148c85b382fd58695a40cd073.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0511/09/56b11f7330d2f684d50aa2676472b309.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0510/0d/bd4f572349f046eb5b7d663d7af1370d.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0510/00/b7a4667fcbc57014cefc11a97f797900.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0511/5f/0ef00b66177f579e0b6efc937fe2a25f.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0511/e9/6b75526fa68b7255bcfb1eb883743de9.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0511/0a/80fd2b77fc1e4a2f243bb7e06ec38d0a.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0511/db/068e15a8cd12c3d1f7040651f0bd14db.jpeg"
         ],
         "description": "La distribution contient un simulateur personnalisé de jeux de type Game & Watch (Electronics IM, etc.) basé sur le noyau gw-libretro pour Retorach plus 59 jeux (.mgw) avec des couvertures incluses et une playlist complète.\nGame & Watch (jeu et montre russe) est une série de jeux électroniques portables dotés d'un écran LCD. La série a été créée par le développeur de jeux Gunpei Yokoi chez Nintendo et les jeux sont sortis depuis 1980. La plupart des appareils ne permettaient de jouer qu'à un seul jeu, une limitation causée par l'utilisation d'un écran LCD segmenté. De nombreux jeux avaient des boutons « Jeu A » et « Jeu B », le jeu B étant généralement une version plus rapide et plus difficile du jeu A.\n\"Electronics\" est une série de jeux électroniques soviétiques, principalement réunis en une seule série \"IM\" - un jeu sur microprocesseur. Certains des jeux de cette famille étaient des copies, des analogues et des variantes de la série Game & Watch « Wide Screen », lancée par Nintendo en 1981-1982 (EGG, Octopus, Mickey Mouse, Chef et autres) ; ont été produits depuis le milieu des années 80 par les usines \"Angstrem\", \"Mikron\" (Zelenograd), \"Arzamas Radio Components Plant\" (Arzamas), \"Billur\" (Ganja), \"Evistor\" (Vitebsk), \"Kamerton\" (Pinsk), \"October\" (Vinnitsa), \"Proton\" (Oryol), \"Severodonetsk Instrument-Making Plant\" (Severodonetsk), « Voskhod » (Kaluga), « Ellar » (Riga) et quelques autres.\ngw-libretro est un noyau pour l'interface Retroarch qui exécute des simulateurs convertis à partir du code de description du jeu Game & Watch (Handheld Electronic Game) créé par MADrigal. Chaque simulateur est traité à l'aide de pas2lua, écrit spécifiquement à cet effet, en utilisant l'obfuscateur Lua bstree comme demandé par l'auteur...Pourquoi la simulation de jeu a-t-elle été choisie plutôt que l'émulation ? Rappelons la différence :",
         "title_id": null
@@ -53805,11 +53832,11 @@
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5688554.jpg",
         "screenshots": [
-            "https://i110.fastpic.ru/thumb/2019/0212/9c/9f0c7114504848629b9343006fd1009c.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0212/c1/5ca5b6eba873cae0e3ffe28de2a35bc1.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0212/57/860e54eaaac3905143afdc152cfd6957.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0212/a7/2e6305948c2519e6bf5fadb0325e26a7.jpeg",
-            "https://i110.fastpic.ru/thumb/2019/0212/bb/e93a230a549903654c8fc775ef0b74bb.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0212/9c/9f0c7114504848629b9343006fd1009c.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0212/c1/5ca5b6eba873cae0e3ffe28de2a35bc1.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0212/57/860e54eaaac3905143afdc152cfd6957.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0212/a7/2e6305948c2519e6bf5fadb0325e26a7.jpeg",
+            "https://i110.fastpic.org/thumb/2019/0212/bb/e93a230a549903654c8fc775ef0b74bb.jpeg",
             "https://i115.fastpic.org/thumb/2021/0802/fe/9a449e0a08405aacedaf4508b8ad8dfe.jpeg",
             "https://i115.fastpic.org/thumb/2021/0802/b2/c08202bf62c50f250a466f6e60e02ab2.jpeg",
             "https://i115.fastpic.org/thumb/2021/0802/91/b58a9597c1a6432cdb831d2992268c91.jpeg",
