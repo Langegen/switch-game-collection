@@ -7,12 +7,24 @@ from pathlib import Path
 
 SWITCH_GAMES_FILE = "switch_games.json"
 TITLEDB_RU_FILE = "RU.ru.json"
+TITLEDB_FALLBACK_FILE = "US.en.json"
 
 SWITCH_GAMES_URL = "https://raw.githubusercontent.com/Langegen/switch-games/main/switch_games.json"
 TITLEDB_RU_URL = "https://raw.githubusercontent.com/blawar/titledb/master/RU.ru.json"
+TITLEDB_FALLBACK_URL = "https://raw.githubusercontent.com/blawar/titledb/master/US.en.json"
 
 COVERS_DIR = Path("covers")
 COVERS_BASE_URL = "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers"
+
+
+def proxy_image_url(url: str) -> str:
+    if not url:
+        return ""
+    if url.startswith("https://wsrv.nl/"):
+        return url
+    if "cdn.nintendo.net" in url:
+        return f"https://wsrv.nl/?url={url}&output=jpg"
+    return url
 
 
 def load_json_file(filename, fallback_url):
@@ -69,13 +81,11 @@ def entry_score(entry):
 def main():
     switch_games = load_json_file(SWITCH_GAMES_FILE, SWITCH_GAMES_URL)
     titledb_ru = load_json_file(TITLEDB_RU_FILE, TITLEDB_RU_URL)
+    titledb_fb = load_json_file(TITLEDB_FALLBACK_FILE, TITLEDB_FALLBACK_URL)
 
     ru_by_tid = {}
     ru_by_name = {}
-    if isinstance(titledb_ru, dict):
-        entries = list(titledb_ru.values())
-    else:
-        entries = list(titledb_ru)
+    entries = list(titledb_ru.values()) if isinstance(titledb_ru, dict) else list(titledb_ru)
     for v in entries:
         if not isinstance(v, dict):
             continue
@@ -88,7 +98,23 @@ def main():
             if name not in ru_by_name or entry_score(v) > entry_score(ru_by_name[name]):
                 ru_by_name[name] = v
 
-    print(f"Loaded {len(ru_by_tid)} TitleDB entries by title_id, {len(ru_by_name)} by name.")
+    fb_by_tid = {}
+    fb_by_name = {}
+    fb_entries = list(titledb_fb.values()) if isinstance(titledb_fb, dict) else list(titledb_fb)
+    for v in fb_entries:
+        if not isinstance(v, dict):
+            continue
+        tid = str(v.get("id") or "").strip().upper()
+        if tid:
+            if tid not in fb_by_tid or entry_score(v) > entry_score(fb_by_tid[tid]):
+                fb_by_tid[tid] = v
+        name = normalize_title(v.get("name"))
+        if name and not v.get("isDemo"):
+            if name not in fb_by_name or entry_score(v) > entry_score(fb_by_name[name]):
+                fb_by_name[name] = v
+
+    print(f"Loaded {len(ru_by_tid)} TitleDB RU entries by title_id, {len(ru_by_name)} by name.")
+    print(f"Loaded {len(fb_by_tid)} TitleDB Fallback entries by title_id, {len(fb_by_name)} by name.")
 
     ru_catalog = []
     ru_desc_count = 0
@@ -120,16 +146,28 @@ def main():
             screenshots = ru_screenshots
             ru_ss_count += 1
         else:
-            screenshots = item.get("screenshots", [])
-            if not isinstance(screenshots, list):
-                screenshots = []
+            fb_entry = fb_by_tid.get(raw_tid)
+            if not fb_entry:
+                fb_name = normalize_title(item.get("title", ""))
+                fb_entry = fb_by_name.get(fb_name)
+            fb_entry = fb_entry or {}
+            fb_screenshots = fb_entry.get("screenshots")
+            if fb_screenshots and isinstance(fb_screenshots, list) and len(fb_screenshots) > 0:
+                screenshots = fb_screenshots
+                ru_ss_count += 1
+            else:
+                screenshots = item.get("screenshots", [])
+                if not isinstance(screenshots, list):
+                    screenshots = []
+
+        screenshots = [proxy_image_url(s) for s in screenshots]
 
         topic_id = str(item.get("topic_id", "")).strip()
         cover_path = COVERS_DIR / f"{topic_id}.jpg"
         if cover_path.exists() and cover_path.stat().st_size > 500:
             cover = f"{COVERS_BASE_URL}/{topic_id}.jpg"
         else:
-            cover = item.get("cover", "")
+            cover = proxy_image_url(item.get("cover", ""))
 
         ru_catalog.append({
             "title": item.get("title", ""),

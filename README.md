@@ -41,7 +41,7 @@
     "multiplayer": "No",
     "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6897473.jpg",
     "screenshots": [
-      "https://i128.fastpic.org/thumb/2026/0820/23/dd26f869597f963b1b8961e591a61923.jpeg"
+      "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/dd26f869597f963b1b8961e591a61923.jpg&output=jpg"
     ],
     "description": "The plot continues immediately after the events of the first part...",
     "title_id": "0100AD6029730000"

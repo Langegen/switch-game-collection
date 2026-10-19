@@ -23,6 +23,16 @@ SWITCH_GAMES_URL = "https://raw.githubusercontent.com/Langegen/switch-games/main
 COVERS_DIR = BASE_DIR / "covers"
 COVERS_BASE_URL = "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers"
 
+
+def proxy_image_url(url: str) -> str:
+    if not url:
+        return ""
+    if url.startswith("https://wsrv.nl/"):
+        return url
+    if "cdn.nintendo.net" in url:
+        return f"https://wsrv.nl/?url={url}&output=jpg"
+    return url
+
 LANG_CONFIGS = {
     "en": {
         "output_file": "EN_catalog.json",
@@ -1075,6 +1085,25 @@ def build_catalog_for_lang(lang_code):
 
     print(f"Indexed {len(titledb_entries_by_tid)} TitleDB entries by ID, {len(titledb_entries_by_name)} by name for [{lang_code.upper()}].", flush=True)
 
+    # 2.1 Load Fallback TitleDB (US.en.json) for screenshots if not EN
+    fb_entries_by_tid = {}
+    fb_entries_by_name = {}
+    if lang_code != "en":
+        fb_data = load_json_file("US.en.json", "https://raw.githubusercontent.com/blawar/titledb/master/US.en.json")
+        fb_list = list(fb_data.values()) if isinstance(fb_data, dict) else list(fb_data)
+        for v in fb_list:
+            if not isinstance(v, dict):
+                continue
+            tid = str(v.get("id") or "").strip().upper()
+            if tid:
+                if tid not in fb_entries_by_tid or entry_score(v) >= entry_score(fb_entries_by_tid[tid]):
+                    fb_entries_by_tid[tid] = v
+            name = normalize_title(v.get("name"))
+            if name and not v.get("isDemo"):
+                if name not in fb_entries_by_name or entry_score(v) >= entry_score(fb_entries_by_name[name]):
+                    fb_entries_by_name[name] = v
+        print(f"Indexed {len(fb_entries_by_tid)} TitleDB Fallback entries for screenshots in [{lang_code.upper()}].", flush=True)
+
     # 3. Load Translation Cache
     cache = load_cache(cfg["cache_file"])
     print(f"Loaded {len(cache)} cached translations from {cfg['cache_file']}.", flush=True)
@@ -1159,9 +1188,21 @@ def build_catalog_for_lang(lang_code):
             screenshots = tdb_screenshots
             titledb_ss_count += 1
         else:
-            screenshots = item.get("screenshots", [])
-            if not isinstance(screenshots, list):
-                screenshots = []
+            fb_entry = fb_entries_by_tid.get(raw_tid)
+            if not fb_entry:
+                fb_name = normalize_title(item.get("title", ""))
+                fb_entry = fb_entries_by_name.get(fb_name)
+            fb_entry = fb_entry or {}
+            fb_screenshots = fb_entry.get("screenshots")
+            if fb_screenshots and isinstance(fb_screenshots, list) and len(fb_screenshots) > 0:
+                screenshots = fb_screenshots
+                titledb_ss_count += 1
+            else:
+                screenshots = item.get("screenshots", [])
+                if not isinstance(screenshots, list):
+                    screenshots = []
+
+        screenshots = [proxy_image_url(s) for s in screenshots]
 
         # Description
         tdb_desc = tdb_entry.get("description")
@@ -1196,7 +1237,7 @@ def build_catalog_for_lang(lang_code):
         if cover_path.exists() and cover_path.stat().st_size > 500:
             cover = f"{COVERS_BASE_URL}/{topic_id}.jpg"
         else:
-            cover = item.get("cover", "")
+            cover = proxy_image_url(item.get("cover", ""))
 
         catalog.append({
             "title": title,
