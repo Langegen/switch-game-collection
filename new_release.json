@@ -1,4 +1,7 @@
 [
+  {"title": "Bendy and the Dark Revival", "title_id": "0100207021C3C000", "metacritic": 72.0},
+  {"title": "Frostpunk + The Last Autumn, On The Edge, The Rifts", "title_id": "0100B1C0249B4000", "metacritic": null},
+  {"title": "The Witch's Bakery", "title_id": "0100BCB025968000", "metacritic": null},
   {"title": "Brave Dungeon + Dark Witch Story Combat / The Meaning of Justice", "title_id": "010068A00DAFC000", "metacritic": null},
   {"title": "Well Dweller", "title_id": "0100217023F6C000", "metacritic": null},
   {"title": "Neon Abyss 1-2", "title_id": "0100BAB01113A000", "metacritic": 74.0},
@@ -24,12 +27,5 @@
   {"title": "Croc's World 1-5 / Run", "title_id": "0100248029FA8000", "metacritic": null},
   {"title": "Lydia", "title_id": "01009800100B4000", "metacritic": 68.0},
   {"title": "Renai Zero Kilometer (Ren'ai 恋愛0キロメートル)", "title_id": "0100F2B023CEC000", "metacritic": null},
-  {"title": "Toy Story 3 Complete edition / Disney Pixar Toy Story Retro Roundup (6 игр)", "title_id": "01001DC025BC4000", "metacritic": null},
-  {"title": "Creepy Tale 1 / 2 / 3 Ingrid Penance / 4 Some Other Place / 5 Snow Child", "title_id": "0100FAB02A21E000", "metacritic": 54.0},
-  {"title": "Vault of Power", "title_id": "01004F302847E000", "metacritic": null},
-  {"title": "Constance", "title_id": "010030B01DC52000", "metacritic": 81.0},
-  {"title": "Cubic Cosmos", "title_id": "01000500296CA000", "metacritic": null},
-  {"title": "Toem: A Photo Adventure 1-2", "title_id": "0100D4E02762A000", "metacritic": null},
-  {"title": "Zenonia", "title_id": "01006BE029808000", "metacritic": null},
-  {"title": "Silver Pines", "title_id": "0100D5B026844000", "metacritic": null}
+  {"title": "Toy Story 3 Complete edition / Disney Pixar Toy Story Retro Roundup (6 игр)", "title_id": "01001DC025BC4000", "metacritic": null}
 ]
