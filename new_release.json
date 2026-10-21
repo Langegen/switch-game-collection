@@ -1,4 +1,8 @@
 [
+  {"title": "Loopers", "title_id": "010062A0178A8000", "metacritic": null},
+  {"title": "Rune Dice", "title_id": "0100F5102672C000", "metacritic": null},
+  {"title": "An Airport for Aliens Currently Run by Dogs", "title_id": "01000640174DA000", "metacritic": 64.0},
+  {"title": "I Am Your Beast", "title_id": "0100DA102710A000", "metacritic": null},
   {"title": "Bendy and the Dark Revival", "title_id": "0100207021C3C000", "metacritic": 72.0},
   {"title": "Frostpunk + The Last Autumn, On The Edge, The Rifts", "title_id": "0100B1C0249B4000", "metacritic": null},
   {"title": "The Witch's Bakery", "title_id": "0100BCB025968000", "metacritic": null},
@@ -22,10 +26,5 @@
   {"title": "Zoids Wild Blast Unleashed / Infinity Blast", "title_id": "0100BF9011CBE000", "metacritic": 61.0},
   {"title": "Need For Speed Carbon (хоумбрю NFS:C)", "title_id": "0100000000000000", "metacritic": null},
   {"title": "To the Moon / Finding Paradise / A Bird Story", "title_id": "010036700F83E000", "metacritic": 81.0},
-  {"title": "Harvest Moon Echoes of Teradea", "title_id": "0100839022642000", "metacritic": null},
-  {"title": "Just Dance JD Legacy Mod (1400+ песен Decades of Hits, Unlimited, Now, 2026 и др.)", "title_id": "0100EA6014BB8000", "metacritic": null},
-  {"title": "Croc's World 1-5 / Run", "title_id": "0100248029FA8000", "metacritic": null},
-  {"title": "Lydia", "title_id": "01009800100B4000", "metacritic": 68.0},
-  {"title": "Renai Zero Kilometer (Ren'ai 恋愛0キロメートル)", "title_id": "0100F2B023CEC000", "metacritic": null},
-  {"title": "Toy Story 3 Complete edition / Disney Pixar Toy Story Retro Roundup (6 игр)", "title_id": "01001DC025BC4000", "metacritic": null}
+  {"title": "Harvest Moon Echoes of Teradea", "title_id": "0100839022642000", "metacritic": null}
 ]
