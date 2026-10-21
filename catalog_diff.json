@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1792542775,
+  "generated_at": 1792567677,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
@@ -20,7 +20,7 @@
         "voice_lang": "не озвучивается",
         "performance": "Да (на 14.1.2, Atmosphere 1.5.0)",
         "multiplayer": "нет",
-        "cover": "https://i6.imageban.ru/out/2026/10/20/79baf243ab06e8242f11795b52eb1662.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
         "screenshots": [
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
@@ -31,6 +31,33 @@
         ],
         "description": "An Airport for Aliens Currently Run by Dogs is a first-person open-world comedy adventure game with a very long name. You and your fiancée are the last two human beings left in the universe. Dogs run airports, along with the rest of society. Deal with alien logic, travel issues, and strange stock photo dogs as you attempt to stay in touch with the person you love, when you both live your lives on the go!",
         "title_id": "01000640174DA000"
+      },
+      {
+        "title": "Rune Dice [NSZ][RUS/Multi10]",
+        "size": "209.6 MB",
+        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6854986",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
+        "year": "2026, май",
+        "genre": "Tactic, Arcade, Roguelite",
+        "developer": "Smart Raven Studio",
+        "publisher": "Kwalee",
+        "image_format": ".NSZ (сжато ~65%, установленный объём 0.64 ГБ)",
+        "interface_lang": "Русский, Английский [RUS / ENG / Multi 10]",
+        "voice_lang": "не озвучивается",
+        "performance": "Да (на 22.1.0, Atmosphere 1.11.1)",
+        "multiplayer": "нет",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
+        "screenshots": [
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
+        ],
+        "description": "Бросайте кубики, создавайте магические цепные реакции. Выбирайте из разных классов героев со спец. способностями. Стройте синергии между кубиками, реликвиями и рунами, чтобы побеждать самых сложных боссов!.. Тщательно планируйте каждый бросок — ваш ход может запустить мощные комбо, которые уничтожат целые волны врагов или подготовить поле для будущих ходов. Освой точное прицеливание и стратегическое предсказание, чтобы раскрыть на максимум мистическое слияние кубиков.",
+        "title_id": "0100F5102672C000"
       },
       {
         "title": "I Am Your Beast [NSZ][ENG]",
@@ -624,7 +651,7 @@
         "voice_lang": "No voiceover",
         "performance": "Yes (on 14.1.2, Atmosphere 1.5.0)",
         "multiplayer": "No",
-        "cover": "https://i6.imageban.ru/out/2026/10/20/79baf243ab06e8242f11795b52eb1662.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
         "screenshots": [
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
@@ -635,6 +662,33 @@
         ],
         "description": "An Airport for Aliens Currently Run by Dogs is a first-person open-world comedy adventure game with a very long name. You and your fiancée are the last two human beings left in the universe. Dogs run airports, along with the rest of society. Deal with alien logic, travel issues, and strange stock photo dogs as you attempt to stay in touch with the person you love, when you both live your lives on the go!",
         "title_id": "01000640174DA000"
+      },
+      {
+        "title": "Rune Dice [NSZ][RUS/Multi10]",
+        "size": "209.6 MB",
+        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6854986",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
+        "year": "2026, May",
+        "genre": "Tactic, Arcade, Roguelite",
+        "developer": "Smart Raven Studio",
+        "publisher": "Kwalee",
+        "image_format": ".NSZ (compressed ~65%, installed size 0.64 GB)",
+        "interface_lang": "Russian, English [RUS / ENG / Multi 10]",
+        "voice_lang": "No voiceover",
+        "performance": "Yes (on 22.1.0, Atmosphere 1.11.1)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
+        "screenshots": [
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
+        ],
+        "description": "Launch dice across enchanted battlefields where realistic physics meets ancient magic. Matching dice fuse into a more powerful one that seeks its equals, triggering devastating chain combos. Plan each throw carefully - every dice placement can trigger massive combos that wipe out entire enemy waves or set up tactical future plays. Master both precise aiming and strategic prediction to unleash the full power of mystical dice fusion.\n\nPick from 8 unique classes, each with special dice and magical abilities. Every class offers multiple heroes with different starting combinations, ensuring each adventure feels completely different. Spread deadly poison through enemy ranks as a Rogue, unleash lightning storms as a Mage, or absorb massive damage as a heavily armoured Warrior. Each class opens up entirely new tactical approaches and synergies.\n\nEvery location culminates in challenging battles against bosses, each with unique abilities that will test your strategy.\n\nSome bosses summon additional minions, others manipulate the dice field, and the most dangerous can completely change combat rules. Adapt your dice collection and tactics to overcome each distinct threat.\n\nCraft a powerful combination of dice, relics, and runes that work together to define your playstyle.\n\nCollect magical dice through combat victories and shop purchases, discover game-changing relics that provide permanent enhancements, and gather tactical runes for battlefield manipulation. Visit ancient altars where you can risk your dice for upgrades, or play it safe and build your arsenal gradually. The synergy between your dice attacks, relic bonuses, and rune abilities creates devastating combinations and endless strategic possibilities.",
+        "title_id": "0100F5102672C000"
       },
       {
         "title": "I Am Your Beast [NSZ][ENG]",
@@ -1228,7 +1282,7 @@
         "voice_lang": "Sin voces",
         "performance": "Sí (en 14.1.2, Atmosphere 1.5.0)",
         "multiplayer": "No",
-        "cover": "https://i6.imageban.ru/out/2026/10/20/79baf243ab06e8242f11795b52eb1662.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
         "screenshots": [
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
@@ -1239,6 +1293,33 @@
         ],
         "description": "An Airport for Aliens Currently Run by Dogs es un juego cómico de aventuras, mundo abierto y en primera persona con un nombre muy largo. Tu prometida y tú sois los últimos humanos del universo. Los perros dirigen los aeropuertos y gobiernan al resto de la sociedad. Enfréntate a la lógica alienígena, problemas de viajes y extrañas fotos de perros de archivo en tu intento de mantener el contacto con tu amada cuando ambos vivís de un lado para otro.",
         "title_id": "01000640174DA000"
+      },
+      {
+        "title": "Rune Dice [NSZ][RUS/Multi10]",
+        "size": "209.6 MB",
+        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6854986",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
+        "year": "2026, mayo",
+        "genre": "Tactic, Arcade, Roguelite",
+        "developer": "Smart Raven Studio",
+        "publisher": "Kwalee",
+        "image_format": ".NSZ (comprimido ~65%, tamaño instalado 0.64 GB)",
+        "interface_lang": "Ruso, Inglés [RUS / ENG / Multi 10]",
+        "voice_lang": "Sin voces",
+        "performance": "Sí (en 22.1.0, Atmosphere 1.11.1)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
+        "screenshots": [
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
+        ],
+        "description": "Lanza dados sobre campos de batalla encantados donde la física realista se encuentra con la magia ancestral. Dos dados idénticos se fusionan en uno más poderoso que busca a sus iguales, desencadenando devastadores combos en cadena.\n\nPlanifica cuidadosamente cada lanzamiento - tu jugada puede desencadenar combos masivos que aniquilarán oleadas enteras de enemigos o preparar el terreno para futuras jugadas. Domina la puntería precisa y la predicción estratégica para liberar al máximo la fusión mística de dados.\n\nElige entre 8 clases únicas, cada una con dados especiales y habilidades mágicas. Cada clase incluye varios héroes con diferentes combinaciones iniciales, haciendo que cada aventura se sienta completamente diferente.\n\nEsparce veneno mortal entre las filas enemigas como pícaro, desata tormentas de relámpagos como mago, o tankea como guerrero fuertemente acorazado. Cada clase abre enfoques tácticos y sinergias completamente nuevos.\n\nCada localización culmina con desafiantes batallas contra jefes que poseen habilidades únicas que pondrán a prueba tu estrategia.\n\nAlgunos jefes invocan esbirros adicionales, otros manipulan el campo de dados, y los más peligrosos pueden cambiar completamente las reglas del combate. Adapta tu colección de dados y tácticas para superar cada amenaza distinta.\n\nCrea combinaciones poderosas de dados, reliquias y runas que trabajen juntas para definir tu estilo de juego.\n\nColecciona dados mágicos a través de victorias en combate y compras en tiendas, descubre reliquias que cambian el juego y proporcionan mejoras permanentes, y reúne runas tácticas para manipular el campo de batalla. Visita altares antiguos donde puedes arriesgar tus dados por mejoras, o juega sobre seguro y construye tu arsenal gradualmente. La sinergia entre tus ataques de dados, bonificaciones de reliquias y habilidades de runas crea combinaciones devastadoras y posibilidades estratégicas infinitas.",
+        "title_id": "0100F5102672C000"
       },
       {
         "title": "I Am Your Beast [NSZ][ENG]",
@@ -1832,7 +1913,7 @@
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 14.1.2, Atmosphere 1.5.0)",
         "multiplayer": "Non",
-        "cover": "https://i6.imageban.ru/out/2026/10/20/79baf243ab06e8242f11795b52eb1662.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
         "screenshots": [
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
@@ -1843,6 +1924,33 @@
         ],
         "description": "An Airport for Aliens Currently Run by Dogs est un jeu d’aventure à la première personne au monde ouvert, aux éléments comiques et au nom un peu long. Vous et votre fiancée êtes les deux derniers humains rescapés dans l’univers dans lequel les chiens s’occupent des aéroports. Maîtrisez la logique extraterrestre, gérer les problèmes de voyage et visionnez d’étranges photos de chiens tandis que vous tentez de rester en contact avec la personne que vous aimez, et vivez votre vie au jour le jour !",
         "title_id": "01000640174DA000"
+      },
+      {
+        "title": "Rune Dice [NSZ][RUS/Multi10]",
+        "size": "209.6 MB",
+        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6854986",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
+        "year": "2026, mai",
+        "genre": "Tactic, Arcade, Roguelite",
+        "developer": "Smart Raven Studio",
+        "publisher": "Kwalee",
+        "image_format": ".NSZ (compressé ~65%, taille installée 0.64 GB)",
+        "interface_lang": "Russe, Anglais [RUS / ENG / Multi 10]",
+        "voice_lang": "Sans voix",
+        "performance": "Oui (sur 22.1.0, Atmosphere 1.11.1)",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
+        "screenshots": [
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
+        ],
+        "description": "Lance tes dés sur des champs de bataille enchantés où la physique réaliste rencontre la magie ancestrale. Deux dés identiques fusionnent en un dé plus puissant qui cherche ses semblables, déclenchant des combos en chaîne dévastateurs.\n\nPlanifie soigneusement chaque lancer - ton coup peut déclencher des combos massifs qui anéantiront des vagues entières d'ennemis ou préparer le terrain pour tes futurs coups. Maîtrise la visée précise et la prédiction stratégique pour libérer tout le potentiel de la fusion mystique des dés.\n\nChoisis parmi 8 classes uniques, chacune avec des dés spéciaux et des capacités magiques. Chaque classe propose plusieurs héros avec différentes combinaisons de départ, faisant en sorte que chaque aventure se sente complètement différente.\n\nRépands du poison mortel dans les rangs ennemis en tant que Voleur, déchaîne des tempêtes d'éclairs en tant que Mage, ou tanke en tant que Guerrier lourdement blindé. Chaque classe ouvre des approches tactiques et des synergies totalement nouvelles.\n\nChaque lieu se termine par des combats difficiles contre des boss possédant des capacités uniques qui mettront ta stratégie à l'épreuve.\n\nCertains boss invoquent des sbires supplémentaires, d'autres manipulent le terrain de dés, et les plus dangereux peuvent complètement changer les règles du combat. Adapte ta collection de dés et tes tactiques pour surmonter chaque menace distincte.\n\nCrée des combinaisons puissantes de dés, reliques et runes qui travaillent ensemble pour définir ton style de jeu.\n\nCollecte des dés magiques grâce aux victoires en combat et aux achats en boutique, découvre des reliques qui changent la donne et offrent des améliorations permanentes, et rassemble des runes tactiques pour manipuler le champ de bataille. Visite des autels anciens où tu peux risquer tes dés pour des améliorations, ou joue prudemment et construis ton arsenal progressivement. La synergie entre tes attaques de dés, les bonus des reliques et les capacités des runes crée des combinaisons dévastatrices et des possibilités stratégiques infinies.",
+        "title_id": "0100F5102672C000"
       },
       {
         "title": "I Am Your Beast [NSZ][ENG]",
@@ -2436,7 +2544,7 @@
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 14.1.2, Atmosphere 1.5.0)",
         "multiplayer": "Nein",
-        "cover": "https://i6.imageban.ru/out/2026/10/20/79baf243ab06e8242f11795b52eb1662.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
         "screenshots": [
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
@@ -2447,6 +2555,33 @@
         ],
         "description": "„An Airport for Aliens Currently Run by Dogs“ ist ein First-Person-Comedy-Adventure in einer offenen Spielwelt ... und es hat einen sehr langen Namen. Du und deine Verlobte sind die letzten beiden Menschen im gesamten Universum. Hunde leiten neben Flughäfen nun auch die gesamte Gesellschaft. Im Spiel kämpfst du mit Alien-Logik, Reiseproblemen und seltsamen Stockfoto-Hunden, während du versuchst, mit der Liebe deines Lebens in Verbindung zu bleiben!",
         "title_id": "01000640174DA000"
+      },
+      {
+        "title": "Rune Dice [NSZ][RUS/Multi10]",
+        "size": "209.6 MB",
+        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6854986",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
+        "year": "2026, Mai",
+        "genre": "Tactic, Arcade, Roguelite",
+        "developer": "Smart Raven Studio",
+        "publisher": "Kwalee",
+        "image_format": ".NSZ (komprimiert ~65%, installierte Größe 0.64 GB)",
+        "interface_lang": "Russisch, Englisch [RUS / ENG / Multi 10]",
+        "voice_lang": "Keine Sprachausgabe",
+        "performance": "Ja (auf 22.1.0, Atmosphere 1.11.1)",
+        "multiplayer": "Nein",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
+        "screenshots": [
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
+        ],
+        "description": "Wirf Würfel über verzauberte Schlachtfelder, wo realistische Physik auf alte Magie trifft. Zwei identische Würfel verschmelzen zu einem mächtigeren, der seinesgleichen sucht und verheerende Ketten-Combos auslöst.\n\nPlane jeden Wurf sorgfältig - dein Zug kann mächtige Combos auslösen, die ganze Gegnerwellen auslöschen oder das Feld für zukünftige Züge vorbereiten. Meistere präzises Zielen und strategische Vorhersage, um die mystische Würfelverschmelzung maximal zu entfesseln.\n\nWähle aus 8 einzigartigen Klassen, jede mit speziellen Würfeln und magischen Fähigkeiten. Jede Klasse bietet mehrere Helden mit unterschiedlichen Startkombinationen, sodass sich jedes Abenteuer völlig anders anfühlt.\n\nVerbreite tödliches Gift in den feindlichen Reihen als Schurke, entfessle Blitzstürme als Magier, oder tanke als schwer gepanzerter Krieger. Jede Klasse eröffnet völlig neue taktische Ansätze und Synergien.\n\nJede Location endet mit herausfordernden Kämpfen gegen Bosse, die einzigartige Fähigkeiten besitzen, welche deine Strategie auf die Probe stellen.\n\nManche Bosse beschwören zusätzliche Diener, andere manipulieren das Würfelfeld, und die gefährlichsten können die Kampfregeln komplett ändern. Passe deine Würfelsammlung und Taktiken an, um jede einzelne Bedrohung zu überwinden.\n\nErschaffe mächtige Kombinationen aus Würfeln, Relikten und Runen, die zusammenarbeiten und deinen Spielstil definieren.\n\nSammle magische Würfel durch Kampfsiege und Shop-Käufe, entdecke spielverändernde Relikte, die permanente Verbesserungen bieten, und sammle taktische Runen zur Manipulation des Schlachtfelds. Besuche uralte Altäre, wo du deine Würfel für Upgrades riskieren kannst, oder spiele auf Nummer sicher und baue dein Arsenal schrittweise auf. Die Synergie zwischen deinen Würfelangriffen, Relikt-Boni und Runen-Fähigkeiten erschafft verheerende Kombinationen und endlose strategische Möglichkeiten.",
+        "title_id": "0100F5102672C000"
       },
       {
         "title": "I Am Your Beast [NSZ][ENG]",
@@ -3040,7 +3175,7 @@
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 14.1.2, Atmosphere 1.5.0)",
         "multiplayer": "No",
-        "cover": "https://i6.imageban.ru/out/2026/10/20/79baf243ab06e8242f11795b52eb1662.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
         "screenshots": [
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
@@ -3051,6 +3186,33 @@
         ],
         "description": "An Airport for Aliens Currently Run by Dogs è un open world di avventura comico in prima persona con un titolo molto lungo. Voi e la vostra fidanzata siete gli ultimi due esseri umani rimasti nell'universo. I cani gestiscono gli aeroporti e anche il resto della società. Affrontate la logica aliena, risolvete i problemi di viaggio e incontrate strane foto di cani mentre cercate di rimanere in contatto con la persona amata, senza mai fermarvi!",
         "title_id": "01000640174DA000"
+      },
+      {
+        "title": "Rune Dice [NSZ][RUS/Multi10]",
+        "size": "209.6 MB",
+        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6854986",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
+        "year": "2026, maggio",
+        "genre": "Tactic, Arcade, Roguelite",
+        "developer": "Smart Raven Studio",
+        "publisher": "Kwalee",
+        "image_format": ".NSZ (compresso ~65%, dimensione installata 0.64 GB)",
+        "interface_lang": "Russo, Inglese [RUS / ENG / Multi 10]",
+        "voice_lang": "Senza doppiaggio",
+        "performance": "Sì (su 22.1.0, Atmosphere 1.11.1)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
+        "screenshots": [
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
+        ],
+        "description": "Lancia i dadi su campi di battaglia incantati dove la fisica realistica incontra la magia antica. Due dadi identici si fondono in uno più potente che cerca i suoi simili, scatenando devastanti combo a catena.\n\nPianifica attentamente ogni lancio - la tua mossa può innescare combo potenti che spazzeranno via intere ondate di nemici o preparare il campo per le mosse future. Padroneggia la mira precisa e la previsione strategica per liberare al massimo la fusione mistica dei dadi.\n\nScegli tra 8 classi uniche, ognuna con dadi speciali e abilità magiche. Ogni classe include diversi eroi con diverse combinazioni iniziali, facendo sì che ogni avventura si senta completamente diversa.\n\nDiffondi veleno mortale tra i ranghi nemici da ladro, scatena tempeste di fulmini da mago, o tanka da guerriero pesantemente corazzato. Ogni classe apre approcci tattici e sinergie completamente nuove.\n\nOgni location si conclude con difficili battaglie contro boss che possiedono abilità uniche che metteranno alla prova la tua strategia.\n\nAlcuni boss evocano ulteriori servitori, altri manipolano il campo dei dadi, e i più pericolosi possono cambiare completamente le regole del combattimento. Adatta la tua collezione di dadi e le tue tattiche per superare ogni minaccia distinta.\n\nCrea potenti combinazioni di dadi, reliquie e rune che lavorano insieme per definire il tuo stile di gioco.\n\nRaccogli dadi magici attraverso vittorie in combattimento e acquisti nei negozi, scopri reliquie che cambiano il gioco e forniscono miglioramenti permanenti, e raccogli rune tattiche per manipolare il campo di battaglia. Visita antichi altari dove puoi rischiare i tuoi dadi per miglioramenti, oppure gioca sul sicuro e costruisci gradualmente il tuo arsenale. La sinergia tra i tuoi attacchi con i dadi, i bonus delle reliquie e le abilità delle rune crea combinazioni devastanti e infinite possibilità strategiche.",
+        "title_id": "0100F5102672C000"
       },
       {
         "title": "I Am Your Beast [NSZ][ENG]",
@@ -3644,7 +3806,7 @@
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 14.1.2, Atmosphere 1.5.0)",
         "multiplayer": "Não",
-        "cover": "https://i6.imageban.ru/out/2026/10/20/79baf243ab06e8242f11795b52eb1662.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
         "screenshots": [
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
@@ -3655,6 +3817,33 @@
         ],
         "description": "O An Airport for Aliens Currently Run by Dogs é um jogo de aventura de comédia de mundo aberto em primeira pessoa com um nome muito longo. Você e a sua cara metade são os dois últimos seres humanos que restam no universo. Cachorros gerenciam aeroportos, junto com o resto da sociedade. Lide com a lógica alienígena, problemas de viagem e estranhas fotos de cachorros de banco de imagens enquanto tenta manter contato com a pessoa que ama, quando ambos vivem suas vidas em movimento!",
         "title_id": "01000640174DA000"
+      },
+      {
+        "title": "Rune Dice [NSZ][RUS/Multi10]",
+        "size": "209.6 MB",
+        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6854986",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
+        "year": "2026, maio",
+        "genre": "Tactic, Arcade, Roguelite",
+        "developer": "Smart Raven Studio",
+        "publisher": "Kwalee",
+        "image_format": ".NSZ (compactado ~65%, tamanho instalado 0.64 GB)",
+        "interface_lang": "Russo, Inglês [RUS / ENG / Multi 10]",
+        "voice_lang": "Sem dublagem",
+        "performance": "Sim (no 22.1.0, Atmosphere 1.11.1)",
+        "multiplayer": "Não",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
+        "screenshots": [
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
+        ],
+        "description": "Lance dados em campos de batalha encantados onde a física realista encontra a magia ancestral. Dois dados idênticos se fundem em um mais poderoso que busca seus iguais, desencadeando combos em cadeia devastadores.\n\nPlaneje cuidadosamente cada lançamento - sua jogada pode desencadear combos poderosos que vão aniquilar ondas inteiras de inimigos ou preparar o campo para jogadas futuras. Domine a mira precisa e a previsão estratégica para liberar ao máximo a fusão mística de dados.\n\nEscolha entre 8 classes únicas, cada uma com dados especiais e habilidades mágicas. Cada classe inclui vários heróis com diferentes combinações iniciais, fazendo com que cada aventura pareça completamente diferente.\n\nEspalhe veneno mortal nas fileiras inimigas como ladino, libere tempestades de raios como mago, ou tanque como guerreiro pesadamente blindado. Cada classe abre abordagens táticas e sinergias completamente novas.\n\nCada local culmina em batalhas desafiadoras contra chefes que possuem habilidades únicas que vão testar sua estratégia.\n\nAlguns chefes invocam lacaios adicionais, outros manipulam o campo de dados, e os mais perigosos podem mudar completamente as regras do combate. Adapte sua coleção de dados e táticas para superar cada ameaça distinta.\n\nCrie combinações poderosas de dados, relíquias e runas que trabalham juntas para definir seu estilo de jogo.\n\nColete dados mágicos através de vitórias em combate e compras em lojas, descubra relíquias que mudam o jogo e fornecem melhorias permanentes, e reúna runas táticas para manipulação do campo de batalha. Visite altares antigos onde você pode arriscar seus dados por upgrades, ou jogue no seguro e construa seu arsenal gradualmente. A sinergia entre seus ataques de dados, bônus de relíquias e habilidades de runas cria combinações devastadoras e possibilidades estratégicas infinitas.",
+        "title_id": "0100F5102672C000"
       },
       {
         "title": "I Am Your Beast [NSZ][ENG]",
@@ -4248,7 +4437,7 @@
         "voice_lang": "无语音",
         "performance": "是 (在 14.1.2, Atmosphere 1.5.0)",
         "multiplayer": "无",
-        "cover": "https://i6.imageban.ru/out/2026/10/20/79baf243ab06e8242f11795b52eb1662.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
         "screenshots": [
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
           "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
@@ -4259,6 +4448,33 @@
         ],
         "description": "《目前由狗经营的外星人机场》是一款第一人称开放世界喜剧冒险游戏，名字很长。你和你的未婚妻是宇宙中仅存的两个人。狗和社会其他人一样管理着机场。当你试图与你所爱的人保持联系时，当你们都过着忙碌的生活时，要处理外星人的逻辑、旅行问题和奇怪的照片狗！",
         "title_id": "01000640174DA000"
+      },
+      {
+        "title": "Rune Dice [NSZ][RUS/Multi10]",
+        "size": "209.6 MB",
+        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6854986",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
+        "year": "2026, 5月",
+        "genre": "Tactic, Arcade, Roguelite",
+        "developer": "Smart Raven Studio",
+        "publisher": "Kwalee",
+        "image_format": ".NSZ (已压缩 ~65%, 安装大小 0.64 GB)",
+        "interface_lang": "俄语, 英语 [RUS / ENG / Multi 10]",
+        "voice_lang": "无语音",
+        "performance": "是 (在 22.1.0, Atmosphere 1.11.1)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
+        "screenshots": [
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/5bfa2d30a0c894c8a521dcf0bc191e73fd45db5cc1bfc901dc7c44ff3cf394bb.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d73468d05f69673fc07315cd52c5fb21f6ab2c6c6f16fdf0c995e1581fa7bf05.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/1e9301b5cc0de3549d4979649aeaa1256aff4ef7f41a918e8b0f1161ebe43aa9.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/bf95bf664d5b34e2b2c6d44d72e363c1022894f9054ded9202155399b4cff696.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/13c161bf51447ea9a2228f58cf5e2b9441210c3c3ab03c27f8a46853b551f86f.jpg&output=jpg",
+          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/429e71e7c345763594a300d680ceee4a3a3ed28a5974230428dd44952c3f164f.jpg&output=jpg"
+        ],
+        "description": "在魔法戰場上投擲骰子，真實物理與古老魔法在此交匯。兩個相同的骰子融合成更強大的骰子，它會尋找同類，觸發毀滅性的連鎖連擊。\n\n仔細規劃每次投擲 - 你的每一步都可能觸發強大連擊，橫掃整波敵人或為未來的行動鋪平道路。掌握精準瞄準和戰略預測，最大化釋放神秘骰子融合的力量。\n\n從8個獨特職業中選擇，每個職業都擁有特殊骰子和魔法技能。每個職業包含多個具有不同起始組合的英雄，讓每次冒險都感覺完全不同。\n\n作為盜賊在敵軍中散播致命毒藥，作為法師釋放閃電風暴，或作為重裝戰士坦克。每個職業都開啟全新的戰術方法和協同效應。\n\n每個地點都以與擁有獨特技能的首領的挑戰性戰鬥作為終結，考驗你的策略。\n\n一些首領召喚額外的小怪，另一些操控骰子場地，而最危險的可以完全改變戰鬥規則。調整你的骰子收藏和戰術，克服每個不同的威脅。\n\n打造骰子、聖物和符文的強大組合，它們協同工作，定義你的遊戲風格。\n\n通過戰鬥勝利和商店購買收集魔法骰子，發現改變遊戲的聖物提供永久增強，並收集戰術符文用於操控戰場。訪問古老祭壇，在那裡你可以冒險用骰子換取升級，或穩妥行事，逐步建立你的武器庫。骰子攻擊、聖物加成和符文技能之間的協同效應創造出毀滅性組合和無限戰略可能性。",
+        "title_id": "0100F5102672C000"
       },
       {
         "title": "I Am Your Beast [NSZ][ENG]",
