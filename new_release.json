@@ -1,4 +1,9 @@
 [
+  {"title": "Sam and Max 1: Save the World / 2 Beyond Time and Space / 3 The Devil's Playhouse (Season One, Two, Three)", "title_id": "0100D5501857E000", "metacritic": 79.0},
+  {"title": "Soul Quest", "title_id": "0100E04026DFC000", "metacritic": null},
+  {"title": "Ticket to Ride + 11 DLC", "title_id": "010081D01E246000", "metacritic": null},
+  {"title": "Final Fantasy Resonance", "title_id": "0100517027E86000", "metacritic": null},
+  {"title": "The Survivalists + DLC Frostbite Fortress, Monkey Business", "title_id": "0100EF200DA60000", "metacritic": 76.0},
   {"title": "Loopers", "title_id": "010062A0178A8000", "metacritic": null},
   {"title": "Rune Dice", "title_id": "0100F5102672C000", "metacritic": null},
   {"title": "An Airport for Aliens Currently Run by Dogs", "title_id": "01000640174DA000", "metacritic": 64.0},
@@ -22,9 +27,5 @@
   {"title": "Lucky Tower Ultimate", "title_id": "0100B5B01AC50000", "metacritic": null},
   {"title": "Content Warning", "title_id": "0100C29024138000", "metacritic": null},
   {"title": "Deep Rock Galactic Survivor", "title_id": "01003EC027CC8000", "metacritic": null},
-  {"title": "Chained Beasts", "title_id": "0100B04026946000", "metacritic": 90.0},
-  {"title": "Zoids Wild Blast Unleashed / Infinity Blast", "title_id": "0100BF9011CBE000", "metacritic": 61.0},
-  {"title": "Need For Speed Carbon (хоумбрю NFS:C)", "title_id": "0100000000000000", "metacritic": null},
-  {"title": "To the Moon / Finding Paradise / A Bird Story", "title_id": "010036700F83E000", "metacritic": 81.0},
-  {"title": "Harvest Moon Echoes of Teradea", "title_id": "0100839022642000", "metacritic": null}
+  {"title": "Chained Beasts", "title_id": "0100B04026946000", "metacritic": 90.0}
 ]
