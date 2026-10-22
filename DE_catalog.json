@@ -14,7 +14,7 @@
         "voice_lang": "Englisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
-        "cover": "https://i6.imageban.ru/out/2026/10/21/3db786fc6799b7a94f769789b2737b92.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6926039.jpg",
         "screenshots": [
             "https://i129.fastpic.org/thumb/2026/1021/c7/2666e2b9a893771d763903bc07cc5cc7.jpeg",
             "https://i129.fastpic.org/thumb/2026/1021/ba/516376f6a016daee9b03e243680710ba.jpeg",
@@ -145,7 +145,7 @@
         "title_id": null
     },
     {
-        "title": "Dead Space Sabotage Mobile (Homebrew) [NRO][ENG]",
+        "title": "Dead Space Sabotage Mobile (Homebrew) [NRO][RUS/ENG]",
         "size": "310.5 MB",
         "magnet": "magnet:?xt=urn:btih:9D85AF049287EDE8FDF776D703173D8832AE0964&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6925095",
