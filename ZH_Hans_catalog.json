@@ -1,5 +1,35 @@
 [
     {
+        "title": "Ultra Street Fighter IV [NRO][ENG]",
+        "size": "7.55 GB",
+        "magnet": "magnet:?xt=urn:btih:F627229B82E8D1703CCF51A7ACEE80315AEE82F1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6926218",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6926218",
+        "year": "2014",
+        "genre": "Fighting, Homebrew",
+        "developer": "Capcom, Dimps",
+        "publisher": "Thorhax",
+        "image_format": "NRO",
+        "interface_lang": "英语 [ENG]",
+        "voice_lang": "英语",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "最多 2 人",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6926218.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1022/a3/39cbdd972190e7a6cfff996685e4c5a3.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/d4/b6b561ebb76cea7761c6dc6c83eeacd4.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/23/c53dec51fe37404a1b6bfbf02eda0a23.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/c6/91b9058eaf929804dc5a319432a330c6.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/32/62055dee12fc8b2c523265f5b52d6f32.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/98/ec13ba11cf894d2f1694922dabf2be98.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/34/a15bd2b15be057ee49e31487a2532734.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/b0/e02a27188c94194b15157cc4158fa7b0.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/db/76549439acc7d89c3dba42250512cfdb.jpeg"
+        ],
+        "description": "“我应该温柔一点吗？..”©\n最受欢迎的格斗游戏《Ultra Street Fighter 4》的新更新在 EVO 2013 锦标赛上宣布，并于 2014 年 4 月在街机上发布；同年夏天，首先在 PlayStation 3 和 Xbox 360 上发布数字版本，随后在物理媒体和 PC Steam 上发布。除了标准平衡性调整外，更新还包括对战斗系统的更改和添加，从《街头霸王 X 铁拳》中继承的六个新增阶段，以及五个新增角色，其中一个是“全新”的。\n《街头霸王 IV》（日语：Sutorito Faita：Fō sutoritofuァイター4）是《街头霸王》系列中的一款多平台格斗视频游戏，与 Dimps 合作开发，并由 Capcom 于 2008 年首次发行。它是该系列自 1999 年（即《街头霸王 III：3rd Strike》发行九年后）以来发行的第一款编号游戏。\n截至 2013 年 9 月，该游戏的主机版在全球销量已达 330 万份；该游戏及其各种更新和扩展版本的总销量达到 800 万份。游戏发布后，获得了多家游戏出版物的积极评价；一些评论家认为这款游戏是同代中最好的游戏之一。其他《超街头霸王》。",
+        "title_id": null
+    },
+    {
         "title": "Dante's Inferno (移植版 ) [NRO][RUS/ENG]",
         "size": "11.2 GB",
         "magnet": "magnet:?xt=urn:btih:E19700C138745C13631826A64E1A4F03DBD10210&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -14,7 +44,7 @@
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
-        "cover": "https://i2.imageban.ru/out/2026/10/22/184849e46cd8f83c8b31878459c37b35.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6926190.jpg",
         "screenshots": [
             "https://i129.fastpic.org/thumb/2026/1022/5e/44486e0727f97f61dfb1dfb4f646205e.jpeg",
             "https://i129.fastpic.org/thumb/2026/1022/b1/62075ad2c430e6126c95099cad24a0b1.jpeg",
@@ -32,7 +62,7 @@
     {
         "title": "Dead Space 2 (自制程序) [NRO][RUS/ENG]",
         "size": "12.72 GB",
-        "magnet": "magnet:?xt=urn:btih:E85FB0EB20CF0C778BFFBDF286B0EAEE62BF114A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:2A7897B040E65DE9A7A9AC0FC3F2CD85DE355D21&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926039",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926039",
         "year": "2011",

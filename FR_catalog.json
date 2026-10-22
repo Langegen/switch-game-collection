@@ -1,5 +1,35 @@
 [
     {
+        "title": "Ultra Street Fighter IV [NRO][ENG]",
+        "size": "7.55 GB",
+        "magnet": "magnet:?xt=urn:btih:F627229B82E8D1703CCF51A7ACEE80315AEE82F1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6926218",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6926218",
+        "year": "2014",
+        "genre": "Fighting, Homebrew",
+        "developer": "Capcom, Dimps",
+        "publisher": "Thorhax",
+        "image_format": "NRO",
+        "interface_lang": "Anglais [ENG]",
+        "voice_lang": "Anglais",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Jusqu'à 2 joueurs",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6926218.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1022/a3/39cbdd972190e7a6cfff996685e4c5a3.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/d4/b6b561ebb76cea7761c6dc6c83eeacd4.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/23/c53dec51fe37404a1b6bfbf02eda0a23.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/c6/91b9058eaf929804dc5a319432a330c6.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/32/62055dee12fc8b2c523265f5b52d6f32.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/98/ec13ba11cf894d2f1694922dabf2be98.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/34/a15bd2b15be057ee49e31487a2532734.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/b0/e02a27188c94194b15157cc4158fa7b0.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1022/db/76549439acc7d89c3dba42250512cfdb.jpeg"
+        ],
+        "description": "« Dois-je être doux ?.. » ©\nUne nouvelle mise à jour du jeu de combat préféré, appelé Ultra Street Fighter 4, a été annoncée lors du championnat EVO 2013 et est sortie en avril 2014 sur les machines d'arcade ; au cours de l'été de la même année, il y a eu d'abord une sortie numérique sur PlayStation 3 et Xbox 360, puis une sortie sur support physique et PC Steam. En plus des ajustements d'équilibrage standard, la mise à jour comprenait des modifications et des ajouts au système de combat, six étapes supplémentaires reprises de Street Fighter X Tekken et cinq personnages ajoutés, dont un est « complètement » nouveau.\nStreet Fighter IV (japonais : Sutorito Faita : Fō ストリートファイター4) est un jeu vidéo de combat multiplateforme de la série Street Fighter, développé en collaboration avec Dimps et publié pour la première fois par Capcom en 2008. C'était le premier titre numéroté de la série sorti depuis 1999, neuf ans après la sortie de Street Fighter III : 3rd Strike.\nEn septembre 2013, les versions console du jeu s'étaient vendues à 3,3 millions d'exemplaires dans le monde ; Au total, les ventes du jeu, ainsi que de ses différentes versions mises à jour et étendues, se sont élevées à 8 millions d'exemplaires. À sa sortie, le jeu a reçu des critiques positives de diverses publications de jeux ; Certains critiques considèrent le jeu comme l'un des meilleurs de sa génération. Autres Ultra Steet Fighter.",
+        "title_id": null
+    },
+    {
         "title": "Dante's Inferno (portage ) [NRO][RUS/ENG]",
         "size": "11.2 GB",
         "magnet": "magnet:?xt=urn:btih:E19700C138745C13631826A64E1A4F03DBD10210&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -14,7 +44,7 @@
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
-        "cover": "https://i2.imageban.ru/out/2026/10/22/184849e46cd8f83c8b31878459c37b35.png",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6926190.jpg",
         "screenshots": [
             "https://i129.fastpic.org/thumb/2026/1022/5e/44486e0727f97f61dfb1dfb4f646205e.jpeg",
             "https://i129.fastpic.org/thumb/2026/1022/b1/62075ad2c430e6126c95099cad24a0b1.jpeg",
@@ -32,7 +62,7 @@
     {
         "title": "Dead Space 2 (homebrew) [NRO][RUS/ENG]",
         "size": "12.72 GB",
-        "magnet": "magnet:?xt=urn:btih:E85FB0EB20CF0C778BFFBDF286B0EAEE62BF114A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:2A7897B040E65DE9A7A9AC0FC3F2CD85DE355D21&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926039",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926039",
         "year": "2011",

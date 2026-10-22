@@ -22,7 +22,9 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+SCRIPTS_DIR = BASE_DIR / "scripts"
 COVERS_DIR = BASE_DIR / "covers"
+COVERS_CACHE_FILE = SCRIPTS_DIR / "covers_cache.json"
 RU_CATALOG_FILE = BASE_DIR / "RU_catalog.json"
 SWITCH_GAMES_FILE = BASE_DIR / "switch_games.json"
 SWITCH_GAMES_URL = "https://raw.githubusercontent.com/Langegen/switch-games/main/switch_games.json"
@@ -44,6 +46,12 @@ def normalize_title(t):
     t = clean_title(t)
     t = re.sub(r"[^\w\s]", " ", t, flags=re.UNICODE).lower()
     return re.sub(r"\s+", " ", t).strip()
+
+
+def is_demo_title(t):
+    if not t:
+        return False
+    return bool(re.search(r"\[DEMO\]|\(DEMO\)|демонстрационная\s+версия|\bdemo\b", t, re.IGNORECASE))
 
 
 def load_titledb_fallbacks():
@@ -122,18 +130,33 @@ def process_image_to_jpg(data_bytes, out_path):
     return False
 
 
-def download_single_cover(item, titledb_by_id, titledb_by_name, session, force=False):
+def download_single_cover(item, titledb_by_id, titledb_by_name, covers_cache, session, force=False):
     topic_id = str(item.get("topic_id", "")).strip()
     if not topic_id:
-        return topic_id, "no_topic_id", None
+        return topic_id, "no_topic_id", None, None
 
     target_file = COVERS_DIR / f"{topic_id}.jpg"
-    if not force and target_file.exists() and target_file.stat().st_size > 500:
-        return topic_id, "skipped", target_file
-
     original_url = item.get("cover", "").strip()
+    title = item.get("title", "")
+    current_demo = is_demo_title(title)
+
+    cached = covers_cache.get(topic_id)
+    cached_url = cached.get("url") if isinstance(cached, dict) else cached
+    cached_demo = cached.get("demo", False) if isinstance(cached, dict) else False
+
+    # Check if existing cover file is valid and up to date
+    if not force and target_file.exists() and target_file.stat().st_size > 500:
+        if cached:
+            url_changed = bool(original_url and original_url != cached_url)
+            demo_upgraded = bool(cached_demo and not current_demo)
+            if not url_changed and not demo_upgraded:
+                return topic_id, "skipped", target_file, {"url": cached_url or original_url, "demo": current_demo}
+        else:
+            # File exists on disk, not yet in cache (populate cache entry)
+            return topic_id, "skipped", target_file, {"url": original_url, "demo": current_demo}
+
     title_id = str(item.get("title_id", "")).strip().upper()
-    title_norm = normalize_title(item.get("title", ""))
+    title_norm = normalize_title(title)
 
     image_bytes = None
     source_used = None
@@ -182,16 +205,18 @@ def download_single_cover(item, titledb_by_id, titledb_by_name, session, force=F
                         continue
 
     if not image_bytes:
-        return topic_id, "failed", original_url
+        return topic_id, "failed", original_url, None
 
     try:
+        is_update = target_file.exists() and target_file.stat().st_size > 500
         success = process_image_to_jpg(image_bytes, target_file)
         if success:
-            return topic_id, f"downloaded_{source_used}", target_file
+            action = f"updated_{source_used}" if is_update else f"downloaded_{source_used}"
+            return topic_id, action, target_file, {"url": original_url, "demo": current_demo}
         else:
-            return topic_id, "failed_processing", original_url
+            return topic_id, "failed_processing", original_url, None
     except Exception as e:
-        return topic_id, f"failed_convert: {e}", original_url
+        return topic_id, f"failed_convert: {e}", original_url, None
 
 
 def main():
@@ -203,18 +228,48 @@ def main():
 
     COVERS_DIR.mkdir(parents=True, exist_ok=True)
 
-    # Load catalog source
+    # Load cache
+    covers_cache = {}
+    if COVERS_CACHE_FILE.exists():
+        try:
+            with open(COVERS_CACHE_FILE, "r", encoding="utf-8") as f:
+                covers_cache = json.load(f)
+            print(f"Loaded {len(covers_cache)} cached cover records from {COVERS_CACHE_FILE.name}")
+        except Exception as e:
+            print(f"Warning loading {COVERS_CACHE_FILE.name}: {e}", file=sys.stderr)
+
+    # Load catalog source: prioritize fresh switch_games.json
     items = []
-    if RU_CATALOG_FILE.exists():
-        with open(RU_CATALOG_FILE, "r", encoding="utf-8") as f:
-            items = json.load(f)
-    elif SWITCH_GAMES_FILE.exists():
+    max_age_seconds = 3 * 3600
+    need_fetch = (
+        not SWITCH_GAMES_FILE.exists()
+        or SWITCH_GAMES_FILE.stat().st_size < 1000
+        or (time.time() - SWITCH_GAMES_FILE.stat().st_mtime > max_age_seconds)
+    )
+
+    if need_fetch:
+        print(f"Fetching fresh switch_games.json from {SWITCH_GAMES_URL}...")
+        try:
+            resp = requests.get(SWITCH_GAMES_URL, timeout=120)
+            if resp.status_code == 200 and len(resp.content) > 1000:
+                with open(SWITCH_GAMES_FILE, "wb") as f:
+                    f.write(resp.content)
+                items = resp.json()
+                print(f"Successfully downloaded and saved switch_games.json ({len(items)} items).")
+            else:
+                print(f"Warning: HTTP {resp.status_code} fetching switch_games.json", file=sys.stderr)
+        except Exception as e:
+            print(f"Warning: Error fetching switch_games.json: {e}", file=sys.stderr)
+
+    if not items and SWITCH_GAMES_FILE.exists() and SWITCH_GAMES_FILE.stat().st_size > 1000:
+        print(f"Loading switch_games.json from disk ({SWITCH_GAMES_FILE.stat().st_size / 1024 / 1024:.2f} MB)...")
         with open(SWITCH_GAMES_FILE, "r", encoding="utf-8") as f:
             items = json.load(f)
-    else:
-        print(f"Fetching switch_games.json from {SWITCH_GAMES_URL}...")
-        resp = requests.get(SWITCH_GAMES_URL, timeout=60)
-        items = resp.json()
+
+    if not items and RU_CATALOG_FILE.exists():
+        print(f"Fallback: loading RU_catalog.json from disk ({RU_CATALOG_FILE.stat().st_size / 1024 / 1024:.2f} MB)...")
+        with open(RU_CATALOG_FILE, "r", encoding="utf-8") as f:
+            items = json.load(f)
 
     if args.limit > 0:
         items = items[: args.limit]
@@ -231,6 +286,10 @@ def main():
         "downloaded_proxy": 0,
         "downloaded_titledb": 0,
         "downloaded_screenshot": 0,
+        "updated_direct": 0,
+        "updated_proxy": 0,
+        "updated_titledb": 0,
+        "updated_screenshot": 0,
         "failed": 0,
     }
 
@@ -256,16 +315,19 @@ def main():
 
     def worker_task(item):
         s = get_session()
-        return download_single_cover(item, titledb_by_id, titledb_by_name, s, force=args.force)
+        return download_single_cover(item, titledb_by_id, titledb_by_name, covers_cache, s, force=args.force)
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
         futures = {executor.submit(worker_task, item): item for item in items}
         for future in concurrent.futures.as_completed(futures):
             completed += 1
-            topic_id, status, extra = future.result()
+            topic_id, status, extra, cover_info = future.result()
+            if cover_info and topic_id:
+                covers_cache[topic_id] = cover_info
+
             if status == "skipped":
                 stats["skipped"] += 1
-            elif status.startswith("downloaded_"):
+            elif status.startswith("downloaded_") or status.startswith("updated_"):
                 stats[status] = stats.get(status, 0) + 1
             else:
                 stats["failed"] += 1
@@ -277,10 +339,8 @@ def main():
                 print(
                     f"Progress: {completed}/{total} ({completed/total*100:.1f}%) | "
                     f"Skipped: {stats['skipped']}, "
-                    f"Direct: {stats.get('downloaded_direct', 0)}, "
-                    f"Proxy: {stats.get('downloaded_proxy', 0)}, "
-                    f"TitleDB: {stats.get('downloaded_titledb', 0)}, "
-                    f"SS: {stats.get('downloaded_screenshot', 0)}, "
+                    f"New: {sum(v for k, v in stats.items() if k.startswith('downloaded_'))}, "
+                    f"Updated: {sum(v for k, v in stats.items() if k.startswith('updated_'))}, "
                     f"Failed: {stats['failed']} | "
                     f"Speed: {completed/elapsed:.1f} items/sec"
                 )
@@ -289,7 +349,21 @@ def main():
     print(f"\nDownload completed in {elapsed:.2f} seconds.")
     print("Final Statistics:")
     for k, v in stats.items():
-        print(f"  {k}: {v}")
+        if v > 0:
+            print(f"  {k}: {v}")
+
+    # Save updated cache atomically
+    tmp_cache_file = COVERS_CACHE_FILE.with_suffix(".tmp.json")
+    try:
+        with open(tmp_cache_file, "w", encoding="utf-8") as f:
+            json.dump(covers_cache, f, ensure_ascii=False, indent=2)
+        if tmp_cache_file.exists():
+            if COVERS_CACHE_FILE.exists():
+                COVERS_CACHE_FILE.unlink()
+            tmp_cache_file.rename(COVERS_CACHE_FILE)
+        print(f"\nSaved {len(covers_cache)} cover records to {COVERS_CACHE_FILE.name}")
+    except Exception as e:
+        print(f"Warning: Failed to save covers cache: {e}", file=sys.stderr)
 
     # Check total size of covers folder
     total_files = len(list(COVERS_DIR.glob("*.jpg")))

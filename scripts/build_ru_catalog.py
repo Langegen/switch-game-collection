@@ -2,6 +2,7 @@
 import json
 import os
 import re
+import time
 import urllib.request
 from pathlib import Path
 
@@ -27,11 +28,12 @@ def proxy_image_url(url: str) -> str:
     return url
 
 
-def load_json_file(filename, fallback_url):
+def load_json_file(filename, fallback_url, max_age_hours=None):
     if os.path.exists(filename) and os.path.getsize(filename) > 1000:
-        print(f"Loading {filename} from disk ({os.path.getsize(filename) / 1024 / 1024:.2f} MB)...")
-        with open(filename, "r", encoding="utf-8") as f:
-            return json.load(f)
+        if max_age_hours is None or (time.time() - os.path.getmtime(filename) < max_age_hours * 3600):
+            print(f"Loading {filename} from disk ({os.path.getsize(filename) / 1024 / 1024:.2f} MB)...")
+            with open(filename, "r", encoding="utf-8") as f:
+                return json.load(f)
     print(f"Fetching JSON from {fallback_url}...")
     req = urllib.request.Request(fallback_url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=180) as resp:
@@ -79,7 +81,7 @@ def entry_score(entry):
 
 
 def main():
-    switch_games = load_json_file(SWITCH_GAMES_FILE, SWITCH_GAMES_URL)
+    switch_games = load_json_file(SWITCH_GAMES_FILE, SWITCH_GAMES_URL, max_age_hours=3)
     titledb_ru = load_json_file(TITLEDB_RU_FILE, TITLEDB_RU_URL)
     titledb_fb = load_json_file(TITLEDB_FALLBACK_FILE, TITLEDB_FALLBACK_URL)
 
