@@ -1,7 +1,13 @@
 [
-  {"title": "Sam and Max 1: Save the World / 2 Beyond Time and Space / 3 The Devil's Playhouse (Season One, Two, Three)", "title_id": "0100D5501857E000", "metacritic": 79.0},
+  {"title": "Outbound + DLC", "title_id": "0100ED9024EB8000", "metacritic": null},
+  {"title": "Neon Inferno", "title_id": "01008DD0249BC000", "metacritic": 80.0},
+  {"title": "Minecraft Dungeons II (2) + DLC", "title_id": "0100A7C01B792000", "metacritic": 93.0},
+  {"title": "Экономические симуляторы Kairosoft, 63 шт.: Game Dev Story, Cafeteria Nipponica, Mega Mall Story, Grand Prix Story, Hot Springs Story, Pocket Academy, Dungeon Village, Venture Towns, Sushi Spinnery, Epic Astro Story и др.", "title_id": "01005E002699C000", "metacritic": 85.0},
+  {"title": "Graveyard Keeper II (2) + DLC", "title_id": "0100005027A18000", "metacritic": 69.0},
+  {"title": "Demons Night Fever", "title_id": "0100B8E026374000", "metacritic": null},
+  {"title": "Sam and Max 1: Save the World / 2 Beyond Time and Space / 3 The Devil's Playhouse (Season One, Two, Three)", "title_id": "0100CD301354E000", "metacritic": 79.0},
   {"title": "Soul Quest", "title_id": "0100E04026DFC000", "metacritic": null},
-  {"title": "Ticket to Ride + 11 DLC", "title_id": "010081D01E246000", "metacritic": null},
+  {"title": "Ticket to Ride + 12 DLC", "title_id": "010081D01E246000", "metacritic": null},
   {"title": "Final Fantasy Resonance", "title_id": "0100517027E86000", "metacritic": null},
   {"title": "The Survivalists + DLC Frostbite Fortress, Monkey Business", "title_id": "0100EF200DA60000", "metacritic": 76.0},
   {"title": "Loopers", "title_id": "010062A0178A8000", "metacritic": null},
@@ -22,10 +28,5 @@
   {"title": "Tenebris Somnia", "title_id": "0100CD7028862000", "metacritic": null},
   {"title": "Spica Adventure", "title_id": "0100DF401DC02000", "metacritic": null},
   {"title": "Metal Gear Solid: Master Collection Edition, Vol. 2 (MGS 4 Guns of the Patriots / Peace Walker / Metal Gear Ghost Babel)", "title_id": "0100C6F01C4F8000", "metacritic": null},
-  {"title": "Nordic Ashes the Complete Saga: Survivors of Ragnarok, Remnants of Corruption, Dark Knights", "title_id": "0100F2501DEB0000", "metacritic": null},
-  {"title": "Ketsu Battler + 2 DLC", "title_id": "010045B01FAF8000", "metacritic": null},
-  {"title": "Lucky Tower Ultimate", "title_id": "0100B5B01AC50000", "metacritic": null},
-  {"title": "Content Warning", "title_id": "0100C29024138000", "metacritic": null},
-  {"title": "Deep Rock Galactic Survivor", "title_id": "01003EC027CC8000", "metacritic": null},
-  {"title": "Chained Beasts", "title_id": "0100B04026946000", "metacritic": 90.0}
+  {"title": "Nordic Ashes the Complete Saga: Survivors of Ragnarok, Remnants of Corruption, Dark Knights", "title_id": "0100F2501DEB0000", "metacritic": null}
 ]
