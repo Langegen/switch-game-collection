@@ -32,7 +32,7 @@
     {
         "title": "Metal Gear Rising Revengeance (homebrew) [NRO][ENG]",
         "size": "7.35 GB",
-        "magnet": "magnet:?xt=urn:btih:787CE0768BCA6A17D09FD58C38812AEB0ACEFCD7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:23BD1889D125C8743E0EC6711EA24E35E03EC01E&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926954",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926954",
         "year": "2013",
@@ -3050,17 +3050,17 @@
         "title_id": "0100C49025D3E000"
     },
     {
-        "title": "Sin Reloaded Gold + Wages of Sin [NSZ][ENG]",
-        "size": "3.33 GB",
-        "magnet": "magnet:?xt=urn:btih:24A7CB681849E05B5899F4C9255A38588D832244&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "Sin Reloaded Gold + Wages of Sin [NSZ][RUS (Mod.)/ENG]",
+        "size": "4.24 GB",
+        "magnet": "magnet:?xt=urn:btih:A713449CB6518962B8838F647CB628661C111207&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6914278",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6914278",
         "year": "2026, septembre",
         "genre": "First Person Shooter, Action",
         "developer": "Ritual Entertainment, 2015 Games, Nightdive Studios",
         "publisher": "Atari",
-        "image_format": ".NSZ (compressé ~52%, taille installée 6.93 GB)",
-        "interface_lang": "Anglais [ENG]",
+        "image_format": ".NSZ (compressé ~52%, taille installée 6.99 GB)",
+        "interface_lang": "Anglais [ENG] + traduction automatique par Onzi, portage most2820 pour v65536",
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
@@ -3071,7 +3071,10 @@
             "https://i128.fastpic.org/thumb/2026/0926/d7/8ee61348675b93b4157f020b1f5243d7.jpeg",
             "https://i128.fastpic.org/thumb/2026/0926/91/6c3162b7403ec7e8a7447f931241eb91.jpeg",
             "https://i128.fastpic.org/thumb/2026/0926/9b/454170f2c070a0c6014dd995a4c4ae9b.jpeg",
-            "https://i128.fastpic.org/thumb/2026/0926/21/ecfa4a25212135aa02ddea44a7257021.jpeg"
+            "https://i128.fastpic.org/thumb/2026/0926/21/ecfa4a25212135aa02ddea44a7257021.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1023/db/f81ae5c05702a1fbb0013fded51fd3db.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1023/11/adbe002e6e4b43cb455d094416b9c411.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1023/6a/3584a592ac60c85551583b010b05ae6a.jpeg"
         ],
         "description": "Il y a dix ans, en 2027, la ville de Freeport était au bord de l’effondrement. Des forces de police inefficaces et en sous-effectif sont en train de perdre la longue et difficile bataille contre la criminalité. La ville avait besoin d’aide, mais le gouvernement ne parvenait pas à maintenir l’ordre dans les rues. Par conséquent, un projet de loi a été proposé qui donnerait aux entreprises privées le droit de créer leurs propres forces de police et de sécurité, qui, à leur tour, devraient assurer la protection des entreprises et des citoyens de la ville. Cette loi a été adoptée, ce qui a contribué à établir l'ordre et à maintenir l'État de droit. Les services de police disparates ont été réorganisés en une structure unique et puissante appelée HardCorps, qui est devenue la principale force d'enquête et de prévention des crimes. Le chaos a reculé à mesure que les forces de sécurité rétablissent progressivement l'ordre public dans la ville.\nL'une de ces sociétés dotée de sa propre armée est SinTEK, une grande société multinationale de biotechnologie appartenant à la belle et charismatique Elexis Sinclair, fondée en 2005 par le Dr Trell Sinclair, le père d'Elexis. Après la mystérieuse disparition de son père, Elexis prend la direction de la société.\nEn 2037, dix ans plus tard, le colonel John R. Blade et chef du HardCorps tentent de retrouver la source de la drogue U4, apparue il n'y a pas si longtemps dans les rues de la ville. Ses effets ne sont pas encore entièrement compris, et des choses étranges sont arrivées récemment à ceux qui prennent ce nouveau médicament. Blade décide de découvrir à tout prix qui ou quoi se cache derrière les phénomènes inexplicables qui se déroulent dans la ville, et d'y mettre un terme !..\nSiN: Reloaded sur Nintendo Switch comprend le pack d'extension Wages of SiN, et le jeu a été optimisé pour fonctionner sur le moteur KEX, les graphismes ont été mis à jour avec de nouvelles textures HD à 60 FPS avec anti-aliasing, les commandes ont été modernisées et les cartes ont été améliorées avec le soin méticuleux caractéristique de Nightdive.",
         "title_id": "0100F07026DA8000"
@@ -95567,7 +95570,7 @@
         "url": "https://rutracker.org/forum/viewtopic.php?t=6108207",
         "year": "2021, septembre",
         "genre": "Simulation, Adventure, Farm",
-        "developer": "Coldwild Games",
+        "developer": "AbsoDev (Vladimir Slav, Elena Nazarenko)",
         "publisher": "AbsoDev",
         "image_format": ".NSZ (compressé ~68%, taille installée 0.26 GB)",
         "interface_lang": "Russe, Anglais [RUS / ENG / Multi 8]",
