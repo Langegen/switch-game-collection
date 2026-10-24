@@ -30,9 +30,9 @@
         "title_id": null
     },
     {
-        "title": "Metal Gear Rising Revengeance (自制程序) [NRO][ENG]",
-        "size": "7.35 GB",
-        "magnet": "magnet:?xt=urn:btih:23BD1889D125C8743E0EC6711EA24E35E03EC01E&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "title": "Metal Gear Rising Revengeance (自制程序) [NRO][RUS/Multi8]",
+        "size": "7.78 GB",
+        "magnet": "magnet:?xt=urn:btih:2771B05E8635001BDEE581FF1C33303E9B3542D7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926954",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926954",
         "year": "2013",
@@ -40,7 +40,7 @@
         "developer": "PlatinumGames, Kojima Productions",
         "publisher": "Unknown",
         "image_format": "NRO",
-        "interface_lang": "英语 [ENG]",
+        "interface_lang": "俄语, 英语 [RUS / ENG / Multi 8]",
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.12.0)",
         "multiplayer": "无",
@@ -50,7 +50,11 @@
             "https://i129.fastpic.org/thumb/2026/1023/30/21d20487e81d544ea197b405395b5330.jpeg",
             "https://i129.fastpic.org/thumb/2026/1023/1d/00fa157b5b44f98fb97d8fd77c38d01d.jpeg",
             "https://i129.fastpic.org/thumb/2026/1023/c8/f55d7f09da3e2043858fcbb3c062b0c8.jpeg",
-            "https://i129.fastpic.org/thumb/2026/1023/97/77ab1f145768975c153da1c911d8e597.jpeg"
+            "https://i129.fastpic.org/thumb/2026/1023/97/77ab1f145768975c153da1c911d8e597.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1024/3e/d769ee6604090704d4c81999d6746e3e.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1024/18/bc4deb3a4b6a60dc60a955167cf1d718.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1024/71/ddbe824c7bec7426ba4fc3f4617e4d71.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1024/2d/1ae6689b446099189b79ce57cbc53b2d.jpeg"
         ],
         "description": "《合金装备崛起：复仇》是一部由 PlatinumGames 和 Kojima Productions 开发、Konami 于 2013 年发行的动作冒险恐怖电影。\n事件发生在《合金装备 4：爱国者之枪》四年后。主角是半机械人忍者雷电，他使用高频武士刀对抗私人军事组织亡命之徒执行队。\n游戏玩法侧重于动态战斗、打击、格挡攻击的组合和刀片模式，它可以让你放慢时间并高精度地切割敌人和物体。与大多数《合金装备》游戏不同，这里的重点是快节奏的动作而不是潜行。",
         "title_id": null
