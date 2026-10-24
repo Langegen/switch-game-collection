@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1792825871,
+  "generated_at": 1792850330,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
@@ -970,60 +970,6 @@
         ],
         "description": "Охотьтесь на зверей ради пропитания (а они будут охотиться на вас!) и встретьтесь с полчищем загадочных противников, которые далеко не всегда вам обрадуются. Выполняйте задания таинственного незнакомца или найдите на берегу моря письмо в бутылке и отправляйтесь в свое персональное приключение по бесконечно разнообразным процедурно генерируемым джунглям.\n\nСтройте и выживайте вместе \n\nСложно выживать на острове в одиночку? Хочется продемонстрировать друзьям свои шедевры архитектуры? В The Survivalists возможно все! Соберите отряд из четырех дружных робинзонов и попробуйте выжить на этом кусочке земли обетованной: выполняйте задания, обменивайтесь предметами и добывайте сокровища.\n\nОбезьянничество \n\nЕсли вам нужен строитель, лесоруб или даже солдат, то к вашим услугам все обезьяны острова! Приручите одну из них и обучите ее всему необходимому для рутинной работы — или пошлите ее в атаку на лагерь фанатиков! Система повторения позволяет вам управлять сразу несколькими мохнатыми помощниками, которые сделают жизнь на острове намного легче.\n\nКаша из топора \n\nКлюч к выживанию — максимально полное использование ресурсов. Создавайте предметы, стройте укрытия и готовьте еду, изучая новые методы и рецепты в разветвленном дереве исследований. Вы сможете все: и придумать себе примитивный топор, и замешать освежающий фруктовый коктейль, чтобы приглушить голод. \n\nК оружию! \n\nХотите повесить на стену своей хижины древний меч и использовать его по назначению, когда придут враги? В одном из множества разбросанных по острову храмов вас наверняка ждет искомое. Впрочем, добыть сокровища будет не так уж и просто, так что подготовьтесь к разграблению гробниц заранее!",
         "title_id": "0100EF200DA60000"
-      },
-      {
-        "title": "An Airport for Aliens Currently Run by Dogs [NSZ][ENG]",
-        "size": "816.8 MB",
-        "magnet": "magnet:?xt=urn:btih:858D067443E12A49ECA6B8D0BA305A8A03AC1609&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6925503",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6925503",
-        "year": "2022, август",
-        "genre": "Adventure, Puzzle",
-        "developer": "Strange Scaffold",
-        "publisher": "Strange Scaffold",
-        "image_format": ".NSZ (сжато ~67%, установленный объём 2.46 ГБ)",
-        "interface_lang": "Английский [ENG]",
-        "voice_lang": "не озвучивается",
-        "performance": "Да (на 14.1.2, Atmosphere 1.5.0)",
-        "multiplayer": "нет",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d1311bba37d52a2a74eec6ffcb0c1a51354b379ce037a2f8894d329bae782d2b.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d3f3c7d029ef118c9486b665ad746a6e268b9b247fe99a2eff8ceb8e45a82a47.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a4c932ea852a21ae5b7bd87d940ada22233a4f4f17e9054930d482c60f848f94.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/83f6e9a3c661d839200f97fdc656f37096c733ff959c247a96462b9a3074b2d0.jpg&output=jpg"
-        ],
-        "description": "An Airport for Aliens Currently Run by Dogs is a first-person open-world comedy adventure game with a very long name. You and your fiancée are the last two human beings left in the universe. Dogs run airports, along with the rest of society. Deal with alien logic, travel issues, and strange stock photo dogs as you attempt to stay in touch with the person you love, when you both live your lives on the go!",
-        "title_id": "01000640174DA000"
-      },
-      {
-        "title": "Rune Dice [NSZ][RUS/Multi10]",
-        "size": "209.6 MB",
-        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6854986",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
-        "year": "2026, май",
-        "genre": "Tactic, Arcade, Roguelite",
-        "developer": "Smart Raven Studio",
-        "publisher": "Kwalee",
-        "image_format": ".NSZ (сжато ~65%, установленный объём 0.64 ГБ)",
-        "interface_lang": "Русский, Английский [RUS / ENG / Multi 10]",
-        "voice_lang": "не озвучивается",
-        "performance": "Да (на 22.1.0, Atmosphere 1.11.1)",
-        "multiplayer": "нет",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
-        ],
-        "description": "Бросайте кубики, создавайте магические цепные реакции. Выбирайте из разных классов героев со спец. способностями. Стройте синергии между кубиками, реликвиями и рунами, чтобы побеждать самых сложных боссов!.. Тщательно планируйте каждый бросок — ваш ход может запустить мощные комбо, которые уничтожат целые волны врагов или подготовить поле для будущих ходов. Освой точное прицеливание и стратегическое предсказание, чтобы раскрыть на максимум мистическое слияние кубиков.",
-        "title_id": "0100F5102672C000"
       }
     ],
     "en": [
@@ -1992,60 +1938,6 @@
         ],
         "description": "Hunt (or be hunted by!) animals for food and an array of mythical enemies, who aren’t necessarily pleased to see you. Get quests from a Mysterious Stranger or find them washed up on the shore. Prepare to trek into a procedurally generated wilderness, with a variety of biomes, for an adventure that’s unique to every player.\n\nBuild Together, Survive Together \n\nFinding the perils of island life too much or just looking to share your building expertise with friends? The Survivalists has you covered! Complete joint adventures, gain loot, trade and ultimately survive together and as you and up to three fellow castaways explore an island paradise.\n\nMonkey See, Monkey Do! \n\nIf you’re in need of a builder, a lumberjack or even a soldier, the monkeys on the island can be tamed and trained to help you with everyday tasks or back you up on raids to a fanatic camp! The Mimic System means a wide variety of functions can be performed by your banana loving friends, with monkey management becoming key to surviving the island’s challenges.\n\nGet Crafty \n\nThe secret to survival is to make the most of the resources around you. Whether that’s piecing together a primitive axe to chop wood or mixing up a refreshing fruit smoothie to keep the hunger at bay, you can discover recipes and expand your options across food, item or structure crafting trees. \n\nRun the Gauntlet \n\nLooking for an epic sword to hang on your hut wall or want to lay waste to encroaching hostiles? What you seek could be in one of the many labyrinths scattered around the island. However, getting your hands on the loot won’t be easy so any would-be raiders will need to prepare for their treasure hunting crusade.",
         "title_id": "0100EF200DA60000"
-      },
-      {
-        "title": "An Airport for Aliens Currently Run by Dogs [NSZ][ENG]",
-        "size": "816.8 MB",
-        "magnet": "magnet:?xt=urn:btih:858D067443E12A49ECA6B8D0BA305A8A03AC1609&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6925503",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6925503",
-        "year": "2022, August",
-        "genre": "Adventure, Puzzle",
-        "developer": "Strange Scaffold",
-        "publisher": "Strange Scaffold",
-        "image_format": ".NSZ (compressed ~67%, installed size 2.46 GB)",
-        "interface_lang": "English [ENG]",
-        "voice_lang": "No voiceover",
-        "performance": "Yes (on 14.1.2, Atmosphere 1.5.0)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d1311bba37d52a2a74eec6ffcb0c1a51354b379ce037a2f8894d329bae782d2b.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d3f3c7d029ef118c9486b665ad746a6e268b9b247fe99a2eff8ceb8e45a82a47.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a4c932ea852a21ae5b7bd87d940ada22233a4f4f17e9054930d482c60f848f94.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/83f6e9a3c661d839200f97fdc656f37096c733ff959c247a96462b9a3074b2d0.jpg&output=jpg"
-        ],
-        "description": "An Airport for Aliens Currently Run by Dogs is a first-person open-world comedy adventure game with a very long name. You and your fiancée are the last two human beings left in the universe. Dogs run airports, along with the rest of society. Deal with alien logic, travel issues, and strange stock photo dogs as you attempt to stay in touch with the person you love, when you both live your lives on the go!",
-        "title_id": "01000640174DA000"
-      },
-      {
-        "title": "Rune Dice [NSZ][RUS/Multi10]",
-        "size": "209.6 MB",
-        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6854986",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
-        "year": "2026, May",
-        "genre": "Tactic, Arcade, Roguelite",
-        "developer": "Smart Raven Studio",
-        "publisher": "Kwalee",
-        "image_format": ".NSZ (compressed ~65%, installed size 0.64 GB)",
-        "interface_lang": "Russian, English [RUS / ENG / Multi 10]",
-        "voice_lang": "No voiceover",
-        "performance": "Yes (on 22.1.0, Atmosphere 1.11.1)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
-        ],
-        "description": "Launch dice across enchanted battlefields where realistic physics meets ancient magic. Matching dice fuse into a more powerful one that seeks its equals, triggering devastating chain combos. Plan each throw carefully - every dice placement can trigger massive combos that wipe out entire enemy waves or set up tactical future plays. Master both precise aiming and strategic prediction to unleash the full power of mystical dice fusion.\n\nPick from 8 unique classes, each with special dice and magical abilities. Every class offers multiple heroes with different starting combinations, ensuring each adventure feels completely different. Spread deadly poison through enemy ranks as a Rogue, unleash lightning storms as a Mage, or absorb massive damage as a heavily armoured Warrior. Each class opens up entirely new tactical approaches and synergies.\n\nEvery location culminates in challenging battles against bosses, each with unique abilities that will test your strategy.\n\nSome bosses summon additional minions, others manipulate the dice field, and the most dangerous can completely change combat rules. Adapt your dice collection and tactics to overcome each distinct threat.\n\nCraft a powerful combination of dice, relics, and runes that work together to define your playstyle.\n\nCollect magical dice through combat victories and shop purchases, discover game-changing relics that provide permanent enhancements, and gather tactical runes for battlefield manipulation. Visit ancient altars where you can risk your dice for upgrades, or play it safe and build your arsenal gradually. The synergy between your dice attacks, relic bonuses, and rune abilities creates devastating combinations and endless strategic possibilities.",
-        "title_id": "0100F5102672C000"
       }
     ],
     "es": [
@@ -3014,60 +2906,6 @@
         ],
         "description": "Caza animales (¡o sé su presa!) para alimentarte y a una serie de enemigos míticos, que no siempre se alegrarán de verte. Obtén misiones de un misterioso desconocido o encuéntralas en la costa. Prepárate para adentrarte en la naturaleza de generación procesal con una variedad de biomas que ofrece una aventura única para cada jugador.\n\nConstruyan y sobrevivan juntos \n\n¿Te superan los peligros de la isla o buscas compartir tu habilidad para la construcción con amigos? ¡The Survivalists te ayudarán! Completen aventuras, ganen botines, comercien y sobrevivan juntos mientras tú y hasta tres náufragos exploran una isla paradisíaca.\n\n¡Mono imitador! \n\n¿Necesitas un constructor, un leñador o incluso un soldado? Puedes domesticar a los monos de la isla para que te ayuden en las tareas diarias, ¡o en las incursiones en un campo de fanáticos! Con el sistema de mímica, tus amigos amantes de las bananas podrán cumplir muchas funciones y el manejo de los monos será crucial para sobrevivir en la isla.\n\nUsa tu creatividad \n\nEl secreto de la supervivencia es aprovechar al máximo tus recursos. Ya sea que trates de armar un hacha primitiva para cortar madera o crear un refrescante batido de frutas para saciar tu hambre, podrás descubrir recetas y expandir tus opciones de comida, artículos o árboles para formar estructuras. \n\nHora del duelo \n\n¿Buscas una espada épica para colgar en tu cabaña o quieres aniquilar invasores hostiles? Lo que necesitas puede estar en uno de los templos que hay alrededor de la isla. Pero obtener el botín no será tan fácil como crees, así que los posibles incursores deberán prepararse para la lucha en la búsqueda de tesoros.",
         "title_id": "0100EF200DA60000"
-      },
-      {
-        "title": "An Airport for Aliens Currently Run by Dogs [NSZ][ENG]",
-        "size": "816.8 MB",
-        "magnet": "magnet:?xt=urn:btih:858D067443E12A49ECA6B8D0BA305A8A03AC1609&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6925503",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6925503",
-        "year": "2022, agosto",
-        "genre": "Adventure, Puzzle",
-        "developer": "Strange Scaffold",
-        "publisher": "Strange Scaffold",
-        "image_format": ".NSZ (comprimido ~67%, tamaño instalado 2.46 GB)",
-        "interface_lang": "Inglés [ENG]",
-        "voice_lang": "Sin voces",
-        "performance": "Sí (en 14.1.2, Atmosphere 1.5.0)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d1311bba37d52a2a74eec6ffcb0c1a51354b379ce037a2f8894d329bae782d2b.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d3f3c7d029ef118c9486b665ad746a6e268b9b247fe99a2eff8ceb8e45a82a47.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a4c932ea852a21ae5b7bd87d940ada22233a4f4f17e9054930d482c60f848f94.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/83f6e9a3c661d839200f97fdc656f37096c733ff959c247a96462b9a3074b2d0.jpg&output=jpg"
-        ],
-        "description": "An Airport for Aliens Currently Run by Dogs es un juego cómico de aventuras, mundo abierto y en primera persona con un nombre muy largo. Tu prometida y tú sois los últimos humanos del universo. Los perros dirigen los aeropuertos y gobiernan al resto de la sociedad. Enfréntate a la lógica alienígena, problemas de viajes y extrañas fotos de perros de archivo en tu intento de mantener el contacto con tu amada cuando ambos vivís de un lado para otro.",
-        "title_id": "01000640174DA000"
-      },
-      {
-        "title": "Rune Dice [NSZ][RUS/Multi10]",
-        "size": "209.6 MB",
-        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6854986",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
-        "year": "2026, mayo",
-        "genre": "Tactic, Arcade, Roguelite",
-        "developer": "Smart Raven Studio",
-        "publisher": "Kwalee",
-        "image_format": ".NSZ (comprimido ~65%, tamaño instalado 0.64 GB)",
-        "interface_lang": "Ruso, Inglés [RUS / ENG / Multi 10]",
-        "voice_lang": "Sin voces",
-        "performance": "Sí (en 22.1.0, Atmosphere 1.11.1)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
-        ],
-        "description": "Lanza dados sobre campos de batalla encantados donde la física realista se encuentra con la magia ancestral. Dos dados idénticos se fusionan en uno más poderoso que busca a sus iguales, desencadenando devastadores combos en cadena.\n\nPlanifica cuidadosamente cada lanzamiento - tu jugada puede desencadenar combos masivos que aniquilarán oleadas enteras de enemigos o preparar el terreno para futuras jugadas. Domina la puntería precisa y la predicción estratégica para liberar al máximo la fusión mística de dados.\n\nElige entre 8 clases únicas, cada una con dados especiales y habilidades mágicas. Cada clase incluye varios héroes con diferentes combinaciones iniciales, haciendo que cada aventura se sienta completamente diferente.\n\nEsparce veneno mortal entre las filas enemigas como pícaro, desata tormentas de relámpagos como mago, o tankea como guerrero fuertemente acorazado. Cada clase abre enfoques tácticos y sinergias completamente nuevos.\n\nCada localización culmina con desafiantes batallas contra jefes que poseen habilidades únicas que pondrán a prueba tu estrategia.\n\nAlgunos jefes invocan esbirros adicionales, otros manipulan el campo de dados, y los más peligrosos pueden cambiar completamente las reglas del combate. Adapta tu colección de dados y tácticas para superar cada amenaza distinta.\n\nCrea combinaciones poderosas de dados, reliquias y runas que trabajen juntas para definir tu estilo de juego.\n\nColecciona dados mágicos a través de victorias en combate y compras en tiendas, descubre reliquias que cambian el juego y proporcionan mejoras permanentes, y reúne runas tácticas para manipular el campo de batalla. Visita altares antiguos donde puedes arriesgar tus dados por mejoras, o juega sobre seguro y construye tu arsenal gradualmente. La sinergia entre tus ataques de dados, bonificaciones de reliquias y habilidades de runas crea combinaciones devastadoras y posibilidades estratégicas infinitas.",
-        "title_id": "0100F5102672C000"
       }
     ],
     "fr": [
@@ -4036,60 +3874,6 @@
         ],
         "description": "Échappez aux prédateurs et partez à la chasse de gibier et d'une variété d'ennemis mythiques. Des quêtes viendront s'échouer sur le rivage ou vous seront proposées par une mystérieuse figure. Préparez-vous à explorer une nature indomptée et diverse, et à vivre une aventure qui vous sera unique!\n\nConstruire et survivre ensemble \n\nLa vie de naufragé seul au monde est trop éprouvante à votre goût? Vous avez envie de partager vos talents de construction avec vos amis? Le jeu The Survivalists est fait pour vous! Lancez-vous dans des aventures avec un à trois autres joueurs, obtenez des récompenses et faites du troc tout en explorant et en survivant ensemble sur une île paradisiaque.\n\nLe singe, votre meilleur ami \n\nBesoin d'un maçon, d'un bûcheron ou d'un soldat? Les singes de l'île peuvent être domptés et dressés afin de vous aider dans les tâches du quotidien ou lors d'opérations offensives! Le système de mimétisme transforme vos amateurs de bananes en aides de camp indispensables à votre survie sur l'île. À vous de les gérer au mieux!\n\nÀ vos outils \n\nLe secret de la survie? Exploiter au mieux les ressources qui vous entourent. Qu'il s'agisse d'assembler une hache rudimentaire pour couper du bois, de fabriquer des objets ou de préparer un délicieux cocktail de fruits, vous découvrirez des plans et des recettes vous permettant d'en faire toujours plus! \n\nChasse au trésor \n\nVous cherchez une épée légendaire à accrocher au mur de votre hutte ou à brandir pour repousser vos ennemis? L'un des nombreux temples de l'île en cache sûrement une. Mais il ne sera pas facile de la récupérer, les apprentis pilleurs de tombe devront s'attendre à une chasse au trésor épique!",
         "title_id": "0100EF200DA60000"
-      },
-      {
-        "title": "An Airport for Aliens Currently Run by Dogs [NSZ][ENG]",
-        "size": "816.8 MB",
-        "magnet": "magnet:?xt=urn:btih:858D067443E12A49ECA6B8D0BA305A8A03AC1609&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6925503",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6925503",
-        "year": "2022, août",
-        "genre": "Adventure, Puzzle",
-        "developer": "Strange Scaffold",
-        "publisher": "Strange Scaffold",
-        "image_format": ".NSZ (compressé ~67%, taille installée 2.46 GB)",
-        "interface_lang": "Anglais [ENG]",
-        "voice_lang": "Sans voix",
-        "performance": "Oui (sur 14.1.2, Atmosphere 1.5.0)",
-        "multiplayer": "Non",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d1311bba37d52a2a74eec6ffcb0c1a51354b379ce037a2f8894d329bae782d2b.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d3f3c7d029ef118c9486b665ad746a6e268b9b247fe99a2eff8ceb8e45a82a47.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a4c932ea852a21ae5b7bd87d940ada22233a4f4f17e9054930d482c60f848f94.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/83f6e9a3c661d839200f97fdc656f37096c733ff959c247a96462b9a3074b2d0.jpg&output=jpg"
-        ],
-        "description": "An Airport for Aliens Currently Run by Dogs est un jeu d’aventure à la première personne au monde ouvert, aux éléments comiques et au nom un peu long. Vous et votre fiancée êtes les deux derniers humains rescapés dans l’univers dans lequel les chiens s’occupent des aéroports. Maîtrisez la logique extraterrestre, gérer les problèmes de voyage et visionnez d’étranges photos de chiens tandis que vous tentez de rester en contact avec la personne que vous aimez, et vivez votre vie au jour le jour !",
-        "title_id": "01000640174DA000"
-      },
-      {
-        "title": "Rune Dice [NSZ][RUS/Multi10]",
-        "size": "209.6 MB",
-        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6854986",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
-        "year": "2026, mai",
-        "genre": "Tactic, Arcade, Roguelite",
-        "developer": "Smart Raven Studio",
-        "publisher": "Kwalee",
-        "image_format": ".NSZ (compressé ~65%, taille installée 0.64 GB)",
-        "interface_lang": "Russe, Anglais [RUS / ENG / Multi 10]",
-        "voice_lang": "Sans voix",
-        "performance": "Oui (sur 22.1.0, Atmosphere 1.11.1)",
-        "multiplayer": "Non",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
-        ],
-        "description": "Lance tes dés sur des champs de bataille enchantés où la physique réaliste rencontre la magie ancestrale. Deux dés identiques fusionnent en un dé plus puissant qui cherche ses semblables, déclenchant des combos en chaîne dévastateurs.\n\nPlanifie soigneusement chaque lancer - ton coup peut déclencher des combos massifs qui anéantiront des vagues entières d'ennemis ou préparer le terrain pour tes futurs coups. Maîtrise la visée précise et la prédiction stratégique pour libérer tout le potentiel de la fusion mystique des dés.\n\nChoisis parmi 8 classes uniques, chacune avec des dés spéciaux et des capacités magiques. Chaque classe propose plusieurs héros avec différentes combinaisons de départ, faisant en sorte que chaque aventure se sente complètement différente.\n\nRépands du poison mortel dans les rangs ennemis en tant que Voleur, déchaîne des tempêtes d'éclairs en tant que Mage, ou tanke en tant que Guerrier lourdement blindé. Chaque classe ouvre des approches tactiques et des synergies totalement nouvelles.\n\nChaque lieu se termine par des combats difficiles contre des boss possédant des capacités uniques qui mettront ta stratégie à l'épreuve.\n\nCertains boss invoquent des sbires supplémentaires, d'autres manipulent le terrain de dés, et les plus dangereux peuvent complètement changer les règles du combat. Adapte ta collection de dés et tes tactiques pour surmonter chaque menace distincte.\n\nCrée des combinaisons puissantes de dés, reliques et runes qui travaillent ensemble pour définir ton style de jeu.\n\nCollecte des dés magiques grâce aux victoires en combat et aux achats en boutique, découvre des reliques qui changent la donne et offrent des améliorations permanentes, et rassemble des runes tactiques pour manipuler le champ de bataille. Visite des autels anciens où tu peux risquer tes dés pour des améliorations, ou joue prudemment et construis ton arsenal progressivement. La synergie entre tes attaques de dés, les bonus des reliques et les capacités des runes crée des combinaisons dévastatrices et des possibilités stratégiques infinies.",
-        "title_id": "0100F5102672C000"
       }
     ],
     "de": [
@@ -5058,60 +4842,6 @@
         ],
         "description": "Wenn du essen willst, wirst du die hier Tiere jagen müssen. Aber Vorsicht, sonst wirst du selbst zum Gejagten! Triff eine Reihe mythischer Gegner, die sich nicht unbedingt freuen werden, dich zu sehen. Erhalte Aufgaben von einem geheimnisvollen Fremden oder finde sie am Strand an Land gespült. Bereite dich auf die beschwerliche Reise in die prozedural erstellte Wildnis vor und schlage dich durch eine Reihe von Biomen. Hier ist jedes Abenteuer absolut einzigartig.\n\nBaut zusammen, überlebt zusammen \n\nDie Gefahren der Insel sind dir zu viel? Du möchtest deine Baumeisterkünste mit deinen Freunden teilen? The Survivalists ist wie geschaffen für dich! Begib dich auf gemeinsame Abenteuer, sammle Beute, handle und überlebe gemeinsam mit bis zu drei weiteren Schiffbrüchigen auf diesem Inselparadies.\n\nEin echtes Affentheater \n\nWenn du einen Bauarbeiter, einen Holzfäller oder sogar einen Soldaten brauchst: Die Affen auf der Insel können gezähmt und ausgebildet werden, um dir bei den täglichen Aufgaben oder Angriffen auf gegnerische Lager zu helfen! Das Nachahmer-System bietet eine Reihe von Funktionen, die von deinen bananenaffinen Freunden erfüllt werden können. Affenverwaltung ist wichtig, wenn du die Herausforderungen der Insel überleben willst.\n\nDie Axt auf der Insel erspart den Zimmermann \n\nNur wenn du lernst, die Ressourcen um dich herum zu nutzen, kannst du überleben. Ob du jetzt eine primitive Axt zusammenzimmerst, um Holz zu hacken oder dir einen erfrischenden Fruchtsmoothie mixt, um dem Hunger Herr zu werden; du entdeckst mit Sicherheit reichlich Rezepte, mit denen sich deine Möglichkeiten in Sachen Essen, Gegenstände und Gebäude schnell erweitern. \n\nEin echter Spießrutenlauf \n\nDu willst ein episches Schwert an die Wand deiner Hütte hängen oder den heranstürmenden Fieslingen zeigen, was eine Harke ist? Vielleicht findest du ja in einem der auf der Insel verteilten Tempel genau das Richtige dafür. Aber es wird nicht leicht, die Beute in die Finger zu kriegen, also musst du dich gut vorbereiten, du Schatzjäger.",
         "title_id": "0100EF200DA60000"
-      },
-      {
-        "title": "An Airport for Aliens Currently Run by Dogs [NSZ][ENG]",
-        "size": "816.8 MB",
-        "magnet": "magnet:?xt=urn:btih:858D067443E12A49ECA6B8D0BA305A8A03AC1609&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6925503",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6925503",
-        "year": "2022, August",
-        "genre": "Adventure, Puzzle",
-        "developer": "Strange Scaffold",
-        "publisher": "Strange Scaffold",
-        "image_format": ".NSZ (komprimiert ~67%, installierte Größe 2.46 GB)",
-        "interface_lang": "Englisch [ENG]",
-        "voice_lang": "Keine Sprachausgabe",
-        "performance": "Ja (auf 14.1.2, Atmosphere 1.5.0)",
-        "multiplayer": "Nein",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d1311bba37d52a2a74eec6ffcb0c1a51354b379ce037a2f8894d329bae782d2b.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d3f3c7d029ef118c9486b665ad746a6e268b9b247fe99a2eff8ceb8e45a82a47.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a4c932ea852a21ae5b7bd87d940ada22233a4f4f17e9054930d482c60f848f94.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/83f6e9a3c661d839200f97fdc656f37096c733ff959c247a96462b9a3074b2d0.jpg&output=jpg"
-        ],
-        "description": "„An Airport for Aliens Currently Run by Dogs“ ist ein First-Person-Comedy-Adventure in einer offenen Spielwelt ... und es hat einen sehr langen Namen. Du und deine Verlobte sind die letzten beiden Menschen im gesamten Universum. Hunde leiten neben Flughäfen nun auch die gesamte Gesellschaft. Im Spiel kämpfst du mit Alien-Logik, Reiseproblemen und seltsamen Stockfoto-Hunden, während du versuchst, mit der Liebe deines Lebens in Verbindung zu bleiben!",
-        "title_id": "01000640174DA000"
-      },
-      {
-        "title": "Rune Dice [NSZ][RUS/Multi10]",
-        "size": "209.6 MB",
-        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6854986",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
-        "year": "2026, Mai",
-        "genre": "Tactic, Arcade, Roguelite",
-        "developer": "Smart Raven Studio",
-        "publisher": "Kwalee",
-        "image_format": ".NSZ (komprimiert ~65%, installierte Größe 0.64 GB)",
-        "interface_lang": "Russisch, Englisch [RUS / ENG / Multi 10]",
-        "voice_lang": "Keine Sprachausgabe",
-        "performance": "Ja (auf 22.1.0, Atmosphere 1.11.1)",
-        "multiplayer": "Nein",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
-        ],
-        "description": "Wirf Würfel über verzauberte Schlachtfelder, wo realistische Physik auf alte Magie trifft. Zwei identische Würfel verschmelzen zu einem mächtigeren, der seinesgleichen sucht und verheerende Ketten-Combos auslöst.\n\nPlane jeden Wurf sorgfältig - dein Zug kann mächtige Combos auslösen, die ganze Gegnerwellen auslöschen oder das Feld für zukünftige Züge vorbereiten. Meistere präzises Zielen und strategische Vorhersage, um die mystische Würfelverschmelzung maximal zu entfesseln.\n\nWähle aus 8 einzigartigen Klassen, jede mit speziellen Würfeln und magischen Fähigkeiten. Jede Klasse bietet mehrere Helden mit unterschiedlichen Startkombinationen, sodass sich jedes Abenteuer völlig anders anfühlt.\n\nVerbreite tödliches Gift in den feindlichen Reihen als Schurke, entfessle Blitzstürme als Magier, oder tanke als schwer gepanzerter Krieger. Jede Klasse eröffnet völlig neue taktische Ansätze und Synergien.\n\nJede Location endet mit herausfordernden Kämpfen gegen Bosse, die einzigartige Fähigkeiten besitzen, welche deine Strategie auf die Probe stellen.\n\nManche Bosse beschwören zusätzliche Diener, andere manipulieren das Würfelfeld, und die gefährlichsten können die Kampfregeln komplett ändern. Passe deine Würfelsammlung und Taktiken an, um jede einzelne Bedrohung zu überwinden.\n\nErschaffe mächtige Kombinationen aus Würfeln, Relikten und Runen, die zusammenarbeiten und deinen Spielstil definieren.\n\nSammle magische Würfel durch Kampfsiege und Shop-Käufe, entdecke spielverändernde Relikte, die permanente Verbesserungen bieten, und sammle taktische Runen zur Manipulation des Schlachtfelds. Besuche uralte Altäre, wo du deine Würfel für Upgrades riskieren kannst, oder spiele auf Nummer sicher und baue dein Arsenal schrittweise auf. Die Synergie zwischen deinen Würfelangriffen, Relikt-Boni und Runen-Fähigkeiten erschafft verheerende Kombinationen und endlose strategische Möglichkeiten.",
-        "title_id": "0100F5102672C000"
       }
     ],
     "it": [
@@ -6080,60 +5810,6 @@
         ],
         "description": "Caccia gli animali, a tuo rischio e pericolo, e incontra una serie di creature leggendarie... anche se non tutte potrebbero essere liete di vederti. Ricevi gli incarichi da un misterioso straniero oppure scoprili da solo tra le sabbie dell'isola. Preparati a inoltrarti in uno scenario generato proceduralmente con una varietà estrema di biomi, per un'avventura sempre nuova e diversa a ogni partita.\n\nCostruisci e sopravvivi insieme \n\nL'isola è troppo minacciosa per te, o magari vuoi condividere le fasi di costruzione con gli amici? The Survivalists ha la soluzione! Collabora per completare missioni, recuperare bottino, scambiare risorse e sopravvivere, mentre esplori l'isola insieme a un massimo di tre compagni d'avventura.\n\nTu ordina, scimmia fa! \n\nHai bisogno di un operaio, un taglialegna o un soldato, persino? Addomestica e addestra le scimmie dell'isola per assegnarle alle mansioni quotidiane o supportarti nelle incursioni agli accampamenti nemici! Il \"sistema di imitazione\" permette alle tue fedeli alleate di svolgere una lunga serie di azioni, al punto che la gestione delle scimmie è un elemento chiave per sopravvivere alle sfide dell'isola.\n\nUsa l'ingegno e crea! \n\nIl segreto per la sopravvivenza è trarre il massimo dalle risorse a disposizione. Costruisci un'ascia rudimentale per raccogliere legna, prepara un frullato di frutta per arginare la fame e barcamenati in mille altri modi. Giorno dopo giorno, scoprirai nuove formule e ricette per cucinare cibi, creare strumenti e molto altro ancora. \n\nRaccogli la sfida \n\nSei alla ricerca di un'arma epica da appendere nella tua capanna o, magari, da usare per debellare i nemici? Quello che ti serve potrebbe essere in uno dei numerosi templi dell'isola. Recuperare il bottino, tuttavia, potrebbe essere impegnativo, quindi preparati al meglio per lanciarti nella tua caccia al tesoro.",
         "title_id": "0100EF200DA60000"
-      },
-      {
-        "title": "An Airport for Aliens Currently Run by Dogs [NSZ][ENG]",
-        "size": "816.8 MB",
-        "magnet": "magnet:?xt=urn:btih:858D067443E12A49ECA6B8D0BA305A8A03AC1609&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6925503",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6925503",
-        "year": "2022, agosto",
-        "genre": "Adventure, Puzzle",
-        "developer": "Strange Scaffold",
-        "publisher": "Strange Scaffold",
-        "image_format": ".NSZ (compresso ~67%, dimensione installata 2.46 GB)",
-        "interface_lang": "Inglese [ENG]",
-        "voice_lang": "Senza doppiaggio",
-        "performance": "Sì (su 14.1.2, Atmosphere 1.5.0)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d1311bba37d52a2a74eec6ffcb0c1a51354b379ce037a2f8894d329bae782d2b.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d3f3c7d029ef118c9486b665ad746a6e268b9b247fe99a2eff8ceb8e45a82a47.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a4c932ea852a21ae5b7bd87d940ada22233a4f4f17e9054930d482c60f848f94.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/83f6e9a3c661d839200f97fdc656f37096c733ff959c247a96462b9a3074b2d0.jpg&output=jpg"
-        ],
-        "description": "An Airport for Aliens Currently Run by Dogs è un open world di avventura comico in prima persona con un titolo molto lungo. Voi e la vostra fidanzata siete gli ultimi due esseri umani rimasti nell'universo. I cani gestiscono gli aeroporti e anche il resto della società. Affrontate la logica aliena, risolvete i problemi di viaggio e incontrate strane foto di cani mentre cercate di rimanere in contatto con la persona amata, senza mai fermarvi!",
-        "title_id": "01000640174DA000"
-      },
-      {
-        "title": "Rune Dice [NSZ][RUS/Multi10]",
-        "size": "209.6 MB",
-        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6854986",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
-        "year": "2026, maggio",
-        "genre": "Tactic, Arcade, Roguelite",
-        "developer": "Smart Raven Studio",
-        "publisher": "Kwalee",
-        "image_format": ".NSZ (compresso ~65%, dimensione installata 0.64 GB)",
-        "interface_lang": "Russo, Inglese [RUS / ENG / Multi 10]",
-        "voice_lang": "Senza doppiaggio",
-        "performance": "Sì (su 22.1.0, Atmosphere 1.11.1)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
-        ],
-        "description": "Lancia i dadi su campi di battaglia incantati dove la fisica realistica incontra la magia antica. Due dadi identici si fondono in uno più potente che cerca i suoi simili, scatenando devastanti combo a catena.\n\nPianifica attentamente ogni lancio - la tua mossa può innescare combo potenti che spazzeranno via intere ondate di nemici o preparare il campo per le mosse future. Padroneggia la mira precisa e la previsione strategica per liberare al massimo la fusione mistica dei dadi.\n\nScegli tra 8 classi uniche, ognuna con dadi speciali e abilità magiche. Ogni classe include diversi eroi con diverse combinazioni iniziali, facendo sì che ogni avventura si senta completamente diversa.\n\nDiffondi veleno mortale tra i ranghi nemici da ladro, scatena tempeste di fulmini da mago, o tanka da guerriero pesantemente corazzato. Ogni classe apre approcci tattici e sinergie completamente nuove.\n\nOgni location si conclude con difficili battaglie contro boss che possiedono abilità uniche che metteranno alla prova la tua strategia.\n\nAlcuni boss evocano ulteriori servitori, altri manipolano il campo dei dadi, e i più pericolosi possono cambiare completamente le regole del combattimento. Adatta la tua collezione di dadi e le tue tattiche per superare ogni minaccia distinta.\n\nCrea potenti combinazioni di dadi, reliquie e rune che lavorano insieme per definire il tuo stile di gioco.\n\nRaccogli dadi magici attraverso vittorie in combattimento e acquisti nei negozi, scopri reliquie che cambiano il gioco e forniscono miglioramenti permanenti, e raccogli rune tattiche per manipolare il campo di battaglia. Visita antichi altari dove puoi rischiare i tuoi dadi per miglioramenti, oppure gioca sul sicuro e costruisci gradualmente il tuo arsenale. La sinergia tra i tuoi attacchi con i dadi, i bonus delle reliquie e le abilità delle rune crea combinazioni devastanti e infinite possibilità strategiche.",
-        "title_id": "0100F5102672C000"
       }
     ],
     "pt_br": [
@@ -7102,60 +6778,6 @@
         ],
         "description": "Caça animais, para obteres comida, e uma série de inimigos míticos, que não estão necessariamente contentes por te verem — mas não acabes por ser tu a presa! Recebe missões de um misterioso desconhecido ou encontra-as encalhadas na costa. Prepara-te para desbravar uma região selvagem gerada algoritmicamente com uma variedade de biomas, produzindo uma aventura única para cada jogador.\n\nConstruir em comunidade, sobreviver em comunidade \n\nA vida na ilha é demasiado perigosa para a enfrentares sozinho? Ou queres apenas partilhar os teus conhecimentos de construção com amigos? The Survivalists está aqui para te ajudar! Junta-te com um máximo de três náufragos adicionais e concluam aventuras em grupo, ganhem saques, realizem trocas e sobrevivam em conjunto explorando uma ilha paradisíaca.\n\nMacaquinhos de imitação! \n\nSe precisares de um construtor, de um lenhador ou até de um soldado, podes domar e treinar os macacos da ilha para te ajudarem com as tarefas diárias ou para te apoiarem em ataques contra campos de fanáticos! O sistema de imitação permite que uma grande variedade de funções seja executada pelos teus amigos apreciadores de bananas, tornando a gestão de macacos a chave para sobreviver aos desafios da ilha.\n\nMãos à obra \n\nO segredo para a sobrevivência reside em aproveitar ao máximo os recursos que te rodeiam. Quer isso signifique fabricar um machado rudimentar para cortar madeira ou fazer um refrescante batido de frutas para afastar a fome, podes descobrir receitas e expandir as tuas opções em árvores de fabrico de comida, de artigos e de estruturas. \n\nAtravessa todos os obstáculos \n\nProcuras uma espada épica para pendurar na parede da cabana ou para aniquilar invasores hostis? Aquilo que desejas pode estar num dos muitos templos espalhados pela ilha. No entanto, conseguir obter nestes saques não vai ser fácil, por isso, todo o aspirante a salteador terá de se preparar para uma verdadeira cruzada de caça ao tesouro.",
         "title_id": "0100EF200DA60000"
-      },
-      {
-        "title": "An Airport for Aliens Currently Run by Dogs [NSZ][ENG]",
-        "size": "816.8 MB",
-        "magnet": "magnet:?xt=urn:btih:858D067443E12A49ECA6B8D0BA305A8A03AC1609&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6925503",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6925503",
-        "year": "2022, agosto",
-        "genre": "Adventure, Puzzle",
-        "developer": "Strange Scaffold",
-        "publisher": "Strange Scaffold",
-        "image_format": ".NSZ (compactado ~67%, tamanho instalado 2.46 GB)",
-        "interface_lang": "Inglês [ENG]",
-        "voice_lang": "Sem dublagem",
-        "performance": "Sim (no 14.1.2, Atmosphere 1.5.0)",
-        "multiplayer": "Não",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d1311bba37d52a2a74eec6ffcb0c1a51354b379ce037a2f8894d329bae782d2b.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d3f3c7d029ef118c9486b665ad746a6e268b9b247fe99a2eff8ceb8e45a82a47.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a4c932ea852a21ae5b7bd87d940ada22233a4f4f17e9054930d482c60f848f94.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/83f6e9a3c661d839200f97fdc656f37096c733ff959c247a96462b9a3074b2d0.jpg&output=jpg"
-        ],
-        "description": "O An Airport for Aliens Currently Run by Dogs é um jogo de aventura de comédia de mundo aberto em primeira pessoa com um nome muito longo. Você e a sua cara metade são os dois últimos seres humanos que restam no universo. Cachorros gerenciam aeroportos, junto com o resto da sociedade. Lide com a lógica alienígena, problemas de viagem e estranhas fotos de cachorros de banco de imagens enquanto tenta manter contato com a pessoa que ama, quando ambos vivem suas vidas em movimento!",
-        "title_id": "01000640174DA000"
-      },
-      {
-        "title": "Rune Dice [NSZ][RUS/Multi10]",
-        "size": "209.6 MB",
-        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6854986",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
-        "year": "2026, maio",
-        "genre": "Tactic, Arcade, Roguelite",
-        "developer": "Smart Raven Studio",
-        "publisher": "Kwalee",
-        "image_format": ".NSZ (compactado ~65%, tamanho instalado 0.64 GB)",
-        "interface_lang": "Russo, Inglês [RUS / ENG / Multi 10]",
-        "voice_lang": "Sem dublagem",
-        "performance": "Sim (no 22.1.0, Atmosphere 1.11.1)",
-        "multiplayer": "Não",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/563b1290d247768414547c48d0b8a066f1de691e7c6237a90bca51e0fefe4a7f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/825ff10b8fd018806468d4a8ef1acde02ccd5580f1268b372a909ff3617b551e.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b060b7457d893e8a7787e45ac988bdd8e9642580631a99ff528db05f0974420f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7a1ca10d408a1f31a2031e3254add5c12e3c9c16d1ee20de9d57077676b08bf8.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4c811c7165f3439fcf3f56f2bf5e482233e320465060a641484e53db89d6a0db.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b46696ab74ff1e51dd455cbca9bbb287adb5021c39512176d98f35cea193a80.jpg&output=jpg"
-        ],
-        "description": "Lance dados em campos de batalha encantados onde a física realista encontra a magia ancestral. Dois dados idênticos se fundem em um mais poderoso que busca seus iguais, desencadeando combos em cadeia devastadores.\n\nPlaneje cuidadosamente cada lançamento - sua jogada pode desencadear combos poderosos que vão aniquilar ondas inteiras de inimigos ou preparar o campo para jogadas futuras. Domine a mira precisa e a previsão estratégica para liberar ao máximo a fusão mística de dados.\n\nEscolha entre 8 classes únicas, cada uma com dados especiais e habilidades mágicas. Cada classe inclui vários heróis com diferentes combinações iniciais, fazendo com que cada aventura pareça completamente diferente.\n\nEspalhe veneno mortal nas fileiras inimigas como ladino, libere tempestades de raios como mago, ou tanque como guerreiro pesadamente blindado. Cada classe abre abordagens táticas e sinergias completamente novas.\n\nCada local culmina em batalhas desafiadoras contra chefes que possuem habilidades únicas que vão testar sua estratégia.\n\nAlguns chefes invocam lacaios adicionais, outros manipulam o campo de dados, e os mais perigosos podem mudar completamente as regras do combate. Adapte sua coleção de dados e táticas para superar cada ameaça distinta.\n\nCrie combinações poderosas de dados, relíquias e runas que trabalham juntas para definir seu estilo de jogo.\n\nColete dados mágicos através de vitórias em combate e compras em lojas, descubra relíquias que mudam o jogo e fornecem melhorias permanentes, e reúna runas táticas para manipulação do campo de batalha. Visite altares antigos onde você pode arriscar seus dados por upgrades, ou jogue no seguro e construa seu arsenal gradualmente. A sinergia entre seus ataques de dados, bônus de relíquias e habilidades de runas cria combinações devastadoras e possibilidades estratégicas infinitas.",
-        "title_id": "0100F5102672C000"
       }
     ],
     "zh_hans": [
@@ -8123,60 +7745,6 @@
         ],
         "description": "與最多三名朋友探索、建造、製作甚至訓練猴子，拚命生存下去。您有本事成為生存高手嗎？\n\n充滿冒險和可能性的世界 \n\n這是座活生生的島嶼！您新發現的這個家，會在您探索島上秘密的同時，隨著日夜交替而變化。可以狩獵動物來取得食物（或者被動物狩獵！），還有眾多仙魔神怪敵人，他們可不見得歡迎外地人。透過神秘的陌生人取得任務，有時也能在海岸邊撿到任務。準備好進入程序生成的荒野中探險，其中有著多種生態變化，為每位玩家帶來獨特的冒險。\n\n一同建造、一同生存 \n\n您覺得孤島生活太危險了受不了，或單純想和朋友分享您的建設長才嗎？在《The Survivalists》裡都沒問題！您能夠與最多三名漂流到這座樂園島嶼的夥伴完成共同的冒險、獲得寶物、交易並達成一起生存下來的最終目標。\n\n猴子會模仿！ \n\n如果您需要建築工、伐木工甚至士兵，可以馴化島上的猴子，讓牠們接受訓練，幫助您完成日常工作，或支援您討伐狂信徒的營地！模擬系統能夠讓您那群熱愛香蕉的朋友們執行種類多樣的工作，妥善管理猴子將成為戰勝島上難關生存下去的關鍵。\n\n動手做 \n\n生存的秘訣便是充分利用周遭的所有資源。無論是想將材料組合成一把簡陋的斧頭來伐木，或是想調配涼爽的水果冰沙填飽肚子，您都有機會發現配方，在食物、物品或建築物製造樹中拓展您的選擇。 \n\n過關斬將 \n\n想得到一把傳奇之劍掛在小屋牆上炫耀，或打倒入侵的敵人嗎？您尋找的目標可能就在遍布於這座島上的眾多神廟之中。然而染指寶物絕非易事，想搶寶物的人最好做好為尋寶而戰的準備。",
         "title_id": "0100EF200DA60000"
-      },
-      {
-        "title": "An Airport for Aliens Currently Run by Dogs [NSZ][ENG]",
-        "size": "816.8 MB",
-        "magnet": "magnet:?xt=urn:btih:858D067443E12A49ECA6B8D0BA305A8A03AC1609&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6925503",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6925503",
-        "year": "2022, 8月",
-        "genre": "Adventure, Puzzle",
-        "developer": "Strange Scaffold",
-        "publisher": "Strange Scaffold",
-        "image_format": ".NSZ (已压缩 ~67%, 安装大小 2.46 GB)",
-        "interface_lang": "英语 [ENG]",
-        "voice_lang": "无语音",
-        "performance": "是 (在 14.1.2, Atmosphere 1.5.0)",
-        "multiplayer": "无",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6925503.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4376e53109afdcbc1b2541a73afa21f93e001bcac7c5c846c4f8e3de544af3ab.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/805160e38f00ad2b95c737dbab1099c0d8de021f91f953524c16ef494caa04a1.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d1311bba37d52a2a74eec6ffcb0c1a51354b379ce037a2f8894d329bae782d2b.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d3f3c7d029ef118c9486b665ad746a6e268b9b247fe99a2eff8ceb8e45a82a47.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a4c932ea852a21ae5b7bd87d940ada22233a4f4f17e9054930d482c60f848f94.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/83f6e9a3c661d839200f97fdc656f37096c733ff959c247a96462b9a3074b2d0.jpg&output=jpg"
-        ],
-        "description": "《目前由狗经营的外星人机场》是一款第一人称开放世界喜剧冒险游戏，名字很长。你和你的未婚妻是宇宙中仅存的两个人。狗和社会其他人一样管理着机场。当你试图与你所爱的人保持联系时，当你们都过着忙碌的生活时，要处理外星人的逻辑、旅行问题和奇怪的照片狗！",
-        "title_id": "01000640174DA000"
-      },
-      {
-        "title": "Rune Dice [NSZ][RUS/Multi10]",
-        "size": "209.6 MB",
-        "magnet": "magnet:?xt=urn:btih:461CA17A2FC1D0D3F18754F9202CCA01DD6A79FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6854986",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6854986",
-        "year": "2026, 5月",
-        "genre": "Tactic, Arcade, Roguelite",
-        "developer": "Smart Raven Studio",
-        "publisher": "Kwalee",
-        "image_format": ".NSZ (已压缩 ~65%, 安装大小 0.64 GB)",
-        "interface_lang": "俄语, 英语 [RUS / ENG / Multi 10]",
-        "voice_lang": "无语音",
-        "performance": "是 (在 22.1.0, Atmosphere 1.11.1)",
-        "multiplayer": "无",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6854986.jpg",
-        "screenshots": [
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/5bfa2d30a0c894c8a521dcf0bc191e73fd45db5cc1bfc901dc7c44ff3cf394bb.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d73468d05f69673fc07315cd52c5fb21f6ab2c6c6f16fdf0c995e1581fa7bf05.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/1e9301b5cc0de3549d4979649aeaa1256aff4ef7f41a918e8b0f1161ebe43aa9.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/bf95bf664d5b34e2b2c6d44d72e363c1022894f9054ded9202155399b4cff696.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/13c161bf51447ea9a2228f58cf5e2b9441210c3c3ab03c27f8a46853b551f86f.jpg&output=jpg",
-          "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/429e71e7c345763594a300d680ceee4a3a3ed28a5974230428dd44952c3f164f.jpg&output=jpg"
-        ],
-        "description": "在魔法戰場上投擲骰子，真實物理與古老魔法在此交匯。兩個相同的骰子融合成更強大的骰子，它會尋找同類，觸發毀滅性的連鎖連擊。\n\n仔細規劃每次投擲 - 你的每一步都可能觸發強大連擊，橫掃整波敵人或為未來的行動鋪平道路。掌握精準瞄準和戰略預測，最大化釋放神秘骰子融合的力量。\n\n從8個獨特職業中選擇，每個職業都擁有特殊骰子和魔法技能。每個職業包含多個具有不同起始組合的英雄，讓每次冒險都感覺完全不同。\n\n作為盜賊在敵軍中散播致命毒藥，作為法師釋放閃電風暴，或作為重裝戰士坦克。每個職業都開啟全新的戰術方法和協同效應。\n\n每個地點都以與擁有獨特技能的首領的挑戰性戰鬥作為終結，考驗你的策略。\n\n一些首領召喚額外的小怪，另一些操控骰子場地，而最危險的可以完全改變戰鬥規則。調整你的骰子收藏和戰術，克服每個不同的威脅。\n\n打造骰子、聖物和符文的強大組合，它們協同工作，定義你的遊戲風格。\n\n通過戰鬥勝利和商店購買收集魔法骰子，發現改變遊戲的聖物提供永久增強，並收集戰術符文用於操控戰場。訪問古老祭壇，在那裡你可以冒險用骰子換取升級，或穩妥行事，逐步建立你的武器庫。骰子攻擊、聖物加成和符文技能之間的協同效應創造出毀滅性組合和無限戰略可能性。",
-        "title_id": "0100F5102672C000"
       }
     ]
   }
