@@ -1,14 +1,38 @@
 {
   "version": 1,
-  "generated_at": 1792973161,
+  "generated_at": 1793000650,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
     "ru": [
       {
+        "title": "Silent Hill: Downpour (хоумбрю)",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:D2FEC93757DAD4ADEE4B5C58F094D68806AD35FB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6927373",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6927373",
+        "year": "2012",
+        "genre": "Survival horror, Homebrew",
+        "developer": "Vatra Games",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Русский, Английский [RUS/ENG]",
+        "voice_lang": "Английская",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "нет",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6927373.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1024/a2/98a106b762b4f238676839060732efa2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f4/4771d5ad92e7a4d01fbd80da0c5e9df4.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/6b/bdd7780a713461489b37a7f738236c6b.jpeg"
+        ],
+        "description": "Тюремный автобус разбивается по дороге из Рикерса, и заключённый Мёрфи Пендлтон оказывается один на дороге у Сайлент Хилла. Город встречает его дождём, который смывает границу между явью и чем-то другим: стоит ливню усилиться, и улицы переписываются заново, а из тумана выходит то, что город достал из его памяти. Мёрфи ищет выход и попутно узнаёт, за что он сидел на самом деле.",
+        "title_id": null
+      },
+      {
         "title": "Metal Gear Rising Revengeance (хоумбрю) [NRO][RUS/Multi8]",
-        "size": "7.78 GB",
-        "magnet": "magnet:?xt=urn:btih:2771B05E8635001BDEE581FF1C33303E9B3542D7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "7.79 GB",
+        "magnet": "magnet:?xt=urn:btih:826003642219E7064D4923809696DC3C1379EE81&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926954",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926954",
         "year": "2013",
@@ -27,12 +51,38 @@
           "https://i129.fastpic.org/thumb/2026/1023/1d/00fa157b5b44f98fb97d8fd77c38d01d.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/c8/f55d7f09da3e2043858fcbb3c062b0c8.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/97/77ab1f145768975c153da1c911d8e597.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/3e/d769ee6604090704d4c81999d6746e3e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/18/bc4deb3a4b6a60dc60a955167cf1d718.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/71/ddbe824c7bec7426ba4fc3f4617e4d71.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/2d/1ae6689b446099189b79ce57cbc53b2d.jpeg"
+          "https://i129.fastpic.org/thumb/2026/1024/13/bfe7d41af52735bd02b82f85b417ff13.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/2c/12401a0ed32f2e7b9e95d1b04283eb2c.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f2/99e453f9d7bcaf3632cefa3004f2aaf2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/7d/94ab5ae47be7ef25f405a3f32b62617d.jpeg"
         ],
         "description": "Metal Gear Rising: Revengeance — слэшер в жанре action-adventure, разработанный PlatinumGames совместно с Kojima Productions и выпущенный Konami в 2013 году.\nСобытия происходят через четыре года после Metal Gear Solid 4: Guns of the Patriots. Главный герой — киборг-ниндзя Райден, который сражается с частной военной организацией Desperado Enforcement, используя высокочастотную катану.\nИгровой процесс сосредоточен на динамичных боях, комбинациях ударов, парировании атак и режиме Blade Mode, позволяющем замедлять время и с высокой точностью разрезать врагов и объекты. В отличие от большинства игр серии Metal Gear, здесь на первом месте стоит стремительный экшен, а не скрытное прохождение.",
+        "title_id": null
+      },
+      {
+        "title": "Prototype (порт) [NRO][RUS/ENG]",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:0446C10544DB78D2706869246BA81F443982192B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923419",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923419",
+        "year": "2009",
+        "genre": "Action, Homebrew",
+        "developer": "Radical Entertainment",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Русский, Английский [RUS/ENG]",
+        "voice_lang": "Английская",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "нет",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923419.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1015/12/82d7bb4bb89d9fde1fdcea43797ecc12.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/db/991a50fd1f045e2ad32f9057388479db.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/3c/8349b52a999ff82826134e056070823c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/b9/e596532d2114dc7a3b8f90503510b6b9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/0a/b660f0fb58de214b61712ac5847d900a.jpeg"
+        ],
+        "description": "Манхэттен охвачен вирусом. Алекс Мерсер приходит в себя в морге корпорации «Гентек» без памяти о прошлом — и с телом, способным поглощать людей, перенимать их облик, воспоминания и навыки. Пока улицы захватывают заражённые, а военные из «Чёрного дозора» зачищают город вместе с жителями, Алекс собирает по кусочкам правду о том, кто он такой и кто выпустил заразу. Бегайте по стенам небоскрёбов, прыгайте через кварталы, превращайте руки в когти, клинки и щиты, угоняйте танки и вертолёты — Нью-Йорк целиком становится полем боя.",
         "title_id": null
       },
       {
@@ -638,9 +688,33 @@
     ],
     "en": [
       {
+        "title": "Silent Hill: Downpour (homebrew)",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:D2FEC93757DAD4ADEE4B5C58F094D68806AD35FB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6927373",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6927373",
+        "year": "2012",
+        "genre": "Survival horror, Homebrew",
+        "developer": "Vatra Games",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russian, English [RUS/ENG]",
+        "voice_lang": "English",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6927373.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1024/a2/98a106b762b4f238676839060732efa2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f4/4771d5ad92e7a4d01fbd80da0c5e9df4.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/6b/bdd7780a713461489b37a7f738236c6b.jpeg"
+        ],
+        "description": "A prison bus crashes on the way out of Rikers, leaving prisoner Murphy Pendleton alone on the road outside Silent Hill. The city greets him with rain, which blurs the boundary between reality and something else: as soon as the downpour intensifies, the streets are rewritten anew, and out of the fog comes out what the city pulled from his memory. Murphy is looking for a way out and along the way finds out what he was really imprisoned for.",
+        "title_id": null
+      },
+      {
         "title": "Metal Gear Rising Revengeance (homebrew) [NRO][RUS/Multi8]",
-        "size": "7.78 GB",
-        "magnet": "magnet:?xt=urn:btih:2771B05E8635001BDEE581FF1C33303E9B3542D7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "7.79 GB",
+        "magnet": "magnet:?xt=urn:btih:826003642219E7064D4923809696DC3C1379EE81&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926954",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926954",
         "year": "2013",
@@ -659,12 +733,38 @@
           "https://i129.fastpic.org/thumb/2026/1023/1d/00fa157b5b44f98fb97d8fd77c38d01d.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/c8/f55d7f09da3e2043858fcbb3c062b0c8.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/97/77ab1f145768975c153da1c911d8e597.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/3e/d769ee6604090704d4c81999d6746e3e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/18/bc4deb3a4b6a60dc60a955167cf1d718.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/71/ddbe824c7bec7426ba4fc3f4617e4d71.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/2d/1ae6689b446099189b79ce57cbc53b2d.jpeg"
+          "https://i129.fastpic.org/thumb/2026/1024/13/bfe7d41af52735bd02b82f85b417ff13.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/2c/12401a0ed32f2e7b9e95d1b04283eb2c.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f2/99e453f9d7bcaf3632cefa3004f2aaf2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/7d/94ab5ae47be7ef25f405a3f32b62617d.jpeg"
         ],
         "description": "Metal Gear Rising: Revengeance is an action-adventure slasher film developed by PlatinumGames and Kojima Productions and published by Konami in 2013.\nEvents take place four years after Metal Gear Solid 4: Guns of the Patriots. The main character is the cyborg ninja Raiden, who fights the private military organization Desperado Enforcement using a high-frequency katana.\nThe gameplay is focused on dynamic battles, combinations of blows, parrying attacks and Blade Mode, which allows you to slow down time and cut enemies and objects with high precision. Unlike most Metal Gear games, the focus here is fast-paced action rather than stealth.",
+        "title_id": null
+      },
+      {
+        "title": "Prototype (port ) [NRO][RUS/ENG]",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:0446C10544DB78D2706869246BA81F443982192B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923419",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923419",
+        "year": "2009",
+        "genre": "Action, Homebrew",
+        "developer": "Radical Entertainment",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russian, English [RUS/ENG]",
+        "voice_lang": "English",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923419.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1015/12/82d7bb4bb89d9fde1fdcea43797ecc12.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/db/991a50fd1f045e2ad32f9057388479db.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/3c/8349b52a999ff82826134e056070823c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/b9/e596532d2114dc7a3b8f90503510b6b9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/0a/b660f0fb58de214b61712ac5847d900a.jpeg"
+        ],
+        "description": "Mankhetten okhvachen virusom. Aleks Merser prikhodit v sebya v morge korporatsii «Gentek» bez pamyati o proshlom — i s telom, sposobnym pogloshchat lyudey, perenimat ikh oblik, vospominaniya i navyki. Poka ulitsy zakhvatyvayut zarazhyonnye, a voennye iz «Chyornogo dozora» zachishchayut gorod vmeste s zhitelyami, Aleks sobiraet po kusochkam pravdu o tom, kto on takoy i kto vypustil zarazu. Begayte po stenam neboskryobov, prygayte cherez kvartaly, prevrashchayte ruki v kogti, klinki i shchity, ugonyayte tanki i vertolyoty — Nyu-York tselikom stanovitsya polem boya.",
         "title_id": null
       },
       {
@@ -1270,9 +1370,33 @@
     ],
     "es": [
       {
+        "title": "Silent Hill: Downpour (homebrew)",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:D2FEC93757DAD4ADEE4B5C58F094D68806AD35FB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6927373",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6927373",
+        "year": "2012",
+        "genre": "Survival horror, Homebrew",
+        "developer": "Vatra Games",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Ruso, Inglés [RUS/ENG]",
+        "voice_lang": "Inglés",
+        "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6927373.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1024/a2/98a106b762b4f238676839060732efa2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f4/4771d5ad92e7a4d01fbd80da0c5e9df4.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/6b/bdd7780a713461489b37a7f738236c6b.jpeg"
+        ],
+        "description": "Un autobús de la prisión se estrella al salir de Rikers, dejando al prisionero Murphy Pendleton solo en la carretera a las afueras de Silent Hill. La ciudad lo recibe con una lluvia que desdibuja el límite entre la realidad y otra cosa: tan pronto como el aguacero se intensifica, las calles se reescriben de nuevo, y de la niebla surge lo que la ciudad arrancó de su memoria. Murphy busca una salida y en el camino descubre por qué fue encarcelado realmente.",
+        "title_id": null
+      },
+      {
         "title": "Metal Gear Rising Revengeance (homebrew) [NRO][RUS/Multi8]",
-        "size": "7.78 GB",
-        "magnet": "magnet:?xt=urn:btih:2771B05E8635001BDEE581FF1C33303E9B3542D7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "7.79 GB",
+        "magnet": "magnet:?xt=urn:btih:826003642219E7064D4923809696DC3C1379EE81&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926954",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926954",
         "year": "2013",
@@ -1291,12 +1415,38 @@
           "https://i129.fastpic.org/thumb/2026/1023/1d/00fa157b5b44f98fb97d8fd77c38d01d.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/c8/f55d7f09da3e2043858fcbb3c062b0c8.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/97/77ab1f145768975c153da1c911d8e597.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/3e/d769ee6604090704d4c81999d6746e3e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/18/bc4deb3a4b6a60dc60a955167cf1d718.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/71/ddbe824c7bec7426ba4fc3f4617e4d71.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/2d/1ae6689b446099189b79ce57cbc53b2d.jpeg"
+          "https://i129.fastpic.org/thumb/2026/1024/13/bfe7d41af52735bd02b82f85b417ff13.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/2c/12401a0ed32f2e7b9e95d1b04283eb2c.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f2/99e453f9d7bcaf3632cefa3004f2aaf2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/7d/94ab5ae47be7ef25f405a3f32b62617d.jpeg"
         ],
         "description": "Metal Gear Rising: Revengeance es una película de acción y aventuras desarrollada por PlatinumGames y Kojima Productions y publicada por Konami en 2013.\nLos acontecimientos tienen lugar cuatro años después de Metal Gear Solid 4: Guns of the Patriots. El personaje principal es el ninja cyborg Raiden, que lucha contra la organización militar privada Desperado Enforcement utilizando una katana de alta frecuencia.\nLa jugabilidad se centra en batallas dinámicas, combinaciones de golpes, ataques de parada y Modo Blade, que te permite ralentizar el tiempo y cortar enemigos y objetos con gran precisión. A diferencia de la mayoría de los juegos de Metal Gear, aquí el enfoque es la acción trepidante en lugar del sigilo.",
+        "title_id": null
+      },
+      {
+        "title": "Prototype (port ) [NRO][RUS/ENG]",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:0446C10544DB78D2706869246BA81F443982192B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923419",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923419",
+        "year": "2009",
+        "genre": "Action, Homebrew",
+        "developer": "Radical Entertainment",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Ruso, Inglés [RUS/ENG]",
+        "voice_lang": "Inglés",
+        "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923419.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1015/12/82d7bb4bb89d9fde1fdcea43797ecc12.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/db/991a50fd1f045e2ad32f9057388479db.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/3c/8349b52a999ff82826134e056070823c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/b9/e596532d2114dc7a3b8f90503510b6b9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/0a/b660f0fb58de214b61712ac5847d900a.jpeg"
+        ],
+        "description": "Mankhetten okhvachen virusom. Aleks Merser prikhodit v sebya v morge korporatsii «Gentek» bez pamyati o proshlom — i s telom, sposobnym pogloshchat lyudey, perenimat ikh oblik, vospominaniya i navyki. Poka ulitsy zakhvatyvayut zarazhyonnye, a voennye iz «Chyornogo dozora» zachishchayut gorod vmeste s zhitelyami, Aleks sobiraet po kusochkam pravdu o tom, kto on takoy i kto vypustil zarazu. Begayte po stenam neboskryobov, prygayte cherez kvartaly, prevrashchayte ruki v kogti, klinki i shchity, ugonyayte tanki i vertolyoty — Nyu-York tselikom stanovitsya polem boya.",
         "title_id": null
       },
       {
@@ -1902,9 +2052,33 @@
     ],
     "fr": [
       {
+        "title": "Silent Hill: Downpour (homebrew)",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:D2FEC93757DAD4ADEE4B5C58F094D68806AD35FB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6927373",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6927373",
+        "year": "2012",
+        "genre": "Survival horror, Homebrew",
+        "developer": "Vatra Games",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russe, Anglais [RUS/ENG]",
+        "voice_lang": "Anglais",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6927373.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1024/a2/98a106b762b4f238676839060732efa2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f4/4771d5ad92e7a4d01fbd80da0c5e9df4.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/6b/bdd7780a713461489b37a7f738236c6b.jpeg"
+        ],
+        "description": "Un bus de la prison s'écrase à la sortie de Rikers, laissant le prisonnier Murphy Pendleton seul sur la route à l'extérieur de Silent Hill. La ville l'accueille avec la pluie, qui brouille la frontière entre la réalité et autre chose : dès que l'averse s'intensifie, les rues se réécrivent à nouveau, et du brouillard sort ce que la ville a retiré de sa mémoire. Murphy cherche une issue et découvre en chemin pourquoi il a réellement été emprisonné.",
+        "title_id": null
+      },
+      {
         "title": "Metal Gear Rising Revengeance (homebrew) [NRO][RUS/Multi8]",
-        "size": "7.78 GB",
-        "magnet": "magnet:?xt=urn:btih:2771B05E8635001BDEE581FF1C33303E9B3542D7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "7.79 GB",
+        "magnet": "magnet:?xt=urn:btih:826003642219E7064D4923809696DC3C1379EE81&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926954",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926954",
         "year": "2013",
@@ -1923,12 +2097,38 @@
           "https://i129.fastpic.org/thumb/2026/1023/1d/00fa157b5b44f98fb97d8fd77c38d01d.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/c8/f55d7f09da3e2043858fcbb3c062b0c8.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/97/77ab1f145768975c153da1c911d8e597.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/3e/d769ee6604090704d4c81999d6746e3e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/18/bc4deb3a4b6a60dc60a955167cf1d718.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/71/ddbe824c7bec7426ba4fc3f4617e4d71.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/2d/1ae6689b446099189b79ce57cbc53b2d.jpeg"
+          "https://i129.fastpic.org/thumb/2026/1024/13/bfe7d41af52735bd02b82f85b417ff13.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/2c/12401a0ed32f2e7b9e95d1b04283eb2c.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f2/99e453f9d7bcaf3632cefa3004f2aaf2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/7d/94ab5ae47be7ef25f405a3f32b62617d.jpeg"
         ],
         "description": "Metal Gear Rising : Revengeance est un film slasher d'action-aventure développé par PlatinumGames et Kojima Productions et publié par Konami en 2013.\nLes événements se déroulent quatre ans après Metal Gear Solid 4 : Guns of the Patriots. Le personnage principal est le ninja cyborg Raiden, qui combat l'organisation militaire privée Desperado Enforcement à l'aide d'un katana à haute fréquence.\nLe gameplay est axé sur des batailles dynamiques, des combinaisons de coups, des attaques de parade et le mode Lame, qui vous permet de ralentir le temps et de couper les ennemis et les objets avec une grande précision. Contrairement à la plupart des jeux Metal Gear, l'accent est mis ici sur l'action rapide plutôt que sur la furtivité.",
+        "title_id": null
+      },
+      {
+        "title": "Prototype (portage ) [NRO][RUS/ENG]",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:0446C10544DB78D2706869246BA81F443982192B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923419",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923419",
+        "year": "2009",
+        "genre": "Action, Homebrew",
+        "developer": "Radical Entertainment",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russe, Anglais [RUS/ENG]",
+        "voice_lang": "Anglais",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923419.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1015/12/82d7bb4bb89d9fde1fdcea43797ecc12.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/db/991a50fd1f045e2ad32f9057388479db.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/3c/8349b52a999ff82826134e056070823c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/b9/e596532d2114dc7a3b8f90503510b6b9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/0a/b660f0fb58de214b61712ac5847d900a.jpeg"
+        ],
+        "description": "Mankhetten okhvachen virusom. Aleks Merser prikhodit v sebya v morge korporatsii «Gentek» bez pamyati o proshlom — i s telom, sposobnym pogloshchat lyudey, perenimat ikh oblik, vospominaniya i navyki. Poka ulitsy zakhvatyvayut zarazhyonnye, a voennye iz «Chyornogo dozora» zachishchayut gorod vmeste s zhitelyami, Aleks sobiraet po kusochkam pravdu o tom, kto on takoy i kto vypustil zarazu. Begayte po stenam neboskryobov, prygayte cherez kvartaly, prevrashchayte ruki v kogti, klinki i shchity, ugonyayte tanki i vertolyoty — Nyu-York tselikom stanovitsya polem boya.",
         "title_id": null
       },
       {
@@ -2534,9 +2734,33 @@
     ],
     "de": [
       {
+        "title": "Silent Hill: Downpour (Homebrew)",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:D2FEC93757DAD4ADEE4B5C58F094D68806AD35FB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6927373",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6927373",
+        "year": "2012",
+        "genre": "Survival horror, Homebrew",
+        "developer": "Vatra Games",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russisch, Englisch [RUS/ENG]",
+        "voice_lang": "Englisch",
+        "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Nein",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6927373.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1024/a2/98a106b762b4f238676839060732efa2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f4/4771d5ad92e7a4d01fbd80da0c5e9df4.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/6b/bdd7780a713461489b37a7f738236c6b.jpeg"
+        ],
+        "description": "Ein Gefängnisbus verunglückt auf dem Weg aus Rikers und lässt den Gefangenen Murphy Pendleton allein auf der Straße vor Silent Hill zurück. Die Stadt begrüßt ihn mit Regen, der die Grenze zwischen der Realität und etwas anderem verwischt: Sobald der Regen stärker wird, werden die Straßen neu beschrieben, und aus dem Nebel kommt heraus, was die Stadt aus seiner Erinnerung geholt hat. Murphy sucht nach einem Ausweg und findet nebenbei heraus, wofür er wirklich eingesperrt wurde.",
+        "title_id": null
+      },
+      {
         "title": "Metal Gear Rising Revengeance (Homebrew) [NRO][RUS/Multi8]",
-        "size": "7.78 GB",
-        "magnet": "magnet:?xt=urn:btih:2771B05E8635001BDEE581FF1C33303E9B3542D7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "7.79 GB",
+        "magnet": "magnet:?xt=urn:btih:826003642219E7064D4923809696DC3C1379EE81&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926954",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926954",
         "year": "2013",
@@ -2555,12 +2779,38 @@
           "https://i129.fastpic.org/thumb/2026/1023/1d/00fa157b5b44f98fb97d8fd77c38d01d.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/c8/f55d7f09da3e2043858fcbb3c062b0c8.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/97/77ab1f145768975c153da1c911d8e597.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/3e/d769ee6604090704d4c81999d6746e3e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/18/bc4deb3a4b6a60dc60a955167cf1d718.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/71/ddbe824c7bec7426ba4fc3f4617e4d71.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/2d/1ae6689b446099189b79ce57cbc53b2d.jpeg"
+          "https://i129.fastpic.org/thumb/2026/1024/13/bfe7d41af52735bd02b82f85b417ff13.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/2c/12401a0ed32f2e7b9e95d1b04283eb2c.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f2/99e453f9d7bcaf3632cefa3004f2aaf2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/7d/94ab5ae47be7ef25f405a3f32b62617d.jpeg"
         ],
         "description": "Metal Gear Rising: Revengeance ist ein Action-Adventure-Slasher-Film, der von PlatinumGames und Kojima Productions entwickelt und 2013 von Konami veröffentlicht wurde.\nDie Ereignisse finden vier Jahre nach Metal Gear Solid 4: Guns of the Patriots statt. Die Hauptfigur ist der Cyborg-Ninja Raiden, der mit einem Hochfrequenz-Katana gegen die private Militärorganisation Desperado Enforcement kämpft.\nDer Fokus des Gameplays liegt auf dynamischen Kämpfen, Schlagkombinationen, Parierangriffen und dem Klingenmodus, der es Ihnen ermöglicht, die Zeit zu verlangsamen und Feinde und Objekte mit hoher Präzision zu zerschneiden. Im Gegensatz zu den meisten Metal Gear-Spielen liegt der Fokus hier eher auf rasanter Action als auf Stealth.",
+        "title_id": null
+      },
+      {
+        "title": "Prototype (Port ) [NRO][RUS/ENG]",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:0446C10544DB78D2706869246BA81F443982192B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923419",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923419",
+        "year": "2009",
+        "genre": "Action, Homebrew",
+        "developer": "Radical Entertainment",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russisch, Englisch [RUS/ENG]",
+        "voice_lang": "Englisch",
+        "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Nein",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923419.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1015/12/82d7bb4bb89d9fde1fdcea43797ecc12.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/db/991a50fd1f045e2ad32f9057388479db.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/3c/8349b52a999ff82826134e056070823c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/b9/e596532d2114dc7a3b8f90503510b6b9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/0a/b660f0fb58de214b61712ac5847d900a.jpeg"
+        ],
+        "description": "Mankhetten okhvachen virusom. Aleks Merser prikhodit v sebya v morge korporatsii «Gentek» bez pamyati o proshlom — i s telom, sposobnym pogloshchat lyudey, perenimat ikh oblik, vospominaniya i navyki. Poka ulitsy zakhvatyvayut zarazhyonnye, a voennye iz «Chyornogo dozora» zachishchayut gorod vmeste s zhitelyami, Aleks sobiraet po kusochkam pravdu o tom, kto on takoy i kto vypustil zarazu. Begayte po stenam neboskryobov, prygayte cherez kvartaly, prevrashchayte ruki v kogti, klinki i shchity, ugonyayte tanki i vertolyoty — Nyu-York tselikom stanovitsya polem boya.",
         "title_id": null
       },
       {
@@ -3166,9 +3416,33 @@
     ],
     "it": [
       {
+        "title": "Silent Hill: Downpour (homebrew)",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:D2FEC93757DAD4ADEE4B5C58F094D68806AD35FB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6927373",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6927373",
+        "year": "2012",
+        "genre": "Survival horror, Homebrew",
+        "developer": "Vatra Games",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russo, Inglese [RUS/ENG]",
+        "voice_lang": "Inglese",
+        "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6927373.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1024/a2/98a106b762b4f238676839060732efa2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f4/4771d5ad92e7a4d01fbd80da0c5e9df4.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/6b/bdd7780a713461489b37a7f738236c6b.jpeg"
+        ],
+        "description": "Un autobus della prigione si schianta mentre esce da Rikers, lasciando il prigioniero Murphy Pendleton da solo sulla strada fuori Silent Hill. La città lo accoglie con la pioggia, che sfuma il confine tra la realtà e qualcos'altro: appena l'acquazzone si intensifica, le strade si riscrivono di nuovo, e dalla nebbia esce fuori ciò che la città ha tirato fuori dalla sua memoria. Murphy sta cercando una via d'uscita e lungo la strada scopre per cosa è stato veramente imprigionato.",
+        "title_id": null
+      },
+      {
         "title": "Metal Gear Rising Revengeance (homebrew) [NRO][RUS/Multi8]",
-        "size": "7.78 GB",
-        "magnet": "magnet:?xt=urn:btih:2771B05E8635001BDEE581FF1C33303E9B3542D7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "7.79 GB",
+        "magnet": "magnet:?xt=urn:btih:826003642219E7064D4923809696DC3C1379EE81&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926954",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926954",
         "year": "2013",
@@ -3187,12 +3461,38 @@
           "https://i129.fastpic.org/thumb/2026/1023/1d/00fa157b5b44f98fb97d8fd77c38d01d.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/c8/f55d7f09da3e2043858fcbb3c062b0c8.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/97/77ab1f145768975c153da1c911d8e597.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/3e/d769ee6604090704d4c81999d6746e3e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/18/bc4deb3a4b6a60dc60a955167cf1d718.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/71/ddbe824c7bec7426ba4fc3f4617e4d71.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/2d/1ae6689b446099189b79ce57cbc53b2d.jpeg"
+          "https://i129.fastpic.org/thumb/2026/1024/13/bfe7d41af52735bd02b82f85b417ff13.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/2c/12401a0ed32f2e7b9e95d1b04283eb2c.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f2/99e453f9d7bcaf3632cefa3004f2aaf2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/7d/94ab5ae47be7ef25f405a3f32b62617d.jpeg"
         ],
         "description": "Metal Gear Rising: Revengeance è un film slasher di azione e avventura sviluppato da PlatinumGames e Kojima Productions e pubblicato da Konami nel 2013.\nGli eventi si svolgono quattro anni dopo Metal Gear Solid 4: Guns of the Patriots. Il personaggio principale è il ninja cyborg Raiden, che combatte l'organizzazione militare privata Desperado Enforcement utilizzando una katana ad alta frequenza.\nIl gameplay è incentrato su battaglie dinamiche, combinazioni di colpi, parate di attacchi e modalità Blade, che ti consente di rallentare il tempo e tagliare nemici e oggetti con elevata precisione. A differenza della maggior parte dei giochi Metal Gear, qui il focus è sull'azione frenetica piuttosto che sulla furtività.",
+        "title_id": null
+      },
+      {
+        "title": "Prototype (port ) [NRO][RUS/ENG]",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:0446C10544DB78D2706869246BA81F443982192B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923419",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923419",
+        "year": "2009",
+        "genre": "Action, Homebrew",
+        "developer": "Radical Entertainment",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russo, Inglese [RUS/ENG]",
+        "voice_lang": "Inglese",
+        "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923419.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1015/12/82d7bb4bb89d9fde1fdcea43797ecc12.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/db/991a50fd1f045e2ad32f9057388479db.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/3c/8349b52a999ff82826134e056070823c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/b9/e596532d2114dc7a3b8f90503510b6b9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/0a/b660f0fb58de214b61712ac5847d900a.jpeg"
+        ],
+        "description": "Mankhetten okhvachen virusom. Aleks Merser prikhodit v sebya v morge korporatsii «Gentek» bez pamyati o proshlom — i s telom, sposobnym pogloshchat lyudey, perenimat ikh oblik, vospominaniya i navyki. Poka ulitsy zakhvatyvayut zarazhyonnye, a voennye iz «Chyornogo dozora» zachishchayut gorod vmeste s zhitelyami, Aleks sobiraet po kusochkam pravdu o tom, kto on takoy i kto vypustil zarazu. Begayte po stenam neboskryobov, prygayte cherez kvartaly, prevrashchayte ruki v kogti, klinki i shchity, ugonyayte tanki i vertolyoty — Nyu-York tselikom stanovitsya polem boya.",
         "title_id": null
       },
       {
@@ -3798,9 +4098,33 @@
     ],
     "pt_br": [
       {
+        "title": "Silent Hill: Downpour (homebrew)",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:D2FEC93757DAD4ADEE4B5C58F094D68806AD35FB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6927373",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6927373",
+        "year": "2012",
+        "genre": "Survival horror, Homebrew",
+        "developer": "Vatra Games",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russo, Inglês [RUS/ENG]",
+        "voice_lang": "Inglês",
+        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Não",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6927373.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1024/a2/98a106b762b4f238676839060732efa2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f4/4771d5ad92e7a4d01fbd80da0c5e9df4.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/6b/bdd7780a713461489b37a7f738236c6b.jpeg"
+        ],
+        "description": "Um ônibus da prisão bate na saída de Rikers, deixando o prisioneiro Murphy Pendleton sozinho na estrada nos arredores de Silent Hill. A cidade o saúda com a chuva, que confunde a fronteira entre a realidade e outra coisa: assim que o aguaceiro se intensifica, as ruas se reescrevem e do nevoeiro sai o que a cidade arrancou de sua memória. Murphy está procurando uma saída e no caminho descobre por que realmente foi preso.",
+        "title_id": null
+      },
+      {
         "title": "Metal Gear Rising Revengeance (homebrew) [NRO][RUS/Multi8]",
-        "size": "7.78 GB",
-        "magnet": "magnet:?xt=urn:btih:2771B05E8635001BDEE581FF1C33303E9B3542D7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "7.79 GB",
+        "magnet": "magnet:?xt=urn:btih:826003642219E7064D4923809696DC3C1379EE81&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926954",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926954",
         "year": "2013",
@@ -3819,12 +4143,38 @@
           "https://i129.fastpic.org/thumb/2026/1023/1d/00fa157b5b44f98fb97d8fd77c38d01d.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/c8/f55d7f09da3e2043858fcbb3c062b0c8.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/97/77ab1f145768975c153da1c911d8e597.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/3e/d769ee6604090704d4c81999d6746e3e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/18/bc4deb3a4b6a60dc60a955167cf1d718.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/71/ddbe824c7bec7426ba4fc3f4617e4d71.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/2d/1ae6689b446099189b79ce57cbc53b2d.jpeg"
+          "https://i129.fastpic.org/thumb/2026/1024/13/bfe7d41af52735bd02b82f85b417ff13.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/2c/12401a0ed32f2e7b9e95d1b04283eb2c.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f2/99e453f9d7bcaf3632cefa3004f2aaf2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/7d/94ab5ae47be7ef25f405a3f32b62617d.jpeg"
         ],
         "description": "Metal Gear Rising: Revengeance é um filme de ação e aventura desenvolvido pela PlatinumGames e Kojima Productions e publicado pela Konami em 2013.\nOs eventos acontecem quatro anos depois de Metal Gear Solid 4: Guns of the Patriots. O personagem principal é o ninja ciborgue Raiden, que luta contra a organização militar privada Desperado Enforcement usando uma katana de alta frequência.\nA jogabilidade é focada em batalhas dinâmicas, combinações de golpes, aparas de ataques e Blade Mode, que permite desacelerar o tempo e cortar inimigos e objetos com alta precisão. Ao contrário da maioria dos jogos Metal Gear, o foco aqui é a ação rápida, em vez da ação furtiva.",
+        "title_id": null
+      },
+      {
+        "title": "Prototype (port ) [NRO][RUS/ENG]",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:0446C10544DB78D2706869246BA81F443982192B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923419",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923419",
+        "year": "2009",
+        "genre": "Action, Homebrew",
+        "developer": "Radical Entertainment",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russo, Inglês [RUS/ENG]",
+        "voice_lang": "Inglês",
+        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Não",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923419.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1015/12/82d7bb4bb89d9fde1fdcea43797ecc12.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/db/991a50fd1f045e2ad32f9057388479db.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/3c/8349b52a999ff82826134e056070823c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/b9/e596532d2114dc7a3b8f90503510b6b9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/0a/b660f0fb58de214b61712ac5847d900a.jpeg"
+        ],
+        "description": "Mankhetten okhvachen virusom. Aleks Merser prikhodit v sebya v morge korporatsii «Gentek» bez pamyati o proshlom — i s telom, sposobnym pogloshchat lyudey, perenimat ikh oblik, vospominaniya i navyki. Poka ulitsy zakhvatyvayut zarazhyonnye, a voennye iz «Chyornogo dozora» zachishchayut gorod vmeste s zhitelyami, Aleks sobiraet po kusochkam pravdu o tom, kto on takoy i kto vypustil zarazu. Begayte po stenam neboskryobov, prygayte cherez kvartaly, prevrashchayte ruki v kogti, klinki i shchity, ugonyayte tanki i vertolyoty — Nyu-York tselikom stanovitsya polem boya.",
         "title_id": null
       },
       {
@@ -4430,9 +4780,33 @@
     ],
     "zh_hans": [
       {
+        "title": "Silent Hill: Downpour (自制程序)",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:D2FEC93757DAD4ADEE4B5C58F094D68806AD35FB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6927373",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6927373",
+        "year": "2012",
+        "genre": "Survival horror, Homebrew",
+        "developer": "Vatra Games",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "俄语, 英语 [RUS/ENG]",
+        "voice_lang": "英语",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6927373.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1024/a2/98a106b762b4f238676839060732efa2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f4/4771d5ad92e7a4d01fbd80da0c5e9df4.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/6b/bdd7780a713461489b37a7f738236c6b.jpeg"
+        ],
+        "description": "一辆监狱巴士在离开赖克斯监狱的路上发生车祸，囚犯墨菲·彭德尔顿独自留在寂静岭外的路上。这座城市用雨迎接他，模糊了现实与其他事物的界限：倾盆大雨一加大，街道就被重新改写，从迷雾中浮现出这座城市从他的记忆中拉出来的东西。墨菲正在寻找出路，并一路上发现了自己被监禁的真正原因。",
+        "title_id": null
+      },
+      {
         "title": "Metal Gear Rising Revengeance (自制程序) [NRO][RUS/Multi8]",
-        "size": "7.78 GB",
-        "magnet": "magnet:?xt=urn:btih:2771B05E8635001BDEE581FF1C33303E9B3542D7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "7.79 GB",
+        "magnet": "magnet:?xt=urn:btih:826003642219E7064D4923809696DC3C1379EE81&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926954",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926954",
         "year": "2013",
@@ -4451,12 +4825,38 @@
           "https://i129.fastpic.org/thumb/2026/1023/1d/00fa157b5b44f98fb97d8fd77c38d01d.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/c8/f55d7f09da3e2043858fcbb3c062b0c8.jpeg",
           "https://i129.fastpic.org/thumb/2026/1023/97/77ab1f145768975c153da1c911d8e597.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/3e/d769ee6604090704d4c81999d6746e3e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/18/bc4deb3a4b6a60dc60a955167cf1d718.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/71/ddbe824c7bec7426ba4fc3f4617e4d71.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1024/2d/1ae6689b446099189b79ce57cbc53b2d.jpeg"
+          "https://i129.fastpic.org/thumb/2026/1024/13/bfe7d41af52735bd02b82f85b417ff13.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/2c/12401a0ed32f2e7b9e95d1b04283eb2c.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/f2/99e453f9d7bcaf3632cefa3004f2aaf2.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1024/7d/94ab5ae47be7ef25f405a3f32b62617d.jpeg"
         ],
         "description": "《合金装备崛起：复仇》是一部由 PlatinumGames 和 Kojima Productions 开发、Konami 于 2013 年发行的动作冒险恐怖电影。\n事件发生在《合金装备 4：爱国者之枪》四年后。主角是半机械人忍者雷电，他使用高频武士刀对抗私人军事组织亡命之徒执行队。\n游戏玩法侧重于动态战斗、打击、格挡攻击的组合和刀片模式，它可以让你放慢时间并高精度地切割敌人和物体。与大多数《合金装备》游戏不同，这里的重点是快节奏的动作而不是潜行。",
+        "title_id": null
+      },
+      {
+        "title": "Prototype (移植版 ) [NRO][RUS/ENG]",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:0446C10544DB78D2706869246BA81F443982192B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6923419",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6923419",
+        "year": "2009",
+        "genre": "Action, Homebrew",
+        "developer": "Radical Entertainment",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "俄语, 英语 [RUS/ENG]",
+        "voice_lang": "英语",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6923419.jpg",
+        "screenshots": [
+          "https://i128.fastpic.org/thumb/2026/1015/12/82d7bb4bb89d9fde1fdcea43797ecc12.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/db/991a50fd1f045e2ad32f9057388479db.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/3c/8349b52a999ff82826134e056070823c.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/b9/e596532d2114dc7a3b8f90503510b6b9.jpeg",
+          "https://i128.fastpic.org/thumb/2026/1015/0a/b660f0fb58de214b61712ac5847d900a.jpeg"
+        ],
+        "description": "Mankhetten okhvachen virusom. Aleks Merser prikhodit v sebya v morge korporatsii «Gentek» bez pamyati o proshlom — i s telom, sposobnym pogloshchat lyudey, perenimat ikh oblik, vospominaniya i navyki. Poka ulitsy zakhvatyvayut zarazhyonnye, a voennye iz «Chyornogo dozora» zachishchayut gorod vmeste s zhitelyami, Aleks sobiraet po kusochkam pravdu o tom, kto on takoy i kto vypustil zarazu. Begayte po stenam neboskryobov, prygayte cherez kvartaly, prevrashchayte ruki v kogti, klinki i shchity, ugonyayte tanki i vertolyoty — Nyu-York tselikom stanovitsya polem boya.",
         "title_id": null
       },
       {

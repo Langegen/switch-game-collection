@@ -1,5 +1,29 @@
 [
     {
+        "title": "Silent Hill: Downpour (homebrew)",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:D2FEC93757DAD4ADEE4B5C58F094D68806AD35FB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6927373",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6927373",
+        "year": "2012",
+        "genre": "Survival horror, Homebrew",
+        "developer": "Vatra Games",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russe, Anglais [RUS/ENG]",
+        "voice_lang": "Anglais",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6927373.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1024/a2/98a106b762b4f238676839060732efa2.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1024/f4/4771d5ad92e7a4d01fbd80da0c5e9df4.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1024/6b/bdd7780a713461489b37a7f738236c6b.jpeg"
+        ],
+        "description": "Un bus de la prison s'écrase à la sortie de Rikers, laissant le prisonnier Murphy Pendleton seul sur la route à l'extérieur de Silent Hill. La ville l'accueille avec la pluie, qui brouille la frontière entre la réalité et autre chose : dès que l'averse s'intensifie, les rues se réécrivent à nouveau, et du brouillard sort ce que la ville a retiré de sa mémoire. Murphy cherche une issue et découvre en chemin pourquoi il a réellement été emprisonné.",
+        "title_id": null
+    },
+    {
         "title": "Gears of War 2 (portage ) [NRO][RUS/Multi12]",
         "size": "7.45 GB",
         "magnet": "magnet:?xt=urn:btih:6EB0A28B26491A8F4B6A3554BAA60D08647AA818&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -31,8 +55,8 @@
     },
     {
         "title": "Metal Gear Rising Revengeance (homebrew) [NRO][RUS/Multi8]",
-        "size": "7.78 GB",
-        "magnet": "magnet:?xt=urn:btih:2771B05E8635001BDEE581FF1C33303E9B3542D7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "7.79 GB",
+        "magnet": "magnet:?xt=urn:btih:826003642219E7064D4923809696DC3C1379EE81&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6926954",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6926954",
         "year": "2013",
@@ -51,10 +75,10 @@
             "https://i129.fastpic.org/thumb/2026/1023/1d/00fa157b5b44f98fb97d8fd77c38d01d.jpeg",
             "https://i129.fastpic.org/thumb/2026/1023/c8/f55d7f09da3e2043858fcbb3c062b0c8.jpeg",
             "https://i129.fastpic.org/thumb/2026/1023/97/77ab1f145768975c153da1c911d8e597.jpeg",
-            "https://i129.fastpic.org/thumb/2026/1024/3e/d769ee6604090704d4c81999d6746e3e.jpeg",
-            "https://i129.fastpic.org/thumb/2026/1024/18/bc4deb3a4b6a60dc60a955167cf1d718.jpeg",
-            "https://i129.fastpic.org/thumb/2026/1024/71/ddbe824c7bec7426ba4fc3f4617e4d71.jpeg",
-            "https://i129.fastpic.org/thumb/2026/1024/2d/1ae6689b446099189b79ce57cbc53b2d.jpeg"
+            "https://i129.fastpic.org/thumb/2026/1024/13/bfe7d41af52735bd02b82f85b417ff13.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1024/2c/12401a0ed32f2e7b9e95d1b04283eb2c.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1024/f2/99e453f9d7bcaf3632cefa3004f2aaf2.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1024/7d/94ab5ae47be7ef25f405a3f32b62617d.jpeg"
         ],
         "description": "Metal Gear Rising : Revengeance est un film slasher d'action-aventure développé par PlatinumGames et Kojima Productions et publié par Konami en 2013.\nLes événements se déroulent quatre ans après Metal Gear Solid 4 : Guns of the Patriots. Le personnage principal est le ninja cyborg Raiden, qui combat l'organisation militaire privée Desperado Enforcement à l'aide d'un katana à haute fréquence.\nLe gameplay est axé sur des batailles dynamiques, des combinaisons de coups, des attaques de parade et le mode Lame, qui vous permet de ralentir le temps et de couper les ennemis et les objets avec une grande précision. Contrairement à la plupart des jeux Metal Gear, l'accent est mis ici sur l'action rapide plutôt que sur la furtivité.",
         "title_id": null
@@ -760,8 +784,8 @@
     },
     {
         "title": "Prototype (portage ) [NRO][RUS/ENG]",
-        "size": "7.06 GB",
-        "magnet": "magnet:?xt=urn:btih:B99F78A867719151988457376B4F5A5FFBDCEF84&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "6.91 GB",
+        "magnet": "magnet:?xt=urn:btih:0446C10544DB78D2706869246BA81F443982192B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6923419",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6923419",
         "year": "2009",
