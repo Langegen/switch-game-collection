@@ -1,10 +1,37 @@
 {
   "version": 1,
-  "generated_at": 1793271279,
+  "generated_at": 1793292785,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
     "ru": [
+      {
+        "title": "Петька и Василий Иванович 2: Судный день (порт Red Comrades 2: For the Great Justice) [NRO][RUS]",
+        "size": "520.5 MB",
+        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928574",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
+        "year": "1999",
+        "genre": "Point & Click, Homebrew",
+        "developer": "S.K.I.F., Eltechs, Бука",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Русский [RUS]",
+        "voice_lang": "Русская",
+        "performance": "Да",
+        "multiplayer": "Нет",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
+        ],
+        "description": "Петька и Василий Иванович 2: Судный день (также известная как Петька и ВИЧ 2: Судный день,ПиВИЧ 2) — компьютерная игра в жанре квеста, разработанная компанией S.K.I.F. и выпущенная компанией «Бука» для операционной системы Windows 30 сентября 1999 года. Является прямым продолжением игры «Петька и Василий Иванович спасают галактику» и второй в серии «Петька и Василий Иванович». Это последняя игра, разработанная S.K.I.F.; после этого «Бука», владеющая правами на игру, передала разработку компании «Сатурн-плюс».\n28 мая 2015 года игра была портирована для iOS компанией Komar Games. 20 августа того же года вышел порт для Android, разработанный той же компанией. 26 августа «Бука» объявила о выходе английской версии «Петьки 2» под названием Red Comrades 2: For the Great Justice. 14 октября 2016 года было выпущено переиздание Петька и Василий Иванович 2: Судный день. Перезагрузка для современных версий операционной системы Windows и широкоформатных мониторов, также доступное с английскими субтитрами под названием Red Comrades: For the Great Justice. Reloaded.",
+        "title_id": null
+      },
       {
         "title": "NOX",
         "size": "1.52 GB",
@@ -116,33 +143,6 @@
         "title_id": null
       },
       {
-        "title": "Петька и Василий Иванович 2 - Судный день (порт Red Comrades 2: For the Great Justice) [NRO][RUS]",
-        "size": "520.5 MB",
-        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928574",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
-        "year": "1999",
-        "genre": "Point & Click, Homebrew",
-        "developer": "S.K.I.F., Eltechs, Бука",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Русский [RUS]",
-        "voice_lang": "Русская",
-        "performance": "Да",
-        "multiplayer": "Нет",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
-        ],
-        "description": "Петька и Василий Иванович 2: Судный день (также известная как Петька и ВИЧ 2: Судный день,ПиВИЧ 2) — компьютерная игра в жанре квеста, разработанная компанией S.K.I.F. и выпущенная компанией «Бука» для операционной системы Windows 30 сентября 1999 года. Является прямым продолжением игры «Петька и Василий Иванович спасают галактику» и второй в серии «Петька и Василий Иванович». Это последняя игра, разработанная S.K.I.F.; после этого «Бука», владеющая правами на игру, передала разработку компании «Сатурн-плюс».\n28 мая 2015 года игра была портирована для iOS компанией Komar Games. 20 августа того же года вышел порт для Android, разработанный той же компанией. 26 августа «Бука» объявила о выходе английской версии «Петьки 2» под названием Red Comrades 2: For the Great Justice. 14 октября 2016 года было выпущено переиздание Петька и Василий Иванович 2: Судный день. Перезагрузка для современных версий операционной системы Windows и широкоформатных мониторов, также доступное с английскими субтитрами под названием Red Comrades: For the Great Justice. Reloaded.",
-        "title_id": null
-      },
-      {
         "title": "Think of the Children [NSZ][ENG]",
         "size": "492.3 MB",
         "magnet": "magnet:?xt=urn:btih:65EC4ABA306FE404C717402A56A930FAFBD84B33&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -195,6 +195,33 @@
       }
     ],
     "en": [
+      {
+        "title": "Petka i Vasiliĭ Ivanovich 2: Sudnyy den (port Red Comrades 2: For the Great Justice) [NRO][RUS]",
+        "size": "520.5 MB",
+        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928574",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
+        "year": "1999",
+        "genre": "Point & Click, Homebrew",
+        "developer": "S.K.I.F., Eltechs, Buka",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Russian [RUS]",
+        "voice_lang": "Russian",
+        "performance": "Yes",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
+        ],
+        "description": "Petka and Vasily Ivanovich 2: Judgment Day (also known as Petka and HIV 2: Judgment Day, PIVIC 2) is a computer game in the quest genre developed by S.K.I.F. and released by the Buka company for the Windows operating system on September 30, 1999. It is a direct continuation of the game “Petka and Vasily Ivanovich save the galaxy” and the second in the “Petka and Vasily Ivanovich” series. This is the latest game developed by S.K.I.F.; after that, Buka, which owns the rights to the game, transferred the development to Saturn Plus.\nOn May 28, 2015, the game was ported to iOS by Komar Games. On August 20 of the same year, a port for Android, developed by the same company, was released. On August 26, Buka announced the release of the English version of Petka 2 called Red Comrades 2: For the Great Justice. On October 14, 2016, a re-release of Petka and Vasily Ivanovich 2: Judgment Day was released. A reboot for modern versions of the Windows operating system and widescreen monitors, also available with English subtitles as Red Comrades: For the Great Justice. Reloaded.",
+        "title_id": null
+      },
       {
         "title": "NOX",
         "size": "1.52 GB",
@@ -306,33 +333,6 @@
         "title_id": null
       },
       {
-        "title": "Petka i Vasiliĭ Ivanovich 2 - Sudnyy den (port Red Comrades 2: For the Great Justice) [NRO][RUS]",
-        "size": "520.5 MB",
-        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928574",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
-        "year": "1999",
-        "genre": "Point & Click, Homebrew",
-        "developer": "S.K.I.F., Eltechs, Buka",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Russian [RUS]",
-        "voice_lang": "Russian",
-        "performance": "Yes",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
-        ],
-        "description": "Petka and Vasily Ivanovich 2: Judgment Day (also known as Petka and HIV 2: Judgment Day, PIVIC 2) is a computer game in the quest genre developed by S.K.I.F. and released by the Buka company for the Windows operating system on September 30, 1999. It is a direct continuation of the game “Petka and Vasily Ivanovich save the galaxy” and the second in the “Petka and Vasily Ivanovich” series. This is the latest game developed by S.K.I.F.; after that, Buka, which owns the rights to the game, transferred the development to Saturn Plus.\nOn May 28, 2015, the game was ported to iOS by Komar Games. On August 20 of the same year, a port for Android, developed by the same company, was released. On August 26, Buka announced the release of the English version of Petka 2 called Red Comrades 2: For the Great Justice. On October 14, 2016, a re-release of Petka and Vasily Ivanovich 2: Judgment Day was released. A reboot for modern versions of the Windows operating system and widescreen monitors, also available with English subtitles as Red Comrades: For the Great Justice. Reloaded.",
-        "title_id": null
-      },
-      {
         "title": "Think of the Children [NSZ][ENG]",
         "size": "492.3 MB",
         "magnet": "magnet:?xt=urn:btih:65EC4ABA306FE404C717402A56A930FAFBD84B33&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -385,6 +385,33 @@
       }
     ],
     "es": [
+      {
+        "title": "Petka i Vasiliĭ Ivanovich 2: Sudnyy den (port Red Comrades 2: For the Great Justice) [NRO][RUS]",
+        "size": "520.5 MB",
+        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928574",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
+        "year": "1999",
+        "genre": "Point & Click, Homebrew",
+        "developer": "S.K.I.F., Eltechs, Buka",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Ruso [RUS]",
+        "voice_lang": "Ruso",
+        "performance": "Sí",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
+        ],
+        "description": "Petka y Vasily Ivanovich 2: Judgment Day (también conocido como Petka y VIH 2: Judgment Day, PIVIC 2) es un juego de ordenador del género de misiones desarrollado por S.K.I.F. y lanzado por la empresa Buka para el sistema operativo Windows el 30 de septiembre de 1999. Es una continuación directa del juego \"Petka y Vasily Ivanovich salvan la galaxia\" y el segundo de la serie \"Petka y Vasily Ivanovich\". Este es el último juego desarrollado por S.K.I.F.; Después de eso, Buka, propietaria de los derechos del juego, transfirió el desarrollo a Saturn Plus.\nEl 28 de mayo de 2015, Komar Games portó el juego a iOS. El 20 de agosto del mismo año se lanzó un port para Android, desarrollado por la misma empresa. El 26 de agosto, Buka anunció el lanzamiento de la versión en inglés de Petka 2 llamada Red Comrades 2: For the Great Justice. El 14 de octubre de 2016 se estrenó una reedición de Petka y Vasily Ivanovich 2: El día del juicio final. Un reinicio para versiones modernas del sistema operativo Windows y monitores de pantalla ancha, también disponible con subtítulos en inglés como Red Comrades: For the Great Justice. Recargado.",
+        "title_id": null
+      },
       {
         "title": "NOX",
         "size": "1.52 GB",
@@ -496,33 +523,6 @@
         "title_id": null
       },
       {
-        "title": "Petka i Vasiliĭ Ivanovich 2 - Sudnyy den (port Red Comrades 2: For the Great Justice) [NRO][RUS]",
-        "size": "520.5 MB",
-        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928574",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
-        "year": "1999",
-        "genre": "Point & Click, Homebrew",
-        "developer": "S.K.I.F., Eltechs, Buka",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Ruso [RUS]",
-        "voice_lang": "Ruso",
-        "performance": "Sí",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
-        ],
-        "description": "Petka y Vasily Ivanovich 2: Judgment Day (también conocido como Petka y VIH 2: Judgment Day, PIVIC 2) es un juego de ordenador del género de misiones desarrollado por S.K.I.F. y lanzado por la empresa Buka para el sistema operativo Windows el 30 de septiembre de 1999. Es una continuación directa del juego \"Petka y Vasily Ivanovich salvan la galaxia\" y el segundo de la serie \"Petka y Vasily Ivanovich\". Este es el último juego desarrollado por S.K.I.F.; Después de eso, Buka, propietaria de los derechos del juego, transfirió el desarrollo a Saturn Plus.\nEl 28 de mayo de 2015, Komar Games portó el juego a iOS. El 20 de agosto del mismo año se lanzó un port para Android, desarrollado por la misma empresa. El 26 de agosto, Buka anunció el lanzamiento de la versión en inglés de Petka 2 llamada Red Comrades 2: For the Great Justice. El 14 de octubre de 2016 se estrenó una reedición de Petka y Vasily Ivanovich 2: El día del juicio final. Un reinicio para versiones modernas del sistema operativo Windows y monitores de pantalla ancha, también disponible con subtítulos en inglés como Red Comrades: For the Great Justice. Recargado.",
-        "title_id": null
-      },
-      {
         "title": "Think of the Children [NSZ][ENG]",
         "size": "492.3 MB",
         "magnet": "magnet:?xt=urn:btih:65EC4ABA306FE404C717402A56A930FAFBD84B33&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -575,6 +575,33 @@
       }
     ],
     "fr": [
+      {
+        "title": "Petka i Vasiliĭ Ivanovich 2: Sudnyy den (portage Red Comrades 2: For the Great Justice) [NRO][RUS]",
+        "size": "520.5 MB",
+        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928574",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
+        "year": "1999",
+        "genre": "Point & Click, Homebrew",
+        "developer": "S.K.I.F., Eltechs, Buka",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Russe [RUS]",
+        "voice_lang": "Russe",
+        "performance": "Oui",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
+        ],
+        "description": "Petka et Vasily Ivanovich 2 : Judgment Day (également connu sous le nom de Petka and HIV 2 : Judgment Day, PIVIC 2) est un jeu informatique du genre quête développé par S.K.I.F. et publié par la société Buka pour le système d'exploitation Windows le 30 septembre 1999. Il s'agit d'une continuation directe du jeu « Petka et Vasily Ivanovich sauvent la galaxie » et du deuxième de la série « Petka et Vasily Ivanovich ». Il s'agit du dernier jeu développé par S.K.I.F. ; après cela, Buka, qui détient les droits du jeu, a transféré le développement à Saturn Plus.\nLe 28 mai 2015, le jeu a été porté sur iOS par Komar Games. Le 20 août de la même année, un portage pour Android, développé par la même société, est sorti. Le 26 août, Buka a annoncé la sortie de la version anglaise de Petka 2 intitulée Red Comrades 2 : For the Great Justice. Le 14 octobre 2016, une réédition de Petka et Vasily Ivanovich 2 : Judgment Day a été publiée. Un redémarrage pour les versions modernes du système d'exploitation Windows et des moniteurs grand écran, également disponible avec des sous-titres anglais sous le titre Red Comrades: For the Great Justice. Rechargé.",
+        "title_id": null
+      },
       {
         "title": "NOX",
         "size": "1.52 GB",
@@ -686,33 +713,6 @@
         "title_id": null
       },
       {
-        "title": "Petka i Vasiliĭ Ivanovich 2 - Sudnyy den (portage Red Comrades 2: For the Great Justice) [NRO][RUS]",
-        "size": "520.5 MB",
-        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928574",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
-        "year": "1999",
-        "genre": "Point & Click, Homebrew",
-        "developer": "S.K.I.F., Eltechs, Buka",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Russe [RUS]",
-        "voice_lang": "Russe",
-        "performance": "Oui",
-        "multiplayer": "Non",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
-        ],
-        "description": "Petka et Vasily Ivanovich 2 : Judgment Day (également connu sous le nom de Petka and HIV 2 : Judgment Day, PIVIC 2) est un jeu informatique du genre quête développé par S.K.I.F. et publié par la société Buka pour le système d'exploitation Windows le 30 septembre 1999. Il s'agit d'une continuation directe du jeu « Petka et Vasily Ivanovich sauvent la galaxie » et du deuxième de la série « Petka et Vasily Ivanovich ». Il s'agit du dernier jeu développé par S.K.I.F. ; après cela, Buka, qui détient les droits du jeu, a transféré le développement à Saturn Plus.\nLe 28 mai 2015, le jeu a été porté sur iOS par Komar Games. Le 20 août de la même année, un portage pour Android, développé par la même société, est sorti. Le 26 août, Buka a annoncé la sortie de la version anglaise de Petka 2 intitulée Red Comrades 2 : For the Great Justice. Le 14 octobre 2016, une réédition de Petka et Vasily Ivanovich 2 : Judgment Day a été publiée. Un redémarrage pour les versions modernes du système d'exploitation Windows et des moniteurs grand écran, également disponible avec des sous-titres anglais sous le titre Red Comrades: For the Great Justice. Rechargé.",
-        "title_id": null
-      },
-      {
         "title": "Think of the Children [NSZ][ENG]",
         "size": "492.3 MB",
         "magnet": "magnet:?xt=urn:btih:65EC4ABA306FE404C717402A56A930FAFBD84B33&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -765,6 +765,33 @@
       }
     ],
     "de": [
+      {
+        "title": "Petka i Vasiliĭ Ivanovich 2: Sudnyy den (Port Red Comrades 2: For the Great Justice) [NRO][RUS]",
+        "size": "520.5 MB",
+        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928574",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
+        "year": "1999",
+        "genre": "Point & Click, Homebrew",
+        "developer": "S.K.I.F., Eltechs, Buka",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Russisch [RUS]",
+        "voice_lang": "Russisch",
+        "performance": "Ja",
+        "multiplayer": "Nein",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
+        ],
+        "description": "Petka und Vasily Ivanovich 2: Judgement Day (auch bekannt als Petka and HIV 2: Judgement Day, PIVIC 2) ist ein Computerspiel im Quest-Genre, das von S.K.I.F. entwickelt wurde. und am 30. September 1999 von der Firma Buka für das Windows-Betriebssystem veröffentlicht. Es ist eine direkte Fortsetzung des Spiels „Petka und Wassili Iwanowitsch retten die Galaxie“ und das zweite in der Reihe „Petka und Wassili Iwanowitsch“. Dies ist das neueste von S.K.I.F. entwickelte Spiel; Danach übertrug Buka, das die Rechte an dem Spiel besitzt, die Entwicklung an Saturn Plus.\nAm 28. Mai 2015 wurde das Spiel von Komar Games auf iOS portiert. Am 20. August desselben Jahres wurde eine von derselben Firma entwickelte Portierung für Android veröffentlicht. Am 26. August kündigte Buka die Veröffentlichung der englischen Version von Petka 2 mit dem Titel Red Comrades 2: For the Great Justice an. Am 14. Oktober 2016 erschien eine Neuveröffentlichung von Petka und Wassili Iwanowitsch 2: Tag der Abrechnung. Ein Neustart für moderne Versionen des Windows-Betriebssystems und Breitbildmonitore, auch mit englischen Untertiteln als Red Comrades: For the Great Justice erhältlich. Neu geladen.",
+        "title_id": null
+      },
       {
         "title": "NOX",
         "size": "1.52 GB",
@@ -876,33 +903,6 @@
         "title_id": null
       },
       {
-        "title": "Petka i Vasiliĭ Ivanovich 2 - Sudnyy den (Port Red Comrades 2: For the Great Justice) [NRO][RUS]",
-        "size": "520.5 MB",
-        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928574",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
-        "year": "1999",
-        "genre": "Point & Click, Homebrew",
-        "developer": "S.K.I.F., Eltechs, Buka",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Russisch [RUS]",
-        "voice_lang": "Russisch",
-        "performance": "Ja",
-        "multiplayer": "Nein",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
-        ],
-        "description": "Petka und Vasily Ivanovich 2: Judgement Day (auch bekannt als Petka and HIV 2: Judgement Day, PIVIC 2) ist ein Computerspiel im Quest-Genre, das von S.K.I.F. entwickelt wurde. und am 30. September 1999 von der Firma Buka für das Windows-Betriebssystem veröffentlicht. Es ist eine direkte Fortsetzung des Spiels „Petka und Wassili Iwanowitsch retten die Galaxie“ und das zweite in der Reihe „Petka und Wassili Iwanowitsch“. Dies ist das neueste von S.K.I.F. entwickelte Spiel; Danach übertrug Buka, das die Rechte an dem Spiel besitzt, die Entwicklung an Saturn Plus.\nAm 28. Mai 2015 wurde das Spiel von Komar Games auf iOS portiert. Am 20. August desselben Jahres wurde eine von derselben Firma entwickelte Portierung für Android veröffentlicht. Am 26. August kündigte Buka die Veröffentlichung der englischen Version von Petka 2 mit dem Titel Red Comrades 2: For the Great Justice an. Am 14. Oktober 2016 erschien eine Neuveröffentlichung von Petka und Wassili Iwanowitsch 2: Tag der Abrechnung. Ein Neustart für moderne Versionen des Windows-Betriebssystems und Breitbildmonitore, auch mit englischen Untertiteln als Red Comrades: For the Great Justice erhältlich. Neu geladen.",
-        "title_id": null
-      },
-      {
         "title": "Think of the Children [NSZ][ENG]",
         "size": "492.3 MB",
         "magnet": "magnet:?xt=urn:btih:65EC4ABA306FE404C717402A56A930FAFBD84B33&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -955,6 +955,33 @@
       }
     ],
     "it": [
+      {
+        "title": "Petka i Vasiliĭ Ivanovich 2: Sudnyy den (port Red Comrades 2: For the Great Justice) [NRO][RUS]",
+        "size": "520.5 MB",
+        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928574",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
+        "year": "1999",
+        "genre": "Point & Click, Homebrew",
+        "developer": "S.K.I.F., Eltechs, Buka",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Russo [RUS]",
+        "voice_lang": "Russo",
+        "performance": "Sì",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
+        ],
+        "description": "Petka e Vasily Ivanovich 2: Judgment Day (noto anche come Petka e HIV 2: Judgment Day, PIVIC 2) è un gioco per computer del genere quest sviluppato da S.K.I.F. e rilasciato dalla società Buka per il sistema operativo Windows il 30 settembre 1999. È una continuazione diretta del gioco \"Petka e Vasily Ivanovich salvano la galassia\" e il secondo della serie \"Petka e Vasily Ivanovich\". Questo è l'ultimo gioco sviluppato da S.K.I.F.; successivamente Buka, che possiede i diritti del gioco, ha trasferito lo sviluppo a Saturn Plus.\nIl 28 maggio 2015, il gioco è stato portato su iOS da Komar Games. Il 20 agosto dello stesso anno fu rilasciato un port per Android, sviluppato dalla stessa azienda. Il 26 agosto, Buka ha annunciato il rilascio della versione inglese di Petka 2 chiamata Red Comrades 2: For the Great Justice. Il 14 ottobre 2016 è stata rilasciata una riedizione di Petka e Vasily Ivanovich 2: Judgment Day. Un riavvio per le versioni moderne del sistema operativo Windows e monitor widescreen, disponibile anche con sottotitoli in inglese come Red Comrades: For the Great Justice. Ricaricato.",
+        "title_id": null
+      },
       {
         "title": "NOX",
         "size": "1.52 GB",
@@ -1066,33 +1093,6 @@
         "title_id": null
       },
       {
-        "title": "Petka i Vasiliĭ Ivanovich 2 - Sudnyy den (port Red Comrades 2: For the Great Justice) [NRO][RUS]",
-        "size": "520.5 MB",
-        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928574",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
-        "year": "1999",
-        "genre": "Point & Click, Homebrew",
-        "developer": "S.K.I.F., Eltechs, Buka",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Russo [RUS]",
-        "voice_lang": "Russo",
-        "performance": "Sì",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
-        ],
-        "description": "Petka e Vasily Ivanovich 2: Judgment Day (noto anche come Petka e HIV 2: Judgment Day, PIVIC 2) è un gioco per computer del genere quest sviluppato da S.K.I.F. e rilasciato dalla società Buka per il sistema operativo Windows il 30 settembre 1999. È una continuazione diretta del gioco \"Petka e Vasily Ivanovich salvano la galassia\" e il secondo della serie \"Petka e Vasily Ivanovich\". Questo è l'ultimo gioco sviluppato da S.K.I.F.; successivamente Buka, che possiede i diritti del gioco, ha trasferito lo sviluppo a Saturn Plus.\nIl 28 maggio 2015, il gioco è stato portato su iOS da Komar Games. Il 20 agosto dello stesso anno fu rilasciato un port per Android, sviluppato dalla stessa azienda. Il 26 agosto, Buka ha annunciato il rilascio della versione inglese di Petka 2 chiamata Red Comrades 2: For the Great Justice. Il 14 ottobre 2016 è stata rilasciata una riedizione di Petka e Vasily Ivanovich 2: Judgment Day. Un riavvio per le versioni moderne del sistema operativo Windows e monitor widescreen, disponibile anche con sottotitoli in inglese come Red Comrades: For the Great Justice. Ricaricato.",
-        "title_id": null
-      },
-      {
         "title": "Think of the Children [NSZ][ENG]",
         "size": "492.3 MB",
         "magnet": "magnet:?xt=urn:btih:65EC4ABA306FE404C717402A56A930FAFBD84B33&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -1145,6 +1145,33 @@
       }
     ],
     "pt_br": [
+      {
+        "title": "Petka i Vasiliĭ Ivanovich 2: Sudnyy den (port Red Comrades 2: For the Great Justice) [NRO][RUS]",
+        "size": "520.5 MB",
+        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928574",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
+        "year": "1999",
+        "genre": "Point & Click, Homebrew",
+        "developer": "S.K.I.F., Eltechs, Buka",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Russo [RUS]",
+        "voice_lang": "Russo",
+        "performance": "Sim",
+        "multiplayer": "Não",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
+        ],
+        "description": "Petka e Vasily Ivanovich 2: Dia do Julgamento (também conhecido como Petka e HIV 2: Dia do Julgamento, PIVIC 2) é um jogo de computador do gênero quest desenvolvido pela S.K.I.F. e lançado pela empresa Buka para o sistema operacional Windows em 30 de setembro de 1999. É uma continuação direta do jogo “Petka e Vasily Ivanovich salvam a galáxia” e o segundo da série “Petka e Vasily Ivanovich”. Este é o último jogo desenvolvido pela S.K.I.F.; depois disso, a Buka, detentora dos direitos do jogo, transferiu o desenvolvimento para o Saturn Plus.\nEm 28 de maio de 2015, o jogo foi portado para iOS pela Komar Games. No dia 20 de agosto do mesmo ano, foi lançado um port para Android, desenvolvido pela mesma empresa. Em 26 de agosto, Buka anunciou o lançamento da versão em inglês de Petka 2 chamada Red Comrades 2: For the Great Justice. Em 14 de outubro de 2016, foi lançado um relançamento de Petka e Vasily Ivanovich 2: Dia do Julgamento. Uma reinicialização para versões modernas do sistema operacional Windows e monitores widescreen, também disponível com legendas em inglês como Red Comrades: For the Great Justice. Recarregado.",
+        "title_id": null
+      },
       {
         "title": "NOX",
         "size": "1.52 GB",
@@ -1256,33 +1283,6 @@
         "title_id": null
       },
       {
-        "title": "Petka i Vasiliĭ Ivanovich 2 - Sudnyy den (port Red Comrades 2: For the Great Justice) [NRO][RUS]",
-        "size": "520.5 MB",
-        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928574",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
-        "year": "1999",
-        "genre": "Point & Click, Homebrew",
-        "developer": "S.K.I.F., Eltechs, Buka",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Russo [RUS]",
-        "voice_lang": "Russo",
-        "performance": "Sim",
-        "multiplayer": "Não",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
-        ],
-        "description": "Petka e Vasily Ivanovich 2: Dia do Julgamento (também conhecido como Petka e HIV 2: Dia do Julgamento, PIVIC 2) é um jogo de computador do gênero quest desenvolvido pela S.K.I.F. e lançado pela empresa Buka para o sistema operacional Windows em 30 de setembro de 1999. É uma continuação direta do jogo “Petka e Vasily Ivanovich salvam a galáxia” e o segundo da série “Petka e Vasily Ivanovich”. Este é o último jogo desenvolvido pela S.K.I.F.; depois disso, a Buka, detentora dos direitos do jogo, transferiu o desenvolvimento para o Saturn Plus.\nEm 28 de maio de 2015, o jogo foi portado para iOS pela Komar Games. No dia 20 de agosto do mesmo ano, foi lançado um port para Android, desenvolvido pela mesma empresa. Em 26 de agosto, Buka anunciou o lançamento da versão em inglês de Petka 2 chamada Red Comrades 2: For the Great Justice. Em 14 de outubro de 2016, foi lançado um relançamento de Petka e Vasily Ivanovich 2: Dia do Julgamento. Uma reinicialização para versões modernas do sistema operacional Windows e monitores widescreen, também disponível com legendas em inglês como Red Comrades: For the Great Justice. Recarregado.",
-        "title_id": null
-      },
-      {
         "title": "Think of the Children [NSZ][ENG]",
         "size": "492.3 MB",
         "magnet": "magnet:?xt=urn:btih:65EC4ABA306FE404C717402A56A930FAFBD84B33&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -1335,6 +1335,33 @@
       }
     ],
     "zh_hans": [
+      {
+        "title": "Petka i Vasiliĭ Ivanovich 2: Sudnyy den (移植版 Red Comrades 2: For the Great Justice) [NRO][RUS]",
+        "size": "520.5 MB",
+        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928574",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
+        "year": "1999",
+        "genre": "Point & Click, Homebrew",
+        "developer": "S.K.I.F., Eltechs, Buka",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "俄语 [RUS]",
+        "voice_lang": "俄语",
+        "performance": "是",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
+        "screenshots": [
+          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
+          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
+        ],
+        "description": "《佩特卡和瓦西里·伊万诺维奇 2：审判日》（也称为《佩特卡和 HIV 2：审判日》、PIVIC 2）是一款由 S.K.I.F. 开发的任务类型电脑游戏。由Buka公司于1999年9月30日针对Windows操作系统发布。它是游戏“佩特卡和瓦西里·伊万诺维奇拯救银河系”的直接延续，也是“佩特卡和瓦西里·伊万诺维奇”系列的第二部。这是S.K.I.F.开发的最新游戏；之后，拥有该游戏版权的Buka将开发工作转移给了Saturn Plus。\n2015年5月28日，该游戏由Komar Games移植到iOS。同年8月20日，由同一家公司开发的Android移植版发布。 8月26日，Buka宣布推出《Petka 2》英文版《红色同志2：为了大正义》。 2016 年 10 月 14 日，《佩特卡和瓦西里·伊万诺维奇 2：审判日》重新发行。现代版本的 Windows 操作系统和宽屏显示器的重新启动，还提供英文字幕《红色同志：为了伟大的正义》。重新加载。",
+        "title_id": null
+      },
       {
         "title": "NOX",
         "size": "1.52 GB",
@@ -1443,33 +1470,6 @@
           "https://i4.imageban.ru/thumbs/2026.09.28/20b107c5edaeb5fe0fef64971020622e.jpg"
         ],
         "description": "《极品飞车：最高通缉》是艺电街机赛车系列的第九款游戏。很长一段时间以来，警察首次回归剧集，出现了大规模、美丽的追逐场面。游戏发生在虚构的罗克波特市，玩家拥有完全的行动自由。玩家可以选择庞大的车队、多种驾驶模式以及与警察的竞赛，主角必须躲藏起来，直到警报级别降低。\n这是 Xbox 360 版本的本机端口，而不是模拟器。目标性能是在标准控制台频率下每秒 30 帧，无需超频。 （亲自测试-它有效（可能超频后会更有活力））\n安装：",
-        "title_id": null
-      },
-      {
-        "title": "Petka i Vasiliĭ Ivanovich 2 - Sudnyy den (移植版 Red Comrades 2: For the Great Justice) [NRO][RUS]",
-        "size": "520.5 MB",
-        "magnet": "magnet:?xt=urn:btih:F97ED889C9CF713F1B3603436373A7F425688DC5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928574",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928574",
-        "year": "1999",
-        "genre": "Point & Click, Homebrew",
-        "developer": "S.K.I.F., Eltechs, Buka",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "俄语 [RUS]",
-        "voice_lang": "俄语",
-        "performance": "是",
-        "multiplayer": "无",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928574.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1027/ee/460918e1470b81a3f86e020c553931ee.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ef/1d37bf12ab9f3da50a459c86ab0ddcef.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/47/5ead9f4b423604a2eaab85ba0c4d2447.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/06/cb87ca6550285dfff4e0cc7be1de4d06.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/ce/ce3d67bed0e0170c03eab0e5071774ce.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
-        ],
-        "description": "《佩特卡和瓦西里·伊万诺维奇 2：审判日》（也称为《佩特卡和 HIV 2：审判日》、PIVIC 2）是一款由 S.K.I.F. 开发的任务类型电脑游戏。由Buka公司于1999年9月30日针对Windows操作系统发布。它是游戏“佩特卡和瓦西里·伊万诺维奇拯救银河系”的直接延续，也是“佩特卡和瓦西里·伊万诺维奇”系列的第二部。这是S.K.I.F.开发的最新游戏；之后，拥有该游戏版权的Buka将开发工作转移给了Saturn Plus。\n2015年5月28日，该游戏由Komar Games移植到iOS。同年8月20日，由同一家公司开发的Android移植版发布。 8月26日，Buka宣布推出《Petka 2》英文版《红色同志2：为了大正义》。 2016 年 10 月 14 日，《佩特卡和瓦西里·伊万诺维奇 2：审判日》重新发行。现代版本的 Windows 操作系统和宽屏显示器的重新启动，还提供英文字幕《红色同志：为了伟大的正义》。重新加载。",
         "title_id": null
       },
       {
