@@ -24,6 +24,8 @@ EXPECTED_KEYS = [
     "voice_lang", "performance", "multiplayer", "cover",
     "screenshots", "description", "title_id"
 ]
+# Необязательные поля в конце записи: пишутся, только если версия известна
+OPTIONAL_KEYS = ["version", "update_version"]
 
 def main():
     print("=== Verifying All 8 Nintendo Switch Catalogs ===")
@@ -47,7 +49,12 @@ def main():
 
         # 1:1 check on critical fields
         for i in range(base_count):
-            assert list(cat[i].keys()) == EXPECTED_KEYS, f"Keys mismatch at index {i} in {fname}"
+            keys = list(cat[i].keys())
+            assert keys[:len(EXPECTED_KEYS)] == EXPECTED_KEYS, f"Keys mismatch at index {i} in {fname}"
+            extra = keys[len(EXPECTED_KEYS):]
+            assert extra == [k for k in OPTIONAL_KEYS if k in extra], f"Unexpected keys {extra} at index {i} in {fname}"
+            for k in OPTIONAL_KEYS:
+                assert cat[i].get(k) == ru_catalog[i].get(k), f"{k} mismatch at index {i} in {fname}"
             assert cat[i]["title_id"] == ru_catalog[i]["title_id"], f"Title ID mismatch at index {i} in {fname}"
             assert cat[i]["magnet"] == ru_catalog[i]["magnet"], f"Magnet mismatch at index {i} in {fname}"
             assert cat[i]["topic_id"] == ru_catalog[i]["topic_id"], f"Topic ID mismatch at index {i} in {fname}"

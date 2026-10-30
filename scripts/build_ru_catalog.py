@@ -43,6 +43,22 @@ def load_json_file(filename, fallback_url, max_age_hours=None):
         return json.loads(content)
 
 
+def version_fields(item):
+    """version (строка «1.0.3») и update_version (номер обновления Nintendo, N<<16)
+    из switch_games.json. Пустые не пишем: у части раздач версии нет."""
+    out = {}
+    version = str(item.get("version") or "").strip()
+    if version:
+        out["version"] = version
+    try:
+        update_version = int(item.get("update_version") or 0)
+    except (TypeError, ValueError):
+        update_version = 0
+    if update_version > 0:
+        out["update_version"] = update_version
+    return out
+
+
 def clean_title(t):
     if not t:
         return ""
@@ -190,6 +206,7 @@ def main():
             "screenshots": screenshots,
             "description": description,
             "title_id": item.get("title_id", ""),
+            **version_fields(item),
         })
 
     print(f"\nProcessing Complete!")
