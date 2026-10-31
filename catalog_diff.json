@@ -1,10 +1,36 @@
 {
   "version": 1,
-  "generated_at": 1793434806,
+  "generated_at": 1793461425,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
     "ru": [
+      {
+        "title": "NOX",
+        "size": "1.52 GB",
+        "magnet": "magnet:?xt=urn:btih:777F0D3A568ED4F33EE01F008383C65FA25AA332&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928173",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
+        "year": "2000",
+        "genre": "Action-RPG, Adventure, Homebrew",
+        "developer": "Westwood Studios",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Русский [RUS]",
+        "voice_lang": "Русская",
+        "performance": "Да (на 22.5.0 Atmosphere Ultra 3.0 R3)",
+        "multiplayer": "Нет",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
+        "screenshots": [
+          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
+          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
+          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
+          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
+          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
+        ],
+        "description": "Побеждать силой оружия, подчинять чудовищ или менять ход боя магией — какой путь вы выберете? Обычный землянин Джек Мауэр попадает в Нокс. Этот мир ещё помнит войну с некромантами, но его защитники разобщены, а королева Гекуба готовит возвращение армии мёртвых. Случайному пришельцу предстоит стать героем, способным её остановить.\nВоин полагается на тяжёлую броню, мощное оружие и сокрушительные боевые приёмы. Колдун подчиняет животных и монстров, призывает магических существ, отправляет их на охоту или охранять себя. Маг располагает богатым арсеналом заклинаний и создаёт ловушки, соединяя в каждой до трёх чар. Выбранный класс определяет начальные испытания, особые задания и доступные локации. Позже дороги героев сойдутся перед общей угрозой, но знакомые события предстанут по-разному, а у каждого пути будет своя концовка.\nВас ждут быстрые бои, где меткость, движение и комбинации сил помогут выйти победителем, а ошибка может погубить. Система видимости \nTrueSight скрывает тенью пространство за стенами и углами: за ближайшим поворотом может ждать засада. Противники подбирают еду, чтобы восстановить здоровье, пытаются спастись после тяжёлых ранений, а стрелки держат дистанцию и целятся с упреждением. Используйте окружение для победы.\nТри пути к победе, три взгляда на один мир - и немало причин вернуться, чтобы пройти всё иначе.",
+        "title_id": null
+      },
       {
         "title": "DuckTales: Remastered (порт) [NRO][RUS]",
         "size": "592.5 MB",
@@ -139,32 +165,6 @@
         "title_id": null
       },
       {
-        "title": "NOX",
-        "size": "1.52 GB",
-        "magnet": "magnet:?xt=urn:btih:A1E3F30132B91A4B49F3E89756CF7303E685D42F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928173",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
-        "year": "2000",
-        "genre": "Action-RPG, Adventure, Homebrew",
-        "developer": "Westwood Studios",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Русский [RUS]",
-        "voice_lang": "Русская",
-        "performance": "Unknown",
-        "multiplayer": "Нет",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
-        "screenshots": [
-          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
-          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
-          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
-          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
-          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
-        ],
-        "description": "Побеждать силой оружия, подчинять чудовищ или менять ход боя магией — какой путь вы выберете? Обычный землянин Джек Мауэр попадает в Нокс. Этот мир ещё помнит войну с некромантами, но его защитники разобщены, а королева Гекуба готовит возвращение армии мёртвых. Случайному пришельцу предстоит стать героем, способным её остановить.\nВоин полагается на тяжёлую броню, мощное оружие и сокрушительные боевые приёмы. Колдун подчиняет животных и монстров, призывает магических существ, отправляет их на охоту или охранять себя. Маг располагает богатым арсеналом заклинаний и создаёт ловушки, соединяя в каждой до трёх чар. Выбранный класс определяет начальные испытания, особые задания и доступные локации. Позже дороги героев сойдутся перед общей угрозой, но знакомые события предстанут по-разному, а у каждого пути будет своя концовка.\nВас ждут быстрые бои, где меткость, движение и комбинации сил помогут выйти победителем, а ошибка может погубить. Система видимости TrueSight скрывает тенью пространство за стенами и углами: за ближайшим поворотом может ждать засада. Противники подбирают еду, чтобы восстановить здоровье, пытаются спастись после тяжёлых ранений, а стрелки держат дистанцию и целятся с упреждением. Используйте окружение для победы.\nТри пути к победе, три взгляда на один мир - и немало причин вернуться, чтобы пройти всё иначе.",
-        "title_id": null
-      },
-      {
         "title": "Call of Duty:Classic (хоумбрю)",
         "size": "860.1 MB",
         "magnet": "magnet:?xt=urn:btih:3DEFA5F97C22CDE5005F4140A182489EDCF12922&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -250,6 +250,32 @@
       }
     ],
     "en": [
+      {
+        "title": "NOX",
+        "size": "1.52 GB",
+        "magnet": "magnet:?xt=urn:btih:777F0D3A568ED4F33EE01F008383C65FA25AA332&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928173",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
+        "year": "2000",
+        "genre": "Action-RPG, Adventure, Homebrew",
+        "developer": "Westwood Studios",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Russian [RUS]",
+        "voice_lang": "Russian",
+        "performance": "Yes (on 22.5.0 Atmosphere Ultra 3.0 R3)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
+        "screenshots": [
+          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
+          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
+          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
+          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
+          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
+        ],
+        "description": "Win by force of arms, subdue monsters or change the course of battle with magic - which path will you choose? Regular grounder Jack Mauer hits Knox. This world still remembers the war with the necromancers, but its defenders are divided, and Queen Hecuba is preparing the return of the army of the dead. A random alien will have to become a hero who can stop her.\nThe warrior relies on heavy armor, powerful weapons, and devastating combat techniques. The sorcerer subjugates animals and monsters, summons magical creatures, sends them to hunt or protect himself. The magician has a rich arsenal of spells and creates traps, combining up to three charms in each. The chosen class determines the initial challenges, special tasks and available locations. Later, the paths of the heroes will converge in the face of a common threat, but familiar events will appear differently, and each path will have its own ending.\nQuick battles await you, where accuracy, movement and combinations of forces will help you emerge victorious, and a mistake can ruin you. Visibility system \nTrueSight hides the space behind walls and corners in shadow: an ambush may be waiting around the nearest corner. Opponents pick up food to restore health, try to escape after being seriously wounded, and shooters keep their distance and aim with anticipation. Use your environment to win.\nThree paths to victory, three views of one world - and many reasons to return to go through everything differently.",
+        "title_id": null
+      },
       {
         "title": "DuckTales: Remastered (port ) [NRO][RUS]",
         "size": "592.5 MB",
@@ -384,32 +410,6 @@
         "title_id": null
       },
       {
-        "title": "NOX",
-        "size": "1.52 GB",
-        "magnet": "magnet:?xt=urn:btih:A1E3F30132B91A4B49F3E89756CF7303E685D42F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928173",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
-        "year": "2000",
-        "genre": "Action-RPG, Adventure, Homebrew",
-        "developer": "Westwood Studios",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Russian [RUS]",
-        "voice_lang": "Russian",
-        "performance": "Unknown",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
-        "screenshots": [
-          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
-          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
-          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
-          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
-          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
-        ],
-        "description": "Win by force of arms, subdue monsters or change the course of battle with magic - which path will you choose? Regular grounder Jack Mauer hits Knox. This world still remembers the war with the necromancers, but its defenders are divided, and Queen Hecuba is preparing the return of the army of the dead. A random alien will have to become a hero who can stop her.\nThe warrior relies on heavy armor, powerful weapons, and devastating combat techniques. The sorcerer subjugates animals and monsters, summons magical creatures, sends them to hunt or protect himself. The magician has a rich arsenal of spells and creates traps, combining up to three charms in each. The chosen class determines the initial challenges, special tasks and available locations. Later, the paths of the heroes will converge in the face of a common threat, but familiar events will appear differently, and each path will have its own ending.\nQuick battles await you, where accuracy, movement and combinations of forces will help you emerge victorious, and a mistake can ruin you. The TrueSight visibility system hides the space behind walls and corners in shadow: an ambush may be waiting around the nearest corner. Opponents pick up food to restore health, try to escape after being seriously wounded, and shooters keep their distance and aim with anticipation. Use your environment to win.\nThree paths to victory, three views of one world - and many reasons to return to go through everything differently.",
-        "title_id": null
-      },
-      {
         "title": "Call of Duty:Classic (homebrew)",
         "size": "860.1 MB",
         "magnet": "magnet:?xt=urn:btih:3DEFA5F97C22CDE5005F4140A182489EDCF12922&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -495,6 +495,32 @@
       }
     ],
     "es": [
+      {
+        "title": "NOX",
+        "size": "1.52 GB",
+        "magnet": "magnet:?xt=urn:btih:777F0D3A568ED4F33EE01F008383C65FA25AA332&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928173",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
+        "year": "2000",
+        "genre": "Action-RPG, Adventure, Homebrew",
+        "developer": "Westwood Studios",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Ruso [RUS]",
+        "voice_lang": "Ruso",
+        "performance": "Sí (en 22.5.0 Atmosphere Ultra 3.0 R3)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
+        "screenshots": [
+          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
+          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
+          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
+          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
+          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
+        ],
+        "description": "Gana por la fuerza de las armas, somete a monstruos o cambia el curso de la batalla con magia: ¿qué camino elegirás? El rodado regular Jack Mauer golpea a Knox. Este mundo todavía recuerda la guerra con los nigromantes, pero sus defensores están divididos y la reina Hécuba está preparando el regreso del ejército de los muertos. Un extraterrestre aleatorio tendrá que convertirse en un héroe que pueda detenerla.\nEl guerrero depende de armaduras pesadas, armas poderosas y técnicas de combate devastadoras. El hechicero subyuga animales y monstruos, convoca criaturas mágicas, las envía a cazar o protegerse. El mago dispone de un rico arsenal de hechizos y crea trampas, combinando hasta tres amuletos en cada una. La clase elegida determina los desafíos iniciales, las tareas especiales y las ubicaciones disponibles. Más tarde, los caminos de los héroes convergerán ante una amenaza común, pero los acontecimientos familiares aparecerán de forma diferente y cada camino tendrá su propio final.\nTe esperan batallas rápidas, donde la precisión, el movimiento y las combinaciones de fuerzas te ayudarán a salir victorioso, y un error puede arruinarte. Sistema de visibilidad \nTrueSight oculta el espacio detrás de paredes y esquinas en la sombra: es posible que haya una emboscada esperando en la esquina más cercana. Los oponentes recogen comida para recuperar la salud, intentan escapar después de haber sido gravemente heridos y los tiradores mantienen la distancia y apuntan con anticipación. Utilice su entorno para ganar.\nTres caminos hacia la victoria, tres visiones de un mismo mundo y muchas razones para volver y vivir todo de otra manera.",
+        "title_id": null
+      },
       {
         "title": "DuckTales: Remastered (port ) [NRO][RUS]",
         "size": "592.5 MB",
@@ -629,32 +655,6 @@
         "title_id": null
       },
       {
-        "title": "NOX",
-        "size": "1.52 GB",
-        "magnet": "magnet:?xt=urn:btih:A1E3F30132B91A4B49F3E89756CF7303E685D42F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928173",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
-        "year": "2000",
-        "genre": "Action-RPG, Adventure, Homebrew",
-        "developer": "Westwood Studios",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Ruso [RUS]",
-        "voice_lang": "Ruso",
-        "performance": "Unknown",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
-        "screenshots": [
-          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
-          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
-          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
-          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
-          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
-        ],
-        "description": "Gana por la fuerza de las armas, somete a monstruos o cambia el curso de la batalla con magia: ¿qué camino elegirás? El rodado regular Jack Mauer golpea a Knox. Este mundo todavía recuerda la guerra con los nigromantes, pero sus defensores están divididos y la reina Hécuba está preparando el regreso del ejército de los muertos. Un extraterrestre aleatorio tendrá que convertirse en un héroe que pueda detenerla.\nEl guerrero depende de armaduras pesadas, armas poderosas y técnicas de combate devastadoras. El hechicero subyuga animales y monstruos, convoca criaturas mágicas, las envía a cazar o protegerse. El mago dispone de un rico arsenal de hechizos y crea trampas, combinando hasta tres amuletos en cada una. La clase elegida determina los desafíos iniciales, las tareas especiales y las ubicaciones disponibles. Más tarde, los caminos de los héroes convergerán ante una amenaza común, pero los acontecimientos familiares aparecerán de forma diferente y cada camino tendrá su propio final.\nTe esperan batallas rápidas, donde la precisión, el movimiento y las combinaciones de fuerzas te ayudarán a salir victorioso, y un error puede arruinarte. El sistema de visibilidad TrueSight oculta el espacio detrás de las paredes y las esquinas en la sombra: una emboscada puede estar esperando en la esquina más cercana. Los oponentes recogen comida para recuperar la salud, intentan escapar después de haber sido gravemente heridos y los tiradores mantienen la distancia y apuntan con anticipación. Utilice su entorno para ganar.\nTres caminos hacia la victoria, tres visiones de un mismo mundo y muchas razones para volver y vivir todo de otra manera.",
-        "title_id": null
-      },
-      {
         "title": "Call of Duty:Classic (homebrew)",
         "size": "860.1 MB",
         "magnet": "magnet:?xt=urn:btih:3DEFA5F97C22CDE5005F4140A182489EDCF12922&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -740,6 +740,32 @@
       }
     ],
     "fr": [
+      {
+        "title": "NOX",
+        "size": "1.52 GB",
+        "magnet": "magnet:?xt=urn:btih:777F0D3A568ED4F33EE01F008383C65FA25AA332&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928173",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
+        "year": "2000",
+        "genre": "Action-RPG, Adventure, Homebrew",
+        "developer": "Westwood Studios",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Russe [RUS]",
+        "voice_lang": "Russe",
+        "performance": "Oui (sur 22.5.0 Atmosphere Ultra 3.0 R3)",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
+        "screenshots": [
+          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
+          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
+          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
+          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
+          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
+        ],
+        "description": "Gagner par la force des armes, maîtriser des monstres ou changer le cours du combat grâce à la magie : quelle voie choisirez-vous ? Le Grounder régulier Jack Mauer frappe Knox. Ce monde se souvient encore de la guerre contre les nécromanciens, mais ses défenseurs sont divisés et la reine Hécube prépare le retour de l'armée des morts. Un extraterrestre aléatoire devra devenir un héros capable de l'arrêter.\nLe guerrier s'appuie sur une armure lourde, des armes puissantes et des techniques de combat dévastatrices. Le sorcier asservit animaux et monstres, invoque des créatures magiques, les envoie chasser ou se protéger. Le magicien dispose d'un riche arsenal de sorts et crée des pièges, combinant jusqu'à trois charmes chacun. La classe choisie détermine les défis initiaux, les tâches spéciales et les emplacements disponibles. Plus tard, les chemins des héros convergeront face à une menace commune, mais les événements familiers apparaîtront différemment et chaque chemin aura sa propre fin.\nDes batailles rapides vous attendent, où la précision, le mouvement et les combinaisons de forces vous aideront à sortir victorieux, et où une erreur peut vous ruiner. Système de visibilité \nTrueSight cache l'espace derrière les murs et les coins dans l'ombre : une embuscade peut vous attendre au coin le plus proche. Les adversaires ramassent de la nourriture pour retrouver la santé, tentent de s'échapper après avoir été grièvement blessés, et les tireurs gardent leurs distances et visent avec anticipation. Utilisez votre environnement pour gagner.\nTrois chemins vers la victoire, trois visions d'un même monde - et de nombreuses raisons de revenir pour tout vivre différemment.",
+        "title_id": null
+      },
       {
         "title": "DuckTales: Remastered (portage ) [NRO][RUS]",
         "size": "592.5 MB",
@@ -874,32 +900,6 @@
         "title_id": null
       },
       {
-        "title": "NOX",
-        "size": "1.52 GB",
-        "magnet": "magnet:?xt=urn:btih:A1E3F30132B91A4B49F3E89756CF7303E685D42F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928173",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
-        "year": "2000",
-        "genre": "Action-RPG, Adventure, Homebrew",
-        "developer": "Westwood Studios",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Russe [RUS]",
-        "voice_lang": "Russe",
-        "performance": "Unknown",
-        "multiplayer": "Non",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
-        "screenshots": [
-          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
-          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
-          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
-          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
-          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
-        ],
-        "description": "Gagner par la force des armes, maîtriser des monstres ou changer le cours du combat grâce à la magie : quelle voie choisirez-vous ? Le Grounder régulier Jack Mauer frappe Knox. Ce monde se souvient encore de la guerre contre les nécromanciens, mais ses défenseurs sont divisés et la reine Hécube prépare le retour de l'armée des morts. Un extraterrestre aléatoire devra devenir un héros capable de l'arrêter.\nLe guerrier s'appuie sur une armure lourde, des armes puissantes et des techniques de combat dévastatrices. Le sorcier asservit animaux et monstres, invoque des créatures magiques, les envoie chasser ou se protéger. Le magicien dispose d'un riche arsenal de sorts et crée des pièges, combinant jusqu'à trois charmes chacun. La classe choisie détermine les défis initiaux, les tâches spéciales et les emplacements disponibles. Plus tard, les chemins des héros convergeront face à une menace commune, mais les événements familiers apparaîtront différemment et chaque chemin aura sa propre fin.\nDes batailles rapides vous attendent, où la précision, le mouvement et les combinaisons de forces vous aideront à sortir victorieux, et où une erreur peut vous ruiner. Le système de visibilité TrueSight cache l'espace derrière les murs et les coins dans l'ombre : une embuscade peut vous attendre au coin le plus proche. Les adversaires ramassent de la nourriture pour retrouver la santé, tentent de s'échapper après avoir été grièvement blessés, et les tireurs gardent leurs distances et visent avec anticipation. Utilisez votre environnement pour gagner.\nTrois chemins vers la victoire, trois visions d'un même monde - et de nombreuses raisons de revenir pour tout vivre différemment.",
-        "title_id": null
-      },
-      {
         "title": "Call of Duty:Classic (homebrew)",
         "size": "860.1 MB",
         "magnet": "magnet:?xt=urn:btih:3DEFA5F97C22CDE5005F4140A182489EDCF12922&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -985,6 +985,32 @@
       }
     ],
     "de": [
+      {
+        "title": "NOX",
+        "size": "1.52 GB",
+        "magnet": "magnet:?xt=urn:btih:777F0D3A568ED4F33EE01F008383C65FA25AA332&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928173",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
+        "year": "2000",
+        "genre": "Action-RPG, Adventure, Homebrew",
+        "developer": "Westwood Studios",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Russisch [RUS]",
+        "voice_lang": "Russisch",
+        "performance": "Ja (auf 22.5.0 Atmosphere Ultra 3.0 R3)",
+        "multiplayer": "Nein",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
+        "screenshots": [
+          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
+          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
+          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
+          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
+          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
+        ],
+        "description": "Gewinnen Sie mit Waffengewalt, bezwingen Sie Monster oder ändern Sie den Verlauf des Kampfes mit Magie – welchen Weg werden Sie wählen? Der reguläre Grounder Jack Mauer schlägt Knox. Diese Welt erinnert sich noch an den Krieg mit den Nekromanten, aber ihre Verteidiger sind uneins und Königin Hekabe bereitet die Rückkehr der Armee der Toten vor. Ein zufälliger Außerirdischer muss ein Held werden, der sie aufhalten kann.\nDer Krieger verlässt sich auf schwere Rüstungen, mächtige Waffen und verheerende Kampftechniken. Der Zauberer unterwirft Tiere und Monster, beschwört magische Kreaturen, schickt sie auf die Jagd oder um sich selbst zu schützen. Der Magier verfügt über ein reichhaltiges Arsenal an Zaubersprüchen und stellt Fallen her, in denen er jeweils bis zu drei Zauber kombiniert. Die gewählte Klasse bestimmt die anfänglichen Herausforderungen, besonderen Aufgaben und verfügbaren Standorte. Später werden die Wege der Helden angesichts einer gemeinsamen Bedrohung zusammenlaufen, aber bekannte Ereignisse werden anders aussehen und jeder Weg wird sein eigenes Ende haben.\nEs erwarten Sie schnelle Schlachten, in denen Genauigkeit, Bewegung und Kräftekombination Ihnen zum Sieg verhelfen, ein Fehler Sie jedoch ruinieren kann. Sichtbarkeitssystem \nTrueSight verbirgt den Raum hinter Wänden und Ecken im Schatten: Möglicherweise wartet hinter der nächsten Ecke ein Hinterhalt. Gegner sammeln Nahrung ein, um ihre Gesundheit wiederherzustellen, versuchen zu fliehen, nachdem sie schwer verwundet wurden, und Schützen halten Abstand und zielen vorausschauend. Nutzen Sie Ihre Umgebung, um zu gewinnen.\nDrei Wege zum Sieg, drei Ansichten einer Welt – und viele Gründe, zurückzukehren, um alles anders zu erleben.",
+        "title_id": null
+      },
       {
         "title": "DuckTales: Remastered (Port ) [NRO][RUS]",
         "size": "592.5 MB",
@@ -1119,32 +1145,6 @@
         "title_id": null
       },
       {
-        "title": "NOX",
-        "size": "1.52 GB",
-        "magnet": "magnet:?xt=urn:btih:A1E3F30132B91A4B49F3E89756CF7303E685D42F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928173",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
-        "year": "2000",
-        "genre": "Action-RPG, Adventure, Homebrew",
-        "developer": "Westwood Studios",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Russisch [RUS]",
-        "voice_lang": "Russisch",
-        "performance": "Unknown",
-        "multiplayer": "Nein",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
-        "screenshots": [
-          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
-          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
-          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
-          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
-          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
-        ],
-        "description": "Gewinnen Sie mit Waffengewalt, bezwingen Sie Monster oder ändern Sie den Verlauf des Kampfes mit Magie – welchen Weg werden Sie wählen? Der reguläre Grounder Jack Mauer schlägt Knox. Diese Welt erinnert sich noch an den Krieg mit den Nekromanten, aber ihre Verteidiger sind uneins und Königin Hekabe bereitet die Rückkehr der Armee der Toten vor. Ein zufälliger Außerirdischer muss ein Held werden, der sie aufhalten kann.\nDer Krieger verlässt sich auf schwere Rüstungen, mächtige Waffen und verheerende Kampftechniken. Der Zauberer unterwirft Tiere und Monster, beschwört magische Kreaturen, schickt sie auf die Jagd oder um sich selbst zu schützen. Der Magier verfügt über ein reichhaltiges Arsenal an Zaubersprüchen und stellt Fallen her, in denen er jeweils bis zu drei Zauber kombiniert. Die gewählte Klasse bestimmt die anfänglichen Herausforderungen, besonderen Aufgaben und verfügbaren Standorte. Später werden die Wege der Helden angesichts einer gemeinsamen Bedrohung zusammenlaufen, aber bekannte Ereignisse werden anders aussehen und jeder Weg wird sein eigenes Ende haben.\nEs erwarten Sie schnelle Schlachten, in denen Genauigkeit, Bewegung und Kombination von Kräften Ihnen zum Sieg verhelfen und ein Fehler Sie ruinieren kann. Das TrueSight-Sichtbarkeitssystem verbirgt den Raum hinter Wänden und Ecken im Schatten: Hinter der nächsten Ecke könnte ein Hinterhalt lauern. Gegner sammeln Nahrung ein, um ihre Gesundheit wiederherzustellen, versuchen zu fliehen, nachdem sie schwer verwundet wurden, und Schützen halten Abstand und zielen vorausschauend. Nutzen Sie Ihre Umgebung, um zu gewinnen.\nDrei Wege zum Sieg, drei Ansichten einer Welt – und viele Gründe, zurückzukehren, um alles anders zu erleben.",
-        "title_id": null
-      },
-      {
         "title": "Call of Duty:Classic (Homebrew)",
         "size": "860.1 MB",
         "magnet": "magnet:?xt=urn:btih:3DEFA5F97C22CDE5005F4140A182489EDCF12922&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -1230,6 +1230,32 @@
       }
     ],
     "it": [
+      {
+        "title": "NOX",
+        "size": "1.52 GB",
+        "magnet": "magnet:?xt=urn:btih:777F0D3A568ED4F33EE01F008383C65FA25AA332&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928173",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
+        "year": "2000",
+        "genre": "Action-RPG, Adventure, Homebrew",
+        "developer": "Westwood Studios",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Russo [RUS]",
+        "voice_lang": "Russo",
+        "performance": "Sì (su 22.5.0 Atmosphere Ultra 3.0 R3)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
+        "screenshots": [
+          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
+          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
+          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
+          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
+          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
+        ],
+        "description": "Vinci con la forza delle armi, sottometti i mostri o cambia il corso della battaglia con la magia: quale strada sceglierai? Il terrestre regolare Jack Mauer colpisce Knox. Questo mondo ricorda ancora la guerra con i negromanti, ma i suoi difensori sono divisi e la regina Ecuba sta preparando il ritorno dell'esercito dei morti. Un alieno casuale dovrà diventare un eroe in grado di fermarlo.\nIl guerriero fa affidamento su armature pesanti, armi potenti e tecniche di combattimento devastanti. Lo stregone soggioga animali e mostri, evoca creature magiche, le manda a cacciare o proteggersi. Il mago ha un ricco arsenale di incantesimi e crea trappole, combinando fino a tre incantesimi in ciascuna. La classe scelta determina le sfide iniziali, i compiti speciali e le posizioni disponibili. Successivamente, i percorsi degli eroi convergeranno di fronte a una minaccia comune, ma gli eventi familiari appariranno in modo diverso e ogni percorso avrà il proprio finale.\nTi aspettano battaglie veloci, dove precisione, movimento e combinazioni di forze ti aiuteranno a emergere vittorioso e un errore può rovinarti. Sistema di visibilità \nTrueSight nasconde lo spazio dietro i muri e gli angoli in ombra: dietro l'angolo più vicino potrebbe esserci un'imboscata. Gli avversari raccolgono cibo per ripristinare la salute, cercano di scappare dopo essere stati gravemente feriti e i tiratori mantengono le distanze e mirano con anticipazione. Usa il tuo ambiente per vincere.\nTre percorsi verso la vittoria, tre visioni di un unico mondo e tanti motivi per tornare e affrontare tutto in modo diverso.",
+        "title_id": null
+      },
       {
         "title": "DuckTales: Remastered (port ) [NRO][RUS]",
         "size": "592.5 MB",
@@ -1364,32 +1390,6 @@
         "title_id": null
       },
       {
-        "title": "NOX",
-        "size": "1.52 GB",
-        "magnet": "magnet:?xt=urn:btih:A1E3F30132B91A4B49F3E89756CF7303E685D42F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928173",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
-        "year": "2000",
-        "genre": "Action-RPG, Adventure, Homebrew",
-        "developer": "Westwood Studios",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Russo [RUS]",
-        "voice_lang": "Russo",
-        "performance": "Unknown",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
-        "screenshots": [
-          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
-          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
-          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
-          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
-          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
-        ],
-        "description": "Vinci con la forza delle armi, sottometti i mostri o cambia il corso della battaglia con la magia: quale strada sceglierai? Il terrestre regolare Jack Mauer colpisce Knox. Questo mondo ricorda ancora la guerra con i negromanti, ma i suoi difensori sono divisi e la regina Ecuba sta preparando il ritorno dell'esercito dei morti. Un alieno casuale dovrà diventare un eroe in grado di fermarlo.\nIl guerriero fa affidamento su armature pesanti, armi potenti e tecniche di combattimento devastanti. Lo stregone soggioga animali e mostri, evoca creature magiche, le manda a cacciare o proteggersi. Il mago ha un ricco arsenale di incantesimi e crea trappole, combinando fino a tre incantesimi in ciascuna. La classe scelta determina le sfide iniziali, i compiti speciali e le posizioni disponibili. Successivamente, i percorsi degli eroi convergeranno di fronte a una minaccia comune, ma gli eventi familiari appariranno in modo diverso e ogni percorso avrà il proprio finale.\nTi aspettano battaglie veloci, dove precisione, movimento e combinazioni di forze ti aiuteranno a emergere vittorioso e un errore può rovinarti. Il sistema di visibilità TrueSight nasconde lo spazio dietro i muri e gli angoli in ombra: dietro l'angolo più vicino potrebbe esserci un'imboscata. Gli avversari raccolgono cibo per ripristinare la salute, cercano di scappare dopo essere stati gravemente feriti e i tiratori mantengono le distanze e mirano con anticipazione. Usa il tuo ambiente per vincere.\nTre percorsi verso la vittoria, tre visioni di un unico mondo e tanti motivi per tornare e affrontare tutto in modo diverso.",
-        "title_id": null
-      },
-      {
         "title": "Call of Duty:Classic (homebrew)",
         "size": "860.1 MB",
         "magnet": "magnet:?xt=urn:btih:3DEFA5F97C22CDE5005F4140A182489EDCF12922&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -1475,6 +1475,32 @@
       }
     ],
     "pt_br": [
+      {
+        "title": "NOX",
+        "size": "1.52 GB",
+        "magnet": "magnet:?xt=urn:btih:777F0D3A568ED4F33EE01F008383C65FA25AA332&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928173",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
+        "year": "2000",
+        "genre": "Action-RPG, Adventure, Homebrew",
+        "developer": "Westwood Studios",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Russo [RUS]",
+        "voice_lang": "Russo",
+        "performance": "Sim (no 22.5.0 Atmosphere Ultra 3.0 R3)",
+        "multiplayer": "Não",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
+        "screenshots": [
+          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
+          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
+          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
+          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
+          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
+        ],
+        "description": "Vença pela força das armas, subjugue monstros ou mude o curso da batalha com magia - qual caminho você escolherá? O grounder regular Jack Mauer acerta Knox. Este mundo ainda se lembra da guerra com os necromantes, mas os seus defensores estão divididos e a Rainha Hécuba prepara o regresso do exército dos mortos. Um alienígena aleatório terá que se tornar um herói que possa detê-la.\nO guerreiro depende de armaduras pesadas, armas poderosas e técnicas de combate devastadoras. O feiticeiro subjuga animais e monstros, convoca criaturas mágicas, envia-as para caçar ou se proteger. O mágico possui um rico arsenal de feitiços e cria armadilhas, combinando até três amuletos em cada uma. A classe escolhida determina os desafios iniciais, tarefas especiais e locais disponíveis. Mais tarde, os caminhos dos heróis convergirão diante de uma ameaça comum, mas eventos familiares aparecerão de forma diferente, e cada caminho terá seu próprio final.\nBatalhas rápidas esperam por você, onde a precisão, o movimento e as combinações de forças o ajudarão a sair vitorioso, e um erro pode arruiná-lo. Sistema de visibilidade \nTrueSight esconde o espaço atrás de paredes e cantos na sombra: uma emboscada pode estar esperando na esquina mais próxima. Os oponentes pegam comida para restaurar a saúde, tentam escapar após serem gravemente feridos e os atiradores mantêm distância e miram com antecipação. Use seu ambiente para vencer.\nTrês caminhos para a vitória, três visões de um só mundo – e muitos motivos para voltar e passar por tudo de forma diferente.",
+        "title_id": null
+      },
       {
         "title": "DuckTales: Remastered (port ) [NRO][RUS]",
         "size": "592.5 MB",
@@ -1609,32 +1635,6 @@
         "title_id": null
       },
       {
-        "title": "NOX",
-        "size": "1.52 GB",
-        "magnet": "magnet:?xt=urn:btih:A1E3F30132B91A4B49F3E89756CF7303E685D42F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928173",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
-        "year": "2000",
-        "genre": "Action-RPG, Adventure, Homebrew",
-        "developer": "Westwood Studios",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "Russo [RUS]",
-        "voice_lang": "Russo",
-        "performance": "Unknown",
-        "multiplayer": "Não",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
-        "screenshots": [
-          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
-          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
-          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
-          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
-          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
-        ],
-        "description": "Vença pela força das armas, subjugue monstros ou mude o curso da batalha com magia - qual caminho você escolherá? O grounder regular Jack Mauer acerta Knox. Este mundo ainda se lembra da guerra com os necromantes, mas os seus defensores estão divididos e a Rainha Hécuba prepara o regresso do exército dos mortos. Um alienígena aleatório terá que se tornar um herói que possa detê-la.\nO guerreiro depende de armaduras pesadas, armas poderosas e técnicas de combate devastadoras. O feiticeiro subjuga animais e monstros, convoca criaturas mágicas, envia-as para caçar ou se proteger. O mágico possui um rico arsenal de feitiços e cria armadilhas, combinando até três amuletos em cada uma. A classe escolhida determina os desafios iniciais, tarefas especiais e locais disponíveis. Mais tarde, os caminhos dos heróis convergirão diante de uma ameaça comum, mas eventos familiares aparecerão de forma diferente, e cada caminho terá seu próprio final.\nBatalhas rápidas esperam por você, onde a precisão, o movimento e as combinações de forças o ajudarão a sair vitorioso, e um erro pode arruiná-lo. O sistema de visibilidade TrueSight esconde o espaço atrás de paredes e cantos na sombra: uma emboscada pode estar esperando na esquina mais próxima. Os oponentes pegam comida para restaurar a saúde, tentam escapar após serem gravemente feridos e os atiradores mantêm distância e miram com antecipação. Use seu ambiente para vencer.\nTrês caminhos para a vitória, três visões de um só mundo – e muitos motivos para voltar e passar por tudo de forma diferente.",
-        "title_id": null
-      },
-      {
         "title": "Call of Duty:Classic (homebrew)",
         "size": "860.1 MB",
         "magnet": "magnet:?xt=urn:btih:3DEFA5F97C22CDE5005F4140A182489EDCF12922&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -1720,6 +1720,32 @@
       }
     ],
     "zh_hans": [
+      {
+        "title": "NOX",
+        "size": "1.52 GB",
+        "magnet": "magnet:?xt=urn:btih:777F0D3A568ED4F33EE01F008383C65FA25AA332&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928173",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
+        "year": "2000",
+        "genre": "Action-RPG, Adventure, Homebrew",
+        "developer": "Westwood Studios",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "俄语 [RUS]",
+        "voice_lang": "俄语",
+        "performance": "是 (在 22.5.0 Atmosphere Ultra 3.0 R3)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
+        "screenshots": [
+          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
+          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
+          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
+          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
+          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
+        ],
+        "description": "用武力取胜、制服怪物或用魔法改变战斗进程 - 您会选择哪条路？常规滚地球击球手杰克·莫尔击中了诺克斯。这个世界仍然记得与死灵法师的战争，但它的捍卫者已经分裂，赫卡芭女王正在准备亡灵大军的回归。一个随机的外星人必须成为能够阻止她的英雄。\n战士依靠重型盔甲、强大的武器和毁灭性的战斗技术。巫师征服动物和怪物，召唤魔法生物，派它们去狩猎或保护自己。魔术师拥有丰富的咒语库并能创造陷阱，每个陷阱最多可结合三个咒语。所选类别决定了最初的挑战、特殊任务和可用地点。后来，面对共同的威胁，英雄们的道路将会汇合，但熟悉的事件会以不同的方式出现，每条道路都会有自己的结局。\n快速的战斗等待着您，准确性、移动性和力量组合将帮助您取得胜利，而一个错误可能会毁掉您。可视性系统 \nTrueSight 将墙壁和角落后面的空间隐藏在阴影中：伏击可能正在最近的角落等待。对手捡起食物恢复生命值，受重伤后尝试逃跑，射手则保持距离并满怀期待地瞄准。利用您的环境来获胜。\n通往胜利的三种道路，对同一个世界的三种看法——以及许多返回以不同方式经历一切的理由。",
+        "title_id": null
+      },
       {
         "title": "DuckTales: Remastered (移植版 ) [NRO][RUS]",
         "size": "592.5 MB",
@@ -1851,32 +1877,6 @@
           "https://i129.fastpic.org/thumb/2026/1027/34/21aea72af881f72c3f941690d7217334.jpeg"
         ],
         "description": "《佩特卡和瓦西里·伊万诺维奇 2：审判日》（也称为《佩特卡和 HIV 2：审判日》、PIVIC 2）是一款由 S.K.I.F. 开发的任务类型电脑游戏。由Buka公司于1999年9月30日针对Windows操作系统发布。它是游戏“佩特卡和瓦西里·伊万诺维奇拯救银河系”的直接延续，也是“佩特卡和瓦西里·伊万诺维奇”系列的第二部。这是S.K.I.F.开发的最新游戏；之后，拥有该游戏版权的Buka将开发工作转移给了Saturn Plus。\n2015年5月28日，该游戏由Komar Games移植到iOS。同年8月20日，由同一家公司开发的Android移植版发布。 8月26日，Buka宣布推出《Petka 2》英文版《红色同志2：为了大正义》。 2016 年 10 月 14 日，《佩特卡和瓦西里·伊万诺维奇 2：审判日》重新发行。现代版本的 Windows 操作系统和宽屏显示器的重新启动，还提供英文字幕《红色同志：为了伟大的正义》。重新加载。",
-        "title_id": null
-      },
-      {
-        "title": "NOX",
-        "size": "1.52 GB",
-        "magnet": "magnet:?xt=urn:btih:A1E3F30132B91A4B49F3E89756CF7303E685D42F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928173",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
-        "year": "2000",
-        "genre": "Action-RPG, Adventure, Homebrew",
-        "developer": "Westwood Studios",
-        "publisher": "Unknown",
-        "image_format": "NSP",
-        "interface_lang": "俄语 [RUS]",
-        "voice_lang": "俄语",
-        "performance": "Unknown",
-        "multiplayer": "无",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
-        "screenshots": [
-          "https://i3.imageban.ru/thumbs/2026.10.27/ca4d84ce977948567d77e0e9a00e1454.jpg",
-          "https://i1.imageban.ru/thumbs/2026.10.27/f0ab25b6dec23f30c9b11c9eb2e5f422.jpg",
-          "https://i2.imageban.ru/thumbs/2026.10.25/aebc3fc77be10143248b99b7b86fe707.jpeg",
-          "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
-          "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
-        ],
-        "description": "用武力取胜、制服怪物或用魔法改变战斗进程 - 您会选择哪条路？ Regular grounder Jack Mauer hits Knox.这个世界仍然记得与死灵法师的战争，但它的捍卫者已经分裂，赫卡芭女王正在准备亡灵大军的回归。一个随机的外星人必须成为能够阻止她的英雄。\n战士依靠重型盔甲、强大的武器和毁灭性的战斗技术。巫师征服动物和怪物，召唤魔法生物，派它们去狩猎或保护自己。魔术师拥有丰富的咒语库并能创造陷阱，每个陷阱最多可结合三个咒语。所选类别决定了最初的挑战、特殊任务和可用地点。后来，面对共同的威胁，英雄们的道路将会汇合，但熟悉的事件会以不同的方式出现，每条道路都会有自己的结局。\n快速的战斗等待着你，准确性、移动性和力量组合将帮助你取得胜利，而一个错误可能会毁掉你。 TrueSight 可视性系统将墙壁和角落后面的空间隐藏在阴影中：伏击可能正在最近的角落等待。对手捡起食物恢复生命值，受重伤后尝试逃跑，射手则保持距离并满怀期待地瞄准。 Use your environment to win.\n通往胜利的三种道路，对同一个世界的三种看法——以及许多返回以不同方式经历一切的理由。",
         "title_id": null
       },
       {

@@ -170,7 +170,7 @@
     {
         "title": "NOX",
         "size": "1.52 GB",
-        "magnet": "magnet:?xt=urn:btih:A1E3F30132B91A4B49F3E89756CF7303E685D42F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:777F0D3A568ED4F33EE01F008383C65FA25AA332&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6928173",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6928173",
         "year": "2000",
@@ -180,7 +180,7 @@
         "image_format": "NSP",
         "interface_lang": "Russian [RUS]",
         "voice_lang": "Russian",
-        "performance": "Unknown",
+        "performance": "Yes (on 22.5.0 Atmosphere Ultra 3.0 R3)",
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928173.jpg",
         "screenshots": [
@@ -190,7 +190,7 @@
             "https://i3.imageban.ru/thumbs/2026.10.27/fbbcc6df235d03696de632380d623cd7.jpg",
             "https://i4.imageban.ru/thumbs/2026.10.27/1b097b444f4c77c4ec689a88b3705031.jpg"
         ],
-        "description": "Win by force of arms, subdue monsters or change the course of battle with magic - which path will you choose? Regular grounder Jack Mauer hits Knox. This world still remembers the war with the necromancers, but its defenders are divided, and Queen Hecuba is preparing the return of the army of the dead. A random alien will have to become a hero who can stop her.\nThe warrior relies on heavy armor, powerful weapons, and devastating combat techniques. The sorcerer subjugates animals and monsters, summons magical creatures, sends them to hunt or protect himself. The magician has a rich arsenal of spells and creates traps, combining up to three charms in each. The chosen class determines the initial challenges, special tasks and available locations. Later, the paths of the heroes will converge in the face of a common threat, but familiar events will appear differently, and each path will have its own ending.\nQuick battles await you, where accuracy, movement and combinations of forces will help you emerge victorious, and a mistake can ruin you. The TrueSight visibility system hides the space behind walls and corners in shadow: an ambush may be waiting around the nearest corner. Opponents pick up food to restore health, try to escape after being seriously wounded, and shooters keep their distance and aim with anticipation. Use your environment to win.\nThree paths to victory, three views of one world - and many reasons to return to go through everything differently.",
+        "description": "Win by force of arms, subdue monsters or change the course of battle with magic - which path will you choose? Regular grounder Jack Mauer hits Knox. This world still remembers the war with the necromancers, but its defenders are divided, and Queen Hecuba is preparing the return of the army of the dead. A random alien will have to become a hero who can stop her.\nThe warrior relies on heavy armor, powerful weapons, and devastating combat techniques. The sorcerer subjugates animals and monsters, summons magical creatures, sends them to hunt or protect himself. The magician has a rich arsenal of spells and creates traps, combining up to three charms in each. The chosen class determines the initial challenges, special tasks and available locations. Later, the paths of the heroes will converge in the face of a common threat, but familiar events will appear differently, and each path will have its own ending.\nQuick battles await you, where accuracy, movement and combinations of forces will help you emerge victorious, and a mistake can ruin you. Visibility system \nTrueSight hides the space behind walls and corners in shadow: an ambush may be waiting around the nearest corner. Opponents pick up food to restore health, try to escape after being seriously wounded, and shooters keep their distance and aim with anticipation. Use your environment to win.\nThree paths to victory, three views of one world - and many reasons to return to go through everything differently.",
         "title_id": null
     },
     {
