@@ -1,5 +1,32 @@
 [
     {
+        "title": "Ice Age 2: The Meltdown",
+        "size": "1.47 GB",
+        "magnet": "magnet:?xt=urn:btih:8871A2870C0B64CB952AB1EDA8AD4C83BCFAB5A2&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6929966",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6929966",
+        "year": "2006",
+        "genre": "Adventure",
+        "developer": "Eurocom",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Ruso [RUS]",
+        "voice_lang": "Ruso",
+        "performance": "Sí, (en en sistemy 23.0.1, Atmosphere 1.12.1)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6929966.jpg",
+        "screenshots": [
+            "https://i3.imageban.ru/thumbs/2026.10.29/87b1f1ceca488dfede821d44129f6f13.jpg",
+            "https://i3.imageban.ru/thumbs/2026.10.29/204023d6a57d7548fea7fec08db7f1b5.jpg",
+            "https://i1.imageban.ru/thumbs/2026.10.29/66dbf8005d94f9924aaf9fa044498ca2.jpg",
+            "https://i7.imageban.ru/thumbs/2026.10.29/357b199dbdda494a606a1f616e312108.jpg",
+            "https://i8.imageban.ru/thumbs/2026.10.29/18bd02d00e4a4501338df6983ec0cb51.jpg"
+        ],
+        "description": "Ayuda a un variopinto grupo de animales impulsados ​​por el calentamiento global y llega a tierra, donde ya no serán perseguidos por peligros interminables. Además de la jugabilidad original, The Meltdown también ofrece un montón de minijuegos diferentes que pueden diversificar nuestro tiempo en el mundo virtual y divertir a los niños.",
+        "title_id": null,
+        "version": "0.2.1"
+    },
+    {
         "title": "Super Mario World (port ) [EN]",
         "size": "9.8 MB",
         "magnet": "magnet:?xt=urn:btih:5CF265131F0ED75FB4192FFDB5C9D9821B9EC268&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -102,7 +129,7 @@
             "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
             "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
         ],
-        "description": "Embárcate en un viaje a través de un mundo inimaginable en el juego Dark Souls 2: Scholar of the First Sin, donde lo desconocido acecha a cada paso, donde cada camino es una prueba, cada camino es una prueba de fuerza. Como víctima de una antigua maldición, te enfrentarás a tus mayores miedos. ¡Y solo superándolos obtendrás una fuerza con la que solo puedes soñar!",
+        "description": "DARK SOULS™ II: Scholar of the First Sin es la edición más completa del aclamado juego de rol DARK SOULS™ II, que incluye todo el contenido y las adiciones publicados anteriormente.\nTe espera un viaje inolvidable a través de un mundo enorme y misterioso, donde oponentes mortales, trampas traicioneras y desafíos impredecibles acechan a cada paso. Cada encuentro podría ser el último y cada victoria requerirá resistencia, habilidad y determinación. Explora las tierras oscuras de Drangleic, lucha contra poderosos jefes, recolecta almas e intenta encontrar una manera de deshacerte de la antigua maldición que te condena a un viaje eterno entre la vida y la muerte.\nScholar of the First Sin ofrece una experiencia de juego completamente nueva: la ubicación de enemigos y objetos ha sido rediseñada, han aparecido nuevos peligros y personajes, y los lugares seguros habituales ya no garantizan la salvación. El juego también incluye tres expansiones principales: Crown of the Sunken King, Crown of the Old Iron King y Crown of the Ivory King.\nPrepárate para enfrentar la muerte nuevamente.\nEn el mundo de DARK SOULS II, cada paso es una prueba y cada victoria tiene un alto precio.",
         "title_id": "0100D52000560000"
     },
     {
