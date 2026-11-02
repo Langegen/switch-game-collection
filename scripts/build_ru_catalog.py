@@ -56,7 +56,41 @@ def version_fields(item):
         update_version = 0
     if update_version > 0:
         out["update_version"] = update_version
+    titles = release_titles(item)
+    if titles:
+        out["titles"] = titles
     return out
+
+
+def release_titles(item):
+    """Все игры раздачи из switch_games.json (поле titles) одной строкой:
+    "ID:обновление:версия;ID:обновление:версия", например
+    "010066200E1E6000:524288:;01004670193D6000:196608:1.2".
+    Обновление — номер Nintendo (N<<16); пусто, если в файлах нет [vN].
+    Нужно менеджеру игр, чтобы находить игры из мультираздач
+    (Coffee Talk / Episode 2 / Tokyo) и сравнивать версию именно этой игры.
+
+    Строка, а не массив объектов: потоковый разбор каталога в приложении
+    до 2.21 на конце вложенного массива (кроме screenshots) считает
+    законченным весь список игр и теряет все следующие раздачи."""
+    out = []
+    for t in item.get("titles") or []:
+        if not isinstance(t, dict):
+            continue
+        tid = str(t.get("id") or "").strip().upper()
+        if not re.fullmatch(r"0100[0-9A-F]{12}", tid):
+            continue
+        upd = ""
+        try:
+            if t.get("update_version") is not None:
+                upd = str(int(t["update_version"]))
+        except (TypeError, ValueError):
+            pass
+        ver = str(t.get("version") or "").strip()
+        if re.search(r"[:;]", ver):
+            ver = ""
+        out.append(f"{tid}:{upd}:{ver}")
+    return ";".join(out)
 
 
 def clean_title(t):

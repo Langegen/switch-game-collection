@@ -25,7 +25,7 @@ EXPECTED_KEYS = [
     "screenshots", "description", "title_id"
 ]
 # Необязательные поля в конце записи: пишутся, только если версия известна
-OPTIONAL_KEYS = ["version", "update_version"]
+OPTIONAL_KEYS = ["version", "update_version", "titles"]
 
 def main():
     print("=== Verifying All 8 Nintendo Switch Catalogs ===")
