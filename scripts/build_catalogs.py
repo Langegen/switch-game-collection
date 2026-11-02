@@ -761,8 +761,15 @@ def release_titles(item):
     Строка, а не массив объектов: потоковый разбор каталога в приложении
     до 2.21 на конце вложенного массива (кроме screenshots) считает
     законченным весь список игр и теряет все следующие раздачи."""
+    titles = item.get("titles") or []
+    if isinstance(titles, str):
+        # Уже готовая строка: build_catalogs.py собирает языковые каталоги
+        # из RU_catalog.json, а не из switch_games.json.
+        parts = [p for p in titles.split(";")
+                 if re.fullmatch(r"0100[0-9A-F]{12}:\d*:[^:;]*", p.strip().upper()) and p.strip()]
+        return ";".join(p.strip() for p in parts)
     out = []
-    for t in item.get("titles") or []:
+    for t in titles:
         if not isinstance(t, dict):
             continue
         tid = str(t.get("id") or "").strip().upper()
