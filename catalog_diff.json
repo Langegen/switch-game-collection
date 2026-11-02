@@ -1,10 +1,41 @@
 {
   "version": 1,
-  "generated_at": 1793619467,
+  "generated_at": 1793650441,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
     "ru": [
+      {
+        "title": "DARK SOULS II: Scholar of the First Sin (порт Xbox 360 / ReXGlue) [NRO]",
+        "size": "10.11 GB",
+        "magnet": "magnet:?xt=urn:btih:8F3D51135834E8F792EDA3CF8F3A47EFBB5E1DAD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928209",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
+        "year": "2015",
+        "genre": "Action / RPG",
+        "developer": "FromSoftware",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Английский [ENG] / Русский [RUS]",
+        "voice_lang": "Английская [ENG]",
+        "performance": "Да (на 23.1.0, Atmosphere 1.12.0)",
+        "multiplayer": "Нет",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
+        "screenshots": [
+          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
+          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
+        ],
+        "description": "DARK SOULS™ II: Scholar of the First Sin — наиболее полное издание знаменитой ролевой игры DARK SOULS™ II, включающее все ранее выпущенные материалы и дополнения.\nВас ждёт незабываемое путешествие по огромному и загадочному миру, где за каждым поворотом скрываются смертельно опасные противники, коварные ловушки и непредсказуемые испытания. Каждое столкновение может стать последним, а каждая победа потребует выдержки, мастерства и решимости. Исследуйте мрачные земли Дранглика, сражайтесь с могущественными боссами, собирайте души и попытайтесь найти способ избавиться от древнего проклятия, обрекающего вас на вечное странствие между жизнью и смертью.\nИздание Scholar of the First Sin предлагает совершенно новый игровой опыт: расположение противников и предметов было переработано, появились новые опасности и персонажи, а привычные безопасные места больше не гарантируют спасения. В игру также включены три масштабных дополнения — Crown of the Sunken King, Crown of the Old Iron King и Crown of the Ivory King.\nПриготовьтесь вновь взглянуть в лицо смерти.\nВ мире DARK SOULS II каждый шаг — испытание, а каждая победа достаётся дорогой ценой.",
+        "title_id": "0100D52000560000",
+        "titles": "0100D52000560000:0:"
+      },
       {
         "title": "Fur Squadron Phoenix [NSZ][ENG]",
         "size": "1.7 GB",
@@ -1141,36 +1172,6 @@
         "title_id": null
       },
       {
-        "title": "DARK SOULS II: Scholar of the First Sin (порт Xbox 360 / ReXGlue) [NRO]",
-        "size": "10.03 GB",
-        "magnet": "magnet:?xt=urn:btih:76FAFCEF588E3A52CF2AE1BC2ACCBD93CCCB2FE4&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928209",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
-        "year": "2015",
-        "genre": "Action / RPG",
-        "developer": "FromSoftware",
-        "publisher": "Unknown",
-        "image_format": "NRO",
-        "interface_lang": "Английский [ENG] / Русский [RUS]",
-        "voice_lang": "Английская [ENG]",
-        "performance": "Да (на 23.1.0, Atmosphere 1.12.0)",
-        "multiplayer": "Нет",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
-        "screenshots": [
-          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
-          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
-        ],
-        "description": "DARK SOULS™ II: Scholar of the First Sin — наиболее полное издание знаменитой ролевой игры DARK SOULS™ II, включающее все ранее выпущенные материалы и дополнения.\nВас ждёт незабываемое путешествие по огромному и загадочному миру, где за каждым поворотом скрываются смертельно опасные противники, коварные ловушки и непредсказуемые испытания. Каждое столкновение может стать последним, а каждая победа потребует выдержки, мастерства и решимости. Исследуйте мрачные земли Дранглика, сражайтесь с могущественными боссами, собирайте души и попытайтесь найти способ избавиться от древнего проклятия, обрекающего вас на вечное странствие между жизнью и смертью.\nИздание Scholar of the First Sin предлагает совершенно новый игровой опыт: расположение противников и предметов было переработано, появились новые опасности и персонажи, а привычные безопасные места больше не гарантируют спасения. В игру также включены три масштабных дополнения — Crown of the Sunken King, Crown of the Old Iron King и Crown of the Ivory King.\nПриготовьтесь вновь взглянуть в лицо смерти.\nВ мире DARK SOULS II каждый шаг — испытание, а каждая победа достаётся дорогой ценой.",
-        "title_id": "0100D52000560000"
-      },
-      {
         "title": "DuckTales: Remastered (порт) [NRO][RUS]",
         "size": "592.5 MB",
         "magnet": "magnet:?xt=urn:btih:ADEC1347629B5837AF3C00129E114E70F84B3806&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -1248,6 +1249,37 @@
       }
     ],
     "en": [
+      {
+        "title": "DARK SOULS II: Scholar of the First Sin (port Xbox 360 / ReXGlue) [NRO]",
+        "size": "10.11 GB",
+        "magnet": "magnet:?xt=urn:btih:8F3D51135834E8F792EDA3CF8F3A47EFBB5E1DAD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928209",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
+        "year": "2015",
+        "genre": "Action / RPG",
+        "developer": "FromSoftware",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "English [ENG] / Russian [RUS]",
+        "voice_lang": "English [ENG]",
+        "performance": "Yes (on 23.1.0, Atmosphere 1.12.0)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
+        "screenshots": [
+          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
+          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
+        ],
+        "description": "DARK SOULS™ II: Scholar of the First Sin is the most complete edition of the acclaimed role-playing game DARK SOULS™ II, including all previously released content and additions.\nAn unforgettable journey awaits you through a huge and mysterious world, where deadly opponents, treacherous traps and unpredictable challenges lurk around every turn. Every encounter could be your last, and every victory will require endurance, skill and determination. Explore the dark lands of Drangleic, fight powerful bosses, collect souls and try to find a way to get rid of the ancient curse that condemns you to an eternal journey between life and death.\nScholar of the First Sin offers a completely new gaming experience: the placement of enemies and objects has been redesigned, new dangers and characters have appeared, and the usual safe places no longer guarantee salvation. The game also includes three major expansions - Crown of the Sunken King, Crown of the Old Iron King and Crown of the Ivory King.\nPrepare to face death again.\nIn the world of DARK SOULS II, every step is a test, and every victory comes at a high price.",
+        "title_id": "0100D52000560000",
+        "titles": "0100D52000560000:0:"
+      },
       {
         "title": "Fur Squadron Phoenix [NSZ][ENG]",
         "size": "1.7 GB",
@@ -2348,36 +2380,6 @@
         "title_id": null
       },
       {
-        "title": "DARK SOULS II: Scholar of the First Sin (port Xbox 360 / ReXGlue) [NRO]",
-        "size": "10.03 GB",
-        "magnet": "magnet:?xt=urn:btih:76FAFCEF588E3A52CF2AE1BC2ACCBD93CCCB2FE4&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928209",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
-        "year": "2015",
-        "genre": "Action / RPG",
-        "developer": "FromSoftware",
-        "publisher": "Unknown",
-        "image_format": "NRO",
-        "interface_lang": "English [ENG] / Russian [RUS]",
-        "voice_lang": "English [ENG]",
-        "performance": "Yes (on 23.1.0, Atmosphere 1.12.0)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
-        "screenshots": [
-          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
-          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
-        ],
-        "description": "DARK SOULS™ II: Scholar of the First Sin is the most complete edition of the acclaimed role-playing game DARK SOULS™ II, including all previously released content and additions.\nAn unforgettable journey awaits you through a huge and mysterious world, where deadly opponents, treacherous traps and unpredictable challenges lurk around every turn. Every encounter could be your last, and every victory will require endurance, skill and determination. Explore the dark lands of Drangleic, fight powerful bosses, collect souls and try to find a way to get rid of the ancient curse that condemns you to an eternal journey between life and death.\nScholar of the First Sin offers a completely new gaming experience: the placement of enemies and objects has been redesigned, new dangers and characters have appeared, and the usual safe places no longer guarantee salvation. The game also includes three major expansions - Crown of the Sunken King, Crown of the Old Iron King and Crown of the Ivory King.\nPrepare to face death again.\nIn the world of DARK SOULS II, every step is a test, and every victory comes at a high price.",
-        "title_id": "0100D52000560000"
-      },
-      {
         "title": "DuckTales: Remastered (port ) [NRO][RUS]",
         "size": "592.5 MB",
         "magnet": "magnet:?xt=urn:btih:ADEC1347629B5837AF3C00129E114E70F84B3806&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -2455,6 +2457,37 @@
       }
     ],
     "es": [
+      {
+        "title": "DARK SOULS II: Scholar of the First Sin (port Xbox 360 / ReXGlue) [NRO]",
+        "size": "10.11 GB",
+        "magnet": "magnet:?xt=urn:btih:8F3D51135834E8F792EDA3CF8F3A47EFBB5E1DAD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928209",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
+        "year": "2015",
+        "genre": "Action / RPG",
+        "developer": "FromSoftware",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Inglés [ENG] / Ruso [RUS]",
+        "voice_lang": "Inglés [ENG]",
+        "performance": "Sí (en 23.1.0, Atmosphere 1.12.0)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
+        "screenshots": [
+          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
+          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
+        ],
+        "description": "DARK SOULS™ II: Scholar of the First Sin es la edición más completa del aclamado juego de rol DARK SOULS™ II, que incluye todo el contenido y las adiciones publicados anteriormente.\nTe espera un viaje inolvidable a través de un mundo enorme y misterioso, donde oponentes mortales, trampas traicioneras y desafíos impredecibles acechan a cada paso. Cada encuentro podría ser el último y cada victoria requerirá resistencia, habilidad y determinación. Explora las tierras oscuras de Drangleic, lucha contra poderosos jefes, recolecta almas e intenta encontrar una manera de deshacerte de la antigua maldición que te condena a un viaje eterno entre la vida y la muerte.\nScholar of the First Sin ofrece una experiencia de juego completamente nueva: la ubicación de enemigos y objetos ha sido rediseñada, han aparecido nuevos peligros y personajes, y los lugares seguros habituales ya no garantizan la salvación. El juego también incluye tres expansiones principales: Crown of the Sunken King, Crown of the Old Iron King y Crown of the Ivory King.\nPrepárate para enfrentar la muerte nuevamente.\nEn el mundo de DARK SOULS II, cada paso es una prueba y cada victoria tiene un alto precio.",
+        "title_id": "0100D52000560000",
+        "titles": "0100D52000560000:0:"
+      },
       {
         "title": "Fur Squadron Phoenix [NSZ][ENG]",
         "size": "1.7 GB",
@@ -3554,36 +3587,6 @@
         "title_id": null
       },
       {
-        "title": "DARK SOULS II: Scholar of the First Sin (port Xbox 360 / ReXGlue) [NRO]",
-        "size": "10.03 GB",
-        "magnet": "magnet:?xt=urn:btih:76FAFCEF588E3A52CF2AE1BC2ACCBD93CCCB2FE4&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928209",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
-        "year": "2015",
-        "genre": "Action / RPG",
-        "developer": "FromSoftware",
-        "publisher": "Unknown",
-        "image_format": "NRO",
-        "interface_lang": "Inglés [ENG] / Ruso [RUS]",
-        "voice_lang": "Inglés [ENG]",
-        "performance": "Sí (en 23.1.0, Atmosphere 1.12.0)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
-        "screenshots": [
-          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
-          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
-        ],
-        "description": "DARK SOULS™ II: Scholar of the First Sin es la edición más completa del aclamado juego de rol DARK SOULS™ II, que incluye todo el contenido y las adiciones publicados anteriormente.\nTe espera un viaje inolvidable a través de un mundo enorme y misterioso, donde oponentes mortales, trampas traicioneras y desafíos impredecibles acechan a cada paso. Cada encuentro podría ser el último y cada victoria requerirá resistencia, habilidad y determinación. Explora las tierras oscuras de Drangleic, lucha contra poderosos jefes, recolecta almas e intenta encontrar una manera de deshacerte de la antigua maldición que te condena a un viaje eterno entre la vida y la muerte.\nScholar of the First Sin ofrece una experiencia de juego completamente nueva: la ubicación de enemigos y objetos ha sido rediseñada, han aparecido nuevos peligros y personajes, y los lugares seguros habituales ya no garantizan la salvación. El juego también incluye tres expansiones principales: Crown of the Sunken King, Crown of the Old Iron King y Crown of the Ivory King.\nPrepárate para enfrentar la muerte nuevamente.\nEn el mundo de DARK SOULS II, cada paso es una prueba y cada victoria tiene un alto precio.",
-        "title_id": "0100D52000560000"
-      },
-      {
         "title": "DuckTales: Remastered (port ) [NRO][RUS]",
         "size": "592.5 MB",
         "magnet": "magnet:?xt=urn:btih:ADEC1347629B5837AF3C00129E114E70F84B3806&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -3661,6 +3664,37 @@
       }
     ],
     "fr": [
+      {
+        "title": "DARK SOULS II: Scholar of the First Sin (portage Xbox 360 / ReXGlue) [NRO]",
+        "size": "10.11 GB",
+        "magnet": "magnet:?xt=urn:btih:8F3D51135834E8F792EDA3CF8F3A47EFBB5E1DAD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928209",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
+        "year": "2015",
+        "genre": "Action / RPG",
+        "developer": "FromSoftware",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Anglais [ENG] / Russe [RUS]",
+        "voice_lang": "Anglais [ENG]",
+        "performance": "Oui (sur 23.1.0, Atmosphere 1.12.0)",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
+        "screenshots": [
+          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
+          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
+        ],
+        "description": "DARK SOULS™ II : Scholar of the First Sin est l'édition la plus complète du célèbre jeu de rôle DARK SOULS™ II, comprenant tous les contenus et ajouts précédemment publiés.\nUn voyage inoubliable vous attend à travers un monde immense et mystérieux, où des adversaires mortels, des pièges perfides et des défis imprévisibles vous attendent à chaque tournant. Chaque rencontre pourrait être votre dernière, et chaque victoire exigera de l'endurance, du talent et de la détermination. Explorez les terres sombres de Drangleic, combattez des boss puissants, collectez des âmes et essayez de trouver un moyen de vous débarrasser de l'ancienne malédiction qui vous condamne à un voyage éternel entre la vie et la mort.\nScholar of the First Sin propose une toute nouvelle expérience de jeu : le placement des ennemis et des objets a été repensé, de nouveaux dangers et personnages sont apparus, et les lieux sûrs habituels ne garantissent plus le salut. Le jeu comprend également trois extensions majeures : Crown of the Sunken King, Crown of the Old Iron King et Crown of the Ivory King.\nPréparez-vous à affronter à nouveau la mort.\nDans le monde de DARK SOULS II, chaque étape est une épreuve et chaque victoire a un prix élevé.",
+        "title_id": "0100D52000560000",
+        "titles": "0100D52000560000:0:"
+      },
       {
         "title": "Fur Squadron Phoenix [NSZ][ENG]",
         "size": "1.7 GB",
@@ -4760,36 +4794,6 @@
         "title_id": null
       },
       {
-        "title": "DARK SOULS II: Scholar of the First Sin (portage Xbox 360 / ReXGlue) [NRO]",
-        "size": "10.03 GB",
-        "magnet": "magnet:?xt=urn:btih:76FAFCEF588E3A52CF2AE1BC2ACCBD93CCCB2FE4&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928209",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
-        "year": "2015",
-        "genre": "Action / RPG",
-        "developer": "FromSoftware",
-        "publisher": "Unknown",
-        "image_format": "NRO",
-        "interface_lang": "Anglais [ENG] / Russe [RUS]",
-        "voice_lang": "Anglais [ENG]",
-        "performance": "Oui (sur 23.1.0, Atmosphere 1.12.0)",
-        "multiplayer": "Non",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
-        "screenshots": [
-          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
-          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
-        ],
-        "description": "DARK SOULS™ II : Scholar of the First Sin est l'édition la plus complète du célèbre jeu de rôle DARK SOULS™ II, comprenant tous les contenus et ajouts précédemment publiés.\nUn voyage inoubliable vous attend à travers un monde immense et mystérieux, où des adversaires mortels, des pièges perfides et des défis imprévisibles vous attendent à chaque tournant. Chaque rencontre pourrait être votre dernière, et chaque victoire exigera de l'endurance, du talent et de la détermination. Explorez les terres sombres de Drangleic, combattez des boss puissants, collectez des âmes et essayez de trouver un moyen de vous débarrasser de l'ancienne malédiction qui vous condamne à un voyage éternel entre la vie et la mort.\nScholar of the First Sin propose une toute nouvelle expérience de jeu : le placement des ennemis et des objets a été repensé, de nouveaux dangers et personnages sont apparus, et les lieux sûrs habituels ne garantissent plus le salut. Le jeu comprend également trois extensions majeures : Crown of the Sunken King, Crown of the Old Iron King et Crown of the Ivory King.\nPréparez-vous à affronter à nouveau la mort.\nDans le monde de DARK SOULS II, chaque étape est une épreuve et chaque victoire a un prix élevé.",
-        "title_id": "0100D52000560000"
-      },
-      {
         "title": "DuckTales: Remastered (portage ) [NRO][RUS]",
         "size": "592.5 MB",
         "magnet": "magnet:?xt=urn:btih:ADEC1347629B5837AF3C00129E114E70F84B3806&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -4867,6 +4871,37 @@
       }
     ],
     "de": [
+      {
+        "title": "DARK SOULS II: Scholar of the First Sin (Port Xbox 360 / ReXGlue) [NRO]",
+        "size": "10.11 GB",
+        "magnet": "magnet:?xt=urn:btih:8F3D51135834E8F792EDA3CF8F3A47EFBB5E1DAD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928209",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
+        "year": "2015",
+        "genre": "Action / RPG",
+        "developer": "FromSoftware",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Englisch [ENG] / Russisch [RUS]",
+        "voice_lang": "Englisch [ENG]",
+        "performance": "Ja (auf 23.1.0, Atmosphere 1.12.0)",
+        "multiplayer": "Nein",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
+        "screenshots": [
+          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
+          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
+        ],
+        "description": "DARK SOULS™ II: Scholar of the First Sin ist die vollständigste Ausgabe des gefeierten Rollenspiels DARK SOULS™ II, einschließlich aller zuvor veröffentlichten Inhalte und Ergänzungen.\nEs erwartet Sie eine unvergessliche Reise durch eine riesige und geheimnisvolle Welt, in der auf Schritt und Tritt tödliche Gegner, tückische Fallen und unvorhersehbare Herausforderungen lauern. Jede Begegnung könnte Ihre letzte sein und jeder Sieg erfordert Ausdauer, Geschick und Entschlossenheit. Erkunden Sie die dunklen Länder von Drangleic, kämpfen Sie gegen mächtige Bosse, sammeln Sie Seelen und versuchen Sie, einen Weg zu finden, den uralten Fluch loszuwerden, der Sie zu einer ewigen Reise zwischen Leben und Tod verurteilt.\nScholar of the First Sin bietet ein völlig neues Spielerlebnis: Die Platzierung von Feinden und Objekten wurde neu gestaltet, neue Gefahren und Charaktere sind aufgetaucht und die üblichen sicheren Orte garantieren keine Rettung mehr. Das Spiel enthält außerdem drei große Erweiterungen: Crown of the Sunken King, Crown of the Old Iron King und Crown of the Ivory King.\nBereiten Sie sich darauf vor, erneut dem Tod ins Auge zu sehen.\nIn der Welt von DARK SOULS II ist jeder Schritt eine Prüfung und jeder Sieg hat einen hohen Preis.",
+        "title_id": "0100D52000560000",
+        "titles": "0100D52000560000:0:"
+      },
       {
         "title": "Fur Squadron Phoenix [NSZ][ENG]",
         "size": "1.7 GB",
@@ -5967,36 +6002,6 @@
         "title_id": null
       },
       {
-        "title": "DARK SOULS II: Scholar of the First Sin (Port Xbox 360 / ReXGlue) [NRO]",
-        "size": "10.03 GB",
-        "magnet": "magnet:?xt=urn:btih:76FAFCEF588E3A52CF2AE1BC2ACCBD93CCCB2FE4&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928209",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
-        "year": "2015",
-        "genre": "Action / RPG",
-        "developer": "FromSoftware",
-        "publisher": "Unknown",
-        "image_format": "NRO",
-        "interface_lang": "Englisch [ENG] / Russisch [RUS]",
-        "voice_lang": "Englisch [ENG]",
-        "performance": "Ja (auf 23.1.0, Atmosphere 1.12.0)",
-        "multiplayer": "Nein",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
-        "screenshots": [
-          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
-          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
-        ],
-        "description": "DARK SOULS™ II: Scholar of the First Sin ist die vollständigste Ausgabe des gefeierten Rollenspiels DARK SOULS™ II, einschließlich aller zuvor veröffentlichten Inhalte und Ergänzungen.\nEs erwartet Sie eine unvergessliche Reise durch eine riesige und geheimnisvolle Welt, in der auf Schritt und Tritt tödliche Gegner, tückische Fallen und unvorhersehbare Herausforderungen lauern. Jede Begegnung könnte Ihre letzte sein und jeder Sieg erfordert Ausdauer, Geschick und Entschlossenheit. Erkunden Sie die dunklen Länder von Drangleic, kämpfen Sie gegen mächtige Bosse, sammeln Sie Seelen und versuchen Sie, einen Weg zu finden, den uralten Fluch loszuwerden, der Sie zu einer ewigen Reise zwischen Leben und Tod verurteilt.\nScholar of the First Sin bietet ein völlig neues Spielerlebnis: Die Platzierung von Feinden und Objekten wurde neu gestaltet, neue Gefahren und Charaktere sind aufgetaucht und die üblichen sicheren Orte garantieren keine Rettung mehr. Das Spiel enthält außerdem drei große Erweiterungen: Crown of the Sunken King, Crown of the Old Iron King und Crown of the Ivory King.\nBereiten Sie sich darauf vor, erneut dem Tod ins Auge zu sehen.\nIn der Welt von DARK SOULS II ist jeder Schritt eine Prüfung und jeder Sieg hat einen hohen Preis.",
-        "title_id": "0100D52000560000"
-      },
-      {
         "title": "DuckTales: Remastered (Port ) [NRO][RUS]",
         "size": "592.5 MB",
         "magnet": "magnet:?xt=urn:btih:ADEC1347629B5837AF3C00129E114E70F84B3806&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -6074,6 +6079,37 @@
       }
     ],
     "it": [
+      {
+        "title": "DARK SOULS II: Scholar of the First Sin (port Xbox 360 / ReXGlue) [NRO]",
+        "size": "10.11 GB",
+        "magnet": "magnet:?xt=urn:btih:8F3D51135834E8F792EDA3CF8F3A47EFBB5E1DAD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928209",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
+        "year": "2015",
+        "genre": "Action / RPG",
+        "developer": "FromSoftware",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Inglese [ENG] / Russo [RUS]",
+        "voice_lang": "Inglese [ENG]",
+        "performance": "Sì (su 23.1.0, Atmosphere 1.12.0)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
+        "screenshots": [
+          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
+          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
+        ],
+        "description": "DARK SOULS™ II: Scholar of the First Sin è l'edizione più completa dell'acclamato gioco di ruolo DARK SOULS™ II, inclusi tutti i contenuti e le aggiunte rilasciati in precedenza.\nTi aspetta un viaggio indimenticabile attraverso un mondo enorme e misterioso, dove avversari mortali, trappole insidiose e sfide imprevedibili si nascondono dietro ogni angolo. Ogni incontro potrebbe essere l'ultimo e ogni vittoria richiederà resistenza, abilità e determinazione. Esplora le terre oscure di Drangleic, combatti potenti boss, raccogli anime e cerca di trovare un modo per sbarazzarti dell'antica maledizione che ti condanna a un viaggio eterno tra la vita e la morte.\nScholar of the First Sin offre un'esperienza di gioco completamente nuova: il posizionamento di nemici e oggetti è stato ridisegnato, sono comparsi nuovi pericoli e personaggi e i soliti luoghi sicuri non garantiscono più la salvezza. Il gioco include anche tre principali espansioni: Crown of the Sunken King, Crown of the Old Iron King e Crown of the Ivory King.\nPreparati ad affrontare di nuovo la morte.\nNel mondo di DARK SOULS II, ogni passo è una prova e ogni vittoria ha un prezzo elevato.",
+        "title_id": "0100D52000560000",
+        "titles": "0100D52000560000:0:"
+      },
       {
         "title": "Fur Squadron Phoenix [NSZ][ENG]",
         "size": "1.7 GB",
@@ -7174,36 +7210,6 @@
         "title_id": null
       },
       {
-        "title": "DARK SOULS II: Scholar of the First Sin (port Xbox 360 / ReXGlue) [NRO]",
-        "size": "10.03 GB",
-        "magnet": "magnet:?xt=urn:btih:76FAFCEF588E3A52CF2AE1BC2ACCBD93CCCB2FE4&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928209",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
-        "year": "2015",
-        "genre": "Action / RPG",
-        "developer": "FromSoftware",
-        "publisher": "Unknown",
-        "image_format": "NRO",
-        "interface_lang": "Inglese [ENG] / Russo [RUS]",
-        "voice_lang": "Inglese [ENG]",
-        "performance": "Sì (su 23.1.0, Atmosphere 1.12.0)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
-        "screenshots": [
-          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
-          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
-        ],
-        "description": "DARK SOULS™ II: Scholar of the First Sin è l'edizione più completa dell'acclamato gioco di ruolo DARK SOULS™ II, inclusi tutti i contenuti e le aggiunte rilasciati in precedenza.\nTi aspetta un viaggio indimenticabile attraverso un mondo enorme e misterioso, dove avversari mortali, trappole insidiose e sfide imprevedibili si nascondono dietro ogni angolo. Ogni incontro potrebbe essere l'ultimo e ogni vittoria richiederà resistenza, abilità e determinazione. Esplora le terre oscure di Drangleic, combatti potenti boss, raccogli anime e cerca di trovare un modo per sbarazzarti dell'antica maledizione che ti condanna a un viaggio eterno tra la vita e la morte.\nScholar of the First Sin offre un'esperienza di gioco completamente nuova: il posizionamento di nemici e oggetti è stato ridisegnato, sono comparsi nuovi pericoli e personaggi e i soliti luoghi sicuri non garantiscono più la salvezza. Il gioco include anche tre principali espansioni: Crown of the Sunken King, Crown of the Old Iron King e Crown of the Ivory King.\nPreparati ad affrontare di nuovo la morte.\nNel mondo di DARK SOULS II, ogni passo è una prova e ogni vittoria ha un prezzo elevato.",
-        "title_id": "0100D52000560000"
-      },
-      {
         "title": "DuckTales: Remastered (port ) [NRO][RUS]",
         "size": "592.5 MB",
         "magnet": "magnet:?xt=urn:btih:ADEC1347629B5837AF3C00129E114E70F84B3806&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -7281,6 +7287,37 @@
       }
     ],
     "pt_br": [
+      {
+        "title": "DARK SOULS II: Scholar of the First Sin (port Xbox 360 / ReXGlue) [NRO]",
+        "size": "10.11 GB",
+        "magnet": "magnet:?xt=urn:btih:8F3D51135834E8F792EDA3CF8F3A47EFBB5E1DAD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928209",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
+        "year": "2015",
+        "genre": "Action / RPG",
+        "developer": "FromSoftware",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Inglês [ENG] / Russo [RUS]",
+        "voice_lang": "Inglês [ENG]",
+        "performance": "Sim (no 23.1.0, Atmosphere 1.12.0)",
+        "multiplayer": "Não",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
+        "screenshots": [
+          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
+          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
+        ],
+        "description": "DARK SOULS™ II: Scholar of the First Sin é a edição mais completa do aclamado RPG DARK SOULS™ II, incluindo todo o conteúdo e adições lançados anteriormente.\nUma viagem inesquecível espera por você através de um mundo enorme e misterioso, onde oponentes mortais, armadilhas traiçoeiras e desafios imprevisíveis espreitam a cada passo. Cada encontro pode ser o último, e cada vitória exigirá resistência, habilidade e determinação. Explore as terras sombrias de Drangleic, lute contra chefes poderosos, colete almas e tente encontrar uma maneira de se livrar da antiga maldição que o condena a uma jornada eterna entre a vida e a morte.\nScholar of the First Sin oferece uma experiência de jogo completamente nova: a colocação de inimigos e objetos foi redesenhada, novos perigos e personagens apareceram e os habituais locais seguros não garantem mais a salvação. O jogo também inclui três grandes expansões – Coroa do Rei Afundado, Coroa do Velho Rei de Ferro e Coroa do Rei do Marfim.\nPrepare-se para enfrentar a morte novamente.\nNo mundo de DARK SOULS II, cada passo é um teste e cada vitória tem um preço alto.",
+        "title_id": "0100D52000560000",
+        "titles": "0100D52000560000:0:"
+      },
       {
         "title": "Fur Squadron Phoenix [NSZ][ENG]",
         "size": "1.7 GB",
@@ -8381,36 +8418,6 @@
         "title_id": null
       },
       {
-        "title": "DARK SOULS II: Scholar of the First Sin (port Xbox 360 / ReXGlue) [NRO]",
-        "size": "10.03 GB",
-        "magnet": "magnet:?xt=urn:btih:76FAFCEF588E3A52CF2AE1BC2ACCBD93CCCB2FE4&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928209",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
-        "year": "2015",
-        "genre": "Action / RPG",
-        "developer": "FromSoftware",
-        "publisher": "Unknown",
-        "image_format": "NRO",
-        "interface_lang": "Inglês [ENG] / Russo [RUS]",
-        "voice_lang": "Inglês [ENG]",
-        "performance": "Sim (no 23.1.0, Atmosphere 1.12.0)",
-        "multiplayer": "Não",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
-        "screenshots": [
-          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
-          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
-        ],
-        "description": "DARK SOULS™ II: Scholar of the First Sin é a edição mais completa do aclamado RPG DARK SOULS™ II, incluindo todo o conteúdo e adições lançados anteriormente.\nUma viagem inesquecível espera por você através de um mundo enorme e misterioso, onde oponentes mortais, armadilhas traiçoeiras e desafios imprevisíveis espreitam a cada passo. Cada encontro pode ser o último, e cada vitória exigirá resistência, habilidade e determinação. Explore as terras sombrias de Drangleic, lute contra chefes poderosos, colete almas e tente encontrar uma maneira de se livrar da antiga maldição que o condena a uma jornada eterna entre a vida e a morte.\nScholar of the First Sin oferece uma experiência de jogo completamente nova: a colocação de inimigos e objetos foi redesenhada, novos perigos e personagens apareceram e os habituais locais seguros não garantem mais a salvação. O jogo também inclui três grandes expansões – Coroa do Rei Afundado, Coroa do Velho Rei de Ferro e Coroa do Rei do Marfim.\nPrepare-se para enfrentar a morte novamente.\nNo mundo de DARK SOULS II, cada passo é um teste e cada vitória tem um preço alto.",
-        "title_id": "0100D52000560000"
-      },
-      {
         "title": "DuckTales: Remastered (port ) [NRO][RUS]",
         "size": "592.5 MB",
         "magnet": "magnet:?xt=urn:btih:ADEC1347629B5837AF3C00129E114E70F84B3806&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -8488,6 +8495,37 @@
       }
     ],
     "zh_hans": [
+      {
+        "title": "DARK SOULS II: Scholar of the First Sin (移植版 Xbox 360 / ReXGlue) [NRO]",
+        "size": "10.11 GB",
+        "magnet": "magnet:?xt=urn:btih:8F3D51135834E8F792EDA3CF8F3A47EFBB5E1DAD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6928209",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
+        "year": "2015",
+        "genre": "Action / RPG",
+        "developer": "FromSoftware",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "英语 [ENG] / 俄语 [RUS]",
+        "voice_lang": "英语 [ENG]",
+        "performance": "是 (在 23.1.0, Atmosphere 1.12.0)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
+        "screenshots": [
+          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
+          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
+          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
+          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
+          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
+        ],
+        "description": "DARK SOULS™ II：原罪学者是广受好评的角色扮演游戏 DARK SOULS™ II 的最完整版本，包括所有之前发布的内容和附加内容。\n一段难忘的旅程等待着你，穿越一个巨大而神秘的世界，致命的对手、危险的陷阱和不可预知的挑战潜伏在每个角落。每一次遭遇都可能是你的最后一次，每一次胜利都需要耐力、技巧和决心。探索 Drangleic 的黑暗土地，与强大的 Boss 战斗，收集灵魂，并尝试找到一种方法来摆脱古老的诅咒，该诅咒使你陷入生与死之间的永恒旅程。\n《原罪学者》提供了全新的游戏体验：敌人和物体的位置被重新设计，新的危险和角色出现，通常的安全地点不再保证救赎。游戏还包括三个主要扩展包——沉没王冠、老铁王王冠和象牙王王冠。\n准备再次面对死亡。\n在《黑暗之魂2》的世界里，每一步都是一次考验，每一次胜利都需要付出高昂的代价。",
+        "title_id": "0100D52000560000",
+        "titles": "0100D52000560000:0:"
+      },
       {
         "title": "Fur Squadron Phoenix [NSZ][ENG]",
         "size": "1.7 GB",
@@ -9582,36 +9620,6 @@
         ],
         "description": "用武力取胜、制服怪物或用魔法改变战斗进程 - 您会选择哪条路？常规滚地球击球手杰克·莫尔击中了诺克斯。这个世界仍然记得与死灵法师的战争，但它的捍卫者已经分裂，赫卡芭女王正在准备亡灵大军的回归。一个随机的外星人必须成为能够阻止她的英雄。\n战士依靠重型盔甲、强大的武器和毁灭性的战斗技术。巫师征服动物和怪物，召唤魔法生物，派它们去狩猎或保护自己。魔术师拥有丰富的咒语库并能创造陷阱，每个陷阱最多可结合三个咒语。所选类别决定了最初的挑战、特殊任务和可用地点。后来，面对共同的威胁，英雄们的道路将会汇合，但熟悉的事件会以不同的方式出现，每条道路都会有自己的结局。\n快速的战斗等待着您，准确性、移动性和力量组合将帮助您取得胜利，而一个错误可能会毁掉您。可视性系统 \nTrueSight 将墙壁和角落后面的空间隐藏在阴影中：伏击可能正在最近的角落等待。对手捡起食物恢复生命值，受重伤后尝试逃跑，射手则保持距离并满怀期待地瞄准。利用您的环境来获胜。\n通往胜利的三种道路，对同一个世界的三种看法——以及许多返回以不同方式经历一切的理由。",
         "title_id": null
-      },
-      {
-        "title": "DARK SOULS II: Scholar of the First Sin (移植版 Xbox 360 / ReXGlue) [NRO]",
-        "size": "10.03 GB",
-        "magnet": "magnet:?xt=urn:btih:76FAFCEF588E3A52CF2AE1BC2ACCBD93CCCB2FE4&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6928209",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6928209",
-        "year": "2015",
-        "genre": "Action / RPG",
-        "developer": "FromSoftware",
-        "publisher": "Unknown",
-        "image_format": "NRO",
-        "interface_lang": "英语 [ENG] / 俄语 [RUS]",
-        "voice_lang": "英语 [ENG]",
-        "performance": "是 (在 23.1.0, Atmosphere 1.12.0)",
-        "multiplayer": "无",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6928209.jpg",
-        "screenshots": [
-          "https://i5.imageban.ru/out/2026/10/26/a5b6294e38a6e11f49c9b5fc126c16ec.jpg",
-          "https://i2.imageban.ru/out/2026/10/26/f2b9fde09f70839448a11ed927c6f55e.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/b07405692ec76f3283044ff7b2c17307.jpg",
-          "https://i8.imageban.ru/out/2026/10/26/50922f9715ea97fabf3ae3d2d4de61f0.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/bc20b5c23c913523d6a8586443b79701.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/57bb96cdd15df2a7625edad104e34f2b.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/d2a8477c7c0e4510f341e40e7f7e947a.jpg",
-          "https://i8.imageban.ru/out/2026/10/31/ece1defb5145ea25c018f56abbbc16bf.jpg",
-          "https://i5.imageban.ru/out/2026/10/31/72d67b9bfe49594134604b38145ea3c8.jpg"
-        ],
-        "description": "DARK SOULS™ II：原罪学者是广受好评的角色扮演游戏 DARK SOULS™ II 的最完整版本，包括所有之前发布的内容和附加内容。\n一段难忘的旅程等待着你，穿越一个巨大而神秘的世界，致命的对手、危险的陷阱和不可预知的挑战潜伏在每个角落。每一次遭遇都可能是你的最后一次，每一次胜利都需要耐力、技巧和决心。探索 Drangleic 的黑暗土地，与强大的 Boss 战斗，收集灵魂，并尝试找到一种方法来摆脱古老的诅咒，该诅咒使你陷入生与死之间的永恒旅程。\n《原罪学者》提供了全新的游戏体验：敌人和物体的位置被重新设计，新的危险和角色出现，通常的安全地点不再保证救赎。游戏还包括三个主要扩展包——沉没王冠、老铁王王冠和象牙王王冠。\n准备再次面对死亡。\n在《黑暗之魂2》的世界里，每一步都是一次考验，每一次胜利都需要付出高昂的代价。",
-        "title_id": "0100D52000560000"
       },
       {
         "title": "DuckTales: Remastered (移植版 ) [NRO][RUS]",
