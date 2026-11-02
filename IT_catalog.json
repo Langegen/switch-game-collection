@@ -1,12 +1,12 @@
 [
     {
-        "title": "Ice Age 2: The Meltdown",
+        "title": "Ice Age 2: The Meltdown (homebrew) [RUS]",
         "size": "1.47 GB",
-        "magnet": "magnet:?xt=urn:btih:8871A2870C0B64CB952AB1EDA8AD4C83BCFAB5A2&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:12F148DCCCAE1CB3FD331C1834FFE6128A780B40&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6929966",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6929966",
         "year": "2006",
-        "genre": "Adventure",
+        "genre": "Adventure, Homebrew",
         "developer": "Eurocom",
         "publisher": "Unknown",
         "image_format": "NSP",
@@ -16,6 +16,7 @@
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6929966.jpg",
         "screenshots": [
+            "https://i5.imageban.ru/thumbs/2026.10.29/6c26d05ce1e0d4d84873f30b9199bc05.jpg",
             "https://i3.imageban.ru/thumbs/2026.10.29/87b1f1ceca488dfede821d44129f6f13.jpg",
             "https://i3.imageban.ru/thumbs/2026.10.29/204023d6a57d7548fea7fec08db7f1b5.jpg",
             "https://i1.imageban.ru/thumbs/2026.10.29/66dbf8005d94f9924aaf9fa044498ca2.jpg",
@@ -24,7 +25,7 @@
         ],
         "description": "Aiuta un gruppo eterogeneo di animali spinti dal riscaldamento globale e ad arrivare alla terra, dove non saranno più inseguiti da infiniti pericoli. Oltre al gameplay originale, The Meltdown offre anche una serie di diversi minigiochi che possono diversificare il nostro tempo nel mondo virtuale e divertire i bambini.",
         "title_id": null,
-        "version": "0.2.1"
+        "version": "0.3.1"
     },
     {
         "title": "Super Mario World (port ) [EN]",
