@@ -2,7 +2,7 @@
     {
         "title": "Ice Age 2: The Meltdown (homebrew) [RUS]",
         "size": "1.47 GB",
-        "magnet": "magnet:?xt=urn:btih:12F148DCCCAE1CB3FD331C1834FFE6128A780B40&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:E4FB6632CFF8326DB3395CE8C27B9C315DAE1F3F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6929966",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6929966",
         "year": "2006",
@@ -25,7 +25,7 @@
         ],
         "description": "Aidez une bande hétéroclite d'animaux poussés par le réchauffement climatique et atterrissez, où ils ne seront plus poursuivis par des dangers sans fin. En plus du gameplay original, The Meltdown propose également un tas de mini-jeux différents qui peuvent diversifier notre temps dans le monde virtuel et amuser les enfants.",
         "title_id": null,
-        "version": "0.3.1"
+        "version": "0.3.2"
     },
     {
         "title": "Super Mario World (portage ) [EN]",
@@ -3545,8 +3545,8 @@
     },
     {
         "title": "EA Sports FC 27 [NSP][RUS/Multi11]",
-        "size": "31.97 GB",
-        "magnet": "magnet:?xt=urn:btih:DF0795AA0195D48FFB827A499EE84164FF1F801C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "32.34 GB",
+        "magnet": "magnet:?xt=urn:btih:665805637BCF0919BBA7B3C4BDA7285300A32780&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6913970",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6913970",
         "year": "25.09.2026",
@@ -3568,9 +3568,9 @@
         ],
         "description": "Bienvenue dans le jeu universel : EA SPORTS FC™ 27.\n\nPrenez d’assaut The Grounds‡‡, un terrain de soccer social où les rues et les stades se rencontrent. Des petits matchs et 1 contre 1 aux joutes entre proches dans Clubs, interagissez avec des mentors renommés, améliorez vos habiletés et exprimez-vous sur le terrain comme ailleurs.\nProfitez d’un contrôle accru dans chaque mode de jeu avec une expérience plus fluide et réaliste mettant en vedette des coups de pied de coin dynamiques, une attention rehaussée à l’attaque, une défense axée sur les athlètes conçue pour un jeu compétitif et d’autres innovations inspirées par la communauté.\nEmbauchez votre prochaine étoile dans Carrière de manager grâce à un Marché des transferts avec des valeurs plus réalistes et des enchères de club actives. Maîtrisez de nouvelles tactiques de négociation, incluant des clauses de performance et de rachat, alors que les GÉN dynamiques reflètent l’état physique, le moral et la forme des athlètes à travers chaque club.\nImmortalisez votre équipe de rêve dans Football Ultimate Team™ avec la toute nouvelle Galerie FUT. Sélectionnez votre éléments j. favoris afin de faire progresser votre niveau de galerie, de gagner des récompenses et de bâtir l’identité de votre club tout au long de la saison de soccer.\nFaites l’expérience d’une authenticité hors pair dans EA SPORTS FC™ 27 avec des données de matchs tirées des plus grandes ligues du monde propulsant plus de 21 000 athlètes sous licence.\n\n‡‡Le mode The Grounds, incluant Clubs, est uniquement offert sur la version Nintendo Switch™ 2.\n\nCe jeu comprend des achats optionnels de monnaies virtuelles dans le jeu qui peuvent être utilisées pour acquérir des objets virtuels, y compris une sélection aléatoire d’objets virtuels.",
         "title_id": "0100C49025D3E000",
-        "version": "1.8c",
-        "update_version": 327680,
-        "titles": "0100C49025D3E000:327680:1.8c"
+        "version": "1.8d",
+        "update_version": 458752,
+        "titles": "0100C49025D3E000:458752:1.8d"
     },
     {
         "title": "Sin Reloaded Gold + Wages of Sin [NSZ][RUS (Mod.)/ENG]",
