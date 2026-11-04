@@ -1,5 +1,30 @@
 [
     {
+        "title": "Pokémon Pokopia [Nintendo Switch 2]",
+        "size": "6.54 GB",
+        "magnet": "magnet:?xt=urn:btih:52AAFBB95FD5FEB6FAB148FAE945085E2B3B4EE2&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6932607",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6932607",
+        "year": "2026, marzo",
+        "genre": "Life Simulation",
+        "developer": "GAME FREAK, KOEI TECMO GAMES",
+        "publisher": "Nintendo, The Pokémon Company",
+        "image_format": "NUP",
+        "interface_lang": "Inglese, Tedesco, Francese, Spagnolo, Italiano, Giapponese, Coreano, Cinese [Multi 9]",
+        "voice_lang": "Nessuno",
+        "performance": "Sì (su emulyatore Switch 2 PokeDinner-Eglantine-2.5.0)",
+        "multiplayer": "Fino a 4 giocatori",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6932607.jpg",
+        "screenshots": [
+            "https://i2.imageban.ru/thumbs/2026.11.04/45a16ca5a7984874a7c766107a20979b.png",
+            "https://i5.imageban.ru/thumbs/2026.11.04/612b728defb858f06d8bf5bf731684b5.png",
+            "https://i2.imageban.ru/thumbs/2026.11.04/893279b1a66ebee0c7ccbbf27e5fbcee.png"
+        ],
+        "description": "In Pokémon Pokopia giochi nei panni di Ditto, che ha assunto sembianze umane. Il mondo intorno è vuoto ed è necessario riportarlo in vita: raccogliere materiali, costruire case, coltivare piante e creare habitat per i Pokemon.\nIncontra nuovi vicini, impara da loro trucchi utili e cambia il paesaggio: coltiva l'erba, spacca le rocce, attraversa l'acqua e raggiungi le montagne. Pokemon ti aiuterà con la costruzione e ti contatterà con le richieste. Configura il tuo angolo secondo i tuoi ritmi e poi invita i tuoi amici: potete giocare insieme su una rete locale o online.",
+        "title_id": null,
+        "version": "2.0.1a"
+    },
+    {
         "title": "Bluey's Happy Snaps [XCI][ENG]",
         "size": "3.72 GB",
         "magnet": "magnet:?xt=urn:btih:CBA6F655C1881C1509C5C6099160D6906673C1F8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -60,19 +85,19 @@
         "titles": "0100B19026484000:0:"
     },
     {
-        "title": "Mario Kart World [NSP][RUS/Multi12]",
-        "size": "21.97 GB",
-        "magnet": "magnet:?xt=urn:btih:5D240349FDE6AEA5FAB2A14B949F608E15E0F00F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "title": "Mario Kart World [NUP][RUS/Multi12]",
+        "size": "21.59 GB",
+        "magnet": "magnet:?xt=urn:btih:6D417ED168D81749C2A58F5040A82BAF7B6406D1&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6932402",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6932402",
         "year": "2025, giugno",
         "genre": "Racing, Action",
         "developer": "Nintendo EPD",
         "publisher": "Nintendo",
-        "image_format": "NSP",
+        "image_format": "NUP",
         "interface_lang": "Russo, Inglese [RUS / ENG / Multi 12]",
         "voice_lang": "Inglese",
-        "performance": "Sì (su emulyatore Switch 2 PokeDinner-Eglantine-2.1.0)",
+        "performance": "Sì (su emulyatore Switch 2 PokeDinner-Eglantine-2.5.0)",
         "multiplayer": "Fino a 4 giocatori",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6932402.jpg",
         "screenshots": [
@@ -85,7 +110,7 @@
         ],
         "description": "Guida senza limiti con Mario e i suoi amici! Sfreccia tra i percorsi di un vasto mondo dove ogni luogo è collegato. Gareggia tra verdi pianure, vivaci città, vasti specchi d’acqua, vulcani antichi e... tutto quello che c’è in mezzo! In esclusiva per Nintendo Switch 2!",
         "title_id": null,
-        "version": "917504"
+        "version": "1.8.0"
     },
     {
         "title": "Dicevaders (Dice Vaders) [NSZ][ENG]",
@@ -5061,8 +5086,8 @@
     },
     {
         "title": "Another Eden Begins [NSP][RUS (Mod.)/ENG]",
-        "size": "4.01 GB",
-        "magnet": "magnet:?xt=urn:btih:F25184683F052542ADAF95B492F41490EE82C4B7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "4.23 GB",
+        "magnet": "magnet:?xt=urn:btih:E556229908F1503517F7529AD63466B74A719B13&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6904261",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6904261",
         "year": "2026, settembre",
@@ -5085,9 +5110,9 @@
         ],
         "description": "A time-traveling RPG adventure from Masato Kato, creator of countless classic RPGs\nProduct Summary\nAldo embarks on an adventure beyond time and space to save his sister, Feinne, from the clutches of the beastfolk.\n\nA richly woven tale by scenario writer and director, Masato Kato, unfolds across the ages, alongside a main theme composed by Yasunori Mitsuda, music incorporating traditional folk instruments and an orchestra by Procyon Studios, and a stellar voice cast.\n\nThe strategic command battles, which feature exhilarating actions like chain skills that trigger successive strikes, and Another Force that allows a barrage of attacks, can be fought with original parties composed from a total of 19 characters.\n\nAfter clearing the main story, New Game+ offers a new adventure filled with new faces and over 10 different endings based on your actions and choices.\n\n◆Strategic Command Battles\nThe lands of Another Eden are rife with monsters—run into them to initiate a command-based battle and take them down.\nCreate your own original parties, unleash chain skills, and create chains to trigger successive strikes!\nUnleash a flurry of attacks with Another Force to beat your enemy into submission!\n\n◆Befriend and Forge Meaningful Bonds with 18 Allies\n18 allies of different races and eras await Aldo on his journey.\nAllies' stories are told through various quests. Encounter quests depict their first meeting with Aldo, character quests reveal their past and purpose, and kinship quests explore their relationship with Aldo.\n\n◆Embark on a New Adventure with New Game+\nComplete the main story to unlock New Game+ and embark on a new adventure with your allies as they are!\nNew Game+ also introduces a brand-new character, Ramiu, and features over 10 different endings based on your actions and choices.\n\n◆New Features to Enrich Your Time-Traveling Adventure\nEnrich your adventure beyond time and space by logging the feline friends you encounter in the cat catalog, and creating weapons, armor, and food from different eras with the crafting feature.",
         "title_id": "0100F3E024DFC000",
-        "version": "1.1.2",
-        "update_version": 196608,
-        "titles": "0100F3E024DFC000:196608:"
+        "version": "1.1.3",
+        "update_version": 262144,
+        "titles": "0100F3E024DFC000:262144:"
     },
     {
         "title": "Veiled Edge [NSZ][RUS/Multi7]",
@@ -12152,33 +12177,37 @@
         "titles": "0100646019558000:65536:"
     },
     {
-        "title": "To the Moon / Finding Paradise / A Bird Story [NSZ][RUS/Multi10]",
-        "size": "2.16 GB",
-        "magnet": "magnet:?xt=urn:btih:2119BC6BBB26AC363B8F563DF2D53B932F083024&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "To the Moon / Finding Paradise / A Bird Story / Sigmund Minisode 1 i 2 Holiday Special [NSZ][RUS/Multi10]",
+        "size": "2.97 GB",
+        "magnet": "magnet:?xt=urn:btih:A9B2B67D676B03326FAA505A8243B92ED66859C9&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5836346",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5836346",
         "year": "2020, gennaio - 2026, ottobre",
         "genre": "Adventure, Role-Playing",
         "developer": "Freebird Games",
         "publisher": "X.D. Network",
-        "image_format": ".NSZ (compresso ~60%, dimensione installata 5.36 GB)",
+        "image_format": ".NSZ (compresso ~60%, dimensione installata 7.35 GB)",
         "interface_lang": "Russo, Inglese [RUS / ENG / Multi 10]",
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5836346.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/751bb5d5267f3e4d962904d6f0c27bec8d95b012228a3367af43cc787b283dae.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/c8d1929e3ba58410ccdae5b43511270432ad07d4d976b1835914ae7953871f41.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d452c6f541b1e55c089fde93a0ed8d192e6b800996e037d465204fe3f8d8370b.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d35664cb01d9bbfb8adc7c25d8e321bb72bb602ca772e27d1a924d1101d98770.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b6446ea42e9e7ba3c22647697b25c5d931a508c4e3bc339a807bf1653cec7804.jpg&output=jpg"
+            "https://i111.fastpic.org/thumb/2020/0116/fd/ea667b8d4c1846bfee11048022639ffd.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/21/69748a3d1a4fb8d62dbdc6332d832c21.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/25/13f6bf4c4c49b65f43cba85b9e56c125.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/31/882685bf1bb5e5a9bbbaee65413fae31.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/53/7be9df58ead2fd2f68444a6e527cba53.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/ad/72b2767c73efa7661146e20eb4c51dad.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/1c/d1c3624b9de89ae9c19d5be62c922a1c.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/63/e2d9bcabf748f6efe2df5aad6fc52663.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/27/2268f6367b4c204160fd5fbab8bfd227.jpeg"
         ],
-        "description": "Informazioni sul gioco\nLa Dott.ssa Rosalene e il Dott. Watts svolgono un lavoro particolare: dare ai loro pazienti la possibilità di rivivere la propria vita dall'inizio...ma solo nella loro mente.\n\nA causa dell'irreversibilità dell'operazione, questa nuova vita diventerà l'ultima cosa che i pazienti ricorderanno prima di esalare il loro ultimo respiro.\n\nPer questo motivo, l'operazione viene eseguita solo su persone che si trovano sul letto di morte per permettergli di esaudire ciò che hanno sempre sognato e mai ottenuto.\nQuesta particolare storia narra del tentativo di avverare il sogno di un uomo molto anziano, di nome Johnny. \nAd ogni salto a ritroso nei suoi ricordi, nuovi frammenti del suo passato vengono rivelati.\nQuando i due medici ricomporranno il corso degli eventi di tutta una vita, dovranno cercare di capire il motivo per cui quell'uomo così fragile abbia scelto proprio quel desiderio lì. L'ultimo desiderio di Johnny è, ovviamente...andare sulla luna.\n\nCARATTERISTICHE \n- Un'esperienza unica guidata da una storia senza scontri o battaglie.\n- Un mix innovativo tra i giochi d'avventura e l'estetica tipica dei classici RPG\n- Un'acclamata colonna sonora originale legata strettamente agli eventi della storia.\n- Uno svolgimento intenso, senza momenti riempitivi o tempi morti.",
-        "title_id": "010036700F83E000",
+        "description": "Un viaggio giocoso su due medici che navigano nei ricordi di un uomo morente nel tentativo di soddisfare artificialmente il suo ultimo desiderio...\nLa dottoressa Rosalyn e il dottor Watts hanno un lavoro insolito: danno ai pazienti la possibilità di rivivere la propria vita, dall'inizio... ma solo nella loro mente.",
+        "title_id": "0100F260274C4000",
         "version": "1.8",
         "update_version": 393216,
-        "titles": "0100F260274C4000:65536:;010036700F83E000:393216:;0100035013A26000:131072:"
+        "titles": "0100F260274C4000:65536:;010036700F83E000:393216:;0100035013A26000:131072:;0100A480214FE000:65536:;0100048021500000:65536:"
     },
     {
         "title": "Baldur's Gate (Tales of the Sword Coast, Siege of Dragonspear, The Black Pits) / Baldur's Gate II (Shadows of Amn, Throne of Bhaal, The Black Pits II Gladiators of Thay): Enhanced Editions [NSZ][RUS (Mod.)/Multi9]",
@@ -22260,8 +22289,8 @@
     },
     {
         "title": "Sonic Racing Crossworlds + 8 DLC [NSZ][RUS/Multi10]",
-        "size": "10.72 GB",
-        "magnet": "magnet:?xt=urn:btih:0F54FFCDF357B18152048DE0909716D60E88289C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "10.85 GB",
+        "magnet": "magnet:?xt=urn:btih:6EC0E3E70AA50C52C03FD707E08895B937A82C21&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6748998",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6748998",
         "year": "2025, settembre",
@@ -22283,9 +22312,9 @@
         ],
         "description": "**Per accedere ai contenuti della Digital Deluxe Edition su Nintendo Switch™ 2, acquista la Digital Deluxe Edition per Nintendo Switch™ e il pacchetto upgrade alla Nintendo Switch™ 2 Edition. I possessori dell'edizione per Nintendo Switch™ 2 possono accedere ai contenuti della Digital Deluxe Edition anche acquistando il pass stagionale per Nintendo Switch™.\n\nSfreccia sul tracciato, sull'acqua, in aria e nello spazio con Sonic Racing: CrossWorlds! Sfrutta i Ring di trasferimento per teletrasportarti in nuove dimensioni in cui ogni angolo nasconde una sorpresa.  \n\nCorri verso la vittoria in solitaria o con la tua squadra, in modalità offline o online e affronta giocatori da tutto il mondo. Costruisci l'auto definitiva che rispecchi il tuo stile di guida, sblocca gadget per avere la meglio sui tuoi avversari e scatena i tuoi poteri per vincere!\n\nPronti, partenza, teletrasporto!   \nSfreccia su 24 percorsi e teletrasportati in 15 CrossWorld con i Ring di trasferimento, con meccaniche uniche che porteranno gli iconici personaggi della saga di Sonic e SEGA in nuove dimensioni. Usa l'imprevedibilità a tuo favore, cambiando il paesaggio durante ogni gara!  \n\nChe vinca il migliore!\nScegli fra 23 iconici personaggi, la scuderia più grande che un gioco della serie Sonic Racing abbia mai avuto! \n\nPersonalizza la tua esperienza  \nMescola 45 veicoli unici con ben 70 gadget di ogni tipo per modificare la tua gara, potenziare il tuo kart e creare il veicolo definitivo che rispecchi il tuo stile di gioco. \n\nDomina la gara grazie ai potenziamenti!  \nDomina i tuoi avversari con 23 oggetti, alcuni dei quali già visti e apprezzati, e con novità come il monster truck!  \n\nMille modi di giocare  \nChiama gli amici e giocate in locale condividendo lo schermo nella modalità Gran Premio e nella nuova modalità Parco delle Corse, sfida piloti da tutto il mondo e aumenta il tuo grado nella modalità World Match, affronta gli amici online nelle lobby da 12 giocatori con regole personalizzate nella gara amichevole, o metti alla prova le tue abilità di guida nella modalità Corsa contro il Tempo.",
         "title_id": "01006E001823C000",
-        "version": "1.41",
-        "update_version": 589824,
-        "titles": "01006E001823C000:589824:"
+        "version": "1.43",
+        "update_version": 720896,
+        "titles": "01006E001823C000:720896:"
     },
     {
         "title": "EA Sports FC 24 [NSZ][RUS/Multi11]",
@@ -57465,34 +57494,34 @@
         "titles": "010035001769E000:0:;010042B017968000:0:;01009D201B02E000:0:;0100D3C018442000:65536:;01001BD010758000:65536:;01004D200BB96000:131072:;0100E77018A58000:0:;010056E0187FE000:65536:;0100BF80187FA000:65536:;010034C0152A8000:0:;01007D101D306000:0:;0100FBA01588C000:0:;0100141017480000:131072:;0100FE9018800000:65536:;010002F01E86A000:0:;010059901442E000:65536:;0100F30012CBE000:0:;0100D510169B2000:0:;01004920198C8000:0:;01008C10196C4000:0:"
     },
     {
-        "title": "Dog Man Mission Impawsible [NSZ][RUS (Mod.)/ENG]",
-        "size": "1.13 GB",
-        "magnet": "magnet:?xt=urn:btih:B67C2B9595E371504851666AC2500D2BBDD4B9B3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "title": "Dog Man Mission Impawsible / Bark in Action [NSZ][RUS (Mod.)/ENG]",
+        "size": "3.14 GB",
+        "magnet": "magnet:?xt=urn:btih:664CE79AAF4E9201EA33BBA1464A6AD3FC14181C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6581133",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6581133",
-        "year": "2024, dicembre",
+        "year": "2024, dicembre - 2026, ottobre",
         "genre": "Platformer, Arcade, Action, Puzzle",
         "developer": "Floor 84 Studio",
         "publisher": "Mindscape",
         "image_format": ".NSZ (compresso ~19%, dimensione installata 1.34 GB)",
-        "interface_lang": "Inglese [ENG] + traduzione automatica di most2820",
+        "interface_lang": "Inglese [ENG] + traduzione automatica di most2820 per pervoy chasti",
         "voice_lang": "Senza doppiaggio",
-        "performance": "Sì (su 18.1.0, Atmosphere 1.7.1)",
+        "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6581133.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/23e45f639e372d0e5e4b5d0b8d576255630c02ffd5094770a9d5a736aa496c39.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/5ba9a2f6032f1cf657446800c74c362c47da9108c196def08e5d1f4b8c8f4e84.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/44ea099bf9d2249572178ccb118e17c8bd7dd4c1d7c97e4571a48212488ddba6.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/c263574f3ef7673c879fe778f47fcf84bdba15e25e808c17a557d233af73345e.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/89788b5613774f9ed150c041115cea06c28eaf17d2d87141b9e0870813c070ee.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/fe3f9277818b990fa8a31ded5777f01b3bad1428da48fa0592da97e5e3717e33.jpg&output=jpg"
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d3ff4937a4b4947f82ba32d8164680db04aca31b435a1dd436e03bb9d4ff86f0.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b7f85e1780786cb31110ffd339be4f9bef40bdca5cc8222ff51be5d7c5c79d6b.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/e65714b8e06d5b962013b30e9028afaab71452eec1bd1e9774292420082a033e.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/e681fe56f0c4e78f9fc922f42039b4bdb023fbb4f335a0d88fa2195bfe255a4d.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/9431bb4e8e3b4d0095b256f07414eb6323e8d4d555ab4de94cd297aeb640aeb5.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/649c158afb761b2837b620ce6c0408d5aa540efe8c37ca4cc910b963bfda2fc9.jpg&output=jpg"
         ],
-        "description": "Le chiavi della città sono finite nelle mani di un super-cattivo che ha aperto tutte le celle della prigione, liberando un sacco di malvagi. Aiuta Dog Man e i suoi amici a dare la caccia ai cattivi nella loro missione più zampastica! Gioca nei panni di Dog Man e dei Supa Buddies: ognuno ha le proprie abilità speciali e gadget, come gli stivali a razzo, gli artigli retrattili e i pantaloni antimacchia. Insieme, supererete grandi sfide e sconfiggerete potenti boss!\n\nCaratteristiche del gioco:\n* 50 Livelli emozionanti: esplora luoghi celebri dell’universo di Dog Man, come il municipio, la fabbrica dei marshmallow e la stazione di polizia. Ogni luogo presenta le proprie sfide di platforming e i propri enigmi da risolvere.\n* Gioco di squadra: passa da Dog Man ai Supa Buddies. Ognuno ha le proprie abilità speciali con cui superare gli ostacoli e affrontare i boss.\n* Gadget divertenti: sblocca nuovi gadget e abilità progredendo nel gioco, come il rampino, le scarpe a razzo e i guanti del potere: ti aiuteranno a spostarti nei livelli.\n* Puzzle e boss: spremiti le meningi per risolvere puzzle e sconfiggere boss unici. Ogni battaglia con un boss richiede un uso intelligente delle abilità del tuo team.\n* Humor e azione: dialoghi divertenti, interazioni spassose e azione non-stop nel mondo di Dog Man.\n* Ricompense e collezionabili: torna nei livelli già visitati con nuovi gadget per scoprire aree segrete e salvare i membri mancanti del Club dei Fumetti!\n* Stile da fumetto: splendide animazioni ispirate dai libri originali, con effetti sonori fumettosi che danno un tocco divertente all’azione.",
-        "title_id": "0100D90020486000",
+        "description": "Un gioco fumettoso e ricco di azione, divertimento, scontri con i boss e gadget che danno nuove abilità. Gioca con 10 personaggi diversi del fumetto, ciascuno con poteri unici.\n\nC'è bisogno di un eroe! Il Dottor De Furfantis ha installato degli ipno-schermi in tutta la città e ora controlla le menti degli ignari cittadini. Tocca a Dog Man, metà cane e metà uomo, opporsi al Dottor De Furfantis e ai suoi scagnozzi. Sconfiggi il Dottor De Furfantis, salva i tuoi amici e proteggi la città!\n\nUn gioco basato sui fantastici fumetti di Dog Man realizzati da Dav Pilkey, noto anche per Capitan Mutanda.\n\nCaratteristiche di Bark in Action:\n\nCollabora con i Super Fantastici\nPassa da Dog Man ai Super Fantastici, Ginetto e CR-80. Ognuno ha delle abilità speciali con cui superare gli ostacoli e sconfiggere il Dottor De Furfantis. Chiama in aiuto i tuoi amici, come Capitan Muffin o Capo, per un totale di 10 personaggi giocabili!\n\nEsplora 60 livelli pieni d'azione\nEsplora luoghi noti dell'universo di Dog Man, come la Gattabuia e le Industrie Crono-Robot. Batti i record delle Sfide a tempo e scopri tutte le sorprese presenti nei Livelli misteriosi!\n\nGioca in solitaria o con un amico\nRaddoppia l'azione con un secondo giocatore dotato di abilità speciali uniche. Una modalità co-op locale per tutta la famiglia!\n\nScopri costumi sbloccabili e super gadget\nRaccogli gli ingranaggi per sbloccare folli gadget. Raccogli il filo per creare nuovi incredibili costumi, come quelli di Spelacchio Scarlatto, Cat Kid e molti altri!\n\nAffronta i cattivi\nUsa la mossa di combattimento tipica di ciascun personaggio per battere gli scagnozzi del Dottor De Furfantis e il super cattivone in persona. Sconfiggi i boss con un astuto lavoro di squadra!",
+        "title_id": "010092E02849A000",
         "version": "1.0.5",
         "update_version": 327680,
-        "titles": "0100D90020486000:327680:"
+        "titles": "010092E02849A000:196608:;0100D90020486000:327680:"
     },
     {
         "title": "The Escapists 1/2: Complete edition [NSP][Rus (Mod.)/ENG]",

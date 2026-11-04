@@ -1,5 +1,30 @@
 [
     {
+        "title": "Pokémon Pokopia [Nintendo Switch 2]",
+        "size": "6.54 GB",
+        "magnet": "magnet:?xt=urn:btih:52AAFBB95FD5FEB6FAB148FAE945085E2B3B4EE2&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6932607",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6932607",
+        "year": "2026, март",
+        "genre": "Life Simulation",
+        "developer": "GAME FREAK, KOEI TECMO GAMES",
+        "publisher": "Nintendo, The Pokémon Company",
+        "image_format": "NUP",
+        "interface_lang": "Английский, немецкий, французский, испанский, итальянский, японский, корейский, китайский [Multi 9]",
+        "voice_lang": "Нет",
+        "performance": "Да (на эмуляторе Switch 2 PokeDinner-Eglantine-2.5.0)",
+        "multiplayer": "до 4 игроков по локальной сети или онлайн",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6932607.jpg",
+        "screenshots": [
+            "https://i2.imageban.ru/thumbs/2026.11.04/45a16ca5a7984874a7c766107a20979b.png",
+            "https://i5.imageban.ru/thumbs/2026.11.04/612b728defb858f06d8bf5bf731684b5.png",
+            "https://i2.imageban.ru/thumbs/2026.11.04/893279b1a66ebee0c7ccbbf27e5fbcee.png"
+        ],
+        "description": "В Pokémon Pokopia вы играете за Дитто, принявшего человеческий облик. Мир вокруг опустел, и его предстоит вернуть к жизни: собирать материалы, строить дома, выращивать растения и создавать места обитания для покемонов.\nЗнакомьтесь с новыми соседями, учитесь у них полезным приёмам и меняйте ландшафт: выращивайте траву, разбивайте камни, пересекайте воду и добирайтесь до гор. Покемоны помогут со строительством и будут обращаться к вам с просьбами. Обустраивайте свой уголок в удобном темпе, а затем приглашайте друзей — играть вместе можно по локальной сети или онлайн.",
+        "title_id": null,
+        "version": "2.0.1a"
+    },
+    {
         "title": "Bluey's Happy Snaps [XCI][ENG]",
         "size": "3.72 GB",
         "magnet": "magnet:?xt=urn:btih:CBA6F655C1881C1509C5C6099160D6906673C1F8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -60,19 +85,19 @@
         "titles": "0100B19026484000:0:"
     },
     {
-        "title": "Mario Kart World [NSP][RUS/Multi12]",
-        "size": "21.97 GB",
-        "magnet": "magnet:?xt=urn:btih:5D240349FDE6AEA5FAB2A14B949F608E15E0F00F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "title": "Mario Kart World [NUP][RUS/Multi12]",
+        "size": "21.59 GB",
+        "magnet": "magnet:?xt=urn:btih:6D417ED168D81749C2A58F5040A82BAF7B6406D1&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6932402",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6932402",
         "year": "2025, июнь",
         "genre": "Racing, Action",
         "developer": "Nintendo EPD",
         "publisher": "Nintendo",
-        "image_format": "NSP",
+        "image_format": "NUP",
         "interface_lang": "Русский, Английский [RUS / ENG / Multi 12]",
         "voice_lang": "английская",
-        "performance": "Да (на эмуляторе Switch 2 PokeDinner-Eglantine-2.1.0)",
+        "performance": "Да (на эмуляторе Switch 2 PokeDinner-Eglantine-2.5.0)",
         "multiplayer": "до 4 игроков на одной платформе, до 8 по локальной сети",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6932402.jpg",
         "screenshots": [
@@ -85,7 +110,7 @@
         ],
         "description": "В Mario Kart World трассой становится целый мир. Гоняйте с Марио и его друзьями по городам, лесам, горам и побережьям, а затем отправляйтесь исследовать окрестности между заездами.\nСоревнуйтесь в Гран-при, участвуйте в гонках на выбывание или устраивайте битвы на аренах. На трассе могут встретиться до 24 гонщиков, а погода и время суток меняются прямо во время заезда. Играйте в одиночку, с друзьями на одной консоли или онлайн.",
         "title_id": null,
-        "version": "917504"
+        "version": "1.8.0"
     },
     {
         "title": "Dicevaders (Dice Vaders) [NSZ][ENG]",
@@ -5054,8 +5079,8 @@
     },
     {
         "title": "Another Eden Begins [NSP][RUS (Mod.)/ENG]",
-        "size": "4.01 GB",
-        "magnet": "magnet:?xt=urn:btih:F25184683F052542ADAF95B492F41490EE82C4B7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "4.23 GB",
+        "magnet": "magnet:?xt=urn:btih:E556229908F1503517F7529AD63466B74A719B13&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6904261",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6904261",
         "year": "2026, сентябрь",
@@ -5078,9 +5103,9 @@
         ],
         "description": "Новая японская ролевая игра с путешествиями во времени от сценариста и режиссёра Масато Като, именитого создателя классических RPG!.. Альдо отправляется в приключение за пределами времени и пространства, чтобы спасти свою сестру Фейнне из лап зверолюдей. Богатый сюжет разворачивается на протяжении веков, сопровождаемый музыкой, написанной Ясунори Мицудой с использованием традиционных народных инструментов и оркестра Procyon Studios, а также великолепным актёрским составом озвучки.\nТут будут стратегические командные сражения, цепочки навыков, запускающие последовательные удары, и силы, позволяющие обрушивать шквалы атак отрядами, состоящими из 19 персонажей. А после прохождения основной сюжетной линии, режим «Новая игра+» предложит вам совершенно новое приключение, полное свежих лиц и более 10 различных концовок, основанных на ваших выборах истории.\nИстории союзников рассказываются здесь через различные квесты, описывают их первую встречу с Альдо, раскрывают прошлое и цели каждого, исследуют отношения с главным героем.",
         "title_id": "0100F3E024DFC000",
-        "version": "1.1.2",
-        "update_version": 196608,
-        "titles": "0100F3E024DFC000:196608:"
+        "version": "1.1.3",
+        "update_version": 262144,
+        "titles": "0100F3E024DFC000:262144:"
     },
     {
         "title": "Veiled Edge [NSZ][RUS/Multi7]",
@@ -12142,33 +12167,37 @@
         "titles": "0100646019558000:65536:"
     },
     {
-        "title": "To the Moon / Finding Paradise / A Bird Story [NSZ][RUS/Multi10]",
-        "size": "2.16 GB",
-        "magnet": "magnet:?xt=urn:btih:2119BC6BBB26AC363B8F563DF2D53B932F083024&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "To the Moon / Finding Paradise / A Bird Story / Sigmund Minisode 1 и 2 Holiday Special [NSZ][RUS/Multi10]",
+        "size": "2.97 GB",
+        "magnet": "magnet:?xt=urn:btih:A9B2B67D676B03326FAA505A8243B92ED66859C9&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5836346",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5836346",
         "year": "2020, январь - 2026, октябрь",
         "genre": "Adventure, Role-Playing",
         "developer": "Freebird Games",
         "publisher": "X.D. Network",
-        "image_format": ".NSZ (сжато ~60%, установленный объём 5.36 ГБ)",
+        "image_format": ".NSZ (сжато ~60%, установленный объём 7.35 ГБ)",
         "interface_lang": "Русский, Английский [RUS / ENG / Multi 10]",
         "voice_lang": "не озвучивается",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5836346.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/751bb5d5267f3e4d962904d6f0c27bec8d95b012228a3367af43cc787b283dae.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/c8d1929e3ba58410ccdae5b43511270432ad07d4d976b1835914ae7953871f41.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d452c6f541b1e55c089fde93a0ed8d192e6b800996e037d465204fe3f8d8370b.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d35664cb01d9bbfb8adc7c25d8e321bb72bb602ca772e27d1a924d1101d98770.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b6446ea42e9e7ba3c22647697b25c5d931a508c4e3bc339a807bf1653cec7804.jpg&output=jpg"
+            "https://i111.fastpic.org/thumb/2020/0116/fd/ea667b8d4c1846bfee11048022639ffd.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/21/69748a3d1a4fb8d62dbdc6332d832c21.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/25/13f6bf4c4c49b65f43cba85b9e56c125.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/31/882685bf1bb5e5a9bbbaee65413fae31.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/53/7be9df58ead2fd2f68444a6e527cba53.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/ad/72b2767c73efa7661146e20eb4c51dad.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/1c/d1c3624b9de89ae9c19d5be62c922a1c.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/63/e2d9bcabf748f6efe2df5aad6fc52663.jpeg",
+            "https://i111.fastpic.org/thumb/2020/0103/27/2268f6367b4c204160fd5fbab8bfd227.jpeg"
         ],
-        "description": "ОБ ИГРЕ\nУ доктора Розалин и доктора Уоттс необычная работа: они дают пациентам шанс прожить жизнь заново, с самого начала… но только в их сознании. При этом в памяти пациентов остается лишь новая «жизнь», когда уходят в мир иной.\n\nЭта крайне сложная операция предлагается только смертельно больным пациентам, чтобы дать им возможность осуществить мечту, которую они не смогли воплотить в жизнь.\n\nИстория рассказывает о попытках исполнить желание старика по имени Джонни. С каждым шагом назад во времени раскрывается новый фрагмент его прошлого. По мере того как два доктора сводят воедино кусочки пазла прожитой жизни, они пытаются понять, почему же больной старик выбрал в качестве своего предсмертного желания именно это. \n\nА последнее желание Джонни, это, конечно же… полет на Луну.\n\nКЛЮЧЕВЫЕ ОСОБЕННОСТИ\n• Уникальный сюжетный игровой процесс\n• Инновационная комбинация элементов приключенческой игры и эстетики классической RPG\n• Знаменитый оригинальный саундтрек, тесно связывающий игрока с историей\n• Быстрое развитие сюжета, без филлеров и пустой траты времени",
-        "title_id": "010036700F83E000",
+        "description": "Игровое путешествие про двух врачей, плывущих по воспоминаниям умирающего мужчины в попытке искусственно исполнить его последнее желание..\nУ доктора Розалин и доктора Уоттс необычная работа: они дают пациентам шанс прожить жизнь заново, с самого начала… но только в их сознании.",
+        "title_id": "0100F260274C4000",
         "version": "1.8",
         "update_version": 393216,
-        "titles": "0100F260274C4000:65536:;010036700F83E000:393216:;0100035013A26000:131072:"
+        "titles": "0100F260274C4000:65536:;010036700F83E000:393216:;0100035013A26000:131072:;0100A480214FE000:65536:;0100048021500000:65536:"
     },
     {
         "title": "Baldur's Gate (Tales of the Sword Coast, Siege of Dragonspear, The Black Pits) / Baldur's Gate II (Shadows of Amn, Throne of Bhaal, The Black Pits II Gladiators of Thay): Enhanced Editions [NSZ][RUS (Mod.)/Multi9]",
@@ -22253,8 +22282,8 @@
     },
     {
         "title": "Sonic Racing Crossworlds + 8 DLC [NSZ][RUS/Multi10]",
-        "size": "10.72 GB",
-        "magnet": "magnet:?xt=urn:btih:0F54FFCDF357B18152048DE0909716D60E88289C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "10.85 GB",
+        "magnet": "magnet:?xt=urn:btih:6EC0E3E70AA50C52C03FD707E08895B937A82C21&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6748998",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6748998",
         "year": "2025, сентябрь",
@@ -22276,9 +22305,9 @@
         ],
         "description": "Гоняйте всласть по суше, воде и воздуху, летите сквозь космос и время, неситесь к финишу в одиночку или участвуйте в командных заездах!..",
         "title_id": "01006E001823C000",
-        "version": "1.41",
-        "update_version": 589824,
-        "titles": "01006E001823C000:589824:"
+        "version": "1.43",
+        "update_version": 720896,
+        "titles": "01006E001823C000:720896:"
     },
     {
         "title": "EA Sports FC 24 [NSZ][RUS/Multi11]",
@@ -57463,34 +57492,34 @@
         "titles": "010035001769E000:0:;010042B017968000:0:;01009D201B02E000:0:;0100D3C018442000:65536:;01001BD010758000:65536:;01004D200BB96000:131072:;0100E77018A58000:0:;010056E0187FE000:65536:;0100BF80187FA000:65536:;010034C0152A8000:0:;01007D101D306000:0:;0100FBA01588C000:0:;0100141017480000:131072:;0100FE9018800000:65536:;010002F01E86A000:0:;010059901442E000:65536:;0100F30012CBE000:0:;0100D510169B2000:0:;01004920198C8000:0:;01008C10196C4000:0:"
     },
     {
-        "title": "Dog Man Mission Impawsible [NSZ][RUS (Mod.)/ENG]",
-        "size": "1.13 GB",
-        "magnet": "magnet:?xt=urn:btih:B67C2B9595E371504851666AC2500D2BBDD4B9B3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "title": "Dog Man Mission Impawsible / Bark in Action [NSZ][RUS (Mod.)/ENG]",
+        "size": "3.14 GB",
+        "magnet": "magnet:?xt=urn:btih:664CE79AAF4E9201EA33BBA1464A6AD3FC14181C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6581133",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6581133",
-        "year": "2024, декабрь",
+        "year": "2024, декабрь - 2026, октябрь",
         "genre": "Platformer, Arcade, Action, Puzzle",
         "developer": "Floor 84 Studio",
         "publisher": "Mindscape",
         "image_format": ".NSZ (сжато ~19%, установленный объём 1.34 ГБ)",
-        "interface_lang": "Английский [ENG] + машинный перевод от most2820",
+        "interface_lang": "Английский [ENG] + машинный перевод от most2820 для первой части",
         "voice_lang": "не озвучивается",
-        "performance": "Да (на 18.1.0, Atmosphere 1.7.1)",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6581133.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/dc0c15b0e8226b48ca4450a793fe769ede565c0c0fdc180d26625ad4a17fc8a5.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/5ba9a2f6032f1cf657446800c74c362c47da9108c196def08e5d1f4b8c8f4e84.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/44ea099bf9d2249572178ccb118e17c8bd7dd4c1d7c97e4571a48212488ddba6.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/c263574f3ef7673c879fe778f47fcf84bdba15e25e808c17a557d233af73345e.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/89788b5613774f9ed150c041115cea06c28eaf17d2d87141b9e0870813c070ee.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/fe3f9277818b990fa8a31ded5777f01b3bad1428da48fa0592da97e5e3717e33.jpg&output=jpg"
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d3ff4937a4b4947f82ba32d8164680db04aca31b435a1dd436e03bb9d4ff86f0.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b7f85e1780786cb31110ffd339be4f9bef40bdca5cc8222ff51be5d7c5c79d6b.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/e65714b8e06d5b962013b30e9028afaab71452eec1bd1e9774292420082a033e.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/e681fe56f0c4e78f9fc922f42039b4bdb023fbb4f335a0d88fa2195bfe255a4d.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/9431bb4e8e3b4d0095b256f07414eb6323e8d4d555ab4de94cd297aeb640aeb5.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/649c158afb761b2837b620ce6c0408d5aa540efe8c37ca4cc910b963bfda2fc9.jpg&output=jpg"
         ],
         "description": "Незадачливый суперзлодей умудрился завладеть ключом от города, и теперь на улицах творится настоящий хаос — преступники разгуливают на свободе. Кто же спасёт горожан? Конечно, Догмен и его отважная команда.\nИгра позволяет вам побыть в шкуре в прямом смысле Догмена или кого-то из его Суперприятелей. У каждого героя свои фишки: кто-то щеголяет в Ракетных Ботинках, кто-то выпускает Выдвижные Когти, а кому-то и вовсе достались Грязеотталкивающие Штаны. Но это только начало. Чем дальше вы продвигаетесь, тем круче становится ваш арсенал. Крюк-кошка, силовые перчатки — с такими игрушками исследовать город и преодолевать препятствия становится в разы проще. Однако не думайте, что победить злодеев можно одними только крутыми гаджетами. Без смекалки тут не обойтись. Вас ждут головоломки и битвы с боссами, которые заставят попотеть. Каждый злодей требует особого подхода, и только работая в команде, используя таланты каждого героя, вы сможете навести в городе порядок!",
-        "title_id": "0100D90020486000",
+        "title_id": "010092E02849A000",
         "version": "1.0.5",
         "update_version": 327680,
-        "titles": "0100D90020486000:327680:"
+        "titles": "010092E02849A000:196608:;0100D90020486000:327680:"
     },
     {
         "title": "The Escapists 1/2: Complete edition [NSP][Rus (Mod.)/ENG]",
