@@ -2348,7 +2348,7 @@
     {
         "title": "Prototype 2 (Port ) [NRO][RUS/ENG]",
         "size": "7.38 GB",
-        "magnet": "magnet:?xt=urn:btih:1D57866D39186D98CC10C706839715981BE5FD12&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:F37265775DA6DE58593780B31D7B324606316B34&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6922832",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6922832",
         "year": "2012",
@@ -2371,7 +2371,7 @@
         ],
         "description": "Ein tödlicher Virus, der ausgebrochen ist, hat die Metropole in die Schwelle zur Hölle verwandelt. Die in Sicherheitszonen unterteilte Stadt ist zu einer riesigen Falle geworden. Einige Straßen werden vom Militär kontrolliert, das jegliche Manifestation der Infektion vernichtet. Die verbleibenden Gebiete haben sich in eine „rote Zone“ verwandelt – den Aufenthaltsort von Mutanten, die ihre Opfer gnadenlos verschlingen. Irgendwo da draußen, zwischen den zerstörten Gebäuden, versteckt sich Alex Mercer, der Hauptschuldige an der Verbreitung des Virus. Und nun macht sich auch der ehemalige Sergeant James Heller auf den Weg dorthin, um seine Familie zu rächen, die in den ersten Tagen der Katastrophe ums Leben kam. Willkommen bei New York Zero. Die Jagdsaison ist eröffnet. Die Fortsetzung des grausamen und blutigen Bestsellers aus dem Studio Radical Entertainment wird die Geschichte der Verwandlung eines Menschen in eine absolute Waffe fortsetzen. Verursache Chaos und Zerstörung auf den Straßen der Stadt, indem du die Fähigkeiten nutzt, die dir der Virus verleiht. Verwandeln Sie den Körper des Helden, indem Sie zahlreiche Feinde absorbieren. Nutzen Sie unbegrenzte Reisemöglichkeiten, um die Ruinen von New York Zero zu erkunden und neue Erfahrungen zu machen. Kämpfen. Töten. Ändern. Opfere deine Menschlichkeit für ein einziges Ziel – um zu zerstören... Alex... Mercer!",
         "title_id": null,
-        "version": "0.2.0"
+        "version": "0.3.0"
     },
     {
         "title": "Prey 2006 (khoumbryu openPrey) [NRO][ENG,RUS (Voice Mod.)]",
@@ -102087,18 +102087,18 @@
     },
     {
         "title": "Detention [NSZ][ENG]",
-        "size": "871.7 MB",
-        "magnet": "magnet:?xt=urn:btih:F26FA617880438B0F5AD1845A09C8B68A42A6ABF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "1.07 GB",
+        "magnet": "magnet:?xt=urn:btih:F80BCAFE8E45922E9C533C41036BB1554DC1C75E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6391968",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6391968",
         "year": "2018, März",
         "genre": "Adventure, Puzzle, Horror",
         "developer": "Red Candle Games",
         "publisher": "RED CANDLE GAMES",
-        "image_format": ".NSZ (komprimiert ~65%, installierte Größe 2.52 GB)",
+        "image_format": ".NSZ (komprimiert ~59%, installierte Größe 2.59 GB)",
         "interface_lang": "Englisch [ENG]",
         "voice_lang": "Keine",
-        "performance": "Ja (auf 6.2.0, Atmosphere 1.0.0)",
+        "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6391968.jpg",
         "screenshots": [
@@ -102111,9 +102111,9 @@
         ],
         "description": "Detention ist ein außergewöhnliches atmosphärisches Horror-Game, das maßgeblich von der Kultur, den religiösen Vorstellungen und der Mythologie Taiwans/Ostasien inspiriert wurde. Die Handlung versetzt dich in das unter Kriegsrecht stehende Taiwan der 1960er Jahre. Du steuerst deine Charaktere in einer 2D-Side-Scroller-Umgebung, die dir einen einzigartigen Grafikstil und ein völlig neues Spielerlebnis bietet, und erkundest eine Schule, die von boshaften, übernatürlichen Kräften heimgesucht wird, wobei du Schritt für Schritt die dunkle Vorgeschichte dieses Ortes aufdecken wirst.",
         "title_id": "0100730007A9C000",
-        "version": "1.0.3",
-        "update_version": 196608,
-        "titles": "0100730007A9C000:196608:"
+        "version": "1.0.5",
+        "update_version": 327680,
+        "titles": "0100730007A9C000:327680:"
     },
     {
         "title": "Rebel Cops [NSZ][RUS/Multi10]",

@@ -2344,7 +2344,7 @@
     {
         "title": "Prototype 2 (移植版 ) [NRO][RUS/ENG]",
         "size": "7.38 GB",
-        "magnet": "magnet:?xt=urn:btih:1D57866D39186D98CC10C706839715981BE5FD12&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:F37265775DA6DE58593780B31D7B324606316B34&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6922832",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6922832",
         "year": "2012",
@@ -2367,7 +2367,7 @@
         ],
         "description": "一种致命病毒的爆发，将这座大都市变成了地狱之门。划分为安全区域的城市已成为一个巨大的陷阱。一些街道由军队控制，他们销毁任何感染迹象。其余区域已变成“红色区域”——无情吞噬受害者的变种人的住所。在被摧毁的建筑物中的某个地方，隐藏着亚历克斯·默瑟，他是病毒传播的罪魁祸首。现在，前中士詹姆斯·海勒也前往那里，渴望为在灾难第一天死去的家人报仇。欢迎来到纽约零。狩猎季节开放。 Radical Entertainment工作室的残酷血腥畅销书的续作将继续讲述一个人转变为绝对武器的故事。利用病毒赋予你的能力对城市街道造成严重破坏。通过吸收大量敌人来改变英雄的身体。使用无限的旅行选择来探索纽约零号废墟以获得新体验。斗争。杀。改变。为了一个目标而牺牲你的人性——摧毁……亚历克斯……默瑟！",
         "title_id": null,
-        "version": "0.2.0"
+        "version": "0.3.0"
     },
     {
         "title": "Prey 2006 (khoumbryu openPrey) [NRO][ENG,RUS (Voice Mod.)]",
@@ -101869,18 +101869,18 @@
     },
     {
         "title": "Detention [NSZ][ENG]",
-        "size": "871.7 MB",
-        "magnet": "magnet:?xt=urn:btih:F26FA617880438B0F5AD1845A09C8B68A42A6ABF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "1.07 GB",
+        "magnet": "magnet:?xt=urn:btih:F80BCAFE8E45922E9C533C41036BB1554DC1C75E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6391968",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6391968",
         "year": "2018, 3月",
         "genre": "Adventure, Puzzle, Horror",
         "developer": "Red Candle Games",
         "publisher": "RED CANDLE GAMES",
-        "image_format": ".NSZ (已压缩 ~65%, 安装大小 2.52 GB)",
+        "image_format": ".NSZ (已压缩 ~59%, 安装大小 2.59 GB)",
         "interface_lang": "英语 [ENG]",
         "voice_lang": "无",
-        "performance": "是 (在 6.2.0, Atmosphere 1.0.0)",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6391968.jpg",
         "screenshots": [
@@ -101893,9 +101893,9 @@
         ],
         "description": "翠華中學，偏遠山區的高中校園。一對偶然相遇的少男少女，在詭譎的校園中受困。熟悉的教室與走廊何以令人恐懼？每個黑暗角落裡，似乎都藏著難以想像的過去。\n\n《返校》是一款背景設定於 1960 年代戒嚴時期台灣的 2D 恐怖冒險解謎遊戲，由台灣團隊赤燭遊戲製作。\n\n在氣氛陰森的校園中躲避鬼怪、挖掘真相，以道教文化、東南亞神怪傳說與白色恐怖時代歷史，打造出有別於西方恐怖遊戲的獨特氛圍。腳尾飯、山間廟宇、神壇——那些記憶裡的畫面，將成為你解謎的線索。\n\n▍遊戲特色\n• 2D 恐怖冒險敘事，結合生存與解謎機制\n• 以 1960 年代台灣校園為舞台，重現在地文化細節\n• 原創搖滾、Low-Fi、電子風格配樂\n• 拼貼寫實的獨特美術風格",
         "title_id": "0100730007A9C000",
-        "version": "1.0.3",
-        "update_version": 196608,
-        "titles": "0100730007A9C000:196608:"
+        "version": "1.0.5",
+        "update_version": 327680,
+        "titles": "0100730007A9C000:327680:"
     },
     {
         "title": "Rebel Cops [NSZ][RUS/Multi10]",

@@ -2348,7 +2348,7 @@
     {
         "title": "Prototype 2 (portage ) [NRO][RUS/ENG]",
         "size": "7.38 GB",
-        "magnet": "magnet:?xt=urn:btih:1D57866D39186D98CC10C706839715981BE5FD12&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:F37265775DA6DE58593780B31D7B324606316B34&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6922832",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6922832",
         "year": "2012",
@@ -2371,7 +2371,7 @@
         ],
         "description": "Un virus mortel qui s'est libéré a transformé la métropole au seuil de l'enfer. Divisée en zones de sécurité, la ville est devenue un immense piège. Certaines rues sont contrôlées par les militaires, qui détruisent toute manifestation d'infection. Les zones restantes sont devenues une « zone rouge » - la demeure des mutants qui dévorent sans pitié leurs victimes. Quelque part, parmi les bâtiments détruits, se cache Alex Mercer, le principal responsable de la propagation du virus. Et maintenant, l'ancien sergent James Heller s'y rend également, désireux de venger sa famille décédée dans les premiers jours du cataclysme. Bienvenue à New York Zéro. La saison de chasse est ouverte. La suite du best-seller cruel et sanglant du studio Radical Entertainment poursuivra l'histoire de la transformation d'une personne en une arme absolue. Faites des ravages et des destructions dans les rues de la ville en utilisant les capacités que le virus vous confère. Transformez le corps du héros en absorbant de nombreux ennemis. Utilisez des options de voyage illimitées pour explorer les ruines de New York Zero et vivre de nouvelles expériences. Lutte. Tuer. Changement. Sacrifiez votre humanité pour un seul objectif : détruire... Alex... Mercer !",
         "title_id": null,
-        "version": "0.2.0"
+        "version": "0.3.0"
     },
     {
         "title": "Prey 2006 (khoumbryu openPrey) [NRO][ENG,RUS (Voice Mod.)]",
@@ -102081,18 +102081,18 @@
     },
     {
         "title": "Detention [NSZ][ENG]",
-        "size": "871.7 MB",
-        "magnet": "magnet:?xt=urn:btih:F26FA617880438B0F5AD1845A09C8B68A42A6ABF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "1.07 GB",
+        "magnet": "magnet:?xt=urn:btih:F80BCAFE8E45922E9C533C41036BB1554DC1C75E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6391968",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6391968",
         "year": "2018, mars",
         "genre": "Adventure, Puzzle, Horror",
         "developer": "Red Candle Games",
         "publisher": "RED CANDLE GAMES",
-        "image_format": ".NSZ (compressé ~65%, taille installée 2.52 GB)",
+        "image_format": ".NSZ (compressé ~59%, taille installée 2.59 GB)",
         "interface_lang": "Anglais [ENG]",
         "voice_lang": "Aucun",
-        "performance": "Oui (sur 6.2.0, Atmosphere 1.0.0)",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6391968.jpg",
         "screenshots": [
@@ -102105,9 +102105,9 @@
         ],
         "description": "Detention est un jeu à atmosphère d'horreur unique fortement influencé par les cultures, les éléments religieux et la mythologie taïwanaise et de l’Asie de l’Est. Basé sur le Taïwan des années 60 sous loi martiale, ce jeu 2D à atmosphère d'horreur met le joueur au contrôle de personnages qui s'aventurent dans une école en proie à d’hostiles événements surnaturels pour découvrir les histoires derrière cet endroit hanté. Les joueurs peuvent profiter de graphismes et d’expérience uniques, incorporés dans le jeu.",
         "title_id": "0100730007A9C000",
-        "version": "1.0.3",
-        "update_version": 196608,
-        "titles": "0100730007A9C000:196608:"
+        "version": "1.0.5",
+        "update_version": 327680,
+        "titles": "0100730007A9C000:327680:"
     },
     {
         "title": "Rebel Cops [NSZ][RUS/Multi10]",

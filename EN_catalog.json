@@ -2348,7 +2348,7 @@
     {
         "title": "Prototype 2 (port ) [NRO][RUS/ENG]",
         "size": "7.38 GB",
-        "magnet": "magnet:?xt=urn:btih:1D57866D39186D98CC10C706839715981BE5FD12&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:F37265775DA6DE58593780B31D7B324606316B34&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6922832",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6922832",
         "year": "2012",
@@ -2371,7 +2371,7 @@
         ],
         "description": "A deadly virus that has broken free has turned the metropolis into the threshold of hell. Divided into security zones, the city has become a huge trap. Some of the streets are controlled by the military, who destroy any manifestation of the infection. The remaining areas have turned into a “red zone” - the abode of mutants who mercilessly devour their victims. Somewhere out there, among the destroyed buildings, is hiding Alex Mercer, the main culprit in the spread of the virus. And now former sergeant James Heller is also heading there, eager to avenge his family who died in the first days of the cataclysm. Welcome to New York Zero. Hunting season is open. The continuation of the cruel and bloody bestseller from the studio Radical Entertainment will continue the story of the transformation of a person into an absolute weapon. Wreak havoc and destruction on the city streets using the abilities the virus gives you. Transform the hero's body by absorbing numerous enemies. Use limitless travel options to explore the ruins of New York Zero for new experiences. Fight. Kill. Change. Sacrifice your humanity for a single goal - to destroy... Alex... Mercer!",
         "title_id": null,
-        "version": "0.2.0"
+        "version": "0.3.0"
     },
     {
         "title": "Prey 2006 (khoumbryu openPrey) [NRO][ENG,RUS (Voice Mod.)]",
@@ -102075,18 +102075,18 @@
     },
     {
         "title": "Detention [NSZ][ENG]",
-        "size": "871.7 MB",
-        "magnet": "magnet:?xt=urn:btih:F26FA617880438B0F5AD1845A09C8B68A42A6ABF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "1.07 GB",
+        "magnet": "magnet:?xt=urn:btih:F80BCAFE8E45922E9C533C41036BB1554DC1C75E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6391968",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6391968",
         "year": "2018, March",
         "genre": "Adventure, Puzzle, Horror",
         "developer": "Red Candle Games",
         "publisher": "RED CANDLE GAMES",
-        "image_format": ".NSZ (compressed ~65%, installed size 2.52 GB)",
+        "image_format": ".NSZ (compressed ~59%, installed size 2.59 GB)",
         "interface_lang": "English [ENG]",
         "voice_lang": "None",
-        "performance": "Yes (on 6.2.0, Atmosphere 1.0.0)",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6391968.jpg",
         "screenshots": [
@@ -102099,9 +102099,9 @@
         ],
         "description": "Detention is a unique atmospheric horror game heavily influenced by Taiwanese/East Asian culture, religious elements and mythology. Based on the 1960s Taiwan under martial law, in this 2D atmospheric horror side-scroller, the player control characters who venture into the school beset by hostile supernatural events to uncover stories behind the haunted place. Incorporated the game provided players with unique graphics and gaming experience.",
         "title_id": "0100730007A9C000",
-        "version": "1.0.3",
-        "update_version": 196608,
-        "titles": "0100730007A9C000:196608:"
+        "version": "1.0.5",
+        "update_version": 327680,
+        "titles": "0100730007A9C000:327680:"
     },
     {
         "title": "Rebel Cops [NSZ][RUS/Multi10]",
