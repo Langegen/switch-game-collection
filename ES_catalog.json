@@ -1,5 +1,86 @@
 [
     {
+        "title": "Hyrule Warriors Age of Imprisonment [NUP][ENG]",
+        "size": "44.26 GB",
+        "magnet": "magnet:?xt=urn:btih:C5DDDF5638DC97EA0F9E8F76D8FF50E45D2A4881&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6933379",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6933379",
+        "year": "2025, noviembre",
+        "genre": "Action, Musou",
+        "developer": "AAA Games Studio, Koei Tecmo",
+        "publisher": "Nintendo",
+        "image_format": "NUP",
+        "interface_lang": "Inglés [ENG]",
+        "voice_lang": "Japonés, Inglés, Francés, Español, Italiano, Alemán",
+        "performance": "Sí (en emulyatore Switch 2 Eglantine v0.1.0-rc1 PGO)",
+        "multiplayer": "Hasta 2 jugadores",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6933379.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1105/03/1ec81b7be49f1ad0cbfcc8082b66fd03.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1105/bf/a3d7d46155167af5a6092905f6a115bf.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1105/2d/0af8a08d1ca1d9972963bad62b5b222d.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1105/91/9e1ad2d4480e1c1b4043d11f2c3b0d91.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1105/7d/1b1106eb2c9fdb99609bf5d8de417f7d.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1105/ab/6cfe53eef45acfbaf016b112a6a1beab.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1105/11/a62dd957a5ffae47cf04a4d5a0469a11.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1105/be/052543b556f0c4298bccdf60bec59bbe.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1105/0a/d7c647717a6a4003f3c60d7bb92e650a.jpeg"
+        ],
+        "description": "La trama del juego tiene lugar en el pasado y sirve como trasfondo de los acontecimientos de The Legend of Zelda: Tears of the Kingdom. Se centra en la historia de la princesa Zelda, quien es transportada al pasado distante que rodeó la formación de Hyrule y la Guerra de Prisión.\nLa jugabilidad mantendrá el estilo Musou tradicional de la serie, presentando batallas contra múltiples oponentes en vastos campos de batalla y presenta personajes nuevos y familiares que expanden el universo de la serie.",
+        "title_id": null,
+        "version": "1.0.3"
+    },
+    {
+        "title": "Kirby Air Riders [NUP][ENG]",
+        "size": "19.84 GB",
+        "magnet": "magnet:?xt=urn:btih:E268B321B9B26DF00E7218B0AA70DB71F18BCDE6&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6933364",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6933364",
+        "year": "2025, noviembre",
+        "genre": "Racing, Action",
+        "developer": "Bandai Namco Studios, Sora Ltd.",
+        "publisher": "Nintendo",
+        "image_format": "NUP",
+        "interface_lang": "Inglés, Japonés, Alemán, Francés, Español, Italiano, Portugués, Holandés, Coreano, Chino",
+        "voice_lang": "Inglés, Japonés, Alemán, Francés, Español, Italiano, Portugués, niderlandskaya, Coreano, Chino",
+        "performance": "Sí (en emulyatore Switch 2 PokeDinner-Eglantine-2.5.0)",
+        "multiplayer": "Hasta 4 jugadores",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6933364.jpg",
+        "screenshots": [
+            "https://i5.imageban.ru/thumbs/2026.11.05/eea95ba3635b171397550ff43d471ed3.png",
+            "https://i7.imageban.ru/thumbs/2026.11.05/afb39955ed493f7552e086426c6241e9.png",
+            "https://i6.imageban.ru/thumbs/2026.11.05/8c0358506c9fd1eba270c602ebbdb8f6.png"
+        ],
+        "description": "Elige un corredor y un coche, acelera, deslízate por las curvas y ataca a tus oponentes. Air Ride presenta carreras de alta velocidad, Top Ride presenta carreras de arriba hacia abajo y City Trial implica explorar la ciudad de Skaia, recolectar potenciadores y prepararse para la prueba final en el estadio.\nEl modo para un jugador de Road Trip llevará a Kirby y otros corredores a una aventura con desafíos de todos los modos de juego. Juega solo, compite con amigos localmente o sal a la pista en línea.",
+        "title_id": null,
+        "version": "1.1.1"
+    },
+    {
+        "title": "Nintendo Switch Sports Resort [NUP][RUS/Multi16]",
+        "size": "9.49 GB",
+        "magnet": "magnet:?xt=urn:btih:DDABDA0E800E3D725FAEEF0DA3FB0EE5B321E10A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6933331",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6933331",
+        "year": "2026, octubre",
+        "genre": "Sports, Party",
+        "developer": "Nintendo EPD",
+        "publisher": "Nintendo",
+        "image_format": "NUP",
+        "interface_lang": "Ruso, Inglés [RUS / ENG / Multi 16]",
+        "voice_lang": "Ninguno",
+        "performance": "Sí (en emulyatore Switch 2 PokeDinner-Eglantine-2.5.0)",
+        "multiplayer": "Hasta 4 jugadores",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6933331.jpg",
+        "screenshots": [
+            "https://i4.imageban.ru/thumbs/2026.11.05/177b272b9bdd9a6b83b5e3a9dfd55bad.png",
+            "https://i7.imageban.ru/thumbs/2026.11.05/629f396e129327e06745c0687254ae92.png",
+            "https://i1.imageban.ru/thumbs/2026.11.05/34fd471f22a3180bae232ac4775a4f64.png"
+        ],
+        "description": "¡Bienvenido a Spokko Resort en la isla Wuhu! Aquí se pueden practicar 12 disciplinas deportivas: boxeo, tenis de mesa, tiro con arco, tenis, voleibol, bolos, baloncesto, golf, lucha de pulgares, skate, carreras acuáticas y vuelo en avión.\nControla tus movimientos con el Joy-Con 2, explora la isla y compite con amigos o jugadores online. Crea un Mii o un Sportsmate, domina diferentes deportes e intenta ascender en las clasificaciones de la Pro League en línea.",
+        "title_id": null,
+        "version": "1.1.0"
+    },
+    {
         "title": "Crafty Survivors [NSZ][RUS/Multi4]",
         "size": "301.8 MB",
         "magnet": "magnet:?xt=urn:btih:A18B6616F2CBF141466A6B75CDC92E61F021C60F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -42,7 +123,7 @@
         "image_format": "NSP",
         "interface_lang": "Inglés [ENG]",
         "voice_lang": "Inglés",
-        "performance": "Sí(en 23.0.1, Atmosphere 1.12.0)",
+        "performance": "Sí (en 23.0.1, Atmosphere 1.12.0)",
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6933222.jpg",
         "screenshots": [
@@ -9227,8 +9308,8 @@
     },
     {
         "title": "Kynseed [NSZ][RUS (Mod.)/ENG]",
-        "size": "1.02 GB",
-        "magnet": "magnet:?xt=urn:btih:3845CAB39EB5C0E9E1DBD61EE36C0C7BDC5C50F7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "804.5 MB",
+        "magnet": "magnet:?xt=urn:btih:8DCF4A2E5A2B8786D23BC565F795D9C38F59D251&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6890797",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6890797",
         "year": "2026, agosto",
@@ -19336,8 +19417,8 @@
     },
     {
         "title": "Minecraft [NSP][RUS/Multi11]",
-        "size": "1.78 GB",
-        "magnet": "magnet:?xt=urn:btih:F4B4BE26592D4E6AF92FCD690E1CAA5B5C43509A&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "1.79 GB",
+        "magnet": "magnet:?xt=urn:btih:5A2203B0BB5AF4D9EA79F140A38C4FBC781B7A67&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5844923",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5844923",
         "year": "2018, junio",
@@ -19360,9 +19441,9 @@
         ],
         "description": "Minecraft es un juego que consiste en colocar bloques y aventurarse.\n\nExplora mundos generados al azar y construye cosas increíbles, desde la más humilde de las casas hasta el más majestuoso de los castillos. Juega en el modo creativo con recursos ilimitados o extrae en las profundidades del mundo, crea armas y armaduras para defenderte de enemigos peligrosos en el modo supervivencia.",
         "title_id": "0100D71004694000",
-        "version": "1.26.52",
-        "update_version": 10616832,
-        "titles": "0100D71004694000:10616832:"
+        "version": "1.26.60",
+        "update_version": 10682368,
+        "titles": "0100D71004694000:10682368:"
     },
     {
         "title": "Don't Starve Together / Dont Starve: Nintendo Switch Edition + Hamlet DLC [NSZ][RUS (+Mod.)/Multi7]",
@@ -89602,9 +89683,9 @@
         "titles": "0100CBD021C70000:786432:;0100B5301A180000:327680:"
     },
     {
-        "title": "Hard Time III (3) / Old School / Wrestling Empire (Mat Dickie, MDickie) [NSZ][ENG]",
-        "size": "1.01 GB",
-        "magnet": "magnet:?xt=urn:btih:4AA13FA261AD9802989781DDF379590E7449836B&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "title": "Hard Time III (3) / Old School / Wrestling Empire / Infinite Lives (Mat Dickie, MDickie) [NSZ][ENG]",
+        "size": "1.45 GB",
+        "magnet": "magnet:?xt=urn:btih:EEA8EBE155D4BA441DBD4FE21BE72D10328F5CE2&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6590570",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6590570",
         "year": "2024, septiembre",
@@ -89618,18 +89699,18 @@
         "multiplayer": "Hasta 4 jugadores",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6590570.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/c51ba2de70186ebff80ec50a3e2f4e2307cf22091cb48dd44671d3f364bb11eb.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/936e8f0cb1671114c755a84609b31163e8fc89cd9ea8e9f780013e1342056988.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d543ee4f86b0b0854db95e85c3e830c4e521979fcd977188f642495a2c23be0a.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/be1a8f1d8dfed4d134b786906fde1657db409dde7e7fd576bc5f2a2b8ec9496a.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/11880b5491d1eb81067eb2704bfbe6b05b4cb95dc10cb675c5b4d35a3d41c737.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/15830f999637c45162ee7bf627d87825a804459b6bcbcf705c8380e89e3e23fd.jpg&output=jpg"
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/e909f80ffadaa06d3c0be6d86807102e7d37213200f407ebd4c68fafde6b9f89.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/73702bf30635801d47ad3146c3da34571ad9a106e2289bc69c53ff3f300a8c86.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/8d6e696f4688d1f3aa6025b2227b13a97030527cf19cf161e7f4fb5c25731236.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/bd6f19e2b24279906d3ab491016f0444ab33e2113265a8ec407263eacdf38068.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/9adf2d691ebbca701ef2b480f392b8626bf21e311757e91fe59b6e9b22876169.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/ee4c2192aedb9e0bd6dd35f20683765ddcb05e6e8235170f378723180336f32d.jpg&output=jpg"
         ],
-        "description": "Create your own star student and attend a schedule full of classes in time to gather the knowledge you need to graduate. With hundreds of other students walking the halls, an equally important popularity contest challenges you to survive long enough to thrive! \n\nEnvisaged in 3D for the first time, there are dozens of locations to roam inside and outside of school - as well as an abundance of fully interactive props to get you through the day. You can also fine-tune the camera to enjoy the action from a variety of different angles.\n\nChoose from hundreds of preset characters of any age, or save your changes to every character in the editor to make the world your own. Just when you think you've seen it all, a whole other career as a teacher awaits - which challenges you to impart knowledge as successfully as you learnt it! Whenever you need the support of friends, other controllers can join the action at any moment to help or hinder.",
-        "title_id": "0100EB001AE86000",
+        "description": "Bursting into the 3rd dimension brings new powers with unprecedented freedom, as a combat system perfected by wrestling is taken to new heights. An ambitious control system supercharges EVERY button, creating a spectrum of abilities that are easy to enjoy yet difficult to master.\n\nCreate your own origin story, as you try to survive in a city dominated by supernatural violence and discover who you really are. Develop powers that make you MORE than human, or lose the spirit that makes you LESS than human - in a vicious cycle that never ends! Find your place among hundreds of other heroes and villains, each trying to rule the world with their own unique powers. Fight over every corner of the map to secure it for your chosen cause, as allegiances change as often as your costume! The city's dozens of locations are filled with hundreds of fully interactive weapons and destructible scenery to add to the action.\n\nUpon discovering every character's secret identity, you can make the world you own by saving your changes in the editor. You can then blow off steam in \"Fight Scenes\" - where you decide WHO fights WHERE and with WHAT! And when it's time to roam back into the city, you'll have the privilege to start each new life fine-tuned to your liking with more and more options unlocking infinite possibilities.",
+        "title_id": "0100720023F52000",
         "version": "1.1.5",
         "update_version": 4194304,
-        "titles": "0100C7301F6FA000:786432:;0100EB001AE86000:1179648:;0100F2B013CA4000:4194304:"
+        "titles": "0100720023F52000:393216:;0100C7301F6FA000:786432:;0100EB001AE86000:1179648:;0100F2B013CA4000:4194304:"
     },
     {
         "title": "Code of Princess EX [NSP][ENG]",
