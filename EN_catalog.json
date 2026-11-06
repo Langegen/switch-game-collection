@@ -1,5 +1,91 @@
 [
     {
+        "title": "Yoshi and the Mysterious Book [NUP][ENG]",
+        "size": "38.18 GB",
+        "magnet": "magnet:?xt=urn:btih:3B62EBB0F366C1108527D63BAF6B9988B7A4C5EC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6933662",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6933662",
+        "year": "2026, May",
+        "genre": "Platformer, Adventure",
+        "developer": "Good-Feel",
+        "publisher": "Nintendo",
+        "image_format": "NUP",
+        "interface_lang": "English [ENG]",
+        "voice_lang": "English",
+        "performance": "Yes (on emulyatore Switch 2 Orchid v0.7.5 36251ed)",
+        "multiplayer": "Up to 2 players",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6933662.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1106/ce/1c6d0bda98e784d67e1f9597092f29ce.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/77/cbe19d778959b3efd95a52d1a3c79377.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/80/2e7244b23f741704df2f36e664adff80.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/ee/a6fe309370a172ebf385afd6b88274ee.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/de/f9a4736d323bdd5a1ac556e31332a5de.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/e3/b071871646447648a79e318e6ce772e3.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/7d/61585eda7c671ae5b3f4a465aeec8d7d.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/5c/a8b4d1074b8843f758df5b2c94f8a35c.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/9f/1f99efa94f6a14f618e48238c952619f.jpeg"
+        ],
+        "description": "One day, a book named Mister E fell on these lands, where the Yoshi dinosaurs live. This encyclopedia described various creatures. Driven by curiosity, Yoshi plunged into the world of knowledge!\nThe game was announced at a Nintendo Direct presentation on September 12, 2025, as part of the celebration of the 40th anniversary of the Super Mario Bros. series, the first game was released in 1985. Yoshi and the Mysterious Book is a side-scrolling platformer set inside a living encyclopedia calling itself \"Mr. E.\"\nYoshi searches the pages of the encyclopedia for various creatures and interacts with them. When Yoshi finds a character, he can use their abilities to solve puzzles. For example, Yoshi can swallow an unfamiliar creature to learn more about it or treat it with food to change the skill of a new friend. So, if you feed an apple to a frog, it will start blowing big bubbles. The world within the encyclopedia's pages is animated in a traditional stop-motion animation style, with a lower frame rate for certain character actions, such as jumping.",
+        "title_id": null,
+        "version": "1.0.2"
+    },
+    {
+        "title": "Orbitals [NUP][RUS/Multi10]",
+        "size": "9.89 GB",
+        "magnet": "magnet:?xt=urn:btih:C44A490733ECF9919E51D5C6C36CE64B9A811EFD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6933583",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6933583",
+        "year": "2026, September",
+        "genre": "Action, Adventure, Puzzle",
+        "developer": "Shapefarm",
+        "publisher": "Kepler Interactive",
+        "image_format": "NUP",
+        "interface_lang": "Russian, English [RUS / ENG / Multi 10]",
+        "voice_lang": "English, Japanese, Chinese, French, German, Spanish, latinoamerikanskaya Spanish, Brazilian Portuguese",
+        "performance": "Yes (on emulyatore Switch 2 PokeDinner-Eglantine-2.5.0)",
+        "multiplayer": "2 players",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6933583.jpg",
+        "screenshots": [
+            "https://i3.imageban.ru/thumbs/2026.11.06/dc45ccacaccb7b3c126148b39bd45c85.png",
+            "https://i1.imageban.ru/thumbs/2026.11.06/4b34ff9928c12e25ec5b9b4f3ab3caae.png",
+            "https://i3.imageban.ru/thumbs/2026.11.06/793d9219c56dc71c574dde9f753b47b2.png"
+        ],
+        "description": "A multiplayer space adventure for two in the spirit of classic anime. Maki and Omura are explorers who need to get beyond a mysterious storm and find help for their space station.\nEach hero has his own tools and tasks. One can control the ship while the other fires, and you'll have to work together to solve puzzles and overcome dangers. You can play together on one console or online; There is no single player mode.",
+        "title_id": null,
+        "version": "1.0.5"
+    },
+    {
+        "title": "Kollektsiya Carafe/Wine-NX/Box64/Autorun-portov dlya konsoli Nintendo Switch [NRO][RUS]",
+        "size": "60.55 GB",
+        "magnet": "magnet:?xt=urn:btih:26991128FFDF45B98FBEB0B9FF7C5B896A16F37B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6933547",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6933547",
+        "year": "2026",
+        "genre": "Homebrew",
+        "developer": "Sigma Team",
+        "publisher": "Lexmechanic",
+        "image_format": "NSP",
+        "interface_lang": "Russian [RUS]",
+        "voice_lang": "Russian",
+        "performance": "Yes (20.5.0, atmosphere 1.11.2)",
+        "multiplayer": "Unknown",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6933547.jpg",
+        "screenshots": [
+            "https://i8.imageban.ru/out/2026/11/06/43ee1a709863524521b30738f884e5b2.png",
+            "https://i129.fastpic.org/thumb/2026/1106/8c/2791882144dd634fdf3c234499962d8c.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/c5/890720e7143893759bd404db6f6e67c5.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/4a/0835004b70df1836c1bb3a11e5074b4a.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/ac/db6cc4727e5fe726176303b138bce4ac.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/c7/30fceded96e79f8c988ef5398e05d8c7.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1106/75/37ea8c924cd98e188054a226b5792875.jpeg",
+            "https://i89.fastpic.org/big/2019/0723/d8/451f956c74f71b48c3884894e9fa12d8.jpg",
+            "https://i129.fastpic.org/thumb/2026/1106/14/2e0ae9aba44ef546ae9baa563adc3d14.jpeg"
+        ],
+        "description": "Ominous shadows and endless darkness settled in the long corridors of the military base, where evil has made its lair. His bloodthirsty emissaries filled offices, warehouses and secret laboratories. Your task is simple to the point of disgrace - to cleanse the military base of filth at any cost. You will have explosives to deal with strange teleporters spewing out thousands of evil creatures, and stationary guns will help guard cleared areas. You are given access to the most high-tech weapons developed by mankind. Earn money and buy new deadly guns and biomechanical implants that can turn any asshole into a superman.\nPerformance: about 60 frames without overclocking",
+        "title_id": null
+    },
+    {
         "title": "Hyrule Warriors Age of Imprisonment [NUP][ENG]",
         "size": "44.26 GB",
         "magnet": "magnet:?xt=urn:btih:C5DDDF5638DC97EA0F9E8F76D8FF50E45D2A4881&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -12,7 +98,7 @@
         "image_format": "NUP",
         "interface_lang": "English [ENG]",
         "voice_lang": "Japanese, English, French, Spanish, Italian, German",
-        "performance": "Yes (on emulyatore Switch 2 Eglantine v0.1.0-rc1 PGO)",
+        "performance": "Yes (on emulyatore Switch 2 Eglantine 05/11/2026 e736dfd daily-build prerelease PGO)",
         "multiplayer": "Up to 2 players",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6933379.jpg",
         "screenshots": [
@@ -5883,8 +5969,8 @@
     },
     {
         "title": "Mega Man X Regenesis (homebrew) [NRO][ENG]",
-        "size": "87.4 MB",
-        "magnet": "magnet:?xt=urn:btih:54E40DAB891E5286ABB8515DAC5824C3EAD0321D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "142.6 MB",
+        "magnet": "magnet:?xt=urn:btih:2EC25406AE1408DD5DE0C7E60094BE0D77DF5730&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6903066",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6903066",
         "year": "2026",
@@ -5910,7 +5996,7 @@
         ],
         "description": "A fan project created by Justin Ross: the action takes place in an alternate timeline after the events of Mega Man X. Sigma has won, X has fallen, and humanity is already on the verge of extinction. And just when it seems like all hope is lost, Dr. Kane unveils his latest plan - Project Regenesis! Given one last chance to rewrite history, X must rise again and begin his fight to save the remnants of humanity.",
         "title_id": null,
-        "version": "1.00.92"
+        "version": "1.01.0"
     },
     {
         "title": "20XX [XCI+BIN][RUS/Multi]",
@@ -89681,7 +89767,7 @@
     {
         "title": "Hard Time III (3) / Old School / Wrestling Empire / Infinite Lives (Mat Dickie, MDickie) [NSZ][ENG]",
         "size": "1.45 GB",
-        "magnet": "magnet:?xt=urn:btih:EEA8EBE155D4BA441DBD4FE21BE72D10328F5CE2&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:BA4859F9396EFE44E2F5447E77E4149A0275839E&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6590570",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6590570",
         "year": "2024, September",
@@ -89706,7 +89792,7 @@
         "title_id": "0100720023F52000",
         "version": "1.1.5",
         "update_version": 4194304,
-        "titles": "0100720023F52000:393216:;0100C7301F6FA000:786432:;0100EB001AE86000:1179648:;0100F2B013CA4000:4194304:"
+        "titles": "0100720023F52000:393216:;0100C7301F6FA000:786432:;0100EB001AE86000:1310720:;0100F2B013CA4000:4194304:"
     },
     {
         "title": "Code of Princess EX [NSP][ENG]",
