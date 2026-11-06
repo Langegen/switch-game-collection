@@ -1,7 +1,10 @@
 [
+  {"title": "Hard Time III (3) / Old School / Wrestling Empire / Infinite Lives (Mat Dickie, MDickie)", "title_id": "0100720023F52000", "metacritic": 57.0},
+  {"title": "Detention", "title_id": "0100730007A9C000", "metacritic": 83.0},
+  {"title": "Minecraft", "title_id": "0100D71004694000", "metacritic": 93.0},
+  {"title": "Kynseed", "title_id": "0100783020A1A000", "metacritic": null},
   {"title": "Escape From Mystwood Mansion", "title_id": "010067C0217FA000", "metacritic": null},
   {"title": "Crafty Survivors", "title_id": "0100DF8027CF6000", "metacritic": null},
-  {"title": "Hard Time III (3) / Old School / Wrestling Empire (Mat Dickie, MDickie)", "title_id": "0100EB001AE86000", "metacritic": 57.0},
   {"title": "Valkyrie Tune Synthesis of Souls", "title_id": "01009A702639C000", "metacritic": null},
   {"title": "Wild Blue Skies", "title_id": "01005AB028A12000", "metacritic": null},
   {"title": "Dungeon of Dragon Knight Remake", "title_id": "010048D02624E000", "metacritic": null},
@@ -29,15 +32,5 @@
   {"title": "Rage in Peace", "title_id": "0100E1B00A46C000", "metacritic": null},
   {"title": "Scurge Hive", "title_id": "0100AB302115A000", "metacritic": 70.0},
   {"title": "Boomerang Fu + 3 DLC", "title_id": "010081A00EE62000", "metacritic": 78.0},
-  {"title": "Croc 2 Kingdom of the Gobbos", "title_id": "01006D9026E1E000", "metacritic": null},
-  {"title": "Sonic Racing Crossworlds + 8 DLC", "title_id": "01006E001823C000", "metacritic": 82.0},
-  {"title": "Another Eden Begins", "title_id": "0100F3E024DFC000", "metacritic": null},
-  {"title": "To the Moon / Finding Paradise / A Bird Story / Sigmund Minisode 1 и 2 Holiday Special", "title_id": "0100F260274C4000", "metacritic": 81.0},
-  {"title": "Dog Man Mission Impawsible / Bark in Action", "title_id": "010092E02849A000", "metacritic": null},
-  {"title": "We Are Eva", "title_id": "0100B19026484000", "metacritic": null},
-  {"title": "Journey to the Void", "title_id": "01007600243AA000", "metacritic": null},
-  {"title": "Dicevaders (Dice Vaders)", "title_id": "01000C0029156000", "metacritic": null},
-  {"title": "Alien Quest Eve (хоумбрю)", "title_id": "0100353370030000", "metacritic": null},
-  {"title": "Коллекция RPG от Kemco (79 шт.): Monochrome Order / Asdivine: Hearts 1-2, Dios, Menace, Kamura / Sephirothic Stories / Alphadia Genesis 1-2 / Revenant Dogma / Miden Tower / Seek Hearts / Ruinverse / Ghost Sync / Overrogue / Raging Bytes / Cross Tails и др.", "title_id": "010040E00C2D2000", "metacritic": 60.0},
-  {"title": "Romancing SaGa Minstrel Song Remastered International", "title_id": "010074701FE72000", "metacritic": 74.0}
+  {"title": "Croc 2 Kingdom of the Gobbos", "title_id": "01006D9026E1E000", "metacritic": null}
 ]
