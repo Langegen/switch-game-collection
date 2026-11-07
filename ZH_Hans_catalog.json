@@ -1,5 +1,36 @@
 [
     {
+        "title": "Alice Madness Returns (移植版 ) [NRO][RUS]",
+        "size": "4.81 GB",
+        "magnet": "magnet:?xt=urn:btih:AE3CFF6288C001006EF5FC843373CBF5A26C159C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6934286",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6934286",
+        "year": "2011",
+        "genre": "Action, Adventure, Homebrew",
+        "developer": "Spicy Horse, Electronic Arts",
+        "publisher": "adumah",
+        "image_format": "NRO",
+        "interface_lang": "俄语 (ofitsialnyy 翻译 来自 «1C-SoftKlab») [RUS]",
+        "voice_lang": "俄语, lyubitelskaya 来自 ElikaStudio",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6934286.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1107/a1/841cd9717066444dbec0d9d1081a1ca1.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/d9/05ac34211255d36a618d9757319318d9.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/66/4ddaa2dab2480703d99d1543d8495066.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/37/f9bc0bb3b197216282a0b7ac9e8b9c37.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/67/ef466e87515d13ec1224f760ddfd9f67.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/b6/8e247e53fb2cff806eba30225731cbb6.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/51/6ab78ef5f4d2b20f1f259700da66fa51.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/8a/dec4e2e81f36e36ab1635ac16ff0248a.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/0e/834589e1d8be4bcb8582dd1ba888320e.jpeg"
+        ],
+        "description": "“很少有人能找到出路：有些人即使找到了也看不到，很多人甚至不去寻找。” ©\n故事发生在19世纪下半叶。 1863 年，小女孩爱丽丝·利德尔 (Alice Liddell) 和她的家人的家中发生了火灾。伊丽莎白的父母和姐姐被烧死；爱丽丝本人幸存下来，但遭受了情感创伤，据医生称，她患有紧张症。爱丽丝认为自己对父母的死负有责任。\n女孩被送往拉特利奇精神病院，在那里度过了大约十年的时间。在此期间，爱丽丝成功地在精神上穿透了仙境并了解了自己，摧毁了红心皇后。\n这些事件发生在 1875 年，几乎就在第一部结束后。病情稳定后，但仍处于抑郁状态，爱丽丝出院了（并获得了少量遗产），并进入伦敦 Houndsditch 精神创伤孤儿收容所，接受精神科医生安格斯·邦比 (Angus Bumby) 博士的护理。尽管爱丽丝过着正常的生活，但她仍然不断经历噩梦般的幻觉。爱丽丝想要找出火灾的原因和父母的死亡，将她的记忆组合成一幅连贯的画面……",
+        "title_id": "01006EF5FC842000",
+        "version": "0.2"
+    },
+    {
         "title": "Haunted Paws (试玩版) [NSZ][DEMO][RUS/Multi12]",
         "size": "1.01 GB",
         "magnet": "magnet:?xt=urn:btih:91067FDD49641F86DA091877FF9A3060749F4BDA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -59,7 +90,7 @@
         "titles": "0100E430211BE000:0:"
     },
     {
-        "title": "Kollektsiya Carafe/Wine-NX/Box64/Autorun-emulyatorov PK igr dlya konsoli Nintendo Switch [NRO][RUS]",
+        "title": "Kollektsiya Carafe/Wine-NX/Box64/FEX/Autorun-emulyatorov PK igr dlya konsoli Nintendo Switch [NRO][RUS]",
         "size": "83.95 GB",
         "magnet": "magnet:?xt=urn:btih:24D706E4D0D43495C598B39B7587F1ACD8D73605&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6933547",
@@ -1645,8 +1676,8 @@
     },
     {
         "title": "Lost Odyssey (移植版 ) [NRO][RUS (Mod.)/ENG]",
-        "size": "23.4 GB",
-        "magnet": "magnet:?xt=urn:btih:B195F864407C16B9062A8C7D7FD5A5819664132C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "23.9 GB",
+        "magnet": "magnet:?xt=urn:btih:1213DD62F2A94430A292E30C40F86BB856ECAACA&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6924019",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6924019",
         "year": "2007",
@@ -1672,7 +1703,7 @@
         ],
         "description": "魔法能量一直蕴藏在生物体内，但其威力在游戏发生前三十年已大幅增加。通过创造“魔法引擎”装置，这极大地影响了社会，这使得将魔法力量用于照明、汽车、通信、机器人和其他目的成为可能。如果以前只有少数人可以使用魔法，那么现在很多人都获得了这个机会。\n这一进步也引起了戈茨王国和乌赫拉共和国这两个国家对新改革的君主制社会的渴望。开发新的、威力更强大的大规模杀伤性武器。乌拉人建造了伟大的法杖，一个巨大的魔法引擎，而高度工业化的戈特扎则积极研究自身的魔法。第三个国家，自由海洋国家努马拉，仍然保持孤立和中立，但由于政变企图而陷入混乱。乌赫拉与野兽人国家肯特人作战，他们派出军队前往沃尔山脉进行最后的战斗，游戏开始于此！...\n失落的奥德赛，日本。 Rosuto odessey rosutoodesseui，或失落的奥德赛，是一款由微软游戏工作室专门为 Xbox 360 发行的日本角色扮演游戏。失落的奥德赛由著名的最终幻想系列的创作者坂口博信创作。这是继《ASH: Archaic Sealed Heat》和《Blue Dragon》之后，坂口在 Square Enix 之外的第三个项目。玩家控制一个名叫凯姆的角色，他已经活了一千年，对自己的过去没有任何记忆，并开始在一个神奇的“工业革命”即将到来的世界：凯姆努力恢复记忆，并承受由此带来的痛苦。 《Fami通》给这款游戏的评分为 36/40，四位评论家全部给了 9 分。\n视频预告片。",
         "title_id": null,
-        "version": "1.0.6"
+        "version": "1.1.0"
     },
     {
         "title": "Spica Adventure [NSZ][ENG]",

@@ -1,5 +1,36 @@
 [
     {
+        "title": "Alice Madness Returns (portage ) [NRO][RUS]",
+        "size": "4.81 GB",
+        "magnet": "magnet:?xt=urn:btih:AE3CFF6288C001006EF5FC843373CBF5A26C159C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6934286",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6934286",
+        "year": "2011",
+        "genre": "Action, Adventure, Homebrew",
+        "developer": "Spicy Horse, Electronic Arts",
+        "publisher": "adumah",
+        "image_format": "NRO",
+        "interface_lang": "Russe (ofitsialnyy traduction par «1C-SoftKlab») [RUS]",
+        "voice_lang": "Russe, lyubitelskaya par ElikaStudio",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6934286.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1107/a1/841cd9717066444dbec0d9d1081a1ca1.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/d9/05ac34211255d36a618d9757319318d9.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/66/4ddaa2dab2480703d99d1543d8495066.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/37/f9bc0bb3b197216282a0b7ac9e8b9c37.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/67/ef466e87515d13ec1224f760ddfd9f67.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/b6/8e247e53fb2cff806eba30225731cbb6.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/51/6ab78ef5f4d2b20f1f259700da66fa51.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/8a/dec4e2e81f36e36ab1635ac16ff0248a.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1107/0e/834589e1d8be4bcb8582dd1ba888320e.jpeg"
+        ],
+        "description": "« Peu de gens trouvent une issue : certains ne la voient pas même s’ils la trouvent, et beaucoup ne la cherchent même pas. » ©\nL'action se déroule dans la seconde moitié du XIXe siècle. En 1863, un incendie se déclare dans la maison d'une petite fille, Alice Liddell, et de sa famille. Les parents et la sœur aînée d'Elizabeth ont été brûlés vifs ; Alice elle-même a survécu, souffrant d'un traumatisme émotionnel et, selon les médecins, d'une catatonie. Alice se considérait coupable de la mort de ses parents.\nLa jeune fille a été envoyée à l'hôpital psychiatrique de Rutledge, où elle a passé environ dix ans. Pendant ce temps, Alice a réussi à pénétrer mentalement au Pays des Merveilles et à se comprendre, détruisant ainsi la Reine de Cœur.\nLes événements se déroulent en 1875, presque immédiatement après la fin du premier. Ayant atteint un état stable, mais toujours déprimée, Alice sortit de l'hôpital (avec un petit héritage) et entra à l'asile Houndsditch pour orphelins mentalement traumatisés à Londres sous la garde du psychiatre Dr Angus Bumby. Même si Alice mène une vie normale, elle continue d'éprouver des hallucinations cauchemardesques. Alice veut découvrir la cause de l'incendie et de la mort de ses parents, en combinant ses souvenirs en une image cohérente...",
+        "title_id": "01006EF5FC842000",
+        "version": "0.2"
+    },
+    {
         "title": "Haunted Paws (version démo) [NSZ][DEMO][RUS/Multi12]",
         "size": "1.01 GB",
         "magnet": "magnet:?xt=urn:btih:91067FDD49641F86DA091877FF9A3060749F4BDA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -59,7 +90,7 @@
         "titles": "0100E430211BE000:0:"
     },
     {
-        "title": "Kollektsiya Carafe/Wine-NX/Box64/Autorun-emulyatorov PK igr dlya konsoli Nintendo Switch [NRO][RUS]",
+        "title": "Kollektsiya Carafe/Wine-NX/Box64/FEX/Autorun-emulyatorov PK igr dlya konsoli Nintendo Switch [NRO][RUS]",
         "size": "83.95 GB",
         "magnet": "magnet:?xt=urn:btih:24D706E4D0D43495C598B39B7587F1ACD8D73605&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6933547",
@@ -1646,8 +1677,8 @@
     },
     {
         "title": "Lost Odyssey (portage ) [NRO][RUS (Mod.)/ENG]",
-        "size": "23.4 GB",
-        "magnet": "magnet:?xt=urn:btih:B195F864407C16B9062A8C7D7FD5A5819664132C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "23.9 GB",
+        "magnet": "magnet:?xt=urn:btih:1213DD62F2A94430A292E30C40F86BB856ECAACA&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6924019",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6924019",
         "year": "2007",
@@ -1673,7 +1704,7 @@
         ],
         "description": "L'énergie magique a toujours été contenue dans les êtres vivants, mais sa puissance a considérablement augmenté 30 ans avant les événements du jeu. Cela a grandement influencé la société grâce à la création du dispositif « Magic Engine », qui a permis d'utiliser le pouvoir magique pour l'éclairage, les voitures, les communications, les robots et à d'autres fins. Si auparavant seuls quelques privilégiés pouvaient utiliser la magie, nombreux sont désormais ceux qui ont eu cette opportunité.\nCes progrès ont également créé le désir parmi les deux nations, le Royaume de Gohtz et la République d'Uhra, d'une société monarchique nouvellement réformée ; développer de nouvelles armes de destruction massive plus puissantes. Les Uhra construisent le Grand Bâton, un gigantesque moteur magique, tandis que les Gohtza, hautement industrialisés, étudient activement la magie qui est en eux-mêmes. La troisième nation, les États libres de Numara, reste isolée et neutre, mais tombe dans le désarroi en raison de tentatives de putsch. Uhra combat les Khents, une nation d'hommes-bêtes, et ils envoient leurs forces dans les montagnes Wal pour la bataille finale, où le jeu commence !...\nOdyssée perdue, japonais. Rosuto odessey ロストオデッセイ, ou Lost Odyssey, est un jeu de rôle japonais publié par Microsoft Game Studios exclusivement pour la Xbox 360. Lost Odyssey a été créé par Hironobu Sakaguchi, créateur de la célèbre série Final Fantasy. Il s'agit du troisième projet de Sakaguchi en dehors de Square Enix, après ASH : Archaic Sealed Heat et Blue Dragon. Le joueur contrôle un personnage nommé Kaim, un homme qui a vécu mille ans sans aucun souvenir de son passé, et commence dans un monde dans lequel une « révolution industrielle » magique approche : Kaim a du mal à retrouver sa mémoire et la douleur qu'elle apporte. Famitsu a donné au jeu une note de 36/40, les quatre critiques lui donnant un score de neuf.\nBande-annonce vidéo.",
         "title_id": null,
-        "version": "1.0.6"
+        "version": "1.1.0"
     },
     {
         "title": "Spica Adventure [NSZ][ENG]",
