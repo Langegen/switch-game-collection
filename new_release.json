@@ -1,4 +1,8 @@
 [
+  {"title": "Yet Another Zombie Survivors (демонстрационная версия)", "title_id": "0100E430211BE000", "metacritic": null},
+  {"title": "Haunted Paws (демонстрационная версия)", "title_id": "0100B2502AAA8000", "metacritic": null},
+  {"title": "Dark Souls II (2) Scholar of the First Sin (порт)", "title_id": "0100D52000560000", "metacritic": null},
+  {"title": "Cemu NX: эмулятор Nintendo Wii U + игра Kirby and the Rainbow Curse", "title_id": "01007D5508F1D000", "metacritic": null},
   {"title": "Hard Time III (3) / Old School / Wrestling Empire / Infinite Lives (Mat Dickie, MDickie)", "title_id": "0100720023F52000", "metacritic": 57.0},
   {"title": "Detention", "title_id": "0100730007A9C000", "metacritic": 83.0},
   {"title": "Minecraft", "title_id": "0100D71004694000", "metacritic": 93.0},
@@ -27,10 +31,5 @@
   {"title": "Uno + 14 DLC", "title_id": "0100B6E012EBE000", "metacritic": null},
   {"title": "Hello Kitty Island Adventure Deluxe edition + DLC The Tea Garden, City Town, Wheatflour Wonderland", "title_id": "010027901C89C000", "metacritic": 80.0},
   {"title": "Ravenswatch + 10 DLC", "title_id": "0100E6701DF4E000", "metacritic": 84.0},
-  {"title": "Dispatch", "title_id": "01008BA02525A000", "metacritic": null},
-  {"title": "Laysara Summit Kingdom", "title_id": "010096602407A000", "metacritic": null},
-  {"title": "Rage in Peace", "title_id": "0100E1B00A46C000", "metacritic": null},
-  {"title": "Scurge Hive", "title_id": "0100AB302115A000", "metacritic": 70.0},
-  {"title": "Boomerang Fu + 3 DLC", "title_id": "010081A00EE62000", "metacritic": 78.0},
-  {"title": "Croc 2 Kingdom of the Gobbos", "title_id": "01006D9026E1E000", "metacritic": null}
+  {"title": "Dispatch", "title_id": "01008BA02525A000", "metacritic": null}
 ]
