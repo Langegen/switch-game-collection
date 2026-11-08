@@ -6,14 +6,14 @@
         "topic_id": "6934554",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6934554",
         "year": "2010",
-        "genre": "Action, RPG, 3rd Person, Homebrew",
+        "genre": "Action, Role-Playing, Homebrew",
         "developer": "BioWare",
         "publisher": "Unknown",
         "image_format": "NRO",
-        "interface_lang": "Russo/Inglês [RUS/ENG]",
+        "interface_lang": "Russo, Inglês [RUS / ENG]",
         "voice_lang": "Inglês",
         "performance": "Sim (no 20.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "Unknown",
+        "multiplayer": "Não",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6934554.jpg",
         "screenshots": [
             "https://i129.fastpic.org/thumb/2026/1107/69/631bf5201fc396db3a46ecbf11daed69.jpeg",
@@ -24,7 +24,8 @@
             "https://i129.fastpic.org/thumb/2026/1107/0c/ae9a99c8b4c4e5915ce6bcf47eb78b0c.jpeg"
         ],
         "description": "Dois anos depois do Comandante Shepard ter repelido a invasão Reaper, a humanidade tem um novo inimigo. Na periferia do espaço habitável, alguém está destruindo gradualmente as colônias humanas. Para deter a ameaça iminente, Shepard terá de cooperar com a rede Cerberus, uma organização implacável que proclama a sobrevivência da humanidade a qualquer custo. Para completar esta importante missão, Shepard deve montar uma equipe muito forte e assumir o comando da nave mais poderosa da galáxia. Mas mesmo com tais recursos, a maioria considera seu empreendimento sem esperança. O Comandante Shepard deve provar que os pessimistas estão errados.",
-        "title_id": null
+        "title_id": null,
+        "version": "08.11.2026"
     },
     {
         "title": "Dead Space (homebrew) [NRO][RUS/Multi5]",
@@ -110,7 +111,7 @@
             "https://i129.fastpic.org/thumb/2026/1107/b6/8e247e53fb2cff806eba30225731cbb6.jpeg",
             "https://i129.fastpic.org/thumb/2026/1107/51/6ab78ef5f4d2b20f1f259700da66fa51.jpeg",
             "https://i129.fastpic.org/thumb/2026/1107/8a/dec4e2e81f36e36ab1635ac16ff0248a.jpeg",
-            "https://i129.fastpic.org/thumb/2026/1107/0e/834589e1d8be4bcb8582dd1ba888320e.jpeg"
+            "https://i129.fastpic.org/thumb/2026/1108/67/98eaf91332969b810d6492bb3e526467.jpeg"
         ],
         "description": "“Poucas pessoas encontram uma saída: algumas não a veem, mesmo que a encontrem, e muitas nem sequer a procuram.” ©\nA ação se passa na segunda metade do século XIX. Em 1863, ocorreu um incêndio na casa de uma menina, Alice Liddell, e de sua família. Os pais e a irmã mais velha de Elizabeth morreram queimados; A própria Alice sobreviveu, sofrendo traumas emocionais e, segundo os médicos, adoecendo com catatonia. Alice se considerava culpada pela morte de seus pais.\nA menina foi encaminhada para o hospital psiquiátrico Rutledge, onde passou cerca de dez anos. Durante esse tempo, Alice conseguiu penetrar mentalmente no País das Maravilhas e se compreender, destruindo a Rainha de Copas.\nOs acontecimentos acontecem em 1875, quase imediatamente após o término do primeiro. Tendo atingido um estado estável, mas ainda deprimida, Alice recebeu alta do hospital (com uma pequena herança) e entrou no Houndsditch Asylum for Mentally Traumatized Orphans, em Londres, sob os cuidados do psiquiatra Dr. Embora Alice viva uma vida normal, ela continua a ter alucinações de pesadelo. Alice quer descobrir a causa do incêndio e da morte de seus pais, combinando suas memórias em uma imagem coerente...",
         "title_id": "01006EF5FC842000",
@@ -4419,15 +4420,15 @@
     },
     {
         "title": "Graveyard Keeper II (2) + DLC [NSZ][RUS/Multi11]",
-        "size": "877.7 MB",
-        "magnet": "magnet:?xt=urn:btih:07A5CFA53F0ACC4330F1586B158C0259E9C93EE7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "887 MB",
+        "magnet": "magnet:?xt=urn:btih:CF0CF56732ABD916B852F0A9532C5F2F6CA33D46&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6913110",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6913110",
         "year": "2026, setembro",
         "genre": "Simulator, Adventure, Role-Playing, Farm",
         "developer": "Lazy Bear Games",
         "publisher": "tinyBuild Games",
-        "image_format": ".NSZ (compactado ~19%, tamanho instalado 1.09 GB)",
+        "image_format": ".NSZ (compactado ~19%, tamanho instalado 1.10 GB)",
         "interface_lang": "Russo, Inglês [RUS / ENG / Multi 11]",
         "voice_lang": "Inglês",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
@@ -4443,9 +4444,9 @@
         ],
         "description": "Agora, tu és o Grande Inquisidor! Reconstrói a vila e lidera o teu exército de mortos-vivos em batalhas para salvares o reino do apocalipse zombie. Damos-te as boas-vindas a Graveyard Keeper 2, a sequela do clássico original desmiolado!\n\nGere. Trabalha no duro. Automatiza!\nConstrói e gere o teu próprio cemitério medieval. Recolhe toda a flora, fauna e restos humanos que conseguires para construíres maquinaria extraordinária, automatizares a produção e expandires o teu cemitério para obteres lucro puro.\n\nSalva o reino!\nTorna-te no Inquisidor e lidera o teu exército de mortos-vivos para salvares o reino de um apocalipse zombie. Constrói torres e fortificações, cria armas e armaduras poderosas, equipa e treina as tuas tropas pouco inteligentes e abre caminho até à vitória!\n\nReconstrói a aldeia... pelo lucro!\nAjuda a povoação a restaurar as suas casas e transforma os seus problemas em receita. Além disso, completa missões pela aldeia, enquanto os teus trabalhadores mortos-vivos tratam dos trabalhos pesados nos bastidores. Com a automatização de zombies e sistemas estruturados, podes transformar os esforços locais numa operação escalável e lucrativa.",
         "title_id": "0100005027A18000",
-        "version": "1.0.4",
-        "update_version": 262144,
-        "titles": "0100005027A18000:262144:"
+        "version": "1.0.5",
+        "update_version": 327680,
+        "titles": "0100005027A18000:327680:"
     },
     {
         "title": "Well Dweller [NSZ][RUS/Multi8]",

@@ -6,14 +6,14 @@
         "topic_id": "6934554",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6934554",
         "year": "2010",
-        "genre": "Action, RPG, 3rd Person, Homebrew",
+        "genre": "Action, Role-Playing, Homebrew",
         "developer": "BioWare",
         "publisher": "Unknown",
         "image_format": "NRO",
-        "interface_lang": "Russo/Inglese [RUS/ENG]",
+        "interface_lang": "Russo, Inglese [RUS / ENG]",
         "voice_lang": "Inglese",
         "performance": "Sì (su 20.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "Unknown",
+        "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6934554.jpg",
         "screenshots": [
             "https://i129.fastpic.org/thumb/2026/1107/69/631bf5201fc396db3a46ecbf11daed69.jpeg",
@@ -24,7 +24,8 @@
             "https://i129.fastpic.org/thumb/2026/1107/0c/ae9a99c8b4c4e5915ce6bcf47eb78b0c.jpeg"
         ],
         "description": "Due anni dopo che il Comandante Shepard ha respinto l'invasione dei Razziatori, l'umanità ha un nuovo nemico. Alla periferia dello spazio abitabile, qualcuno sta gradualmente distruggendo le colonie umane. Per fermare la minaccia incombente, Shepard dovrà collaborare con la rete Cerberus, un'organizzazione spietata che proclama la sopravvivenza dell'umanità ad ogni costo. Per completare questa importante missione, Shepard dovrà mettere insieme una squadra molto forte e prendere il comando dell'astronave più potente della galassia. Ma anche con tali risorse, la maggior parte considera la sua impresa senza speranza. Il Comandante Shepard deve dimostrare che gli oppositori si sbagliano.",
-        "title_id": null
+        "title_id": null,
+        "version": "08.11.2026"
     },
     {
         "title": "Dead Space (homebrew) [NRO][RUS/Multi5]",
@@ -110,7 +111,7 @@
             "https://i129.fastpic.org/thumb/2026/1107/b6/8e247e53fb2cff806eba30225731cbb6.jpeg",
             "https://i129.fastpic.org/thumb/2026/1107/51/6ab78ef5f4d2b20f1f259700da66fa51.jpeg",
             "https://i129.fastpic.org/thumb/2026/1107/8a/dec4e2e81f36e36ab1635ac16ff0248a.jpeg",
-            "https://i129.fastpic.org/thumb/2026/1107/0e/834589e1d8be4bcb8582dd1ba888320e.jpeg"
+            "https://i129.fastpic.org/thumb/2026/1108/67/98eaf91332969b810d6492bb3e526467.jpeg"
         ],
         "description": "“Poche persone trovano una via d’uscita: alcuni non la vedono anche se la trovano, e molti non la cercano nemmeno”. ©\nL'azione si svolge nella seconda metà del XIX secolo. Nel 1863 scoppiò un incendio nella casa di una bambina, Alice Liddell, e della sua famiglia. I genitori e la sorella maggiore di Elisabetta furono bruciati vivi; La stessa Alice è sopravvissuta, subendo un trauma emotivo e, secondo i medici, ammalandosi di catatonia. Alice si considerava colpevole della morte dei suoi genitori.\nLa ragazza fu mandata all'ospedale psichiatrico di Rutledge, dove trascorse circa dieci anni. Durante questo periodo, Alice riuscì a penetrare mentalmente nel Paese delle Meraviglie e a comprendere se stessa, distruggendo la Regina di Cuori.\nGli eventi si svolgono nel 1875, quasi immediatamente dopo la fine del primo. Avendo raggiunto uno stato stabile, ma ancora depressa, Alice fu dimessa dall'ospedale (con una piccola eredità) ed entrò nell'asilo per orfani mentalmente traumatizzati di Houndsditch a Londra sotto la cura dello psichiatra Dr. Angus Bumby. Sebbene Alice viva una vita normale, continua a sperimentare allucinazioni da incubo. Alice vuole scoprire la causa dell'incendio e della morte dei suoi genitori, unendo i suoi ricordi in un quadro coerente...",
         "title_id": "01006EF5FC842000",
@@ -4419,15 +4420,15 @@
     },
     {
         "title": "Graveyard Keeper II (2) + DLC [NSZ][RUS/Multi11]",
-        "size": "877.7 MB",
-        "magnet": "magnet:?xt=urn:btih:07A5CFA53F0ACC4330F1586B158C0259E9C93EE7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "887 MB",
+        "magnet": "magnet:?xt=urn:btih:CF0CF56732ABD916B852F0A9532C5F2F6CA33D46&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6913110",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6913110",
         "year": "2026, settembre",
         "genre": "Simulator, Adventure, Role-Playing, Farm",
         "developer": "Lazy Bear Games",
         "publisher": "tinyBuild Games",
-        "image_format": ".NSZ (compresso ~19%, dimensione installata 1.09 GB)",
+        "image_format": ".NSZ (compresso ~19%, dimensione installata 1.10 GB)",
         "interface_lang": "Russo, Inglese [RUS / ENG / Multi 11]",
         "voice_lang": "Inglese",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
@@ -4443,9 +4444,9 @@
         ],
         "description": "Ora sei il Grande inquisitore! Ristabilisci la città e guida il tuo esercito di non morti in battaglia per salvare il reame da un'apocalisse zombi. Ti diamo il benvenuto su Graveyard Keeper 2, il sequel del classico originale e squilibrato!\n\nGestisci. Macina. Automatizza!\nCostruisci e gestisci il tuo cimitero medievale. Raccogli quanta più flora, fauna e resti umani possibili per costruire macchinari straordinari, automatizzare la produzione ed espandere il tuo cimitero per generare profitto.\n\nSalva il Regno!\nDiventa l'Inquisitore e guida il tuo esercito di non morti in battaglia per salvare il Regno da un'apocalisse zombi. Costruisci torri e fortificazioni, crea potenti armi e armature, addestra e arma le tue truppe poco intelligenti e fatti strada verso la vittoria!\n\nRicostruisci la Città. Per il profitto!\nAiuta gli abitanti a ristabilire le loro case e trasforma i loro problemi in entrate. Completa missioni sparse per la città, mentre i tuoi operai non morti si occupano dei lavori pesanti dietro le quinte. Con un'automazione basata sugli zombi e sistemi strutturati, puoi trasformare la tua iniziativa locale in un'attività scalabile e redditizia.",
         "title_id": "0100005027A18000",
-        "version": "1.0.4",
-        "update_version": 262144,
-        "titles": "0100005027A18000:262144:"
+        "version": "1.0.5",
+        "update_version": 327680,
+        "titles": "0100005027A18000:327680:"
     },
     {
         "title": "Well Dweller [NSZ][RUS/Multi8]",
