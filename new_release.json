@@ -1,4 +1,6 @@
 [
+  {"title": "Graveyard Keeper II (2) + DLC", "title_id": "0100005027A18000", "metacritic": 69.0},
+  {"title": "Alice Madness Returns (порт)", "title_id": "01006EF5FC842000", "metacritic": null},
   {"title": "Yet Another Zombie Survivors (демонстрационная версия)", "title_id": "0100E430211BE000", "metacritic": null},
   {"title": "Haunted Paws (демонстрационная версия)", "title_id": "0100B2502AAA8000", "metacritic": null},
   {"title": "Dark Souls II (2) Scholar of the First Sin (порт)", "title_id": "0100D52000560000", "metacritic": null},
@@ -24,12 +26,5 @@
   {"title": "Zenonia", "title_id": "01006BE029808000", "metacritic": null},
   {"title": "The Noexistencen of You and Me", "title_id": "0100C55026EF6000", "metacritic": null},
   {"title": "Bang Bang Bandits", "title_id": "010052E01F8FC000", "metacritic": null},
-  {"title": "Memory of Memorie a Chill Story", "title_id": "01005460280CA000", "metacritic": null},
-  {"title": "Moonlight Peaks", "title_id": "01008C8025C8E000", "metacritic": 81.0},
-  {"title": "Avatar Legends the Fighting Game", "title_id": "0100CBB027BA4000", "metacritic": null},
-  {"title": "Montabi", "title_id": "010025F0249CE000", "metacritic": null},
-  {"title": "Uno + 14 DLC", "title_id": "0100B6E012EBE000", "metacritic": null},
-  {"title": "Hello Kitty Island Adventure Deluxe edition + DLC The Tea Garden, City Town, Wheatflour Wonderland", "title_id": "010027901C89C000", "metacritic": 80.0},
-  {"title": "Ravenswatch + 10 DLC", "title_id": "0100E6701DF4E000", "metacritic": 84.0},
-  {"title": "Dispatch", "title_id": "01008BA02525A000", "metacritic": null}
+  {"title": "Memory of Memorie a Chill Story", "title_id": "01005460280CA000", "metacritic": null}
 ]
