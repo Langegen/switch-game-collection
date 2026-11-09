@@ -118,6 +118,21 @@
    "type": "file",
    "zip_root": ""
   },
+  "cvfiredragon/exefsmanager": {
+   "asset_key": "10254055:2018-12-21T02:02:50Z",
+   "extracted": 289708,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/exefsmanager.jpg",
+   "nacp": {
+    "author": "CVFD",
+    "title": "ExeFS Manager - SMO",
+    "version": "1.0"
+   },
+   "sha256": "7d76f911c25cfe8ab8766b4f18cc6507f10cbc4e4f2fbbcf438779082ca1a5d6",
+   "size": 289708,
+   "type": "file",
+   "zip_root": ""
+  },
   "danilkhmyrov/ferry-switch": {
    "asset_key": "668345713:2026-10-23T07:34:02Z",
    "extracted": 9638971,
@@ -135,6 +150,21 @@
    "type": "file",
    "zip_root": ""
   },
+  "deneraraujo/easypm": {
+   "asset_key": "240509735:2025-03-25T02:48:41Z",
+   "extracted": 8488592,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/easypm.jpg",
+   "nacp": {
+    "author": "Dener Araujo",
+    "title": "Easy Power Menu",
+    "version": "1.0.0"
+   },
+   "sha256": "09cc60ffc021d671b82d884c827380705f47163855d1a6551c0e4ace91e38387",
+   "size": 8488592,
+   "type": "file",
+   "zip_root": ""
+  },
   "denpingus/stremnx": {
    "asset_key": "656221025:2026-10-19T12:31:46Z",
    "extracted": 30564355,
@@ -149,6 +179,21 @@
    },
    "sha256": "05e0fbddb4fda25523a66d21b03e9863865aae8ced015c745940fe988cd293f6",
    "size": 30564355,
+   "type": "file",
+   "zip_root": ""
+  },
+  "ely3m/fuck-u": {
+   "asset_key": "580949073:2026-09-22T08:34:06Z",
+   "extracted": 213679,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/fuck-u.png",
+   "nacp": {
+    "author": "xXxswagnemitexXx - modded by ELY M.",
+    "title": "Fuck You.",
+    "version": "1.6"
+   },
+   "sha256": "92d2cf27140704c287681a0a412f25022ef839c572309b67a23e084a624e3784",
+   "size": 213679,
    "type": "file",
    "zip_root": ""
   },
@@ -459,6 +504,21 @@
    "type": "zip",
    "zip_root": ""
   },
+  "rashevskyv/dbipatcher": {
+   "asset_key": "712860658:2026-11-05T09:40:28Z",
+   "extracted": 16637485,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/dbipatcher.jpg",
+   "nacp": {
+    "author": "-",
+    "title": "DBI",
+    "version": "921"
+   },
+   "sha256": "816db30d9ccc88e3a1cdc6e294ae71ba92b101628437ecddc94d9168fb1aa319",
+   "size": 16637485,
+   "type": "file",
+   "zip_root": ""
+  },
   "rexead/gametime-tracker": {
    "asset_key": "520149785:2026-08-19T00:19:39Z",
    "extracted": 712933,
@@ -645,6 +705,21 @@
    "size": 54036399,
    "type": "file",
    "zip_root": ""
+  },
+  "ziggygoofy/comicreaderswitch": {
+   "asset_key": "525528855:2026-08-22T22:42:45Z",
+   "extracted": 9595804,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/comicreaderswitch.jpg",
+   "nacp": {
+    "author": "ZiggyGoofy",
+    "title": "Comic Reader",
+    "version": "0.3.0"
+   },
+   "sha256": "6dbf1fcd9bac4fca0feaf0fe655aba3d54b934b395c5432cc48019f284fde939",
+   "size": 9595804,
+   "type": "file",
+   "zip_root": ""
   }
  },
  "auto_repos": {
@@ -699,6 +774,12 @@
    "stargazers_count": null,
    "topics": []
   },
+  "cvfiredragon/exefsmanager": {
+   "description": "",
+   "full_name": "cvfiredragon/exefsmanager",
+   "stargazers_count": null,
+   "topics": []
+  },
   "danilkhmyrov/ferry-switch": {
    "description": "FTP server and file browser for Nintendo Switch — SD card, NAND, installed games and save data over Wi-Fi",
    "full_name": "DanilKhmyrov/Ferry-Switch",
@@ -714,6 +795,12 @@
     "nintendo-switch-homebrew",
     "sdl2"
    ]
+  },
+  "deneraraujo/easypm": {
+   "description": "",
+   "full_name": "deneraraujo/easypm",
+   "stargazers_count": null,
+   "topics": []
   },
   "denpingus/stremnx": {
    "description": "Unofficial Stremio client for Nintendo Switch homebrew. MainStream-style UI, Stremio addons & account sync, mpv player, built-in torrent engine and SD card downloads. Not affiliated with Stremio.",
@@ -731,6 +818,12 @@
     "stremio",
     "switch-homebrew"
    ]
+  },
+  "ely3m/fuck-u": {
+   "description": "",
+   "full_name": "ely3m/fuck-u",
+   "stargazers_count": null,
+   "topics": []
   },
   "ely3m/weather-and-moon-phase-app-for-nintendo-switch": {
    "description": "Weather and Moon phase app for Nintendo Switch",
@@ -854,6 +947,12 @@
     "switch-homebrew"
    ]
   },
+  "rashevskyv/dbipatcher": {
+   "description": "",
+   "full_name": "rashevskyv/dbipatcher",
+   "stargazers_count": null,
+   "topics": []
+  },
   "rexead/gametime-tracker": {
    "description": "Nintendo Switch homebrew app for tracking playtime across your installed games",
    "full_name": "Rexead/GameTime-Tracker",
@@ -960,6 +1059,12 @@
     "shank-2-free",
     "xbox360"
    ]
+  },
+  "ziggygoofy/comicreaderswitch": {
+   "description": "",
+   "full_name": "ziggygoofy/comicreaderswitch",
+   "stargazers_count": null,
+   "topics": []
   }
  },
  "first_seen": {
@@ -967,8 +1072,11 @@
   "bernardogiordano/checkpoint": "2026-11-09",
   "ch1nguya/switch-super-installer": "2026-11-09",
   "ctcaer/battery_desync_fix_nx": "2026-11-09",
+  "cvfiredragon/exefsmanager": "2026-11-09",
   "danilkhmyrov/ferry-switch": "2026-11-09",
+  "deneraraujo/easypm": "2026-11-09",
   "denpingus/stremnx": "2026-11-09",
+  "ely3m/fuck-u": "2026-11-09",
   "ely3m/weather-and-moon-phase-app-for-nintendo-switch": "2026-11-09",
   "ely3m/weather-app-for-nintendo-switch": "2026-11-09",
   "erige005/kirikiroid2-nx": "2026-11-09",
@@ -978,6 +1086,7 @@
   "kaays/mc3_nx": "2026-11-09",
   "murat303/iptv-player": "2026-11-09",
   "paulodiasred/bm64switch": "2026-11-09",
+  "rashevskyv/dbipatcher": "2026-11-09",
   "rexead/gametime-tracker": "2026-11-09",
   "scamnscoot/streamfin": "2026-11-09",
   "shodowlo/nx-torrent-player": "2026-11-09",
@@ -985,7 +1094,8 @@
   "sonerx7/nexvyn-os-nx": "2026-11-09",
   "tootallnate/nx.js": "2026-11-09",
   "tuckerwales/nslibrary": "2026-11-09",
-  "zhtipu/shank2-nx": "2026-11-09"
+  "zhtipu/shank2-nx": "2026-11-09",
+  "ziggygoofy/comicreaderswitch": "2026-11-09"
  },
  "fortheusers": {
   "100boxesNX": {
@@ -5213,7 +5323,141 @@
    "atmosphere-nx/atmosphere",
    "natureglass/brewser",
    "tootallnate/nx.js"
-  ]
+  ],
+  "/wiki/BrowseNX_Switch": [
+   "crc-32/browsenx",
+   "p-sam/switch-sys-tweak",
+   "switchbrew/libnx"
+  ],
+  "/wiki/CalculateNX_Switch": [
+   "compsciorbust/calculatenx"
+  ],
+  "/wiki/Calculator_NX_Switch": [
+   "emretech/calculator_nx"
+  ],
+  "/wiki/CamNX_Switch": [
+   "sertay1/camnx"
+  ],
+  "/wiki/Checkpoint_Switch": [
+   "bernardogiordano/checkpoint",
+   "devkitpro/pacman",
+   "flagbrew/checkpoint"
+  ],
+  "/wiki/Chiaki_Switch": [
+   "thestr4ng3r/chiaki"
+  ],
+  "/wiki/ChoiDujourNX_Switch": [
+   "rajkosto/hekate",
+   "rajkosto/nx-hbloader"
+  ],
+  "/wiki/Clock-Time_Switch": [
+   "neoneopuooui/clock-time"
+  ],
+  "/wiki/ComicReader_Switch": [
+   "switchbrew/libnx",
+   "ziggygoofy/comicreaderswitch"
+  ],
+  "/wiki/ConsoleEditor_Switch": [
+   "jiangyibin/consoleeditor"
+  ],
+  "/wiki/CustomBootScreen_Switch": [
+   "esteban-cz/custombootscreen"
+  ],
+  "/wiki/CuteManga_Switch": [
+   "darkxex/cutemanga"
+  ],
+  "/wiki/DBFM_Switch": [
+   "dragonexplorer5/dbfm-for-switch"
+  ],
+  "/wiki/DBI_Switch": [
+   "morce3232/dbipatcher",
+   "rashevskyv/dbi",
+   "rashevskyv/dbipatcher"
+  ],
+  "/wiki/DC_uLaunch_Updater_Switch": [
+   "dcnigma/dc-ulaunch_updater",
+   "karmicbacklash/ulaunchthemes"
+  ],
+  "/wiki/DNS.mitm_Checker_Switch": [],
+  "/wiki/DVR-Patches_Switch": [
+   "exelix11/dvr-patches"
+  ],
+  "/wiki/DeepSea_Switch": [
+   "team-neptune/deepsea"
+  ],
+  "/wiki/DeltaLaunch_Switch": [
+   "reisyukaku/deltalaunch"
+  ],
+  "/wiki/Delve_Switch": [
+   "noirscape/delve"
+  ],
+  "/wiki/Donut_Switch": [
+   "tedlipper/switch-ascii-donut"
+  ],
+  "/wiki/EBrowser_Switch": [
+   "migushthe2nd/ebrowser"
+  ],
+  "/wiki/EasyPower_Switch": [
+   "klockee/easypower",
+   "the-4n/hacbrewpack"
+  ],
+  "/wiki/Easy_Power_Menu_Switch": [
+   "deneraraujo/easypm"
+  ],
+  "/wiki/EbookViewerNX_Switch": [
+   "segfault42/ebookviewernx"
+  ],
+  "/wiki/EdiZon_SE_Switch": [
+   "3096/nut",
+   "bernardogiordano/checkpoint",
+   "switchbrew/nx-hbmenu"
+  ],
+  "/wiki/EdiZon_Switch": [
+   "3096/nut",
+   "bernardogiordano/checkpoint",
+   "switchbrew/nx-hbmenu"
+  ],
+  "/wiki/Eevee_-_Pokemon_Home_Alternative_Switch": [
+   "melsbacksfriend/eevee"
+  ],
+  "/wiki/EmuMMC-Toggler_Switch": [
+   "noirscape/emummc-toggler"
+  ],
+  "/wiki/EmuMMC_Switch": [
+   "m4xw/emummc"
+  ],
+  "/wiki/EmuMmcConfig_Switch": [
+   "krankrival/emummcconfig"
+  ],
+  "/wiki/EmuNand_Swapper_Switch": [
+   "shmadul/emunand-swapper"
+  ],
+  "/wiki/Emummc-Toggle_Switch": [
+   "littlestcube/emummc-toggle"
+  ],
+  "/wiki/Emunand_Switcher_Switch": [
+   "storm21ch/emunandswitcher"
+  ],
+  "/wiki/ExeFSManager_Switch": [
+   "cvfiredragon/exefsmanager"
+  ],
+  "/wiki/EzRemote_Client_Switch": [
+   "cy33hc/switch-ezremote-client",
+   "cy33hc/vita-ezremote-client",
+   "drakkan/sftpgo"
+  ],
+  "/wiki/F--k_You_App_Switch": [
+   "ely3m/fuck-u"
+  ],
+  "/wiki/FTPc_Switch": [
+   "akissu/ftpc-nx",
+   "mkulke/ftplibpp",
+   "mtheall/ftpd"
+  ],
+  "/wiki/Factorial-NX_Switch": [
+   "zamacian/factorial-nx"
+  ],
+  "/wiki/Firmware_Dumper_Switch": []
  },
  "rejected": {
   "2003scape/rsc-c": {
@@ -5254,6 +5498,10 @@
   "ahmadsouri/jak-switch-port": {
    "checked": "2026-11-09",
    "pushed_at": "2026-10-23T09:12:10Z"
+  },
+  "akissu/ftpc-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "alexislours/ltd-save-editor": {
    "checked": "2026-11-09",
@@ -5343,9 +5591,9 @@
    "pushed_at": "2026-10-12T04:54:49Z"
   },
   "bium23/nxlibrary": {
-   "candidate": "| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 165 | v0.1.4.1 | 2026-11-07 | NXLibrary-0.1.4.1.dmg, NXLibrary-0.1.4.1.zip |",
+   "candidate": "| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 165 | v0.1.4.2 | 2026-11-09 | NXLibrary-0.1.4.2.dmg, NXLibrary-0.1.4.2.zip |",
    "checked": "2026-11-09",
-   "pushed_at": "2026-11-09T11:13:53Z"
+   "pushed_at": "2026-11-09T11:30:08Z"
   },
   "biuspoly/pekka-kana-2-switch": {
    "candidate": "| [biuspoly/pekka-kana-2-switch](https://github.com/biuspoly/pekka-kana-2-switch) | 0 | v1.0 | 2026-10-28 | PekkaKana2_Switch_SD.zip |",
@@ -5467,6 +5715,10 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-11-09T10:59:20Z"
   },
+  "cy33hc/vita-ezremote-client": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "cylinderapfreeze/lichii-emulator": {
    "candidate": "| [Cylinderapfreeze/Lichii-Emulator](https://github.com/Cylinderapfreeze/Lichii-Emulator) | 124 | 117 | 2026-11-08 | lichii-linux-aarch64.AppImage, lichii-linux-x86_64.AppImage, lichii-macos-arm64.zip, lichii-windows-x86_64.zip |",
    "checked": "2026-11-09",
@@ -5505,6 +5757,10 @@
    "checked": "2026-11-09",
    "pushed_at": ""
   },
+  "devkitpro/pacman": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "dimasick-git/ryazha-status-monitor": {
    "candidate": "| [Dimasick-git/Ryazha-Status-Monitor](https://github.com/Dimasick-git/Ryazha-Status-Monitor) | 3 | 1.5.5-deko3d | 2026-10-27 | Ryazha-Status-Monitor.ovl, Ryazha-Status-Monitor.zip |",
    "checked": "2026-11-09",
@@ -5527,6 +5783,15 @@
    "candidate": "| [dpadninja/realdrift_nx](https://github.com/dpadninja/realdrift_nx) | 1 | v1.5.3 | 2026-11-04 | realdrift_nx-v1.5.3.zip |",
    "checked": "2026-11-09",
    "pushed_at": "2026-11-04T11:02:27Z"
+  },
+  "dragonexplorer5/dbfm-for-switch": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "drakkan/sftpgo": {
+   "candidate": "| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | ? | v2.7.6 | 2026-09-19 | sftpgo-2.7.6-1.aarch64.rpm, sftpgo-2.7.6-1.armv7hl.rpm, sftpgo-2.7.6-1.ppc64le.rpm, sftpgo-2.7.6-1.x86_64.rpm, sftpgo_2. |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "dream-cypher/strahlocalization": {
    "candidate": "| [Dream-Cypher/STRAHLocalization](https://github.com/Dream-Cypher/STRAHLocalization) | 0 | v0.14 | 2026-11-01 | STRAH_en_patch_switch_0.14.zip |",
@@ -5597,6 +5862,11 @@
   "ethiquema/ryu_ldn_nx": {
    "checked": "2026-11-09",
    "pushed_at": "2026-10-04T06:26:12Z"
+  },
+  "exelix11/dvr-patches": {
+   "candidate": "| [exelix11/dvr-patches](https://github.com/exelix11/dvr-patches) | ? | fw-23.0.1 | 2026-10-11 | dvr-patches.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "farmeobaasje/kittenhats": {
    "checked": "2026-11-09",
@@ -5671,7 +5941,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-09",
-   "pushed_at": "2026-11-09T10:38:19Z"
+   "pushed_at": "2026-11-09T11:31:59Z"
   },
   "jigsawfr/boreale-ha": {
    "candidate": "| [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |",
@@ -5709,6 +5979,10 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-09-26T15:55:57Z"
   },
+  "karmicbacklash/ulaunchthemes": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "kliffdesaix/gmrunner": {
    "checked": "2026-11-09",
    "pushed_at": "2026-11-07T10:12:16Z"
@@ -5740,6 +6014,10 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-10-15T03:16:19Z"
   },
+  "m4xw/emummc": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "maiaramon/cnx-installer-macos": {
    "candidate": "| [maiaramon/cnx-installer-macos](https://github.com/maiaramon/cnx-installer-macos) | 2 | v1.4 | 2026-06-18 | CNX_Installer.app.zip |",
    "checked": "2026-11-09",
@@ -5764,9 +6042,17 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-11-04T22:33:24Z"
   },
+  "migushthe2nd/ebrowser": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "miri2577/flutter-libnx": {
    "checked": "2026-11-09",
    "pushed_at": "2026-08-17T11:14:55Z"
+  },
+  "mkulke/ftplibpp": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "mlemiam/vanillatmosphere": {
    "candidate": "| [mlemiam/Vanillatmosphere](https://github.com/mlemiam/Vanillatmosphere) | 42 | 1.11.2 | 2026-10-13 | Vanillatmosphere.1.11.2.zip |",
@@ -5780,6 +6066,11 @@
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-09",
    "pushed_at": "2026-11-09T05:50:27Z"
+  },
+  "morce3232/dbipatcher": {
+   "candidate": "| [morce3232/dbipatcher](https://github.com/morce3232/dbipatcher) | ? | v845 | 2025-11-28 | 824.en.nro, 828.en.nro, 831.en.nro, 839.en.nro, 842.en.nro, 844.en.nro, 845.en.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "n3evin/amiiboapi": {
    "checked": "2026-11-09",
@@ -5828,6 +6119,10 @@
    "candidate": "| [P-Khodadust/joymind](https://github.com/P-Khodadust/joymind) | 1 | v1.1.0 | 2026-10-07 | ai-switch.nro, THIRD_PARTY_NOTICES.md |",
    "checked": "2026-11-09",
    "pushed_at": "2026-10-07T20:53:40Z"
+  },
+  "p-sam/switch-sys-tweak": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "p4rfa1t/netease-switch": {
    "checked": "2026-11-09",
@@ -5899,6 +6194,15 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-10-17T23:20:03Z"
   },
+  "rajkosto/hekate": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "rajkosto/nx-hbloader": {
+   "candidate": "| [rajkosto/nx-hbloader](https://github.com/rajkosto/nx-hbloader) | ? | v1.1 | 2018-07-30 | nx-hbloader_with_debug.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "rashevskyv/4ifir": {
    "candidate": "| [rashevskyv/4ifir](https://github.com/rashevskyv/4ifir) | ? | 25.07.27.11 | 2025-07-27 | 4IFIR-Wizard-update-25.07.27.11.zip |",
    "checked": "2026-11-09",
@@ -5907,6 +6211,11 @@
   "rashevskyv/conker-lr-recomp": {
    "checked": "2026-11-09",
    "pushed_at": "2026-11-07T10:03:25Z"
+  },
+  "rashevskyv/dbi": {
+   "candidate": "| [rashevskyv/dbi](https://github.com/rashevskyv/dbi) | ? | 912ru | 2026-09-18 | dbi.config, DBI.nro, dbibackend-qt.exe, dbibackend.exe, dbibackend.tar.xz, latest.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "raytwo/arcropolis": {
    "candidate": "| [Raytwo/ARCropolis](https://github.com/Raytwo/ARCropolis) | 395 | v4.1.1 | 2026-09-25 | release.zip |",
@@ -5923,6 +6232,10 @@
    "pushed_at": "2026-11-07T19:30:51Z"
   },
   "reisyukaku/boginstaller": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "reisyukaku/deltalaunch": {
    "checked": "2026-11-09",
    "pushed_at": ""
   },
@@ -6023,6 +6336,11 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-11-07T10:26:32Z"
   },
+  "storm21ch/emunandswitcher": {
+   "candidate": "| [storm21ch/emunandswitcher](https://github.com/storm21ch/emunandswitcher) | ? | 3.80_FWD | 2024-11-18 | Emunandswitcher.3.80.SD.Files.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "strrationalism/cpymo": {
    "candidate": "| [Strrationalism/CPyMO](https://github.com/Strrationalism/CPyMO) | 153 | v1.1.9 | 2023-08-14 | CPyMO.ASCII.Art.for.Linux.zip, CPyMO.ASCII.Art.for.macOS.zip, CPyMO.ASCII.Art.for.Windows.zip, CPyMO.for.Android.Accessi |",
    "checked": "2026-11-09",
@@ -6049,6 +6367,15 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-03-15T17:29:45Z"
   },
+  "team-neptune/deepsea": {
+   "candidate": "| [team-neptune/deepsea](https://github.com/team-neptune/deepsea) | ? | v4.15.0 | 2026-03-31 | deepsea-advanced_v4.15.0.zip, deepsea-minimal_v4.15.0.zip, deepsea-normal_v4.15.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "the-4n/hacbrewpack": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "thegabr0-ai/coreinit-nx": {
    "checked": "2026-11-09",
    "pushed_at": "2026-11-02T21:21:15Z"
@@ -6056,6 +6383,11 @@
   "themezernx/layoutkit": {
    "checked": "2026-11-09",
    "pushed_at": "2026-05-21T22:40:18Z"
+  },
+  "thestr4ng3r/chiaki": {
+   "candidate": "| [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) | ? | v1.3.0 | 2020-10-18 | Chiaki-v1.3.0-Android.aab, Chiaki-v1.3.0-Android.apk, Chiaki-v1.3.0-Linux-x86_64.AppImage, Chiaki-v1.3.0-macOS-x86_64.dm |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "thzoria/atmopack-vanilla": {
    "checked": "2026-11-09",

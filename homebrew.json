@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-09T11:23:41Z",
+ "generated": "2026-11-09T11:34:50Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -2650,7 +2650,7 @@
    "filesize": 279422,
    "extracted": 279422,
    "files": [
-    "U: switch/battery_desync_fix_v1.5.1/battery_desync_fix_v1.5.1.nro"
+    "U: switch/battery_desync_fix_nx/battery_desync_fix_nx.nro"
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/battery_desync_fix_nx.jpg",
    "auto": true,
@@ -2673,7 +2673,7 @@
    "filesize": 21399634,
    "extracted": 21399634,
    "files": [
-    "U: switch/BM64Recompiled-v1.0.0/BM64Recompiled-v1.0.0.nro"
+    "U: switch/BM64Switch/BM64Switch.nro"
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/BM64Switch.jpg",
    "license": "GPL-3.0",
@@ -2705,6 +2705,29 @@
    "first_seen": "2026-11-09"
   },
   {
+   "name": "comicreaderswitch",
+   "title": "Comic Reader",
+   "author": "ZiggyGoofy",
+   "version": "0.4.0",
+   "category": "tool",
+   "description": "",
+   "changelog": "## ComicReader v0.4.0 — Landscape/Portrait rotation\r\n\r\n**New / Nouveau:**\r\n- 🔄 Rotate the reading view 90° (press **\"-\"**) for a taller, more comfortable portrait reading experience — turn your console clockwise to view it upright. Works in both page and continuous scroll modes, with joysticks remapped accordingly.\r\n- Note: touch gestures (swipe/pinch/bar) in rotated mode are a first pass and may need refinement — buttons and sticks are the most reliable way to navigate while rotated for now.\r\n\r\n---\r\n\r\n🔄 Fais pivoter la vue de lecture à 90° (touche **\"-\"**) pour une lecture plus confortable en hauteur — tourne ta console dans le sens horaire pour voir l'image à l'endroit. Fonctionne en mode page comme en mode défilement, avec les joysticks remappés en conséquence.\r\nRemarque : les gestes tactiles (swipe/pincer/barre) en mode tourné sont une première version et pourraient nécessiter des ajustements — les boutons et joysticks restent le moyen le plus fiable de naviguer en mode tourné pour l'instant.\r\n\r\n## ComicReader v0.4.0 — Bug fixes\r\n\r\n**Fixed / Corrigé :**\r\n- 🐛 Fixed a crash-causing compile issue that had slipped into the previous build\r\n- 🐛 Fixed page stretching when using continuous scroll mode while rotated (portrait)\r\n- 🐛 Fixed zoom-out no longer working in continuous scroll mode\r\n\r\n---\r\n\r\n- 🐛 Correction d'un problème de compilation qui s'était glissé dans la version précédente\r\n- 🐛 Correction de l'étirement des pages en mode défilement continu quand l'affichage est tourné (portrait)\r\n- 🐛 Correction du dézoom qui ne fonctionnait plus en mode défilement continu",
+   "url": "https://github.com/ziggygoofy/comicreaderswitch",
+   "repo": "ziggygoofy/comicreaderswitch",
+   "updated": "2026-07-24",
+   "download_url": "https://github.com/ZiggyGoofy/ComicReaderSwitch/releases/download/v0.4.0/ComicReaderSwitch.nro",
+   "download_type": "file",
+   "sha256": "6dbf1fcd9bac4fca0feaf0fe655aba3d54b934b395c5432cc48019f284fde939",
+   "filesize": 9595804,
+   "extracted": 9595804,
+   "files": [
+    "U: switch/comicreaderswitch/comicreaderswitch.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/comicreaderswitch.jpg",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
    "name": "DarkTube",
    "title": "DarkTube",
    "author": "Ibnuard",
@@ -2728,6 +2751,75 @@
    "first_seen": "2026-11-09"
   },
   {
+   "name": "dbipatcher",
+   "title": "DBI",
+   "author": "-",
+   "version": "921",
+   "category": "tool",
+   "description": "",
+   "changelog": "### 🌍 DBI Multilingual Localization (v0.0.117)\r\n![DBI.nro downloads](https://img.shields.io/github/downloads/rashevskyv/DBIPatcher/921/DBI.nro)\r\n\r\n> [!WARNING]\r\n> 🔄 **Release updated on 2026-11-05 11:40 (Kyiv time) (v0.0.117).** Please redownload both `DBI.nro` and `translation_<lang>.bin` for your language.\r\n\r\n\r\nThis release provides translations for **DBI version 921**.\r\n\r\n> [!IMPORTANT]\r\n> Use the `DBI.nro` and the `translation_XX.bin` files **from this release together**. The translation tables now carry a lookup index that older patched `DBI.nro` builds do not read.\r\n\r\n### 🆕 What changed in DBI 921 (compared with 920)\r\n- **FTP:** a serious bug in the FTP server is fixed (from the DBI author). No other user-visible changes were found in the 921 binary.\r\n- **Translations:** the patch now supports DBI 921; the red `[ERROR]` status (e.g. after \"Waiting for interface to come up:\" in MTP) is translated; the USB \"connect your console to the PC\" prompt fits on one line in Ukrainian, Belarusian, German, French, Lithuanian and Turkish; Ukrainian \"Запустити HTTP сервер...\" matches the FTP item.\r\n- **Activity log:** the column headers (Player / Sessions / Time), the tabs, the month names, the \"[All players]\" header and the session events (Launch, Minimize, Switching to, Closing game) are translated.\r\n- **Forwarder settings:** the new shortcut settings (4 CPU cores, video capture, screenshots) are translated for all languages (thanks to @sffinx, PR #30).\r\n- **Save data and game menu:** the save data tabs (Installed / Deleted / Backups) and the \"Add to SaltyNX exclusions\" menu item are translated (thanks to @samfadel, issue #31).\r\n\r\n### 🆕 What changed in DBI 920 (compared with 912)\r\nDBI does not publish a changelog. This list comes from the strings and settings of the 920 binary.\r\n- **Forwarder settings** (new `[Forwarder]` section in `dbi.config`): address space (`32 Bit`, `32 Bit No alias`, `36 Bit`, `39 Bit`, `42 Bit`), four CPU cores, video capture and screenshots. DBI n",
+   "url": "https://github.com/rashevskyv/dbipatcher",
+   "repo": "rashevskyv/dbipatcher",
+   "updated": "2026-10-23",
+   "download_url": "https://github.com/rashevskyv/DBIPatcher/releases/download/921/DBI.nro",
+   "download_type": "file",
+   "sha256": "816db30d9ccc88e3a1cdc6e294ae71ba92b101628437ecddc94d9168fb1aa319",
+   "filesize": 16637485,
+   "extracted": 16637485,
+   "files": [
+    "U: switch/dbipatcher/dbipatcher.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/dbipatcher.jpg",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "easypm",
+   "title": "Easy Power Menu",
+   "author": "Dener Araujo",
+   "version": "1.0.0",
+   "category": "tool",
+   "description": "",
+   "changelog": "",
+   "url": "https://github.com/deneraraujo/easypm",
+   "repo": "deneraraujo/easypm",
+   "updated": "2025-03-25",
+   "download_url": "https://github.com/deneraraujo/easypm/releases/download/v1.0.0/easypm.nro",
+   "download_type": "file",
+   "sha256": "09cc60ffc021d671b82d884c827380705f47163855d1a6551c0e4ace91e38387",
+   "filesize": 8488592,
+   "extracted": 8488592,
+   "files": [
+    "U: switch/easypm/easypm.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/easypm.jpg",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "exefsmanager",
+   "title": "ExeFS Manager - SMO",
+   "author": "CVFD",
+   "version": "1.0SMO",
+   "category": "tool",
+   "description": "",
+   "changelog": "Initial and Probably Final release!",
+   "url": "https://github.com/cvfiredragon/exefsmanager",
+   "repo": "cvfiredragon/exefsmanager",
+   "updated": "2018-12-21",
+   "download_url": "https://github.com/CVFireDragon/ExeFSManager/releases/download/v1.0SMO/exefsman.nro",
+   "download_type": "file",
+   "sha256": "7d76f911c25cfe8ab8766b4f18cc6507f10cbc4e4f2fbbcf438779082ca1a5d6",
+   "filesize": 289708,
+   "extracted": 289708,
+   "files": [
+    "U: switch/exefsmanager/exefsmanager.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/exefsmanager.jpg",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
    "name": "Ferry-Switch",
    "title": "Ferry",
    "author": "DanilKhmyrov",
@@ -2744,7 +2836,7 @@
    "filesize": 9638971,
    "extracted": 9638971,
    "files": [
-    "U: switch/Ferry/Ferry.nro"
+    "U: switch/Ferry-Switch/Ferry-Switch.nro"
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Ferry-Switch.jpg",
    "license": "GPL-3.0",
@@ -2809,6 +2901,29 @@
    }
   },
   {
+   "name": "fuck-u",
+   "title": "Fuck You.",
+   "author": "xXxswagnemitexXx - modded by ELY M.",
+   "version": "09-22-2026-03.34.02.AM",
+   "category": "tool",
+   "description": "",
+   "changelog": "icon",
+   "url": "https://github.com/ely3m/fuck-u",
+   "repo": "ely3m/fuck-u",
+   "updated": "2026-09-22",
+   "download_url": "https://github.com/ELY3M/fuck-u/releases/download/09-22-2026-03.34.02.AM/fuck-u.nro",
+   "download_type": "file",
+   "sha256": "92d2cf27140704c287681a0a412f25022ef839c572309b67a23e084a624e3784",
+   "filesize": 213679,
+   "extracted": 213679,
+   "files": [
+    "U: switch/fuck-u/fuck-u.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/fuck-u.png",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
    "name": "GameTime-Tracker",
    "title": "GameTime Tracker",
    "author": "Homebrew Dev",
@@ -2825,7 +2940,7 @@
    "filesize": 712933,
    "extracted": 712933,
    "files": [
-    "U: switch/GameTime.Tracker.v1.1.0/GameTime.Tracker.v1.1.0.nro"
+    "U: switch/GameTime-Tracker/GameTime-Tracker.nro"
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/GameTime-Tracker.jpg",
    "license": "NOASSERTION",
@@ -2849,7 +2964,7 @@
    "filesize": 2737984,
    "extracted": 2737984,
    "files": [
-    "U: switch/HekateToolbox/HekateToolbox.nro"
+    "U: switch/Hekate-Toolbox/Hekate-Toolbox.nro"
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Hekate-Toolbox.jpg",
    "description_i18n": {
@@ -2873,7 +2988,7 @@
    "filesize": 2867965,
    "extracted": 2867965,
    "files": [
-    "U: switch/HomeTile/HomeTile.nro"
+    "U: switch/HomeTile-switch/HomeTile-switch.nro"
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/HomeTile-switch.jpg",
    "license": "GPL-3.0",
@@ -2992,7 +3107,7 @@
    "filesize": 78305397,
    "extracted": 78305397,
    "files": [
-    "U: switch/NexvynOS/NexvynOS.nro"
+    "U: switch/Nexvyn-OS-NX/Nexvyn-OS-NX.nro"
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Nexvyn-OS-NX.jpg",
    "license": "GPL-3.0",
@@ -3064,7 +3179,7 @@
    "filesize": 2078917,
    "extracted": 2078917,
    "files": [
-    "U: switch/test_program/test_program.nro"
+    "U: switch/nx-fs-utf8/nx-fs-utf8.nro"
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-fs-utf8.jpg",
    "license": "GPL-2.0",
@@ -3140,7 +3255,7 @@
    "filesize": 56436901,
    "extracted": 56436901,
    "files": [
-    "U: switch/nxjs/nxjs.nro"
+    "U: switch/nx.js/nx.js.nro"
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx.js.jpg",
    "auto": true,
@@ -3163,7 +3278,7 @@
    "filesize": 393272,
    "extracted": 393272,
    "files": [
-    "U: switch/.overlays/ovlSysmodules.ovl"
+    "U: switch/.overlays/ovl-sysmodules.ovl"
    ],
    "description_i18n": {
     "ru": "Оверлей: включение и выключение системных модулей"
@@ -3186,7 +3301,7 @@
    "filesize": 54036399,
    "extracted": 54036399,
    "files": [
-    "U: switch/shank2/shank2.nro"
+    "U: switch/shank2-nx/shank2-nx.nro"
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/shank2-nx.jpg",
    "license": "GPL-3.0",
@@ -3234,7 +3349,7 @@
    "filesize": 30564355,
    "extracted": 30564355,
    "files": [
-    "U: switch/stremnx/stremnx.nro"
+    "U: switch/StremNX/StremNX.nro"
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/StremNX.jpg",
    "license": "GPL-3.0",
@@ -3258,7 +3373,7 @@
    "filesize": 12932217,
    "extracted": 12932217,
    "files": [
-    "U: switch/Switch-Super-Installer-v1.0.1/Switch-Super-Installer-v1.0.1.nro"
+    "U: switch/Switch-Super-Installer/Switch-Super-Installer.nro"
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Switch-Super-Installer.jpg",
    "license": "GPL-3.0",
