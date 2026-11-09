@@ -1,0 +1,70 @@
+name: Update Homebrew Store Index
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'homebrew-sources.json'
+      - 'scripts/homebrew_indexer.py'
+      - 'homebrew/path_rules.txt'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: homebrew-index
+  cancel-in-progress: false
+
+jobs:
+  update-homebrew:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build homebrew.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/homebrew_indexer.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add homebrew.json homebrew/
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "Auto-update homebrew store index"
+          # Other workflows push to main too: rebase onto them before pushing.
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 10
+          done
+          exit 1
+
+      - name: Update candidates issue
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          title="Кандидаты в магазин хоумбрю"
+          num=$(gh issue list --state open --limit 100 --json number,title \
+                --jq ".[] | select(.title == \"$title\") | .number" | head -n1)
+          if [ -n "$num" ]; then
+            gh issue edit "$num" --body-file homebrew/candidates.md
+          else
+            gh issue create --title "$title" --body-file homebrew/candidates.md
+          fi

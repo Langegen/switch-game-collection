@@ -1,0 +1,89 @@
+{
+ "_comment": "Hand-picked GitHub projects for the TorrentShopNX homebrew store. Being in this list = approved. Fields: repo, asset (glob, optional), name/title/category/description (optional), description_i18n, depends, dest (single .nro), zip_root, prerelease. Built by scripts/homebrew_indexer.py into homebrew.json.",
+ "hidden": [
+  "Hekate",
+  "Daybreak",
+  "Tesla-menu",
+  "appstore_survey"
+ ],
+ "overlay_dependencies": ["nx-ovlloader", "UltrahandOverlay"],
+ "discovery": { "min_stars": 2 },
+ "fortheusers": {
+  "Checkpoint": { "description_i18n": { "ru": "Резервные копии и восстановление сохранений" } },
+  "jksv": { "description_i18n": { "ru": "Резервные копии сохранений с облаком" } },
+  "Goldleaf": { "description_i18n": { "ru": "Установщик NSP, файловый менеджер, управление контентом" } },
+  "sphaira": { "description_i18n": { "ru": "Меню хоумбрю с FTP, MTP и установкой игр" } },
+  "MissionControl": { "description_i18n": { "ru": "Геймпады PS, Xbox и других по Bluetooth" } },
+  "ldn_mitm": { "description_i18n": { "ru": "Локальная игра по сети через LAN" } },
+  "emuiibo": { "description_i18n": { "ru": "Виртуальные amiibo" } },
+  "Status-Monitor-Overlay": { "description_i18n": { "ru": "Оверлей: частоты, температура, FPS" } },
+  "EdiZonOverlay": { "description_i18n": { "ru": "Оверлей с читами" } },
+  "NXthemes_Installer": { "description_i18n": { "ru": "Установка тем главного меню" } },
+  "ftpd": { "description_i18n": { "ru": "FTP-сервер для доступа к карте с ПК" } },
+  "UltrahandOverlay": { "description_i18n": { "ru": "Меню оверлеев (замена Tesla)" } },
+  "nx-ovlloader": { "description_i18n": { "ru": "Загрузчик оверлеев" } }
+ },
+ "packages": [
+  {
+   "repo": "ppkantorski/Ultrahand-Overlay",
+   "asset": "sdout.zip",
+   "description": "Overlay menu and package manager (Tesla menu replacement)",
+   "description_i18n": { "ru": "Меню оверлеев (замена Tesla)" }
+  },
+  {
+   "repo": "ppkantorski/nx-ovlloader",
+   "name": "nx-ovlloader",
+   "asset": "nx-ovlloader.zip",
+   "description": "Overlay loader sysmodule (needed by every overlay)",
+   "description_i18n": { "ru": "Загрузчик оверлеев" }
+  },
+  {
+   "repo": "impeeza/sys-patch",
+   "asset": "sys-patch-*.zip",
+   "category": "advanced",
+   "description": "Sysmodule that patches fs, es, ldr and nim on boot",
+   "description_i18n": { "ru": "Системный модуль с патчами fs, es, ldr, nim" }
+  },
+  {
+   "repo": "averne/Fizeau",
+   "asset": "fizeau-*.zip",
+   "category": "advanced",
+   "description": "Screen color temperature, gamma and saturation",
+   "description_i18n": { "ru": "Цветовая температура, гамма и насыщенность экрана" }
+  },
+  {
+   "repo": "o0Zz/sys-con",
+   "asset": "sys-con-*.zip",
+   "category": "advanced",
+   "description": "Third-party USB controllers support",
+   "description_i18n": { "ru": "Поддержка сторонних USB-геймпадов" }
+  },
+  {
+   "repo": "tallbl0nde/NX-Activity-Log",
+   "description": "Play time statistics for every title",
+   "description_i18n": { "ru": "Статистика времени в играх" }
+  },
+  {
+   "repo": "hax4dazy/TinWoo",
+   "asset": "TinWoo-Installer.zip",
+   "description": "NSP/NSZ/XCI installer",
+   "description_i18n": { "ru": "Установщик NSP, NSZ и XCI" }
+  },
+  {
+   "repo": "HamletDuFromage/aio-switch-updater",
+   "asset": "aio-switch-updater.zip",
+   "description": "Updates CFW, cheats and firmware files from one app",
+   "description_i18n": { "ru": "Обновление CFW, читов и файлов прошивки" }
+  },
+  {
+   "repo": "WerWolv/Hekate-Toolbox",
+   "description": "Reboot to Hekate configs and toggle sysmodules",
+   "description_i18n": { "ru": "Перезагрузка в Hekate и переключение системных модулей" }
+  },
+  {
+   "repo": "WerWolv/ovl-sysmodules",
+   "description": "Overlay to toggle sysmodules",
+   "description_i18n": { "ru": "Оверлей: включение и выключение системных модулей" }
+  }
+ ]
+}
