@@ -338,6 +338,20 @@ def zip_layout(zf: zipfile.ZipFile) -> tuple[str, list[str]]:
     return root, files
 
 
+def single_file_dest(asset_name: str, cfg: dict, repo: str, ftu_binary: str | None) -> str:
+    """Path for a release that is one .nro/.ovl. Named after the repo, not the
+    asset: assets often carry the version ("tool-v1.2.nro"), and the path must
+    stay the same between versions."""
+    if cfg.get("dest"):
+        return normalize_rel_path(cfg["dest"])
+    stem = re.sub(r"[^A-Za-z0-9._-]+", "_", (cfg.get("repo") or repo).split("/", 1)[1])
+    if asset_name.lower().endswith(".ovl"):
+        return f"switch/.overlays/{stem}.ovl"
+    if ftu_binary and ftu_binary.lower().endswith(".nro"):
+        return normalize_rel_path(ftu_binary)  # same place as the fortheusers build
+    return f"switch/{stem}/{stem}.nro"
+
+
 def build_package(name: str, repo: str, release: dict, asset: dict, cfg: dict,
                   cache: dict, ftu_binary: str | None) -> tuple[dict | None, str]:
     """Downloads (or reuses cached) asset data. Returns (package, problem)."""
@@ -368,12 +382,8 @@ def build_package(name: str, repo: str, release: dict, asset: dict, cfg: dict,
             if main:
                 nro_bytes = zf.read(root + main)
         elif lname.endswith((".nro", ".ovl")):
-            if lname.endswith(".ovl"):
-                dest = "switch/.overlays/" + asset["name"]
-            else:
-                dest = cfg.get("dest") or (normalize_rel_path(ftu_binary) if ftu_binary and ftu_binary.lower().endswith(".nro") else "")
-                dest = dest or f"switch/{Path(asset['name']).stem}/{asset['name']}"
-            entry.update(type="file", zip_root="", files=[normalize_rel_path(dest)], extracted=len(data))
+            # Where it goes is decided below (not cached): see single_file_dest.
+            entry.update(type="file", zip_root="", files=[], extracted=len(data))
             nro_bytes = data
         else:
             return None, f"unsupported asset {asset['name']}"
@@ -384,9 +394,12 @@ def build_package(name: str, repo: str, release: dict, asset: dict, cfg: dict,
         entry["icon_url"] = save_icon(name, (nro or {}).get("icon"))
         cache[repo] = entry
 
-    if not entry["files"]:
+    files = entry.get("files") or []
+    if entry["type"] == "file":
+        files = [single_file_dest(asset["name"], cfg, repo, ftu_binary)]
+    if not files:
         return None, "nothing to install"
-    a = analyze_files(entry["files"])
+    a = analyze_files(files)
     if a["worst"] == "forbidden":
         return None, f"forbidden path {a['worst_path']} ({a['worst_reason']})"
     nacp = entry.get("nacp", {})
@@ -414,7 +427,7 @@ def build_package(name: str, repo: str, release: dict, asset: dict, cfg: dict,
         "filesize": entry["size"],
         "extracted": entry["extracted"],
         # Settings are written only when missing, so updates keep the user's config.
-        "files": [("G: " if f.lower().startswith("config/") else "U: ") + f for f in entry["files"]],
+        "files": [("G: " if f.lower().startswith("config/") else "U: ") + f for f in files],
         "kinds": a["kinds"],
     }
     if entry.get("zip_root"):
@@ -658,6 +671,15 @@ def main() -> int:
             continue
         record = {"pushed_at": pushed, "checked": today}
         auto_repos.pop(repo, None)  # re-added below if it is still a simple package
+        # Renamed or moved repos (GameBrew keeps old links): GitHub answers with
+        # the new address; skip it when that one is already known.
+        m = re.search(r"github\.com/([^/]+/[^/]+)/releases", (rel or {}).get("html_url", ""))
+        if m and m.group(1).lower() != repo:
+            canon = m.group(1).lower()
+            if canon in known or canon in discovered or canon in auto_repos:
+                rejected[repo] = dict(record, alias=canon)
+                continue
+            info = dict(info, full_name=m.group(1))
         if not rel or not rel.get("assets"):
             rejected[repo] = record
             continue
@@ -679,7 +701,7 @@ def main() -> int:
                    "license": (info.get("license") or {}).get("spdx_id", "")}
             name = full_name.split("/")[1]
             try:
-                pkg, why = build_package(name, repo, rel, nro_ovl[0], cfg, asset_cache, None)
+                pkg, why = build_package(name, full_name.lower(), rel, nro_ovl[0], cfg, asset_cache, None)
             except Exception as e:  # noqa: BLE001
                 pkg, why = None, str(e)
             if pkg and analyze_files([f[3:] for f in pkg["files"]])["simple"]:
