@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-09T11:34:50Z",
+ "generated": "2026-11-09T22:26:02Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -2901,6 +2901,29 @@
    }
   },
   {
+   "name": "ftpd4sxos",
+   "title": "Ftpd 2.2.0-480767bf",
+   "author": "Mtheall, Tuxsh, WinterMute",
+   "version": "4",
+   "category": "tool",
+   "description": "",
+   "changelog": "fewer debugs and start delete 3ds code",
+   "url": "https://github.com/falki141/ftpd4sxos",
+   "repo": "falki141/ftpd4sxos",
+   "updated": "2018-09-22",
+   "download_url": "https://github.com/Falki141/ftpd4sxos/releases/download/v4/ftpd4sxos.nro",
+   "download_type": "file",
+   "sha256": "62d597a917456bc1ed87134208f4f202c68c8870d38ddefdfdab49c303cce53c",
+   "filesize": 347279,
+   "extracted": 347279,
+   "files": [
+    "U: switch/ftpd4sxos/ftpd4sxos.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ftpd4sxos.jpg",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
    "name": "fuck-u",
    "title": "Fuck You.",
    "author": "xXxswagnemitexXx - modded by ELY M.",
@@ -2944,6 +2967,52 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/GameTime-Tracker.jpg",
    "license": "NOASSERTION",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "green-nx",
+   "title": "green-nx",
+   "author": "rmrf404",
+   "version": "1.0.30",
+   "category": "tool",
+   "description": "",
+   "changelog": "Stability release focused on lag spikes, controller recovery and catalog coverage.\n\n- Games no longer break when xCloud switches the stream to 1440p: the resolution is now pinned through the official picker (#60)\n- Big lag spikes: the client detects a dead connection, reconnects and resumes the same session with an on-screen notice (#61)\n- Fixed the reconnect loop that could kill a recovered session and crash the app (#61)\n- If the controller stops responding, press ZL + ZR + Up to revive it; press again to force a full reconnect\n- Reconnect budget is now 3 per 2 minutes instead of 3 per session, so long sessions survive several recoveries (#67)\n- An idle controller no longer sends 125 packets a second (#67)\n- New setting: game language, with every language xCloud accepts (#63)\n- Search now covers the whole xCloud catalog with availability flags (#64)\n- Free-to-play titles from the ad-supported offering can be launched (#65)\n\nThanks to @IsNotASword and @bg2-design for the testing and contributions that shaped this release.",
+   "url": "https://github.com/rmrf404/green-nx",
+   "repo": "rmrf404/green-nx",
+   "updated": "2026-08-24",
+   "download_url": "https://github.com/rmrf404/green-nx/releases/download/v1.0.30/green-nx.nro",
+   "download_type": "file",
+   "sha256": "dc0e0c2d24e6544d2412b82cdc416b201f9a27dcd741f2c12d8c2231f10f9608",
+   "filesize": 23370911,
+   "extracted": 23370911,
+   "files": [
+    "U: switch/green-nx/green-nx.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/green-nx.jpg",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "haku33",
+   "title": "Haku33",
+   "author": "Kronos2308",
+   "version": "7.2",
+   "category": "tool",
+   "description": "",
+   "changelog": "**Full Changelog**: https://github.com/StarDustCFW/Haku33/compare/7.1...7.2",
+   "url": "https://github.com/stardustcfw/haku33",
+   "repo": "stardustcfw/haku33",
+   "updated": "2025-11-16",
+   "download_url": "https://github.com/StarDustCFW/Haku33/releases/download/7.2/Haku33.nro",
+   "download_type": "file",
+   "sha256": "5898b26eff620fbe61774c79d8fa1550c044cd8d98e72fa27c9c98bd591d4df8",
+   "filesize": 984128,
+   "extracted": 984128,
+   "files": [
+    "U: switch/haku33/haku33.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/haku33.jpg",
    "auto": true,
    "first_seen": "2026-11-09"
   },
@@ -2992,6 +3061,29 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/HomeTile-switch.jpg",
    "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "icongrabber",
+   "title": "IconGrabber",
+   "author": "Slluxx",
+   "version": "1.0.1",
+   "category": "tool",
+   "description": "",
+   "changelog": "Thanks to @Schaefers in https://github.com/Slluxx/IconGrabber/issues/2, IG does not crash anymore when images got DMCA striked by shitendo. Sorry for dragging this so long.",
+   "url": "https://github.com/slluxx/icongrabber",
+   "repo": "slluxx/icongrabber",
+   "updated": "2023-04-19",
+   "download_url": "https://github.com/Slluxx/IconGrabber/releases/download/v1.0.1/IconGrabber.nro",
+   "download_type": "file",
+   "sha256": "c654cdb187ecc135daabc87e675785dbafabbffdd85165b878822befa4dc6fb6",
+   "filesize": 8472034,
+   "extracted": 8472034,
+   "files": [
+    "U: switch/icongrabber/icongrabber.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/icongrabber.jpg",
    "auto": true,
    "first_seen": "2026-11-09"
   },
@@ -3094,18 +3186,18 @@
    "name": "Nexvyn-OS-NX",
    "title": "Nexvyn OS",
    "author": "sonerx7",
-   "version": "1.2.2",
+   "version": "1.2.3",
    "category": "game",
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
-   "changelog": "﻿**What's new in 1.2.2**\n- NexGFX pbr renderer (SDK 1.9): physically based materials, real-time lights, shadows, glass, reflections, HDR, bloom, MSAA and instancing for 3D games; apps that do not ask for it look exactly as before\n- Social and media SDK (SDK 1.9): uploads, cookies, retries and an offline cache, WebSockets, sign-in through the console's browser, cached web pictures, video players, virtualized feeds and a swipe pager\n- Runtime library: `net.request` in Lua, `TextEncoder` / `URL` / `structuredClone` in JavaScript, more string methods, `urllib.parse`, `html` and `uuid` in Python\n- Deep reset in System Settings > Developer: returns the SD card to a fresh install; games, saves, Atmosphère and other homebrew stay\n- System version 22.5.0 is required (tested up to 23.0.x); other versions still start, with a one-time notice\n- Native SDK speed, measured on a console: 3D scenes 10 to 59 fps, the OpenGL showcase 10-16 to 60 fps, app frame handoff 15-24 ms to 0.1 ms, scene loading about 30 s to 0.6 s\n- Settings > Performance: official maximum clocks (on by default), faster loading, and an optional overclock with a warning (off by default)\n- Package installs run in the background: no freezes on slow SD cards\n- Native games: clean sound at every sample rate (no more crackling), Joy-Con and touch work in windowed apps, a stuck exit returns to the menu after 10 s\n- New App Market category \"Showcase\", starting with the Native SDK Showcase\n- Redesigned App Market: tabs for Discover, Apps, Games, Showcase and Updates, subcategories on the side, full-page app details with a large screenshot gallery, and live download speed and MB while installing\n- First-run setup suggests App Market apps to install; Settings marks the section a notification belongs to\n- Browser: WebGL 3D graphics for web pages, on by default (three.js scene at about 48 fps on the console)\n- Sound and game-feel kits, a store icon tool and five English screenshots per App Market item\n\n**For app makers:** S",
+   "changelog": "**What's new in 1.2.3**\r\n- New themes: Classic (a 1990s desktop look), Keypad and Pocket (phone-era looks); every theme now comes with its own icon set, and Settings can lock the icons so a theme switch keeps your choice\r\n- Classic and Keypad use the normal UI font; the pixel font is an option in Settings > Appearance > Customize (off by default)\r\n- Redesigned App Market: a sidebar on every tab, a density switch, Ports and Emulators categories, filters and sorting, and extra store fields (kind, features, players, theme style) shown on the detail page\r\n- BlockCraft: fixed a stack corruption in the voxel worker thread that could crash a world on open\r\n- Small fixes: recommended apps now show a clear offline message, the App Market no longer stalls on a slow connection, deep links open the right detail page, and two apps whose names differ only in letter case no longer clash\r\n\r\n**For app makers:** the store metadata fields `kind`, `features`, `players` and `themeStyle` are documented in the SDK kit and AI prompts. No SDK API change; apps made for SDK 1.0 to 1.12 run unchanged.\r\n\r\n---\r\n**1.2.3:** yeni temalar (Classic, Keypad, Pocket) ve tema başına simge setleri · yeniden düzenlenen App Market (yan menü, filtreler, sıralama, Ports ve Emulators) · BlockCraft çökme düzeltmesi · küçük düzeltmeler.",
    "url": "https://github.com/sonerx7/nexvyn-os-nx",
    "repo": "sonerx7/nexvyn-os-nx",
    "updated": "2026-11-09",
-   "download_url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/download/v1.2.2/NexvynOS.nro",
+   "download_url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/download/v1.2.3/NexvynOS.nro",
    "download_type": "file",
-   "sha256": "99ba664dfbeede982d92c60e0191bb85259cec64e0da33fb3447644d145ba982",
-   "filesize": 78305397,
-   "extracted": 78305397,
+   "sha256": "64afd22ec46a0c2572de2a8cd7d78f058ec1a24ab082a06298cfd51d35a4887c",
+   "filesize": 79361781,
+   "extracted": 79361781,
    "files": [
     "U: switch/Nexvyn-OS-NX/Nexvyn-OS-NX.nro"
    ],
@@ -3377,6 +3469,29 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Switch-Super-Installer.jpg",
    "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "switchiptv",
+   "title": "IPTV Player",
+   "author": "gomprime",
+   "version": "1.0.8",
+   "category": "tool",
+   "description": "",
+   "changelog": "Ajusta o diálogo de progresso do download pra preencher bem o espaço (a caixa dos diálogos tem largura fixa; a v1.0.7 tinha encolhido demais o conteúdo, deixando vazio ao redor).",
+   "url": "https://github.com/gomprime/switchiptv",
+   "repo": "gomprime/switchiptv",
+   "updated": "2026-08-09",
+   "download_url": "https://github.com/gomprime/switchiptv/releases/download/v1.0.8/IptvPlayerSwitch.nro",
+   "download_type": "file",
+   "sha256": "04d2285535856e9cf054c33729736e4e1738f7914db94654f90c7af5e70cfb88",
+   "filesize": 36158469,
+   "extracted": 36158469,
+   "files": [
+    "U: switch/switchiptv/switchiptv.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/switchiptv.jpg",
    "auto": true,
    "first_seen": "2026-11-09"
   },

@@ -248,6 +248,36 @@
    "type": "file",
    "zip_root": ""
   },
+  "falki141/ftpd4sxos": {
+   "asset_key": "8794408:2018-09-22T15:30:25Z",
+   "extracted": 347279,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ftpd4sxos.jpg",
+   "nacp": {
+    "author": "Mtheall, Tuxsh, WinterMute",
+    "title": "Ftpd 2.2.0-480767bf",
+    "version": "2.2.0-480767bf"
+   },
+   "sha256": "62d597a917456bc1ed87134208f4f202c68c8870d38ddefdfdab49c303cce53c",
+   "size": 347279,
+   "type": "file",
+   "zip_root": ""
+  },
+  "gomprime/switchiptv": {
+   "asset_key": "507802660:2026-08-09T18:56:34Z",
+   "extracted": 36158469,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/switchiptv.jpg",
+   "nacp": {
+    "author": "gomprime",
+    "title": "IPTV Player",
+    "version": "1.0.8"
+   },
+   "sha256": "04d2285535856e9cf054c33729736e4e1738f7914db94654f90c7af5e70cfb88",
+   "size": 36158469,
+   "type": "file",
+   "zip_root": ""
+  },
   "hamletdufromage/aio-switch-updater": {
    "asset_key": "317684393:2025-11-18T00:32:30Z",
    "extracted": 8552465,
@@ -536,6 +566,21 @@
    "type": "file",
    "zip_root": ""
   },
+  "rmrf404/green-nx": {
+   "asset_key": "527381705:2026-08-24T09:28:28Z",
+   "extracted": 23370911,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/green-nx.jpg",
+   "nacp": {
+    "author": "rmrf404",
+    "title": "green-nx",
+    "version": "1.0.30"
+   },
+   "sha256": "dc0e0c2d24e6544d2412b82cdc416b201f9a27dcd741f2c12d8c2231f10f9608",
+   "size": 23370911,
+   "type": "file",
+   "zip_root": ""
+  },
   "scamnscoot/streamfin": {
    "asset_key": "479300036:2026-07-16T15:03:32Z",
    "extracted": 31903307,
@@ -587,20 +632,48 @@
    "type": "file",
    "zip_root": ""
   },
+  "slluxx/icongrabber": {
+   "asset_key": "104400066:2023-04-19T16:33:32Z",
+   "extracted": 8472034,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/icongrabber.jpg",
+   "nacp": {
+    "author": "Slluxx",
+    "title": "IconGrabber",
+    "version": "1.0.0"
+   },
+   "sha256": "c654cdb187ecc135daabc87e675785dbafabbffdd85165b878822befa4dc6fb6",
+   "size": 8472034,
+   "type": "file",
+   "zip_root": ""
+  },
   "sonerx7/nexvyn-os-nx": {
-   "asset_key": "725992287:2026-11-09T02:49:10Z",
-   "extracted": 78305397,
-   "files": [
-    "switch/NexvynOS/NexvynOS.nro"
-   ],
+   "asset_key": "728587962:2026-11-09T18:55:20Z",
+   "extracted": 79361781,
+   "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Nexvyn-OS-NX.jpg",
    "nacp": {
     "author": "sonerx7",
     "title": "Nexvyn OS",
-    "version": "1.2.2"
+    "version": "1.2.3"
    },
-   "sha256": "99ba664dfbeede982d92c60e0191bb85259cec64e0da33fb3447644d145ba982",
-   "size": 78305397,
+   "sha256": "64afd22ec46a0c2572de2a8cd7d78f058ec1a24ab082a06298cfd51d35a4887c",
+   "size": 79361781,
+   "type": "file",
+   "zip_root": ""
+  },
+  "stardustcfw/haku33": {
+   "asset_key": "317110588:2025-11-16T17:51:22Z",
+   "extracted": 984128,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/haku33.jpg",
+   "nacp": {
+    "author": "Kronos2308",
+    "title": "Haku33",
+    "version": "7.2"
+   },
+   "sha256": "5898b26eff620fbe61774c79d8fa1550c044cd8d98e72fa27c9c98bd591d4df8",
+   "size": 984128,
    "type": "file",
    "zip_root": ""
   },
@@ -871,6 +944,18 @@
     "visual-novel"
    ]
   },
+  "falki14/ftpd4sxos": {
+   "description": "",
+   "full_name": "Falki141/ftpd4sxos",
+   "stargazers_count": null,
+   "topics": []
+  },
+  "gomprime/switchiptv": {
+   "description": "",
+   "full_name": "gomprime/switchiptv",
+   "stargazers_count": null,
+   "topics": []
+  },
   "hashcade/mhgu-overlay": {
    "description": "A monster info, damage display, and gameplay tools tesla overlay for MHGU on Nintendo Switch.",
    "full_name": "hashcade/mhgu-overlay",
@@ -963,6 +1048,12 @@
     "nintendo-switch-homebrew"
    ]
   },
+  "rmrf404/green-nx": {
+   "description": "",
+   "full_name": "rmrf404/green-nx",
+   "stargazers_count": null,
+   "topics": []
+  },
   "scamnscoot/streamfin": {
    "description": "StreamFin - streaming-only Stremio client for homebrewed Nintendo Switch. Switchfin fork speaking the Stremio addon protocol.",
    "full_name": "scamNscoot/StreamFin",
@@ -1005,6 +1096,12 @@
     "utf-8"
    ]
   },
+  "slluxx/icongrabber": {
+   "description": "",
+   "full_name": "slluxx/icongrabber",
+   "stargazers_count": null,
+   "topics": []
+  },
   "sonerx7/nexvyn-os-nx": {
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
    "full_name": "sonerx7/Nexvyn-OS-NX",
@@ -1027,6 +1124,12 @@
     "switch-homebrew",
     "window-manager"
    ]
+  },
+  "stardustcfw/haku33": {
+   "description": "",
+   "full_name": "stardustcfw/haku33",
+   "stargazers_count": null,
+   "topics": []
   },
   "tootallnate/nx.js": {
    "description": "",
@@ -1080,6 +1183,8 @@
   "ely3m/weather-and-moon-phase-app-for-nintendo-switch": "2026-11-09",
   "ely3m/weather-app-for-nintendo-switch": "2026-11-09",
   "erige005/kirikiroid2-nx": "2026-11-09",
+  "falki141/ftpd4sxos": "2026-11-09",
+  "gomprime/switchiptv": "2026-11-09",
   "hashcade/mhgu-overlay": "2026-11-09",
   "ibnuard/darktube": "2026-11-09",
   "itotaljustice/atmosphere-updater": "2026-11-09",
@@ -1088,10 +1193,13 @@
   "paulodiasred/bm64switch": "2026-11-09",
   "rashevskyv/dbipatcher": "2026-11-09",
   "rexead/gametime-tracker": "2026-11-09",
+  "rmrf404/green-nx": "2026-11-09",
   "scamnscoot/streamfin": "2026-11-09",
   "shodowlo/nx-torrent-player": "2026-11-09",
   "slankka/nx-fs-utf8": "2026-11-09",
+  "slluxx/icongrabber": "2026-11-09",
   "sonerx7/nexvyn-os-nx": "2026-11-09",
+  "stardustcfw/haku33": "2026-11-09",
   "tootallnate/nx.js": "2026-11-09",
   "tuckerwales/nslibrary": "2026-11-09",
   "zhtipu/shank2-nx": "2026-11-09",
@@ -5457,7 +5565,146 @@
   "/wiki/Factorial-NX_Switch": [
    "zamacian/factorial-nx"
   ],
-  "/wiki/Firmware_Dumper_Switch": []
+  "/wiki/Firmware_Dumper_Switch": [],
+  "/wiki/Fizeau_Switch": [
+   "averne/fizeau"
+  ],
+  "/wiki/FlashNX_Switch": [
+   "devkitpro/pacman-packages",
+   "image-rs/jpeg-decoder",
+   "jonathan8520/flashnx"
+  ],
+  "/wiki/Flash_Cards_NX_Switch": [
+   "compsciorbust/flashcardsnx"
+  ],
+  "/wiki/Flavortown_Switch": [
+   "alphonseelric/flavortown"
+  ],
+  "/wiki/Foldery_Switch": [
+   "umm12many/foldery"
+  ],
+  "/wiki/Ftpd4sxos_Switch": [
+   "falki14/ftpd4sxos"
+  ],
+  "/wiki/Ftpd_Switch": [
+   "mtheall/ftpd",
+   "ocornut/imgui"
+  ],
+  "/wiki/Ftpsrv_Switch": [
+   "itotaljustice/ftpsrv"
+  ],
+  "/wiki/FuseCheck_Switch": [
+   "ctcaer/hekate",
+   "sthetix/fusecheck",
+   "sthetix/lockpick_rcm_pro"
+  ],
+  "/wiki/GMCA_Switch": [
+   "averne/ffmpeg",
+   "dragonflylee/switchfin",
+   "natinusala/borealis"
+  ],
+  "/wiki/Gag_Order_Switch": [
+   "adubbz/gag-order",
+   "thog/nx-dreport"
+  ],
+  "/wiki/Galactic_Switch": [],
+  "/wiki/Gamecard_Installer_NX_Switch": [
+   "itotaljustice/gamecard-installer-nx"
+  ],
+  "/wiki/GarageNX_Switch": [
+   "robzilla10001/garagenx"
+  ],
+  "/wiki/Generic_Mod_Manager_Switch": [
+   "genwald/generic-mod-manager"
+  ],
+  "/wiki/Gentoo_Switch": [
+   "bell07/bashscripts-switch_gentoo"
+  ],
+  "/wiki/Gerenciador_M.I.L._Switch": [
+   "nekkk/mil-manager",
+   "nekkk/mil-manager-delivery"
+  ],
+  "/wiki/Goldleaf_Fork_Switch": [
+   "nicoboss/nsz",
+   "rqworldblender/goldleaf"
+  ],
+  "/wiki/Goldleaf_Switch": [
+   "adubbz/tinfoil",
+   "developersu/ns-usbloader",
+   "shchmue/lockpick"
+  ],
+  "/wiki/GrafX2_Switch": [],
+  "/wiki/Green-nx_Switch": [
+   "atmosphere-nx/atmosphere",
+   "rmrf404/green-nx"
+  ],
+  "/wiki/HOS-InputDisplay_Switch": [
+   "fruityloops1/hos-inputdisplay",
+   "istador/ojds-nx"
+  ],
+  "/wiki/HTML-Video-Template_NX_Switch": [
+   "superokazaki/html-video-template-nx"
+  ],
+  "/wiki/Haku33_Switch": [
+   "stardustcfw/haku33",
+   "suchmememanyskill/tegraexplorer"
+  ],
+  "/wiki/HekateBrew_Switch": [
+   "atmosphere-nx/atmosphere",
+   "bemardev/hekatebrew",
+   "ctcaer/hekate"
+  ],
+  "/wiki/Hekate_Switch": [
+   "atmosphere-nx/atmosphere",
+   "ctcaer/hekate",
+   "m4xw/emummc"
+  ],
+  "/wiki/Hekate_Toolbox_Switch": [
+   "jakibaki/hid-mitm",
+   "werwolv/hekate-toolbox"
+  ],
+  "/wiki/Hello_Colours_Switch": [
+   "okistuff/hello_colours"
+  ],
+  "/wiki/HomeBrew-Manager_Switch": [
+   "krankrival/homebrew-manager"
+  ],
+  "/wiki/Homebrew_App_Store_Switch": [
+   "fortheusers/chesto",
+   "fortheusers/hb-appstore",
+   "fortheusers/hbas-frontend"
+  ],
+  "/wiki/Homebrew_Details_Switch": [
+   "chrscool8/homebrew-details",
+   "natinusala/borealis"
+  ],
+  "/wiki/Homebrew_Menu_Loader_Switch": [
+   "switchbrew/nx-hbloader"
+  ],
+  "/wiki/Homebrew_Menu_Switch": [
+   "fincs/new-hbmenu",
+   "switchbrew/nx-hbmenu"
+  ],
+  "/wiki/Homebrew_SD_Setup_Switch": [
+   "noahc3/sdsetup-switch"
+  ],
+  "/wiki/IPTV_Player_Switch": [
+   "gomprime/switchiptv"
+  ],
+  "/wiki/IRC_Bot_for_Nintendo_Switch": [
+   "ely3m/irc-bot-for-nintendo-switch",
+   "werwolv/edizon"
+  ],
+  "/wiki/IR_Camera_Switch": [
+   "switchbrew/switch-examples"
+  ],
+  "/wiki/IR_Switch": [
+   "tech-will/ir-switch"
+  ],
+  "/wiki/IconGrabber_Switch": [
+   "slluxx/icongrabber"
+  ],
+  "/wiki/IlluminatiNX_Switch": []
  },
  "rejected": {
   "2003scape/rsc-c": {
@@ -5552,7 +5799,7 @@
   },
   "armaatus/rommsync-nx": {
    "checked": "2026-11-09",
-   "pushed_at": "2026-11-07T10:16:00Z"
+   "pushed_at": "2026-11-09T11:37:41Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -5565,6 +5812,10 @@
    "pushed_at": ""
   },
   "atmosphere-nx/atmosphere-splashes": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "averne/ffmpeg": {
    "checked": "2026-11-09",
    "pushed_at": ""
   },
@@ -5585,6 +5836,10 @@
   "baslim734/touchpadnx": {
    "checked": "2026-11-09",
    "pushed_at": "2026-09-09T11:37:59Z"
+  },
+  "bell07/bashscripts-switch_gentoo": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "bernesemountaindogvent8449/tomodachi-share-discover-and-share-mii": {
    "checked": "2026-11-09",
@@ -5622,7 +5877,7 @@
   },
   "byrilo/phonepadnx": {
    "checked": "2026-11-09",
-   "pushed_at": "2026-11-09T10:33:09Z"
+   "pushed_at": "2026-11-09T15:22:53Z"
   },
   "cameudis/swots": {
    "candidate": "| [Cameudis/SWOTS](https://github.com/Cameudis/SWOTS) | 2 | v0.1.0 | 2026-08-18 | SWOTS-v0.1.0.zip, SWOTS-v0.1.0.zip.sha256 |",
@@ -5653,9 +5908,9 @@
    "pushed_at": "2026-11-03T09:33:27Z"
   },
   "centollos/switchwakerhd": {
-   "candidate": "| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 244 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |",
+   "candidate": "| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 246 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |",
    "checked": "2026-11-09",
-   "pushed_at": "2026-11-08T22:49:46Z"
+   "pushed_at": "2026-11-09T17:15:07Z"
   },
   "ch1nguya/switch-super-manager": {
    "candidate": "| [Ch1nguya/Switch-Super-Manager](https://github.com/Ch1nguya/Switch-Super-Manager) | 15 | v0.7.0 | 2026-11-08 | SHA256SUMS, Switch-Super-Manager-v0.7.0-win64.zip |",
@@ -5761,6 +6016,10 @@
    "checked": "2026-11-09",
    "pushed_at": ""
   },
+  "devkitpro/pacman-packages": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "dimasick-git/ryazha-status-monitor": {
    "candidate": "| [Dimasick-git/Ryazha-Status-Monitor](https://github.com/Dimasick-git/Ryazha-Status-Monitor) | 3 | 1.5.5-deko3d | 2026-10-27 | Ryazha-Status-Monitor.ovl, Ryazha-Status-Monitor.zip |",
    "checked": "2026-11-09",
@@ -5812,6 +6071,10 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-09-22T06:57:13Z"
   },
+  "ely3m/irc-bot-for-nintendo-switch": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "ely3m/lighting-up-led-on-right-joycon-for-nintendo-switch": {
    "checked": "2026-11-09",
    "pushed_at": "2026-09-22T06:47:37Z"
@@ -5847,7 +6110,7 @@
   },
   "emil283498/beat-banger-switch": {
    "checked": "2026-11-09",
-   "pushed_at": "2026-11-09T10:07:24Z"
+   "pushed_at": "2026-11-09T15:35:47Z"
   },
   "enzobernardinomartins/key2con": {
    "candidate": "| [EnzoBernardinoMartins/key2con](https://github.com/EnzoBernardinoMartins/key2con) | 8 | v0.2.0 | 2026-10-13 | key2con.v0-2-0.zip |",
@@ -5876,10 +6139,38 @@
    "checked": "2026-11-09",
    "pushed_at": "2025-11-11T19:36:26Z"
   },
+  "fincs/new-hbmenu": {
+   "candidate": "| [devkitPro/3ds-hbmenu](https://github.com/devkitPro/3ds-hbmenu) | ? | v2.4.4 | 2026-11-01 | 3ds-hbmenu-v2.4.4.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "fortheusers/chesto": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "fortheusers/hb-appstore": {
+   "candidate": "| [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) | ? | v2.3.2 | 2023-03-23 | appstore.nro, appstore.rpx, appstore.wuhb, switch-extracttosd.zip, wiiu-extracttosd.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "fortheusers/hbas-frontend": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "funkinnxteam/funkinlegacy": {
    "candidate": "| [FunkinNXTeam/FunkinLegacy](https://github.com/FunkinNXTeam/FunkinLegacy) | 3 | NX-1.0.1 | 2026-02-04 | Funkin.nro |",
    "checked": "2026-11-09",
    "pushed_at": "2026-02-04T09:13:11Z"
+  },
+  "genwald/generic-mod-manager": {
+   "candidate": "| [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "gowithme-club/switch-playtime-tracker": {
+   "candidate": "| [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-09T14:40:52Z"
   },
   "granule256/nxcourier": {
    "candidate": "| [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |",
@@ -5894,6 +6185,10 @@
    "candidate": "| [HaDoKit/SolarNX](https://github.com/HaDoKit/SolarNX) | 0 | v0.2.5-alpha | 2026-11-03 | release.json, SolarNX-Rendezvous-linux-x64.zip, SolarNX-Rendezvous-win-x64.zip, SolarNX-Setup.exe, SolarNX-Switch.nro |",
    "checked": "2026-11-09",
    "pushed_at": "2026-11-03T14:57:12Z"
+  },
+  "hanazonoarchive/switchtheme_studio": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-09T19:14:46Z"
   },
   "hashcade/feth-overlay": {
    "candidate": "| [hashcade/feth-overlay](https://github.com/hashcade/feth-overlay) | 0 | v0.4.1 | 2026-10-15 | feth-overlay.ovl |",
@@ -5919,6 +6214,10 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-07-29T04:10:01Z"
   },
+  "image-rs/jpeg-decoder": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "imyourboyroy/switch-sd-mgr": {
    "candidate": "| [ImYourBoyRoy/switch-sd-mgr](https://github.com/ImYourBoyRoy/switch-sd-mgr) | 1 | v7.0.0 | 2026-05-31 | Switch-SD-Manager_Windows_Portable.zip, Switch.SD.Updater_7.0.0_amd64.AppImage, Switch.SD.Updater_7.0.0_amd64.deb, Switc |",
    "checked": "2026-11-09",
@@ -5934,6 +6233,16 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-10-23T14:24:42Z"
   },
+  "istador/ojds-nx": {
+   "candidate": "| [istador/ojds-nx](https://github.com/istador/ojds-nx) | ? | v1.0.8 | 2022-10-20 | OJDS-NX-v1.0.8.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "itotaljustice/gamecard-installer-nx": {
+   "candidate": "| [itotaljustice/gamecard-installer-nx](https://github.com/itotaljustice/gamecard-installer-nx) | ? | v2.0.1 | 2020-04-13 | gamecard_installer.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "jack-the-yoshi/one-click-game-manager-ocgm-": {
    "candidate": "| [Jack-The-Yoshi/One-Click-Game-Manager-OCGM-](https://github.com/Jack-The-Yoshi/One-Click-Game-Manager-OCGM-) | 1 | v1.0.1 | 2026-02-16 | OCGM.nro |",
    "checked": "2026-11-09",
@@ -5941,7 +6250,12 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-09",
-   "pushed_at": "2026-11-09T11:31:59Z"
+   "pushed_at": "2026-11-09T22:04:44Z"
+  },
+  "jakibaki/hid-mitm": {
+   "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "jigsawfr/boreale-ha": {
    "candidate": "| [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |",
@@ -6065,7 +6379,7 @@
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-09",
-   "pushed_at": "2026-11-09T05:50:27Z"
+   "pushed_at": "2026-11-09T20:39:04Z"
   },
   "morce3232/dbipatcher": {
    "candidate": "| [morce3232/dbipatcher](https://github.com/morce3232/dbipatcher) | ? | v845 | 2025-11-28 | 824.en.nro, 828.en.nro, 831.en.nro, 839.en.nro, 842.en.nro, 844.en.nro, 845.en.nro |",
@@ -6084,9 +6398,22 @@
    "checked": "2026-11-09",
    "pushed_at": ""
   },
+  "natinusala/borealis": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "ncarvalho99/framegen-nx": {
    "checked": "2026-11-09",
    "pushed_at": "2026-08-29T15:38:35Z"
+  },
+  "nekkk/mil-manager-delivery": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "nicoboss/nsz": {
+   "candidate": "| [nicoboss/nsz](https://github.com/nicoboss/nsz) | ? | 5.0.0 | 2026-08-02 | nsz-cli-linux-arm64, nsz-cli-linux-x64, nsz-cli-macos-arm64, nsz-cli-windows-arm64.exe, nsz-cli-windows-x64.exe, nsz-gui |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "nixentric/rpynx": {
    "candidate": "| [nixentric/rpynx](https://github.com/nixentric/rpynx) | 8 | v0.1.0 | 2026-10-25 | ffmpeg-7.1.tar.xz, renpy-loader.nro, renpy-runtime.nro, rpynx-importer-macos-arm64.dmg, rpynx-importer-python.zip, rpynx |",
@@ -6110,6 +6437,10 @@
   "nx-std/mono": {
    "checked": "2026-11-09",
    "pushed_at": "2026-11-01T05:18:17Z"
+  },
+  "ocornut/imgui": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "oleksa126/durak_nx": {
    "checked": "2026-11-09",
@@ -6189,6 +6520,11 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-05-22T09:03:58Z"
   },
+  "qret/modkitnx": {
+   "candidate": "| [qret/ModKitNX](https://github.com/qret/ModKitNX) | 0 | v1.0.2 | 2026-11-09 | ModKitNX.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-09T21:01:31Z"
+  },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
    "checked": "2026-11-09",
@@ -6249,6 +6585,10 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-05-18T20:23:25Z"
   },
+  "robzilla10001/garagenx": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "roccodev/xcnx-file-loader": {
    "candidate": "| [roccodev/xcnx-file-loader](https://github.com/roccodev/xcnx-file-loader) | 18 | 2.0.2 | 2026-07-30 | test-all.zip, xcnx-file-loader-torna.zip, xcnx-file-loader-xc2-jp.zip, xcnx-file-loader-xc2-ww.zip, xcnx-file-loader-xc3 |",
    "checked": "2026-11-09",
@@ -6258,6 +6598,10 @@
    "candidate": "| [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |",
    "checked": "2026-11-09",
    "pushed_at": "2026-10-25T13:46:44Z"
+  },
+  "rqworldblender/goldleaf": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "rydiaryzen/rydia.runtime": {
    "checked": "2026-11-09",
@@ -6336,6 +6680,16 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-11-07T10:26:32Z"
   },
+  "sthetix/fusecheck": {
+   "candidate": "| [sthetix/fusecheck](https://github.com/sthetix/fusecheck) | ? | 1.0.5 | 2026-09-27 | FuseCheck-1.0.5.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "sthetix/lockpick_rcm_pro": {
+   "candidate": "| [sthetix/lockpick_rcm_pro](https://github.com/sthetix/lockpick_rcm_pro) | ? | 2.2.0 | 2026-09-17 | Lockpick_RCM_Pro-2.2.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "storm21ch/emunandswitcher": {
    "candidate": "| [storm21ch/emunandswitcher](https://github.com/storm21ch/emunandswitcher) | ? | 3.80_FWD | 2024-11-18 | Emunandswitcher.3.80.SD.Files.zip |",
    "checked": "2026-11-09",
@@ -6350,9 +6704,18 @@
    "checked": "2026-11-09",
    "pushed_at": ""
   },
+  "superokazaki/html-video-template-nx": {
+   "candidate": "| [superokazaki/html-video-template-nx](https://github.com/superokazaki/html-video-template-nx) | ? | v1.0 | 2018-10-16 | HTML-Video-Template-NX-master.v1.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
   "switchbrew/libnx": {
    "checked": "2026-11-09",
    "pushed_at": "2026-10-19T19:10:36Z"
+  },
+  "switchbrew/nx-hbloader": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
   },
   "switchbrew/switch-examples": {
    "checked": "2026-11-09",
@@ -6386,6 +6749,10 @@
   },
   "thestr4ng3r/chiaki": {
    "candidate": "| [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) | ? | v1.3.0 | 2020-10-18 | Chiaki-v1.3.0-Android.aab, Chiaki-v1.3.0-Android.apk, Chiaki-v1.3.0-Linux-x86_64.AppImage, Chiaki-v1.3.0-macOS-x86_64.dm |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "thog/nx-dreport": {
    "checked": "2026-11-09",
    "pushed_at": ""
   },
@@ -6427,9 +6794,9 @@
    "pushed_at": "2026-10-11T17:11:39Z"
   },
   "underwateroverground/tailscale-nx": {
-   "candidate": "| [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 80 | v1.2.0 | 2026-10-28 | tailscale-nx-1.2.0.zip |",
+   "candidate": "| [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 80 | v1.3.0 | 2026-11-09 | tailscale-nx-1.3.0.zip |",
    "checked": "2026-11-09",
-   "pushed_at": "2026-11-04T14:11:03Z"
+   "pushed_at": "2026-11-09T14:02:01Z"
   },
   "underwateroverground/wireguard-nx": {
    "candidate": "| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 11 | v1.1.0 | 2026-11-08 | wireguard-nx-1.1.0.zip |",
@@ -6450,6 +6817,11 @@
    "pushed_at": "2026-11-06T23:11:26Z"
   },
   "viggoeklund/robdevhomebrew": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "werwolv/edizon": {
+   "candidate": "| [werwolv/edizon](https://github.com/werwolv/edizon) | ? | v3.1.0 | 2022-01-16 | EdiZon.nro, ovlEdiZon.ovl |",
    "checked": "2026-11-09",
    "pushed_at": ""
   },
