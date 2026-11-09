@@ -1,0 +1,3458 @@
+{
+ "format": 1,
+ "generated": "2026-11-09T11:23:41Z",
+ "hidden": [
+  "appstore",
+  "appstore_survey",
+  "argon-nx",
+  "daybreak",
+  "hekate",
+  "skynx",
+  "sys-ftpd",
+  "tegraexplorer",
+  "tesla-menu",
+  "tkmm-nx"
+ ],
+ "overlay_dependencies": [
+  "nx-ovlloader",
+  "UltrahandOverlay"
+ ],
+ "fortheusers": {
+  "100boxesNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "2048": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "2planes": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "A-Square-Astray": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "AAReboot": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "AARebootApplet": {
+   "kinds": [
+    "sysmodule"
+   ]
+  },
+  "ASCIIStarWars": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "AXChip8": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Akira": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "AlephOne": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "AmiiboGenerator": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Amiigo": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "AmiigoMod": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Amiiswap": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Apollo": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Aquaria": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ArkanoidNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "AuroraChatforSwitch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Avatool": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "BackupNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Bejeweled-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "BetterBedrockNX": {
+   "kinds": [
+    "app",
+    "overlay"
+   ]
+  },
+  "BiggestDump": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "BlockamokRemix": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "BomberManNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Bomberman-SwitchGDX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "BookReader": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "BootSoundNX": {
+   "kinds": []
+  },
+  "BouncyBrawl": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Brewser": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Brick-Game-9999-in-1": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Bricks-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "BrogueCE": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ButtonBreakSwitch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "CHIP8": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "CSE2": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "CalculateNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Calculator_NX": {
+   "kinds": [
+    "app",
+    "overlay"
+   ]
+  },
+  "CamNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Cannonball_Switch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "CaptureSight": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "CenaNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ChatNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Checkpoint": {
+   "kinds": [
+    "app"
+   ],
+   "description_i18n": {
+    "ru": "Резервные копии и восстановление сохранений"
+   }
+  },
+  "CheezitTheGame": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Chocolate-Doom-Launcher": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ChunkIntercept": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Clanbomber": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ClawSwitch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Clock-Time": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ComicNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Commander-Keen": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Connect-4-Dual-Edition": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ConsoleEditor": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Cpp-Snake-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "CustomBootScreen": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "CustomUI": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "CuteManga": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "DC-uLaunch_Updater": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "DDLC": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "DNS-MITM_Manager": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "DNSmitmChecker": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "DVDlogo": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "DevilutionX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "DinoRunNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "DokkaebiHack": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Donut": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Doom": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Dr-Driller": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "DungeonRush": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "EasyRPGplayer": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "EdiZonOverlay": {
+   "kinds": [
+    "overlay"
+   ],
+   "description_i18n": {
+    "ru": "Оверлей с читами"
+   }
+  },
+  "Edizon": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ]
+  },
+  "Eevee": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "EmuMmcConfig": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "EmuNand-Swapper": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Emulanders": {
+   "kinds": [
+    "app",
+    "overlay",
+    "sysmodule"
+   ]
+  },
+  "Enigma": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "EventRaidInjector": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Evolution_saved_me_NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "FNFSwitchFunkin": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "FNFVSliceNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "FPSLocker": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "FactorNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Fake-08": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Fifteen-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "FinalFantasyIV": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "FireplaceNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "FixCheat": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "FizzBuzz_NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "FlappyBirdNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Flare-Switch-port": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "FlashCardsNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "FlashNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Foldery": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "FunkinRewritten": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "GameLad": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "GerenciadorMIL": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "GirlsAreWeirdNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Goldleaf": {
+   "kinds": [
+    "app"
+   ],
+   "description_i18n": {
+    "ru": "Установщик NSP, файловый менеджер, управление контентом"
+   }
+  },
+  "GuitarNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "HCL-switch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "HOSInputDisplay": {
+   "kinds": [
+    "sysmodule"
+   ]
+  },
+  "Halyard": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Hamsters": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "HekateBrew": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "HelloColours": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "HomeBrew-Manager": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Homebrew-Details": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Homebrew_SD_Setup": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "HuntfortheShadowRider": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Hurrican": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "IRSwitch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "InternalSpeakers": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "InvadersNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "J2MENXX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "JC-color-swapper": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "JCToolbox": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "JewelThief": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "JoyConMouse": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "JoyVibe": {
+   "kinds": []
+  },
+  "Kartswitch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Kens-Labyrinth": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "KeyX": {
+   "kinds": [
+    "overlay",
+    "sysmodule"
+   ]
+  },
+  "Kinestop": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "KipSelect": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Kirikiri": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Klooni1010": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "LANHelperTesla": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "LaDeuda": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "LoveStory_Demo": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Lugaru": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "LumioseShinyStashMap": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "LunarNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "MAME-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "MTGLifeCounter": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "MarioBrosNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "MazeNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "McOsu-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "MegaZeux": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "MenuMusicNX": {
+   "kinds": [
+    "overlay",
+    "sysmodule"
+   ]
+  },
+  "MethaneBros": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "MiSTerCompanionNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "MiiPort": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "MiiPortOnline": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Minesweeper": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "MinesweeperNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "MissionControl": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "description_i18n": {
+    "ru": "Геймпады PS, Xbox и других по Bluetooth"
+   }
+  },
+  "Mod_Manager": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Moonlight-Switch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "MusicPlayer2": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "N-Xplorer": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NX-Update-Checker": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NX-ntpc": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NX-shell": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXBadApple": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXBlood": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXCGOL": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXDucoMiner": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXFetchRem": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXGallery": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXMP": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXMilk": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXPlazaStreetPass": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXRemoteLauncher": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXSAND": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXShare": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXSimpleDownloader": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXoodles": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NXthemes_Installer": {
+   "kinds": [
+    "app"
+   ],
+   "description_i18n": {
+    "ru": "Установка тем главного меню"
+   }
+  },
+  "NaziZombiesPortable": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Neumann": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "NooDS": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ONScripterNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Odamex": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "OpenAoK": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "OpenArenaNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "OpenHomeNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "OpenJazzNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "OpenNOW": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "OpenSupaplex": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "OpenTTD": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Openlara": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "PKSE": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "PacManNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Pacpac": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ParticleFire-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Payload-Launcher-Apple": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Payload_launcher": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "PctlManager": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "PepperandCarrot": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Pickr": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "PixelWheels": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Pixel_Shuffle_NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "PlayGuard": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "PongNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "PowertoolsNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Q3ArenaNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "QuakespasmNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "QuickNTP": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "RCMReboot": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "RCMRebootInstant": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "REDRIVER2": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "REminiscence": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "RandPlayNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Reset-Parental-Controls-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "RetroNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "RingRacers": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SDLPoP": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SMM2CourseInjector": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SPSV": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SRB2Kart": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SSBUModManager": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SSBot": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SaltyNX": {
+   "kinds": [
+    "sysmodule"
+   ]
+  },
+  "SaltyNX-Tool": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Sandboxels": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ScratchEverywhere": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ScreenTester": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SealedBite": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Serious-Engine-TFE": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Serious-Engine-TSE": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ShareNX-Overlay": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "Shasciw": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Shiromino": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ShoWiFi": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SimonNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SimpleModAlchemist": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SimpleModDownloader": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SimpleModManager": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SkyMM-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SlayTheSwitch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Slinks-Adventure": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SlitherlinkNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Snake": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SnakeNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Sonic-CD": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Sonic3-AIR": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SpaceVue": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SpotifySwitchRemote": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Status-Monitor-Overlay": {
+   "kinds": [
+    "overlay"
+   ],
+   "description_i18n": {
+    "ru": "Оверлей: частоты, температура, FPS"
+   }
+  },
+  "StreamFinEX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SuDokuL": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SudokuNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Super-Haxagon": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SuperModysseyLoader": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SuperSquatSim": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SuperTuxMilestone1": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SwitchAssistant": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SwitchCast": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ]
+  },
+  "SwitchFTPClient": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SwitchFishingDemo": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SwitchFrameTap": {
+   "kinds": [
+    "app",
+    "overlay",
+    "sysmodule"
+   ]
+  },
+  "SwitchHero": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SwitchInfoNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SwitchLanController": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SwitchNotificationLED": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SwitchP8": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SwitchPresence-Rewritten": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ]
+  },
+  "SwitchSlide": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SwitchVerifier": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SwitchWave": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Switch_90DNS_Tester": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Switchfin": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SwitchnoteStudio": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "SysDVR": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ]
+  },
+  "SystemShock": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "T-Rekt-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "TIL-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Taisei": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "TamatoolNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Tesla-menu": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "TestApp": {
+   "kinds": []
+  },
+  "TetrisNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "TetrisOverlay": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "ThemezerNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "TicTacToeNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "TimerNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "TomoToolNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "TotKUnexplored": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "TranslateNX": {
+   "kinds": [
+    "app",
+    "overlay"
+   ]
+  },
+  "TriPeaks": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Triplane_Turmoil": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Trogdor-Reburninated": {
+   "kinds": []
+  },
+  "TsVitch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Tsukihime": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Turnips": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "UMSDPong": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "USBBotbase": {
+   "kinds": [
+    "sysmodule"
+   ]
+  },
+  "UltimateTrainingModpack": {
+   "kinds": []
+  },
+  "UltrahandOverlay": {
+   "kinds": [
+    "app",
+    "overlay",
+    "sysmodule"
+   ],
+   "description_i18n": {
+    "ru": "Меню оверлеев (замена Tesla)"
+   }
+  },
+  "Unlucky": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Untitled": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "UpThemAll": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "VBA_NEXT": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "VGMplayerNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Vanilla-Conquer": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Vapor_spec": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "VoyagerNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "WarnelChawpiovs": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Whats-in-the-box-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Wolf4SDL-Switch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "WookReadercomics": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "YTBPlayer": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "YamaNXTurkishPatcher": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ZERODROID": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ZeldaSaveEditor": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "abuse": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "acnh-manager": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "appstore_survey": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "avp": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "bbloc": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "bean-controller-checker": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "bean-stick-checker": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "bitmap-printer": {
+   "kinds": [
+    "sysmodule"
+   ]
+  },
+  "blobby": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "botw-unexplored": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "botwsaveeditor": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "brainfuck": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "brewjsexamples": {
+   "kinds": []
+  },
+  "browsenx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "bs": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "cannonball": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "d1x-switch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "d2x-switch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "dOPUS": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "delve": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "desmume": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "devilution-nx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "dhewm3": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "doom64": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "dxxrebirth": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "eBookReaderSwitch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "easypower": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ebookViewerNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ebooks": {
+   "kinds": []
+  },
+  "eduke32": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "emuiibo": {
+   "kinds": [],
+   "description_i18n": {
+    "ru": "Виртуальные amiibo"
+   }
+  },
+  "emummc-toggle": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "emummc-toggler": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ezRemoteClient": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "f2bgl": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "fastCFWswitch": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "fceumm": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "femulti": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "fheroes2": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "flavortown": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ftpd": {
+   "kinds": [
+    "app"
+   ],
+   "description_i18n": {
+    "ru": "FTP-сервер для доступа к карте с ПК"
+   }
+  },
+  "ftpsrv": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "gagorder": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "gambatte": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "game-example": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "gcdumptool": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "gdkgba": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "gearboy": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "genesisgx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "gol": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "gzdoom": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "halo-ce-universal": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "hbmenu": {
+   "kinds": []
+  },
+  "hdr-launcher": {
+   "kinds": []
+  },
+  "hexgem": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "hid-mitm-plus": {
+   "kinds": [
+    "sysmodule"
+   ]
+  },
+  "hode": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "hot_pocolate": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "hota": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "in-home-switching": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ioquake3nx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ipswitch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "iwbtgrt": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "jaguar": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "jellycar": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "jksv": {
+   "kinds": [
+    "app"
+   ],
+   "description_i18n": {
+    "ru": "Резервные копии сохранений с облаком"
+   }
+  },
+  "julius": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "jumpnbump": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "kEx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "kgdoom": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "khedgb": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "kickNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "laines": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ldn_mitm": {
+   "kinds": [
+    "app",
+    "overlay",
+    "sysmodule"
+   ],
+   "description_i18n": {
+    "ru": "Локальная игра по сети через LAN"
+   }
+  },
+  "lennytube": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "libtransistor-examples": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "liero": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "mGBA": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "mame2000": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "mame2003": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "manaplus": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "max_nx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "mcpserver": {
+   "kinds": [
+    "sysmodule"
+   ]
+  },
+  "melonDS": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "memory-game-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "meritous": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "microNXSaveSync": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "milkytracker": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "minesweeper-NX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "mirrormagic": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "moonlight-nx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "mtp-server-nx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nOmooRe": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nXDownload": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "neopop_SDL": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "noies": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "noled": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "nso-icon-tool": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nx-locale-switcher": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nx-midi": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nx-ovlloader": {
+   "kinds": [
+    "overlay",
+    "sysmodule"
+   ],
+   "description_i18n": {
+    "ru": "Загрузчик оверлеев"
+   }
+  },
+  "nx-vr": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nx-vvvvvv": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nxTransmission": {
+   "kinds": []
+  },
+  "nxengine": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nxlaserplayer": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nxplay": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nxquake": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nxquake2": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nxsh": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "nxsysinfo": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "openbor": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "openfodder": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "openmw": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "openrct2": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ovlSysmodule": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "pFBA": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "pNES": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "padmacro": {
+   "kinds": [
+    "overlay",
+    "sysmodule"
+   ]
+  },
+  "pal": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "picodrive": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "pinballnx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "pixel-painter": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "pkBakeryDonutEditor": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "pkDex": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "pkHouseLocalPokeBank": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "pkTeraRaidMapViewer": {
+   "kinds": [
+    "app",
+    "overlay"
+   ]
+  },
+  "pleNx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "pong": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "postal": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "powder-nx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "pplay": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ppsspp": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "prodinfoenabler": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "psnes": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "pusha": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "pynx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "ra-offline": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ]
+  },
+  "rawgl": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "reboottopayloadswitch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "renpy-switch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "residualvm": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "rocksndiamonds": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "screen-nx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "scummvm": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "sdl_pong": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "snek": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "snes9x_2010": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "snes9x_2010_nx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "solarus": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "sonicroboblast2": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "spacenx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "sphaira": {
+   "kinds": [
+    "app"
+   ],
+   "description_i18n": {
+    "ru": "Меню хоумбрю с FTP, MTP и установкой игр"
+   }
+  },
+  "sporegram": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "stepmania-nx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "supermariowar-nx": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "svitch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "switch-cheats-updater": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "switch-pl": {
+   "kinds": []
+  },
+  "switch-remote-play": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "switch-smb-client": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "switch-time": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "switchXBOXcontroller": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "switchident-GUI": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "switchident-console": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "switchnewpipe": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "switchstrobe": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "sys-clk": {
+   "kinds": [
+    "app",
+    "overlay",
+    "sysmodule"
+   ]
+  },
+  "sys-clk-Editor": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "sys-clk-Overlay": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "sys-ftpd-light": {
+   "kinds": [
+    "sysmodule"
+   ]
+  },
+  "sys-hidplus": {
+   "kinds": [
+    "sysmodule"
+   ]
+  },
+  "sys-http": {
+   "kinds": [
+    "sysmodule"
+   ]
+  },
+  "sys-screenuploader": {
+   "kinds": [
+    "sysmodule"
+   ]
+  },
+  "sys-tune": {
+   "kinds": [
+    "overlay",
+    "sysmodule"
+   ]
+  },
+  "syscon1x2024": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ]
+  },
+  "sysdvr-overlay": {
+   "kinds": [
+    "overlay"
+   ]
+  },
+  "taisei": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "test-pkg": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "tetrisswitch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "tictactoe": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "touch-screen": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "twiNX": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "uLaunch": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ]
+  },
+  "uae4all2": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "useless": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "vba-next": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "vgedit": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "wae": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "wiiero": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "wiliwili": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "xash3d-switch": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "xash3d-switch-decay": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "xash3d-switch-dmc": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "xash3d-switch_Blue_Shift": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "xash3d-switch_Opposing_Force": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "xrick": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "yallarenuts": {
+   "kinds": [
+    "app"
+   ]
+  }
+ },
+ "packages": [
+  {
+   "name": "aio-switch-updater",
+   "title": "aio-switch-updater",
+   "author": "HamletDuFromage",
+   "version": "2.23.3",
+   "category": "tool",
+   "description": "Updates CFW, cheats and firmware files from one app",
+   "changelog": "v2.23.3\r\n- recompile for latest AMS",
+   "url": "https://github.com/hamletdufromage/aio-switch-updater",
+   "repo": "hamletdufromage/aio-switch-updater",
+   "updated": "2025-11-17",
+   "download_url": "https://github.com/HamletDuFromage/aio-switch-updater/releases/download/2.23.3/aio-switch-updater.zip",
+   "download_type": "zip",
+   "sha256": "d7261127b75434cc5087e1e796a62d54089ea104aff4973d5708e7db06f326b2",
+   "filesize": 3538231,
+   "extracted": 8552465,
+   "files": [
+    "U: switch/aio-switch-updater/aio-switch-updater.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/aio-switch-updater.jpg",
+   "description_i18n": {
+    "ru": "Обновление CFW, читов и файлов прошивки"
+   }
+  },
+  {
+   "name": "atmosphere-updater",
+   "title": "Atmosphere-Updater",
+   "author": "TotalJustice",
+   "version": "0.5.1",
+   "category": "tool",
+   "description": "",
+   "changelog": "What's new?\r\n\r\n* Hot fix for latest atmosphere release (as it was marked as pre release).\r\n\r\nWhat's next?\r\n\r\n* Complete code re write.\r\n* Listing previous atmosphere versions (for downgrading).\r\n* Check current atmosphere version installed against latest github release.",
+   "url": "https://github.com/itotaljustice/atmosphere-updater",
+   "repo": "itotaljustice/atmosphere-updater",
+   "updated": "2019-12-08",
+   "download_url": "https://github.com/ITotalJustice/atmosphere-updater/releases/download/0.5.1/atmosphere-updater.nro",
+   "download_type": "file",
+   "sha256": "9e095eefac8c8ce30518fbc93850aa9540bdcc775fb624e819f22077367e9d37",
+   "filesize": 9551784,
+   "extracted": 9551784,
+   "files": [
+    "U: switch/atmosphere-updater/atmosphere-updater.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/atmosphere-updater.jpg",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "battery_desync_fix_nx",
+   "title": "Battery Desync Fix NX",
+   "author": "CTCaer",
+   "version": "1.5.1",
+   "category": "tool",
+   "description": "",
+   "changelog": "- Added `Voltage limit` info that shows HOS battery voltage limit for charging\r\n- Added battery chemistry info. If it shows in yellow value in CAL0 does not match what HOS sees\r\n- Added a way to reset charge cycles for replacing battery with new via the save and restore options. Edit batt.cal last 4 bytes to `FF FF FF FF` \r\n- Updated to latest libnx for fixing the TLS allocation slot index issue when used in threadExit\r\n- Various other improvements",
+   "url": "https://github.com/ctcaer/battery_desync_fix_nx",
+   "repo": "ctcaer/battery_desync_fix_nx",
+   "updated": "2025-11-17",
+   "download_url": "https://github.com/CTCaer/battery_desync_fix_nx/releases/download/1.5.1/battery_desync_fix_v1.5.1.nro",
+   "download_type": "file",
+   "sha256": "871ef7941de9eca9bb6e50396338f735017fb48a893f7e76c54fdf9ddf90af70",
+   "filesize": 279422,
+   "extracted": 279422,
+   "files": [
+    "U: switch/battery_desync_fix_v1.5.1/battery_desync_fix_v1.5.1.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/battery_desync_fix_nx.jpg",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "BM64Switch",
+   "title": "Bomberman 64: Recompiled",
+   "author": "Paulo Dias",
+   "version": "1.0.0",
+   "category": "game",
+   "description": "Bomberman 64 for Nintendo Switch — native homebrew port (.nro) of BM64Recomp via N64Recomp static recompilation, rendered with libultraship (OpenGL). Bring your own ROM.",
+   "changelog": "**Bomberman 64: Recompiled for Nintendo Switch** — first release. Nintendo Switch port by [Paulo Dias](https://github.com/paulodiasred).\r\n\r\n**[Português abaixo](#português)**\r\n\r\nA native Nintendo Switch port of [Bomberman 64: Recompiled](https://github.com/RevoSucks/BM64Recomp) (N64Recomp static recompilation, rendered with libultraship over OpenGL).\r\n\r\n**You need your own Bomberman 64 (USA) ROM. It is not included.**\r\n\r\n### Features\r\n- Runs natively on the Switch at 60 FPS, with audio, saves and rumble.\r\n- Installable NSP with an icon on the HOME menu, or a plain NRO for the Homebrew Menu.\r\n- In-game settings menu (press **−**): language, resolution, anti-aliasing, VSync, CPU clock, controls and cheats.\r\n- **Portuguese (Brazil) translation**: menus and game text, plus all 33 Adventure conversations.\r\n\r\n### Install\r\n1. **NSP (recommended):** install `BM64Recompiled-v1.0.0.nsp` with DBI, Tinfoil or Goldleaf. Installing NSPs requires sigpatches in Atmosphère. Then open it from the HOME menu.\r\n   **NRO:** copy `BM64Recompiled-v1.0.0.nro` to `sdmc:/switch/` and open it from the Homebrew Menu while holding **R** on a game (title override). The album (applet mode) doesn't have enough memory.\r\n2. Put your ROM (`.z64`, `.n64` or `.v64`, any name) in `sdmc:/switch/bm64recomp/`, `sdmc:/switch/` or the root of the SD card.\r\n3. Portuguese: **−** → **General** → **Language / Idioma**.\r\n\r\nSaves and settings are kept in `sdmc:/switch/bm64recomp/` and shared between the NSP and the NRO.\r\n\r\n---\r\n\r\n### Português\r\n\r\nPort nativo para Nintendo Switch do [Bomberman 64: Recompiled](https://github.com/RevoSucks/BM64Recomp). Ele usa recompilação estática com N64Recomp e renderização com libultraship sobre OpenGL. Port feito por [Paulo Dias](https://github.com/paulodiasred).\r\n\r\n**É preciso ter a sua própria ROM do Bomberman 64 (USA). Ela não vem incluída.**\r\n\r\n### Recursos\r\n- Roda nativo no Switch a 60 FPS, com som, saves e vibração.\r\n- NSP instalável, com ícone na tela inicial, ou NRO para ",
+   "url": "https://github.com/paulodiasred/bm64switch",
+   "repo": "paulodiasred/bm64switch",
+   "updated": "2026-10-17",
+   "download_url": "https://github.com/paulodiasred/BM64Switch/releases/download/v1.0.0/BM64Recompiled-v1.0.0.nro",
+   "download_type": "file",
+   "sha256": "e719cf22e5307dc8f4a9b9536330f407a3dd62fd6e170c2fbd45f2f849093351",
+   "filesize": 21399634,
+   "extracted": 21399634,
+   "files": [
+    "U: switch/BM64Recompiled-v1.0.0/BM64Recompiled-v1.0.0.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/BM64Switch.jpg",
+   "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "Checkpoint",
+   "title": "Checkpoint",
+   "author": "Bernardo Giordano, FlagBrew",
+   "version": "5.3.0",
+   "category": "tool",
+   "description": "Fast and simple homebrew save management framework for 3DS and Switch.",
+   "changelog": "### 3DS: What's new\r\n\r\n- Added: **WarioWare: D.I.Y. save backup and restore**. Its 16 MB save lives in NAND inside the cartridge instead of on a save chip, where no 3DS save interface can reach it. Checkpoint now talks to the cartridge directly, so you back it up and restore it from the title list like any other DS cart: no GodMode9i, no rebooting into DS mode.\r\n  - This is particularly exciting because the strategy used to allow this functionality without rebooting in DS mode is brand new and this was thought to be impossible to achieve in the past.\r\n  - A backup takes about a minute. A restore only rewrites the pages that differ from what is already on the cartridge, and reads every page it writes back to verify it. Restoring the backup you just made writes nothing at all; the worst case, where every page differs, takes about 6.5 minutes.\r\n  - Checkpoint's dumps were checked byte for byte against GodMode9i's dumps of the same cartridge.\r\n  - **The CIA build is required.** The 3DSX build can't reach the cartridge controller, so it refuses instead of reading.\r\n  - So far this has been tested on one European cartridge. Other regions, and the other carts that save the same way, are recognised but not verified yet: *please* report back.\r\n  - Don't remove the cartridge or turn off the console during a restore. Pages that were already written stay written, so an interrupted restore leaves the save half old and half new until you run it again.\r\n- Fixed: DS cart backups no longer fail at random while writing to the SD card.\r\n- Fixed: backing up the extdata of the theme entries no longer fails.\r\n- General system stability improvements to enhance the user's experience.\r\n\r\n### Switch: What's new\r\n\r\n- Fixed: **restoring a save no longer inflates it to over 64 MB**. Since 5.1.0, every restore extended the save data area by its safety margin even when the backup already fit, so a 2 MB save came back at 65 MB. The area is now extended only when the backup actually needs more room",
+   "url": "https://github.com/bernardogiordano/checkpoint",
+   "repo": "bernardogiordano/checkpoint",
+   "updated": "2026-10-13",
+   "download_url": "https://github.com/BernardoGiordano/Checkpoint/releases/download/v5.3.0/Checkpoint.nro",
+   "download_type": "file",
+   "sha256": "e2c76687df29f845f11a61a62a25327703b22250d4a78dbdbed6dd1401253e48",
+   "filesize": 5047633,
+   "extracted": 5047633,
+   "files": [
+    "U: switch/Checkpoint/Checkpoint.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Checkpoint.jpg",
+   "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "DarkTube",
+   "title": "DarkTube",
+   "author": "Ibnuard",
+   "version": "1.0.0-alpha",
+   "category": "tool",
+   "description": "Nintendo Switch CFW Youtube Player Alternatives Homebrew",
+   "changelog": "## What's Changed\r\n* Mac dev by @Ibnuard in https://github.com/Ibnuard/DarkTube/pull/1\r\n\r\n## New Contributors\r\n* @Ibnuard made their first contribution in https://github.com/Ibnuard/DarkTube/pull/1\r\n\r\n**Full Changelog**: https://github.com/Ibnuard/DarkTube/commits/v1.0.0-alpha",
+   "url": "https://github.com/ibnuard/darktube",
+   "repo": "ibnuard/darktube",
+   "updated": "2026-03-04",
+   "download_url": "https://github.com/Ibnuard/DarkTube/releases/download/v1.0.0-alpha/DarkTube.nro",
+   "download_type": "file",
+   "sha256": "8d5b3dc032bb28a5c55e48edf6772df2e5e53fe4b1859c5fcbd2f3059065860f",
+   "filesize": 49274483,
+   "extracted": 49274483,
+   "files": [
+    "U: switch/DarkTube/DarkTube.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/DarkTube.jpg",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "Ferry-Switch",
+   "title": "Ferry",
+   "author": "DanilKhmyrov",
+   "version": "1.0.3",
+   "category": "game",
+   "description": "FTP server and file browser for Nintendo Switch — SD card, NAND, installed games and save data over Wi-Fi",
+   "changelog": "Path handling fixes, one of them contributed.\n\n**Absolute paths.** WinSCP sends `DELE` with an absolute path, and `localPath()` resolved it against the client's current directory as well — so the server looked for the file underneath itself and answered `550 Could not delete file`. Uploads were unaffected only because WinSCP changes into the folder first and sends a bare filename. Fixed in #1 by @DaneStack, who found it, built the project and sent the patch.\n\n**Paths climbing out of their root.** Nothing folded `.` and `..` out of a name. For the SD and NAND roots that changed nothing — the prefix is a device and there is nothing above it — but under **Installed Games** the writable `Installs` folder is a prefix inside the card, and `../../../boot.dat` resolved onto the card's root and was writable from there. That root's documented promise is that `Installs` is the one writable place in it; it now holds. Paths are folded and clamped at their root.\n\n**CWD inside Installs.** `changeDirectory()` worked out the root prefix separately from `localPath()` and never learned about `Installs`, so it checked `sdmc:` plus the path instead — a different directory, which could be missing when the real one exists or exist when it doesn't. Both now share one code path.\n\nVerified by compiling the real folding function on the host and running every root and escape attempt through it.",
+   "url": "https://github.com/danilkhmyrov/ferry-switch",
+   "repo": "danilkhmyrov/ferry-switch",
+   "updated": "2026-10-23",
+   "download_url": "https://github.com/DanilKhmyrov/Ferry-Switch/releases/download/v1.0.3/Ferry.nro",
+   "download_type": "file",
+   "sha256": "891442dc63201d5292612a7763dfb1c977fdeff2373dd08bd7be02ee7af315e1",
+   "filesize": 9638971,
+   "extracted": 9638971,
+   "files": [
+    "U: switch/Ferry/Ferry.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Ferry-Switch.jpg",
+   "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "Fizeau",
+   "title": "Fizeau",
+   "author": "averne",
+   "version": "2.8.3",
+   "category": "advanced",
+   "description": "Screen color temperature, gamma and saturation",
+   "changelog": "Fix hang and freeze issues",
+   "url": "https://github.com/averne/fizeau",
+   "repo": "averne/fizeau",
+   "updated": "2026-08-07",
+   "download_url": "https://github.com/averne/Fizeau/releases/download/v2.8.3/Fizeau-2.8.3-5bf3f0d.zip",
+   "download_type": "zip",
+   "sha256": "8c44d2cfee17c9020a1f5ba9223e260c96ea716bf016c7cd0371de0685835b85",
+   "filesize": 1536484,
+   "extracted": 2190566,
+   "files": [
+    "U: atmosphere/contents/0100000000000F12/exefs.nsp",
+    "U: atmosphere/contents/0100000000000F12/flags/boot2.flag",
+    "U: atmosphere/contents/0100000000000F12/toolbox.json",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/86837caec5c0b071d5e07c65ec45f54615cae721.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/6b76285bf1e6c66b426ce953282112eeb65a1ab0.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/83c900bebb87f1a7c7a4610ad1ec34eefc897ad0.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/327bea76ed384cc403e82e53bca29bc201d33a35.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/74fc488c86fde06e08f1f805bedcb3b40124f3f5.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/b0fe9cb6bfc859454f186167cc3426fe627fe76e.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/d66198db9847cc77e8f04c0d473d4a66431c1fe3.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/69ce0180dfde03849829898665827a800ee68333.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/5134d71aa6c82f222e58abfeabf4d4833041e1d8.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/3efdbab0fcae7bbfa6fa08e9ff1f2a7ac4f38a28.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/d469053b05ebd7b256b849577cba015bdafb0201.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/fc6f19d9a9fbe252916fc5bc4d769432bfba7236.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/9059ee5061a3c0b9c98c705216a7d21dd2cbf6aa.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/66ef1a7b999ce2a9e36a91285e6ef991c139bed3.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/120d46563db1260c55974432e3e166c51652db4d.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/c9f5f57618273f6e747e171df5b5d967bc0ead1b.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/5284441b5f268cd3e08ed9be073664d80f6939d1.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/6142225e9c1fe3bf6a5bdae3ef1b46892d2cc222.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/ba73011c3f81954c142a802ddfac4551d80f97a8.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/bcd23ead031f4d02b4869cc1adea70bf70edfd7b.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/f25463b5d502f1f7913d53559e1c394fda3d9d9e.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/44cba61ee715e0307dc6ef7f56177c6a5625c6c6.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/891b9081511d2d25346598cc345ec071ae10b90b.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/ffe29428924ce91f77c3705eb7d7e32eeb7c45ac.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/824e653f7c84b2835618f035482da3678a8c8c5f.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/cb812afaef6a42954c60315499afcffbca5f15f4.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/08b4cba0de0157faa5b05e114cd44a5a2a7faf4a.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/91bc34d3bd1bcdf6cfe8778e98ae3e62492ba36f.ips",
+    "G: config/Fizeau/config.ini",
+    "U: switch/Fizeau/Fizeau.nro",
+    "U: switch/.overlays/Fizeau.ovl"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Fizeau.jpg",
+   "description_i18n": {
+    "ru": "Цветовая температура, гамма и насыщенность экрана"
+   }
+  },
+  {
+   "name": "GameTime-Tracker",
+   "title": "GameTime Tracker",
+   "author": "Homebrew Dev",
+   "version": "1.1.0",
+   "category": "game",
+   "description": "Nintendo Switch homebrew app for tracking playtime across your installed games",
+   "changelog": "## First build 🎉\r\n\r\nInitial public release of GameTime Tracker.\r\n\r\n**Features:**\r\n- Loads playtime for all your installed games on startup, with a live progress bar\r\n- Main menu lists every game with total days played (left) and hours played (right)\r\n- Real game icons, decoded from your console's own data\r\n- Per-game detail view — scroll through individual days and see exactly how long you played on each one\r\n- Runs on firmware 20.5.0\r\n\r\n**Controls:**\r\n- D-pad / left stick — navigate\r\n- A — open game details\r\n- B — back / exit\r\n\r\n**Requirements:**\r\n- Modded / chipped console\r\n\r\nGrab `GameTime.Tracker.v1.1.0.nro` below and drop it into `/switch/switch-playtime/` on your SD card.\r\n\r\n---\r\n**Update note:** I've now added the full source code to the repository (previously the `.nro` was compiled but the source wasn't public). No functionality has changed — if you already downloaded the `.nro` from this release, there's no need to redownload it.\r\n\r\n---\r\n\r\n## Перший реліз 🎉\r\n\r\nПерший публічний реліз GameTime Tracker.\r\n\r\n**Можливості:**\r\n- Завантажує час гри у всіх встановлених іграх при запуску, з живим індикатором прогресу\r\n- Головне меню показує кожну гру з кількістю зіграних днів (зліва) та годинами (справа)\r\n- Справжні іконки ігор, декодовані з даних самої консолі\r\n- Детальний перегляд по грі — можна погортати окремі дні й побачити, скільки часу зіграно в кожен із них\r\n- Працює на прошивці 20.5.0\r\n\r\n**Керування:**\r\n- Хрестовина / лівий стік — навігація\r\n- A — відкрити деталі гри\r\n- B — назад / вихід\r\n\r\n**Вимоги:**\r\n- Прошита / чіпована консоль\r\n\r\nЗавантажте `GameTime.Tracker.v1.1.0.nro` нижче і закиньте його в `/switch/switch-playtime/` на SD-карті.\r\n\r\n---\r\n**Примітка про оновлення:** Я додав повний вихідний код у репозиторій (раніше `.nro` був скомпільований, але сурс не був публічним). Функціонал не змінився — якщо ви вже завантажували `.nro` з цього релізу, перекачувати заново немає сенсу.\r\n\r\n---\r\n\r\n## Первый релиз 🎉\r\n\r\nПервый публичный релиз GameTime Tracker.\r\n\r\n**",
+   "url": "https://github.com/rexead/gametime-tracker",
+   "repo": "rexead/gametime-tracker",
+   "updated": "2026-08-19",
+   "download_url": "https://github.com/Rexead/GameTime-Tracker/releases/download/v1.1.0/GameTime.Tracker.v1.1.0.nro",
+   "download_type": "file",
+   "sha256": "3a316e89e7ade0eff2e571a2543c4a3fa54b197dd08d8cd1332403e396f2a59f",
+   "filesize": 712933,
+   "extracted": 712933,
+   "files": [
+    "U: switch/GameTime.Tracker.v1.1.0/GameTime.Tracker.v1.1.0.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/GameTime-Tracker.jpg",
+   "license": "NOASSERTION",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "Hekate-Toolbox",
+   "title": "Hekate Toolbox",
+   "author": "WerWolv, cathery",
+   "version": "4.0.4",
+   "category": "tool",
+   "description": "Reboot to Hekate configs and toggle sysmodules",
+   "changelog": "### Changelog:\r\n\r\n- Recompiled using newest libraries in order to support newer firmwares / ABI changes by @friedkeenan\r\n- Fixed dependency issues by @friedkeenan  in https://github.com/WerWolv/Hekate-Toolbox/commit/c3a9be6158e18267564c6785948d24d84fa3f683\r\n- Fix SimpleIniParser by @hax4dazy in https://github.com/WerWolv/Hekate-Toolbox/pull/42\r\n\r\n**Full Changelog**: https://github.com/WerWolv/Hekate-Toolbox/compare/v4.0.3...v4.0.4",
+   "url": "https://github.com/werwolv/hekate-toolbox",
+   "repo": "werwolv/hekate-toolbox",
+   "updated": "2025-12-01",
+   "download_url": "https://github.com/WerWolv/Hekate-Toolbox/releases/download/v4.0.4/HekateToolbox.nro",
+   "download_type": "file",
+   "sha256": "aecad3c42f9bf089d2a3d512594d90dafaf338eacf648e27ed6d784d2d442aa9",
+   "filesize": 2737984,
+   "extracted": 2737984,
+   "files": [
+    "U: switch/HekateToolbox/HekateToolbox.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Hekate-Toolbox.jpg",
+   "description_i18n": {
+    "ru": "Перезагрузка в Hekate и переключение системных модулей"
+   }
+  },
+  {
+   "name": "HomeTile-switch",
+   "title": "HomeTile",
+   "author": "HomeTile Project",
+   "version": "0.6.3",
+   "category": "tool",
+   "description": "Native Nintendo Switch homebrew manager for adding, replacing, and removing NRO forwarders directly from the HOME Menu.",
+   "changelog": "",
+   "url": "https://github.com/amir-ehsani/hometile-switch",
+   "repo": "amir-ehsani/hometile-switch",
+   "updated": "2026-09-21",
+   "download_url": "https://github.com/Amir-Ehsani/HomeTile-switch/releases/download/v0.6.3/HomeTile.nro",
+   "download_type": "file",
+   "sha256": "98c560543bc05eeb399c2891f29276d3b35767923d35f83179afad697f803c17",
+   "filesize": 2867965,
+   "extracted": 2867965,
+   "files": [
+    "U: switch/HomeTile/HomeTile.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/HomeTile-switch.jpg",
+   "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "iptv-player",
+   "title": "IPTV Player",
+   "author": "muratgokce",
+   "version": "1.3.1",
+   "category": "tool",
+   "description": "An IPTV player for Nintendo Switch homebrew: live TV, movies and series from Xtream Codes accounts and M3U playlists. Based on TsVitch.",
+   "changelog": "### What's new\n- **Favorites look like the lists:** movies and series show as posters, channels as channel cards. With favorites of several kinds, a chip per kind (Live TV, Movies, Series) picks what is shown; L and R change it.\n- **A series, not its episodes:** the heart of the player and X in the history add the series of an episode. Episodes added by an earlier version turn into their series.\n\nAll changes: [CHANGELOG.md](https://github.com/murat303/iptv-player/blob/main/CHANGELOG.md)\n\n### Install or update\nCopy `iptv-player.nro` to `sdmc:/switch/iptv-player/iptv-player.nro` (replace the old one) and start it from the Homebrew Menu or a launcher such as Sphaira. Your settings, favorites, history and saved lists stay.\n\n`SHA256SUMS.txt` holds the file's checksum.",
+   "url": "https://github.com/murat303/iptv-player",
+   "repo": "murat303/iptv-player",
+   "updated": "2026-09-29",
+   "download_url": "https://github.com/murat303/iptv-player/releases/download/v1.3.1/iptv-player.nro",
+   "download_type": "file",
+   "sha256": "b7123ef93ebc37f629d62ce2facbd77c186b508bf3c24002719078f34273a9ae",
+   "filesize": 35342844,
+   "extracted": 35342844,
+   "files": [
+    "U: switch/iptv-player/iptv-player.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/iptv-player.jpg",
+   "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "Kirikiroid2-NX",
+   "title": "Kirikiroid2-NX",
+   "author": "Erige005 (Kirikiroid2 by zeas2)",
+   "version": "1.0.1",
+   "category": "tool",
+   "description": "Kirikiroid2 for Nintendo Switch - the first port of Kirikiroid2 (KiriKiri2/krkr visual novel player) to Switch homebrew",
+   "changelog": "**Kirikiroid2-NX v1.0.1** — compatibility fixes.\n\n### What's new\n- **windowEx plugin** added (the Android APK has it built in). Games that call `Window.registerExEvent()` and other windowEx methods no longer stop with *Member \"registerExEvent\" does not exist* — e.g. **Ninki Seiyuu: How to Make a Pop Voice Actress** (#1).\n- **Modal dialogs close properly.** A dialog opened with `showModal()` is now hidden when it closes. Before, a game's own dialog (e.g. Ninki Seiyuu's language selection) stayed on screen, or left the game on a black screen.\n- **No more black bars on 16:9 games.** The screen was set up as 960×640 internally, so 16:9 games (most of them) got thin black bars at the top and bottom and the UI was slightly squashed. It now uses the real 1280×720.\n- The log file is saved to the SD card once a second, so it is kept even when you close the app with HOME.\n\n### Install / update\n1. Download `Kirikiroid2-NX.nro` below and copy it to `sdmc:/switch/` (replace the old one).\n2. Open the Homebrew Menu in **title-takeover mode** (hold **R** while launching a game) and start Kirikiroid2-NX. Applet mode (from the Album) does not have enough memory for most games.\n3. Copy your game folder to the SD card as you would for Kirikiroid2 on Android and open `data.xp3` from the file selector.\n\n### Known issues\n- Yes/No system message boxes always pick the first button.\n- Plugins not ported yet: KAGParserEx, E-mote/motion player, scriptsEx, layerExRaster, layerExMosaic, shrinkCopy and others.\n- Exiting a game may show \"The software was closed because an error occurred\".\n- Software renderer only.\n\nLogs for bug reports are written to `sdmc:/switch/kirikiroid2/` (`k2s_boot.txt`, `k2s_log.txt`, `k2s_log.prev.txt`, `k2s_crash.txt`) — please attach them to issues.\n\nNo game data is included. Use only games you legally own. `LICENSE` and `THIRD_PARTY_LICENSES.md` apply to the binary.",
+   "url": "https://github.com/erige005/kirikiroid2-nx",
+   "repo": "erige005/kirikiroid2-nx",
+   "updated": "2026-10-18",
+   "download_url": "https://github.com/Erige005/Kirikiroid2-NX/releases/download/v1.0.1/Kirikiroid2-NX.nro",
+   "download_type": "file",
+   "sha256": "ce3c0169610eb2d65f332e26a16d14c283f9dcf39634dc4f46c2c004860919b8",
+   "filesize": 42338934,
+   "extracted": 42338934,
+   "files": [
+    "U: switch/Kirikiroid2-NX/Kirikiroid2-NX.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Kirikiroid2-NX.jpg",
+   "license": "NOASSERTION",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "mc3_nx",
+   "title": "Modern Combat 3",
+   "author": "Gameloft, mc3_nx contributors",
+   "version": "1.0.1",
+   "category": "game",
+   "description": "Modern Combat 3: Fallen Nation (Android 1.1.7g, 32-bit) running natively on the Nintendo Switch — android32 so-loader port.",
+   "changelog": "# mc3_nx v1.0.1\r\n\r\nControls update: A for the on-screen prompts, the right stick for the drag bars, + to skip cutscenes, and quitting\r\nfrom the main menu.\r\n\r\n## New\r\n\r\n- **A uses the prompt on screen**: a computer, a door, a bomb, a weapon on the ground, a grenade to throw back, a\r\n  melee counter, a QTE. It works wherever the prompt is, including the ones that follow an object on screen. The port\r\n  gives the game the same request the prompt's button would, and only while the prompt can really be used.\r\n- **Quick-time bars filled with a finger**: the touch screen works as before, and the right stick is the finger too,\r\n  for docked play (flick it the way you would swipe, again and again).\r\n- **+ skips cutscenes**, as the \">>\" button in the corner. It no longer pauses the game when the cutscene ends.\r\n\r\n## Fixed\r\n\r\n- **Quit from the main menu** (B, then Yes): the game stayed open. It now closes cleanly.\r\n\r\n## Update\r\n\r\nReplace `sdmc:/switch/mc3_nx/mc3_nx.nro` with the new one and start the game from the same HOME-menu icon. Saves and\r\nsettings stay. First install: see the [README](https://github.com/Kaays/mc3_nx#install).\r\n\r\n## Known issues\r\n\r\n- Heavy breathing after a sprint can go on until the next death or loading screen.\r\n- No multiplayer (Gameloft's servers are gone).",
+   "url": "https://github.com/kaays/mc3_nx",
+   "repo": "kaays/mc3_nx",
+   "updated": "2026-10-28",
+   "download_url": "https://github.com/Kaays/mc3_nx/releases/download/v1.0.1/mc3_nx.nro",
+   "download_type": "file",
+   "sha256": "ff8ab8d428e2db2c0eb244c1b3640a82c5b5e0d110e554bfdaf97d8a941be3ea",
+   "filesize": 5435339,
+   "extracted": 5435339,
+   "files": [
+    "U: switch/mc3_nx/mc3_nx.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/mc3_nx.jpg",
+   "license": "MIT",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "mhgu-overlay",
+   "title": "MHGU Overlay",
+   "author": "Jing Haihan",
+   "version": "0.6.3",
+   "category": "advanced",
+   "description": "A monster info, damage display, and gameplay tools tesla overlay for MHGU on Nintendo Switch.",
+   "changelog": "### &nbsp;&nbsp;&nbsp;🚀 Features\n\n- **ui**: Reuse Ultrahand audio for confirmed actions &nbsp;-&nbsp; by @jinghaihan [<samp>(2269b)</samp>](https://github.com/hashcade/mhgu-overlay/commit/2269bf3)\n\n### &nbsp;&nbsp;&nbsp;🐞 Bug Fixes\n\n- **ui**: Unify one-shot action result tracking &nbsp;-&nbsp; by @jinghaihan [<samp>(d5d8b)</samp>](https://github.com/hashcade/mhgu-overlay/commit/d5d8b6f)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/hashcade/mhgu-overlay/compare/v0.6.2...v0.6.3)",
+   "url": "https://github.com/hashcade/mhgu-overlay",
+   "repo": "hashcade/mhgu-overlay",
+   "updated": "2026-10-15",
+   "download_url": "https://github.com/hashcade/mhgu-overlay/releases/download/v0.6.3/mhgu-overlay.ovl",
+   "download_type": "file",
+   "sha256": "c5a7780972b5405e3872411035b30037c5c58c756ff4601e1f0438488ccb0005",
+   "filesize": 544824,
+   "extracted": 544824,
+   "files": [
+    "U: switch/.overlays/mhgu-overlay.ovl"
+   ],
+   "license": "MIT",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "Nexvyn-OS-NX",
+   "title": "Nexvyn OS",
+   "author": "sonerx7",
+   "version": "1.2.2",
+   "category": "game",
+   "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
+   "changelog": "﻿**What's new in 1.2.2**\n- NexGFX pbr renderer (SDK 1.9): physically based materials, real-time lights, shadows, glass, reflections, HDR, bloom, MSAA and instancing for 3D games; apps that do not ask for it look exactly as before\n- Social and media SDK (SDK 1.9): uploads, cookies, retries and an offline cache, WebSockets, sign-in through the console's browser, cached web pictures, video players, virtualized feeds and a swipe pager\n- Runtime library: `net.request` in Lua, `TextEncoder` / `URL` / `structuredClone` in JavaScript, more string methods, `urllib.parse`, `html` and `uuid` in Python\n- Deep reset in System Settings > Developer: returns the SD card to a fresh install; games, saves, Atmosphère and other homebrew stay\n- System version 22.5.0 is required (tested up to 23.0.x); other versions still start, with a one-time notice\n- Native SDK speed, measured on a console: 3D scenes 10 to 59 fps, the OpenGL showcase 10-16 to 60 fps, app frame handoff 15-24 ms to 0.1 ms, scene loading about 30 s to 0.6 s\n- Settings > Performance: official maximum clocks (on by default), faster loading, and an optional overclock with a warning (off by default)\n- Package installs run in the background: no freezes on slow SD cards\n- Native games: clean sound at every sample rate (no more crackling), Joy-Con and touch work in windowed apps, a stuck exit returns to the menu after 10 s\n- New App Market category \"Showcase\", starting with the Native SDK Showcase\n- Redesigned App Market: tabs for Discover, Apps, Games, Showcase and Updates, subcategories on the side, full-page app details with a large screenshot gallery, and live download speed and MB while installing\n- First-run setup suggests App Market apps to install; Settings marks the section a notification belongs to\n- Browser: WebGL 3D graphics for web pages, on by default (three.js scene at about 48 fps on the console)\n- Sound and game-feel kits, a store icon tool and five English screenshots per App Market item\n\n**For app makers:** S",
+   "url": "https://github.com/sonerx7/nexvyn-os-nx",
+   "repo": "sonerx7/nexvyn-os-nx",
+   "updated": "2026-11-09",
+   "download_url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/download/v1.2.2/NexvynOS.nro",
+   "download_type": "file",
+   "sha256": "99ba664dfbeede982d92c60e0191bb85259cec64e0da33fb3447644d145ba982",
+   "filesize": 78305397,
+   "extracted": 78305397,
+   "files": [
+    "U: switch/NexvynOS/NexvynOS.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Nexvyn-OS-NX.jpg",
+   "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "nslibrary",
+   "title": "NSLibrary",
+   "author": "NSLibrary",
+   "version": "0.8.0",
+   "category": "tool",
+   "description": "Self-hosted library for your own Nintendo Switch dumps. Scan folders of NSP, NSZ, XCI, XCZ, and homebrew NRO files, fill in metadata, spot missing or duplicate content, and send titles to a modded Switch over LAN.",
+   "changelog": "## What's Changed\n* Sort and filter the library by size, dates, firmware, titledb details, and Switch by @tuckerwales in https://github.com/tuckerwales/nslibrary/pull/29\n\n\n**Full Changelog**: https://github.com/tuckerwales/nslibrary/compare/v0.7.0...v0.8.0",
+   "url": "https://github.com/tuckerwales/nslibrary",
+   "repo": "tuckerwales/nslibrary",
+   "updated": "2026-10-10",
+   "download_url": "https://github.com/tuckerwales/nslibrary/releases/download/v0.8.0/nslibrary.nro",
+   "download_type": "file",
+   "sha256": "0b41257a117580bc4f5c305d90c968b9c9ccd8ea21a58528380cb1dbe0291c87",
+   "filesize": 11490950,
+   "extracted": 11490950,
+   "files": [
+    "U: switch/nslibrary/nslibrary.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nslibrary.jpg",
+   "license": "Apache-2.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "NX-Activity-Log",
+   "title": "NX Activity Log",
+   "author": "tallbl0nde",
+   "version": "1.4.0",
+   "category": "tool",
+   "description": "Play time statistics for every title",
+   "changelog": "Today marks one year since the last update, so I thought I'd add a couple more features! This will likely be the last major update from myself as I have kind of lost interest in continuing development on NX-Activity-Log, however I plan to continue to support it by fixing any major bugs due to newer firmwares, etc.\r\n\r\nAs always, I appreciate all the support I've received regarding this software and I hope it continues to be of use to all of you who use it! :)\r\n\r\n### Changelog:\r\n* Added data export to JSON\r\n  * All data shown in the app (both Recent Activity 'events' and All Activity 'summaries' are exported\r\n  * See the [wiki](https://github.com/tallbl0nde/NX-Activity-Log/wiki) for the format of the JSON\r\n* Added a basic, experimental import from JSON\r\n  * **This only imports data to NX-Activity-Log, the system's log isn't touched**\r\n  * Data is only imported to Recent Activity due to limitations on merging All Activity\r\n* Added 'Adjust Playtime' setting\r\n  * This setting allows for the playtime shown in All Activity to be increased/decreased in order to make up for lost time, etc.\r\n  * These changes are applied on a per-user basis\r\n  * This may be useful when importing data as the import doesn't change the values shown in All Activity\r\n* Added 'Hide Titles' setting\r\n  * Titles can be marked as hidden in order to hide them from all screens in NX-Activity-Log\r\n  * These changes are applied across all users\r\n* Added Traditional Chinese translation\r\n* Translations now fallback to English if a string is missing\r\n  * Note: Translations haven't been updated yet so the newer features will only be shown in English\r\n* Improved title metadata parsing\r\n* Built with latest version of Aether\r\n  * Most of the \"heavy\" UI is now rendered asynchronously\r\n    * In simple terms, most of the app should now be more responsive\r\n* Built with latest libnx",
+   "url": "https://github.com/tallbl0nde/nx-activity-log",
+   "repo": "tallbl0nde/nx-activity-log",
+   "updated": "2021-07-10",
+   "download_url": "https://github.com/tallbl0nde/NX-Activity-Log/releases/download/v1.4.0/NX-Activity-Log.nro",
+   "download_type": "file",
+   "sha256": "56e44be7973de75f335f0541e99419af899084a8b5126a1a783c6e9a290e7b78",
+   "filesize": 10121093,
+   "extracted": 10121093,
+   "files": [
+    "U: switch/NX-Activity-Log/NX-Activity-Log.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/NX-Activity-Log.jpg",
+   "description_i18n": {
+    "ru": "Статистика времени в играх"
+   }
+  },
+  {
+   "name": "nx-fs-utf8",
+   "title": "codecvt_test",
+   "author": "codecvt",
+   "version": "3.3.0",
+   "category": "tool",
+   "description": "A firmware \"KIP\" to unlock Switch FileSystem to read/write and enumerate UTF-8 CJK file names.",
+   "changelog": "**Release asset:** `fs_codecvt_dual_unpacked.kip`\r\n\r\nThe overlay now works on **SysNAND (sysMMC)**, not just emuMMC. That is the whole\r\nof this release: no change to the UTF-8 conversion, the directory-name filter,\r\nor the supported firmware list.\r\n\r\n> **Supersedes v3.2.0's SysNAND warning.** That release said \"Do not use this KIP\r\n> on SysNAND … Supporting SysNAND is out of scope.\" The cause has been found and\r\n> fixed. SysNAND is supported as of this version.\r\n\r\n## Support Matrix\r\n\r\n| HOS | SysNAND | emuMMC |\r\n|---|---|---|\r\n| 19.0.1 | ✅ **TESTED (3/3)** | ✅ TESTED (3/3) |\r\n| 20.2.0 / 20.5.0 | ✅offset verified | ✅ TESTED (3/3) |\r\n| 21.2.0 | ✅offset verified | ✅offset verified |\r\n| 22.0.0 | ✅offset verified | ✅offset verified |\r\n| 22.5.0 | ✅ **TESTED (3/3)** | ✅ **TESTED (3/3)** |\r\n| **23.0.0 / 23.0.1** | ✅ **TESTED (3/3)** | ✅ **TESTED (3/3)** |\r\n\r\n- **TESTED (3/3)** — real-hardware PASS for direct CJK read/write, `/ROM`\r\n  enumeration showing the CJK directory, and enumeration *inside* the CJK\r\n  directory.\r\n- **offset verified** — the `matches_fs` opcode checks pass against that\r\n  version's FS image. For the RTLD site this also means the site opcode matches\r\n  *and* the branch delta decoded from its immediate matches the table, so the\r\n  patch cannot land at a wrong target. On-console regression of that exact\r\n  combination is still pending.\r\n\r\nThe 21.2.0 RTLD site sits at a **higher** offset (`0x2E1C0`) than 22.0.0's\r\n(`0x2DED0`) despite being an older release. Every offset was measured against\r\nthe actual image rather than derived by shifting, for exactly that reason.\r\n\r\n## Requirements\r\n\r\n[slankka/hekate-fs-overlay](https://github.com/slankka/hekate-fs-overlay) — an\r\nunofficial Hekate fork adding `fsoverlay=` support. This KIP cannot be loaded\r\nwithout it.\r\n\r\n### `bootloader/sys/emummc.kipm` must still exist\r\n\r\nThe loader copies the 0x80-byte capability array out of that file into the merged\r\nKIP, and **injects none of its code**. The file is not optional: w",
+   "url": "https://github.com/slankka/nx-fs-utf8",
+   "repo": "slankka/nx-fs-utf8",
+   "updated": "2026-10-24",
+   "download_url": "https://github.com/slankka/nx-fs-utf8/releases/download/v3.3.0/test_program.nro",
+   "download_type": "file",
+   "sha256": "4a04a5b89541fe321dd2816d345d6d4d0532ec34a819d7e5052cf0bebe695f5a",
+   "filesize": 2078917,
+   "extracted": 2078917,
+   "files": [
+    "U: switch/test_program/test_program.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-fs-utf8.jpg",
+   "license": "GPL-2.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "nx-ovlloader",
+   "title": "nx-ovlloader",
+   "author": "ppkantorski",
+   "version": "2.0.3",
+   "category": "advanced",
+   "description": "Overlay loader sysmodule (needed by every overlay)",
+   "changelog": "## **List of Changes**\r\n1. Default overlay heap sizes have been modified.\r\n    - **HOS 23.0.0+** now utilize **6 MB** by default.\r\n    - **HOS 21.0.0+** still utilize **4 MB** by default.\r\n    - All lower firmwares utilize **6 MB** by default.\r\n2. `libnx` and relevant libraries have been updated.\r\n    - Now using `libnx 4.12.0-1`.\r\n3. Various tweaks to compilation flags for both `nx-ovlloader` and `nx-ovlreloader` for improved stability.\r\n    - `Ultrahand Reload` / `nx-ovlreloader` has been version bumped to `v1.0.1`.\r\n4. Inner heap size has been increased from **16KB** to **32KB** to accommodate changes in latest switch development tools.\r\n\r\n**Full Changelog**: https://github.com/ppkantorski/nx-ovlloader/compare/v2.0.2...a82f246",
+   "url": "https://github.com/ppkantorski/nx-ovlloader",
+   "repo": "ppkantorski/nx-ovlloader",
+   "updated": "2026-07-17",
+   "download_url": "https://github.com/ppkantorski/nx-ovlloader/releases/download/v2.0.3/nx-ovlloader.zip",
+   "download_type": "zip",
+   "sha256": "0a64b1e557daa61ab2a1e10639f8f69da7b19154b44e00b4d8f50bafcec499a7",
+   "filesize": 80956,
+   "extracted": 121992,
+   "files": [
+    "U: atmosphere/contents/420000000007E51A/exefs.nsp",
+    "U: atmosphere/contents/420000000007E51A/flags/boot2.flag",
+    "U: atmosphere/contents/420000000007E51A/toolbox.json",
+    "U: atmosphere/contents/420000000007E51B/exefs.nsp",
+    "U: switch/Ultrahand-Reload/Ultrahand-Reload.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-ovlloader.jpg",
+   "description_i18n": {
+    "ru": "Загрузчик оверлеев"
+   }
+  },
+  {
+   "name": "NX-torrent-player",
+   "title": "NX Torrent Player",
+   "author": "shodowlo",
+   "version": "0.5.0",
+   "category": "tool",
+   "description": "NX Torrent Player: Stremio on Nintendo Switch",
+   "changelog": "### Player\n- The track dialog becomes a right-hand panel, so the video keeps playing\n  behind it — L / R step the speed, or the subtitle delay while it is open\n- \"Next episode\" card at the end, and prev/next on the episode screen\n\n### Subtitles\n- From the account's Stremio subtitle addons, in the same list as the file's\n  own tracks\n\n### French\n- Full translation, in Options → General → Language (English by default,\n  applies on restart)\n\n### Options\n- Split into a sidebar. Audio boost for 5.1 mixes ONLY in handheld\n\n### Fixes\n- TLS is now verified against a CA bundle shipped with the app",
+   "url": "https://github.com/shodowlo/nx-torrent-player",
+   "repo": "shodowlo/nx-torrent-player",
+   "updated": "2026-08-09",
+   "download_url": "https://github.com/shodowlo/NX-torrent-player/releases/download/v0.5.0/NX-torrent-player.nro",
+   "download_type": "file",
+   "sha256": "287c58b3dfa05bacfb799e822c4e65d3c766adb7fc02be97c4ec053876837f28",
+   "filesize": 32690819,
+   "extracted": 32690819,
+   "files": [
+    "U: switch/NX-torrent-player/NX-torrent-player.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/NX-torrent-player.jpg",
+   "license": "Apache-2.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "nx.js",
+   "title": "nx.js",
+   "author": "TooTallNate",
+   "version": "1.0.0-beta.7",
+   "category": "tool",
+   "description": "",
+   "changelog": "",
+   "url": "https://github.com/tootallnate/nx.js",
+   "repo": "tootallnate/nx.js",
+   "updated": "2026-10-13",
+   "download_url": "https://github.com/TooTallNate/nx.js/releases/download/v1.0.0-beta.7/nxjs.nro",
+   "download_type": "file",
+   "sha256": "602ced49d93afc1704c8dd14da199b151201cb9bcd55ce3b75738f5ae39637ae",
+   "filesize": 56436901,
+   "extracted": 56436901,
+   "files": [
+    "U: switch/nxjs/nxjs.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx.js.jpg",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "ovlSysmodule",
+   "title": "ovl-sysmodule",
+   "author": "WerWolv",
+   "version": "1.3.1",
+   "category": "advanced",
+   "description": "Overlay to toggle sysmodules",
+   "changelog": "",
+   "url": "https://github.com/werwolv/ovl-sysmodules",
+   "repo": "werwolv/ovl-sysmodules",
+   "updated": "2023-03-16",
+   "download_url": "https://github.com/WerWolv/ovl-sysmodules/releases/download/v1.3.1/ovlSysmodules.ovl",
+   "download_type": "file",
+   "sha256": "77cff027c18ff704f0af9cbd6f3775d6d7dccfe27f55344d55a7acd2ecca1b5a",
+   "filesize": 393272,
+   "extracted": 393272,
+   "files": [
+    "U: switch/.overlays/ovlSysmodules.ovl"
+   ],
+   "description_i18n": {
+    "ru": "Оверлей: включение и выключение системных модулей"
+   }
+  },
+  {
+   "name": "shank2-nx",
+   "title": "Shank 2",
+   "author": "github.com/zhtipu",
+   "version": "1.0.0",
+   "category": "game",
+   "description": "Native Nintendo Switch port of Shank 2 (Xbox Live Arcade)",
+   "changelog": "Native Nintendo Switch port of Shank 2 (Xbox Live Arcade).\n\nYou need your own copy of the game. Make the SD card folder with the installer page (https://zhtipu.github.io/shank2-nx-installer/) and extract shank2-nx.zip into sdmc:/switch/, then either install shank2-nx-1.0.0.nsp and start Shank 2 from the HOME Menu, or start shank2.nro from the Homebrew Menu in title takeover mode.\n\nNeither file contains game data.",
+   "url": "https://github.com/zhtipu/shank2-nx",
+   "repo": "zhtipu/shank2-nx",
+   "updated": "2026-10-31",
+   "download_url": "https://github.com/zhtipu/shank2-nx/releases/download/v1.0.0/shank2.nro",
+   "download_type": "file",
+   "sha256": "4e2320845655383e6760531bd26e00fdba509d548a4ac8cb27a9a636ae5dcd56",
+   "filesize": 54036399,
+   "extracted": 54036399,
+   "files": [
+    "U: switch/shank2/shank2.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/shank2-nx.jpg",
+   "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "StreamFin",
+   "title": "StreamFin",
+   "author": "scamNscoot",
+   "version": "0.3.0",
+   "category": "tool",
+   "description": "StreamFin - streaming-only Stremio client for homebrewed Nintendo Switch. Switchfin fork speaking the Stremio addon protocol.",
+   "changelog": "### Custom catalogs 🎉\n\nYour home screen is now yours to arrange.\n\n![Catalogs screen](https://raw.githubusercontent.com/scamNscoot/StreamFin/main/images/capture-catalogs.jpg)\n\n- **Catalog addons**: add a `catalog=URL` line to `streamfin-addon.txt` with any Stremio catalog addon's manifest URL — every catalog it offers appears as a home row (streaming-service catalogs, MDBList/Trakt lists, anime catalogs, …). Repeat the line for several addons.\n- **Catalogs screen**: press **+** on the home screen. Toggle any row on/off with **A** — the built-in Cinemeta rows included — and reorder with **X/Y**. The home screen follows your arrangement, and it persists.\n- Catalog addon manifests are refreshed on every launch: new catalogs appear automatically, removed ones disappear, your order and toggles are preserved.\n\n### Also\n\n- Skeleton (loading) tiles can now hold the focus highlight.\n- Includes everything from v0.2.3 (column-true navigation, debrid guidance, focus glow, new icon). Existing configs carry over unchanged.\n\nThanks to everyone filing issues — keep them coming.",
+   "url": "https://github.com/scamnscoot/streamfin",
+   "repo": "scamnscoot/streamfin",
+   "updated": "2026-07-16",
+   "download_url": "https://github.com/scamNscoot/StreamFin/releases/download/v0.3.0/StreamFin.nro",
+   "download_type": "file",
+   "sha256": "ae18dadb6b97da59306a3a4eb45a35df53e7b3b0bdbd9c52786b7da42e888d1e",
+   "filesize": 31903307,
+   "extracted": 31903307,
+   "files": [
+    "U: switch/StreamFin/StreamFin.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/StreamFin.jpg",
+   "license": "Apache-2.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "StremNX",
+   "title": "StremNX",
+   "author": "stremnx",
+   "version": "0.3.1",
+   "category": "tool",
+   "description": "Unofficial Stremio client for Nintendo Switch homebrew. MainStream-style UI, Stremio addons & account sync, mpv player, built-in torrent engine and SD card downloads. Not affiliated with Stremio.",
+   "changelog": "Bug fix release for subtitles and the freezes some people hit in 0.3.0.\n\n## Fixes\n- **Subtitles from addons often did not show up.** OpenSubtitles v3 (the official Stremio subtitles addon) is now always available, even when it is not on your account or you are not logged in. Pick your language in **Settings → Subtitles**.\n- Subtitle files and downloaded videos are passed to the player with a path it always understands.\n- The app could freeze while a stream was stalled (a torrent without peers, a slow link). The player no longer waits on mpv for its state.\n- The torrent engine could get stuck waiting for network packets and freeze the screen with it.\n- Pausing or deleting a download no longer holds the screen.\n\n## New\n- The player tells you when there are no subtitles in your language for a video.\n- A watchdog writes to `log.txt` where the app got stuck if it ever freezes for more than 4 seconds. If you still get a freeze, wait ~5 seconds, close the app and attach `sdmc:/switch/stremnx/log.txt` to an [issue](https://github.com/denpingus/StremNX/issues) (look for lines starting with `WATCHDOG:`).\n\n## Install / update\nCopy `stremnx.nro` to `sdmc:/switch/stremnx/stremnx.nro` (replace the old one) and open it from the Homebrew Menu in **title mode** (hold **R** while launching a game). Your login, history and downloads are kept.\n\n> [!IMPORTANT]\n> Unofficial client — not affiliated with or endorsed by Stremio or Nintendo. StremNX ships with no content or piracy addons.",
+   "url": "https://github.com/denpingus/stremnx",
+   "repo": "denpingus/stremnx",
+   "updated": "2026-10-19",
+   "download_url": "https://github.com/denpingus/StremNX/releases/download/v0.3.1/stremnx.nro",
+   "download_type": "file",
+   "sha256": "05e0fbddb4fda25523a66d21b03e9863865aae8ced015c745940fe988cd293f6",
+   "filesize": 30564355,
+   "extracted": 30564355,
+   "files": [
+    "U: switch/stremnx/stremnx.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/StremNX.jpg",
+   "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "Switch-Super-Installer",
+   "title": "Switch Super Installer",
+   "author": "Huntereb, Behemoth, MrDude, XorTroll, BlaWar, DarkMatterCore, Ch1nguya",
+   "version": "1.0.1",
+   "category": "tool",
+   "description": "Homebrew installer for the Nintendo Switch: install NSP/NSZ/XCI/XCZ from SD, network, USB or your Switch-Super-Manager library. Built on TinWoo and Awoo Installer.",
+   "changelog": "# Switch-Super-Installer v1.0.1\n\nA fix for the latest firmware.\n\n## What's new\n- **Fixes a crash on firmware 23.x.** SSI is now built with the latest devkitA64 toolchain (libnx 4.12.0), which fixes the crash that happened when SSI started or closed on firmware 23.0.1. Builds made with the older toolchain (libnx 4.6.0) crash on that firmware.\n- Tested on firmware 23.0.1 with Atmosphère 1.12.0: launch and exit, network install of a 5 GB game, uninstall, covers, screenshots, sleep mode and Wi-Fi.\n- The texts added for Switch-Super-Manager (remote management, save backups, uninstall requests, network status) are now translated in German, Spanish, Italian, Portuguese, Japanese, Korean, Ukrainian and Chinese (they were shown in English).\n- The Docker build script (`build_docker.ps1`) is pinned to the toolchain image and no longer stops at compiler warnings.\n\n## Install\nCopy `Switch-Super-Installer-v1.0.1.nro` to `/switch/` on your SD card (rename it `Switch-Super-Installer.nro`) and launch it from the Homebrew Menu.\n\n## Notes\n- Source code for this exact release: this repository at tag `v1.0.1` (GNU GPL v3).\n- Use only with games you own. No keys or games are provided. Not affiliated with Nintendo.\n- SHA-256 of the `.nro`: `f2e14ebf54e104b9136a43994bcb694eaea244bc225dadb8a151046f597fa907`",
+   "url": "https://github.com/ch1nguya/switch-super-installer",
+   "repo": "ch1nguya/switch-super-installer",
+   "updated": "2026-10-16",
+   "download_url": "https://github.com/Ch1nguya/Switch-Super-Installer/releases/download/v1.0.1/Switch-Super-Installer-v1.0.1.nro",
+   "download_type": "file",
+   "sha256": "f2e14ebf54e104b9136a43994bcb694eaea244bc225dadb8a151046f597fa907",
+   "filesize": 12932217,
+   "extracted": 12932217,
+   "files": [
+    "U: switch/Switch-Super-Installer-v1.0.1/Switch-Super-Installer-v1.0.1.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Switch-Super-Installer.jpg",
+   "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "sys-patch",
+   "title": "sys-patch",
+   "author": "TotalJustice",
+   "version": "1.6.3.0",
+   "category": "advanced",
+   "description": "Sysmodule that patches fs, es, ldr and nim on boot",
+   "changelog": "Thanks to @borntohonk  for adding the am hbxfix for firmware 22.0.0",
+   "url": "https://github.com/impeeza/sys-patch",
+   "repo": "impeeza/sys-patch",
+   "updated": "2026-10-19",
+   "download_url": "https://github.com/impeeza/sys-patch/releases/download/v1.6.3.0/sys-patch-v1.6.3.0.zip",
+   "download_type": "zip",
+   "sha256": "089ecb8c951fbfdf892123e229dda7a3412633faddcab7a5f67b261bee945b81",
+   "filesize": 177416,
+   "extracted": 349850,
+   "files": [
+    "U: atmosphere/contents/420000000000000B/exefs.nsp",
+    "U: atmosphere/contents/420000000000000B/flags/boot2.flag",
+    "U: atmosphere/contents/420000000000000B/toolbox.json",
+    "U: switch/.overlays/sys-patch-overlay.ovl"
+   ],
+   "description_i18n": {
+    "ru": "Системный модуль с патчами fs, es, ldr, nim"
+   }
+  },
+  {
+   "name": "syscon1x2024",
+   "title": "sys-con 1.x (2024)",
+   "author": "o0Zz",
+   "version": "2.1.0",
+   "category": "advanced",
+   "description": "Third-party USB controllers support",
+   "changelog": "# Changelog\r\n   - Added Xbox Wireless Adapter support (needs Microsoft's firmware, see the README). Thanks to @hagenbui\r\n   - Added USB keyboard and mouse support\r\n   - Added sideways single Joy-Con mode for games that only accept single Joy-Cons\r\n   - Reworked MITM mode, now the default. Fixes the freeze in Super Mario 3D All-Stars (#128)\r\n   - Fixed `discovery_mode`, stick direction bindings and the network pad's vertical axis                                                 \r\n   - Fixed several controller detection, sleep and config parsing issues\r\n\r\n  # Upgrading from 2.0.0\r\n  If you keep your own config.ini, flip the sign of any `lstick_up/down` or `rstick_up/down` bound to an axis (`lstick_up=+Y` becomes     \r\n  `lstick_up=-Y`).",
+   "url": "https://github.com/o0zz/sys-con",
+   "repo": "o0zz/sys-con",
+   "updated": "2026-11-06",
+   "download_url": "https://github.com/o0Zz/sys-con/releases/download/2.1.0/sys-con-2.1.0.zip",
+   "download_type": "zip",
+   "sha256": "5619f440c99799cd922ce1ee58abd0e0128b214833dde3be8f740c5d7d60feb9",
+   "filesize": 300956,
+   "extracted": 540167,
+   "files": [
+    "U: atmosphere/contents/690000000000000D/flags/boot2.flag",
+    "U: atmosphere/contents/690000000000000D/toolbox.json",
+    "U: atmosphere/contents/690000000000000D/exefs.nsp",
+    "G: config/sys-con/config.ini",
+    "U: switch/sys-con.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/syscon1x2024.jpg",
+   "description_i18n": {
+    "ru": "Поддержка сторонних USB-геймпадов"
+   }
+  },
+  {
+   "name": "TinWoo",
+   "title": "TinWoo",
+   "author": "MrDude",
+   "version": "1.1.0",
+   "category": "tool",
+   "description": "NSP/NSZ/XCI installer",
+   "changelog": "",
+   "url": "https://github.com/hax4dazy/tinwoo",
+   "repo": "hax4dazy/tinwoo",
+   "updated": "2023-10-08",
+   "download_url": "https://github.com/hax4dazy/TinWoo/releases/download/1.1.0/TinWoo-Installer.zip",
+   "download_type": "zip",
+   "sha256": "4d56ed31bb30c377fdfde2f211b43f01116e00c8d4502a1382d50a7a9494d5da",
+   "filesize": 6359984,
+   "extracted": 13279760,
+   "files": [
+    "U: switch/tinwoo/tinwoo.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/TinWoo.jpg",
+   "description_i18n": {
+    "ru": "Установщик NSP, NSZ и XCI"
+   }
+  },
+  {
+   "name": "UltrahandOverlay",
+   "title": "Ultrahand Overlay",
+   "author": "ppkantorski",
+   "version": "2.5.4",
+   "category": "advanced",
+   "description": "Overlay menu and package manager (Tesla menu replacement)",
+   "changelog": "## **List of Changes**\r\n1. `;toggle_state_condition=` now works on source-based toggles (by @Niklas080208 in https://github.com/ppkantorski/Ultrahand-Overlay/pull/333).\r\n    - Toggles built from `file_source`, `list_source`, `json_source` or `ini_file_source` can now take each item's ON/OFF state from a condition, so states such as INI-backed hide flags are shown correctly after a reload.\r\n    - The condition can use `{file_name}`, `{folder_name}`, `{file_source}` and `{index}` for each item.\r\n    - In condition mode, turning an item ON runs `on:` and turning it OFF runs `off:`, the same as package-level toggles.\r\n    - Condition arguments now support spaces and apostrophes, including quoted paths in `;visibility_condition=`. Existing conditions behave exactly as before.\r\n2. Added `home-press` and `home-hold` commands to simulate the HOME menu button.\r\n    - `home-press` presses the HOME button, opening the HOME menu.\r\n    - `home-hold` holds the HOME button, opening the quick settings menu (sleep mode / brightness / airplane mode).\r\n3. Checkmarks and crossmarks on regular list items now return to the item's footer after 3 seconds, instead of staying until the page is left.\r\n4. A **10 MB** option is now available by default under Overlay Memory.\r\n    - Your current overlay memory is not changed, and an existing custom memory value is left as is.\r\n5. The **Launch Arguments** toggle in overlay settings now only appears when launch arguments have actually been set for that overlay.\r\n6. Now bundled with `nx-ovlloader v2.0.3`.\r\n7. Update Russian translations (by @redraz in https://github.com/ppkantorski/Ultrahand-Overlay/pull/330).\r\n8. Various bug fixes and corrections.\r\n    - Sleep / wake bug fixes in latest `libultrahand` (v2.5.4).\r\n    - Fixed controller input leaking through to the eShop while the overlay is open on newer firmware in latest `libultrahand` (v2.5.4) (by @5l4k in https://github.com/ppkantorski/libultrahand/pull/20).\r\n\r\n## New Contributors\r\n* @redraz mad",
+   "url": "https://github.com/ppkantorski/ultrahand-overlay",
+   "repo": "ppkantorski/ultrahand-overlay",
+   "updated": "2026-11-08",
+   "download_url": "https://github.com/ppkantorski/Ultrahand-Overlay/releases/download/v2.5.4/sdout.zip",
+   "download_type": "zip",
+   "sha256": "1e0ed6d7112f6283578220f3d3378fe27b1cd14910b28256f03fe232b284c944",
+   "filesize": 937392,
+   "extracted": 2890774,
+   "files": [
+    "G: config/ultrahand/flags/NTP_SYNC_PENDING.flag",
+    "G: config/ultrahand/payloads/ultrahand_updater.bin",
+    "G: config/ultrahand/wallpapers/atmosphere.rgba",
+    "G: config/ultrahand/sounds/move.wav",
+    "G: config/ultrahand/sounds/on.wav",
+    "G: config/ultrahand/sounds/tick.wav",
+    "G: config/ultrahand/sounds/off.wav",
+    "G: config/ultrahand/sounds/settings.wav",
+    "G: config/ultrahand/sounds/notification.wav",
+    "G: config/ultrahand/sounds/enter.wav",
+    "G: config/ultrahand/sounds/exit.wav",
+    "G: config/ultrahand/sounds/wall.wav",
+    "G: config/ultrahand/lang/nl.json",
+    "G: config/ultrahand/lang/ja.json",
+    "G: config/ultrahand/lang/de.json",
+    "G: config/ultrahand/lang/ru.json",
+    "G: config/ultrahand/lang/pl.json",
+    "G: config/ultrahand/lang/uk.json",
+    "G: config/ultrahand/lang/zh-cn.json",
+    "G: config/ultrahand/lang/pt.json",
+    "G: config/ultrahand/lang/en.json",
+    "G: config/ultrahand/lang/it.json",
+    "G: config/ultrahand/lang/fr.json",
+    "G: config/ultrahand/lang/ko.json",
+    "G: config/ultrahand/lang/zh-tw.json",
+    "G: config/ultrahand/lang/es.json",
+    "G: config/ultrahand/.sounds/default.zip",
+    "G: config/ultrahand/assets/ppkantorski-1.rgba",
+    "G: config/ultrahand/assets/ppkantorski-2.rgba",
+    "G: config/ultrahand/themes/ultra.ini",
+    "G: config/ultrahand/themes/classic.ini",
+    "G: config/ultrahand/themes/ultra-blue.ini",
+    "U: atmosphere/contents/420000000007E51B/exefs.nsp",
+    "U: atmosphere/contents/420000000007E51A/exefs.nsp",
+    "U: atmosphere/contents/420000000007E51A/toolbox.json",
+    "U: atmosphere/contents/420000000007E51A/flags/boot2.flag",
+    "U: atmosphere/exefs_patches/audio_mastervolume/3a75b4a62dad189b2c8b30e4dedb4e15ece56850.ips",
+    "U: atmosphere/exefs_patches/audio_mastervolume/62b74bae7163b0ea9b29ed5a050c09cd8299c14e.ips",
+    "U: atmosphere/exefs_patches/audio_mastervolume/e163d0b718e32f87430ca8c98fda2e22ba733990.ips",
+    "U: atmosphere/exefs_patches/audio_mastervolume/d1e98d469d5bd0e878fdb06e7ca517ba411d4682.ips",
+    "U: switch/Ultrahand-Reload/Ultrahand-Reload.nro",
+    "U: switch/.overlays/ovlmenu.ovl"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/UltrahandOverlay.jpg",
+   "description_i18n": {
+    "ru": "Меню оверлеев (замена Tesla)"
+   }
+  },
+  {
+   "name": "Weather-and-Moon-Phase-app-for-Nintendo-Switch",
+   "title": "Weather with Moon Phase",
+   "author": "ELY M.",
+   "version": "09-22-2026-02.00.46.AM",
+   "category": "tool",
+   "description": "Weather and Moon phase app for Nintendo Switch",
+   "changelog": "icon/tag",
+   "url": "https://github.com/ely3m/weather-and-moon-phase-app-for-nintendo-switch",
+   "repo": "ely3m/weather-and-moon-phase-app-for-nintendo-switch",
+   "updated": "2026-09-22",
+   "download_url": "https://github.com/ELY3M/Weather-and-Moon-Phase-app-for-Nintendo-Switch/releases/download/09-22-2026-02.00.46.AM/Weather-and-Moon-Phase-app-for-Nintendo-Switch.nro",
+   "download_type": "file",
+   "sha256": "b0fdf40ed7b4090f2e7fcdb008c9f8e6f8f009f8a86555a4ae8feb812994556e",
+   "filesize": 10954880,
+   "extracted": 10954880,
+   "files": [
+    "U: switch/Weather-and-Moon-Phase-app-for-Nintendo-Switch/Weather-and-Moon-Phase-app-for-Nintendo-Switch.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Weather-and-Moon-Phase-app-for-Nintendo-Switch.png",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "name": "Weather-app-for-Nintendo-Switch",
+   "title": "Weather",
+   "author": "ELY M.",
+   "version": "09-22-2026-02.01.24.AM",
+   "category": "tool",
+   "description": "download current weather and show you Temp, Weather Icon, and description of weather.  ",
+   "changelog": "icon/tag",
+   "url": "https://github.com/ely3m/weather-app-for-nintendo-switch",
+   "repo": "ely3m/weather-app-for-nintendo-switch",
+   "updated": "2026-09-22",
+   "download_url": "https://github.com/ELY3M/Weather-app-for-Nintendo-Switch/releases/download/09-22-2026-02.01.24.AM/Weather-app-for-Nintendo-Switch.nro",
+   "download_type": "file",
+   "sha256": "77904268e8c5e06a7acef724fb4fa9515c8b166233eb5fd06352a4ed83efe623",
+   "filesize": 10934400,
+   "extracted": 10934400,
+   "files": [
+    "U: switch/Weather-app-for-Nintendo-Switch/Weather-app-for-Nintendo-Switch.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Weather-app-for-Nintendo-Switch.png",
+   "auto": true,
+   "first_seen": "2026-11-09"
+  }
+ ]
+}

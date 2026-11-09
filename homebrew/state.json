@@ -1,0 +1,6180 @@
+{
+ "assets": {
+  "amir-ehsani/hometile-switch": {
+   "asset_key": "578792618:2026-09-21T10:22:17Z",
+   "extracted": 2867965,
+   "files": [
+    "switch/HomeTile/HomeTile.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/HomeTile-switch.jpg",
+   "nacp": {
+    "author": "HomeTile Project",
+    "title": "HomeTile",
+    "version": "0.6.3"
+   },
+   "sha256": "98c560543bc05eeb399c2891f29276d3b35767923d35f83179afad697f803c17",
+   "size": 2867965,
+   "type": "file",
+   "zip_root": ""
+  },
+  "averne/fizeau": {
+   "asset_key": "505578441:2026-08-07T19:37:03Z",
+   "extracted": 2190566,
+   "files": [
+    "atmosphere/contents/0100000000000F12/exefs.nsp",
+    "atmosphere/contents/0100000000000F12/flags/boot2.flag",
+    "atmosphere/contents/0100000000000F12/toolbox.json",
+    "atmosphere/exefs_patches/nvnflinger_cmu/86837caec5c0b071d5e07c65ec45f54615cae721.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/6b76285bf1e6c66b426ce953282112eeb65a1ab0.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/83c900bebb87f1a7c7a4610ad1ec34eefc897ad0.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/327bea76ed384cc403e82e53bca29bc201d33a35.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/74fc488c86fde06e08f1f805bedcb3b40124f3f5.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/b0fe9cb6bfc859454f186167cc3426fe627fe76e.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/d66198db9847cc77e8f04c0d473d4a66431c1fe3.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/69ce0180dfde03849829898665827a800ee68333.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/5134d71aa6c82f222e58abfeabf4d4833041e1d8.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/3efdbab0fcae7bbfa6fa08e9ff1f2a7ac4f38a28.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/d469053b05ebd7b256b849577cba015bdafb0201.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/fc6f19d9a9fbe252916fc5bc4d769432bfba7236.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/9059ee5061a3c0b9c98c705216a7d21dd2cbf6aa.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/66ef1a7b999ce2a9e36a91285e6ef991c139bed3.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/120d46563db1260c55974432e3e166c51652db4d.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/c9f5f57618273f6e747e171df5b5d967bc0ead1b.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/5284441b5f268cd3e08ed9be073664d80f6939d1.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/6142225e9c1fe3bf6a5bdae3ef1b46892d2cc222.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/ba73011c3f81954c142a802ddfac4551d80f97a8.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/bcd23ead031f4d02b4869cc1adea70bf70edfd7b.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/f25463b5d502f1f7913d53559e1c394fda3d9d9e.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/44cba61ee715e0307dc6ef7f56177c6a5625c6c6.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/891b9081511d2d25346598cc345ec071ae10b90b.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/ffe29428924ce91f77c3705eb7d7e32eeb7c45ac.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/824e653f7c84b2835618f035482da3678a8c8c5f.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/cb812afaef6a42954c60315499afcffbca5f15f4.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/08b4cba0de0157faa5b05e114cd44a5a2a7faf4a.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/91bc34d3bd1bcdf6cfe8778e98ae3e62492ba36f.ips",
+    "config/Fizeau/config.ini",
+    "switch/Fizeau/Fizeau.nro",
+    "switch/.overlays/Fizeau.ovl"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Fizeau.jpg",
+   "nacp": {
+    "author": "averne",
+    "title": "Fizeau",
+    "version": "2.8.3"
+   },
+   "sha256": "8c44d2cfee17c9020a1f5ba9223e260c96ea716bf016c7cd0371de0685835b85",
+   "size": 1536484,
+   "type": "zip",
+   "zip_root": ""
+  },
+  "bernardogiordano/checkpoint": {
+   "asset_key": "637957756:2026-10-13T18:57:33Z",
+   "extracted": 5047633,
+   "files": [
+    "switch/Checkpoint/Checkpoint.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Checkpoint.jpg",
+   "nacp": {
+    "author": "Bernardo Giordano, FlagBrew",
+    "title": "Checkpoint",
+    "version": "5.3.0"
+   },
+   "sha256": "e2c76687df29f845f11a61a62a25327703b22250d4a78dbdbed6dd1401253e48",
+   "size": 5047633,
+   "type": "file",
+   "zip_root": ""
+  },
+  "ch1nguya/switch-super-installer": {
+   "asset_key": "647837873:2026-10-16T16:01:24Z",
+   "extracted": 12932217,
+   "files": [
+    "switch/Switch-Super-Installer-v1.0.1/Switch-Super-Installer-v1.0.1.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Switch-Super-Installer.jpg",
+   "nacp": {
+    "author": "Huntereb, Behemoth, MrDude, XorTroll, BlaWar, DarkMatterCore, Ch1nguya",
+    "title": "Switch Super Installer",
+    "version": "1.0.1"
+   },
+   "sha256": "f2e14ebf54e104b9136a43994bcb694eaea244bc225dadb8a151046f597fa907",
+   "size": 12932217,
+   "type": "file",
+   "zip_root": ""
+  },
+  "ctcaer/battery_desync_fix_nx": {
+   "asset_key": "317236993:2025-11-17T01:29:40Z",
+   "extracted": 279422,
+   "files": [
+    "switch/battery_desync_fix_v1.5.1/battery_desync_fix_v1.5.1.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/battery_desync_fix_nx.jpg",
+   "nacp": {
+    "author": "CTCaer",
+    "title": "Battery Desync Fix NX",
+    "version": "1.5.1"
+   },
+   "sha256": "871ef7941de9eca9bb6e50396338f735017fb48a893f7e76c54fdf9ddf90af70",
+   "size": 279422,
+   "type": "file",
+   "zip_root": ""
+  },
+  "danilkhmyrov/ferry-switch": {
+   "asset_key": "668345713:2026-10-23T07:34:02Z",
+   "extracted": 9638971,
+   "files": [
+    "switch/Ferry/Ferry.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Ferry-Switch.jpg",
+   "nacp": {
+    "author": "DanilKhmyrov",
+    "title": "Ferry",
+    "version": "1.0.3"
+   },
+   "sha256": "891442dc63201d5292612a7763dfb1c977fdeff2373dd08bd7be02ee7af315e1",
+   "size": 9638971,
+   "type": "file",
+   "zip_root": ""
+  },
+  "denpingus/stremnx": {
+   "asset_key": "656221025:2026-10-19T12:31:46Z",
+   "extracted": 30564355,
+   "files": [
+    "switch/stremnx/stremnx.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/StremNX.jpg",
+   "nacp": {
+    "author": "stremnx",
+    "title": "StremNX",
+    "version": "0.3.1"
+   },
+   "sha256": "05e0fbddb4fda25523a66d21b03e9863865aae8ced015c745940fe988cd293f6",
+   "size": 30564355,
+   "type": "file",
+   "zip_root": ""
+  },
+  "ely3m/weather-and-moon-phase-app-for-nintendo-switch": {
+   "asset_key": "580785069:2026-09-22T07:00:49Z",
+   "extracted": 10954880,
+   "files": [
+    "switch/Weather-and-Moon-Phase-app-for-Nintendo-Switch/Weather-and-Moon-Phase-app-for-Nintendo-Switch.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Weather-and-Moon-Phase-app-for-Nintendo-Switch.png",
+   "nacp": {
+    "author": "ELY M.",
+    "title": "Weather with Moon Phase",
+    "version": "1.1"
+   },
+   "sha256": "b0fdf40ed7b4090f2e7fcdb008c9f8e6f8f009f8a86555a4ae8feb812994556e",
+   "size": 10954880,
+   "type": "file",
+   "zip_root": ""
+  },
+  "ely3m/weather-app-for-nintendo-switch": {
+   "asset_key": "580786049:2026-09-22T07:01:28Z",
+   "extracted": 10934400,
+   "files": [
+    "switch/Weather-app-for-Nintendo-Switch/Weather-app-for-Nintendo-Switch.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Weather-app-for-Nintendo-Switch.png",
+   "nacp": {
+    "author": "ELY M.",
+    "title": "Weather",
+    "version": "1.1"
+   },
+   "sha256": "77904268e8c5e06a7acef724fb4fa9515c8b166233eb5fd06352a4ed83efe623",
+   "size": 10934400,
+   "type": "file",
+   "zip_root": ""
+  },
+  "erige005/kirikiroid2-nx": {
+   "asset_key": "654044478:2026-10-18T17:28:22Z",
+   "extracted": 42338934,
+   "files": [
+    "switch/Kirikiroid2-NX/Kirikiroid2-NX.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Kirikiroid2-NX.jpg",
+   "nacp": {
+    "author": "Erige005 (Kirikiroid2 by zeas2)",
+    "title": "Kirikiroid2-NX",
+    "version": "1.0.1"
+   },
+   "sha256": "ce3c0169610eb2d65f332e26a16d14c283f9dcf39634dc4f46c2c004860919b8",
+   "size": 42338934,
+   "type": "file",
+   "zip_root": ""
+  },
+  "hamletdufromage/aio-switch-updater": {
+   "asset_key": "317684393:2025-11-18T00:32:30Z",
+   "extracted": 8552465,
+   "files": [
+    "switch/aio-switch-updater/aio-switch-updater.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/aio-switch-updater.jpg",
+   "nacp": {
+    "author": "HamletDuFromage",
+    "title": "All-in-One Switch Updater",
+    "version": "2.23.3"
+   },
+   "sha256": "d7261127b75434cc5087e1e796a62d54089ea104aff4973d5708e7db06f326b2",
+   "size": 3538231,
+   "type": "zip",
+   "zip_root": ""
+  },
+  "hashcade/mhgu-overlay": {
+   "asset_key": "643183890:2026-10-15T08:14:37Z",
+   "extracted": 544824,
+   "files": [
+    "switch/.overlays/mhgu-overlay.ovl"
+   ],
+   "icon_url": "",
+   "nacp": {
+    "author": "Jing Haihan",
+    "title": "MHGU Overlay",
+    "version": "0.6.3"
+   },
+   "sha256": "c5a7780972b5405e3872411035b30037c5c58c756ff4601e1f0438488ccb0005",
+   "size": 544824,
+   "type": "file",
+   "zip_root": ""
+  },
+  "hax4dazy/tinwoo": {
+   "asset_key": "129651013:2023-10-08T23:31:41Z",
+   "extracted": 13279760,
+   "files": [
+    "switch/tinwoo/tinwoo.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/TinWoo.jpg",
+   "nacp": {
+    "author": "MrDude",
+    "title": "TinWoo Installer",
+    "version": "1.0.21"
+   },
+   "sha256": "4d56ed31bb30c377fdfde2f211b43f01116e00c8d4502a1382d50a7a9494d5da",
+   "size": 6359984,
+   "type": "zip",
+   "zip_root": ""
+  },
+  "ibnuard/darktube": {
+   "asset_key": "366856687:2026-03-04T15:41:50Z",
+   "extracted": 49274483,
+   "files": [
+    "switch/DarkTube/DarkTube.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/DarkTube.jpg",
+   "nacp": {
+    "author": "Ibnuard",
+    "title": "DarkTube",
+    "version": "1.0.0"
+   },
+   "sha256": "8d5b3dc032bb28a5c55e48edf6772df2e5e53fe4b1859c5fcbd2f3059065860f",
+   "size": 49274483,
+   "type": "file",
+   "zip_root": ""
+  },
+  "impeeza/sys-patch": {
+   "asset_key": "655343859:2026-10-19T05:33:40Z",
+   "extracted": 349850,
+   "files": [
+    "atmosphere/contents/420000000000000B/exefs.nsp",
+    "atmosphere/contents/420000000000000B/flags/boot2.flag",
+    "atmosphere/contents/420000000000000B/toolbox.json",
+    "switch/.overlays/sys-patch-overlay.ovl"
+   ],
+   "icon_url": "",
+   "nacp": {
+    "author": "TotalJustice",
+    "title": "sys-patch",
+    "version": "1.6.3.0"
+   },
+   "sha256": "089ecb8c951fbfdf892123e229dda7a3412633faddcab7a5f67b261bee945b81",
+   "size": 177416,
+   "type": "zip",
+   "zip_root": ""
+  },
+  "itotaljustice/atmosphere-updater": {
+   "asset_key": "16808408:2019-12-15T12:42:38Z",
+   "extracted": 9551784,
+   "files": [
+    "switch/atmosphere-updater/atmosphere-updater.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/atmosphere-updater.jpg",
+   "nacp": {
+    "author": "TotalJustice",
+    "title": "Atmosphere-Updater",
+    "version": "0.5.1"
+   },
+   "sha256": "9e095eefac8c8ce30518fbc93850aa9540bdcc775fb624e819f22077367e9d37",
+   "size": 9551784,
+   "type": "file",
+   "zip_root": ""
+  },
+  "kaays/mc3_nx": {
+   "asset_key": "684724798:2026-10-28T11:10:15Z",
+   "extracted": 5435339,
+   "files": [
+    "switch/mc3_nx/mc3_nx.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/mc3_nx.jpg",
+   "nacp": {
+    "author": "Gameloft, mc3_nx contributors",
+    "title": "Modern Combat 3",
+    "version": "1.0.1"
+   },
+   "sha256": "ff8ab8d428e2db2c0eb244c1b3640a82c5b5e0d110e554bfdaf97d8a941be3ea",
+   "size": 5435339,
+   "type": "file",
+   "zip_root": ""
+  },
+  "murat303/iptv-player": {
+   "asset_key": "598463816:2026-09-29T14:49:08Z",
+   "extracted": 35342844,
+   "files": [
+    "switch/iptv-player/iptv-player.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/iptv-player.jpg",
+   "nacp": {
+    "author": "muratgokce",
+    "title": "IPTV Player",
+    "version": "1.3.1"
+   },
+   "sha256": "b7123ef93ebc37f629d62ce2facbd77c186b508bf3c24002719078f34273a9ae",
+   "size": 35342844,
+   "type": "file",
+   "zip_root": ""
+  },
+  "o0zz/sys-con": {
+   "asset_key": "716255948:2026-11-06T07:07:22Z",
+   "extracted": 540167,
+   "files": [
+    "atmosphere/contents/690000000000000D/flags/boot2.flag",
+    "atmosphere/contents/690000000000000D/toolbox.json",
+    "atmosphere/contents/690000000000000D/exefs.nsp",
+    "config/sys-con/config.ini",
+    "switch/sys-con.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/syscon1x2024.jpg",
+   "nacp": {
+    "author": "Unspecified Author",
+    "title": "sys-con",
+    "version": "1.0.0"
+   },
+   "sha256": "5619f440c99799cd922ce1ee58abd0e0128b214833dde3be8f740c5d7d60feb9",
+   "size": 300956,
+   "type": "zip",
+   "zip_root": ""
+  },
+  "paulodiasred/bm64switch": {
+   "asset_key": "649090513:2026-10-17T00:45:23Z",
+   "extracted": 21399634,
+   "files": [
+    "switch/BM64Recompiled-v1.0.0/BM64Recompiled-v1.0.0.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/BM64Switch.jpg",
+   "nacp": {
+    "author": "Paulo Dias",
+    "title": "Bomberman 64: Recompiled",
+    "version": "1.0.0"
+   },
+   "sha256": "e719cf22e5307dc8f4a9b9536330f407a3dd62fd6e170c2fbd45f2f849093351",
+   "size": 21399634,
+   "type": "file",
+   "zip_root": ""
+  },
+  "ppkantorski/nx-ovlloader": {
+   "asset_key": "724446046:2026-11-08T16:06:42Z",
+   "extracted": 121992,
+   "files": [
+    "atmosphere/contents/420000000007E51A/exefs.nsp",
+    "atmosphere/contents/420000000007E51A/flags/boot2.flag",
+    "atmosphere/contents/420000000007E51A/toolbox.json",
+    "atmosphere/contents/420000000007E51B/exefs.nsp",
+    "switch/Ultrahand-Reload/Ultrahand-Reload.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-ovlloader.jpg",
+   "nacp": {
+    "author": "ppkantorski",
+    "title": "Ultrahand Reload",
+    "version": "1.0.1"
+   },
+   "sha256": "0a64b1e557daa61ab2a1e10639f8f69da7b19154b44e00b4d8f50bafcec499a7",
+   "size": 80956,
+   "type": "zip",
+   "zip_root": ""
+  },
+  "ppkantorski/ultrahand-overlay": {
+   "asset_key": "724708769:2026-11-08T17:45:28Z",
+   "extracted": 2890774,
+   "files": [
+    "config/ultrahand/flags/NTP_SYNC_PENDING.flag",
+    "config/ultrahand/payloads/ultrahand_updater.bin",
+    "config/ultrahand/wallpapers/atmosphere.rgba",
+    "config/ultrahand/sounds/move.wav",
+    "config/ultrahand/sounds/on.wav",
+    "config/ultrahand/sounds/tick.wav",
+    "config/ultrahand/sounds/off.wav",
+    "config/ultrahand/sounds/settings.wav",
+    "config/ultrahand/sounds/notification.wav",
+    "config/ultrahand/sounds/enter.wav",
+    "config/ultrahand/sounds/exit.wav",
+    "config/ultrahand/sounds/wall.wav",
+    "config/ultrahand/lang/nl.json",
+    "config/ultrahand/lang/ja.json",
+    "config/ultrahand/lang/de.json",
+    "config/ultrahand/lang/ru.json",
+    "config/ultrahand/lang/pl.json",
+    "config/ultrahand/lang/uk.json",
+    "config/ultrahand/lang/zh-cn.json",
+    "config/ultrahand/lang/pt.json",
+    "config/ultrahand/lang/en.json",
+    "config/ultrahand/lang/it.json",
+    "config/ultrahand/lang/fr.json",
+    "config/ultrahand/lang/ko.json",
+    "config/ultrahand/lang/zh-tw.json",
+    "config/ultrahand/lang/es.json",
+    "config/ultrahand/.sounds/default.zip",
+    "config/ultrahand/assets/ppkantorski-1.rgba",
+    "config/ultrahand/assets/ppkantorski-2.rgba",
+    "config/ultrahand/themes/ultra.ini",
+    "config/ultrahand/themes/classic.ini",
+    "config/ultrahand/themes/ultra-blue.ini",
+    "atmosphere/contents/420000000007E51B/exefs.nsp",
+    "atmosphere/contents/420000000007E51A/exefs.nsp",
+    "atmosphere/contents/420000000007E51A/toolbox.json",
+    "atmosphere/contents/420000000007E51A/flags/boot2.flag",
+    "atmosphere/exefs_patches/audio_mastervolume/3a75b4a62dad189b2c8b30e4dedb4e15ece56850.ips",
+    "atmosphere/exefs_patches/audio_mastervolume/62b74bae7163b0ea9b29ed5a050c09cd8299c14e.ips",
+    "atmosphere/exefs_patches/audio_mastervolume/e163d0b718e32f87430ca8c98fda2e22ba733990.ips",
+    "atmosphere/exefs_patches/audio_mastervolume/d1e98d469d5bd0e878fdb06e7ca517ba411d4682.ips",
+    "switch/Ultrahand-Reload/Ultrahand-Reload.nro",
+    "switch/.overlays/ovlmenu.ovl"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/UltrahandOverlay.jpg",
+   "nacp": {
+    "author": "ppkantorski",
+    "title": "Ultrahand Reload",
+    "version": "1.0.1"
+   },
+   "sha256": "1e0ed6d7112f6283578220f3d3378fe27b1cd14910b28256f03fe232b284c944",
+   "size": 937392,
+   "type": "zip",
+   "zip_root": ""
+  },
+  "rexead/gametime-tracker": {
+   "asset_key": "520149785:2026-08-19T00:19:39Z",
+   "extracted": 712933,
+   "files": [
+    "switch/GameTime.Tracker.v1.1.0/GameTime.Tracker.v1.1.0.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/GameTime-Tracker.jpg",
+   "nacp": {
+    "author": "Homebrew Dev",
+    "title": "GameTime Tracker",
+    "version": "1.0.0"
+   },
+   "sha256": "3a316e89e7ade0eff2e571a2543c4a3fa54b197dd08d8cd1332403e396f2a59f",
+   "size": 712933,
+   "type": "file",
+   "zip_root": ""
+  },
+  "scamnscoot/streamfin": {
+   "asset_key": "479300036:2026-07-16T15:03:32Z",
+   "extracted": 31903307,
+   "files": [
+    "switch/StreamFin/StreamFin.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/StreamFin.jpg",
+   "nacp": {
+    "author": "scamNscoot",
+    "title": "StreamFin",
+    "version": "0.3.0"
+   },
+   "sha256": "ae18dadb6b97da59306a3a4eb45a35df53e7b3b0bdbd9c52786b7da42e888d1e",
+   "size": 31903307,
+   "type": "file",
+   "zip_root": ""
+  },
+  "shodowlo/nx-torrent-player": {
+   "asset_key": "508014642:2026-08-09T23:17:15Z",
+   "extracted": 32690819,
+   "files": [
+    "switch/NX-torrent-player/NX-torrent-player.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/NX-torrent-player.jpg",
+   "nacp": {
+    "author": "shodowlo",
+    "title": "NX Torrent Player",
+    "version": "0.5.0"
+   },
+   "sha256": "287c58b3dfa05bacfb799e822c4e65d3c766adb7fc02be97c4ec053876837f28",
+   "size": 32690819,
+   "type": "file",
+   "zip_root": ""
+  },
+  "slankka/nx-fs-utf8": {
+   "asset_key": "723506270:2026-11-08T09:36:51Z",
+   "extracted": 2078917,
+   "files": [
+    "switch/test_program/test_program.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-fs-utf8.jpg",
+   "nacp": {
+    "author": "codecvt",
+    "title": "codecvt_test",
+    "version": "1.9.3"
+   },
+   "sha256": "4a04a5b89541fe321dd2816d345d6d4d0532ec34a819d7e5052cf0bebe695f5a",
+   "size": 2078917,
+   "type": "file",
+   "zip_root": ""
+  },
+  "sonerx7/nexvyn-os-nx": {
+   "asset_key": "725992287:2026-11-09T02:49:10Z",
+   "extracted": 78305397,
+   "files": [
+    "switch/NexvynOS/NexvynOS.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Nexvyn-OS-NX.jpg",
+   "nacp": {
+    "author": "sonerx7",
+    "title": "Nexvyn OS",
+    "version": "1.2.2"
+   },
+   "sha256": "99ba664dfbeede982d92c60e0191bb85259cec64e0da33fb3447644d145ba982",
+   "size": 78305397,
+   "type": "file",
+   "zip_root": ""
+  },
+  "tallbl0nde/nx-activity-log": {
+   "asset_key": "40029767:2021-07-10T03:54:20Z",
+   "extracted": 10121093,
+   "files": [
+    "switch/NX-Activity-Log/NX-Activity-Log.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/NX-Activity-Log.jpg",
+   "nacp": {
+    "author": "tallbl0nde",
+    "title": "NX Activity Log",
+    "version": "1.4.0"
+   },
+   "sha256": "56e44be7973de75f335f0541e99419af899084a8b5126a1a783c6e9a290e7b78",
+   "size": 10121093,
+   "type": "file",
+   "zip_root": ""
+  },
+  "tootallnate/nx.js": {
+   "asset_key": "636148021:2026-10-13T06:39:47Z",
+   "extracted": 56436901,
+   "files": [
+    "switch/nxjs/nxjs.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx.js.jpg",
+   "nacp": {
+    "author": "TooTallNate",
+    "title": "nx.js",
+    "version": "1.0.0-beta.7"
+   },
+   "sha256": "602ced49d93afc1704c8dd14da199b151201cb9bcd55ce3b75738f5ae39637ae",
+   "size": 56436901,
+   "type": "file",
+   "zip_root": ""
+  },
+  "tuckerwales/nslibrary": {
+   "asset_key": "629065094:2026-10-10T21:44:51Z",
+   "extracted": 11490950,
+   "files": [
+    "switch/nslibrary/nslibrary.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nslibrary.jpg",
+   "nacp": {
+    "author": "NSLibrary",
+    "title": "NSLibrary",
+    "version": "0.8.0"
+   },
+   "sha256": "0b41257a117580bc4f5c305d90c968b9c9ccd8ea21a58528380cb1dbe0291c87",
+   "size": 11490950,
+   "type": "file",
+   "zip_root": ""
+  },
+  "werwolv/hekate-toolbox": {
+   "asset_key": "323094446:2025-12-01T23:09:01Z",
+   "extracted": 2737984,
+   "files": [
+    "switch/HekateToolbox/HekateToolbox.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Hekate-Toolbox.jpg",
+   "nacp": {
+    "author": "WerWolv, cathery",
+    "title": "Hekate Toolbox",
+    "version": "4.0.4"
+   },
+   "sha256": "aecad3c42f9bf089d2a3d512594d90dafaf338eacf648e27ed6d784d2d442aa9",
+   "size": 2737984,
+   "type": "file",
+   "zip_root": ""
+  },
+  "werwolv/ovl-sysmodules": {
+   "asset_key": "99702370:2023-03-16T21:09:31Z",
+   "extracted": 393272,
+   "files": [
+    "switch/.overlays/ovlSysmodules.ovl"
+   ],
+   "icon_url": "",
+   "nacp": {
+    "author": "Unspecified Author",
+    "title": "Sysmodules",
+    "version": "1.2.2-9b114b3"
+   },
+   "sha256": "77cff027c18ff704f0af9cbd6f3775d6d7dccfe27f55344d55a7acd2ecca1b5a",
+   "size": 393272,
+   "type": "file",
+   "zip_root": ""
+  },
+  "zhtipu/shank2-nx": {
+   "asset_key": "695385209:2026-10-31T12:53:26Z",
+   "extracted": 54036399,
+   "files": [
+    "switch/shank2/shank2.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/shank2-nx.jpg",
+   "nacp": {
+    "author": "github.com/zhtipu",
+    "title": "Shank 2",
+    "version": "0.1.0"
+   },
+   "sha256": "4e2320845655383e6760531bd26e00fdba509d548a4ac8cb27a9a636ae5dcd56",
+   "size": 54036399,
+   "type": "file",
+   "zip_root": ""
+  }
+ },
+ "auto_repos": {
+  "amir-ehsani/hometile-switch": {
+   "description": "Native Nintendo Switch homebrew manager for adding, replacing, and removing NRO forwarders directly from the HOME Menu.",
+   "full_name": "Amir-Ehsani/HomeTile-switch",
+   "stargazers_count": 2,
+   "topics": [
+    "cfw",
+    "nintendo",
+    "nintendo-hacking",
+    "nintendo-switch",
+    "nintendo-switch-hacking",
+    "nintendo-switch-homebrew",
+    "switch"
+   ]
+  },
+  "bernardogiordano/checkpoint": {
+   "description": "Fast and simple homebrew save management framework for 3DS and Switch.",
+   "full_name": "BernardoGiordano/Checkpoint",
+   "stargazers_count": 3121,
+   "topics": [
+    "3ds",
+    "3ds-homebrew",
+    "backup",
+    "checkpoint",
+    "homebrew-launcher",
+    "restore",
+    "switch",
+    "switch-homebrew"
+   ]
+  },
+  "ch1nguya/switch-super-installer": {
+   "description": "Homebrew installer for the Nintendo Switch: install NSP/NSZ/XCI/XCZ from SD, network, USB or your Switch-Super-Manager library. Built on TinWoo and Awoo Installer.",
+   "full_name": "Ch1nguya/Switch-Super-Installer",
+   "stargazers_count": 8,
+   "topics": [
+    "awoo-installer",
+    "homebrew",
+    "installer",
+    "libnx",
+    "nintendo-switch",
+    "nsp",
+    "nsz",
+    "tinwoo",
+    "xci"
+   ]
+  },
+  "ctcaer/battery_desync_fix_nx": {
+   "description": "",
+   "full_name": "ctcaer/battery_desync_fix_nx",
+   "stargazers_count": null,
+   "topics": []
+  },
+  "danilkhmyrov/ferry-switch": {
+   "description": "FTP server and file browser for Nintendo Switch — SD card, NAND, installed games and save data over Wi-Fi",
+   "full_name": "DanilKhmyrov/Ferry-Switch",
+   "stargazers_count": 4,
+   "topics": [
+    "cpp",
+    "devkitpro",
+    "file-transfer",
+    "ftp",
+    "ftp-client",
+    "libnx",
+    "nintendo-switch",
+    "nintendo-switch-homebrew",
+    "sdl2"
+   ]
+  },
+  "denpingus/stremnx": {
+   "description": "Unofficial Stremio client for Nintendo Switch homebrew. MainStream-style UI, Stremio addons & account sync, mpv player, built-in torrent engine and SD card downloads. Not affiliated with Stremio.",
+   "full_name": "denpingus/StremNX",
+   "stargazers_count": 16,
+   "topics": [
+    "bittorent",
+    "homebrew",
+    "libnx",
+    "media-player",
+    "mpv",
+    "nintendo-switch-homebrew",
+    "sd12",
+    "streaming",
+    "stremio",
+    "switch-homebrew"
+   ]
+  },
+  "ely3m/weather-and-moon-phase-app-for-nintendo-switch": {
+   "description": "Weather and Moon phase app for Nintendo Switch",
+   "full_name": "ELY3M/Weather-and-Moon-Phase-app-for-Nintendo-Switch",
+   "stargazers_count": 8,
+   "topics": [
+    "elys-switch-homebrew",
+    "hbmenu",
+    "moon-phase",
+    "nintendo-hacking",
+    "nintendo-switch",
+    "nintendo-switch-hacking",
+    "nintendo-switch-homebrew",
+    "switch",
+    "weather",
+    "weather-info"
+   ]
+  },
+  "ely3m/weather-app-for-nintendo-switch": {
+   "description": "download current weather and show you Temp, Weather Icon, and description of weather.  ",
+   "full_name": "ELY3M/Weather-app-for-Nintendo-Switch",
+   "stargazers_count": 9,
+   "topics": [
+    "elys-switch-homebrew",
+    "nintendo-hacking",
+    "nintendo-switch",
+    "nintendo-switch-hacking",
+    "nintendo-switch-homebrew"
+   ]
+  },
+  "erige005/kirikiroid2-nx": {
+   "description": "Kirikiroid2 for Nintendo Switch - the first port of Kirikiroid2 (KiriKiri2/krkr visual novel player) to Switch homebrew",
+   "full_name": "Erige005/Kirikiroid2-NX",
+   "stargazers_count": 19,
+   "topics": [
+    "devkitpro",
+    "homebrew",
+    "kirikiri",
+    "kirikiroid2",
+    "krkr",
+    "libnx",
+    "nintendo-switch",
+    "nro",
+    "switch-homebrew",
+    "visual-novel"
+   ]
+  },
+  "hashcade/mhgu-overlay": {
+   "description": "A monster info, damage display, and gameplay tools tesla overlay for MHGU on Nintendo Switch.",
+   "full_name": "hashcade/mhgu-overlay",
+   "stargazers_count": 5,
+   "topics": [
+    "mhgu",
+    "monster-hunter",
+    "monster-hunter-generations-ultimate",
+    "nintendo-switch",
+    "tesla-overlay",
+    "ultrahand-overlay"
+   ]
+  },
+  "ibnuard/darktube": {
+   "description": "Nintendo Switch CFW Youtube Player Alternatives Homebrew",
+   "full_name": "Ibnuard/DarkTube",
+   "stargazers_count": 4,
+   "topics": [
+    "atmosphere",
+    "nintendo-switch",
+    "nintendo-switch-hacking",
+    "nintendo-switch-homebrew"
+   ]
+  },
+  "itotaljustice/atmosphere-updater": {
+   "description": "",
+   "full_name": "itotaljustice/atmosphere-updater",
+   "stargazers_count": null,
+   "topics": []
+  },
+  "kaays/mc3_nx": {
+   "description": "Modern Combat 3: Fallen Nation (Android 1.1.7g, 32-bit) running natively on the Nintendo Switch — android32 so-loader port.",
+   "full_name": "Kaays/mc3_nx",
+   "stargazers_count": 2,
+   "topics": [
+    "android32",
+    "gameloft",
+    "homebrew",
+    "modern-combat-3",
+    "nintendo-switch",
+    "port",
+    "so-loader",
+    "switch-homebrew"
+   ]
+  },
+  "murat303/iptv-player": {
+   "description": "An IPTV player for Nintendo Switch homebrew: live TV, movies and series from Xtream Codes accounts and M3U playlists. Based on TsVitch.",
+   "full_name": "murat303/iptv-player",
+   "stargazers_count": 2,
+   "topics": [
+    "homebrew",
+    "iptv",
+    "m3u",
+    "nintendo-switch",
+    "switch-homebrew",
+    "xtream-codes"
+   ]
+  },
+  "paulodiasred/bm64switch": {
+   "description": "Bomberman 64 for Nintendo Switch — native homebrew port (.nro) of BM64Recomp via N64Recomp static recompilation, rendered with libultraship (OpenGL). Bring your own ROM.",
+   "full_name": "paulodiasred/BM64Switch",
+   "stargazers_count": 5,
+   "topics": [
+    "bomberman",
+    "bomberman-game",
+    "libultraship",
+    "n64",
+    "n64recomp",
+    "nintendo-switch-games",
+    "nintendo-switch-homebrew",
+    "nro",
+    "port",
+    "static-recompilation",
+    "switch-homebrew"
+   ]
+  },
+  "rexead/gametime-tracker": {
+   "description": "Nintendo Switch homebrew app for tracking playtime across your installed games",
+   "full_name": "Rexead/GameTime-Tracker",
+   "stargazers_count": 3,
+   "topics": [
+    "homebrew-switch",
+    "nintendo-switch",
+    "nintendo-switch-homebrew"
+   ]
+  },
+  "scamnscoot/streamfin": {
+   "description": "StreamFin - streaming-only Stremio client for homebrewed Nintendo Switch. Switchfin fork speaking the Stremio addon protocol.",
+   "full_name": "scamNscoot/StreamFin",
+   "stargazers_count": 42,
+   "topics": [
+    "borealis",
+    "mpv",
+    "nintendo-switch",
+    "streaming",
+    "stremio",
+    "stremio-addon",
+    "switch-homebrew",
+    "switchfin"
+   ]
+  },
+  "shodowlo/nx-torrent-player": {
+   "description": "NX Torrent Player: Stremio on Nintendo Switch",
+   "full_name": "shodowlo/NX-torrent-player",
+   "stargazers_count": 33,
+   "topics": [
+    "bittorrent",
+    "media-player",
+    "mpv",
+    "nintendo-switch",
+    "stremio",
+    "switch-homebrew",
+    "torrent-streaming"
+   ]
+  },
+  "slankka/nx-fs-utf8": {
+   "description": "A firmware \"KIP\" to unlock Switch FileSystem to read/write and enumerate UTF-8 CJK file names.",
+   "full_name": "slankka/nx-fs-utf8",
+   "stargazers_count": 5,
+   "topics": [
+    "atmosphere",
+    "firmware-tools",
+    "hekate",
+    "homebrew",
+    "nintendo-switch-homebrew",
+    "utf-8"
+   ]
+  },
+  "sonerx7/nexvyn-os-nx": {
+   "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
+   "full_name": "sonerx7/Nexvyn-OS-NX",
+   "stargazers_count": 66,
+   "topics": [
+    "app-market",
+    "atmosphere",
+    "cpython",
+    "desktop-environment",
+    "homebrew",
+    "libnx",
+    "lua",
+    "nexvyn-os",
+    "nintendo-switch",
+    "nro",
+    "os-shell",
+    "pocketpy",
+    "quickjs",
+    "sdk",
+    "switch-homebrew",
+    "window-manager"
+   ]
+  },
+  "tootallnate/nx.js": {
+   "description": "",
+   "full_name": "tootallnate/nx.js",
+   "stargazers_count": null,
+   "topics": []
+  },
+  "tuckerwales/nslibrary": {
+   "description": "Self-hosted library for your own Nintendo Switch dumps. Scan folders of NSP, NSZ, XCI, XCZ, and homebrew NRO files, fill in metadata, spot missing or duplicate content, and send titles to a modded Switch over LAN.",
+   "full_name": "tuckerwales/nslibrary",
+   "stargazers_count": 16,
+   "topics": [
+    "nintendo-switch",
+    "self-hosted",
+    "switch",
+    "switch-homebrew"
+   ]
+  },
+  "zhtipu/shank2-nx": {
+   "description": "Native Nintendo Switch port of Shank 2 (Xbox Live Arcade)",
+   "full_name": "zhtipu/shank2-nx",
+   "stargazers_count": 3,
+   "topics": [
+    "native-port",
+    "nintendo",
+    "nintendo-port",
+    "nintendo-switch-games",
+    "nintendo-switch-homebrew",
+    "shank",
+    "shank-2-free",
+    "xbox360"
+   ]
+  }
+ },
+ "first_seen": {
+  "amir-ehsani/hometile-switch": "2026-11-09",
+  "bernardogiordano/checkpoint": "2026-11-09",
+  "ch1nguya/switch-super-installer": "2026-11-09",
+  "ctcaer/battery_desync_fix_nx": "2026-11-09",
+  "danilkhmyrov/ferry-switch": "2026-11-09",
+  "denpingus/stremnx": "2026-11-09",
+  "ely3m/weather-and-moon-phase-app-for-nintendo-switch": "2026-11-09",
+  "ely3m/weather-app-for-nintendo-switch": "2026-11-09",
+  "erige005/kirikiroid2-nx": "2026-11-09",
+  "hashcade/mhgu-overlay": "2026-11-09",
+  "ibnuard/darktube": "2026-11-09",
+  "itotaljustice/atmosphere-updater": "2026-11-09",
+  "kaays/mc3_nx": "2026-11-09",
+  "murat303/iptv-player": "2026-11-09",
+  "paulodiasred/bm64switch": "2026-11-09",
+  "rexead/gametime-tracker": "2026-11-09",
+  "scamnscoot/streamfin": "2026-11-09",
+  "shodowlo/nx-torrent-player": "2026-11-09",
+  "slankka/nx-fs-utf8": "2026-11-09",
+  "sonerx7/nexvyn-os-nx": "2026-11-09",
+  "tootallnate/nx.js": "2026-11-09",
+  "tuckerwales/nslibrary": "2026-11-09",
+  "zhtipu/shank2-nx": "2026-11-09"
+ },
+ "fortheusers": {
+  "100boxesNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "2048": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.0",
+   "worst": "allowed"
+  },
+  "2planes": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "A-Square-Astray": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "AAReboot": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "AARebootApplet": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "reason": "image.png (file in SD root)",
+   "version": "release",
+   "worst": "warn"
+  },
+  "ASCIIStarWars": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "AXChip8": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "Akira": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.6.5",
+   "worst": "allowed"
+  },
+  "AlephOne": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.0",
+   "worst": "allowed"
+  },
+  "AmiiboGenerator": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.1.1",
+   "worst": "allowed"
+  },
+  "Amiigo": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.4.1",
+   "worst": "allowed"
+  },
+  "AmiigoMod": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.7.0",
+   "worst": "allowed"
+  },
+  "Amiiswap": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "Apollo": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1",
+   "worst": "allowed"
+  },
+  "Aquaria": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.3.0",
+   "worst": "allowed"
+  },
+  "ArkanoidNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "AuroraChatforSwitch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "26.8.18",
+   "worst": "allowed"
+  },
+  "Avatool": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.1.0",
+   "worst": "allowed"
+  },
+  "BackupNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2",
+   "worst": "allowed"
+  },
+  "Bejeweled-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "BetterBedrockNX": {
+   "kinds": [
+    "app",
+    "overlay"
+   ],
+   "reason": "",
+   "version": "2.0.0",
+   "worst": "allowed"
+  },
+  "BiggestDump": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "BlockamokRemix": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.21",
+   "worst": "allowed"
+  },
+  "BomberManNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "Bomberman-SwitchGDX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.2",
+   "worst": "allowed"
+  },
+  "BookReader": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2.0",
+   "worst": "allowed"
+  },
+  "BootSoundNX": {
+   "kinds": [],
+   "reason": "atmosphere/titles/00FF0000000002AA/exefs.nsp (atmosphere)",
+   "version": "1.1.0",
+   "worst": "warn"
+  },
+  "BouncyBrawl": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "release",
+   "worst": "allowed"
+  },
+  "Brewser": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.1.31",
+   "worst": "allowed"
+  },
+  "Brick-Game-9999-in-1": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.012",
+   "worst": "allowed"
+  },
+  "Bricks-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1-alpha",
+   "worst": "allowed"
+  },
+  "BrogueCE": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.9.2-r2",
+   "worst": "allowed"
+  },
+  "ButtonBreakSwitch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.5",
+   "worst": "allowed"
+  },
+  "CHIP8": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "v0.3",
+   "worst": "allowed"
+  },
+  "CSE2": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.1",
+   "worst": "allowed"
+  },
+  "CalculateNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "Calculator_NX": {
+   "kinds": [
+    "app",
+    "overlay"
+   ],
+   "reason": "",
+   "version": "2.0.1",
+   "worst": "allowed"
+  },
+  "CamNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "Cannonball_Switch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.08git-vita/-rsn8887",
+   "worst": "allowed"
+  },
+  "CaptureSight": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "0.12.8",
+   "worst": "allowed"
+  },
+  "CenaNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "ChatNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "Checkpoint": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "5.3.0",
+   "worst": "allowed"
+  },
+  "CheezitTheGame": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "Game",
+   "worst": "allowed"
+  },
+  "Chocolate-Doom-Launcher": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.1",
+   "worst": "allowed"
+  },
+  "ChunkIntercept": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "Clanbomber": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "ClawSwitch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "beta4",
+   "worst": "allowed"
+  },
+  "Clock-Time": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "ComicNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.0",
+   "worst": "allowed"
+  },
+  "Commander-Keen": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "refs/pull/358/merge",
+   "worst": "allowed"
+  },
+  "Connect-4-Dual-Edition": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "ConsoleEditor": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.0",
+   "worst": "allowed"
+  },
+  "Cpp-Snake-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.0",
+   "worst": "allowed"
+  },
+  "CustomBootScreen": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.3.0",
+   "worst": "allowed"
+  },
+  "CustomUI": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "CuteManga": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.4",
+   "worst": "allowed"
+  },
+  "DC-uLaunch_Updater": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.6",
+   "worst": "allowed"
+  },
+  "DDLC": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.3",
+   "worst": "allowed"
+  },
+  "DNS-MITM_Manager": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "0.2.0",
+   "worst": "allowed"
+  },
+  "DNSmitmChecker": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.4.2",
+   "worst": "allowed"
+  },
+  "DVDlogo": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2",
+   "worst": "allowed"
+  },
+  "DevilutionX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.5.5",
+   "worst": "allowed"
+  },
+  "DinoRunNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "atmosphere/hbl_html/html-document/.htdocs/dino_run/index.js (atmosphere)",
+   "version": "1.2",
+   "worst": "warn"
+  },
+  "DokkaebiHack": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.0",
+   "worst": "allowed"
+  },
+  "Donut": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "Doom": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.02",
+   "worst": "allowed"
+  },
+  "Dr-Driller": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.6",
+   "worst": "allowed"
+  },
+  "DungeonRush": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.1",
+   "worst": "allowed"
+  },
+  "EasyRPGplayer": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.8.1.1",
+   "worst": "allowed"
+  },
+  "EdiZonOverlay": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.0.15",
+   "worst": "allowed"
+  },
+  "Edizon": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ],
+   "reason": "atmosphere/contents/0100000000001013/exefs.nsp1 (system title override)",
+   "version": "3.8.37",
+   "worst": "warn"
+  },
+  "Eevee": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.1.0",
+   "worst": "allowed"
+  },
+  "EmuMmcConfig": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.1.0",
+   "worst": "allowed"
+  },
+  "EmuNand-Swapper": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.9",
+   "worst": "allowed"
+  },
+  "Emulanders": {
+   "kinds": [
+    "app",
+    "overlay",
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "Enigma": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.16",
+   "worst": "allowed"
+  },
+  "EventRaidInjector": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.1",
+   "worst": "allowed"
+  },
+  "Evolution_saved_me_NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "FNFSwitchFunkin": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.0",
+   "worst": "allowed"
+  },
+  "FNFVSliceNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.8.7-nx1",
+   "worst": "allowed"
+  },
+  "FPSLocker": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "3.5.0",
+   "worst": "allowed"
+  },
+  "FactorNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "Fake-08": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.2.20",
+   "worst": "allowed"
+  },
+  "Fifteen-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "FinalFantasyIV": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.4",
+   "worst": "allowed"
+  },
+  "FireplaceNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "09-22-2026-01.42.11.AM",
+   "worst": "allowed"
+  },
+  "FixCheat": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "FizzBuzz_NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "FlappyBirdNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "Flare-Switch-port": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.11",
+   "worst": "allowed"
+  },
+  "FlashCardsNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.1.2",
+   "worst": "allowed"
+  },
+  "FlashNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.2",
+   "worst": "allowed"
+  },
+  "Foldery": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "FunkinRewritten": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.0-beta.2-1",
+   "worst": "allowed"
+  },
+  "GameLad": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "GerenciadorMIL": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "GirlsAreWeirdNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "Goldleaf": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.1",
+   "worst": "allowed"
+  },
+  "GuitarNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.1",
+   "worst": "allowed"
+  },
+  "HCL-switch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "HOSInputDisplay": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "reason": "atmosphere/contents/0100000000000901/exefs.nsp (system title override)",
+   "version": "1.3.2",
+   "worst": "warn"
+  },
+  "Halyard": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.0",
+   "worst": "allowed"
+  },
+  "Hamsters": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "Hekate": {
+   "kinds": [],
+   "reason": "hekate_ctcaer_6.5.4.bin (boot file in SD root)",
+   "version": "6.5.4",
+   "worst": "forbidden"
+  },
+  "HekateBrew": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "HelloColours": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "HomeBrew-Manager": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "Homebrew-Details": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.05",
+   "worst": "allowed"
+  },
+  "Homebrew_SD_Setup": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "v0.3-alpha",
+   "worst": "allowed"
+  },
+  "HuntfortheShadowRider": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "Untold",
+   "worst": "allowed"
+  },
+  "Hurrican": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.04",
+   "worst": "allowed"
+  },
+  "IRSwitch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "Final-Release",
+   "worst": "allowed"
+  },
+  "InternalSpeakers": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "InvadersNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "J2MENXX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.8.4",
+   "worst": "allowed"
+  },
+  "JC-color-swapper": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2",
+   "worst": "allowed"
+  },
+  "JCToolbox": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2",
+   "worst": "allowed"
+  },
+  "JewelThief": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0",
+   "worst": "allowed"
+  },
+  "JoyConMouse": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.0",
+   "worst": "allowed"
+  },
+  "JoyVibe": {
+   "kinds": [],
+   "reason": "joyvibe.nro (file in SD root)",
+   "version": "1.0.0",
+   "worst": "warn"
+  },
+  "Kartswitch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.3",
+   "worst": "allowed"
+  },
+  "Kens-Labyrinth": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "4.4.0",
+   "worst": "allowed"
+  },
+  "KeyX": {
+   "kinds": [
+    "overlay",
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "1.5.6",
+   "worst": "allowed"
+  },
+  "Kinestop": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "2.0.0",
+   "worst": "allowed"
+  },
+  "KipSelect": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "3.1.0",
+   "worst": "allowed"
+  },
+  "Kirikiri": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.0",
+   "worst": "allowed"
+  },
+  "Klooni1010": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.8.6",
+   "worst": "allowed"
+  },
+  "LANHelperTesla": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.2.0",
+   "worst": "allowed"
+  },
+  "LaDeuda": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "release",
+   "worst": "allowed"
+  },
+  "LoveStory_Demo": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "LoveStory_Documentation.pdf (file in SD root)",
+   "version": "1.2a",
+   "worst": "warn"
+  },
+  "Lugaru": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.3-nx1",
+   "worst": "allowed"
+  },
+  "LumioseShinyStashMap": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.5",
+   "worst": "allowed"
+  },
+  "LunarNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.3.3",
+   "worst": "allowed"
+  },
+  "MAME-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.3",
+   "worst": "allowed"
+  },
+  "MTGLifeCounter": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "MarioBrosNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.3.2",
+   "worst": "allowed"
+  },
+  "MazeNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.0",
+   "worst": "allowed"
+  },
+  "McOsu-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "33.14",
+   "worst": "allowed"
+  },
+  "MegaZeux": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.93d",
+   "worst": "allowed"
+  },
+  "MenuMusicNX": {
+   "kinds": [
+    "overlay",
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "MethaneBros": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "release_1",
+   "worst": "allowed"
+  },
+  "MiSTerCompanionNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.4",
+   "worst": "allowed"
+  },
+  "MiiPort": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.1",
+   "worst": "allowed"
+  },
+  "MiiPortOnline": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.3-Online",
+   "worst": "allowed"
+  },
+  "Minesweeper": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0",
+   "worst": "allowed"
+  },
+  "MinesweeperNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "initial",
+   "worst": "allowed"
+  },
+  "MissionControl": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "reason": "atmosphere/exefs_patches/hid_patches/BBEE6C2C132C849BC313B0E38732D91B9C45FBFD.ips (atmosphere)",
+   "version": "0.16.0",
+   "worst": "warn"
+  },
+  "Mod_Manager": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.3",
+   "worst": "allowed"
+  },
+  "Moonlight-Switch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.5.0",
+   "worst": "allowed"
+  },
+  "MusicPlayer2": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.8.6",
+   "worst": "allowed"
+  },
+  "N-Xplorer": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.7.1",
+   "worst": "allowed"
+  },
+  "NX-Update-Checker": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.5.4.2",
+   "worst": "allowed"
+  },
+  "NX-ntpc": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.4",
+   "worst": "allowed"
+  },
+  "NX-shell": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "4.01",
+   "worst": "allowed"
+  },
+  "NXBadApple": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "Main",
+   "worst": "allowed"
+  },
+  "NXBlood": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.9.6",
+   "worst": "allowed"
+  },
+  "NXCGOL": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "25.06.07_00.06",
+   "worst": "allowed"
+  },
+  "NXDucoMiner": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "25.07.22_13.16",
+   "worst": "allowed"
+  },
+  "NXFetchRem": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.0",
+   "worst": "allowed"
+  },
+  "NXGallery": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.0",
+   "worst": "allowed"
+  },
+  "NXMP": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.9.3",
+   "worst": "allowed"
+  },
+  "NXMilk": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.4.1",
+   "worst": "allowed"
+  },
+  "NXPlazaStreetPass": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.12.0",
+   "worst": "allowed"
+  },
+  "NXRemoteLauncher": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "NXSAND": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "README.txt (file in SD root)",
+   "version": "0.0.1",
+   "worst": "warn"
+  },
+  "NXShare": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.9.0",
+   "worst": "allowed"
+  },
+  "NXSimpleDownloader": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "NXoodles": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "NXthemes_Installer": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "nxt-3.0.2",
+   "worst": "allowed"
+  },
+  "NaziZombiesPortable": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "nightly",
+   "worst": "allowed"
+  },
+  "Neumann": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.32",
+   "worst": "allowed"
+  },
+  "NooDS": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "release",
+   "worst": "allowed"
+  },
+  "ONScripterNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.3.1",
+   "worst": "allowed"
+  },
+  "Odamex": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "pre-08X-alpha-2",
+   "worst": "allowed"
+  },
+  "OpenAoK": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.6.6",
+   "worst": "allowed"
+  },
+  "OpenArenaNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.7.8.1",
+   "worst": "allowed"
+  },
+  "OpenHomeNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.3.7",
+   "worst": "allowed"
+  },
+  "OpenJazzNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.1",
+   "worst": "allowed"
+  },
+  "OpenNOW": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.10",
+   "worst": "allowed"
+  },
+  "OpenSupaplex": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "7.2.2",
+   "worst": "allowed"
+  },
+  "OpenTTD": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.07",
+   "worst": "allowed"
+  },
+  "Openlara": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "latest",
+   "worst": "allowed"
+  },
+  "PKSE": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.1",
+   "worst": "allowed"
+  },
+  "PacManNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "Pacpac": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "pacpac-mobile-0.1-6",
+   "worst": "allowed"
+  },
+  "ParticleFire-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "Payload-Launcher-Apple": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "3.0",
+   "worst": "allowed"
+  },
+  "Payload_launcher": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "3.0.2",
+   "worst": "allowed"
+  },
+  "PctlManager": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "3.0.0",
+   "worst": "allowed"
+  },
+  "PepperandCarrot": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "Pickr": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.1-1",
+   "worst": "allowed"
+  },
+  "PixelWheels": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.22.0",
+   "worst": "allowed"
+  },
+  "Pixel_Shuffle_NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "PlayGuard": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.0",
+   "worst": "allowed"
+  },
+  "PongNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "PowertoolsNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "Q3ArenaNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.7.8.1",
+   "worst": "allowed"
+  },
+  "QuakespasmNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.92.3-nx-0.4.0",
+   "worst": "allowed"
+  },
+  "QuickNTP": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.6.0",
+   "worst": "allowed"
+  },
+  "RCMReboot": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0f",
+   "worst": "allowed"
+  },
+  "RCMRebootInstant": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0f",
+   "worst": "allowed"
+  },
+  "REDRIVER2": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.0",
+   "worst": "allowed"
+  },
+  "REminiscence": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "RandPlayNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.9",
+   "worst": "allowed"
+  },
+  "Reset-Parental-Controls-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.1",
+   "worst": "allowed"
+  },
+  "RetroNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.22.1",
+   "worst": "allowed"
+  },
+  "RingRacers": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.4-r2",
+   "worst": "allowed"
+  },
+  "SDLPoP": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "vita-1.7",
+   "worst": "allowed"
+  },
+  "SMM2CourseInjector": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "SPSV": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "5",
+   "worst": "allowed"
+  },
+  "SRB2Kart": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.6-r8",
+   "worst": "allowed"
+  },
+  "SSBUModManager": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.3",
+   "worst": "allowed"
+  },
+  "SSBot": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.2",
+   "worst": "allowed"
+  },
+  "SaltyNX": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "reason": "atmosphere/exefs_patches/SaltyNX_Fixes/053ABE9494B5397AE818B3721DE50995.ips (atmosphere)",
+   "version": "2.1.3",
+   "worst": "warn"
+  },
+  "SaltyNX-Tool": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.0",
+   "worst": "allowed"
+  },
+  "Sandboxels": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "ScratchEverywhere": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.1",
+   "worst": "allowed"
+  },
+  "ScreenTester": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2",
+   "worst": "allowed"
+  },
+  "SealedBite": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "Untold",
+   "worst": "allowed"
+  },
+  "Serious-Engine-TFE": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "nx1",
+   "worst": "allowed"
+  },
+  "Serious-Engine-TSE": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "nx1",
+   "worst": "allowed"
+  },
+  "ShareNX-Overlay": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.1.3",
+   "worst": "allowed"
+  },
+  "Shasciw": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.7.0",
+   "worst": "allowed"
+  },
+  "Shiromino": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.2",
+   "worst": "allowed"
+  },
+  "ShoWiFi": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2",
+   "worst": "allowed"
+  },
+  "SimonNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "simon-nx0.2",
+   "worst": "allowed"
+  },
+  "SimpleModAlchemist": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.1",
+   "worst": "allowed"
+  },
+  "SimpleModDownloader": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.3.0",
+   "worst": "allowed"
+  },
+  "SimpleModManager": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.1.4",
+   "worst": "allowed"
+  },
+  "SkyMM-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.2",
+   "worst": "allowed"
+  },
+  "SkyNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "SkyNX_Forwarder.nsp (boot file in SD root)",
+   "version": "1.5",
+   "worst": "forbidden"
+  },
+  "SlayTheSwitch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "Slinks-Adventure": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.1-alpha",
+   "worst": "allowed"
+  },
+  "SlitherlinkNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "Snake": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "4",
+   "worst": "allowed"
+  },
+  "SnakeNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "Sonic-CD": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.3.0",
+   "worst": "allowed"
+  },
+  "Sonic3-AIR": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "22.09.10.0--rel1",
+   "worst": "allowed"
+  },
+  "SpaceVue": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "3.0.1",
+   "worst": "allowed"
+  },
+  "SpotifySwitchRemote": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.3",
+   "worst": "allowed"
+  },
+  "Status-Monitor-Overlay": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.4.1",
+   "worst": "allowed"
+  },
+  "StreamFinEX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.3.9",
+   "worst": "allowed"
+  },
+  "SuDokuL": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.5",
+   "worst": "allowed"
+  },
+  "SudokuNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "Super-Haxagon": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "3.9.1",
+   "worst": "allowed"
+  },
+  "SuperModysseyLoader": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "image.png (file in SD root)",
+   "version": "3",
+   "worst": "warn"
+  },
+  "SuperSquatSim": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "SuperTuxMilestone1": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "image.png (file in SD root)",
+   "version": "0.1.1b",
+   "worst": "warn"
+  },
+  "SwitchAssistant": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.8",
+   "worst": "allowed"
+  },
+  "SwitchCast": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "0.4.4",
+   "worst": "allowed"
+  },
+  "SwitchFTPClient": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "image.png (file in SD root)",
+   "version": "1.0.7",
+   "worst": "warn"
+  },
+  "SwitchFishingDemo": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "SwitchFrameTap": {
+   "kinds": [
+    "app",
+    "overlay",
+    "sysmodule"
+   ],
+   "reason": "atmosphere/contents/0100000000000C20/exefs.nsp (system title override)",
+   "version": "0.7.19",
+   "worst": "warn"
+  },
+  "SwitchHero": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.3.1",
+   "worst": "allowed"
+  },
+  "SwitchInfoNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.5",
+   "worst": "allowed"
+  },
+  "SwitchLanController": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "SwitchNotificationLED": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "SwitchP8": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.5.0",
+   "worst": "allowed"
+  },
+  "SwitchPresence-Rewritten": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ],
+   "reason": "atmosphere/contents/0100000000000464/toolbox.json (system title override)",
+   "version": "1.8.2",
+   "worst": "warn"
+  },
+  "SwitchSlide": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.1",
+   "worst": "allowed"
+  },
+  "SwitchVerifier": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.1.0",
+   "worst": "allowed"
+  },
+  "SwitchWave": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.2",
+   "worst": "allowed"
+  },
+  "Switch_90DNS_Tester": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.4",
+   "worst": "allowed"
+  },
+  "Switchfin": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.9.4",
+   "worst": "allowed"
+  },
+  "SwitchnoteStudio": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.51",
+   "worst": "allowed"
+  },
+  "SysDVR": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "6.3",
+   "worst": "allowed"
+  },
+  "SystemShock": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.8.2-r5",
+   "worst": "allowed"
+  },
+  "T-Rekt-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "TIL-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "TKMM-NX": {
+   "kinds": [],
+   "reason": "bootloader/ini/TKMM.ini (bootloader)",
+   "version": "2.1.6",
+   "worst": "forbidden"
+  },
+  "Taisei": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.4.2",
+   "worst": "allowed"
+  },
+  "TamatoolNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "TegraExplorer": {
+   "kinds": [],
+   "reason": "TegraExplorer.bin (boot file in SD root)",
+   "version": "4.2.0",
+   "worst": "forbidden"
+  },
+  "Tesla-menu": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.2.3",
+   "worst": "allowed"
+  },
+  "TestApp": {
+   "kinds": [],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "TetrisNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "TetrisOverlay": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "0.5.2",
+   "worst": "allowed"
+  },
+  "ThemezerNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "3.3.1",
+   "worst": "allowed"
+  },
+  "TicTacToeNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "TimerNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "3.0",
+   "worst": "allowed"
+  },
+  "TomoToolNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.3.10",
+   "worst": "allowed"
+  },
+  "TotKUnexplored": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.4",
+   "worst": "allowed"
+  },
+  "TranslateNX": {
+   "kinds": [
+    "app",
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.1.0",
+   "worst": "allowed"
+  },
+  "TriPeaks": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "Triplane_Turmoil": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.11",
+   "worst": "allowed"
+  },
+  "Trogdor-Reburninated": {
+   "kinds": [],
+   "reason": "Trogdor-Reburninated.nro (file in SD root)",
+   "version": "2.4",
+   "worst": "warn"
+  },
+  "TsVitch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.3.2",
+   "worst": "allowed"
+  },
+  "Tsukihime": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.3.1",
+   "worst": "allowed"
+  },
+  "Turnips": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.7.7",
+   "worst": "allowed"
+  },
+  "UMSDPong": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.4",
+   "worst": "allowed"
+  },
+  "USBBotbase": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "UltimateTrainingModpack": {
+   "kinds": [],
+   "reason": "",
+   "version": "7.1.1",
+   "worst": "allowed"
+  },
+  "UltrahandOverlay": {
+   "kinds": [
+    "app",
+    "overlay",
+    "sysmodule"
+   ],
+   "reason": "atmosphere/exefs_patches/audio_mastervolume/3a75b4a62dad189b2c8b30e4dedb4e15ece56850.ips (atmosphere)",
+   "version": "2.5.3",
+   "worst": "warn"
+  },
+  "Unlucky": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "Untitled": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.3.0",
+   "worst": "allowed"
+  },
+  "UpThemAll": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.0",
+   "worst": "allowed"
+  },
+  "VBA_NEXT": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.7",
+   "worst": "allowed"
+  },
+  "VGMplayerNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1",
+   "worst": "allowed"
+  },
+  "Vanilla-Conquer": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0-r6",
+   "worst": "allowed"
+  },
+  "Vapor_spec": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.3",
+   "worst": "allowed"
+  },
+  "VoyagerNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.8.5.1",
+   "worst": "allowed"
+  },
+  "WarnelChawpiovs": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.7.1",
+   "worst": "allowed"
+  },
+  "Whats-in-the-box-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "Wolf4SDL-Switch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "WookReadercomics": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.7.0",
+   "worst": "allowed"
+  },
+  "YTBPlayer": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.0",
+   "worst": "allowed"
+  },
+  "YamaNXTurkishPatcher": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.0",
+   "worst": "allowed"
+  },
+  "ZERODROID": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "ZeldaSaveEditor": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.5-alpha.5",
+   "worst": "allowed"
+  },
+  "abuse": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.8r3",
+   "worst": "allowed"
+  },
+  "acnh-manager": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.2.1",
+   "worst": "allowed"
+  },
+  "appstore": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "switch/appstore/.get/repos.json (package registry)",
+   "version": "2.3.2",
+   "worst": "forbidden"
+  },
+  "appstore_survey": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "argon-nx": {
+   "kinds": [
+    "app",
+    "overlay",
+    "sysmodule"
+   ],
+   "reason": "argon-nx.bin (boot file in SD root)",
+   "version": "v2.0-SE_FWD",
+   "worst": "forbidden"
+  },
+  "avp": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.3",
+   "worst": "allowed"
+  },
+  "bbloc": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0-beta",
+   "worst": "allowed"
+  },
+  "bean-controller-checker": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.1.0",
+   "worst": "allowed"
+  },
+  "bean-stick-checker": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.0",
+   "worst": "allowed"
+  },
+  "bitmap-printer": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "reason": "atmosphere/exefs_patches/vi_patches/96529C3226BEE906EE651754C33FE3E24ECAE832.ips (atmosphere)",
+   "version": "1.3.0e",
+   "worst": "warn"
+  },
+  "blobby": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.3.1",
+   "worst": "allowed"
+  },
+  "botw-unexplored": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.0",
+   "worst": "allowed"
+  },
+  "botwsaveeditor": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "untagged-d3311465bd147285773c",
+   "worst": "allowed"
+  },
+  "brainfuck": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "brewjsexamples": {
+   "kinds": [],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "browsenx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.4.1",
+   "worst": "allowed"
+  },
+  "bs": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "cannonball": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.00",
+   "worst": "allowed"
+  },
+  "d1x-switch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.58.6",
+   "worst": "allowed"
+  },
+  "d2x-switch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.58.6",
+   "worst": "allowed"
+  },
+  "dOPUS": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.7",
+   "worst": "allowed"
+  },
+  "delve": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "desmume": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.3",
+   "worst": "allowed"
+  },
+  "devilution-nx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.95",
+   "worst": "allowed"
+  },
+  "dhewm3": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.0_nx",
+   "worst": "allowed"
+  },
+  "doom64": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2.0-nx",
+   "worst": "allowed"
+  },
+  "dxxrebirth": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.61",
+   "worst": "allowed"
+  },
+  "eBookReaderSwitch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.4.0",
+   "worst": "allowed"
+  },
+  "easypower": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2",
+   "worst": "allowed"
+  },
+  "ebookViewerNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2.0",
+   "worst": "allowed"
+  },
+  "ebooks": {
+   "kinds": [],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "eduke32": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "r8093_nx_2",
+   "worst": "allowed"
+  },
+  "emuiibo": {
+   "kinds": [],
+   "reason": "atmosphere/toolbox.json (atmosphere)",
+   "version": "1.1.3",
+   "worst": "warn"
+  },
+  "emummc-toggle": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.1",
+   "worst": "allowed"
+  },
+  "emummc-toggler": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.1",
+   "worst": "allowed"
+  },
+  "ezRemoteClient": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.14",
+   "worst": "allowed"
+  },
+  "f2bgl": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.3.1",
+   "worst": "allowed"
+  },
+  "fastCFWswitch": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.3.2",
+   "worst": "allowed"
+  },
+  "fceumm": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "very beta",
+   "worst": "allowed"
+  },
+  "femulti": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "prerelease",
+   "worst": "allowed"
+  },
+  "fheroes2": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.17",
+   "worst": "allowed"
+  },
+  "flavortown": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "n/a",
+   "worst": "allowed"
+  },
+  "ftpd": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "3.2.1",
+   "worst": "allowed"
+  },
+  "ftpsrv": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.2",
+   "worst": "allowed"
+  },
+  "gagorder": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.0",
+   "worst": "allowed"
+  },
+  "gambatte": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "beta 11_03_2018",
+   "worst": "allowed"
+  },
+  "game-example": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "gcdumptool": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2026.04.24",
+   "worst": "allowed"
+  },
+  "gdkgba": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "v9",
+   "worst": "allowed"
+  },
+  "gearboy": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "beta",
+   "worst": "allowed"
+  },
+  "genesisgx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "very beta",
+   "worst": "allowed"
+  },
+  "gol": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2",
+   "worst": "allowed"
+  },
+  "gzdoom": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "nx4.11pre-2",
+   "worst": "allowed"
+  },
+  "halo-ce-universal": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "111",
+   "worst": "allowed"
+  },
+  "hbmenu": {
+   "kinds": [],
+   "reason": "hbmenu.nro (file in SD root)",
+   "version": "3.6.1",
+   "worst": "warn"
+  },
+  "hdr-launcher": {
+   "kinds": [],
+   "reason": "",
+   "version": "0.9.1",
+   "worst": "allowed"
+  },
+  "hexgem": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "hid-mitm-plus": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "reason": "input_pc.py (file in SD root)",
+   "version": "PLUS-0.2-ALPHA",
+   "worst": "warn"
+  },
+  "hode": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2.9d",
+   "worst": "allowed"
+  },
+  "hot_pocolate": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "hota": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2",
+   "worst": "allowed"
+  },
+  "in-home-switching": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2",
+   "worst": "allowed"
+  },
+  "ioquake3nx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.1",
+   "worst": "allowed"
+  },
+  "ipswitch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2.2",
+   "worst": "allowed"
+  },
+  "iwbtgrt": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.6.6.6",
+   "worst": "allowed"
+  },
+  "jaguar": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "beta",
+   "worst": "allowed"
+  },
+  "jellycar": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "not_listed",
+   "worst": "allowed"
+  },
+  "jksv": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "12/02/2025",
+   "worst": "allowed"
+  },
+  "julius": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.8.0",
+   "worst": "allowed"
+  },
+  "jumpnbump": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.02",
+   "worst": "allowed"
+  },
+  "kEx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.04",
+   "worst": "allowed"
+  },
+  "kgdoom": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "926b58c",
+   "worst": "allowed"
+  },
+  "khedgb": {
+   "kinds": [
+    "app"
+   ],
+   "reason": ".DS_Store (file in SD root)",
+   "version": "1.0",
+   "worst": "warn"
+  },
+  "kickNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.5.1",
+   "worst": "allowed"
+  },
+  "laines": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "switch.settings (file in SD root)",
+   "version": "1.4",
+   "worst": "warn"
+  },
+  "ldn_mitm": {
+   "kinds": [
+    "app",
+    "overlay",
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "1.22.0",
+   "worst": "allowed"
+  },
+  "lennytube": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.2",
+   "worst": "allowed"
+  },
+  "libtransistor-examples": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.1.1",
+   "worst": "allowed"
+  },
+  "liero": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.39a_nx",
+   "worst": "allowed"
+  },
+  "mGBA": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.10.5",
+   "worst": "allowed"
+  },
+  "mame2000": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "very beta",
+   "worst": "allowed"
+  },
+  "mame2003": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "beta",
+   "worst": "allowed"
+  },
+  "manaplus": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "v1.9.3.23-1",
+   "worst": "allowed"
+  },
+  "max_nx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "r1",
+   "worst": "allowed"
+  },
+  "mcpserver": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "melonDS": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "7.2.1",
+   "worst": "allowed"
+  },
+  "memory-game-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1",
+   "worst": "allowed"
+  },
+  "meritous": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "microNXSaveSync": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "milkytracker": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.0-nx6",
+   "worst": "allowed"
+  },
+  "minesweeper-NX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "mirrormagic": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.15",
+   "worst": "allowed"
+  },
+  "moonlight-nx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.0",
+   "worst": "allowed"
+  },
+  "mtp-server-nx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.3",
+   "worst": "allowed"
+  },
+  "nOmooRe": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.6",
+   "worst": "allowed"
+  },
+  "nXDownload": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1b",
+   "worst": "allowed"
+  },
+  "neopop_SDL": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2",
+   "worst": "allowed"
+  },
+  "noies": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2",
+   "worst": "allowed"
+  },
+  "noled": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "nso-icon-tool": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.4.5",
+   "worst": "allowed"
+  },
+  "nx-locale-switcher": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.4",
+   "worst": "allowed"
+  },
+  "nx-midi": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "nx-ovlloader": {
+   "kinds": [
+    "overlay",
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "1.0.7",
+   "worst": "allowed"
+  },
+  "nx-vr": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.1",
+   "worst": "allowed"
+  },
+  "nx-vvvvvv": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.1",
+   "worst": "allowed"
+  },
+  "nxTransmission": {
+   "kinds": [],
+   "reason": "",
+   "version": "nx_0.2.3",
+   "worst": "allowed"
+  },
+  "nxengine": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.6.5-1",
+   "worst": "allowed"
+  },
+  "nxlaserplayer": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.3",
+   "worst": "allowed"
+  },
+  "nxplay": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1",
+   "worst": "allowed"
+  },
+  "nxquake": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2.0",
+   "worst": "allowed"
+  },
+  "nxquake2": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "_060",
+   "worst": "allowed"
+  },
+  "nxsh": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.8-beta",
+   "worst": "allowed"
+  },
+  "nxsysinfo": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "release2",
+   "worst": "allowed"
+  },
+  "openbor": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "3.0.7087-2",
+   "worst": "allowed"
+  },
+  "openfodder": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.4",
+   "worst": "allowed"
+  },
+  "openmw": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.46.0-nx2",
+   "worst": "allowed"
+  },
+  "openrct2": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.06",
+   "worst": "allowed"
+  },
+  "ovlSysmodule": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.3.1",
+   "worst": "allowed"
+  },
+  "pFBA": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "7.2",
+   "worst": "allowed"
+  },
+  "pNES": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "7.2",
+   "worst": "allowed"
+  },
+  "padmacro": {
+   "kinds": [
+    "overlay",
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "2.0.1",
+   "worst": "allowed"
+  },
+  "pal": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1-nx",
+   "worst": "allowed"
+  },
+  "picodrive": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.0",
+   "worst": "allowed"
+  },
+  "pinballnx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "pixel-painter": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.8.0",
+   "worst": "allowed"
+  },
+  "pkBakeryDonutEditor": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.0",
+   "worst": "allowed"
+  },
+  "pkDex": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.0",
+   "worst": "allowed"
+  },
+  "pkHouseLocalPokeBank": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.3.0",
+   "worst": "allowed"
+  },
+  "pkTeraRaidMapViewer": {
+   "kinds": [
+    "app",
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.3.2",
+   "worst": "allowed"
+  },
+  "pleNx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.0",
+   "worst": "allowed"
+  },
+  "pong": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "postal": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.00",
+   "worst": "allowed"
+  },
+  "powder-nx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "pplay": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "3.8",
+   "worst": "allowed"
+  },
+  "ppsspp": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "LICENSE.txt (file in SD root)",
+   "version": "1.17.x (Sept 9, 2024)",
+   "worst": "warn"
+  },
+  "prodinfoenabler": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "psnes": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "7.2",
+   "worst": "allowed"
+  },
+  "pusha": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "pynx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "v0.6.0-alpha",
+   "worst": "allowed"
+  },
+  "ra-offline": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "0.4.5",
+   "worst": "allowed"
+  },
+  "rawgl": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0",
+   "worst": "allowed"
+  },
+  "reboottopayloadswitch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "renpy-switch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.7.5",
+   "worst": "allowed"
+  },
+  "residualvm": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.4.0git-2",
+   "worst": "allowed"
+  },
+  "rocksndiamonds": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.15",
+   "worst": "allowed"
+  },
+  "screen-nx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.0b",
+   "worst": "allowed"
+  },
+  "scummvm": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2026.3.0",
+   "worst": "allowed"
+  },
+  "sdl_pong": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "snek": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "0.8.0",
+   "worst": "allowed"
+  },
+  "snes9x_2010": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "beta",
+   "worst": "allowed"
+  },
+  "snes9x_2010_nx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "beta",
+   "worst": "allowed"
+  },
+  "solarus": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.4.3-luajit",
+   "worst": "allowed"
+  },
+  "sonicroboblast2": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.2.15-r4",
+   "worst": "allowed"
+  },
+  "spacenx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "sphaira": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.8",
+   "worst": "allowed"
+  },
+  "sporegram": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0",
+   "worst": "allowed"
+  },
+  "stepmania-nx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "5.1-nx3",
+   "worst": "allowed"
+  },
+  "supermariowar-nx": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.0-nx5",
+   "worst": "allowed"
+  },
+  "svitch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.2-alpha",
+   "worst": "allowed"
+  },
+  "switch-cheats-updater": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.2.1",
+   "worst": "allowed"
+  },
+  "switch-pl": {
+   "kinds": [],
+   "reason": "atmosphere/contents/0100000000001009/fsmitm.flag (system title override)",
+   "version": "1.6",
+   "worst": "warn"
+  },
+  "switch-remote-play": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0",
+   "worst": "allowed"
+  },
+  "switch-smb-client": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "switch-time": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.6",
+   "worst": "allowed"
+  },
+  "switchXBOXcontroller": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.0.0",
+   "worst": "allowed"
+  },
+  "switchident-GUI": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.5",
+   "worst": "allowed"
+  },
+  "switchident-console": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.5",
+   "worst": "allowed"
+  },
+  "switchnewpipe": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.5",
+   "worst": "allowed"
+  },
+  "switchstrobe": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.2.1",
+   "worst": "allowed"
+  },
+  "sys-clk": {
+   "kinds": [
+    "app",
+    "overlay",
+    "sysmodule"
+   ],
+   "reason": "README.md (file in SD root)",
+   "version": "2.0.1-fix",
+   "worst": "warn"
+  },
+  "sys-clk-Editor": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.0.1",
+   "worst": "allowed"
+  },
+  "sys-clk-Overlay": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "sys-ftpd": {
+   "kinds": [],
+   "reason": "bootloader/ini/FTP_Server.ini (bootloader)",
+   "version": "not listed",
+   "worst": "forbidden"
+  },
+  "sys-ftpd-light": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "1.0.5",
+   "worst": "allowed"
+  },
+  "sys-hidplus": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "1.1",
+   "worst": "allowed"
+  },
+  "sys-http": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "0.1.0",
+   "worst": "allowed"
+  },
+  "sys-screenuploader": {
+   "kinds": [
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "0.0.10",
+   "worst": "allowed"
+  },
+  "sys-tune": {
+   "kinds": [
+    "overlay",
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "2.1.0-beta.1",
+   "worst": "allowed"
+  },
+  "syscon1x2024": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ],
+   "reason": "",
+   "version": "2.0.0",
+   "worst": "allowed"
+  },
+  "sysdvr-overlay": {
+   "kinds": [
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.0.15",
+   "worst": "allowed"
+  },
+  "taisei": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.4.6",
+   "worst": "allowed"
+  },
+  "test-pkg": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "tetrisswitch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.0",
+   "worst": "allowed"
+  },
+  "tictactoe": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "Alpha",
+   "worst": "allowed"
+  },
+  "touch-screen": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0",
+   "worst": "allowed"
+  },
+  "twiNX": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.9.1",
+   "worst": "allowed"
+  },
+  "uLaunch": {
+   "kinds": [
+    "app",
+    "sysmodule"
+   ],
+   "reason": "atmosphere/contents/0100000000001000/exefs.nsp (system title override)",
+   "version": "1.2.5",
+   "worst": "warn"
+  },
+  "uae4all2": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.12",
+   "worst": "allowed"
+  },
+  "useless": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.1.3",
+   "worst": "allowed"
+  },
+  "vba-next": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "beta",
+   "worst": "allowed"
+  },
+  "vgedit": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "2.2.1",
+   "worst": "allowed"
+  },
+  "wae": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1",
+   "worst": "allowed"
+  },
+  "wiiero": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.9",
+   "worst": "allowed"
+  },
+  "wiliwili": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.6.0",
+   "worst": "allowed"
+  },
+  "xash3d-switch": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "xash3d-switch-decay": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "xash3d-switch-dmc": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "xash3d-switch_Blue_Shift": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "xash3d-switch_Opposing_Force": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "1.0.1",
+   "worst": "allowed"
+  },
+  "xrick": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.0.1",
+   "worst": "allowed"
+  },
+  "yallarenuts": {
+   "kinds": [
+    "app"
+   ],
+   "reason": "",
+   "version": "0.1.2",
+   "worst": "allowed"
+  }
+ },
+ "gamebrew": {
+  "/wiki/4IFIR_Switch": [
+   "rashevskyv/4ifir"
+  ],
+  "/wiki/90spot_Switch": [
+   "mogery/90spot"
+  ],
+  "/wiki/AA-Reboot_Applet_Switch": [
+   "thatfinndev/aa-reboot-applet"
+  ],
+  "/wiki/AA-Reboot_Switch": [
+   "thatfinndev/aa-reboot"
+  ],
+  "/wiki/ACNH_Save_Editor_Switch": [
+   "cbreezy210/acnh-save-editor",
+   "kwsch/nhse"
+  ],
+  "/wiki/Akira_Switch": [
+   "chiaki-ng/akira",
+   "devkitpro/curl",
+   "dragonflylee/switchfin"
+  ],
+  "/wiki/AmiiSwap_Switch": [
+   "furybaguette/amiiswap",
+   "spx01/switch-nfp-mitm",
+   "subv/switch-nfp-mitm"
+  ],
+  "/wiki/AmiiboGenerator_Switch": [
+   "slluxx/amiibogenerator"
+  ],
+  "/wiki/AmiigoMod_Switch": [
+   "stardustcfw/amiigo"
+  ],
+  "/wiki/Amiigo_-_Emuiibo_GUI_Switch": [
+   "compsciorbust/amiigo",
+   "compsciorbust/arriba",
+   "n3evin/amiiboapi"
+  ],
+  "/wiki/Amiiswap_Mod_Switch": [],
+  "/wiki/AnalogCursor_Switch": [
+   "viggoeklund/robdevhomebrew"
+  ],
+  "/wiki/Android_10_Switch": [],
+  "/wiki/Android_11_Switch": [],
+  "/wiki/Android_8_Switch": [
+   "ctcaer/hekate"
+  ],
+  "/wiki/Another_Funkin_Game_Installer_Switch": [],
+  "/wiki/Aoc-Mitm_Switch": [
+   "xortroll/aoc-mitm"
+  ],
+  "/wiki/Apollo_Switch": [
+   "evo-brut3/apollo"
+  ],
+  "/wiki/AtmoPackUpdater_Switch": [
+   "atmosphere-nx/atmosphere",
+   "hamletdufromage/aio-switch-updater",
+   "itotaljustice/patches"
+  ],
+  "/wiki/Atmosphere-Updater_Switch": [
+   "itotaljustice/atmosphere-updater"
+  ],
+  "/wiki/Atmosphere_Mod_Plague_Switch": [
+   "nalorokk/atmosphere",
+   "nalorokk/mod_plague"
+  ],
+  "/wiki/Atmosphere_Switch": [
+   "atmosphere-nx/atmosphere",
+   "atmosphere-nx/atmosphere-splashes",
+   "ctcaer/hekate"
+  ],
+  "/wiki/Atmosphere_With_Hekate_Switch": [
+   "thzoria/atmopack-vanilla",
+   "yyoossk/atmosphere-with-hekate"
+  ],
+  "/wiki/AuroraChat_Switch": [
+   "unitendo/aurorachat",
+   "unitendo/aurorachat-switch"
+  ],
+  "/wiki/Avatool_Switch": [
+   "j-d-k/avatool"
+  ],
+  "/wiki/Awoo_Installer_Switch": [
+   "adubbz/tinfoil",
+   "developersu/ns-usbloader",
+   "huntereb/awoo-installer"
+  ],
+  "/wiki/BOTW_Save_Editor_GUI_Switch": [
+   "jpe230/botw-save-editor-gui"
+  ],
+  "/wiki/BOTW_Save_Editor_Switch": [
+   "jpe230/botw-save-file-editor"
+  ],
+  "/wiki/BackupNX_Switch": [
+   "segfault42/backupnx"
+  ],
+  "/wiki/Battery_Desync_Fix_NX_Switch": [
+   "ctcaer/battery_desync_fix_nx"
+  ],
+  "/wiki/Bbloc_Switch": [
+   "notnotme/bbloc"
+  ],
+  "/wiki/BeanNX_Controller_Checker_Switch": [
+   "transkat/bean-controller-checker"
+  ],
+  "/wiki/BeanNX_Stick_Checker_Switch": [
+   "transkat/bean-stick-checker"
+  ],
+  "/wiki/BiggestDump_Switch": [
+   "j-d-k/biggestdump"
+  ],
+  "/wiki/BogInstaller_Switch": [
+   "reisyukaku/boginstaller"
+  ],
+  "/wiki/Bookr_Modern_Switch": [
+   "pathway27/bookr-mod-vita"
+  ],
+  "/wiki/BootMoix_Switch": [
+   "cokecookie/bootmoix",
+   "switchbrew/switch-examples"
+  ],
+  "/wiki/Brainfuck_Switch": [
+   "thekgg/switch-brainfuck"
+  ],
+  "/wiki/Breeze_Switch": [
+   "tomvita/breeze-beta",
+   "tomvita/nxcheatcode"
+  ],
+  "/wiki/Brewser_Switch": [
+   "atmosphere-nx/atmosphere",
+   "natureglass/brewser",
+   "tootallnate/nx.js"
+  ]
+ },
+ "rejected": {
+  "2003scape/rsc-c": {
+   "candidate": "| [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-19T16:23:08Z"
+  },
+  "aapka1914/savestate": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-14T07:21:39Z"
+  },
+  "aarvsn/gta3-nx": {
+   "candidate": "| [aarvsn/gta3-nx](https://github.com/aarvsn/gta3-nx) | 1 | v1.0.0 | 2026-07-31 | gta3-nx.nacp, gta3-nx.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-07-31T05:48:05Z"
+  },
+  "aarvsn/hl2-nx": {
+   "candidate": "| [aarvsn/hl2-nx](https://github.com/aarvsn/hl2-nx) | 0 | v1.1.0 | 2026-07-29 | hl2_nx-v1.1.0.zip, hl2_nx.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-07-30T05:29:37Z"
+  },
+  "aarvsn/re4-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-01T15:20:05Z"
+  },
+  "adrianaferraris/yuzu-emu": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-14T07:24:38Z"
+  },
+  "adubbz/tinfoil": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "adumah/alice-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-06T02:42:19Z"
+  },
+  "ahmadsouri/jak-switch-port": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-23T09:12:10Z"
+  },
+  "alexislours/ltd-save-editor": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-06-13T12:41:18Z"
+  },
+  "alexislours/tomo_photofix": {
+   "candidate": "| [alexislours/tomo_photofix](https://github.com/alexislours/tomo_photofix) | 1 | v1.1.1 | 2026-06-03 | tomo_photofix-emulator-v1.1.1.zip, tomo_photofix-v1.1.1.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-06-03T16:37:50Z"
+  },
+  "alexislours/tomo_starterfree": {
+   "candidate": "| [alexislours/tomo_starterfree](https://github.com/alexislours/tomo_starterfree) | 0 | v1.1.0 | 2026-06-05 | tomo_starterfree-strict-v1.1.0.zip, tomo_starterfree-v1.1.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-06-05T20:40:25Z"
+  },
+  "alvaroepena/bo2-360-nx": {
+   "candidate": "| [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | 20 | Release-1.1.0 | 2026-11-04 | bo2-360-nx-gamefiles-shader-extractor.zip, bo2-360-nx-release-1.1.0-switch+windows-build-kit.zip, bo2-360-nx-switch-PGO- |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-04T01:02:44Z"
+  },
+  "andrythebeast/songate": {
+   "candidate": "| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 8 | v1.1.0 | 2026-10-26 | GatefoldNX-1.1.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-03T16:40:11Z"
+  },
+  "angle-brackets/kickstand": {
+   "candidate": "| [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.1 | 2026-11-01 | kickstand-0.1.1-aarch64-apple-darwin.tar.gz, kickstand-0.1.1-x86_64-apple-darwin.tar.gz, kickstand-0.1.1-x86_64-pc-windo |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-01T06:42:46Z"
+  },
+  "angle-brackets/paperboat-switch-port": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-21T20:34:07Z"
+  },
+  "antman2023/uuremote-ns": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-19T10:18:28Z"
+  },
+  "aoihera/chargecap": {
+   "candidate": "| [aoihera/ChargeCap](https://github.com/aoihera/ChargeCap) | 6 | 1.1.2 | 2026-10-04 | ChargeCap.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-04T18:48:42Z"
+  },
+  "arakiw/switch-dsh-client": {
+   "candidate": "| [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-20T09:18:32Z"
+  },
+  "armaatus/rommsync-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-07T10:16:00Z"
+  },
+  "ashrafhanyy/maxpayne2_nx": {
+   "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-28T21:16:50Z"
+  },
+  "atmosphere-nx/atmosphere": {
+   "candidate": "| [atmosphere-nx/atmosphere](https://github.com/atmosphere-nx/atmosphere) | ? | 1.12.1 | 2026-10-16 | atmosphere-1.12.1-master-6b0c077b4+hbl-2.4.5+hbmenu-3.6.1.zip, fusee.bin |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "atmosphere-nx/atmosphere-splashes": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "azarucha/sys-airplay": {
+   "candidate": "| [azarucha/sys-airplay](https://github.com/azarucha/sys-airplay) | 0 | v0.1.0 | 2026-10-12 | sys-airplay.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-12T16:59:31Z"
+  },
+  "bakonpancakz/switch-melody": {
+   "candidate": "| [bakonpancakz/switch-melody](https://github.com/bakonpancakz/switch-melody) | 0 | 1.0.0 | 2026-11-06 | release.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-06T05:00:36Z"
+  },
+  "bananabasb/jolt": {
+   "checked": "2026-11-09",
+   "pushed_at": "2025-12-07T14:14:55Z"
+  },
+  "baslim734/touchpadnx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-09T11:37:59Z"
+  },
+  "bernesemountaindogvent8449/tomodachi-share-discover-and-share-mii": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-12T04:54:49Z"
+  },
+  "bium23/nxlibrary": {
+   "candidate": "| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 165 | v0.1.4.1 | 2026-11-07 | NXLibrary-0.1.4.1.dmg, NXLibrary-0.1.4.1.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-09T11:13:53Z"
+  },
+  "biuspoly/pekka-kana-2-switch": {
+   "candidate": "| [biuspoly/pekka-kana-2-switch](https://github.com/biuspoly/pekka-kana-2-switch) | 0 | v1.0 | 2026-10-28 | PekkaKana2_Switch_SD.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-28T22:22:41Z"
+  },
+  "bladesawstudios/wiixlaunch": {
+   "candidate": "| [BladesawStudios/WiiXLaunch](https://github.com/BladesawStudios/WiiXLaunch) | 6 | 1.0-rc1 | 2026-09-16 | wxl-sdk-1.0-rc1.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-28T02:47:22Z"
+  },
+  "blekjeksudo/mksm-nx": {
+   "candidate": "| [BlekjekSudo/mksm-nx](https://github.com/BlekjekSudo/mksm-nx) | 0 | switch-v0.1.0-alpha.1 | 2026-10-20 | checksums.txt, forwarder-checksums.txt, forwarder-manifest.json, MK-Shaolin-Monk-forwarder-source.zip, MK-Shaolin-Monk-f |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-20T18:22:48Z"
+  },
+  "borisovinfra/sakura-switch": {
+   "candidate": "| [borisovinfra/Sakura-Switch](https://github.com/borisovinfra/Sakura-Switch) | 6 | v2.1.0 | 2026-10-16 | Sakura-Switch-PRO-v2.1.0-macOS-Intel.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-16T12:47:59Z"
+  },
+  "brendongl/supermariowar-nx": {
+   "candidate": "| [brendongl/supermariowar-nx](https://github.com/brendongl/supermariowar-nx) | 2 | v1.0.0 | 2026-10-22 | SHA256SUMS.txt, smw.nro, SuperMarioWar-NX-v1.0.0-forwarder.nsp, SuperMarioWar-NX-v1.0.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-26T08:15:58Z"
+  },
+  "byrilo/phonepadnx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-09T10:33:09Z"
+  },
+  "cameudis/swots": {
+   "candidate": "| [Cameudis/SWOTS](https://github.com/Cameudis/SWOTS) | 2 | v0.1.0 | 2026-08-18 | SWOTS-v0.1.0.zip, SWOTS-v0.1.0.zip.sha256 |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-18T05:22:40Z"
+  },
+  "cardas26/nx-pop2": {
+   "candidate": "| [Cardas26/nx-pop2](https://github.com/Cardas26/nx-pop2) | 0 | v1.0.0 | 2026-10-23 | nx-pop2-diagnostics.zip, nx-pop2-forwarder.nsp, nx-pop2.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-23T17:15:26Z"
+  },
+  "cbreezy210/acnh-save-editor": {
+   "candidate": "| [cbreezy210/ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) | 11 | v.1.4.0 | 2026-08-26 | ACNH-Save-Editor-DBI-v1.4.0.zip, acnh_editor_v1.4.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-27T08:40:21Z"
+  },
+  "cbreezy210/pkhex-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-27T08:35:35Z"
+  },
+  "cbreezy210/timestranger-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-27T08:37:00Z"
+  },
+  "centollos/switchwaker": {
+   "candidate": "| [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) | 102 | v1.0.2 | 2026-10-27 | SwitchWaker-v1.0.2-switch-eur.zip, SwitchWaker-v1.0.2-switch-eur.zip.sha256, SwitchWaker-v1.0.2-switch.zip, SwitchWaker- |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-03T09:33:27Z"
+  },
+  "centollos/switchwakerhd": {
+   "candidate": "| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 244 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-08T22:49:46Z"
+  },
+  "ch1nguya/switch-super-manager": {
+   "candidate": "| [Ch1nguya/Switch-Super-Manager](https://github.com/Ch1nguya/Switch-Super-Manager) | 15 | v0.7.0 | 2026-11-08 | SHA256SUMS, Switch-Super-Manager-v0.7.0-win64.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-08T06:36:44Z"
+  },
+  "chiaki-ng/akira": {
+   "candidate": "| [chiaki-ng/akira](https://github.com/chiaki-ng/akira) | ? | v0.6.5 | 2026-10-05 | akira-0.6.5.zip, akira-companion-darwin-arm64.zip, akira-companion-linux-amd64, akira-companion-windows-amd64.exe, akira |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "chiya695/textreaderoverlay-nx-revived": {
+   "candidate": "| [chiya695/TextReaderOverlay-NX-Revived](https://github.com/chiya695/TextReaderOverlay-NX-Revived) | 2 | v1.9.1 | 2026-08-08 | SHA256SUMS.txt, TextReaderOverlay-NX-1.9.1.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-08T09:28:16Z"
+  },
+  "chrisbraucker/wireguard-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-20T18:55:51Z"
+  },
+  "chuthree/nx-gamehide": {
+   "candidate": "| [chuthree/nx-gamehide](https://github.com/chuthree/nx-gamehide) | 3 | v0.1.0 | 2026-10-13 | NX-GameHide-v0.1.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-27T16:26:43Z"
+  },
+  "clearmoon247/osaka-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-24T17:59:53Z"
+  },
+  "cmdada/3ds-cli": {
+   "candidate": "| [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 45 | 5.3 | 2026-10-03 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-03T02:25:16Z"
+  },
+  "cokecookie/bootmoix": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "compsciorbust/arriba": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "computingvictor/switch_iptv": {
+   "candidate": "| [ComputingVictor/Switch_IPTV](https://github.com/ComputingVictor/Switch_IPTV) | 1 | v0.2.0 | 2026-10-18 | SwitchIPTV-v0.2.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-19T06:06:47Z"
+  },
+  "contraceptiveoldsquaw160/tomodachi-share-mii": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-12T04:55:46Z"
+  },
+  "crestcarrierraise/yuzu-emulator-nintendo-switch-tutorial": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-16T16:58:32Z"
+  },
+  "ctj01/switch2pc": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-09T10:59:20Z"
+  },
+  "cylinderapfreeze/lichii-emulator": {
+   "candidate": "| [Cylinderapfreeze/Lichii-Emulator](https://github.com/Cylinderapfreeze/Lichii-Emulator) | 124 | 117 | 2026-11-08 | lichii-linux-aarch64.AppImage, lichii-linux-x86_64.AppImage, lichii-macos-arm64.zip, lichii-windows-x86_64.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-08T19:30:59Z"
+  },
+  "danialonso/nx-control": {
+   "candidate": "| [danialonso/nx-control](https://github.com/danialonso/nx-control) | 0 | v0.2.5 | 2026-10-30 | NX-Control-0.2.5.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-30T09:42:20Z"
+  },
+  "danilkhmyrov/cryptodeck": {
+   "candidate": "| [DanilKhmyrov/CryptoDeck](https://github.com/DanilKhmyrov/CryptoDeck) | 0 | v1.0.0 | 2026-08-14 | cryptodeck.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-14T17:18:21Z"
+  },
+  "dannyboyjaros/switchclassof09": {
+   "candidate": "| [dannyboyjaros/switchclassof09](https://github.com/dannyboyjaros/switchclassof09) | 0 | v1.0.0 | 2026-11-08 | class.of.09.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-08T05:12:14Z"
+  },
+  "dannyboyjaros/switchclassof09thereup": {
+   "candidate": "| [dannyboyjaros/switchclassof09thereup](https://github.com/dannyboyjaros/switchclassof09thereup) | 0 | v1.0.0 | 2026-11-08 | switch_class09ru.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-08T10:02:44Z"
+  },
+  "denpingus/nxcloud": {
+   "candidate": "| [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-24T15:30:32Z"
+  },
+  "developersu/ns-usbloader": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "devkitpro/curl": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "dimasick-git/ryazha-status-monitor": {
+   "candidate": "| [Dimasick-git/Ryazha-Status-Monitor](https://github.com/Dimasick-git/Ryazha-Status-Monitor) | 3 | 1.5.5-deko3d | 2026-10-27 | Ryazha-Status-Monitor.ovl, Ryazha-Status-Monitor.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-29T19:20:23Z"
+  },
+  "domazinus/switify": {
+   "candidate": "| [DomazinUS/Switify](https://github.com/DomazinUS/Switify) | 31 | v0.7.1 | 2026-08-20 | SHA256SUMS.txt, Switify-0.7.1.zip, Switify-Overlay-0.5.0.zip, Switify-source-0.7.1.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-20T20:47:04Z"
+  },
+  "dongrez1990-cloud/hongguo-switch": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-18T12:42:50Z"
+  },
+  "dpadninja/ct-ru-translation": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-11T11:31:06Z"
+  },
+  "dpadninja/realdrift_nx": {
+   "candidate": "| [dpadninja/realdrift_nx](https://github.com/dpadninja/realdrift_nx) | 1 | v1.5.3 | 2026-11-04 | realdrift_nx-v1.5.3.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-04T11:02:27Z"
+  },
+  "dream-cypher/strahlocalization": {
+   "candidate": "| [Dream-Cypher/STRAHLocalization](https://github.com/Dream-Cypher/STRAHLocalization) | 0 | v0.14 | 2026-11-01 | STRAH_en_patch_switch_0.14.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-01T23:17:53Z"
+  },
+  "dvnvdx/nx-tether": {
+   "candidate": "| [dvnvdx/NX-Tether](https://github.com/dvnvdx/NX-Tether) | 4 | v0.1.7 | 2026-10-28 | nx-tether-0.1.7.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-28T15:09:20Z"
+  },
+  "elijahxb/switch-playlogtool": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-06T18:40:02Z"
+  },
+  "ely3m/clock-for-switch": {
+   "candidate": "| [ELY3M/Clock-for-switch](https://github.com/ELY3M/Clock-for-switch) | 0 | 09-22-2026-01.57.09.AM | 2026-09-22 | Clock-for-switch.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-22T06:57:13Z"
+  },
+  "ely3m/lighting-up-led-on-right-joycon-for-nintendo-switch": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-22T06:47:37Z"
+  },
+  "ely3m/mice-breeder-for-switch": {
+   "candidate": "| [ELY3M/Mice-Breeder-for-switch](https://github.com/ELY3M/Mice-Breeder-for-switch) | 0 | 09-22-2026-01.51.03.AM | 2026-09-22 | Mice-Breeder-for-switch.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-22T06:51:07Z"
+  },
+  "ely3m/moon-info-for-nintendo-switch": {
+   "candidate": "| [ELY3M/Moon-Info-for-nintendo-Switch](https://github.com/ELY3M/Moon-Info-for-nintendo-Switch) | 0 | 09-22-2026-01.55.47.AM | 2026-09-22 | Moon-Info-for-nintendo-Switch.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-22T06:55:50Z"
+  },
+  "ely3m/strobe-alarm-clock-for-switch": {
+   "candidate": "| [ELY3M/Strobe-Alarm-Clock-for-switch](https://github.com/ELY3M/Strobe-Alarm-Clock-for-switch) | 1 | 09-22-2026-02.46.24.AM | 2026-09-22 | Strobe-Alarm-Clock-for-switch.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-22T07:46:29Z"
+  },
+  "ely3m/strobe-for-switch": {
+   "candidate": "| [ELY3M/Strobe-for-switch](https://github.com/ELY3M/Strobe-for-switch) | 0 | 09-22-2026-02.46.06.AM | 2026-09-22 | Strobe-for-switch.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-22T07:46:11Z"
+  },
+  "ely3m/weather-text-for-nintendo-switch": {
+   "candidate": "| [ELY3M/Weather-Text-for-Nintendo-Switch](https://github.com/ELY3M/Weather-Text-for-Nintendo-Switch) | 0 | 09-22-2026-02.01.56.AM | 2026-09-22 | Weather-Text-for-Nintendo-Switch.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-22T07:01:59Z"
+  },
+  "ely3m/wx---modded-by-ely-m": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-07T20:56:34Z"
+  },
+  "emil283498/beat-banger-switch": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-09T10:07:24Z"
+  },
+  "enzobernardinomartins/key2con": {
+   "candidate": "| [EnzoBernardinoMartins/key2con](https://github.com/EnzoBernardinoMartins/key2con) | 8 | v0.2.0 | 2026-10-13 | key2con.v0-2-0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-16T23:51:07Z"
+  },
+  "errlogic/nada": {
+   "candidate": "| [ErrLogic/nada](https://github.com/ErrLogic/nada) | 1 | v0.1.0 | 2026-07-04 | sys-nada-v0.1.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-07-22T15:32:06Z"
+  },
+  "ethiquema/ryu_ldn_nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-04T06:26:12Z"
+  },
+  "farmeobaasje/kittenhats": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-07-06T23:02:05Z"
+  },
+  "fgsfdsfgs/libsolder": {
+   "checked": "2026-11-09",
+   "pushed_at": "2025-11-11T19:36:26Z"
+  },
+  "funkinnxteam/funkinlegacy": {
+   "candidate": "| [FunkinNXTeam/FunkinLegacy](https://github.com/FunkinNXTeam/FunkinLegacy) | 3 | NX-1.0.1 | 2026-02-04 | Funkin.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-02-04T09:13:11Z"
+  },
+  "granule256/nxcourier": {
+   "candidate": "| [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-27T08:10:57Z"
+  },
+  "greenkaelup/respocket-yuzu-emulator-reworked-v2": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-05T11:59:52Z"
+  },
+  "hadokit/solarnx": {
+   "candidate": "| [HaDoKit/SolarNX](https://github.com/HaDoKit/SolarNX) | 0 | v0.2.5-alpha | 2026-11-03 | release.json, SolarNX-Rendezvous-linux-x64.zip, SolarNX-Rendezvous-win-x64.zip, SolarNX-Setup.exe, SolarNX-Switch.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-03T14:57:12Z"
+  },
+  "hashcade/feth-overlay": {
+   "candidate": "| [hashcade/feth-overlay](https://github.com/hashcade/feth-overlay) | 0 | v0.4.1 | 2026-10-15 | feth-overlay.ovl |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-15T08:12:17Z"
+  },
+  "helworks/helengine-switch": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-23T21:09:45Z"
+  },
+  "horizon-oc/horizon-oc": {
+   "candidate": "| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 274 | 2.6.0-rel | 2026-10-16 | dist.zip, dist_ext.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-23T11:05:19Z"
+  },
+  "huntereb/awoo-installer": {
+   "candidate": "| [huntereb/awoo-installer](https://github.com/huntereb/awoo-installer) | ? | 1.3.6 | 2025-11-15 | Awoo-Installer.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "iglitch/syobon-nx": {
+   "candidate": "| [iGlitch/Syobon-NX](https://github.com/iGlitch/Syobon-NX) | 0 | 1.0 | 2026-07-29 | syobon-nx.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-07-29T04:10:01Z"
+  },
+  "imyourboyroy/switch-sd-mgr": {
+   "candidate": "| [ImYourBoyRoy/switch-sd-mgr](https://github.com/ImYourBoyRoy/switch-sd-mgr) | 1 | v7.0.0 | 2026-05-31 | Switch-SD-Manager_Windows_Portable.zip, Switch.SD.Updater_7.0.0_amd64.AppImage, Switch.SD.Updater_7.0.0_amd64.deb, Switc |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-03T15:09:32Z"
+  },
+  "incuryou/pijava": {
+   "candidate": "| [incuryou/PiJava](https://github.com/incuryou/PiJava) | 10 | v0.2.114-keyui7-gpuf5-fit41-menu7 | 2026-11-02 | FIT41-RELEASE-NOTES-CN.md, J2me-vm-0.2.114-keyui7-gpuf5-fit41-menu7.nro, J2me-vm-0.2.114-keyui7-gpuf5-fit41-menu7.nsp, P |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-02T04:55:38Z"
+  },
+  "insektaure/cheatshelf": {
+   "candidate": "| [Insektaure/CheatShelf](https://github.com/Insektaure/CheatShelf) | 1 | 0.1.2 | 2026-10-23 | cheatshelf.ovl |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-23T14:24:42Z"
+  },
+  "jack-the-yoshi/one-click-game-manager-ocgm-": {
+   "candidate": "| [Jack-The-Yoshi/One-Click-Game-Manager-OCGM-](https://github.com/Jack-The-Yoshi/One-Click-Game-Manager-OCGM-) | 1 | v1.0.1 | 2026-02-16 | OCGM.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-02-16T23:25:56Z"
+  },
+  "jacquesdupontd/port0r": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-09T10:38:19Z"
+  },
+  "jigsawfr/boreale-ha": {
+   "candidate": "| [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-07T09:49:29Z"
+  },
+  "johnuzoka/bevy-horizon": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-06T10:25:35Z"
+  },
+  "jorgebelmar/switch-zcci-compressor": {
+   "candidate": "| [jorgebelmar/switch-zcci-compressor](https://github.com/jorgebelmar/switch-zcci-compressor) | 0 | v1.1.4 | 2026-07-23 | 3ds_to_zcci_compressor_v1.1.4.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-07-23T01:49:06Z"
+  },
+  "jorgepb96/tesstats": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-01T14:57:42Z"
+  },
+  "joseang54x/ex677895432-r3sh0p": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-15T18:48:51Z"
+  },
+  "jpe230/botw-save-file-editor": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "jshsakura/oc-cookingfoil-client": {
+   "candidate": "| [jshsakura/oc-cookingfoil-client](https://github.com/jshsakura/oc-cookingfoil-client) | 0 | v0.5.1 | 2026-10-24 | cookingfoil-v0.5.1.zip, cookingfoil.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-08T14:26:07Z"
+  },
+  "kakarottocake/gcadapter-oc-nx": {
+   "candidate": "| [KakarottoCake/gcadapter-oc-nx](https://github.com/KakarottoCake/gcadapter-oc-nx) | 0 | v0.1.5-alpha | 2026-07-29 | gcadapter-oc-nx.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-26T15:55:57Z"
+  },
+  "kliffdesaix/gmrunner": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-07T10:12:16Z"
+  },
+  "knight1/match-version-unlocker": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-06T08:59:14Z"
+  },
+  "kwsch/nhse": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "lalemniscata/ben10-nx": {
+   "candidate": "| [LaLemniscata/ben10-nx](https://github.com/LaLemniscata/ben10-nx) | 0 | v1.1.4 | 2026-11-06 | Ben10-NX-Installer.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-06T03:13:25Z"
+  },
+  "liliwiki/switch-homebrew": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-07-20T15:17:05Z"
+  },
+  "lozp1/07z": {
+   "candidate": "| [lozp1/07z](https://github.com/lozp1/07z) | 0 | v1.0.2 | 2026-10-13 | 07z-base-interfaz.zip, 07z-completo.zip, 07z-instalador.nsp, autorun-loader-ams1.11.2-5388824b.kip, autorun-loader-ams1. |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-01T02:05:30Z"
+  },
+  "m4l3vich/vkpcnx": {
+   "candidate": "| [m4l3vich/vkpcnx](https://github.com/m4l3vich/vkpcnx) | 2 | v1.1.0 | 2026-10-15 | vkpcnx-debug.nro, vkpcnx-switch-debug-symbols.zip, vkpcnx-switch-symbols.zip, vkpcnx.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-15T03:16:19Z"
+  },
+  "maiaramon/cnx-installer-macos": {
+   "candidate": "| [maiaramon/cnx-installer-macos](https://github.com/maiaramon/cnx-installer-macos) | 2 | v1.4 | 2026-06-18 | CNX_Installer.app.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-06-18T16:18:45Z"
+  },
+  "malinkin-s/destinia-nx": {
+   "candidate": "| [malinkin-s/destinia-nx](https://github.com/malinkin-s/destinia-nx) | 0 | v1.0.0 | 2026-10-25 | destinia-switch-1.0.0.zip, Destinia.0100D3571A000000.v0.nsp, Destinia.0100D3571A000000.v0.nsz, destinia.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-25T19:17:37Z"
+  },
+  "malinkin-s/naruto-rise-of-a-ninja-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-08T15:59:14Z"
+  },
+  "mentalblank/pyxis": {
+   "candidate": "| [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) | 57 | 46 | 2026-11-08 | PYXIS_SwitchAIO.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-08T20:14:56Z"
+  },
+  "meowdev-mod/control-ps-5": {
+   "candidate": "| [MeoWDev-MOD/Control-PS-5](https://github.com/MeoWDev-MOD/Control-PS-5) | 1 | v1.1.0 | 2026-11-04 | Control-PS-5.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-04T22:33:24Z"
+  },
+  "miri2577/flutter-libnx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-17T11:14:55Z"
+  },
+  "mlemiam/vanillatmosphere": {
+   "candidate": "| [mlemiam/Vanillatmosphere](https://github.com/mlemiam/Vanillatmosphere) | 42 | 1.11.2 | 2026-10-13 | Vanillatmosphere.1.11.2.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-17T14:44:14Z"
+  },
+  "mogery/90spot": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "mohamedsaid5363-star/miiverse-archipelago": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-09T05:50:27Z"
+  },
+  "n3evin/amiiboapi": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "nalorokk/atmosphere": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "nalorokk/mod_plague": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "ncarvalho99/framegen-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-29T15:38:35Z"
+  },
+  "nixentric/rpynx": {
+   "candidate": "| [nixentric/rpynx](https://github.com/nixentric/rpynx) | 8 | v0.1.0 | 2026-10-25 | ffmpeg-7.1.tar.xz, renpy-loader.nro, renpy-runtime.nro, rpynx-importer-macos-arm64.dmg, rpynx-importer-python.zip, rpynx |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-25T09:10:37Z"
+  },
+  "npshoporg/npshopswitch": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-30T00:46:09Z"
+  },
+  "nullbytenx/isaachud-switch": {
+   "candidate": "| [NullByteNX/IsaacHUD-Switch](https://github.com/NullByteNX/IsaacHUD-Switch) | 2 | v0.6.0 | 2026-11-01 | IsaacHUD-0.6.0-SD.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-01T15:03:50Z"
+  },
+  "nx-family/nx-translation": {
+   "candidate": "| [NX-Family/NX-Translation](https://github.com/NX-Family/NX-Translation) | 34 | FW22.5.0-TR2.01 | 2026-09-11 | NX-Translation_arabic.zip, NX-Translation_basque.zip, NX-Translation_bulgarian.zip, NX-Translation_catalan.zip, NX-Trans |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-02T06:56:20Z"
+  },
+  "nx-std/mono": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-01T05:18:17Z"
+  },
+  "oleksa126/durak_nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-22T10:47:08Z"
+  },
+  "p-khodadust/joymind": {
+   "candidate": "| [P-Khodadust/joymind](https://github.com/P-Khodadust/joymind) | 1 | v1.1.0 | 2026-10-07 | ai-switch.nro, THIRD_PARTY_NOTICES.md |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-07T20:53:40Z"
+  },
+  "p4rfa1t/netease-switch": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-06T00:13:59Z"
+  },
+  "pamaba261/fnaf_switch": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-13T19:54:34Z"
+  },
+  "parzval-net/mahjoli": {
+   "candidate": "| [Parzval-Net/Mahjoli](https://github.com/Parzval-Net/Mahjoli) | 0 | v6.1.0 | 2026-11-07 | mahjoli.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-07T02:02:53Z"
+  },
+  "pathway27/bookr-mod-vita": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "pattuan/checkpoint": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-01-30T11:30:50Z"
+  },
+  "plv890/corkdeck": {
+   "candidate": "| [plv890/CorkDeck](https://github.com/plv890/CorkDeck) | 16 | v0.3e | 2026-10-11 | CorkDeck-0.3e.zip, SHA256SUMS.txt |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-11T17:41:01Z"
+  },
+  "ppkantorski/7th-heaven-nx": {
+   "candidate": "| [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 11 | v1.1.1 | 2026-11-08 | 7th-Heaven-NX-1.1.1-linux-arm64.zip, 7th-Heaven-NX-1.1.1-linux-x64.zip, 7th-Heaven-NX-1.1.1-macos-arm64.zip, 7th-Heaven- |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-08T15:43:44Z"
+  },
+  "ppkantorski/alchemist": {
+   "candidate": "| [ppkantorski/Alchemist](https://github.com/ppkantorski/Alchemist) | 47 | v1.0.6 | 2026-04-23 | Alchemist.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-04-23T19:05:23Z"
+  },
+  "ppkantorski/alchemist-repos": {
+   "candidate": "| [ppkantorski/Alchemist-Repos](https://github.com/ppkantorski/Alchemist-Repos) | 5 | 2026-04-23 | 2026-04-23 | cucholix_contents.zip, cucholix_pchtxts.zip, Fl4sh9174_pchtxts.zip, KeatonTheBot_pchtxts.zip, StevensND_pchtxts.zip, the |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-04-23T19:00:35Z"
+  },
+  "ppkantorski/hoc-toolkit": {
+   "candidate": "| [ppkantorski/HOC-Toolkit](https://github.com/ppkantorski/HOC-Toolkit) | 24 | v2.0.7 | 2026-11-01 | hoc-toolkit.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-08T17:19:17Z"
+  },
+  "ppkantorski/libultrahand": {
+   "candidate": "| [ppkantorski/libultrahand](https://github.com/ppkantorski/libultrahand) | 68 | v2.5.4 | 2026-11-09 | libultrahand.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-09T02:30:43Z"
+  },
+  "ppkantorski/memory-kit": {
+   "candidate": "| [ppkantorski/Memory-Kit](https://github.com/ppkantorski/Memory-Kit) | 28 | v1.0.2 | 2026-05-20 | Memory.Kit.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-05-20T19:35:10Z"
+  },
+  "ppkantorski/ultragb-overlay": {
+   "candidate": "| [ppkantorski/UltraGB-Overlay](https://github.com/ppkantorski/UltraGB-Overlay) | 13 | v1.0.2 | 2026-07-13 | sdout.zip, ultragb.ovl |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-07-13T09:57:00Z"
+  },
+  "ppkantorski/ultrahand-packages": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-05-22T09:03:58Z"
+  },
+  "r4ytendo/crash_bit_nx": {
+   "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-17T23:20:03Z"
+  },
+  "rashevskyv/4ifir": {
+   "candidate": "| [rashevskyv/4ifir](https://github.com/rashevskyv/4ifir) | ? | 25.07.27.11 | 2025-07-27 | 4IFIR-Wizard-update-25.07.27.11.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "rashevskyv/conker-lr-recomp": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-07T10:03:25Z"
+  },
+  "raytwo/arcropolis": {
+   "candidate": "| [Raytwo/ARCropolis](https://github.com/Raytwo/ARCropolis) | 395 | v4.1.1 | 2026-09-25 | release.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-26T10:16:10Z"
+  },
+  "raytwo/arcropolis_api": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-02-18T23:13:18Z"
+  },
+  "realtimexo/switch-toolbox-2": {
+   "candidate": "| [realTimexo/Switch-Toolbox-2](https://github.com/realTimexo/Switch-Toolbox-2) | 1 | v2.1.3 | 2026-11-06 | SwitchToolbox2-2.1.3.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-07T19:30:51Z"
+  },
+  "reisyukaku/boginstaller": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "revolution81/butterscotch-switch-builder": {
+   "candidate": "| [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-22T12:22:15Z"
+  },
+  "riviera71/flare-switch": {
+   "candidate": "| [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-05-18T20:23:25Z"
+  },
+  "roccodev/xcnx-file-loader": {
+   "candidate": "| [roccodev/xcnx-file-loader](https://github.com/roccodev/xcnx-file-loader) | 18 | 2.0.2 | 2026-07-30 | test-all.zip, xcnx-file-loader-torna.zip, xcnx-file-loader-xc2-jp.zip, xcnx-file-loader-xc2-ww.zip, xcnx-file-loader-xc3 |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-07-30T07:34:56Z"
+  },
+  "roguei/switch-rdp": {
+   "candidate": "| [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-25T13:46:44Z"
+  },
+  "rydiaryzen/rydia.runtime": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-09T05:58:03Z"
+  },
+  "s3340326706-tech/deepstream-ns-qqmusic": {
+   "candidate": "| [s3340326706-tech/deepstream-ns-qqmusic](https://github.com/s3340326706-tech/deepstream-ns-qqmusic) | 0 | v0.9.6 | 2026-10-21 | Deepstream_v0.9.6_Switch.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-21T05:29:49Z"
+  },
+  "sakamochanq/qgis-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-29T07:23:44Z"
+  },
+  "sakarie9/nx-screenuploader": {
+   "candidate": "| [sakarie9/NX-ScreenUploader](https://github.com/sakarie9/NX-ScreenUploader) | 17 | v0.4.0 | 2026-10-14 | NX-ScreenUploader.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-29T08:51:58Z"
+  },
+  "samedog/nx-trex": {
+   "candidate": "| [samedog/NX-trex](https://github.com/samedog/NX-trex) | 0 | 2.0.0 | 2026-10-05 | NX-trex.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-05T05:33:57Z"
+  },
+  "samedog/nx-uploader": {
+   "candidate": "| [samedog/NX-Uploader](https://github.com/samedog/NX-Uploader) | 0 | 2.5.0 | 2026-10-05 | NXUploader.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-05T00:55:15Z"
+  },
+  "samswebs/storm-engine-v2": {
+   "candidate": "| [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-06T21:13:16Z"
+  },
+  "sbd1017/savekeep": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-21T07:53:00Z"
+  },
+  "scturtle/imgui_deko3d_example": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-07-20T08:06:23Z"
+  },
+  "sec-123/lanywhere-selfhost": {
+   "candidate": "| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.5.4 | 2026-11-09 | SHA256SUMS.txt, switch-online-0.5.4-hats.zip, switch-online-0.5.4-sd.zip, switch-online-0.5.4-sdk-sources.tar |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-09T11:09:15Z"
+  },
+  "simplysabir/nrodoc": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-02T02:45:05Z"
+  },
+  "slushi-github/haxenxcompiler": {
+   "candidate": "| [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 3.0.0 | 2025-11-30 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-21T14:53:58Z"
+  },
+  "slushi-github/vupx-engine": {
+   "checked": "2026-11-09",
+   "pushed_at": "2025-12-25T01:17:48Z"
+  },
+  "spin0zai/nup-extractor": {
+   "candidate": "| [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 23 | v1.0.9 | 2026-11-05 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-05T20:37:44Z"
+  },
+  "spx01/switch-nfp-mitm": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "steklorez/switchagent": {
+   "candidate": "| [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 6 | v1.0.26 | 2026-10-22 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-22T20:10:58Z"
+  },
+  "steve1451-dot/yuanshi-launcher-ns": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-07T10:26:32Z"
+  },
+  "strrationalism/cpymo": {
+   "candidate": "| [Strrationalism/CPyMO](https://github.com/Strrationalism/CPyMO) | 153 | v1.1.9 | 2023-08-14 | CPyMO.ASCII.Art.for.Linux.zip, CPyMO.ASCII.Art.for.macOS.zip, CPyMO.ASCII.Art.for.Windows.zip, CPyMO.for.Android.Accessi |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-02-27T05:15:44Z"
+  },
+  "subv/switch-nfp-mitm": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "switchbrew/libnx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-19T19:10:36Z"
+  },
+  "switchbrew/switch-examples": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "taiyit9963/yuzu-emu": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-12T05:00:04Z"
+  },
+  "team-failure/tf-os": {
+   "candidate": "| [Team-Failure/TF-OS](https://github.com/Team-Failure/TF-OS) | 6 | 3.6 | 2026-03-15 | TF_OS_3.6.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-03-15T17:29:45Z"
+  },
+  "thegabr0-ai/coreinit-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-02T21:21:15Z"
+  },
+  "themezernx/layoutkit": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-05-21T22:40:18Z"
+  },
+  "thzoria/atmopack-vanilla": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "timschneeb/kdeconnect-nx": {
+   "candidate": "| [timschneeb/kdeconnect-nx](https://github.com/timschneeb/kdeconnect-nx) | 14 | v1.0.1 | 2026-06-09 | debug-symbols.zip, kdeconnect-nx.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-06-09T00:53:01Z"
+  },
+  "tobias103435/mkwii-switch-builder": {
+   "candidate": "| [Tobias103435/mkwii-switch-builder](https://github.com/Tobias103435/mkwii-switch-builder) | 1 | v1 | 2026-11-03 | MarioKartWii-Switch-builder.zip, mkw-render-deko3d-13abc3bc-f8c9eef0-20261102.tar.xz, mkw-render-deko3d-13abc3bc-f8c9eef |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-05T22:55:57Z"
+  },
+  "tomvita/breeze-beta": {
+   "candidate": "| [tomvita/breeze-beta](https://github.com/tomvita/breeze-beta) | ? | beta108.4c | 2026-06-17 | Breeze.zip, version.txt |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "tomvita/nxcheatcode": {
+   "candidate": "| [tomvita/nxcheatcode](https://github.com/tomvita/nxcheatcode) | ? | 092526 | 2026-09-25 | titles.zip, version.txt |",
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "torusprincipal/yuzu-emulator-nintendo-switch": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-02T09:48:49Z"
+  },
+  "totgocpro/imgui-nvn": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-08-23T15:34:45Z"
+  },
+  "trinalord777/dk64recomp-nx": {
+   "candidate": "| [Trinalord777/DK64Recomp-NX](https://github.com/Trinalord777/DK64Recomp-NX) | 7 | v1.1.2 | 2026-10-11 | DK64Recomp-NX-v1.1.2.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-11T17:11:39Z"
+  },
+  "underwateroverground/tailscale-nx": {
+   "candidate": "| [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 80 | v1.2.0 | 2026-10-28 | tailscale-nx-1.2.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-04T14:11:03Z"
+  },
+  "underwateroverground/wireguard-nx": {
+   "candidate": "| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 11 | v1.1.0 | 2026-11-08 | wireguard-nx-1.1.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-08T14:06:11Z"
+  },
+  "unitendo/aurorachat": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "velizarseleznev/switch-quick-settings": {
+   "candidate": "| [VelizarSeleznev/switch-quick-settings](https://github.com/VelizarSeleznev/switch-quick-settings) | 0 | v1.0.0 | 2026-10-25 | quick-settings-1.0.0.zip, quick-settings-demo.mp4 |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-25T02:50:12Z"
+  },
+  "vibeporter/lazarus": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-06T23:11:26Z"
+  },
+  "viggoeklund/robdevhomebrew": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "xfufly/switch2brew": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-02-16T15:42:33Z"
+  },
+  "xhu96/switch7zip": {
+   "candidate": "| [xhu96/Switch7zip](https://github.com/xhu96/Switch7zip) | 0 | v0.9.11-pre | 2026-05-09 | Switch7zip.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-05-09T13:58:36Z"
+  },
+  "xlanor/wg-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-09-15T21:27:00Z"
+  },
+  "xortroll/aoc-mitm": {
+   "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "yariklol879-ops/pgba-nx": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-02T19:17:32Z"
+  },
+  "ybx77/switch-cloud-sync": {
+   "candidate": "| [ybx77/switch-cloud-sync](https://github.com/ybx77/switch-cloud-sync) | 1 | new | 2026-11-03 | switch-cloud-sync.nro |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-03T09:48:39Z"
+  },
+  "yerayfg/puente-eden-switch": {
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-30T14:12:52Z"
+  },
+  "yirr777/partyboard-nx": {
+   "candidate": "| [Yirr777/PartyBoard-NX](https://github.com/Yirr777/PartyBoard-NX) | 1 | v0.2.0-preview | 2026-11-07 | PartyBoard-forwarder.nsp, partyboard-switch.zip, SHA256SUMS |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-07T17:58:52Z"
+  },
+  "yukinsnow/lite-link": {
+   "candidate": "| [yukinsnow/Lite-Link](https://github.com/yukinsnow/Lite-Link) | 6 | v0.3.1 | 2026-10-26 | Lite-Link-v0.3.1-Icons.zip, Lite-Link-v0.3.1-macOS-experimental.zip, Lite-Link-v0.3.1-Switch.nro, Lite-Link-v0.3.1-Switc |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-10-26T19:56:22Z"
+  },
+  "yyoossk/atmosphere-with-hekate": {
+   "candidate": "| [yyoossk/Atmosphere-with-Hekate](https://github.com/yyoossk/Atmosphere-with-Hekate) | 16 | 2.0 | 2025-11-25 | Atmosphere-with-Hekate.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2025-12-03T12:11:32Z"
+  },
+  "zj3an/astro-nx": {
+   "candidate": "| [zJ3an/astro-nx](https://github.com/zJ3an/astro-nx) | 2 | v1.2.0 | 2025-11-15 | astro-nx-normal.v1.2.0.zip, astro-nx-vanilla.v1.2.0.zip |",
+   "checked": "2026-11-09",
+   "pushed_at": "2025-11-15T02:42:59Z"
+  },
+  "zofo007/nfs-carbon-nx": {
+   "candidate": "| [zofo007/NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) | 18 | v1.1.0 | 2026-10-30 | nfscarbon-1.1.0-src.zip, nfscarbon-1.1.0.zip, SHA256SUMS.txt |",
+   "checked": "2026-11-09",
+   "pushed_at": "2026-11-02T21:18:23Z"
+  }
+ }
+}

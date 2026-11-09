@@ -1,0 +1,138 @@
+# Кандидаты в магазин хоумбрю
+
+Обновлено: 2026-11-09. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+
+## Нужна проверка
+
+| Репозиторий | ★ | Версия | Дата | Файлы |
+|---|---|---|---|---|
+| [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |
+| [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | 20 | Release-1.1.0 | 2026-11-04 | bo2-360-nx-gamefiles-shader-extractor.zip, bo2-360-nx-release-1.1.0-switch+windows-build-kit.zip, bo2-360-nx-switch-PGO- |
+| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 8 | v1.1.0 | 2026-10-26 | GatefoldNX-1.1.0.zip |
+| [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.1 | 2026-11-01 | kickstand-0.1.1-aarch64-apple-darwin.tar.gz, kickstand-0.1.1-x86_64-apple-darwin.tar.gz, kickstand-0.1.1-x86_64-pc-windo |
+| [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
+| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |
+| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 165 | v0.1.4.1 | 2026-11-07 | NXLibrary-0.1.4.1.dmg, NXLibrary-0.1.4.1.zip |
+| [BladesawStudios/WiiXLaunch](https://github.com/BladesawStudios/WiiXLaunch) | 6 | 1.0-rc1 | 2026-09-16 | wxl-sdk-1.0-rc1.zip |
+| [BlekjekSudo/mksm-nx](https://github.com/BlekjekSudo/mksm-nx) | 0 | switch-v0.1.0-alpha.1 | 2026-10-20 | checksums.txt, forwarder-checksums.txt, forwarder-manifest.json, MK-Shaolin-Monk-forwarder-source.zip, MK-Shaolin-Monk-f |
+| [Cameudis/SWOTS](https://github.com/Cameudis/SWOTS) | 2 | v0.1.0 | 2026-08-18 | SWOTS-v0.1.0.zip, SWOTS-v0.1.0.zip.sha256 |
+| [Cardas26/nx-pop2](https://github.com/Cardas26/nx-pop2) | 0 | v1.0.0 | 2026-10-23 | nx-pop2-diagnostics.zip, nx-pop2-forwarder.nsp, nx-pop2.zip |
+| [Ch1nguya/Switch-Super-Manager](https://github.com/Ch1nguya/Switch-Super-Manager) | 15 | v0.7.0 | 2026-11-08 | SHA256SUMS, Switch-Super-Manager-v0.7.0-win64.zip |
+| [ComputingVictor/Switch_IPTV](https://github.com/ComputingVictor/Switch_IPTV) | 1 | v0.2.0 | 2026-10-18 | SwitchIPTV-v0.2.0.zip |
+| [Cylinderapfreeze/Lichii-Emulator](https://github.com/Cylinderapfreeze/Lichii-Emulator) | 124 | 117 | 2026-11-08 | lichii-linux-aarch64.AppImage, lichii-linux-x86_64.AppImage, lichii-macos-arm64.zip, lichii-windows-x86_64.zip |
+| [DanilKhmyrov/CryptoDeck](https://github.com/DanilKhmyrov/CryptoDeck) | 0 | v1.0.0 | 2026-08-14 | cryptodeck.nro |
+| [Dimasick-git/Ryazha-Status-Monitor](https://github.com/Dimasick-git/Ryazha-Status-Monitor) | 3 | 1.5.5-deko3d | 2026-10-27 | Ryazha-Status-Monitor.ovl, Ryazha-Status-Monitor.zip |
+| [DomazinUS/Switify](https://github.com/DomazinUS/Switify) | 31 | v0.7.1 | 2026-08-20 | SHA256SUMS.txt, Switify-0.7.1.zip, Switify-Overlay-0.5.0.zip, Switify-source-0.7.1.zip |
+| [Dream-Cypher/STRAHLocalization](https://github.com/Dream-Cypher/STRAHLocalization) | 0 | v0.14 | 2026-11-01 | STRAH_en_patch_switch_0.14.zip |
+| [ELY3M/Clock-for-switch](https://github.com/ELY3M/Clock-for-switch) | 0 | 09-22-2026-01.57.09.AM | 2026-09-22 | Clock-for-switch.nro |
+| [ELY3M/Mice-Breeder-for-switch](https://github.com/ELY3M/Mice-Breeder-for-switch) | 0 | 09-22-2026-01.51.03.AM | 2026-09-22 | Mice-Breeder-for-switch.nro |
+| [ELY3M/Moon-Info-for-nintendo-Switch](https://github.com/ELY3M/Moon-Info-for-nintendo-Switch) | 0 | 09-22-2026-01.55.47.AM | 2026-09-22 | Moon-Info-for-nintendo-Switch.nro |
+| [ELY3M/Strobe-Alarm-Clock-for-switch](https://github.com/ELY3M/Strobe-Alarm-Clock-for-switch) | 1 | 09-22-2026-02.46.24.AM | 2026-09-22 | Strobe-Alarm-Clock-for-switch.nro |
+| [ELY3M/Strobe-for-switch](https://github.com/ELY3M/Strobe-for-switch) | 0 | 09-22-2026-02.46.06.AM | 2026-09-22 | Strobe-for-switch.nro |
+| [ELY3M/Weather-Text-for-Nintendo-Switch](https://github.com/ELY3M/Weather-Text-for-Nintendo-Switch) | 0 | 09-22-2026-02.01.56.AM | 2026-09-22 | Weather-Text-for-Nintendo-Switch.nro |
+| [EnzoBernardinoMartins/key2con](https://github.com/EnzoBernardinoMartins/key2con) | 8 | v0.2.0 | 2026-10-13 | key2con.v0-2-0.zip |
+| [ErrLogic/nada](https://github.com/ErrLogic/nada) | 1 | v0.1.0 | 2026-07-04 | sys-nada-v0.1.0.zip |
+| [FunkinNXTeam/FunkinLegacy](https://github.com/FunkinNXTeam/FunkinLegacy) | 3 | NX-1.0.1 | 2026-02-04 | Funkin.nro |
+| [HaDoKit/SolarNX](https://github.com/HaDoKit/SolarNX) | 0 | v0.2.5-alpha | 2026-11-03 | release.json, SolarNX-Rendezvous-linux-x64.zip, SolarNX-Rendezvous-win-x64.zip, SolarNX-Setup.exe, SolarNX-Switch.nro |
+| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 274 | 2.6.0-rel | 2026-10-16 | dist.zip, dist_ext.zip |
+| [ImYourBoyRoy/switch-sd-mgr](https://github.com/ImYourBoyRoy/switch-sd-mgr) | 1 | v7.0.0 | 2026-05-31 | Switch-SD-Manager_Windows_Portable.zip, Switch.SD.Updater_7.0.0_amd64.AppImage, Switch.SD.Updater_7.0.0_amd64.deb, Switc |
+| [Insektaure/CheatShelf](https://github.com/Insektaure/CheatShelf) | 1 | 0.1.2 | 2026-10-23 | cheatshelf.ovl |
+| [Jack-The-Yoshi/One-Click-Game-Manager-OCGM-](https://github.com/Jack-The-Yoshi/One-Click-Game-Manager-OCGM-) | 1 | v1.0.1 | 2026-02-16 | OCGM.nro |
+| [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |
+| [KakarottoCake/gcadapter-oc-nx](https://github.com/KakarottoCake/gcadapter-oc-nx) | 0 | v0.1.5-alpha | 2026-07-29 | gcadapter-oc-nx.zip |
+| [LaLemniscata/ben10-nx](https://github.com/LaLemniscata/ben10-nx) | 0 | v1.1.4 | 2026-11-06 | Ben10-NX-Installer.zip |
+| [MeoWDev-MOD/Control-PS-5](https://github.com/MeoWDev-MOD/Control-PS-5) | 1 | v1.1.0 | 2026-11-04 | Control-PS-5.zip |
+| [NX-Family/NX-Translation](https://github.com/NX-Family/NX-Translation) | 34 | FW22.5.0-TR2.01 | 2026-09-11 | NX-Translation_arabic.zip, NX-Translation_basque.zip, NX-Translation_bulgarian.zip, NX-Translation_catalan.zip, NX-Trans |
+| [NullByteNX/IsaacHUD-Switch](https://github.com/NullByteNX/IsaacHUD-Switch) | 2 | v0.6.0 | 2026-11-01 | IsaacHUD-0.6.0-SD.zip |
+| [P-Khodadust/joymind](https://github.com/P-Khodadust/joymind) | 1 | v1.1.0 | 2026-10-07 | ai-switch.nro, THIRD_PARTY_NOTICES.md |
+| [Parzval-Net/Mahjoli](https://github.com/Parzval-Net/Mahjoli) | 0 | v6.1.0 | 2026-11-07 | mahjoli.nro |
+| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |
+| [Raytwo/ARCropolis](https://github.com/Raytwo/ARCropolis) | 395 | v4.1.1 | 2026-09-25 | release.zip |
+| [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
+| [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
+| [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
+| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.5.4 | 2026-11-09 | SHA256SUMS.txt, switch-online-0.5.4-hats.zip, switch-online-0.5.4-sd.zip, switch-online-0.5.4-sdk-sources.tar |
+| [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 23 | v1.0.9 | 2026-11-05 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
+| [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
+| [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 3.0.0 | 2025-11-30 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
+| [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 6 | v1.0.26 | 2026-10-22 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |
+| [Strrationalism/CPyMO](https://github.com/Strrationalism/CPyMO) | 153 | v1.1.9 | 2023-08-14 | CPyMO.ASCII.Art.for.Linux.zip, CPyMO.ASCII.Art.for.macOS.zip, CPyMO.ASCII.Art.for.Windows.zip, CPyMO.for.Android.Accessi |
+| [Team-Failure/TF-OS](https://github.com/Team-Failure/TF-OS) | 6 | 3.6 | 2026-03-15 | TF_OS_3.6.zip |
+| [Tobias103435/mkwii-switch-builder](https://github.com/Tobias103435/mkwii-switch-builder) | 1 | v1 | 2026-11-03 | MarioKartWii-Switch-builder.zip, mkw-render-deko3d-13abc3bc-f8c9eef0-20261102.tar.xz, mkw-render-deko3d-13abc3bc-f8c9eef |
+| [Trinalord777/DK64Recomp-NX](https://github.com/Trinalord777/DK64Recomp-NX) | 7 | v1.1.2 | 2026-10-11 | DK64Recomp-NX-v1.1.2.zip |
+| [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 80 | v1.2.0 | 2026-10-28 | tailscale-nx-1.2.0.zip |
+| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 11 | v1.1.0 | 2026-11-08 | wireguard-nx-1.1.0.zip |
+| [VelizarSeleznev/switch-quick-settings](https://github.com/VelizarSeleznev/switch-quick-settings) | 0 | v1.0.0 | 2026-10-25 | quick-settings-1.0.0.zip, quick-settings-demo.mp4 |
+| [Yirr777/PartyBoard-NX](https://github.com/Yirr777/PartyBoard-NX) | 1 | v0.2.0-preview | 2026-11-07 | PartyBoard-forwarder.nsp, partyboard-switch.zip, SHA256SUMS |
+| [aarvsn/gta3-nx](https://github.com/aarvsn/gta3-nx) | 1 | v1.0.0 | 2026-07-31 | gta3-nx.nacp, gta3-nx.nro |
+| [aarvsn/hl2-nx](https://github.com/aarvsn/hl2-nx) | 0 | v1.1.0 | 2026-07-29 | hl2_nx-v1.1.0.zip, hl2_nx.nro |
+| [alexislours/tomo_photofix](https://github.com/alexislours/tomo_photofix) | 1 | v1.1.1 | 2026-06-03 | tomo_photofix-emulator-v1.1.1.zip, tomo_photofix-v1.1.1.zip |
+| [alexislours/tomo_starterfree](https://github.com/alexislours/tomo_starterfree) | 0 | v1.1.0 | 2026-06-05 | tomo_starterfree-strict-v1.1.0.zip, tomo_starterfree-v1.1.0.zip |
+| [aoihera/ChargeCap](https://github.com/aoihera/ChargeCap) | 6 | 1.1.2 | 2026-10-04 | ChargeCap.zip |
+| [atmosphere-nx/atmosphere](https://github.com/atmosphere-nx/atmosphere) | ? | 1.12.1 | 2026-10-16 | atmosphere-1.12.1-master-6b0c077b4+hbl-2.4.5+hbmenu-3.6.1.zip, fusee.bin |
+| [azarucha/sys-airplay](https://github.com/azarucha/sys-airplay) | 0 | v0.1.0 | 2026-10-12 | sys-airplay.zip |
+| [bakonpancakz/switch-melody](https://github.com/bakonpancakz/switch-melody) | 0 | 1.0.0 | 2026-11-06 | release.zip |
+| [biuspoly/pekka-kana-2-switch](https://github.com/biuspoly/pekka-kana-2-switch) | 0 | v1.0 | 2026-10-28 | PekkaKana2_Switch_SD.zip |
+| [borisovinfra/Sakura-Switch](https://github.com/borisovinfra/Sakura-Switch) | 6 | v2.1.0 | 2026-10-16 | Sakura-Switch-PRO-v2.1.0-macOS-Intel.zip |
+| [brendongl/supermariowar-nx](https://github.com/brendongl/supermariowar-nx) | 2 | v1.0.0 | 2026-10-22 | SHA256SUMS.txt, smw.nro, SuperMarioWar-NX-v1.0.0-forwarder.nsp, SuperMarioWar-NX-v1.0.0.zip |
+| [cbreezy210/ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) | 11 | v.1.4.0 | 2026-08-26 | ACNH-Save-Editor-DBI-v1.4.0.zip, acnh_editor_v1.4.0.zip |
+| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 244 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |
+| [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) | 102 | v1.0.2 | 2026-10-27 | SwitchWaker-v1.0.2-switch-eur.zip, SwitchWaker-v1.0.2-switch-eur.zip.sha256, SwitchWaker-v1.0.2-switch.zip, SwitchWaker- |
+| [chiaki-ng/akira](https://github.com/chiaki-ng/akira) | ? | v0.6.5 | 2026-10-05 | akira-0.6.5.zip, akira-companion-darwin-arm64.zip, akira-companion-linux-amd64, akira-companion-windows-amd64.exe, akira |
+| [chiya695/TextReaderOverlay-NX-Revived](https://github.com/chiya695/TextReaderOverlay-NX-Revived) | 2 | v1.9.1 | 2026-08-08 | SHA256SUMS.txt, TextReaderOverlay-NX-1.9.1.zip |
+| [chuthree/nx-gamehide](https://github.com/chuthree/nx-gamehide) | 3 | v0.1.0 | 2026-10-13 | NX-GameHide-v0.1.0.zip |
+| [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 45 | 5.3 | 2026-10-03 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |
+| [danialonso/nx-control](https://github.com/danialonso/nx-control) | 0 | v0.2.5 | 2026-10-30 | NX-Control-0.2.5.zip |
+| [dannyboyjaros/switchclassof09](https://github.com/dannyboyjaros/switchclassof09) | 0 | v1.0.0 | 2026-11-08 | class.of.09.zip |
+| [dannyboyjaros/switchclassof09thereup](https://github.com/dannyboyjaros/switchclassof09thereup) | 0 | v1.0.0 | 2026-11-08 | switch_class09ru.zip |
+| [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |
+| [dpadninja/realdrift_nx](https://github.com/dpadninja/realdrift_nx) | 1 | v1.5.3 | 2026-11-04 | realdrift_nx-v1.5.3.zip |
+| [dvnvdx/NX-Tether](https://github.com/dvnvdx/NX-Tether) | 4 | v0.1.7 | 2026-10-28 | nx-tether-0.1.7.zip |
+| [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |
+| [hashcade/feth-overlay](https://github.com/hashcade/feth-overlay) | 0 | v0.4.1 | 2026-10-15 | feth-overlay.ovl |
+| [huntereb/awoo-installer](https://github.com/huntereb/awoo-installer) | ? | 1.3.6 | 2025-11-15 | Awoo-Installer.zip |
+| [iGlitch/Syobon-NX](https://github.com/iGlitch/Syobon-NX) | 0 | 1.0 | 2026-07-29 | syobon-nx.zip |
+| [incuryou/PiJava](https://github.com/incuryou/PiJava) | 10 | v0.2.114-keyui7-gpuf5-fit41-menu7 | 2026-11-02 | FIT41-RELEASE-NOTES-CN.md, J2me-vm-0.2.114-keyui7-gpuf5-fit41-menu7.nro, J2me-vm-0.2.114-keyui7-gpuf5-fit41-menu7.nsp, P |
+| [jorgebelmar/switch-zcci-compressor](https://github.com/jorgebelmar/switch-zcci-compressor) | 0 | v1.1.4 | 2026-07-23 | 3ds_to_zcci_compressor_v1.1.4.nro |
+| [jshsakura/oc-cookingfoil-client](https://github.com/jshsakura/oc-cookingfoil-client) | 0 | v0.5.1 | 2026-10-24 | cookingfoil-v0.5.1.zip, cookingfoil.nro |
+| [lozp1/07z](https://github.com/lozp1/07z) | 0 | v1.0.2 | 2026-10-13 | 07z-base-interfaz.zip, 07z-completo.zip, 07z-instalador.nsp, autorun-loader-ams1.11.2-5388824b.kip, autorun-loader-ams1. |
+| [m4l3vich/vkpcnx](https://github.com/m4l3vich/vkpcnx) | 2 | v1.1.0 | 2026-10-15 | vkpcnx-debug.nro, vkpcnx-switch-debug-symbols.zip, vkpcnx-switch-symbols.zip, vkpcnx.nro |
+| [maiaramon/cnx-installer-macos](https://github.com/maiaramon/cnx-installer-macos) | 2 | v1.4 | 2026-06-18 | CNX_Installer.app.zip |
+| [malinkin-s/destinia-nx](https://github.com/malinkin-s/destinia-nx) | 0 | v1.0.0 | 2026-10-25 | destinia-switch-1.0.0.zip, Destinia.0100D3571A000000.v0.nsp, Destinia.0100D3571A000000.v0.nsz, destinia.nro |
+| [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) | 57 | 46 | 2026-11-08 | PYXIS_SwitchAIO.zip |
+| [mlemiam/Vanillatmosphere](https://github.com/mlemiam/Vanillatmosphere) | 42 | 1.11.2 | 2026-10-13 | Vanillatmosphere.1.11.2.zip |
+| [nixentric/rpynx](https://github.com/nixentric/rpynx) | 8 | v0.1.0 | 2026-10-25 | ffmpeg-7.1.tar.xz, renpy-loader.nro, renpy-runtime.nro, rpynx-importer-macos-arm64.dmg, rpynx-importer-python.zip, rpynx |
+| [plv890/CorkDeck](https://github.com/plv890/CorkDeck) | 16 | v0.3e | 2026-10-11 | CorkDeck-0.3e.zip, SHA256SUMS.txt |
+| [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 11 | v1.1.1 | 2026-11-08 | 7th-Heaven-NX-1.1.1-linux-arm64.zip, 7th-Heaven-NX-1.1.1-linux-x64.zip, 7th-Heaven-NX-1.1.1-macos-arm64.zip, 7th-Heaven- |
+| [ppkantorski/Alchemist-Repos](https://github.com/ppkantorski/Alchemist-Repos) | 5 | 2026-04-23 | 2026-04-23 | cucholix_contents.zip, cucholix_pchtxts.zip, Fl4sh9174_pchtxts.zip, KeatonTheBot_pchtxts.zip, StevensND_pchtxts.zip, the |
+| [ppkantorski/Alchemist](https://github.com/ppkantorski/Alchemist) | 47 | v1.0.6 | 2026-04-23 | Alchemist.zip |
+| [ppkantorski/HOC-Toolkit](https://github.com/ppkantorski/HOC-Toolkit) | 24 | v2.0.7 | 2026-11-01 | hoc-toolkit.zip |
+| [ppkantorski/Memory-Kit](https://github.com/ppkantorski/Memory-Kit) | 28 | v1.0.2 | 2026-05-20 | Memory.Kit.zip |
+| [ppkantorski/UltraGB-Overlay](https://github.com/ppkantorski/UltraGB-Overlay) | 13 | v1.0.2 | 2026-07-13 | sdout.zip, ultragb.ovl |
+| [ppkantorski/libultrahand](https://github.com/ppkantorski/libultrahand) | 68 | v2.5.4 | 2026-11-09 | libultrahand.zip |
+| [rashevskyv/4ifir](https://github.com/rashevskyv/4ifir) | ? | 25.07.27.11 | 2025-07-27 | 4IFIR-Wizard-update-25.07.27.11.zip |
+| [realTimexo/Switch-Toolbox-2](https://github.com/realTimexo/Switch-Toolbox-2) | 1 | v2.1.3 | 2026-11-06 | SwitchToolbox2-2.1.3.zip |
+| [roccodev/xcnx-file-loader](https://github.com/roccodev/xcnx-file-loader) | 18 | 2.0.2 | 2026-07-30 | test-all.zip, xcnx-file-loader-torna.zip, xcnx-file-loader-xc2-jp.zip, xcnx-file-loader-xc2-ww.zip, xcnx-file-loader-xc3 |
+| [s3340326706-tech/deepstream-ns-qqmusic](https://github.com/s3340326706-tech/deepstream-ns-qqmusic) | 0 | v0.9.6 | 2026-10-21 | Deepstream_v0.9.6_Switch.zip |
+| [sakarie9/NX-ScreenUploader](https://github.com/sakarie9/NX-ScreenUploader) | 17 | v0.4.0 | 2026-10-14 | NX-ScreenUploader.zip |
+| [samedog/NX-Uploader](https://github.com/samedog/NX-Uploader) | 0 | 2.5.0 | 2026-10-05 | NXUploader.nro |
+| [samedog/NX-trex](https://github.com/samedog/NX-trex) | 0 | 2.0.0 | 2026-10-05 | NX-trex.nro |
+| [timschneeb/kdeconnect-nx](https://github.com/timschneeb/kdeconnect-nx) | 14 | v1.0.1 | 2026-06-09 | debug-symbols.zip, kdeconnect-nx.zip |
+| [tomvita/breeze-beta](https://github.com/tomvita/breeze-beta) | ? | beta108.4c | 2026-06-17 | Breeze.zip, version.txt |
+| [tomvita/nxcheatcode](https://github.com/tomvita/nxcheatcode) | ? | 092526 | 2026-09-25 | titles.zip, version.txt |
+| [xhu96/Switch7zip](https://github.com/xhu96/Switch7zip) | 0 | v0.9.11-pre | 2026-05-09 | Switch7zip.nro |
+| [ybx77/switch-cloud-sync](https://github.com/ybx77/switch-cloud-sync) | 1 | new | 2026-11-03 | switch-cloud-sync.nro |
+| [yukinsnow/Lite-Link](https://github.com/yukinsnow/Lite-Link) | 6 | v0.3.1 | 2026-10-26 | Lite-Link-v0.3.1-Icons.zip, Lite-Link-v0.3.1-macOS-experimental.zip, Lite-Link-v0.3.1-Switch.nro, Lite-Link-v0.3.1-Switc |
+| [yyoossk/Atmosphere-with-Hekate](https://github.com/yyoossk/Atmosphere-with-Hekate) | 16 | 2.0 | 2025-11-25 | Atmosphere-with-Hekate.zip |
+| [zJ3an/astro-nx](https://github.com/zJ3an/astro-nx) | 2 | v1.2.0 | 2025-11-15 | astro-nx-normal.v1.2.0.zip, astro-nx-vanilla.v1.2.0.zip |
+| [zofo007/NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) | 18 | v1.1.0 | 2026-10-30 | nfscarbon-1.1.0-src.zip, nfscarbon-1.1.0.zip, SHA256SUMS.txt |
+
+## Скрыты из fortheusers (опасные пути)
+
+- Hekate: hekate_ctcaer_6.5.4.bin (boot file in SD root)
+- SkyNX: SkyNX_Forwarder.nsp (boot file in SD root)
+- TKMM-NX: bootloader/ini/TKMM.ini (bootloader)
+- TegraExplorer: TegraExplorer.bin (boot file in SD root)
+- appstore: switch/appstore/.get/repos.json (package registry)
+- argon-nx: argon-nx.bin (boot file in SD root)
+- sys-ftpd: bootloader/ini/FTP_Server.ini (bootloader)
