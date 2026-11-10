@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-10T07:22:05Z",
+ "generated": "2026-11-10T19:47:46Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -2728,6 +2728,29 @@
    "first_seen": "2026-11-09"
   },
   {
+   "name": "ctr-nxwallet",
+   "title": "CTR-NXWallet",
+   "author": "TehFridge",
+   "version": "1.0.3",
+   "category": "tool",
+   "description": "",
+   "changelog": "## 01.12.2024 update\r\nfucked up one line of code, plz redownload.\r\n\r\n# yo. \r\nSo i've fixed support for Żappka QR Codes (you may want to re-add them in just in case)\r\n\r\n## Also there is a very new but also beta feature...\r\n# Custom Image Support!\r\n\r\nNow you can add images from a url (like the one that points you straight to the raw image)\r\n\r\nThe images dont scale correctly on the 3ds tho. (still workin on that)\r\nBut on the switch it shouldnt be a problem (unless u put a 4k pic on there or smt)",
+   "url": "https://github.com/tehfridge/ctr-nxwallet",
+   "repo": "tehfridge/ctr-nxwallet",
+   "updated": "2024-11-13",
+   "download_url": "https://github.com/TehFridge/CTR-NXWallet/releases/download/1.0.3/CTR-NXWallet.nro",
+   "download_type": "file",
+   "sha256": "c08169fb83ddcbd12591c09637d48f80363f7fba6794490adec6ed07df89b090",
+   "filesize": 9315535,
+   "extracted": 9315535,
+   "files": [
+    "U: switch/ctr-nxwallet/ctr-nxwallet.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ctr-nxwallet.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
+  },
+  {
    "name": "DarkTube",
    "title": "DarkTube",
    "author": "Ibnuard",
@@ -3275,21 +3298,68 @@
    "first_seen": "2026-11-09"
   },
   {
+   "name": "ModKitNX",
+   "title": "ModKitNX",
+   "author": "qret",
+   "version": "1.0.5",
+   "category": "game",
+   "description": "Nintendo Switch homebrew that makes games built for a newer firmware run on yours: unpacks ZBIC, swaps the game's sdk, adds a module that fills in missing functions and grants the needed permissions — one button, one button back. Also loads mods without LayeredFS.",
+   "changelog": "ModKitNX: on the page of a game that needs nothing, \"Install mod\" now appears only after you pick a mod, and the mods card no longer asks which mod to install when there are none.\n\n---\nsha256 (ModKitNX.nro): `e279e815677cf41aa402038f5053c87f53856633bb73f264248b164100cf488b`",
+   "url": "https://github.com/qret/modkitnx",
+   "repo": "qret/modkitnx",
+   "updated": "2026-11-10",
+   "download_url": "https://github.com/qret/ModKitNX/releases/download/v1.0.5/ModKitNX.nro",
+   "download_type": "file",
+   "sha256": "e279e815677cf41aa402038f5053c87f53856633bb73f264248b164100cf488b",
+   "filesize": 11108351,
+   "extracted": 11108351,
+   "files": [
+    "U: switch/ModKitNX/ModKitNX.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ModKitNX.jpg",
+   "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-10"
+  },
+  {
+   "name": "n1dus",
+   "title": "n1dus",
+   "author": "HyDE",
+   "version": "0.7",
+   "category": "tool",
+   "description": "",
+   "changelog": "Here's the compiled NRO which has to go to the Switch's SD card (sd:/switch/n1dus/n1dus.nro).\r\n\r\nIf a keys file is present, XCIs can be installed as well.\r\nIt will look for for keys.dat, keys.txt or prod.keys in '/', '/switch', or '/switch/n1dus' I recommend dumping all needed keys with Lockpick:\r\nhttps://github.com/shchmue/Lockpick/releases\r\n\r\nSince the original author abandoned the project this can be considered the final release.\r\n\r\n![Image of Yaktocat](https://raw.githubusercontent.com/lordelan/misc/master/screenshot_n1dus.png)",
+   "url": "https://github.com/lordelan/n1dus",
+   "repo": "lordelan/n1dus",
+   "updated": "2019-01-29",
+   "download_url": "https://github.com/lordelan/n1dus/releases/download/v0.7/n1dus.nro",
+   "download_type": "file",
+   "sha256": "fe62367eaae757c41c9c5a408303ed97e747cd9b39f39bbe923dea2c6ae26e02",
+   "filesize": 10090882,
+   "extracted": 10090882,
+   "files": [
+    "U: switch/n1dus/n1dus.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/n1dus.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
+  },
+  {
    "name": "Nexvyn-OS-NX",
    "title": "Nexvyn OS",
    "author": "sonerx7",
-   "version": "1.2.6",
+   "version": "1.3.0",
    "category": "game",
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
-   "changelog": "**What's new in 1.2.6**\n- Browser Canvas 2D is much more complete: linear and radial gradients, patterns, `clip()` with a `save()`/`restore()` stack, six composite operations, and affine `drawImage` with image smoothing\n- Also added: `setLineDash`, approximate shadows, `OffscreenCanvas` and `createImageBitmap`\n- Known gaps for now: text drawn with `fillText` is not yet in `getImageData`, `shadowBlur` is approximate, `drawImage` from an `<img>` element, `toDataURL` and conic gradients are not supported yet\n- More HTML5 features are coming in the next releases\n\n---\n**1.2.6:** tarayıcıda Canvas 2D genişledi (gradient, pattern, clip, composite, affine drawImage, OffscreenCanvas) · daha fazla HTML5 özelliği yolda.",
+   "changelog": "**What's new in 1.3.0**\n- Browser: WebGL 1 and 2, much fuller Canvas 2D (text, shadows, filters, PNG/JPEG export), Web Workers, IndexedDB, ES modules, WebAudio, Gamepad and Fullscreen APIs\n- Browser video: `<video>`, HLS and MediaSource, plus ClearKey encrypted media. DRM services (Netflix and similar) are not supported; YouTube is experimental\n- WebAssembly is included but off by default (turn it on with the `web.wasm` setting); desktop sites are now the default\n- The Browser uses less memory (background tabs are released, script bytecode is cached on the SD card), signs in to more sites (cookies, forms, password manager) and has had a security review\n- Native SDK 1.2 for native apps: window title and mode control, battery / dock / network state, OS dialogs and the OS keyboard; native apps no longer ask for trust on every launch. The script SDK stays 1.13, so every existing app runs unchanged\n- App Market: five ready emulator packages (mGBA, FCEUmm, Gambatte, Genesis Plus GX, Snes9x) with a shared gallery front end, and a new \"Runtimes & Libraries\" category. Bring your own games: no BIOS or games are included\n\n---\n**1.3.0:** tarayıcıda WebGL 1/2, tam Canvas 2D, Worker, IndexedDB, ES modülleri, video / HLS / MediaSource, ClearKey (DRM'li servisler yok, YouTube deneysel), WebAssembly varsayılan kapalı, masaüstü siteleri varsayılan, daha az bellek ve güvenlik düzeltmeleri · Native SDK 1.2 (pencere, pil / ağ, OS diyalogları ve klavyesi) · App Market'te beş emülatör paketi ve \"Çalışma Ortamları ve Kütüphaneler\" kategorisi.",
    "url": "https://github.com/sonerx7/nexvyn-os-nx",
    "repo": "sonerx7/nexvyn-os-nx",
    "updated": "2026-11-10",
-   "download_url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/download/v1.2.6/NexvynOS.nro",
+   "download_url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/download/v1.3.0/NexvynOS.nro",
    "download_type": "file",
-   "sha256": "f48c16d1038e122d9e65b56070ca84752b91bca639200b216c91fbd4b46e6656",
-   "filesize": 79345013,
-   "extracted": 79345013,
+   "sha256": "739d9a4aed63ade2dc6f17e6410c70c85ec1b6c2b3804209663829b82f8b871e",
+   "filesize": 80405125,
+   "extracted": 80405125,
    "files": [
     "U: switch/Nexvyn-OS-NX/Nexvyn-OS-NX.nro"
    ],
@@ -3323,6 +3393,29 @@
    "first_seen": "2026-11-09"
   },
   {
+   "name": "nsw-fetch",
+   "title": "NSW-Fetch",
+   "author": "@Kipi000",
+   "version": "main",
+   "category": "tool",
+   "description": "",
+   "changelog": "Added some lively colors to look nice.\r\nUpdated logo.",
+   "url": "https://github.com/kipi000/nsw-fetch",
+   "repo": "kipi000/nsw-fetch",
+   "updated": "2024-12-15",
+   "download_url": "https://github.com/Kipi000/NSW-Fetch/releases/download/main/NSW-Fetch.nro",
+   "download_type": "file",
+   "sha256": "fab55162b5a21a2442b3d7fd939171c1deeaeaa3c1328b13b3b6031f0401b67a",
+   "filesize": 777719,
+   "extracted": 777719,
+   "files": [
+    "U: switch/nsw-fetch/nsw-fetch.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nsw-fetch.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
+  },
+  {
    "name": "NX-Activity-Log",
    "title": "NX Activity Log",
    "author": "tallbl0nde",
@@ -3347,6 +3440,52 @@
    }
   },
   {
+   "name": "nx-archive-browser",
+   "title": "nx-archive-browser",
+   "author": "mklan",
+   "version": "0.1.3",
+   "category": "tool",
+   "description": "",
+   "changelog": "fix: Fix broken links for titles with special chars",
+   "url": "https://github.com/mklan/nx-archive-browser",
+   "repo": "mklan/nx-archive-browser",
+   "updated": "2024-04-28",
+   "download_url": "https://github.com/mklan/nx-archive-browser/releases/download/v0.1.3/nx-archive-browser.nro",
+   "download_type": "file",
+   "sha256": "92674271f5555bae2b37cb1d8f096eff5a994211b4bacf638fa608f62d582dcb",
+   "filesize": 5855975,
+   "extracted": 5855975,
+   "files": [
+    "U: switch/nx-archive-browser/nx-archive-browser.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-archive-browser.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
+  },
+  {
+   "name": "nx-deviceid-viewer",
+   "title": "NX DeviceID Viewer",
+   "author": "TotalJustice",
+   "version": "1.0",
+   "category": "tool",
+   "description": "",
+   "changelog": "Version 1.0:\r\n\r\n* Displays your device ID to the screen.\r\n* Option to dump to file.",
+   "url": "https://github.com/itotaljustice/nx-deviceid-viewer",
+   "repo": "itotaljustice/nx-deviceid-viewer",
+   "updated": "2019-12-15",
+   "download_url": "https://github.com/ITotalJustice/NX-DeviceID-Viewer/releases/download/v1.0/nx-deviceID.nro",
+   "download_type": "file",
+   "sha256": "e84272316d3fc4de2ef535a8aeb06ec239561a82baa006b5c89569b3a1352ce8",
+   "filesize": 280773,
+   "extracted": 280773,
+   "files": [
+    "U: switch/nx-deviceid-viewer/nx-deviceid-viewer.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-deviceid-viewer.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
+  },
+  {
    "name": "nx-fs-utf8",
    "title": "codecvt_test",
    "author": "codecvt",
@@ -3369,6 +3508,29 @@
    "license": "GPL-2.0",
    "auto": true,
    "first_seen": "2026-11-09"
+  },
+  {
+   "name": "nx-midi",
+   "title": "nx-midi",
+   "author": "whatdahopper-archive",
+   "version": "1.1",
+   "category": "tool",
+   "description": "",
+   "changelog": "This release changes some code to support libnx changes, as well as updating TML/TSF.\r\n\r\nWith the TML/TSF update, I have enforced a hardcoded max voices of 416, to prevent black MIDIs from stuttering.",
+   "url": "https://github.com/whatdahopper-archive/nx-midi",
+   "repo": "whatdahopper-archive/nx-midi",
+   "updated": "2020-12-24",
+   "download_url": "https://github.com/whatdahopper-archive/nx-midi/releases/download/v1.1/nx-midi.nro",
+   "download_type": "file",
+   "sha256": "be0c89a1a56ab5180dbe3d5b65e8fd7d5d8568fd883a7f2490f2c41314535708",
+   "filesize": 7059653,
+   "extracted": 7059653,
+   "files": [
+    "U: switch/nx-midi/nx-midi.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-midi.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
   },
   {
    "name": "nx-ovlloader",
@@ -3423,6 +3585,29 @@
    "first_seen": "2026-11-09"
   },
   {
+   "name": "nx-torrent-player-mod",
+   "title": "NX Torrent Player MOD",
+   "author": "dl3g0",
+   "version": "0.0.9.2",
+   "category": "tool",
+   "description": "",
+   "changelog": "# 🚀 NX Torrent Player MOD v0.0.9.2 — Release Notes\r\n\r\n¡Bienvenidos a la versión **v0.0.9.2** de **NX Torrent Player (MOD)** desarrollada por **dl3g0**!\r\n\r\nEsta versión introduce la **Traducción Integral al 100% de la Interfaz en Griego (Ελληνικά)**, **Soporte Nativo Completo para Subtítulos y Audio en Griego**, una **Ampliación del Límite de Subtítulos Online (de 40 a 120 pistas)** para evitar la exclusión de idiomas internacionales en títulos populares, y consolida todos los blindajes de estabilidad y mejoras introducidas recientemente.\r\n\r\n---\r\n\r\n## 🌟 Novedades en v0.0.9.2\r\n\r\n### 🇬🇷 1. Interfaz de Usuario 100% en Griego (Ελληνικά)\r\n* **7º Idioma Oficial del Sistema**:\r\n  * Ahora el **Griego (`Ελληνικά`)** se une a la lista de idiomas del sistema en `Ajustes -> Opciones -> Idioma`.\r\n  * **Traducción 100% Completa**: Más de 560 cadenas de texto traducidas rigurosamente con terminología nativa para abarcar la totalidad de la aplicación: menús, opciones, descargas offline, explorador local de archivos, biblioteca de Stremio, reproductor y diálogos del sistema.\r\n* **Indicadores Contextuales (Borealis Hints)**:\r\n  * Los botones de acción de la barra inferior y cuadros de diálogo (`Aceptar`, `Atrás`, `Salir`, etc.) ahora se presentan de forma nativa en griego (`Εντάξει`, `Πίσω`, `Έξοδος`, `Ακύρωση`, `Υποβολή`).\r\n* **Soporte Tipográfico Completo**:\r\n  * Renderizado nativo del alfabeto y acentos griegos (`ά, έ, ή, ί, ό, ύ, ώ`) en la interfaz de usuario mediante las fuentes compartidas del sistema Nintendo Switch y cobertura total en subtítulos con la tipografía universal `FreeSans`.\r\n\r\n---\r\n\r\n### 🌐 2. Soporte Nativo de Subtítulos y Audio en Griego + Expansión a 120 Pistas\r\n* **Integración del Idioma Griego en Ajustes**:\r\n  * Ahora es posible seleccionar **Griego (Greek)** en `Ajustes -> Reproducción -> Idioma de subtítulos` y `Idioma de audio`.\r\n  * **Auto-selección inteligente (*Sticky Subtitles*)**: Al reproducir cualquier contenido, el reproductor prioriza y activa autom",
+   "url": "https://github.com/dl3g0/nx-torrent-player-mod",
+   "repo": "dl3g0/nx-torrent-player-mod",
+   "updated": "2026-10-09",
+   "download_url": "https://github.com/dl3g0/NX-torrent-player-mod/releases/download/0.0.9.2/NX-torrent-player.nro",
+   "download_type": "file",
+   "sha256": "6ea3f9d63a2dd5887a1d9c0dc9e97d3506dd82f5c6ea1a060ae5ed7ecafa3a37",
+   "filesize": 32364091,
+   "extracted": 32364091,
+   "files": [
+    "U: switch/nx-torrent-player-mod/nx-torrent-player-mod.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-torrent-player-mod.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
+  },
+  {
    "name": "nx.js",
    "title": "nx.js",
    "author": "TooTallNate",
@@ -3444,6 +3629,29 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx.js.jpg",
    "auto": true,
    "first_seen": "2026-11-09"
+  },
+  {
+   "name": "nxpotify",
+   "title": "NXpotify",
+   "author": "etonedemid",
+   "version": "2.0.0.0",
+   "category": "tool",
+   "description": "",
+   "changelog": "Modernized backend, fixed #2, added basic theming, removed olv, fixed gamepad inputs.",
+   "url": "https://github.com/etonedemid/nxpotify",
+   "repo": "etonedemid/nxpotify",
+   "updated": "2026-06-18",
+   "download_url": "https://github.com/etonedemid/NXpotify/releases/download/v2.0.0.0/nxpotify.nro",
+   "download_type": "file",
+   "sha256": "8d6b7caaad24889477920ceb048bb15ce4f1812ac4695f6972d5f9d7b85152a9",
+   "filesize": 9952932,
+   "extracted": 9952932,
+   "files": [
+    "U: switch/nxpotify/nxpotify.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nxpotify.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
   },
   {
    "name": "ovlSysmodule",

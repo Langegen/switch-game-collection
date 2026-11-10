@@ -73,11 +73,13 @@
 | [atmosphere-nx/atmosphere](https://github.com/atmosphere-nx/atmosphere) | ? | 1.12.1 | 2026-10-16 | atmosphere-1.12.1-master-6b0c077b4+hbl-2.4.5+hbmenu-3.6.1.zip, fusee.bin |
 | [azarucha/sys-airplay](https://github.com/azarucha/sys-airplay) | 0 | v0.1.0 | 2026-10-12 | sys-airplay.zip |
 | [bakonpancakz/switch-melody](https://github.com/bakonpancakz/switch-melody) | 0 | 1.0.0 | 2026-11-06 | release.zip |
+| [bernardogiordano/nx-spa](https://github.com/bernardogiordano/nx-spa) | ? | 1.0 | 2023-08-13 | nx-spa_angular.nro, nx-spa_vue.nro |
 | [biuspoly/pekka-kana-2-switch](https://github.com/biuspoly/pekka-kana-2-switch) | 0 | v1.0 | 2026-10-28 | PekkaKana2_Switch_SD.zip |
 | [borisovinfra/Sakura-Switch](https://github.com/borisovinfra/Sakura-Switch) | 6 | v2.1.0 | 2026-10-16 | Sakura-Switch-PRO-v2.1.0-macOS-Intel.zip |
 | [brendongl/supermariowar-nx](https://github.com/brendongl/supermariowar-nx) | 2 | v1.0.0 | 2026-10-22 | SHA256SUMS.txt, smw.nro, SuperMarioWar-NX-v1.0.0-forwarder.nsp, SuperMarioWar-NX-v1.0.0.zip |
+| [catcheritgf/nx-venom](https://github.com/catcheritgf/nx-venom) | ? | 15.0.0 | 2026-10-17 | NXVenom.zip |
 | [cbreezy210/ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) | 11 | v.1.4.0 | 2026-08-26 | ACNH-Save-Editor-DBI-v1.4.0.zip, acnh_editor_v1.4.0.zip |
-| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 247 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |
+| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 249 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |
 | [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) | 102 | v1.0.2 | 2026-10-27 | SwitchWaker-v1.0.2-switch-eur.zip, SwitchWaker-v1.0.2-switch-eur.zip.sha256, SwitchWaker-v1.0.2-switch.zip, SwitchWaker- |
 | [chiaki-ng/akira](https://github.com/chiaki-ng/akira) | ? | v0.6.5 | 2026-10-05 | akira-0.6.5.zip, akira-companion-darwin-arm64.zip, akira-companion-linux-amd64, akira-companion-windows-amd64.exe, akira |
 | [chiya695/TextReaderOverlay-NX-Revived](https://github.com/chiya695/TextReaderOverlay-NX-Revived) | 2 | v1.9.1 | 2026-08-08 | SHA256SUMS.txt, TextReaderOverlay-NX-1.9.1.zip |
@@ -87,17 +89,21 @@
 | [danialonso/nx-control](https://github.com/danialonso/nx-control) | 0 | v0.2.5 | 2026-10-30 | NX-Control-0.2.5.zip |
 | [dannyboyjaros/switchclassof09](https://github.com/dannyboyjaros/switchclassof09) | 0 | v1.0.0 | 2026-11-08 | class.of.09.zip |
 | [dannyboyjaros/switchclassof09thereup](https://github.com/dannyboyjaros/switchclassof09thereup) | 0 | v1.0.1 | 2026-11-10 | class.of.09.zip |
+| [darkxex/nxmpforme](https://github.com/darkxex/nxmpforme) | ? | 0.1.2 | 2022-02-05 | nxmp.zip |
 | [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |
 | [devkitPro/3ds-hbmenu](https://github.com/devkitPro/3ds-hbmenu) | ? | v2.4.4 | 2026-11-01 | 3ds-hbmenu-v2.4.4.zip |
 | [dpadninja/realdrift_nx](https://github.com/dpadninja/realdrift_nx) | 1 | v1.5.3 | 2026-11-04 | realdrift_nx-v1.5.3.zip |
 | [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | ? | v2.7.6 | 2026-09-19 | sftpgo-2.7.6-1.aarch64.rpm, sftpgo-2.7.6-1.armv7hl.rpm, sftpgo-2.7.6-1.ppc64le.rpm, sftpgo-2.7.6-1.x86_64.rpm, sftpgo_2. |
+| [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) | ? | 4.3 | 2025-02-22 | Duino-Coin_4.3_linux.zip, Duino-Coin_4.3_windows.zip |
 | [dvnvdx/NX-Tether](https://github.com/dvnvdx/NX-Tether) | 4 | v0.1.7 | 2026-10-28 | nx-tether-0.1.7.zip |
 | [exelix11/dvr-patches](https://github.com/exelix11/dvr-patches) | ? | fw-23.0.1 | 2026-10-11 | dvr-patches.zip |
+| [f-l-a/nxupdatetracker](https://github.com/f-l-a/nxupdatetracker) | ? | v2.0 | 2023-10-10 | NXUpdateTracker.html, NXUpdateTracker.zip |
 | [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) | ? | v2.3.2 | 2023-03-23 | appstore.nro, appstore.rpx, appstore.wuhb, switch-extracttosd.zip, wiiu-extracttosd.zip |
 | [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |
 | [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |
 | [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |
 | [hashcade/feth-overlay](https://github.com/hashcade/feth-overlay) | 0 | v0.4.1 | 2026-10-15 | feth-overlay.ovl |
+| [hotshotz79/nx-romget](https://github.com/hotshotz79/nx-romget) | ? | 0.1 | 2020-04-20 | main.py, NX-RomGet.zip |
 | [huntereb/awoo-installer](https://github.com/huntereb/awoo-installer) | ? | 1.3.6 | 2025-11-15 | Awoo-Installer.zip |
 | [iGlitch/Syobon-NX](https://github.com/iGlitch/Syobon-NX) | 0 | 1.0 | 2026-07-29 | syobon-nx.zip |
 | [incuryou/PiJava](https://github.com/incuryou/PiJava) | 10 | v0.2.114-keyui7-gpuf5-fit41-menu7 | 2026-11-02 | FIT41-RELEASE-NOTES-CN.md, J2me-vm-0.2.114-keyui7-gpuf5-fit41-menu7.nro, J2me-vm-0.2.114-keyui7-gpuf5-fit41-menu7.nsp, P |
@@ -115,6 +121,7 @@
 | [morce3232/dbipatcher](https://github.com/morce3232/dbipatcher) | ? | v845 | 2025-11-28 | 824.en.nro, 828.en.nro, 831.en.nro, 839.en.nro, 842.en.nro, 844.en.nro, 845.en.nro |
 | [nicoboss/nsz](https://github.com/nicoboss/nsz) | ? | 5.0.0 | 2026-08-02 | nsz-cli-linux-arm64, nsz-cli-linux-x64, nsz-cli-macos-arm64, nsz-cli-windows-arm64.exe, nsz-cli-windows-x64.exe, nsz-gui |
 | [nixentric/rpynx](https://github.com/nixentric/rpynx) | 8 | v0.1.0 | 2026-10-25 | ffmpeg-7.1.tar.xz, renpy-loader.nro, renpy-runtime.nro, rpynx-importer-macos-arm64.dmg, rpynx-importer-python.zip, rpynx |
+| [nlohmann/json](https://github.com/nlohmann/json) | ? | v3.12.0 | 2025-04-11 | include.zip, include.zip.asc, json.hpp, json.hpp.asc, json.tar.xz, json.tar.xz.asc, json_fwd.hpp, json_fwd.hpp.asc |
 | [plv890/CorkDeck](https://github.com/plv890/CorkDeck) | 16 | v0.3e | 2026-10-11 | CorkDeck-0.3e.zip, SHA256SUMS.txt |
 | [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 11 | v1.1.2 | 2026-11-10 | 7th-Heaven-NX-1.1.2-linux-arm64.zip, 7th-Heaven-NX-1.1.2-linux-x64.zip, 7th-Heaven-NX-1.1.2-macos-arm64.zip, 7th-Heaven- |
 | [ppkantorski/Alchemist-Repos](https://github.com/ppkantorski/Alchemist-Repos) | 5 | 2026-04-23 | 2026-04-23 | cucholix_contents.zip, cucholix_pchtxts.zip, Fl4sh9174_pchtxts.zip, KeatonTheBot_pchtxts.zip, StevensND_pchtxts.zip, the |
@@ -123,7 +130,6 @@
 | [ppkantorski/Memory-Kit](https://github.com/ppkantorski/Memory-Kit) | 28 | v1.0.2 | 2026-05-20 | Memory.Kit.zip |
 | [ppkantorski/UltraGB-Overlay](https://github.com/ppkantorski/UltraGB-Overlay) | 13 | v1.0.2 | 2026-07-13 | sdout.zip, ultragb.ovl |
 | [ppkantorski/libultrahand](https://github.com/ppkantorski/libultrahand) | 68 | v2.5.4 | 2026-11-09 | libultrahand.zip |
-| [qret/ModKitNX](https://github.com/qret/ModKitNX) | 0 | v1.0.2 | 2026-11-09 | ModKitNX.nro |
 | [rajkosto/nx-hbloader](https://github.com/rajkosto/nx-hbloader) | ? | v1.1 | 2018-07-30 | nx-hbloader_with_debug.zip |
 | [rashevskyv/4ifir](https://github.com/rashevskyv/4ifir) | ? | 25.07.27.11 | 2025-07-27 | 4IFIR-Wizard-update-25.07.27.11.zip |
 | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) | ? | 912ru | 2026-09-18 | dbi.config, DBI.nro, dbibackend-qt.exe, dbibackend.exe, dbibackend.tar.xz, latest.zip |
@@ -151,6 +157,7 @@
 | [yukinsnow/Lite-Link](https://github.com/yukinsnow/Lite-Link) | 6 | v0.3.1 | 2026-10-26 | Lite-Link-v0.3.1-Icons.zip, Lite-Link-v0.3.1-macOS-experimental.zip, Lite-Link-v0.3.1-Switch.nro, Lite-Link-v0.3.1-Switc |
 | [yyoossk/Atmosphere-with-Hekate](https://github.com/yyoossk/Atmosphere-with-Hekate) | 16 | 2.0 | 2025-11-25 | Atmosphere-with-Hekate.zip |
 | [zJ3an/astro-nx](https://github.com/zJ3an/astro-nx) | 2 | v1.2.0 | 2025-11-15 | astro-nx-normal.v1.2.0.zip, astro-nx-vanilla.v1.2.0.zip |
+| [zhongyang219/musicplayer2](https://github.com/zhongyang219/musicplayer2) | ? | V2.78 | 2025-12-27 | MusicPlayer2_V2.78_x64.zip, MusicPlayer2_V2.78_x86.zip |
 | [zofo007/NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) | 18 | v1.1.0 | 2026-10-30 | nfscarbon-1.1.0-src.zip, nfscarbon-1.1.0.zip, SHA256SUMS.txt |
 
 ## Скрыты из fortheusers (опасные пути)
