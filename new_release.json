@@ -1,4 +1,7 @@
 [
+  {"title": "Fight Crab", "title_id": "01006980127F0000", "metacritic": 60.0},
+  {"title": "Grizzy and the Lemmings – Crazy Party", "title_id": "0100DFA027504000", "metacritic": null},
+  {"title": "180 отомэ: Code Realize, Collar X Malice, Nightshade, Bustafellows 1-2, Taisho x Alice, Gakuen Club, Hashihime, Over Requiemz, Dream Daddy, Cupid Parasite, Piofiore, Nicole, Even if Tempest, Amnesia, Boyfriend Dungeon, Jack Jeanne, Norn9, Radiant Tale и др.", "title_id": "0100E8201DAF4000", "metacritic": 87.0},
   {"title": "K-Pop Rising Dream to Shine", "title_id": "0100C9302832C000", "metacritic": 82.0},
   {"title": "Graveyard Keeper II (2) + DLC", "title_id": "0100005027A18000", "metacritic": 69.0},
   {"title": "Alice Madness Returns (порт)", "title_id": "01006EF5FC842000", "metacritic": null},
@@ -20,10 +23,5 @@
   {"title": "Warrior Cats Clans of the Forest Feral Edition", "title_id": "01005D4028F1C000", "metacritic": null},
   {"title": "Hello Kitty Party Land", "title_id": "01001340271EC000", "metacritic": null},
   {"title": "Godzilla Destroy All Monsters Melee Remastered + DLC", "title_id": "0100A00026D70000", "metacritic": null},
-  {"title": "Look Outside", "title_id": "01004C80299B6000", "metacritic": null},
-  {"title": "The Witch's Bakery", "title_id": "0100BCB025968000", "metacritic": null},
-  {"title": "Urban Myth Dissolution Center", "title_id": "0100B2401D2A8000", "metacritic": 75.0},
-  {"title": "Gurei", "title_id": "010095702714A000", "metacritic": null},
-  {"title": "Zenonia", "title_id": "01006BE029808000", "metacritic": null},
-  {"title": "The Noexistencen of You and Me", "title_id": "0100C55026EF6000", "metacritic": null}
+  {"title": "Look Outside", "title_id": "01004C80299B6000", "metacritic": null}
 ]
