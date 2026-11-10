@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-09T22:26:02Z",
+ "generated": "2026-11-10T07:22:05Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -3088,6 +3088,29 @@
    "first_seen": "2026-11-09"
   },
   {
+   "name": "incognito",
+   "title": "Incognito",
+   "author": "blawar",
+   "version": "1.5",
+   "category": "tool",
+   "description": "",
+   "changelog": "Recompiled for HOS 9.0.0",
+   "url": "https://github.com/blawar/incognito",
+   "repo": "blawar/incognito",
+   "updated": "2019-09-15",
+   "download_url": "https://github.com/blawar/incognito/releases/download/1.5/incognito.nro",
+   "download_type": "file",
+   "sha256": "1d1ac12afb6c3e2ee6fe5b619a308ea06fc15e725cc16673aa5dc0a6823f6d79",
+   "filesize": 337125,
+   "extracted": 337125,
+   "files": [
+    "U: switch/incognito/incognito.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/incognito.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
+  },
+  {
    "name": "iptv-player",
    "title": "IPTV Player",
    "author": "muratgokce",
@@ -3112,6 +3135,29 @@
    "first_seen": "2026-11-09"
   },
   {
+   "name": "joy-con_utility",
+   "title": "Joy-Con Utility",
+   "author": "dx3m & Yoti",
+   "version": "1.0.1",
+   "category": "tool",
+   "description": "",
+   "changelog": "- Now you can build using modern SDK\r\n- Fixed some crashes while using app\r\n- Changed some strings here and there\r\n- Use Joy-Con SN as default file name",
+   "url": "https://github.com/yoti/joy-con_utility",
+   "repo": "yoti/joy-con_utility",
+   "updated": "2023-06-30",
+   "download_url": "https://github.com/Yoti/Joy-Con_Utility/releases/download/1.0.1/Joy-Con_Utility.nro",
+   "download_type": "file",
+   "sha256": "288107b15cb35cd6273c090e14a9c56050af73cee81fc8f37525c2577efb092b",
+   "filesize": 346309,
+   "extracted": 346309,
+   "files": [
+    "U: switch/joy-con_utility/joy-con_utility.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/joy-con_utility.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
+  },
+  {
    "name": "Kirikiroid2-NX",
    "title": "Kirikiroid2-NX",
    "author": "Erige005 (Kirikiroid2 by zeas2)",
@@ -3134,6 +3180,52 @@
    "license": "NOASSERTION",
    "auto": true,
    "first_seen": "2026-11-09"
+  },
+  {
+   "name": "LANHelper",
+   "title": "LANHelper",
+   "author": "matthew5pl.net",
+   "version": "0.1",
+   "category": "tool",
+   "description": "",
+   "changelog": "First release!",
+   "url": "https://github.com/matteofo/lanhelper",
+   "repo": "matteofo/lanhelper",
+   "updated": "2022-09-14",
+   "download_url": "https://github.com/matteofo/LANHelper/releases/download/0.1/lanhelper.nro",
+   "download_type": "file",
+   "sha256": "7e60808b622c6bec2c5d24994b9470c42ba9c9ca1ebb4fb3e0346543c08d8f5a",
+   "filesize": 281738,
+   "extracted": 281738,
+   "files": [
+    "U: switch/LANHelper/LANHelper.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/LANHelper.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
+  },
+  {
+   "name": "ligh_is_green",
+   "title": "Light is Green",
+   "author": "elzerdodata",
+   "version": "1.0.6",
+   "category": "tool",
+   "description": "",
+   "changelog": "# Light is Green v1.0.6\n\n> A clean, immersive redesign of the Cloud Library grid.\n\n## 🌟 What's New\n\n* **Clean Grid Interface (5x2)**: The game library has been redesigned to feature larger, cleaner cover art.\n* **No Text Clutter**: Removed the game titles from underneath each cover for a sleeker look. The full title is still prominently displayed in the top panel when a game is focused.\n* **Pure Artwork**: Dark bands and ambient padding around covers have been removed. The UI now prioritizes the native square Xbox BoxArt for a premium, edge-to-edge feel.\n* **Fresh Cache**: The image cache system has been updated. It will cleanly fetch the new square covers instead of reusing the old vertical ones.\n* **Full Navigation Kept**: Despite the visual overhaul, all core features—sidebar navigation, touch controls, focus memory, and pagination—remain fully intact.\n\n![Clean Grid Interface Showcase](https://raw.githubusercontent.com/elzerdodata/LIGH_IS_GREEN/main/docs/showcase_v1.0.6.png)\n\n---\n\n# Light is Green v1.0.6 (Español)\n\n> Un rediseño visual limpio e inmersivo para la biblioteca de la nube.\n\n## 🌟 Novedades\n\n* **Nueva Grilla Limpia (5x2)**: La biblioteca de juegos ha sido rediseñada para mostrar carátulas mucho más grandes y detalladas.\n* **Sin Texto Inferior**: Se eliminaron los nombres debajo de cada juego para un aspecto más elegante. El título completo de cada juego continúa apareciendo claramente en el panel superior al seleccionarlo.\n* **Arte Puro**: Se han eliminado las bandas oscuras y el relleno ambiental alrededor de las carátulas. Ahora el sistema prioriza el BoxArt cuadrado nativo de Xbox para una experiencia premium y sin bordes.\n* **Nueva Caché**: El sistema de caché de imágenes fue actualizado. Ya no reutilización las antiguas portadas verticales y descargará limpiamente las nuevas versiones cuadradas.\n* **Navegación Intacta**: A pesar del enorme cambio visual, se ha conservado a la perfección la navegación lateral, los controles táctiles, el sistema de f",
+   "url": "https://github.com/elzerdodata/ligh_is_green",
+   "repo": "elzerdodata/ligh_is_green",
+   "updated": "2026-08-12",
+   "download_url": "https://github.com/elzerdodata/LIGH_IS_GREEN/releases/download/v1.0.6/Light_is_Green-v1.0.6.nro",
+   "download_type": "file",
+   "sha256": "6291b618440e96edf0535a3b3d03bf4b5ad9a5f83a4c6dd76d270232610a73d2",
+   "filesize": 24291817,
+   "extracted": 24291817,
+   "files": [
+    "U: switch/ligh_is_green/ligh_is_green.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ligh_is_green.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
   },
   {
    "name": "mc3_nx",
@@ -3186,18 +3278,18 @@
    "name": "Nexvyn-OS-NX",
    "title": "Nexvyn OS",
    "author": "sonerx7",
-   "version": "1.2.3",
+   "version": "1.2.6",
    "category": "game",
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
-   "changelog": "**What's new in 1.2.3**\r\n- New themes: Classic (a 1990s desktop look), Keypad and Pocket (phone-era looks); every theme now comes with its own icon set, and Settings can lock the icons so a theme switch keeps your choice\r\n- Classic and Keypad use the normal UI font; the pixel font is an option in Settings > Appearance > Customize (off by default)\r\n- Redesigned App Market: a sidebar on every tab, a density switch, Ports and Emulators categories, filters and sorting, and extra store fields (kind, features, players, theme style) shown on the detail page\r\n- BlockCraft: fixed a stack corruption in the voxel worker thread that could crash a world on open\r\n- Small fixes: recommended apps now show a clear offline message, the App Market no longer stalls on a slow connection, deep links open the right detail page, and two apps whose names differ only in letter case no longer clash\r\n\r\n**For app makers:** the store metadata fields `kind`, `features`, `players` and `themeStyle` are documented in the SDK kit and AI prompts. No SDK API change; apps made for SDK 1.0 to 1.12 run unchanged.\r\n\r\n---\r\n**1.2.3:** yeni temalar (Classic, Keypad, Pocket) ve tema başına simge setleri · yeniden düzenlenen App Market (yan menü, filtreler, sıralama, Ports ve Emulators) · BlockCraft çökme düzeltmesi · küçük düzeltmeler.",
+   "changelog": "**What's new in 1.2.6**\n- Browser Canvas 2D is much more complete: linear and radial gradients, patterns, `clip()` with a `save()`/`restore()` stack, six composite operations, and affine `drawImage` with image smoothing\n- Also added: `setLineDash`, approximate shadows, `OffscreenCanvas` and `createImageBitmap`\n- Known gaps for now: text drawn with `fillText` is not yet in `getImageData`, `shadowBlur` is approximate, `drawImage` from an `<img>` element, `toDataURL` and conic gradients are not supported yet\n- More HTML5 features are coming in the next releases\n\n---\n**1.2.6:** tarayıcıda Canvas 2D genişledi (gradient, pattern, clip, composite, affine drawImage, OffscreenCanvas) · daha fazla HTML5 özelliği yolda.",
    "url": "https://github.com/sonerx7/nexvyn-os-nx",
    "repo": "sonerx7/nexvyn-os-nx",
-   "updated": "2026-11-09",
-   "download_url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/download/v1.2.3/NexvynOS.nro",
+   "updated": "2026-11-10",
+   "download_url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/download/v1.2.6/NexvynOS.nro",
    "download_type": "file",
-   "sha256": "64afd22ec46a0c2572de2a8cd7d78f058ec1a24ab082a06298cfd51d35a4887c",
-   "filesize": 79361781,
-   "extracted": 79361781,
+   "sha256": "f48c16d1038e122d9e65b56070ca84752b91bca639200b216c91fbd4b46e6656",
+   "filesize": 79345013,
+   "extracted": 79345013,
    "files": [
     "U: switch/Nexvyn-OS-NX/Nexvyn-OS-NX.nro"
    ],
@@ -3399,6 +3491,29 @@
    "license": "GPL-3.0",
    "auto": true,
    "first_seen": "2026-11-09"
+  },
+  {
+   "name": "stardust-toolkit",
+   "title": "StarDust-Toolkit",
+   "author": "Kronos2308",
+   "version": "10.4.3",
+   "category": "tool",
+   "description": "",
+   "changelog": "****",
+   "url": "https://github.com/stardustcfw/stardust-toolkit",
+   "repo": "stardustcfw/stardust-toolkit",
+   "updated": "2026-01-31",
+   "download_url": "https://github.com/StarDustCFW/StarDust-Toolkit/releases/download/10.4.3/StarDust.nro",
+   "download_type": "file",
+   "sha256": "c625b60cda4df6d2af752fe72ab778eff23b21587e768b5014bbe8fb68056ad6",
+   "filesize": 17107608,
+   "extracted": 17107608,
+   "files": [
+    "U: switch/stardust-toolkit/stardust-toolkit.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/stardust-toolkit.jpg",
+   "auto": true,
+   "first_seen": "2026-11-10"
   },
   {
    "name": "StreamFin",

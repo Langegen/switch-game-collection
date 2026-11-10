@@ -1,6 +1,6 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-09. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-10. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
@@ -51,7 +51,7 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.5.4 | 2026-11-09 | SHA256SUMS.txt, switch-online-0.5.4-hats.zip, switch-online-0.5.4-sd.zip, switch-online-0.5.4-sdk-sources.tar |
+| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.5.7 | 2026-11-10 | SHA256SUMS.txt, switch-online-0.5.7-hats.zip, switch-online-0.5.7-sd.zip, switch-online-0.5.7-sdk-sources.tar |
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 23 | v1.0.9 | 2026-11-05 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 3.0.0 | 2025-11-30 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
@@ -68,6 +68,7 @@
 | [aarvsn/hl2-nx](https://github.com/aarvsn/hl2-nx) | 0 | v1.1.0 | 2026-07-29 | hl2_nx-v1.1.0.zip, hl2_nx.nro |
 | [alexislours/tomo_photofix](https://github.com/alexislours/tomo_photofix) | 1 | v1.1.1 | 2026-06-03 | tomo_photofix-emulator-v1.1.1.zip, tomo_photofix-v1.1.1.zip |
 | [alexislours/tomo_starterfree](https://github.com/alexislours/tomo_starterfree) | 0 | v1.1.0 | 2026-06-05 | tomo_starterfree-strict-v1.1.0.zip, tomo_starterfree-v1.1.0.zip |
+| [anoviis/joyvibe](https://github.com/anoviis/joyvibe) | ? | 1.0.0 | 2026-05-19 | joyvibe.zip |
 | [aoihera/ChargeCap](https://github.com/aoihera/ChargeCap) | 6 | 1.1.2 | 2026-10-04 | ChargeCap.zip |
 | [atmosphere-nx/atmosphere](https://github.com/atmosphere-nx/atmosphere) | ? | 1.12.1 | 2026-10-16 | atmosphere-1.12.1-master-6b0c077b4+hbl-2.4.5+hbmenu-3.6.1.zip, fusee.bin |
 | [azarucha/sys-airplay](https://github.com/azarucha/sys-airplay) | 0 | v0.1.0 | 2026-10-12 | sys-airplay.zip |
@@ -76,15 +77,16 @@
 | [borisovinfra/Sakura-Switch](https://github.com/borisovinfra/Sakura-Switch) | 6 | v2.1.0 | 2026-10-16 | Sakura-Switch-PRO-v2.1.0-macOS-Intel.zip |
 | [brendongl/supermariowar-nx](https://github.com/brendongl/supermariowar-nx) | 2 | v1.0.0 | 2026-10-22 | SHA256SUMS.txt, smw.nro, SuperMarioWar-NX-v1.0.0-forwarder.nsp, SuperMarioWar-NX-v1.0.0.zip |
 | [cbreezy210/ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) | 11 | v.1.4.0 | 2026-08-26 | ACNH-Save-Editor-DBI-v1.4.0.zip, acnh_editor_v1.4.0.zip |
-| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 246 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |
+| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 247 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |
 | [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) | 102 | v1.0.2 | 2026-10-27 | SwitchWaker-v1.0.2-switch-eur.zip, SwitchWaker-v1.0.2-switch-eur.zip.sha256, SwitchWaker-v1.0.2-switch.zip, SwitchWaker- |
 | [chiaki-ng/akira](https://github.com/chiaki-ng/akira) | ? | v0.6.5 | 2026-10-05 | akira-0.6.5.zip, akira-companion-darwin-arm64.zip, akira-companion-linux-amd64, akira-companion-windows-amd64.exe, akira |
 | [chiya695/TextReaderOverlay-NX-Revived](https://github.com/chiya695/TextReaderOverlay-NX-Revived) | 2 | v1.9.1 | 2026-08-08 | SHA256SUMS.txt, TextReaderOverlay-NX-1.9.1.zip |
 | [chuthree/nx-gamehide](https://github.com/chuthree/nx-gamehide) | 3 | v0.1.0 | 2026-10-13 | NX-GameHide-v0.1.0.zip |
+| [cid2mizard/mikmod-music-visualizer](https://github.com/cid2mizard/mikmod-music-visualizer) | ? | 1.2.1 | 2022-05-17 | MMMV.zip |
 | [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 45 | 5.3 | 2026-10-03 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |
 | [danialonso/nx-control](https://github.com/danialonso/nx-control) | 0 | v0.2.5 | 2026-10-30 | NX-Control-0.2.5.zip |
 | [dannyboyjaros/switchclassof09](https://github.com/dannyboyjaros/switchclassof09) | 0 | v1.0.0 | 2026-11-08 | class.of.09.zip |
-| [dannyboyjaros/switchclassof09thereup](https://github.com/dannyboyjaros/switchclassof09thereup) | 0 | v1.0.0 | 2026-11-08 | switch_class09ru.zip |
+| [dannyboyjaros/switchclassof09thereup](https://github.com/dannyboyjaros/switchclassof09thereup) | 0 | v1.0.1 | 2026-11-10 | class.of.09.zip |
 | [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |
 | [devkitPro/3ds-hbmenu](https://github.com/devkitPro/3ds-hbmenu) | ? | v2.4.4 | 2026-11-01 | 3ds-hbmenu-v2.4.4.zip |
 | [dpadninja/realdrift_nx](https://github.com/dpadninja/realdrift_nx) | 1 | v1.5.3 | 2026-11-04 | realdrift_nx-v1.5.3.zip |
@@ -114,7 +116,7 @@
 | [nicoboss/nsz](https://github.com/nicoboss/nsz) | ? | 5.0.0 | 2026-08-02 | nsz-cli-linux-arm64, nsz-cli-linux-x64, nsz-cli-macos-arm64, nsz-cli-windows-arm64.exe, nsz-cli-windows-x64.exe, nsz-gui |
 | [nixentric/rpynx](https://github.com/nixentric/rpynx) | 8 | v0.1.0 | 2026-10-25 | ffmpeg-7.1.tar.xz, renpy-loader.nro, renpy-runtime.nro, rpynx-importer-macos-arm64.dmg, rpynx-importer-python.zip, rpynx |
 | [plv890/CorkDeck](https://github.com/plv890/CorkDeck) | 16 | v0.3e | 2026-10-11 | CorkDeck-0.3e.zip, SHA256SUMS.txt |
-| [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 11 | v1.1.1 | 2026-11-08 | 7th-Heaven-NX-1.1.1-linux-arm64.zip, 7th-Heaven-NX-1.1.1-linux-x64.zip, 7th-Heaven-NX-1.1.1-macos-arm64.zip, 7th-Heaven- |
+| [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 11 | v1.1.2 | 2026-11-10 | 7th-Heaven-NX-1.1.2-linux-arm64.zip, 7th-Heaven-NX-1.1.2-linux-x64.zip, 7th-Heaven-NX-1.1.2-macos-arm64.zip, 7th-Heaven- |
 | [ppkantorski/Alchemist-Repos](https://github.com/ppkantorski/Alchemist-Repos) | 5 | 2026-04-23 | 2026-04-23 | cucholix_contents.zip, cucholix_pchtxts.zip, Fl4sh9174_pchtxts.zip, KeatonTheBot_pchtxts.zip, StevensND_pchtxts.zip, the |
 | [ppkantorski/Alchemist](https://github.com/ppkantorski/Alchemist) | 47 | v1.0.6 | 2026-04-23 | Alchemist.zip |
 | [ppkantorski/HOC-Toolkit](https://github.com/ppkantorski/HOC-Toolkit) | 24 | v2.0.7 | 2026-11-01 | hoc-toolkit.zip |
@@ -127,10 +129,13 @@
 | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) | ? | 912ru | 2026-09-18 | dbi.config, DBI.nro, dbibackend-qt.exe, dbibackend.exe, dbibackend.tar.xz, latest.zip |
 | [realTimexo/Switch-Toolbox-2](https://github.com/realTimexo/Switch-Toolbox-2) | 1 | v2.1.3 | 2026-11-06 | SwitchToolbox2-2.1.3.zip |
 | [roccodev/xcnx-file-loader](https://github.com/roccodev/xcnx-file-loader) | 18 | 2.0.2 | 2026-07-30 | test-all.zip, xcnx-file-loader-torna.zip, xcnx-file-loader-xc2-jp.zip, xcnx-file-loader-xc2-ww.zip, xcnx-file-loader-xc3 |
+| [rock88/moonlight-libretro](https://github.com/rock88/moonlight-libretro) | ? | 1.0.3 | 2020-05-15 | moonlight_libretro.zip, moonlight_libretro_latest_ffmpeg.zip |
 | [s3340326706-tech/deepstream-ns-qqmusic](https://github.com/s3340326706-tech/deepstream-ns-qqmusic) | 0 | v0.9.6 | 2026-10-21 | Deepstream_v0.9.6_Switch.zip |
 | [sakarie9/NX-ScreenUploader](https://github.com/sakarie9/NX-ScreenUploader) | 17 | v0.4.0 | 2026-10-14 | NX-ScreenUploader.zip |
 | [samedog/NX-Uploader](https://github.com/samedog/NX-Uploader) | 0 | 2.5.0 | 2026-10-05 | NXUploader.nro |
 | [samedog/NX-trex](https://github.com/samedog/NX-trex) | 0 | 2.0.0 | 2026-10-05 | NX-trex.nro |
+| [sciresm/hactool](https://github.com/sciresm/hactool) | ? | 1.4.0 | 2020-06-02 | hactool-1.4.0-win.zip |
+| [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) | ? | v1.25.1 | 2026-04-08 | ldn_mitm_v1.25.1.zip |
 | [sthetix/fusecheck](https://github.com/sthetix/fusecheck) | ? | 1.0.5 | 2026-09-27 | FuseCheck-1.0.5.zip |
 | [sthetix/lockpick_rcm_pro](https://github.com/sthetix/lockpick_rcm_pro) | ? | 2.2.0 | 2026-09-17 | Lockpick_RCM_Pro-2.2.0.zip |
 | [storm21ch/emunandswitcher](https://github.com/storm21ch/emunandswitcher) | ? | 3.80_FWD | 2024-11-18 | Emunandswitcher.3.80.SD.Files.zip |
