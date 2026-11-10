@@ -1,5 +1,65 @@
 [
     {
+        "title": "Fight Crab [NSP][ENG]",
+        "size": "748.6 MB",
+        "magnet": "magnet:?xt=urn:btih:DD7F697C273E3406C463029B1547211A14A04725&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6935751",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6935751",
+        "year": "2020",
+        "genre": "Fighting",
+        "developer": "Calappa Games",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Английский [ENG]",
+        "voice_lang": "Английская",
+        "performance": "Да (на 23.0.1, Atmosphere 1.12.0)",
+        "multiplayer": "2х",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6935751.jpg",
+        "screenshots": [
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/9fe130732230508a95d299c994677bec3c9986a35858d4d2f43badc12ba163b0.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/fabd5026a94da1eaec506dd798d201bba7b6b3f84c7abc94d51f974dac3223bf.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/8217c7302a81f8d4e7678e66e10d6162944abc02df1e81eb988287a9387034ff.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/f2f76fcc973631ecbe80dc0697c7b6d5f0103a66b9f9c2716629c99687faa732.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/e49b0a2755667c781e3bda458a8a3ad619c39cf5883fa98eb37be8c699eea78a.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/81036390d80900b95bb901e4268bc175e70bd082c7a595feb08b2c2c9220aa9c.jpg&output=jpg"
+        ],
+        "description": "Fight Crab is an over-the-top physics-based, 3D action battle game that combines giant crustaceans, insane weaponry, and intense claw-to-claw combat into one absurdly hilarious, must-play game.\n\nYou are a crab. Embark on a world tour of devastation, flipping over as many crabs as possible in a quest to be crowned lord of the crustaceans!\n\nFeatures:\n• Claw through 7 Tutorial stages and a Campaign Mode with 34 stages spread out across 7 chapters\n• 23 types of playable crab, 48 different weapons, and 11 unique battle arenas\n• A variety of matchmaking options including 1 vs. 1, 2 vs. 2, and both offline and online co-op and versus battle modes\n• Unlock special Skills like the fabled Kanihameha, the devastating Crab Copter, and more\n• Level up your crab, recruit new crabs, and purchase deadly new weapons – build the ultimate crab warrior\n• Use the Nintendo Switch Joy-Con™ motion controls to freely manipulate limbs to punch, grab, and flip your way to victory\n• Use Photo Mode to capture, share, and immortalize epic confrontations and intense battles",
+        "title_id": "01006980127F0000",
+        "version": "1.2.3",
+        "update_version": 524288,
+        "titles": "01006980127F0000:524288:"
+    },
+    {
+        "title": "Grizzy and the Lemmings – Crazy Party [NSP][RUS/Multi16]",
+        "size": "1.73 GB",
+        "magnet": "magnet:?xt=urn:btih:AA5E82ADB0CEFE52B46DA293D84AD70F919A0F50&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6935743",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6935743",
+        "year": "2026",
+        "genre": "Action,Party",
+        "developer": "Balio Studio SRL",
+        "publisher": "Unknown",
+        "image_format": "NSP",
+        "interface_lang": "Русский, Английский [RUS / ENG / Multi 15]",
+        "voice_lang": "Английская",
+        "performance": "Да (на 23.0.1, Atmosphere 1.12.0)",
+        "multiplayer": "4х",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6935743.jpg",
+        "screenshots": [
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/1f99767a83fdcddbb978aeb3505ae53d89aa9d5cbb498abf05874306cdd5ebdc.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3e9ea8c1f5c955339822f32005f1e7cb2892af5a9ab9974cdb4c0962663eac7e.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/e28ebb0d5394373bb434d583fd134fa87eab9e4624710d124a5321ea066886fc.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/8caae3d4c7d447c1dfbc5da77be00c26babee18b6ab8a9cab17d964a44207b12.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/c6b455e418b77d44ee4b0869e6538d408548a6fd4b93f8c81e8bd00fd93cded2.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/9c433cdb4dcb3ac964dc7fb4b92b5a85b82cb7ad08e7c76c5c5d0faf7e7575dc.jpg&output=jpg"
+        ],
+        "description": "Превратите свою гостиную в хаотичную игровую площадку! 50 мини-игр, 1-4 игрока, одна цель: схватить «Вкусняшку» раньше своих друзей!",
+        "title_id": "0100DFA027504000",
+        "version": "1.0.4",
+        "update_version": 262144,
+        "titles": "0100DFA027504000:262144:1.0.4"
+    },
+    {
         "title": "Shank 1-2 (хоумбрю) [NRO][ENG,RUS (Voice Mod.)]",
         "size": "3.33 GB",
         "magnet": "magnet:?xt=urn:btih:0C2D3DA2563A46E204DA6B7C8BA75F92F676BC50&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -26,7 +86,7 @@
             "https://i129.fastpic.org/thumb/2026/1109/56/986846eb11baaacb0996f227bbd5bc56.jpeg",
             "https://i129.fastpic.org/thumb/2026/1109/89/816037cd0bac9c015fbd227fb17ca189.jpeg"
         ],
-        "description": "Шэнк заходит в бар и видит плакат с объявлением о битве Мясника. Во флэшбеке показывается что Мясник причастен к смерти Евы, подруги Шэнка. Бармен узнаёт Шэнка, и в баре начинается поножовщина. После бара Шэнк пробивается к арене борцов, где должен быть Мясник, в то время как бармен сообщает Цезарю, бывшему боссу Шэнка что он вернулся. Шэнк достигает арены и убивает Мясника, однако выясняется что на арене выступал подражатель, так как у мертвого борца нет такой же татуировки как у настоящего Мясника. Он узнаёт, что Мясник находится в другом городе и отправляется туда на поезде.\n..Вторая игра начинается с того, что Шэнк едет в автобусе. Автобус останавливает патруль милиции, они находят Шэнка и ему приходится с ними расправиться. После он исследует уровень, освобождает заложника, получая в качестве благодарности бензопилу, и убивает местного офицера милиции Рейзора. После Шэнка подбирает водитель автобуса Примо и отвозит в город, где расположен сиротский приют.\nВсе критики едины в восхвалении графического стиля обеих игр.Ещё игры этого разработчика: Don't Starve, Invisible, Inc, Griftlands, Mark of the Ninja.",
+        "description": "Шэнк заходит в бар и видит плакат с объявлением о битве Мясника. Во флэшбеке показывается что Мясник причастен к смерти Евы, подруги Шэнка. Бармен узнаёт Шэнка, и в баре начинается поножовщина. После бара Шэнк пробивается к арене борцов, где должен быть Мясник, в то время как бармен сообщает Цезарю, бывшему боссу Шэнка что он вернулся. Шэнк достигает арены и убивает Мясника, однако выясняется что на арене выступал подражатель, так как у мертвого борца нет такой же татуировки как у настоящего Мясника. Он узнаёт, что Мясник находится в другом городе и отправляется туда на поезде.\n..Вторая игра начинается с того, что Шэнк едет в автобусе. Автобус останавливает патруль милиции, они находят Шэнка и ему приходится с ними расправиться. После он исследует уровень, освобождает заложника, получая в качестве благодарности бензопилу, и убивает местного офицера милиции Рейзора. После Шэнка подбирает водитель автобуса Примо и отвозит в город, где расположен сиротский приют.\nВсе критики едины в восхвалении графического стиля обеих игр.Ещё игры этого разработчика: Don't Starve, Invisible. Inc, Griftlands, Mark of the Ninja.",
         "title_id": null,
         "version": "1.0.1"
     },
@@ -151,9 +211,9 @@
         "version": "1.0.0"
     },
     {
-        "title": "Mortal Kombat 9 Komplete edition (порт) [NRO][ENG]",
+        "title": "Mortal Kombat 9 Komplete edition (порт) [NRO][RUS]",
         "size": "7.08 GB",
-        "magnet": "magnet:?xt=urn:btih:E26D76F61733260C5628268DE18EBF4BE5CE38A8&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:FCFABCDD891D739BA93F32C994C5AC960DFAFD18&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6934446",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6934446",
         "year": "2011",
@@ -161,7 +221,7 @@
         "developer": "NetherRealm Studios",
         "publisher": "Thorhax",
         "image_format": "NRO",
-        "interface_lang": "Английский [ENG]",
+        "interface_lang": "Русский [RUS] любительский от Enpy Studio",
         "voice_lang": "английская",
         "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "до 2 игроков",
@@ -179,7 +239,7 @@
         ],
         "description": "События происходят после окончания Mortal Kombat: Armageddon. Поле битвы усеяно мёртвыми бойцами, на вершине Пирамиды Аргуса остались двое — император Внешнего Мира Шао Кан и бог грома Райдэн. Первый, став богом после победы над Блэйзом, легко побеждает второго — он швыряет его в сторону, когда у Райдэна разбивается медальон. Бог грома успевает собрать осколки амулета и заложить в них заклинание, в то время, как Шао Кан достаёт свой молот, чтобы нанести финальный удар. Прежде чем молот императора опускается на него, Райдэн завершает заклинание, посылает сообщение самому себе в прошлое: «Он должен победить!». Оно успешно доходит в тот момент, когда начинался первый турнир. Райдэн из прошлого получает видения, из которых он узнаёт, что произойдёт в будущем, дабы попытаться изменить его.\nРайдэн замечает трещину на своём амулете и приходит к выводу, что Лю Кан должен выиграть, чтобы спасти Земное Царство. Во время турнира он становится единственным оставшимся претендентом на спасение Земли, отчасти из-за убийства Скорпионом Би-Хана, более известного как Саб-Зиро, в отместку за расправу последнего над кланом Сирай Рю. Райдэн просит Скорпиона пощадить своего врага в обмен на воскрешение членов клана при помощи Старших Богов. Тот, обдумав слова Райдэна, соглашается на сделку, но Куан Чи вызывает в сознании Скорпиона ложные видения, приводя его в ярость и заставляя убить Саб-Зиро, как он сделал это в исходной временной шкале. Лю Кану удаётся победить принца Горо, а также колдуна Шан Цзуна, однако трещина на амулете Райдэна становится ещё больше, что является признаком того, что будущие события остаются неизменными. Разочарованный неудачей колдуна, император Шао Кан приказывает его казнить, но передумывает, когда Шан Цзун предлагает провести второй турнир во Внешнем Мире с другими ставками: если победят земные воины, то их оставят в покое навсегда, но если победят бойцы Внешнего Мира, то им будет позволено беспрепятственно вторгнуться в Земное Царство. Хотя Райдэн изначально отказался, вторжение расы таркатанов побудило его принять предложение колдуна.\nMortal Kombat представляет собой мягкий перезапуск франшизы, являясь одновременно и сюжетным продолжением Mortal Kombat: Armageddon (2006), и перезагрузкой истории. С точки зрения геймплея, игра возвращается к истокам серии — хотя персонажи и локации выполнены в 3D. Игровой процесс находится в двумерном пространстве, как это было в ранних играх Mortal Kombat. Игра получила очень положительные отзывы от критиков.",
         "title_id": null,
-        "version": "1.0.5"
+        "version": "1.0.6"
     },
     {
         "title": "Alice Madness Returns (порт) [NRO][RUS]",
