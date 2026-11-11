@@ -99,6 +99,21 @@
    "type": "file",
    "zip_root": ""
   },
+  "carcaschoi/shallowsea-toolbox": {
+   "asset_key": "159280630:2024-03-29T13:23:12Z",
+   "extracted": 884611,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/shallowsea-toolbox.jpg",
+   "nacp": {
+    "author": "carcaschoi",
+    "title": "ShallowSea-Toolbox",
+    "version": "1.1.7"
+   },
+   "sha256": "91ba29b4dc9a6f0536498c5e396f9c0aec61032cb1a36a42a9caed95c684eb98",
+   "size": 884611,
+   "type": "file",
+   "zip_root": ""
+  },
   "ch1nguya/switch-super-installer": {
    "asset_key": "647837873:2026-10-16T16:01:24Z",
    "extracted": 12932217,
@@ -353,6 +368,21 @@
    "type": "file",
    "zip_root": ""
   },
+  "guyiicn/readernx": {
+   "asset_key": "339466200:2026-01-12T13:02:02Z",
+   "extracted": 47060405,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/readernx.jpg",
+   "nacp": {
+    "author": "SegFault42",
+    "title": "EbookViewerNX",
+    "version": "0.2.0"
+   },
+   "sha256": "47fcc188a22afcaa699cc41da065ad15f52e31bfb49c056ef7bc768174494904",
+   "size": 47060405,
+   "type": "file",
+   "zip_root": ""
+  },
   "hamletdufromage/aio-switch-updater": {
    "asset_key": "317684393:2025-11-18T00:32:30Z",
    "extracted": 8552465,
@@ -520,6 +550,21 @@
    "type": "file",
    "zip_root": ""
   },
+  "masagrator/getnetworkpass": {
+   "asset_key": "76334032:2022-08-30T18:02:04Z",
+   "extracted": 280773,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/getnetworkpass.jpg",
+   "nacp": {
+    "author": "MasaGratoR",
+    "title": "GetNetworkPass",
+    "version": "1.0.0"
+   },
+   "sha256": "f19a7b6c5ce4c27e20786b8518011e40413a559d69b554578db17d1de76e079e",
+   "size": 280773,
+   "type": "file",
+   "zip_root": ""
+  },
   "matteofo/lanhelper": {
    "asset_key": "77856551:2022-09-14T14:32:50Z",
    "extracted": 281738,
@@ -532,6 +577,21 @@
    },
    "sha256": "7e60808b622c6bec2c5d24994b9470c42ba9c9ca1ebb4fb3e0346543c08d8f5a",
    "size": 281738,
+   "type": "file",
+   "zip_root": ""
+  },
+  "mcmi460/reset-parental-controls-nx": {
+   "asset_key": "68995472:2022-06-20T06:04:22Z",
+   "extracted": 289718,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/reset-parental-controls-nx.jpg",
+   "nacp": {
+    "author": "TotalJustice & MCMi460",
+    "title": "Reset Parental Controls",
+    "version": "1.2.0"
+   },
+   "sha256": "e008b169a2e9e901bdfa217bfcf90b910f3a8dc0cfb106a45488820c53159bfd",
+   "size": 289718,
    "type": "file",
    "zip_root": ""
   },
@@ -685,17 +745,17 @@
    "zip_root": ""
   },
   "qret/modkitnx": {
-   "asset_key": "730775700:2026-11-10T09:01:49Z",
-   "extracted": 11108351,
+   "asset_key": "736143009:2026-11-11T16:31:39Z",
+   "extracted": 11123407,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ModKitNX.jpg",
    "nacp": {
     "author": "qret",
     "title": "ModKitNX",
-    "version": "1.0.5"
+    "version": "1.0.9"
    },
-   "sha256": "e279e815677cf41aa402038f5053c87f53856633bb73f264248b164100cf488b",
-   "size": 11108351,
+   "sha256": "05ae9a9207bb0497730df5e010228b0b6098b1f4e5d63b5f3d7c99ee910614ef",
+   "size": 11123407,
    "type": "file",
    "zip_root": ""
   },
@@ -711,6 +771,21 @@
    },
    "sha256": "816db30d9ccc88e3a1cdc6e294ae71ba92b101628437ecddc94d9168fb1aa319",
    "size": 16637485,
+   "type": "file",
+   "zip_root": ""
+  },
+  "rayoz12/smt5-save-editor": {
+   "asset_key": "51996073:2021-12-17T08:41:02Z",
+   "extracted": 10084201,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/smt5-save-editor.jpg",
+   "nacp": {
+    "author": "Rytek",
+    "title": "SMT V Save Editor",
+    "version": "0.0.3"
+   },
+   "sha256": "4e016309614252f463e06424f88d0984fe6c18f1046269f555779568c32979ee",
+   "size": 10084201,
    "type": "file",
    "zip_root": ""
   },
@@ -777,6 +852,21 @@
    },
    "sha256": "287c58b3dfa05bacfb799e822c4e65d3c766adb7fc02be97c4ec053876837f28",
    "size": 32690819,
+   "type": "file",
+   "zip_root": ""
+  },
+  "simontime/sharedfontdumper": {
+   "asset_key": "10464163:2019-01-08T16:48:46Z",
+   "extracted": 1043784,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/sharedfontdumper.jpg",
+   "nacp": {
+    "author": "Simon Aarons",
+    "title": "Shared Font Dumper",
+    "version": "2.1"
+   },
+   "sha256": "7e4904ec1aafc2b9883f1e87ef81aa71552e97a04c418913c134e81f91f25590",
+   "size": 1043784,
    "type": "file",
    "zip_root": ""
   },
@@ -1086,6 +1176,12 @@
    "stargazers_count": null,
    "topics": []
   },
+  "carcaschoi/shallowsea-toolbox": {
+   "description": "",
+   "full_name": "carcaschoi/shallowsea-toolbox",
+   "stargazers_count": null,
+   "topics": []
+  },
   "ch1nguya/switch-super-installer": {
    "description": "Homebrew installer for the Nintendo Switch: install NSP/NSZ/XCI/XCZ from SD, network, USB or your Switch-Super-Manager library. Built on TinWoo and Awoo Installer.",
    "full_name": "Ch1nguya/Switch-Super-Installer",
@@ -1247,6 +1343,12 @@
    "stargazers_count": null,
    "topics": []
   },
+  "guyiicn/readernx": {
+   "description": "",
+   "full_name": "guyiicn/readernx",
+   "stargazers_count": null,
+   "topics": []
+  },
   "hashcade/mhgu-overlay": {
    "description": "A monster info, damage display, and gameplay tools tesla overlay for MHGU on Nintendo Switch.",
    "full_name": "hashcade/mhgu-overlay",
@@ -1310,9 +1412,21 @@
    "stargazers_count": null,
    "topics": []
   },
+  "masagrator/getnetworkpass": {
+   "description": "",
+   "full_name": "masagrator/getnetworkpass",
+   "stargazers_count": null,
+   "topics": []
+  },
   "matthew-5pl/lanhelper": {
    "description": "",
    "full_name": "matteofo/LANHelper",
+   "stargazers_count": null,
+   "topics": []
+  },
+  "mcmi460/reset-parental-controls-nx": {
+   "description": "",
+   "full_name": "mcmi460/reset-parental-controls-nx",
    "stargazers_count": null,
    "topics": []
   },
@@ -1356,7 +1470,7 @@
   "qret/modkitnx": {
    "description": "Nintendo Switch homebrew that makes games built for a newer firmware run on yours: unpacks ZBIC, swaps the game's sdk, adds a module that fills in missing functions and grants the needed permissions — one button, one button back. Also loads mods without LayeredFS.",
    "full_name": "qret/ModKitNX",
-   "stargazers_count": 2,
+   "stargazers_count": 3,
    "topics": [
     "atmosphere",
     "borealis",
@@ -1372,6 +1486,12 @@
   "rashevskyv/dbipatcher": {
    "description": "",
    "full_name": "rashevskyv/dbipatcher",
+   "stargazers_count": null,
+   "topics": []
+  },
+  "rayoz12/smt5-save-editor": {
+   "description": "",
+   "full_name": "rayoz12/smt5-save-editor",
    "stargazers_count": null,
    "topics": []
   },
@@ -1420,6 +1540,12 @@
     "torrent-streaming"
    ]
   },
+  "simontime/sharedfontdumper": {
+   "description": "",
+   "full_name": "simontime/sharedfontdumper",
+   "stargazers_count": null,
+   "topics": []
+  },
   "slankka/nx-fs-utf8": {
    "description": "A firmware \"KIP\" to unlock Switch FileSystem to read/write and enumerate UTF-8 CJK file names.",
    "full_name": "slankka/nx-fs-utf8",
@@ -1448,7 +1574,7 @@
   "sonerx7/nexvyn-os-nx": {
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
    "full_name": "sonerx7/Nexvyn-OS-NX",
-   "stargazers_count": 70,
+   "stargazers_count": 68,
    "topics": [
     "app-market",
     "atmosphere",
@@ -1541,6 +1667,7 @@
   "amir-ehsani/hometile-switch": "2026-11-09",
   "bernardogiordano/checkpoint": "2026-11-09",
   "blawar/incognito": "2026-11-10",
+  "carcaschoi/shallowsea-toolbox": "2026-11-11",
   "ch1nguya/switch-super-installer": "2026-11-09",
   "ctcaer/battery_desync_fix_nx": "2026-11-09",
   "cvfiredragon/exefsmanager": "2026-11-09",
@@ -1557,6 +1684,7 @@
   "etonedemid/nxpotify": "2026-11-10",
   "falki141/ftpd4sxos": "2026-11-09",
   "gomprime/switchiptv": "2026-11-09",
+  "guyiicn/readernx": "2026-11-11",
   "hashcade/mhgu-overlay": "2026-11-09",
   "ibnuard/darktube": "2026-11-09",
   "itotaljustice/atmosphere-updater": "2026-11-09",
@@ -1564,16 +1692,20 @@
   "kaays/mc3_nx": "2026-11-09",
   "kipi000/nsw-fetch": "2026-11-10",
   "lordelan/n1dus": "2026-11-10",
+  "masagrator/getnetworkpass": "2026-11-11",
   "matteofo/lanhelper": "2026-11-10",
+  "mcmi460/reset-parental-controls-nx": "2026-11-11",
   "mklan/nx-archive-browser": "2026-11-10",
   "murat303/iptv-player": "2026-11-09",
   "paulodiasred/bm64switch": "2026-11-09",
   "qret/modkitnx": "2026-11-10",
   "rashevskyv/dbipatcher": "2026-11-09",
+  "rayoz12/smt5-save-editor": "2026-11-11",
   "rexead/gametime-tracker": "2026-11-09",
   "rmrf404/green-nx": "2026-11-09",
   "scamnscoot/streamfin": "2026-11-09",
   "shodowlo/nx-torrent-player": "2026-11-09",
+  "simontime/sharedfontdumper": "2026-11-11",
   "slankka/nx-fs-utf8": "2026-11-09",
   "slluxx/icongrabber": "2026-11-09",
   "slluxx/pokemontv": "2026-11-11",
@@ -6529,6 +6661,147 @@
   "/wiki/RCMReboot_Switch": [],
   "/wiki/RajNX_Switch": [
    "rajkosto/sys-ftpd"
+  ],
+  "/wiki/RandPlayNX_Switch": [
+   "jrradiant/randplaynx"
+  ],
+  "/wiki/ReaderNX_Switch": [
+   "cesanta/mongoose",
+   "guyiicn/readernx",
+   "segfault42/ebookviewernx"
+  ],
+  "/wiki/Reboot2Payload_Switch": [],
+  "/wiki/Reboot_To_Payload_Mod_Switch": [
+   "metehankaygsz/reboottopayloadswitch"
+  ],
+  "/wiki/Reboot_to_rcm_Switch": [
+   "pixel-stuck/reboot_to_rcm"
+  ],
+  "/wiki/ReiNX_Switch": [
+   "reisyukaku/reinx"
+  ],
+  "/wiki/ReiNX_Toolkit_Switch": [
+   "reisyukaku/reinxtoolkit"
+  ],
+  "/wiki/Reset_Parental_Controls_NX_Switch": [
+   "itotaljustice/reset-parental-controls-nx"
+  ],
+  "/wiki/Reset_Parental_Controls_NX_Update_Switch": [
+   "mcmi460/reset-parental-controls-nx"
+  ],
+  "/wiki/RetroReloaded_Pro_Switch": [
+   "atmosphere-nx/atmosphere",
+   "cathery/sys-con",
+   "ctcaer/hekate"
+  ],
+  "/wiki/ReverseNX-Tool_Switch": [
+   "masagrator/reversenx",
+   "masagrator/reversenx-tool",
+   "natinusala/borealis"
+  ],
+  "/wiki/SE_Tools_Switch": [
+   "tomvita/atmosphere",
+   "tomvita/edizon-se",
+   "tomvita/noexes"
+  ],
+  "/wiki/SLaunch_Switch": [
+   "etonedemid/slaunch",
+   "mii-man/aurorachat"
+  ],
+  "/wiki/SMM2CourseInjector_Switch": [
+   "chrs2324/smm2courseinjector"
+  ],
+  "/wiki/SMT_V_-_Save_Editor_Switch": [
+   "flagbrew/checkpoint",
+   "rayoz12/smt5-save-editor",
+   "supremetakoyaki/aogami"
+  ],
+  "/wiki/SSBUStageInjector_Switch": [
+   "chrs2324/ssbustageinjector"
+  ],
+  "/wiki/SSBot_Switch": [
+   "fungalspores/ssbot"
+  ],
+  "/wiki/SXOS_ROMMENU_Switch": [],
+  "/wiki/SX_OS_Switch": [],
+  "/wiki/SaltyNX-Tool_Switch": [
+   "masagrator/saltynx-tool"
+  ],
+  "/wiki/Scratch_Everywhere_Switch": [
+   "catalog-cmake/catalog",
+   "libsdl-org/sdl",
+   "memononen/nanosvg"
+  ],
+  "/wiki/Screen-NX_Switch": [
+   "hookedbehemoth/screen-nx",
+   "hookedbehemoth/sharenx"
+  ],
+  "/wiki/ScreenTester-NX_Switch": [
+   "marice/screentester-nx"
+  ],
+  "/wiki/ShallowSea-Toolbox_Switch": [
+   "carcaschoi/shallowsea",
+   "carcaschoi/shallowsea-toolbox"
+  ],
+  "/wiki/ShallowSea_Switch": [
+   "carcaschoi/rcmloader-package",
+   "carcaschoi/shallowsea"
+  ],
+  "/wiki/Shared_Font_Dumper_Switch": [
+   "simontime/sharedfontdumper"
+  ],
+  "/wiki/Sharkive_Switch": [
+   "flagbrew/sharkive"
+  ],
+  "/wiki/Sheikah_All-In-One_CFW_Switch": [
+   "evilm4ster/sheikah-all-in-one-cfw"
+  ],
+  "/wiki/ShoWiFi_Switch": [
+   "fukuchi/libqrencode",
+   "liquidfenrir/wifimanager",
+   "masagrator/getnetworkpass"
+  ],
+  "/wiki/Shrek_Menu_Switch": [
+   "lesking72/nx-shrekmenu"
+  ],
+  "/wiki/Shrekmosphere_Switch": [
+   "atmosphere-nx/atmosphere",
+   "d3st1nyh4x/shrekmosphere"
+  ],
+  "/wiki/Signature_Patches_Switch": [
+   "atmosphere-nx/atmosphere",
+   "itotaljustice/patches"
+  ],
+  "/wiki/Sigpatch-Updater_Switch": [
+   "itotaljustice/sigpatch-updater"
+  ],
+  "/wiki/Sigpatches_Updater_Switch": [
+   "hamletdufromage/sigpatches-updater"
+  ],
+  "/wiki/SimpleModDownloader_Switch": [
+   "nadrino/simplemodmanager",
+   "nicholemattera/simple-ini-parser",
+   "polonx/simplemoddownloader"
+  ],
+  "/wiki/SimpleModManager_Switch": [
+   "nadrino/simplemodmanager"
+  ],
+  "/wiki/Simple_Mod_Alchemist_Switch": [
+   "gtiersma/simple_mod_alchemist"
+  ],
+  "/wiki/SkyMM-NX_Switch": [
+   "caseif/skymm-nx",
+   "lord-akkrand/skyrim-nx-toolkit"
+  ],
+  "/wiki/Spacecraft-NX_Switch": [
+   "ctcaer/hekate",
+   "hwfly-nx/firmware",
+   "spacecraft-nx/firmware"
+  ],
+  "/wiki/Sphaira_Switch": [
+   "a1ex4/ownfoil",
+   "developersu/ns-usbloader",
+   "fourminute/fluffy"
   ]
  },
  "rejected": {
@@ -6540,6 +6813,10 @@
    "candidate": "| [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |",
    "checked": "2026-11-09",
    "pushed_at": "2026-10-19T16:23:08Z"
+  },
+  "a1ex4/ownfoil": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
   },
   "aapka1914/savestate": {
    "checked": "2026-11-09",
@@ -6648,8 +6925,8 @@
    "pushed_at": "2026-08-20T09:18:32Z"
   },
   "armaatus/rommsync-nx": {
-   "checked": "2026-11-10",
-   "pushed_at": "2026-11-10T11:22:56Z"
+   "checked": "2026-11-11",
+   "pushed_at": "2026-11-11T11:06:41Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -6777,10 +7054,19 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-08-18T05:22:40Z"
   },
+  "carcaschoi/rcmloader-package": {
+   "candidate": "| [carcaschoi/rcmloader-package](https://github.com/carcaschoi/rcmloader-package) | ? | v1.1.0 | 2021-09-30 | rcmloader.package.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "cardas26/nx-pop2": {
    "candidate": "| [Cardas26/nx-pop2](https://github.com/Cardas26/nx-pop2) | 0 | v1.0.0 | 2026-10-23 | nx-pop2-diagnostics.zip, nx-pop2-forwarder.nsp, nx-pop2.zip |",
    "checked": "2026-11-09",
    "pushed_at": "2026-10-23T17:15:26Z"
+  },
+  "catalog-cmake/catalog": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
   },
   "catcheritgf/ns-overclocking": {
    "alias": "catcheritgf/nx-venom",
@@ -6790,6 +7076,11 @@
   "catcheritgf/nx-venom": {
    "candidate": "| [catcheritgf/nx-venom](https://github.com/catcheritgf/nx-venom) | ? | 15.0.0 | 2026-10-17 | NXVenom.zip |",
    "checked": "2026-11-10",
+   "pushed_at": ""
+  },
+  "cathery/sys-con": {
+   "candidate": "| [cathery/sys-con](https://github.com/cathery/sys-con) | ? | v0.6.5 | 2024-11-06 | sys-con-0.6.5.zip |",
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "cbreezy210/acnh-save-editor": {
@@ -6811,9 +7102,13 @@
    "pushed_at": "2026-11-03T09:33:27Z"
   },
   "centollos/switchwakerhd": {
-   "candidate": "| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 249 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |",
-   "checked": "2026-11-10",
-   "pushed_at": "2026-11-10T15:27:17Z"
+   "candidate": "| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 252 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |",
+   "checked": "2026-11-11",
+   "pushed_at": "2026-11-11T15:58:56Z"
+  },
+  "cesanta/mongoose": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
   },
   "ch1nguya/switch-super-manager": {
    "candidate": "| [Ch1nguya/Switch-Super-Manager](https://github.com/Ch1nguya/Switch-Super-Manager) | 15 | v0.7.0 | 2026-11-08 | SHA256SUMS, Switch-Super-Manager-v0.7.0-win64.zip |",
@@ -6833,6 +7128,10 @@
   "chrisbraucker/wireguard-nx": {
    "checked": "2026-11-09",
    "pushed_at": "2026-08-20T18:55:51Z"
+  },
+  "chrs2324/ssbustageinjector": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
   },
   "chuthree/nx-gamehide": {
    "candidate": "| [chuthree/nx-gamehide](https://github.com/chuthree/nx-gamehide) | 3 | v0.1.0 | 2026-10-13 | NX-GameHide-v0.1.0.zip |",
@@ -6875,8 +7174,8 @@
    "pushed_at": "2026-09-16T16:58:32Z"
   },
   "ctj01/switch2pc": {
-   "checked": "2026-11-10",
-   "pushed_at": "2026-11-10T10:51:54Z"
+   "checked": "2026-11-11",
+   "pushed_at": "2026-11-11T10:22:49Z"
   },
   "curl/curl": {
    "candidate": "| [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |",
@@ -6898,6 +7197,11 @@
    "pushed_at": ""
   },
   "d3fau4/nightfall-server": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "d3st1nyh4x/shrekmosphere": {
+   "candidate": "| [d3st1nyh4x/shrekmosphere](https://github.com/d3st1nyh4x/shrekmosphere) | ? | 0.11.1 | 2020-04-15 | fusee-primary.bin, shrekmosphere-0.11.1-master.zip |",
    "checked": "2026-11-11",
    "pushed_at": ""
   },
@@ -7081,6 +7385,15 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-10-04T06:26:12Z"
   },
+  "etonedemid/slaunch": {
+   "candidate": "| [etonedemid/slaunch](https://github.com/etonedemid/slaunch) | ? | v2.2.2 | 2026-11-11 | sInstaller.nro, slaunch-v2.2.2-sd.zip, slaunch-v2.2.2-source.tar.xz |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "evilm4ster/sheikah-all-in-one-cfw": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "exelix11/dvr-patches": {
    "candidate": "| [exelix11/dvr-patches](https://github.com/exelix11/dvr-patches) | ? | fw-23.0.1 | 2026-10-11 | dvr-patches.zip |",
    "checked": "2026-11-09",
@@ -7116,6 +7429,10 @@
    "checked": "2026-11-11",
    "pushed_at": ""
   },
+  "flagbrew/sharkive": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "fortheusers/chesto": {
    "checked": "2026-11-09",
    "pushed_at": ""
@@ -7129,10 +7446,19 @@
    "checked": "2026-11-09",
    "pushed_at": ""
   },
+  "fourminute/fluffy": {
+   "candidate": "| [fourminute/fluffy](https://github.com/fourminute/fluffy) | ? | v2.9 | 2019-05-26 | fluffy.exe, fluffy.pyw, Goldleaf.nro, LICENSE.txt, Tinfoil.nro |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "fukuchi/libqrencode": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "funkinnxteam/funkinlegacy": {
    "candidate": "| [FunkinNXTeam/FunkinLegacy](https://github.com/FunkinNXTeam/FunkinLegacy) | 3 | NX-1.0.1 | 2026-02-04 | Funkin.nro |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-02-04T09:13:11Z"
+   "checked": "2026-11-11",
+   "pushed_at": "2026-11-11T16:14:01Z"
   },
   "garyodernichts/udpih_nxpayload": {
    "checked": "2026-11-11",
@@ -7167,6 +7493,11 @@
    "checked": "2026-11-11",
    "pushed_at": ""
   },
+  "hamletdufromage/sigpatches-updater": {
+   "candidate": "| [hamletdufromage/sigpatches-updater](https://github.com/hamletdufromage/sigpatches-updater) | ? | 0.2 | 2020-09-12 | sigpatches-updater.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "hanazonoarchive/switchtheme_studio": {
    "checked": "2026-11-10",
    "pushed_at": "2026-11-10T06:43:36Z"
@@ -7192,6 +7523,11 @@
    "checked": "2026-11-10",
    "pushed_at": ""
   },
+  "hookedbehemoth/screen-nx": {
+   "alias": "hookedbehemoth/sharenx",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "horizon-oc/horizon-oc": {
    "candidate": "| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 275 | 2.6.0-rel | 2026-10-16 | dist.zip, dist_ext.zip |",
    "checked": "2026-11-11",
@@ -7209,6 +7545,11 @@
   "huntereb/awoo-installer": {
    "candidate": "| [huntereb/awoo-installer](https://github.com/huntereb/awoo-installer) | ? | 1.3.6 | 2025-11-15 | Awoo-Installer.zip |",
    "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "hwfly-nx/firmware": {
+   "candidate": "| [hwfly-nx/firmware](https://github.com/hwfly-nx/firmware) | ? | 0.7.2 | 2023-01-08 | release_072.zip |",
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "ibireme/yyjson": {
@@ -7271,6 +7612,10 @@
    "checked": "2026-11-11",
    "pushed_at": ""
   },
+  "itotaljustice/sigpatch-updater": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "jack-the-yoshi/one-click-game-manager-ocgm-": {
    "candidate": "| [Jack-The-Yoshi/One-Click-Game-Manager-OCGM-](https://github.com/Jack-The-Yoshi/One-Click-Game-Manager-OCGM-) | 1 | v1.0.1 | 2026-02-16 | OCGM.nro |",
    "checked": "2026-11-09",
@@ -7278,7 +7623,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-11",
-   "pushed_at": "2026-11-11T06:04:40Z"
+   "pushed_at": "2026-11-11T19:35:17Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -7366,12 +7711,31 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-11-06T03:13:25Z"
   },
+  "lesking72/nx-shrekmenu": {
+   "candidate": "| [lesking72/nx-shrekmenu](https://github.com/lesking72/nx-shrekmenu) | ? | v3.5.0-1 | 2022-05-02 | nx-hbmenu.nro, nx-shrekmenu.nro |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "libsdl-org/sdl": {
+   "candidate": "| [libsdl-org/sdl](https://github.com/libsdl-org/sdl) | ? | release-3.4.20 | 2026-11-03 | SDL3-3.4.20-win32-arm64.zip, SDL3-3.4.20-win32-x64.zip, SDL3-3.4.20-win32-x86.zip, SDL3-3.4.20.dmg, SDL3-3.4.20.tar.gz,  |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "liliwiki/switch-homebrew": {
    "checked": "2026-11-09",
    "pushed_at": "2026-07-20T15:17:05Z"
   },
+  "liquidfenrir/wifimanager": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "liuervehc/nxmtp": {
    "checked": "2026-11-10",
+   "pushed_at": ""
+  },
+  "lord-akkrand/skyrim-nx-toolkit": {
+   "candidate": "| [lord-akkrand/skyrim-nx-toolkit](https://github.com/lord-akkrand/skyrim-nx-toolkit) | ? | v2.7.0 | 2019-11-10 | Skyrim-NX-Toolkit.v2.7.0.zip |",
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "lozp1/07z": {
@@ -7407,6 +7771,19 @@
    "checked": "2026-11-11",
    "pushed_at": ""
   },
+  "masagrator/reversenx": {
+   "candidate": "| [masagrator/reversenx](https://github.com/masagrator/reversenx) | ? | 0.34-re | 2020-02-28 | ReverseNX-0.34.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "masagrator/reversenx-tool": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "memononen/nanosvg": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "mentalblank/pyxis": {
    "candidate": "| [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) | 57 | 46 | 2026-11-08 | PYXIS_SwitchAIO.zip |",
    "checked": "2026-11-09",
@@ -7419,6 +7796,10 @@
   },
   "migushthe2nd/ebrowser": {
    "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "mii-man/aurorachat": {
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "miri2577/flutter-libnx": {
@@ -7440,7 +7821,7 @@
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-11",
-   "pushed_at": "2026-11-11T02:39:25Z"
+   "pushed_at": "2026-11-11T18:31:16Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-10",
@@ -7505,6 +7886,10 @@
   },
   "nicegram/nicepeer": {
    "checked": "2026-11-10",
+   "pushed_at": ""
+  },
+  "nicholemattera/simple-ini-parser": {
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "nicoboss/nsz": {
@@ -7583,6 +7968,10 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-01-30T11:30:50Z"
   },
+  "pixel-stuck/reboot_to_rcm": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "plutooo/nx-btred": {
    "candidate": "| [plutooo/nx-btred](https://github.com/plutooo/nx-btred) | ? | 0.9.3 | 2021-04-26 | nx-bted-0.9.3.zip |",
    "checked": "2026-11-11",
@@ -7598,9 +7987,9 @@
    "pushed_at": ""
   },
   "ppkantorski/7th-heaven-nx": {
-   "candidate": "| [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 11 | v1.1.3 | 2026-11-11 | 7th-Heaven-NX-1.1.3-linux-arm64.zip, 7th-Heaven-NX-1.1.3-linux-x64.zip, 7th-Heaven-NX-1.1.3-macos-arm64.zip, 7th-Heaven- |",
+   "candidate": "| [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 11 | v1.1.4 | 2026-11-11 | 7th-Heaven-NX-1.1.4-linux-arm64.zip, 7th-Heaven-NX-1.1.4-linux-x64.zip, 7th-Heaven-NX-1.1.4-macos-arm64.zip, 7th-Heaven- |",
    "checked": "2026-11-11",
-   "pushed_at": "2026-11-11T01:06:51Z"
+   "pushed_at": "2026-11-11T10:08:18Z"
   },
   "ppkantorski/alchemist": {
    "candidate": "| [ppkantorski/Alchemist](https://github.com/ppkantorski/Alchemist) | 47 | v1.0.6 | 2026-04-23 | Alchemist.zip |",
@@ -7706,6 +8095,16 @@
   },
   "reisyukaku/deltalaunch": {
    "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "reisyukaku/reinx": {
+   "candidate": "| [reisyukaku/reinx](https://github.com/reisyukaku/reinx) | ? | v3.0 | 2020-05-05 | ReiNX_3.0_hotfix.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "reisyukaku/reinxtoolkit": {
+   "candidate": "| [reisyukaku/reinxtoolkit](https://github.com/reisyukaku/reinxtoolkit) | ? | v1.3 | 2019-03-20 | ReiNXToolkit.zip |",
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "revolution81/butterscotch-switch-builder": {
@@ -7818,6 +8217,11 @@
    "checked": "2026-11-09",
    "pushed_at": "2025-12-25T01:17:48Z"
   },
+  "spacecraft-nx/firmware": {
+   "candidate": "| [spacecraft-nx/firmware](https://github.com/spacecraft-nx/firmware) | ? | 0.2.0 | 2021-10-14 | release_0.2.0.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "spacemeowx2/ldn_mitm": {
    "candidate": "| [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) | ? | v1.25.1 | 2026-04-08 | ldn_mitm_v1.25.1.zip |",
    "checked": "2026-11-10",
@@ -7872,6 +8276,10 @@
   "superokazaki/html-video-template-nx": {
    "candidate": "| [superokazaki/html-video-template-nx](https://github.com/superokazaki/html-video-template-nx) | ? | v1.0 | 2018-10-16 | HTML-Video-Template-NX-master.v1.zip |",
    "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "supremetakoyaki/aogami": {
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "switchbrew/libnx": {
@@ -7956,9 +8364,19 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-11-05T22:55:57Z"
   },
+  "tomvita/atmosphere": {
+   "candidate": "| [tomvita/atmosphere](https://github.com/tomvita/atmosphere) | ? | dmnt_with_extension | 2025-01-11 | dmnt.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "tomvita/breeze-beta": {
    "candidate": "| [tomvita/breeze-beta](https://github.com/tomvita/breeze-beta) | ? | beta108.4c | 2026-06-17 | Breeze.zip, version.txt |",
    "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "tomvita/noexes": {
+   "candidate": "| [tomvita/noexes](https://github.com/tomvita/noexes) | ? | 1.4.157 | 2022-05-05 | 054e4f4558454000.zip, 054e4f4558454000_18.zip, JNoexsClient.jar |",
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "tomvita/nxcheatcode": {

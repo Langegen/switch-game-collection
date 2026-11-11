@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-11T06:26:01Z",
+ "generated": "2026-11-11T19:40:25Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -2994,6 +2994,29 @@
    "first_seen": "2026-11-09"
   },
   {
+   "name": "getnetworkpass",
+   "title": "GetNetworkPass",
+   "author": "MasaGratoR",
+   "version": "1.0",
+   "category": "tool",
+   "description": "",
+   "changelog": "",
+   "url": "https://github.com/masagrator/getnetworkpass",
+   "repo": "masagrator/getnetworkpass",
+   "updated": "2022-08-30",
+   "download_url": "https://github.com/masagrator/GetNetworkPass/releases/download/1.0/GetNetworkPass.nro",
+   "download_type": "file",
+   "sha256": "f19a7b6c5ce4c27e20786b8518011e40413a559d69b554578db17d1de76e079e",
+   "filesize": 280773,
+   "extracted": 280773,
+   "files": [
+    "U: switch/getnetworkpass/getnetworkpass.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/getnetworkpass.jpg",
+   "auto": true,
+   "first_seen": "2026-11-11"
+  },
+  {
    "name": "green-nx",
    "title": "green-nx",
    "author": "rmrf404",
@@ -3301,18 +3324,18 @@
    "name": "ModKitNX",
    "title": "ModKitNX",
    "author": "qret",
-   "version": "1.0.5",
+   "version": "1.0.9",
    "category": "game",
    "description": "Nintendo Switch homebrew that makes games built for a newer firmware run on yours: unpacks ZBIC, swaps the game's sdk, adds a module that fills in missing functions and grants the needed permissions — one button, one button back. Also loads mods without LayeredFS.",
-   "changelog": "ModKitNX: on the page of a game that needs nothing, \"Install mod\" now appears only after you pick a mod, and the mods card no longer asks which mod to install when there are none.\n\n---\nsha256 (ModKitNX.nro): `e279e815677cf41aa402038f5053c87f53856633bb73f264248b164100cf488b`",
+   "changelog": "ModKitNX: fixed the remaining crash in games such as Biped 2 that look up symbols at run time on a swapped older sdk.\n\n---\nsha256 (ModKitNX.nro): `05ae9a9207bb0497730df5e010228b0b6098b1f4e5d63b5f3d7c99ee910614ef`",
    "url": "https://github.com/qret/modkitnx",
    "repo": "qret/modkitnx",
-   "updated": "2026-11-10",
-   "download_url": "https://github.com/qret/ModKitNX/releases/download/v1.0.5/ModKitNX.nro",
+   "updated": "2026-11-11",
+   "download_url": "https://github.com/qret/ModKitNX/releases/download/v1.0.9/ModKitNX.nro",
    "download_type": "file",
-   "sha256": "e279e815677cf41aa402038f5053c87f53856633bb73f264248b164100cf488b",
-   "filesize": 11108351,
-   "extracted": 11108351,
+   "sha256": "05ae9a9207bb0497730df5e010228b0b6098b1f4e5d63b5f3d7c99ee910614ef",
+   "filesize": 11123407,
+   "extracted": 11123407,
    "files": [
     "U: switch/ModKitNX/ModKitNX.nro"
    ],
@@ -3746,6 +3769,75 @@
    "first_seen": "2026-11-11"
   },
   {
+   "name": "readernx",
+   "title": "EbookViewerNX",
+   "author": "SegFault42",
+   "version": "1.0",
+   "category": "tool",
+   "description": "",
+   "changelog": "**Full Changelog**: https://github.com/guyiicn/ReaderNX/commits/1.0",
+   "url": "https://github.com/guyiicn/readernx",
+   "repo": "guyiicn/readernx",
+   "updated": "2026-01-12",
+   "download_url": "https://github.com/guyiicn/ReaderNX/releases/download/1.0/ebookViewerNX.nro",
+   "download_type": "file",
+   "sha256": "47fcc188a22afcaa699cc41da065ad15f52e31bfb49c056ef7bc768174494904",
+   "filesize": 47060405,
+   "extracted": 47060405,
+   "files": [
+    "U: switch/readernx/readernx.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/readernx.jpg",
+   "auto": true,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "name": "reset-parental-controls-nx",
+   "title": "Reset Parental Controls",
+   "author": "TotalJustice & MCMi460",
+   "version": "1.2.0",
+   "category": "tool",
+   "description": "",
+   "changelog": "**Added:**\r\n- The ability to view your current parental controls pin",
+   "url": "https://github.com/mcmi460/reset-parental-controls-nx",
+   "repo": "mcmi460/reset-parental-controls-nx",
+   "updated": "2022-06-20",
+   "download_url": "https://github.com/MCMi460/Reset-Parental-Controls-NX/releases/download/v1.2.0/reset_parental_controls.nro",
+   "download_type": "file",
+   "sha256": "e008b169a2e9e901bdfa217bfcf90b910f3a8dc0cfb106a45488820c53159bfd",
+   "filesize": 289718,
+   "extracted": 289718,
+   "files": [
+    "U: switch/reset-parental-controls-nx/reset-parental-controls-nx.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/reset-parental-controls-nx.jpg",
+   "auto": true,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "name": "shallowsea-toolbox",
+   "title": "ShallowSea-Toolbox",
+   "author": "carcaschoi",
+   "version": "1.1.7",
+   "category": "tool",
+   "description": "",
+   "changelog": "- hotfix Shallowsea package link\r\n(You can update the package using this app now)",
+   "url": "https://github.com/carcaschoi/shallowsea-toolbox",
+   "repo": "carcaschoi/shallowsea-toolbox",
+   "updated": "2024-03-29",
+   "download_url": "https://github.com/carcaschoi/ShallowSea-Toolbox/releases/download/v1.1.7/ShallowSea-Toolbox.nro",
+   "download_type": "file",
+   "sha256": "91ba29b4dc9a6f0536498c5e396f9c0aec61032cb1a36a42a9caed95c684eb98",
+   "filesize": 884611,
+   "extracted": 884611,
+   "files": [
+    "U: switch/shallowsea-toolbox/shallowsea-toolbox.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/shallowsea-toolbox.jpg",
+   "auto": true,
+   "first_seen": "2026-11-11"
+  },
+  {
    "name": "shank2-nx",
    "title": "Shank 2",
    "author": "github.com/zhtipu",
@@ -3768,6 +3860,52 @@
    "license": "GPL-3.0",
    "auto": true,
    "first_seen": "2026-11-09"
+  },
+  {
+   "name": "sharedfontdumper",
+   "title": "Shared Font Dumper",
+   "author": "Simon Aarons",
+   "version": "2.1",
+   "category": "tool",
+   "description": "",
+   "changelog": "Updated for libnx 2.0; now uses a shared font for displaying its text.",
+   "url": "https://github.com/simontime/sharedfontdumper",
+   "repo": "simontime/sharedfontdumper",
+   "updated": "2019-01-08",
+   "download_url": "https://github.com/simontime/SharedFontDumper/releases/download/v2.1/sfdumper.nro",
+   "download_type": "file",
+   "sha256": "7e4904ec1aafc2b9883f1e87ef81aa71552e97a04c418913c134e81f91f25590",
+   "filesize": 1043784,
+   "extracted": 1043784,
+   "files": [
+    "U: switch/sharedfontdumper/sharedfontdumper.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/sharedfontdumper.jpg",
+   "auto": true,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "name": "smt5-save-editor",
+   "title": "SMT V Save Editor",
+   "author": "Rytek",
+   "version": "0.0.3",
+   "category": "tool",
+   "description": "",
+   "changelog": "- Demon Stats\r\n- Demon Skills\r\n- Demon Skill Potential (doesn't work in game tho)\r\nDemon Stats and skill editing on switch.  Saves are automatically backed up at /switch/SMT5Backupsaves for peace of mind.",
+   "url": "https://github.com/rayoz12/smt5-save-editor",
+   "repo": "rayoz12/smt5-save-editor",
+   "updated": "2021-12-17",
+   "download_url": "https://github.com/rayoz12/SMT5-Save-Editor/releases/download/v0.0.3/SMTV_Editor_Plutonium.nro",
+   "download_type": "file",
+   "sha256": "4e016309614252f463e06424f88d0984fe6c18f1046269f555779568c32979ee",
+   "filesize": 10084201,
+   "extracted": 10084201,
+   "files": [
+    "U: switch/smt5-save-editor/smt5-save-editor.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/smt5-save-editor.jpg",
+   "auto": true,
+   "first_seen": "2026-11-11"
   },
   {
    "name": "stardust-toolkit",
