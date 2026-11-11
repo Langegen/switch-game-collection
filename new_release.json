@@ -1,6 +1,12 @@
 [
+  {"title": "Rooftops and Alleys the Parkour Game + 4 DLC", "title_id": "0100FC20214B2000", "metacritic": 67.0},
+  {"title": "Shrek 2 Remastered", "title_id": "01000750246F0000", "metacritic": null},
+  {"title": "Marvel Cosmic Invasion + 2 DLC", "title_id": "010059D020C26000", "metacritic": 81.0},
+  {"title": "Steins Gate Re Boot (Reboot)", "title_id": "01008BC024FDE000", "metacritic": null},
+  {"title": "Tanuki Pon's Summer", "title_id": "0100AC602974E000", "metacritic": null},
+  {"title": "Warhammer Survivors", "title_id": "0100CAA026246000", "metacritic": null},
   {"title": "Fight Crab", "title_id": "01006980127F0000", "metacritic": 60.0},
-  {"title": "Grizzy and the Lemmings – Crazy Party", "title_id": "0100DFA027504000", "metacritic": null},
+  {"title": "Grizzy and the Lemmings Crazy Party", "title_id": "0100DFA027504000", "metacritic": null},
   {"title": "180 отомэ: Code Realize, Collar X Malice, Nightshade, Bustafellows 1-2, Taisho x Alice, Gakuen Club, Hashihime, Over Requiemz, Dream Daddy, Cupid Parasite, Piofiore, Nicole, Even if Tempest, Amnesia, Boyfriend Dungeon, Jack Jeanne, Norn9, Radiant Tale и др.", "title_id": "0100E8201DAF4000", "metacritic": 87.0},
   {"title": "K-Pop Rising Dream to Shine", "title_id": "0100C9302832C000", "metacritic": 82.0},
   {"title": "Graveyard Keeper II (2) + DLC", "title_id": "0100005027A18000", "metacritic": 69.0},
@@ -19,9 +25,5 @@
   {"title": "Wild Blue Skies", "title_id": "01005AB028A12000", "metacritic": null},
   {"title": "Dungeon of Dragon Knight Remake", "title_id": "010048D02624E000", "metacritic": null},
   {"title": "Rumbral", "title_id": "0100E6B02672A000", "metacritic": null},
-  {"title": "Cat Astrophy", "title_id": "01001BB028E98000", "metacritic": 57.0},
-  {"title": "Warrior Cats Clans of the Forest Feral Edition", "title_id": "01005D4028F1C000", "metacritic": null},
-  {"title": "Hello Kitty Party Land", "title_id": "01001340271EC000", "metacritic": null},
-  {"title": "Godzilla Destroy All Monsters Melee Remastered + DLC", "title_id": "0100A00026D70000", "metacritic": null},
-  {"title": "Look Outside", "title_id": "01004C80299B6000", "metacritic": null}
+  {"title": "Cat Astrophy", "title_id": "01001BB028E98000", "metacritic": 57.0}
 ]
