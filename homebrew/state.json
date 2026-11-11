@@ -293,6 +293,21 @@
    "type": "file",
    "zip_root": ""
   },
+  "etonedemid/netsurf-switch": {
+   "asset_key": "590752789:2026-09-26T13:50:57Z",
+   "extracted": 32796642,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/netsurf-switch.jpg",
+   "nacp": {
+    "author": "NetSurf Switch port",
+    "title": "NetSurf",
+    "version": "3.12"
+   },
+   "sha256": "adc407ceab4e17347230f71d13c87969767e65015fd163021d548ce9f35456a9",
+   "size": 32796642,
+   "type": "file",
+   "zip_root": ""
+  },
   "etonedemid/nxpotify": {
    "asset_key": "451648740:2026-06-18T22:57:07Z",
    "extracted": 9952932,
@@ -797,18 +812,33 @@
    "type": "file",
    "zip_root": ""
   },
+  "slluxx/pokemontv": {
+   "asset_key": "54062268:2022-01-15T17:55:13Z",
+   "extracted": 297369,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/pokemontv.jpg",
+   "nacp": {
+    "author": "Slluxx",
+    "title": "PokemonTV",
+    "version": "1.0.1"
+   },
+   "sha256": "77423dd0d32d11762d423fcd75cba4da07cf7844ececc06209c00d721036b9dd",
+   "size": 297369,
+   "type": "file",
+   "zip_root": ""
+  },
   "sonerx7/nexvyn-os-nx": {
-   "asset_key": "732659504:2026-11-10T19:26:36Z",
-   "extracted": 80405125,
+   "asset_key": "733472691:2026-11-11T00:14:21Z",
+   "extracted": 80485909,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Nexvyn-OS-NX.jpg",
    "nacp": {
     "author": "sonerx7",
     "title": "Nexvyn OS",
-    "version": "1.3.0"
+    "version": "1.3.5"
    },
-   "sha256": "739d9a4aed63ade2dc6f17e6410c70c85ec1b6c2b3804209663829b82f8b871e",
-   "size": 80405125,
+   "sha256": "c2c3c3e9b0e8846d1221a492f5384ae5ed3607b39a4464d087b56bac65e0908f",
+   "size": 80485909,
    "type": "file",
    "zip_root": ""
   },
@@ -839,6 +869,21 @@
    },
    "sha256": "c625b60cda4df6d2af752fe72ab778eff23b21587e768b5014bbe8fb68056ad6",
    "size": 17107608,
+   "type": "file",
+   "zip_root": ""
+  },
+  "suchmememanyskill/notes": {
+   "asset_key": "15919050:2019-11-02T22:59:49Z",
+   "extracted": 313829,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/notes.jpg",
+   "nacp": {
+    "author": "Such Meme, Many Skill",
+    "title": "Notes",
+    "version": "1.0.0"
+   },
+   "sha256": "07bf5b899f049de638156ca28001b2ac66f3a2f84d1e15beca7a7e1ca5ca7259",
+   "size": 313829,
    "type": "file",
    "zip_root": ""
   },
@@ -1178,6 +1223,12 @@
     "visual-novel"
    ]
   },
+  "etonedemid/netsurf-switch": {
+   "description": "",
+   "full_name": "etonedemid/netsurf-switch",
+   "stargazers_count": null,
+   "topics": []
+  },
   "etonedemid/nxpotify": {
    "description": "",
    "full_name": "etonedemid/nxpotify",
@@ -1388,10 +1439,16 @@
    "stargazers_count": null,
    "topics": []
   },
+  "slluxx/pokemontv": {
+   "description": "",
+   "full_name": "slluxx/pokemontv",
+   "stargazers_count": null,
+   "topics": []
+  },
   "sonerx7/nexvyn-os-nx": {
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
    "full_name": "sonerx7/Nexvyn-OS-NX",
-   "stargazers_count": 69,
+   "stargazers_count": 70,
    "topics": [
     "app-market",
     "atmosphere",
@@ -1420,6 +1477,12 @@
   "stardustcfw/stardust-toolkit": {
    "description": "",
    "full_name": "stardustcfw/stardust-toolkit",
+   "stargazers_count": null,
+   "topics": []
+  },
+  "suchmememanyskill/notes": {
+   "description": "",
+   "full_name": "suchmememanyskill/notes",
    "stargazers_count": null,
    "topics": []
   },
@@ -1490,6 +1553,7 @@
   "ely3m/weather-app-for-nintendo-switch": "2026-11-09",
   "elzerdodata/ligh_is_green": "2026-11-10",
   "erige005/kirikiroid2-nx": "2026-11-09",
+  "etonedemid/netsurf-switch": "2026-11-11",
   "etonedemid/nxpotify": "2026-11-10",
   "falki141/ftpd4sxos": "2026-11-09",
   "gomprime/switchiptv": "2026-11-09",
@@ -1512,9 +1576,11 @@
   "shodowlo/nx-torrent-player": "2026-11-09",
   "slankka/nx-fs-utf8": "2026-11-09",
   "slluxx/icongrabber": "2026-11-09",
+  "slluxx/pokemontv": "2026-11-11",
   "sonerx7/nexvyn-os-nx": "2026-11-09",
   "stardustcfw/haku33": "2026-11-09",
   "stardustcfw/stardust-toolkit": "2026-11-10",
+  "suchmememanyskill/notes": "2026-11-11",
   "tehfridge/ctr-nxwallet": "2026-11-10",
   "tootallnate/nx.js": "2026-11-09",
   "tuckerwales/nslibrary": "2026-11-09",
@@ -6315,6 +6381,154 @@
   ],
   "/wiki/Nand_Dumper_Switch": [
    "itotaljustice/nand-dumper"
+  ],
+  "/wiki/NeXT_Switch": [
+   "mistervampi/next",
+   "switchbrew/nx-hbloader"
+  ],
+  "/wiki/NetSurf_for_NX_Switch": [
+   "etonedemid/netsurf-switch"
+  ],
+  "/wiki/Neumann_Switch": [
+   "switchbrew/switch-portlibs-examples",
+   "thomasnet-mc/edizon",
+   "turtle-insect/neumann"
+  ],
+  "/wiki/NightFall_Switch": [
+   "d3fau4/nightfall",
+   "d3fau4/nightfall-server",
+   "natinusala/borealis"
+  ],
+  "/wiki/Noob-Friendly_L4T_Ubuntu_Switch": [],
+  "/wiki/Notes_Switch": [
+   "suchmememanyskill/notes"
+  ],
+  "/wiki/Nso-icon-tool_Switch": [
+   "dslatt/nso-icon-tool",
+   "hamletdufromage/aio-switch-updater",
+   "henry-debruin/nso-icons"
+  ],
+  "/wiki/Nx-bred_Switch": [
+   "plutooo/nx-btred"
+  ],
+  "/wiki/Nx-laserplayer_Switch": [
+   "averne/mpv",
+   "proconsule/libusbdvd",
+   "proconsule/nx-laserplayer"
+  ],
+  "/wiki/NxTransmission_Switch": [
+   "t-flo/nxtransmission"
+  ],
+  "/wiki/NxTube_Switch": [
+   "reisxd/tizentube"
+  ],
+  "/wiki/NxUsbX360Con_Switch": [
+   "masagrator/nxusbx360con",
+   "nefarius/vigembus"
+  ],
+  "/wiki/Nyx_Rescue_Mod_Switch": [
+   "atmosphere-nx/atmosphere",
+   "ctcaer/hekate",
+   "jiraiya78/nyx-rescue-mod"
+  ],
+  "/wiki/Off_Switch": [
+   "itotaljustice/off-switch"
+  ],
+  "/wiki/Old_School_Player_Switch": [
+   "notnotme/osp"
+  ],
+  "/wiki/Open-DBI_Switch": [
+   "mrbeige1/open-dbi"
+  ],
+  "/wiki/OpenNOW_Switch": [
+   "akheron/jansson",
+   "blade-punisher/switchnow",
+   "curl/curl"
+  ],
+  "/wiki/PAUSE-NX_Switch": [
+   "hamhub7/pause-nx"
+  ],
+  "/wiki/PKSE_Switch": [
+   "flagbrew/memecrypto",
+   "flagbrew/pksm",
+   "kiasta/pkse"
+  ],
+  "/wiki/PPlay_Switch": [
+   "cpasjuste/pplay"
+  ],
+  "/wiki/Pack_Atmosphere_Vanilla_Switch": [
+   "atmosphere-nx/atmosphere",
+   "ctcaer/hekate",
+   "flagbrew/checkpoint"
+  ],
+  "/wiki/Painless_Linux_Switch": [
+   "natinusala/painless-linux",
+   "natinusala/switch-linux",
+   "natinusala/switch-u-boot"
+  ],
+  "/wiki/Payload-Launcher-Apple_Switch": [
+   "lordapple/payload-launcher",
+   "xortroll/plutonium"
+  ],
+  "/wiki/PayloadReboot_Switch": [
+   "atmosphere-nx/atmosphere",
+   "ctcaer/hekate",
+   "garyodernichts/udpih_nxpayload"
+  ],
+  "/wiki/Payload_Launcher_Switch": [
+   "atmosphere-nx/atmosphere",
+   "suchmememanyskill/payload_launcher"
+  ],
+  "/wiki/PayloaderNX_Switch": [
+   "atmosphere-nx/atmosphere",
+   "itotaljustice/payloadernx",
+   "suchmememanyskill/payload_launcher"
+  ],
+  "/wiki/Pixel-Painter_Switch": [
+   "16bitwonder/pixel-painter-switch",
+   "switchbrew/libnx"
+  ],
+  "/wiki/PkDex_Switch": [
+   "atmosphere-nx/atmosphere",
+   "atmosphere-nx/libstratosphere",
+   "insektaure/pkdex"
+  ],
+  "/wiki/PkHouse_Switch": [
+   "dlbeer/quirc",
+   "flagbrew/checkpoint",
+   "insektaure/pkhouse"
+  ],
+  "/wiki/PkTeraRaid_Switch": [
+   "atmosphere-nx/atmosphere",
+   "insektaure/pkteraraid"
+  ],
+  "/wiki/PlayerNX_Switch": [
+   "xortroll/playernx"
+  ],
+  "/wiki/PokemonTV_Switch": [
+   "slluxx/pokemontv"
+  ],
+  "/wiki/PowertoolsNX_Switch": [
+   "cvfiredragon/powertoolsnx"
+  ],
+  "/wiki/ProdInfoEnabler_Switch": [
+   "darkxex/prodinfoenabler"
+  ],
+  "/wiki/Prodinfo_Parser_Switch": [
+   "itotaljustice/prodinfo_parser"
+  ],
+  "/wiki/PushA_Switch": [
+   "maschell/pusha_nx"
+  ],
+  "/wiki/PyNX_-_Game_Redirector_Switch": [
+   "kozlowlw/py-switch"
+  ],
+  "/wiki/PyNX_Switch": [
+   "nx-python/pynx"
+  ],
+  "/wiki/RCMReboot_Switch": [],
+  "/wiki/RajNX_Switch": [
+   "rajkosto/sys-ftpd"
   ]
  },
  "rejected": {
@@ -6364,6 +6578,10 @@
   "ahmadsouri/jak-switch-port": {
    "checked": "2026-11-09",
    "pushed_at": "2026-10-23T09:12:10Z"
+  },
+  "akheron/jansson": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
   },
   "akissu/ftpc-nx": {
    "checked": "2026-11-09",
@@ -6468,8 +6686,16 @@
    "checked": "2026-11-10",
    "pushed_at": ""
   },
+  "atmosphere-nx/libstratosphere": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "averne/ffmpeg": {
    "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "averne/mpv": {
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "azarucha/sys-airplay": {
@@ -6512,6 +6738,11 @@
    "candidate": "| [biuspoly/pekka-kana-2-switch](https://github.com/biuspoly/pekka-kana-2-switch) | 0 | v1.0 | 2026-10-28 | PekkaKana2_Switch_SD.zip |",
    "checked": "2026-11-09",
    "pushed_at": "2026-10-28T22:22:41Z"
+  },
+  "blade-punisher/switchnow": {
+   "candidate": "| [blade-punisher/switchnow](https://github.com/blade-punisher/switchnow) | ? | v1.3.0 | 2026-10-31 | SwitchNOW-1.3.0-SHA256SUMS.txt, SwitchNOW-1.3.0-showcase.jpg, SwitchNOW-1.3.0-source.zip, SwitchNOW-1.3.0.nro, SwitchNOW |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
   },
   "bladesawstudios/wiixlaunch": {
    "candidate": "| [BladesawStudios/WiiXLaunch](https://github.com/BladesawStudios/WiiXLaunch) | 6 | 1.0-rc1 | 2026-09-16 | wxl-sdk-1.0-rc1.zip |",
@@ -6647,6 +6878,11 @@
    "checked": "2026-11-10",
    "pushed_at": "2026-11-10T10:51:54Z"
   },
+  "curl/curl": {
+   "candidate": "| [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "cy33hc/vita-ezremote-client": {
    "checked": "2026-11-09",
    "pushed_at": ""
@@ -6655,6 +6891,15 @@
    "candidate": "| [Cylinderapfreeze/Lichii-Emulator](https://github.com/Cylinderapfreeze/Lichii-Emulator) | 124 | 117 | 2026-11-08 | lichii-linux-aarch64.AppImage, lichii-linux-x86_64.AppImage, lichii-macos-arm64.zip, lichii-windows-x86_64.zip |",
    "checked": "2026-11-09",
    "pushed_at": "2026-11-08T19:30:59Z"
+  },
+  "d3fau4/nightfall": {
+   "candidate": "| [d3fau4/nightfall](https://github.com/d3fau4/nightfall) | ? | 1.1.4 | 2021-09-25 | NightFall.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "d3fau4/nightfall-server": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
   },
   "danialonso/nx-control": {
    "candidate": "| [danialonso/nx-control](https://github.com/danialonso/nx-control) | 0 | v0.2.5 | 2026-10-30 | NX-Control-0.2.5.zip |",
@@ -6722,6 +6967,10 @@
    "candidate": "| [Dimasick-git/Ryazha-Status-Monitor](https://github.com/Dimasick-git/Ryazha-Status-Monitor) | 3 | 1.5.5-deko3d | 2026-10-27 | Ryazha-Status-Monitor.ovl, Ryazha-Status-Monitor.zip |",
    "checked": "2026-11-09",
    "pushed_at": "2026-10-29T19:20:23Z"
+  },
+  "dlbeer/quirc": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
   },
   "domazinus/switify": {
    "candidate": "| [DomazinUS/Switify](https://github.com/DomazinUS/Switify) | 31 | v0.7.1 | 2026-08-20 | SHA256SUMS.txt, Switify-0.7.1.zip, Switify-Overlay-0.5.0.zip, Switify-source-0.7.1.zip |",
@@ -6859,6 +7108,14 @@
    "checked": "2026-11-09",
    "pushed_at": ""
   },
+  "flagbrew/memecrypto": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "flagbrew/pksm": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "fortheusers/chesto": {
    "checked": "2026-11-09",
    "pushed_at": ""
@@ -6876,6 +7133,10 @@
    "candidate": "| [FunkinNXTeam/FunkinLegacy](https://github.com/FunkinNXTeam/FunkinLegacy) | 3 | NX-1.0.1 | 2026-02-04 | Funkin.nro |",
    "checked": "2026-11-09",
    "pushed_at": "2026-02-04T09:13:11Z"
+  },
+  "garyodernichts/udpih_nxpayload": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
   },
   "genwald/generic-mod-manager": {
    "candidate": "| [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |",
@@ -6901,6 +7162,11 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-11-03T14:57:12Z"
   },
+  "hamhub7/pause-nx": {
+   "candidate": "| [hamhub7/pause-nx](https://github.com/hamhub7/pause-nx) | ? | 1.2 | 2019-09-11 | PAUSE-nx.v1.2.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "hanazonoarchive/switchtheme_studio": {
    "checked": "2026-11-10",
    "pushed_at": "2026-11-10T06:43:36Z"
@@ -6918,14 +7184,18 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-10-23T21:09:45Z"
   },
+  "henry-debruin/nso-icons": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "hidki/n1dus": {
    "checked": "2026-11-10",
    "pushed_at": ""
   },
   "horizon-oc/horizon-oc": {
-   "candidate": "| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 274 | 2.6.0-rel | 2026-10-16 | dist.zip, dist_ext.zip |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-10-23T11:05:19Z"
+   "candidate": "| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 275 | 2.6.0-rel | 2026-10-16 | dist.zip, dist_ext.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": "2026-11-11T00:19:26Z"
   },
   "hotshotz79/nx-romget": {
    "candidate": "| [hotshotz79/nx-romget](https://github.com/hotshotz79/nx-romget) | ? | 0.1 | 2020-04-20 | main.py, NX-RomGet.zip |",
@@ -6987,14 +7257,28 @@
    "checked": "2026-11-10",
    "pushed_at": ""
   },
+  "itotaljustice/off-switch": {
+   "candidate": "| [itotaljustice/off-switch](https://github.com/itotaljustice/off-switch) | ? | v1.0 | 2020-01-17 | off_switch.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "itotaljustice/payloadernx": {
+   "candidate": "| [itotaljustice/payloadernx](https://github.com/itotaljustice/payloadernx) | ? | v1.0 | 2019-04-27 | exefs.zip, PayloaderNX.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "itotaljustice/prodinfo_parser": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "jack-the-yoshi/one-click-game-manager-ocgm-": {
    "candidate": "| [Jack-The-Yoshi/One-Click-Game-Manager-OCGM-](https://github.com/Jack-The-Yoshi/One-Click-Game-Manager-OCGM-) | 1 | v1.0.1 | 2026-02-16 | OCGM.nro |",
    "checked": "2026-11-09",
    "pushed_at": "2026-02-16T23:25:56Z"
   },
   "jacquesdupontd/port0r": {
-   "checked": "2026-11-10",
-   "pushed_at": "2026-11-10T19:34:58Z"
+   "checked": "2026-11-11",
+   "pushed_at": "2026-11-11T06:04:40Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -7012,6 +7296,10 @@
   },
   "jimzrt/incognito_rcm": {
    "checked": "2026-11-10",
+   "pushed_at": ""
+  },
+  "jiraiya78/nyx-rescue-mod": {
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "johnuzoka/bevy-horizon": {
@@ -7059,6 +7347,10 @@
   },
   "konstanty/libmodplug": {
    "checked": "2026-11-10",
+   "pushed_at": ""
+  },
+  "kozlowlw/py-switch": {
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "kwsch/nhse": {
@@ -7110,6 +7402,11 @@
    "checked": "2026-11-10",
    "pushed_at": "2026-11-10T06:08:57Z"
   },
+  "masagrator/nxusbx360con": {
+   "candidate": "| [masagrator/nxusbx360con](https://github.com/masagrator/nxusbx360con) | ? | 1.0.0 | 2026-06-26 | NxUsbX360Con.nro, ServerNativeArm64.zip, ServerNativeX64.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "mentalblank/pyxis": {
    "candidate": "| [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) | 57 | 46 | 2026-11-08 | PYXIS_SwitchAIO.zip |",
    "checked": "2026-11-09",
@@ -7142,8 +7439,8 @@
    "pushed_at": ""
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
-   "checked": "2026-11-10",
-   "pushed_at": "2026-11-10T16:55:46Z"
+   "checked": "2026-11-11",
+   "pushed_at": "2026-11-11T02:39:25Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-10",
@@ -7152,6 +7449,10 @@
   "morce3232/dbipatcher": {
    "candidate": "| [morce3232/dbipatcher](https://github.com/morce3232/dbipatcher) | ? | v845 | 2025-11-28 | 824.en.nro, 828.en.nro, 831.en.nro, 839.en.nro, 842.en.nro, 844.en.nro, 845.en.nro |",
    "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "mrbeige1/open-dbi": {
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "n3evin/amiiboapi": {
@@ -7170,6 +7471,18 @@
    "checked": "2026-11-09",
    "pushed_at": ""
   },
+  "natinusala/painless-linux": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "natinusala/switch-linux": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
+  "natinusala/switch-u-boot": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "nawias/bar128-love": {
    "checked": "2026-11-10",
    "pushed_at": ""
@@ -7181,6 +7494,10 @@
   "ncarvalho99/framegen-nx": {
    "checked": "2026-11-09",
    "pushed_at": "2026-08-29T15:38:35Z"
+  },
+  "nefarius/vigembus": {
+   "checked": "2026-11-11",
+   "pushed_at": ""
   },
   "nekkk/mil-manager-delivery": {
    "checked": "2026-11-09",
@@ -7203,6 +7520,11 @@
   "nlohmann/json": {
    "candidate": "| [nlohmann/json](https://github.com/nlohmann/json) | ? | v3.12.0 | 2025-04-11 | include.zip, include.zip.asc, json.hpp, json.hpp.asc, json.tar.xz, json.tar.xz.asc, json_fwd.hpp, json_fwd.hpp.asc |",
    "checked": "2026-11-10",
+   "pushed_at": ""
+  },
+  "notnotme/osp": {
+   "candidate": "| [notnotme/osp](https://github.com/notnotme/osp) | ? | 0.4.5 | 2020-10-19 | osp.zip |",
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "npshoporg/npshopswitch": {
@@ -7261,6 +7583,11 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-01-30T11:30:50Z"
   },
+  "plutooo/nx-btred": {
+   "candidate": "| [plutooo/nx-btred](https://github.com/plutooo/nx-btred) | ? | 0.9.3 | 2021-04-26 | nx-bted-0.9.3.zip |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "plv890/corkdeck": {
    "candidate": "| [plv890/CorkDeck](https://github.com/plv890/CorkDeck) | 16 | v0.3e | 2026-10-11 | CorkDeck-0.3e.zip, SHA256SUMS.txt |",
    "checked": "2026-11-09",
@@ -7271,9 +7598,9 @@
    "pushed_at": ""
   },
   "ppkantorski/7th-heaven-nx": {
-   "candidate": "| [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 11 | v1.1.2 | 2026-11-10 | 7th-Heaven-NX-1.1.2-linux-arm64.zip, 7th-Heaven-NX-1.1.2-linux-x64.zip, 7th-Heaven-NX-1.1.2-macos-arm64.zip, 7th-Heaven- |",
-   "checked": "2026-11-10",
-   "pushed_at": "2026-11-10T05:29:41Z"
+   "candidate": "| [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 11 | v1.1.3 | 2026-11-11 | 7th-Heaven-NX-1.1.3-linux-arm64.zip, 7th-Heaven-NX-1.1.3-linux-x64.zip, 7th-Heaven-NX-1.1.3-macos-arm64.zip, 7th-Heaven- |",
+   "checked": "2026-11-11",
+   "pushed_at": "2026-11-11T01:06:51Z"
   },
   "ppkantorski/alchemist": {
    "candidate": "| [ppkantorski/Alchemist](https://github.com/ppkantorski/Alchemist) | 47 | v1.0.6 | 2026-04-23 | Alchemist.zip |",
@@ -7287,8 +7614,8 @@
   },
   "ppkantorski/hoc-toolkit": {
    "candidate": "| [ppkantorski/HOC-Toolkit](https://github.com/ppkantorski/HOC-Toolkit) | 24 | v2.0.7 | 2026-11-01 | hoc-toolkit.zip |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-11-08T17:19:17Z"
+   "checked": "2026-11-11",
+   "pushed_at": "2026-11-11T01:23:43Z"
   },
   "ppkantorski/libultrahand": {
    "candidate": "| [ppkantorski/libultrahand](https://github.com/ppkantorski/libultrahand) | 68 | v2.5.4 | 2026-11-09 | libultrahand.zip |",
@@ -7309,6 +7636,11 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-05-22T09:03:58Z"
   },
+  "proconsule/libusbdvd": {
+   "candidate": "| [proconsule/libusbdvd](https://github.com/proconsule/libusbdvd) | ? | 0.1.3 | 2026-08-21 | libusbdvd-0.1.3.zip, libusbdvd-example-c.nro |",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
    "checked": "2026-11-09",
@@ -7321,6 +7653,11 @@
   "rajkosto/nx-hbloader": {
    "candidate": "| [rajkosto/nx-hbloader](https://github.com/rajkosto/nx-hbloader) | ? | v1.1 | 2018-07-30 | nx-hbloader_with_debug.zip |",
    "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "rajkosto/sys-ftpd": {
+   "candidate": "| [rajkosto/sys-ftpd](https://github.com/rajkosto/sys-ftpd) | ? | b2 | 2018-08-14 | sys-ftpd.zip |",
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "rashevskyv/4ifir": {
@@ -7357,6 +7694,10 @@
   },
   "redphx/better-xcloud": {
    "checked": "2026-11-10",
+   "pushed_at": ""
+  },
+  "reisxd/tizentube": {
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "reisyukaku/boginstaller": {
@@ -7406,8 +7747,8 @@
    "pushed_at": ""
   },
   "rydiaryzen/rydia.runtime": {
-   "checked": "2026-11-09",
-   "pushed_at": "2026-11-09T05:58:03Z"
+   "checked": "2026-11-11",
+   "pushed_at": "2026-11-10T23:03:34Z"
   },
   "s3340326706-tech/deepstream-ns-qqmusic": {
    "candidate": "| [s3340326706-tech/deepstream-ns-qqmusic](https://github.com/s3340326706-tech/deepstream-ns-qqmusic) | 0 | v0.9.6 | 2026-10-21 | Deepstream_v0.9.6_Switch.zip |",
@@ -7592,6 +7933,11 @@
    "checked": "2026-11-09",
    "pushed_at": ""
   },
+  "thomasnet-mc/edizon": {
+   "alias": "werwolv/edizon",
+   "checked": "2026-11-11",
+   "pushed_at": ""
+  },
   "thzoria/atmopack-vanilla": {
    "checked": "2026-11-09",
    "pushed_at": ""
@@ -7696,6 +8042,10 @@
   },
   "xortroll/aoc-mitm": {
    "checked": "2026-11-09",
+   "pushed_at": ""
+  },
+  "xortroll/playernx": {
+   "checked": "2026-11-11",
    "pushed_at": ""
   },
   "yariklol879-ops/pgba-nx": {

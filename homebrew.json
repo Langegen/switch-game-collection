@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-10T19:47:46Z",
+ "generated": "2026-11-11T06:26:01Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -3345,21 +3345,44 @@
    "first_seen": "2026-11-10"
   },
   {
+   "name": "netsurf-switch",
+   "title": "NetSurf",
+   "author": "NetSurf Switch port",
+   "version": "0.2.0",
+   "category": "tool",
+   "description": "",
+   "changelog": "modernized css to today's standarts\r\njavascript\r\ninline audio/video\r\nenjoy",
+   "url": "https://github.com/etonedemid/netsurf-switch",
+   "repo": "etonedemid/netsurf-switch",
+   "updated": "2026-09-26",
+   "download_url": "https://github.com/etonedemid/netsurf-switch/releases/download/v0.2.0/netsurf.nro",
+   "download_type": "file",
+   "sha256": "adc407ceab4e17347230f71d13c87969767e65015fd163021d548ce9f35456a9",
+   "filesize": 32796642,
+   "extracted": 32796642,
+   "files": [
+    "U: switch/netsurf-switch/netsurf-switch.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/netsurf-switch.jpg",
+   "auto": true,
+   "first_seen": "2026-11-11"
+  },
+  {
    "name": "Nexvyn-OS-NX",
    "title": "Nexvyn OS",
    "author": "sonerx7",
-   "version": "1.3.0",
+   "version": "1.3.5",
    "category": "game",
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
-   "changelog": "**What's new in 1.3.0**\n- Browser: WebGL 1 and 2, much fuller Canvas 2D (text, shadows, filters, PNG/JPEG export), Web Workers, IndexedDB, ES modules, WebAudio, Gamepad and Fullscreen APIs\n- Browser video: `<video>`, HLS and MediaSource, plus ClearKey encrypted media. DRM services (Netflix and similar) are not supported; YouTube is experimental\n- WebAssembly is included but off by default (turn it on with the `web.wasm` setting); desktop sites are now the default\n- The Browser uses less memory (background tabs are released, script bytecode is cached on the SD card), signs in to more sites (cookies, forms, password manager) and has had a security review\n- Native SDK 1.2 for native apps: window title and mode control, battery / dock / network state, OS dialogs and the OS keyboard; native apps no longer ask for trust on every launch. The script SDK stays 1.13, so every existing app runs unchanged\n- App Market: five ready emulator packages (mGBA, FCEUmm, Gambatte, Genesis Plus GX, Snes9x) with a shared gallery front end, and a new \"Runtimes & Libraries\" category. Bring your own games: no BIOS or games are included\n\n---\n**1.3.0:** tarayıcıda WebGL 1/2, tam Canvas 2D, Worker, IndexedDB, ES modülleri, video / HLS / MediaSource, ClearKey (DRM'li servisler yok, YouTube deneysel), WebAssembly varsayılan kapalı, masaüstü siteleri varsayılan, daha az bellek ve güvenlik düzeltmeleri · Native SDK 1.2 (pencere, pil / ağ, OS diyalogları ve klavyesi) · App Market'te beş emülatör paketi ve \"Çalışma Ortamları ve Kütüphaneler\" kategorisi.",
+   "changelog": "**What's new in 1.3.5**\n- App Market Emulators subcategories: emulators are now organized into Handheld, Console, PC / Computer, Arcade, Multi-System, and Others across the Emulators sidebar, narrow category pills, Browse page, and search, backed by catalog metadata (`emuCategory`, `Store/Emulators/<subcategory>/`)\n- App Market Beta channel tab: added a top-right Beta view backed by `Store/beta.json` so in-development packages can be listed, inspected, and installed separately before release\n- App Market catalog parsing fix: restored reading external package download metadata (`download`, `sha256`, `size`, `runtime`, `abi`) so all Store apps, emulators, themes, and beta items appear and install properly\n\n---\n\n**1.3.5'te yenilikler:** App Market Emülatör alt kategorileri: emülatörler yan menü, kategori çubuğu, Göz At ve aramada El Konsolları, Ev Konsolları, PC / Bilgisayar, Arcade, Çoklu Sistem ve Diğer başlıklarına ayrıldı · App Market Beta sekmesi: sağ üste eklenen Beta sayfasıyla (`Store/beta.json`) geliştirme aşamasındaki uygulamalar yayına çıkmadan önce ayrı sekmeden incelenip kurulabilir · App Market katalog ayrıştırma düzeltmesi: harici paketlerin indirme ve doğrulama alanları (`download`, `sha256`, `size`, `runtime`, `abi`) geri getirilerek mağaza uygulamaları, emülatörler, temalar ve beta paketlerinin tam yüklenmesi sağlandı.\n\n**Kurulum / Install:** `NexvynOS.nro` dosyasını `sdmc:/switch/` klasörüne kopyalayın. Mevcut kurulumlar Ayarlar > Yazılım Güncelleme ile güncellenir.",
    "url": "https://github.com/sonerx7/nexvyn-os-nx",
    "repo": "sonerx7/nexvyn-os-nx",
-   "updated": "2026-11-10",
-   "download_url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/download/v1.3.0/NexvynOS.nro",
+   "updated": "2026-11-11",
+   "download_url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/download/v1.3.5/NexvynOS.nro",
    "download_type": "file",
-   "sha256": "739d9a4aed63ade2dc6f17e6410c70c85ec1b6c2b3804209663829b82f8b871e",
-   "filesize": 80405125,
-   "extracted": 80405125,
+   "sha256": "c2c3c3e9b0e8846d1221a492f5384ae5ed3607b39a4464d087b56bac65e0908f",
+   "filesize": 80485909,
+   "extracted": 80485909,
    "files": [
     "U: switch/Nexvyn-OS-NX/Nexvyn-OS-NX.nro"
    ],
@@ -3367,6 +3390,29 @@
    "license": "GPL-3.0",
    "auto": true,
    "first_seen": "2026-11-09"
+  },
+  {
+   "name": "notes",
+   "title": "Notes",
+   "author": "Such Meme, Many Skill",
+   "version": "1.0.1",
+   "category": "tool",
+   "description": "",
+   "changelog": "",
+   "url": "https://github.com/suchmememanyskill/notes",
+   "repo": "suchmememanyskill/notes",
+   "updated": "2019-11-02",
+   "download_url": "https://github.com/suchmememanyskill/Notes/releases/download/1.0.1/Notes.nro",
+   "download_type": "file",
+   "sha256": "07bf5b899f049de638156ca28001b2ac66f3a2f84d1e15beca7a7e1ca5ca7259",
+   "filesize": 313829,
+   "extracted": 313829,
+   "files": [
+    "U: switch/notes/notes.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/notes.jpg",
+   "auto": true,
+   "first_seen": "2026-11-11"
   },
   {
    "name": "nslibrary",
@@ -3675,6 +3721,29 @@
    "description_i18n": {
     "ru": "Оверлей: включение и выключение системных модулей"
    }
+  },
+  {
+   "name": "pokemontv",
+   "title": "PokemonTV",
+   "author": "Slluxx",
+   "version": "1.0.1",
+   "category": "tool",
+   "description": "",
+   "changelog": "- Switch Client\r\n  - Worked around an issue where B closes the browser. Its still closing it but now it restarts on its own, making it a little less annoying. Im still trying to find something like a \"Javascript history hack\" to trick the browser to \"go back to the current site\" so it wont close because it thinks there is nothing to go back to.\r\n  - General code cleanup\r\n\r\n- Website\r\n    - removed \"menu button\" in favour of a more stylish and usefull breadcrumb\r\n    - started to move inline CSS to classes\r\n    - started to split code into components\r\n    - added meta tags for allmighty google\r\n    - fixed the icons and made them pills so bad browser can still display them\r\n    - fixed some language on the site\r\n    - fixed iframe fullscreen issues\r\n    - fixed episodes thumbnail width (some titles randomly have smaller images)\r\n    - general code cleanup\r\n\r\n- API\r\n   - fixed data-gathering by using proxies to circumvent region based api content\r\n   - fixed data-gathering automation\r\n   - general code cleanup",
+   "url": "https://github.com/slluxx/pokemontv",
+   "repo": "slluxx/pokemontv",
+   "updated": "2022-01-15",
+   "download_url": "https://github.com/Slluxx/pokemontv/releases/download/v1.0.1/pokemontv.nro",
+   "download_type": "file",
+   "sha256": "77423dd0d32d11762d423fcd75cba4da07cf7844ececc06209c00d721036b9dd",
+   "filesize": 297369,
+   "extracted": 297369,
+   "files": [
+    "U: switch/pokemontv/pokemontv.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/pokemontv.jpg",
+   "auto": true,
+   "first_seen": "2026-11-11"
   },
   {
    "name": "shank2-nx",
