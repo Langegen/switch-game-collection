@@ -578,6 +578,21 @@
    "type": "file",
    "zip_root": ""
   },
+  "jinghaihan/mhgu-overlay": {
+   "asset_key": "643183890:2026-10-15T08:14:37Z",
+   "extracted": 544824,
+   "files": [],
+   "icon_url": "",
+   "nacp": {
+    "author": "Jing Haihan",
+    "title": "MHGU Overlay",
+    "version": "0.6.3"
+   },
+   "sha256": "c5a7780972b5405e3872411035b30037c5c58c756ff4601e1f0438488ccb0005",
+   "size": 544824,
+   "type": "file",
+   "zip_root": ""
+  },
   "kaays/mc3_nx": {
    "asset_key": "684724798:2026-10-28T11:10:15Z",
    "extracted": 5435339,
@@ -850,17 +865,17 @@
    "zip_root": ""
   },
   "qret/modkitnx": {
-   "asset_key": "736143009:2026-11-11T16:31:39Z",
-   "extracted": 11123407,
+   "asset_key": "739190201:2026-11-12T11:16:41Z",
+   "extracted": 11139087,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ModKitNX.jpg",
    "nacp": {
     "author": "qret",
     "title": "ModKitNX",
-    "version": "1.0.9"
+    "version": "1.1.1"
    },
-   "sha256": "05ae9a9207bb0497730df5e010228b0b6098b1f4e5d63b5f3d7c99ee910614ef",
-   "size": 11123407,
+   "sha256": "822d7706e61005901b422f7c2c4176820b94effdd107058344d387a0069f14ab",
+   "size": 11139087,
    "type": "file",
    "zip_root": ""
   },
@@ -1537,19 +1552,6 @@
    "stargazers_count": null,
    "topics": []
   },
-  "hashcade/mhgu-overlay": {
-   "description": "A monster info, damage display, and gameplay tools tesla overlay for MHGU on Nintendo Switch.",
-   "full_name": "hashcade/mhgu-overlay",
-   "stargazers_count": 5,
-   "topics": [
-    "mhgu",
-    "monster-hunter",
-    "monster-hunter-generations-ultimate",
-    "nintendo-switch",
-    "tesla-overlay",
-    "ultrahand-overlay"
-   ]
-  },
   "ibnuard/darktube": {
    "description": "Nintendo Switch CFW Youtube Player Alternatives Homebrew",
    "full_name": "Ibnuard/DarkTube",
@@ -1572,6 +1574,19 @@
    "full_name": "itotaljustice/nx-deviceid-viewer",
    "stargazers_count": null,
    "topics": []
+  },
+  "jinghaihan/mhgu-overlay": {
+   "description": "A monster info, damage display, and gameplay tools tesla overlay for MHGU on Nintendo Switch.",
+   "full_name": "jinghaihan/mhgu-overlay",
+   "stargazers_count": 5,
+   "topics": [
+    "mhgu",
+    "monster-hunter",
+    "monster-hunter-generations-ultimate",
+    "nintendo-switch",
+    "tesla-overlay",
+    "ultrahand-overlay"
+   ]
   },
   "kaays/mc3_nx": {
    "description": "Modern Combat 3: Fallen Nation (Android 1.1.7g, 32-bit) running natively on the Nintendo Switch — android32 so-loader port.",
@@ -1746,19 +1761,6 @@
    "stargazers_count": null,
    "topics": []
   },
-  "slankka/nx-fs-utf8": {
-   "description": "A firmware \"KIP\" to unlock Switch FileSystem to read/write and enumerate UTF-8 CJK file names.",
-   "full_name": "slankka/nx-fs-utf8",
-   "stargazers_count": 5,
-   "topics": [
-    "atmosphere",
-    "firmware-tools",
-    "hekate",
-    "homebrew",
-    "nintendo-switch-homebrew",
-    "utf-8"
-   ]
-  },
   "slluxx/icongrabber": {
    "description": "",
    "full_name": "slluxx/icongrabber",
@@ -1774,7 +1776,7 @@
   "sonerx7/nexvyn-os-nx": {
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
    "full_name": "sonerx7/Nexvyn-OS-NX",
-   "stargazers_count": 70,
+   "stargazers_count": 71,
    "topics": [
     "app-market",
     "atmosphere",
@@ -1912,6 +1914,7 @@
   "ibnuard/darktube": "2026-11-09",
   "itotaljustice/atmosphere-updater": "2026-11-09",
   "itotaljustice/nx-deviceid-viewer": "2026-11-10",
+  "jinghaihan/mhgu-overlay": "2026-11-12",
   "kaays/mc3_nx": "2026-11-09",
   "kipi000/nsw-fetch": "2026-11-10",
   "lordelan/n1dus": "2026-11-10",
@@ -2091,7 +2094,7 @@
     "app"
    ],
    "reason": "",
-   "version": "26.8.18",
+   "version": "26.8.18-r1",
    "worst": "allowed"
   },
   "Avatool": {
@@ -7174,7 +7177,21 @@
   "/wiki/XPlayer_Switch": [
    "k3yn/xplayer"
   ],
-  "/wiki/XxBluexX_Launcher_Switch": []
+  "/wiki/XxBluexX_Launcher_Switch": [],
+  "/wiki/YATI_Switch": [
+   "adubbz/tinfoil",
+   "itotaljustice/yati",
+   "switchbrew/libnx"
+  ],
+  "/wiki/YallAreNUTs_Save_Tool_Switch": [
+   "3096/nut"
+  ],
+  "/wiki/ZERODROID_Switch": [
+   "elzerdodata/zerodroid"
+  ],
+  "/wiki/ZeroTwoXCI_Switch": [
+   "encode-dcc/kentutils"
+  ]
  },
  "rejected": {
   "16bitwonder/nx-versions": {
@@ -7274,7 +7291,7 @@
   "andrythebeast/songate": {
    "candidate": "| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 9 | v2.0.0 | 2026-11-12 | songate-manifest.json, SongateAND-2.0.0.apk, SongateNX-2.0.0.zip, SongateWIN-2.0.0.exe |",
    "checked": "2026-11-12",
-   "pushed_at": "2026-11-12T02:24:55Z"
+   "pushed_at": "2026-11-12T15:49:04Z"
   },
   "angle-brackets/kickstand": {
    "candidate": "| [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.1 | 2026-11-01 | kickstand-0.1.1-aarch64-apple-darwin.tar.gz, kickstand-0.1.1-x86_64-apple-darwin.tar.gz, kickstand-0.1.1-x86_64-pc-windo |",
@@ -7309,8 +7326,8 @@
    "pushed_at": "2026-08-20T09:18:32Z"
   },
   "armaatus/rommsync-nx": {
-   "checked": "2026-11-11",
-   "pushed_at": "2026-11-11T11:06:41Z"
+   "checked": "2026-11-12",
+   "pushed_at": "2026-11-12T11:14:47Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -7395,9 +7412,9 @@
    "pushed_at": "2026-10-12T04:54:49Z"
   },
   "bium23/nxlibrary": {
-   "candidate": "| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 165 | v0.1.4.2 | 2026-11-09 | NXLibrary-0.1.4.2.dmg, NXLibrary-0.1.4.2.zip |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-11-09T11:30:08Z"
+   "candidate": "| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 173 | v0.1.4.3 | 2026-11-12 | NXLibrary-0.1.4.3.dmg, NXLibrary-0.1.4.3.zip |",
+   "checked": "2026-11-12",
+   "pushed_at": "2026-11-12T10:53:05Z"
   },
   "biuspoly/pekka-kana-2-switch": {
    "candidate": "| [biuspoly/pekka-kana-2-switch](https://github.com/biuspoly/pekka-kana-2-switch) | 0 | v1.0 | 2026-10-28 | PekkaKana2_Switch_SD.zip |",
@@ -7499,18 +7516,18 @@
    "pushed_at": "2026-11-03T09:33:27Z"
   },
   "centollos/switchwakerhd": {
-   "candidate": "| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 253 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |",
+   "candidate": "| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 253 | v1.3.0 | 2026-11-12 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |",
    "checked": "2026-11-12",
-   "pushed_at": "2026-11-11T21:31:20Z"
+   "pushed_at": "2026-11-12T16:12:38Z"
   },
   "cesanta/mongoose": {
    "checked": "2026-11-11",
    "pushed_at": ""
   },
   "ch1nguya/switch-super-manager": {
-   "candidate": "| [Ch1nguya/Switch-Super-Manager](https://github.com/Ch1nguya/Switch-Super-Manager) | 15 | v0.7.0 | 2026-11-08 | SHA256SUMS, Switch-Super-Manager-v0.7.0-win64.zip |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-11-08T06:36:44Z"
+   "candidate": "| [Ch1nguya/Switch-Super-Manager](https://github.com/Ch1nguya/Switch-Super-Manager) | 15 | v0.7.1 | 2026-11-12 | SHA256SUMS, Switch-Super-Manager-v0.7.1-win64.zip |",
+   "checked": "2026-11-12",
+   "pushed_at": "2026-11-12T15:31:48Z"
   },
   "chiaki-ng/akira": {
    "candidate": "| [chiaki-ng/akira](https://github.com/chiaki-ng/akira) | ? | v0.6.5 | 2026-10-05 | akira-0.6.5.zip, akira-companion-darwin-arm64.zip, akira-companion-linux-amd64, akira-companion-windows-amd64.exe, akira |",
@@ -7545,9 +7562,9 @@
    "pushed_at": "2026-10-24T17:59:53Z"
   },
   "cmdada/3ds-cli": {
-   "candidate": "| [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 45 | 5.3 | 2026-10-03 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-10-03T02:25:16Z"
+   "candidate": "| [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 45 | 5.3.1 | 2026-11-12 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |",
+   "checked": "2026-11-12",
+   "pushed_at": "2026-11-12T17:14:08Z"
   },
   "cokecookie/bootmoix": {
    "checked": "2026-11-09",
@@ -7571,8 +7588,8 @@
    "pushed_at": "2026-09-16T16:58:32Z"
   },
   "ctj01/switch2pc": {
-   "checked": "2026-11-11",
-   "pushed_at": "2026-11-11T10:22:49Z"
+   "checked": "2026-11-12",
+   "pushed_at": "2026-11-12T10:45:06Z"
   },
   "curl/curl": {
    "candidate": "| [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |",
@@ -7635,6 +7652,10 @@
    "checked": "2026-11-10",
    "pushed_at": ""
   },
+  "delfus77/nxdock": {
+   "checked": "2026-11-12",
+   "pushed_at": "2026-11-12T10:50:20Z"
+  },
   "denpingus/nxcloud": {
    "candidate": "| [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |",
    "checked": "2026-11-09",
@@ -7681,6 +7702,10 @@
   "dongrez1990-cloud/hongguo-switch": {
    "checked": "2026-11-09",
    "pushed_at": "2026-10-18T12:42:50Z"
+  },
+  "dorianloopterror59822/rpocket-yuzu-emulator-nintendo-switch-tutorial": {
+   "checked": "2026-11-12",
+   "pushed_at": "2026-11-12T16:59:50Z"
   },
   "dpadninja/ct-ru-translation": {
    "checked": "2026-11-09",
@@ -7767,6 +7792,10 @@
   "emil283498/beat-banger-switch": {
    "checked": "2026-11-10",
    "pushed_at": "2026-11-10T08:38:31Z"
+  },
+  "encode-dcc/kentutils": {
+   "checked": "2026-11-12",
+   "pushed_at": ""
   },
   "enzobernardinomartins/key2con": {
    "candidate": "| [EnzoBernardinoMartins/key2con](https://github.com/EnzoBernardinoMartins/key2con) | 8 | v0.2.0 | 2026-10-13 | key2con.v0-2-0.zip |",
@@ -7912,6 +7941,11 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-10-15T08:12:17Z"
   },
+  "hashcade/mhgu-overlay": {
+   "alias": "jinghaihan/mhgu-overlay",
+   "checked": "2026-11-12",
+   "pushed_at": ""
+  },
   "helworks/helengine-switch": {
    "checked": "2026-11-09",
    "pushed_at": "2026-10-23T21:09:45Z"
@@ -7930,9 +7964,9 @@
    "pushed_at": ""
   },
   "horizon-oc/horizon-oc": {
-   "candidate": "| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 275 | 2.6.0-rel | 2026-10-16 | dist.zip, dist_ext.zip |",
-   "checked": "2026-11-11",
-   "pushed_at": "2026-11-11T00:19:26Z"
+   "candidate": "| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 277 | 2.6.1 | 2026-11-12 | dist.zip, dist_ext.zip |",
+   "checked": "2026-11-12",
+   "pushed_at": "2026-11-12T12:01:43Z"
   },
   "hotshotz79/nx-romget": {
    "candidate": "| [hotshotz79/nx-romget](https://github.com/hotshotz79/nx-romget) | ? | 0.1 | 2020-04-20 | main.py, NX-RomGet.zip |",
@@ -8021,6 +8055,10 @@
    "checked": "2026-11-11",
    "pushed_at": ""
   },
+  "itotaljustice/yati": {
+   "checked": "2026-11-12",
+   "pushed_at": ""
+  },
   "jack-the-yoshi/one-click-game-manager-ocgm-": {
    "candidate": "| [Jack-The-Yoshi/One-Click-Game-Manager-OCGM-](https://github.com/Jack-The-Yoshi/One-Click-Game-Manager-OCGM-) | 1 | v1.0.1 | 2026-02-16 | OCGM.nro |",
    "checked": "2026-11-09",
@@ -8028,7 +8066,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-12",
-   "pushed_at": "2026-11-12T07:04:45Z"
+   "pushed_at": "2026-11-12T19:35:38Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8047,6 +8085,11 @@
   "jimzrt/incognito_rcm": {
    "checked": "2026-11-10",
    "pushed_at": ""
+  },
+  "jinghaihan/feth-overlay": {
+   "candidate": "| [jinghaihan/feth-overlay](https://github.com/jinghaihan/feth-overlay) | 0 | v0.4.1 | 2026-10-15 | feth-overlay.ovl |",
+   "checked": "2026-11-12",
+   "pushed_at": "2026-10-15T08:12:17Z"
   },
   "jiraiya78/nyx-rescue-mod": {
    "checked": "2026-11-11",
@@ -8238,7 +8281,7 @@
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-12",
-   "pushed_at": "2026-11-12T01:25:33Z"
+   "pushed_at": "2026-11-12T18:03:31Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-10",
@@ -8417,9 +8460,9 @@
    "pushed_at": ""
   },
   "ppkantorski/7th-heaven-nx": {
-   "candidate": "| [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 11 | v1.1.4 | 2026-11-11 | 7th-Heaven-NX-1.1.4-linux-arm64.zip, 7th-Heaven-NX-1.1.4-linux-x64.zip, 7th-Heaven-NX-1.1.4-macos-arm64.zip, 7th-Heaven- |",
-   "checked": "2026-11-11",
-   "pushed_at": "2026-11-11T10:08:18Z"
+   "candidate": "| [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 12 | v1.1.5 | 2026-11-12 | 7th-Heaven-NX-1.1.5-linux-arm64.zip, 7th-Heaven-NX-1.1.5-linux-x64.zip, 7th-Heaven-NX-1.1.5-macos-arm64.zip, 7th-Heaven- |",
+   "checked": "2026-11-12",
+   "pushed_at": "2026-11-12T08:12:01Z"
   },
   "ppkantorski/alchemist": {
    "candidate": "| [ppkantorski/Alchemist](https://github.com/ppkantorski/Alchemist) | 47 | v1.0.6 | 2026-04-23 | Alchemist.zip |",
@@ -8434,7 +8477,7 @@
   "ppkantorski/hoc-toolkit": {
    "candidate": "| [ppkantorski/HOC-Toolkit](https://github.com/ppkantorski/HOC-Toolkit) | 24 | v2.0.7 | 2026-11-01 | hoc-toolkit.zip |",
    "checked": "2026-11-12",
-   "pushed_at": "2026-11-11T22:58:07Z"
+   "pushed_at": "2026-11-12T12:41:39Z"
   },
   "ppkantorski/libultrahand": {
    "candidate": "| [ppkantorski/libultrahand](https://github.com/ppkantorski/libultrahand) | 68 | v2.5.4 | 2026-11-09 | libultrahand.zip |",
@@ -8585,8 +8628,8 @@
    "pushed_at": "2026-10-21T05:29:49Z"
   },
   "sakamochanq/qgis-nx": {
-   "checked": "2026-11-09",
-   "pushed_at": "2026-10-29T07:23:44Z"
+   "checked": "2026-11-12",
+   "pushed_at": "2026-11-12T14:39:26Z"
   },
   "sakarie9/nx-screenuploader": {
    "candidate": "| [sakarie9/NX-ScreenUploader](https://github.com/sakarie9/NX-ScreenUploader) | 17 | v0.4.0 | 2026-10-14 | NX-ScreenUploader.zip |",
@@ -8637,6 +8680,10 @@
   "simplysabir/nrodoc": {
    "checked": "2026-11-09",
    "pushed_at": "2026-09-02T02:45:05Z"
+  },
+  "slankka/nx-fs-utf8": {
+   "checked": "2026-11-12",
+   "pushed_at": "2026-11-12T12:19:23Z"
   },
   "slushi-github/haxenxcompiler": {
    "candidate": "| [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 3.0.0 | 2025-11-30 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |",
@@ -8736,6 +8783,10 @@
    "candidate": "| [tallbl0nde/triplayer](https://github.com/tallbl0nde/triplayer) | ? | v1.1.1 | 2021-07-25 | triplayer-1.1.1.zip |",
    "checked": "2026-11-12",
    "pushed_at": ""
+  },
+  "tbittech/gow3-nx": {
+   "checked": "2026-11-12",
+   "pushed_at": "2026-11-12T17:11:03Z"
   },
   "team-failure/tf-os": {
    "candidate": "| [Team-Failure/TF-OS](https://github.com/Team-Failure/TF-OS) | 6 | 3.6 | 2026-03-15 | TF_OS_3.6.zip |",

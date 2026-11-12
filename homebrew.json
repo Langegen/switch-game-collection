@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-12T07:15:03Z",
+ "generated": "2026-11-12T19:57:22Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -3329,10 +3329,10 @@
    "category": "advanced",
    "description": "A monster info, damage display, and gameplay tools tesla overlay for MHGU on Nintendo Switch.",
    "changelog": "### &nbsp;&nbsp;&nbsp;🚀 Features\n\n- **ui**: Reuse Ultrahand audio for confirmed actions &nbsp;-&nbsp; by @jinghaihan [<samp>(2269b)</samp>](https://github.com/hashcade/mhgu-overlay/commit/2269bf3)\n\n### &nbsp;&nbsp;&nbsp;🐞 Bug Fixes\n\n- **ui**: Unify one-shot action result tracking &nbsp;-&nbsp; by @jinghaihan [<samp>(d5d8b)</samp>](https://github.com/hashcade/mhgu-overlay/commit/d5d8b6f)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/hashcade/mhgu-overlay/compare/v0.6.2...v0.6.3)",
-   "url": "https://github.com/hashcade/mhgu-overlay",
-   "repo": "hashcade/mhgu-overlay",
+   "url": "https://github.com/jinghaihan/mhgu-overlay",
+   "repo": "jinghaihan/mhgu-overlay",
    "updated": "2026-10-15",
-   "download_url": "https://github.com/hashcade/mhgu-overlay/releases/download/v0.6.3/mhgu-overlay.ovl",
+   "download_url": "https://github.com/jinghaihan/mhgu-overlay/releases/download/v0.6.3/mhgu-overlay.ovl",
    "download_type": "file",
    "sha256": "c5a7780972b5405e3872411035b30037c5c58c756ff4601e1f0438488ccb0005",
    "filesize": 544824,
@@ -3342,24 +3342,24 @@
    ],
    "license": "MIT",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-12"
   },
   {
    "name": "ModKitNX",
    "title": "ModKitNX",
    "author": "qret",
-   "version": "1.0.9",
+   "version": "1.1.1",
    "category": "game",
    "description": "Nintendo Switch homebrew that makes games built for a newer firmware run on yours: unpacks ZBIC, swaps the game's sdk, adds a module that fills in missing functions and grants the needed permissions — one button, one button back. Also loads mods without LayeredFS.",
-   "changelog": "ModKitNX: fixed the remaining crash in games such as Biped 2 that look up symbols at run time on a swapped older sdk.\n\n---\nsha256 (ModKitNX.nro): `05ae9a9207bb0497730df5e010228b0b6098b1f4e5d63b5f3d7c99ee910614ef`",
+   "changelog": "ModKitNX: games built with SDK 21 that check the network status, such as Shrek 2 Remastered, no longer crash on an older sdk, and the technical details now show when the module replaces the symbol lookup.\n\n---\nsha256 (ModKitNX.nro): `822d7706e61005901b422f7c2c4176820b94effdd107058344d387a0069f14ab`",
    "url": "https://github.com/qret/modkitnx",
    "repo": "qret/modkitnx",
-   "updated": "2026-11-11",
-   "download_url": "https://github.com/qret/ModKitNX/releases/download/v1.0.9/ModKitNX.nro",
+   "updated": "2026-11-12",
+   "download_url": "https://github.com/qret/ModKitNX/releases/download/v1.1.1/ModKitNX.nro",
    "download_type": "file",
-   "sha256": "05ae9a9207bb0497730df5e010228b0b6098b1f4e5d63b5f3d7c99ee910614ef",
-   "filesize": 11123407,
-   "extracted": 11123407,
+   "sha256": "822d7706e61005901b422f7c2c4176820b94effdd107058344d387a0069f14ab",
+   "filesize": 11139087,
+   "extracted": 11139087,
    "files": [
     "U: switch/ModKitNX/ModKitNX.nro"
    ],
@@ -3577,30 +3577,6 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-deviceid-viewer.jpg",
    "auto": true,
    "first_seen": "2026-11-10"
-  },
-  {
-   "name": "nx-fs-utf8",
-   "title": "codecvt_test",
-   "author": "codecvt",
-   "version": "3.3.0",
-   "category": "tool",
-   "description": "A firmware \"KIP\" to unlock Switch FileSystem to read/write and enumerate UTF-8 CJK file names.",
-   "changelog": "**Release asset:** `fs_codecvt_dual_unpacked.kip`\r\n\r\nThe overlay now works on **SysNAND (sysMMC)**, not just emuMMC. That is the whole\r\nof this release: no change to the UTF-8 conversion, the directory-name filter,\r\nor the supported firmware list.\r\n\r\n> **Supersedes v3.2.0's SysNAND warning.** That release said \"Do not use this KIP\r\n> on SysNAND … Supporting SysNAND is out of scope.\" The cause has been found and\r\n> fixed. SysNAND is supported as of this version.\r\n\r\n## Support Matrix\r\n\r\n| HOS | SysNAND | emuMMC |\r\n|---|---|---|\r\n| 19.0.1 | ✅ **TESTED (3/3)** | ✅ TESTED (3/3) |\r\n| 20.2.0 / 20.5.0 | ✅offset verified | ✅ TESTED (3/3) |\r\n| 21.2.0 | ✅offset verified | ✅offset verified |\r\n| 22.0.0 | ✅offset verified | ✅offset verified |\r\n| 22.5.0 | ✅ **TESTED (3/3)** | ✅ **TESTED (3/3)** |\r\n| **23.0.0 / 23.0.1** | ✅ **TESTED (3/3)** | ✅ **TESTED (3/3)** |\r\n\r\n- **TESTED (3/3)** — real-hardware PASS for direct CJK read/write, `/ROM`\r\n  enumeration showing the CJK directory, and enumeration *inside* the CJK\r\n  directory.\r\n- **offset verified** — the `matches_fs` opcode checks pass against that\r\n  version's FS image. For the RTLD site this also means the site opcode matches\r\n  *and* the branch delta decoded from its immediate matches the table, so the\r\n  patch cannot land at a wrong target. On-console regression of that exact\r\n  combination is still pending.\r\n\r\nThe 21.2.0 RTLD site sits at a **higher** offset (`0x2E1C0`) than 22.0.0's\r\n(`0x2DED0`) despite being an older release. Every offset was measured against\r\nthe actual image rather than derived by shifting, for exactly that reason.\r\n\r\n## Requirements\r\n\r\n[slankka/hekate-fs-overlay](https://github.com/slankka/hekate-fs-overlay) — an\r\nunofficial Hekate fork adding `fsoverlay=` support. This KIP cannot be loaded\r\nwithout it.\r\n\r\n### `bootloader/sys/emummc.kipm` must still exist\r\n\r\nThe loader copies the 0x80-byte capability array out of that file into the merged\r\nKIP, and **injects none of its code**. The file is not optional: w",
-   "url": "https://github.com/slankka/nx-fs-utf8",
-   "repo": "slankka/nx-fs-utf8",
-   "updated": "2026-10-24",
-   "download_url": "https://github.com/slankka/nx-fs-utf8/releases/download/v3.3.0/test_program.nro",
-   "download_type": "file",
-   "sha256": "4a04a5b89541fe321dd2816d345d6d4d0532ec34a819d7e5052cf0bebe695f5a",
-   "filesize": 2078917,
-   "extracted": 2078917,
-   "files": [
-    "U: switch/nx-fs-utf8/nx-fs-utf8.nro"
-   ],
-   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-fs-utf8.jpg",
-   "license": "GPL-2.0",
-   "auto": true,
-   "first_seen": "2026-11-09"
   },
   {
    "name": "nx-midi",
