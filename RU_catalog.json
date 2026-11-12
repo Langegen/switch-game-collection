@@ -1,5 +1,33 @@
 [
     {
+        "title": "Dead Space 3 (хоумбрю) [NRO][RUS]",
+        "size": "14.27 GB",
+        "magnet": "magnet:?xt=urn:btih:C66F56BED56AFDA16594EDFCD0A671A0A8D4CEB5&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6936585",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6936585",
+        "year": "2013",
+        "genre": "Action, Horror, Homebrew",
+        "developer": "Visceral Games, Electronic Arts",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Русский [RUS]",
+        "voice_lang": "английская",
+        "performance": "проверял на 21.1.0 Ultra 3.1",
+        "multiplayer": "нет",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6936585.jpg",
+        "screenshots": [
+            "https://i6.imageban.ru/thumbs/2026.11.12/81e9b4770afed388a9f1b9a5dadf961e.jpg",
+            "https://i6.imageban.ru/thumbs/2026.11.12/1a9d6eef3c034bdc4099c70bc3cf6a39.jpg",
+            "https://i2.imageban.ru/thumbs/2026.11.12/3cbfd830e2a06e91efe1520124a7105c.jpg",
+            "https://i7.imageban.ru/thumbs/2026.11.12/07aecf4e5391b1925d325204db84fba0.jpg",
+            "https://i6.imageban.ru/thumbs/2026.11.12/78e46117aeb9079b95f5b32ae882d34a.jpg",
+            "https://i5.imageban.ru/thumbs/2026.11.12/4342f7e8d43e2bce96f046b73a82d557.jpg"
+        ],
+        "description": "В игре Dead Space 3 Айзек Кларк и безжалостный солдат Джон Карвер отправляются в новое путешествие через весь космос, чтобы раскрыть причину появления некроморфов. Айзеку предстоит совершить аварийную посадку на ледяной планете Тау Волантис и прочесывать этот жестокий мир в поисках сырья и выброшенных запчастей. Затем ему предстоит испытать свои инженерные навыки в деле создания и усовершенствования оружия и различных приспособлений для выживания. Покрытая льдом планета скрывает ключ к окончательной победе над некроморфами, но сперва Айзеку предстоит преодолеть лавины, предательски скользкие скалы и выдержать все испытания в суровом мире. Перед лицом еще более смертоносных эволюционировавших врагов и свирепых тварей Айзеку стоит объединить усилия с партнером, не только ради себя, но и ради выживания самого человечества. Играйте вместе с другом или пройдите игру в одиночку за Айзека Кларка, воспользовавшись новой функцией кооперативной игры с беспрепятственным входом и выходом игроков. В каждом режиме вас ждут уникальные сюжетные элементы и геймплей.\nDeadSpace",
+        "title_id": null,
+        "version": "ds3-nx 1.0.1 717ae41"
+    },
+    {
         "title": "Tom the Postgirl (демонстрационная версия) [NSP][DEMO][RUS/Multi12]",
         "size": "366.6 MB",
         "magnet": "magnet:?xt=urn:btih:12FAD0BADA31A9E4B27A7C1BB0235D323F627840&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -464,8 +492,8 @@
     },
     {
         "title": "Коллекция Carafe/Wine-NX/Box64/FEX/Autorun-эмуляторов ПК игр для консоли Nintendo Switch [NRO][RUS]",
-        "size": "131.14 GB",
-        "magnet": "magnet:?xt=urn:btih:B5037A4E45CC7A3605FA148F8DD5C9C3E7C3F8DF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "176.28 GB",
+        "magnet": "magnet:?xt=urn:btih:97ACE171BF1239B8F86BE77C124BAC94AFA4BCA7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6933547",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6933547",
         "year": "2026",
@@ -19612,7 +19640,7 @@
     {
         "title": "Minecraft [NSP][RUS/Multi11]",
         "size": "1.79 GB",
-        "magnet": "magnet:?xt=urn:btih:5A2203B0BB5AF4D9EA79F140A38C4FBC781B7A67&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:0A6779921568D685D7840EA6E8BC7E004587D5B7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5844923",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5844923",
         "year": "2018, июнь",
@@ -19635,9 +19663,9 @@
         ],
         "description": "Minecraft — игра для любителей строительства и приключений.\nИсследуйте случайным образом генерируемые миры и стройте самые разные сооружения: от простейших домов до грандиозных замков и дворцов. Играйте в творческом режиме с неограниченными ресурсами или вгрызайтесь в дебри мира в режиме выживания, изготавливая оружие и доспехи для защиты от опасных мобов.\nИсследуйте случайным образом генерируемые миры и стройте из блоков самые невероятные сооружения – от простых домов до грандиозных замков. Играйте в творческом режиме, имея в своем распоряжении неограниченные ресурсы, или заберитесь в дебри мира в режиме выживания, изготавливая оружие и броню для защиты от мобов.\n\nСоздавайте необычные предметы, стройте и исследуйте миры в одиночку или в компании друзей (до четырех игроков в режиме разделенного экрана или до восьми в сетевом режиме).",
         "title_id": "0100D71004694000",
-        "version": "1.26.60",
-        "update_version": 10682368,
-        "titles": "0100D71004694000:10682368:"
+        "version": "1.26.62",
+        "update_version": 10747904,
+        "titles": "0100D71004694000:10747904:"
     },
     {
         "title": "Don't Starve Together / Dont Starve: Nintendo Switch Edition + Hamlet DLC [NSZ][RUS (+Mod.)/Multi7]",
@@ -130801,19 +130829,19 @@
         "titles": "0100A0C00E0DE000:1703936:"
     },
     {
-        "title": "Cyanotype Daydream - The Girl Who's Called the World (Hakuchuumu no Aojashin / 白昼夢の青写真) [NSZ][ENG (Mod.)/JAP]",
-        "size": "4.23 GB",
-        "magnet": "magnet:?xt=urn:btih:0D027D47CDF977028123DC03F65B17CD48F49A58&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "Cyanotype Daydream - The Girl Who's Called the World (Hakuchuumu no Aojashin / 白昼夢の青写真) [NSZ][ENG,JA{]",
+        "size": "4.92 GB",
+        "magnet": "magnet:?xt=urn:btih:8DCF7C7D6B278D8B0600B3563A7F1781D25E4D2B&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6320651",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6320651",
         "year": "2022, ноябрь",
         "genre": "Visual Novel",
         "developer": "Laplacian",
         "publisher": "Syawase Works, The Math God",
-        "image_format": ".NSZ (сжато ~18%, установленный объём 5.06 ГБ)",
-        "interface_lang": "Японский [JAP] + порт англоперевода с ПК",
+        "image_format": ".NSZ (сжато ~18%, установленный объём 6.02 ГБ)",
+        "interface_lang": "Английский, Японский [ENG / JAP]",
         "voice_lang": "японская",
-        "performance": "Да (на 15.0.1, Atmosphere 1.4.1)",
+        "performance": "Да (на 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "нет",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6320651.jpg",
         "screenshots": [
@@ -130826,9 +130854,9 @@
         ],
         "description": "Эта чистая история (VNDB) — история любви девушки и молодого человека, которые взамен отдали миру всё\nКайто просыпается и обнаруживает, что находится в странной комнате, не помня о том, кто он такой и как туда попал. Единственные люди вокруг — тихая сереброволосая девушка, и их надзиратель, Изумо. По мере того, как вокруг него разворачиваются истории, Кайто начинает осознавать правду и свою собственную роль в них. И всё это ещё связано со странной молчаливой девушкой, по имени Йонаги...\nТри повествования, начинающиеся случайным образом, в итоге сходятся в одну линию. Когда последнее предложение будет закончено, у вас останутся чувства, чрезвычайно сложно выражаемые словами!..\nРоли озвучивают:",
         "title_id": "01003B0018BC8000",
-        "version": "1.0.4",
-        "update_version": 262144,
-        "titles": "01003B0018BC8000:262144:"
+        "version": "2.0.0",
+        "update_version": 327680,
+        "titles": "01003B0018BC8000:327680:"
     },
     {
         "title": "Kanade [NSZ][ENG]",

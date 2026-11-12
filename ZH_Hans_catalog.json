@@ -1,5 +1,33 @@
 [
     {
+        "title": "Dead Space 3 (自制程序) [NRO][RUS]",
+        "size": "14.27 GB",
+        "magnet": "magnet:?xt=urn:btih:C66F56BED56AFDA16594EDFCD0A671A0A8D4CEB5&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6936585",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6936585",
+        "year": "2013",
+        "genre": "Action, Horror, Homebrew",
+        "developer": "Visceral Games, Electronic Arts",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "俄语 [RUS]",
+        "voice_lang": "英语",
+        "performance": "proveryal 在 21.1.0 Ultra 3.1",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6936585.jpg",
+        "screenshots": [
+            "https://i6.imageban.ru/thumbs/2026.11.12/81e9b4770afed388a9f1b9a5dadf961e.jpg",
+            "https://i6.imageban.ru/thumbs/2026.11.12/1a9d6eef3c034bdc4099c70bc3cf6a39.jpg",
+            "https://i2.imageban.ru/thumbs/2026.11.12/3cbfd830e2a06e91efe1520124a7105c.jpg",
+            "https://i7.imageban.ru/thumbs/2026.11.12/07aecf4e5391b1925d325204db84fba0.jpg",
+            "https://i6.imageban.ru/thumbs/2026.11.12/78e46117aeb9079b95f5b32ae882d34a.jpg",
+            "https://i5.imageban.ru/thumbs/2026.11.12/4342f7e8d43e2bce96f046b73a82d557.jpg"
+        ],
+        "description": "在《死亡空间 3》中，艾萨克·克拉克和冷酷无情的士兵约翰·卡弗踏上了穿越太空的新旅程，以揭开死灵形态的原因。艾萨克必须迫降在冰冷的星球 Tau Volantis 上，并在残酷的世界中搜寻原材料和废弃零件。然后他将不得不测试他在制造和改进武器和各种生存设备方面的工程技能。这颗冰雪覆盖的星球隐藏着最终战胜死灵的关键，但艾萨克首先必须克服雪崩、危险的湿滑岩石，并承受严酷世界中的所有挑战。面对更加致命的进化敌人和凶猛生物，艾萨克必须与他的伙伴联手，不仅是为了他自己，也是为了人类本身的生存。与朋友一起玩，或者以艾萨克·克拉克 (Isaac Clarke) 的身份独自玩，并使用新的合作功能，让玩家可以无缝地进出。每种模式都提供独特的故事元素和游戏玩法。\n死亡空间",
+        "title_id": null,
+        "version": "ds3-nx 1.0.1 717ae41"
+    },
+    {
         "title": "Tom the Postgirl (试玩版) [NSP][DEMO][RUS/Multi12]",
         "size": "366.6 MB",
         "magnet": "magnet:?xt=urn:btih:12FAD0BADA31A9E4B27A7C1BB0235D323F627840&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -464,8 +492,8 @@
     },
     {
         "title": "Kollektsiya Carafe/Wine-NX/Box64/FEX/Autorun-emulyatorov PK igr dlya konsoli Nintendo Switch [NRO][RUS]",
-        "size": "131.14 GB",
-        "magnet": "magnet:?xt=urn:btih:B5037A4E45CC7A3605FA148F8DD5C9C3E7C3F8DF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "176.28 GB",
+        "magnet": "magnet:?xt=urn:btih:97ACE171BF1239B8F86BE77C124BAC94AFA4BCA7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6933547",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6933547",
         "year": "2026",
@@ -19565,7 +19593,7 @@
     {
         "title": "Minecraft [NSP][RUS/Multi11]",
         "size": "1.79 GB",
-        "magnet": "magnet:?xt=urn:btih:5A2203B0BB5AF4D9EA79F140A38C4FBC781B7A67&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:0A6779921568D685D7840EA6E8BC7E004587D5B7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5844923",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5844923",
         "year": "2018, 6月",
@@ -19588,9 +19616,9 @@
         ],
         "description": "Minecraft 是放置方塊，並且出外冒險的遊戲。\n您可探索隨機產生的世界，也能搭造有意思的建物，從最簡單的家屋到最雄偉的城堡都能辦到。玩創造模式時會有無限資源可供運用，在生存模式中整個世界任您挖掘，並可打造武器和盔甲，擊退危險的生物。",
         "title_id": "0100D71004694000",
-        "version": "1.26.60",
-        "update_version": 10682368,
-        "titles": "0100D71004694000:10682368:"
+        "version": "1.26.62",
+        "update_version": 10747904,
+        "titles": "0100D71004694000:10747904:"
     },
     {
         "title": "Don't Starve Together / Dont Starve: Nintendo Switch Edition + Hamlet DLC [NSZ][RUS (+Mod.)/Multi7]",
@@ -130520,19 +130548,19 @@
         "titles": "0100A0C00E0DE000:1703936:"
     },
     {
-        "title": "Cyanotype Daydream - The Girl Who's Called the World (Hakuchuumu no Aojashin / 白昼夢の青写真) [NSZ][ENG (Mod.)/JAP]",
-        "size": "4.23 GB",
-        "magnet": "magnet:?xt=urn:btih:0D027D47CDF977028123DC03F65B17CD48F49A58&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "Cyanotype Daydream - The Girl Who's Called the World (Hakuchuumu no Aojashin / 白昼夢の青写真) [NSZ][ENG,JA{]",
+        "size": "4.92 GB",
+        "magnet": "magnet:?xt=urn:btih:8DCF7C7D6B278D8B0600B3563A7F1781D25E4D2B&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6320651",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6320651",
         "year": "2022, 11月",
         "genre": "Visual Novel",
         "developer": "Laplacian",
         "publisher": "Laplacian",
-        "image_format": ".NSZ (已压缩 ~18%, 安装大小 5.06 GB)",
-        "interface_lang": "日语 [JAP] + 移植版 angloperevoda s PK",
+        "image_format": ".NSZ (已压缩 ~18%, 安装大小 6.02 GB)",
+        "interface_lang": "英语, 日语 [ENG / JAP]",
         "voice_lang": "日语",
-        "performance": "是 (在 15.0.1, Atmosphere 1.4.1)",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6320651.jpg",
         "screenshots": [
@@ -130545,9 +130573,9 @@
         ],
         "description": "這是一個將一切奉獻給世界的少女與一名青年之間的純愛故事。\n三則以隨機順序展開的故事，最終將匯聚為一。\n本作品活用視覺小説這一載體的特性，旨在令玩家沉浸式體驗那段近乎瘋狂的純愛故事。愿您讀完最後一句文本時，仍能在心底留下難以言説的餘韻。",
         "title_id": "01003B0018BC8000",
-        "version": "1.0.4",
-        "update_version": 262144,
-        "titles": "01003B0018BC8000:262144:"
+        "version": "2.0.0",
+        "update_version": 327680,
+        "titles": "01003B0018BC8000:327680:"
     },
     {
         "title": "Kanade [NSZ][ENG]",

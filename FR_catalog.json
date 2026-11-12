@@ -1,5 +1,33 @@
 [
     {
+        "title": "Dead Space 3 (homebrew) [NRO][RUS]",
+        "size": "14.27 GB",
+        "magnet": "magnet:?xt=urn:btih:C66F56BED56AFDA16594EDFCD0A671A0A8D4CEB5&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6936585",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6936585",
+        "year": "2013",
+        "genre": "Action, Horror, Homebrew",
+        "developer": "Visceral Games, Electronic Arts",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russe [RUS]",
+        "voice_lang": "Anglais",
+        "performance": "proveryal sur 21.1.0 Ultra 3.1",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6936585.jpg",
+        "screenshots": [
+            "https://i6.imageban.ru/thumbs/2026.11.12/81e9b4770afed388a9f1b9a5dadf961e.jpg",
+            "https://i6.imageban.ru/thumbs/2026.11.12/1a9d6eef3c034bdc4099c70bc3cf6a39.jpg",
+            "https://i2.imageban.ru/thumbs/2026.11.12/3cbfd830e2a06e91efe1520124a7105c.jpg",
+            "https://i7.imageban.ru/thumbs/2026.11.12/07aecf4e5391b1925d325204db84fba0.jpg",
+            "https://i6.imageban.ru/thumbs/2026.11.12/78e46117aeb9079b95f5b32ae882d34a.jpg",
+            "https://i5.imageban.ru/thumbs/2026.11.12/4342f7e8d43e2bce96f046b73a82d557.jpg"
+        ],
+        "description": "Dans Dead Space 3, Isaac Clarke et l'impitoyable soldat John Carver se lancent dans un nouveau voyage à travers l'espace pour découvrir la cause des Nécromorphes. Isaac doit s'écraser sur la planète glacée Tau Volantis et parcourir le monde brutal à la recherche de matières premières et de pièces abandonnées. Ensuite, il devra tester ses compétences en ingénierie dans la création et l'amélioration d'armes et de divers dispositifs de survie. La planète couverte de glace cache la clé de la victoire finale sur les Nécromorphes, mais Isaac doit d'abord surmonter les avalanches, les rochers dangereusement glissants et résister à tous les défis d'un monde difficile. Face à des ennemis évolués et à des créatures féroces encore plus meurtrières, Isaac doit unir ses forces à celles de son partenaire, non seulement pour son propre bien, mais aussi pour la survie de l'humanité elle-même. Jouez avec un ami ou incarnez Isaac Clarke en solo grâce à une nouvelle fonctionnalité coopérative qui permet aux joueurs d'entrer et de sortir de manière transparente. Chaque mode offre des éléments d'histoire et un gameplay uniques.\nEspace mort",
+        "title_id": null,
+        "version": "ds3-nx 1.0.1 717ae41"
+    },
+    {
         "title": "Tom the Postgirl (version démo) [NSP][DEMO][RUS/Multi12]",
         "size": "366.6 MB",
         "magnet": "magnet:?xt=urn:btih:12FAD0BADA31A9E4B27A7C1BB0235D323F627840&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -464,8 +492,8 @@
     },
     {
         "title": "Kollektsiya Carafe/Wine-NX/Box64/FEX/Autorun-emulyatorov PK igr dlya konsoli Nintendo Switch [NRO][RUS]",
-        "size": "131.14 GB",
-        "magnet": "magnet:?xt=urn:btih:B5037A4E45CC7A3605FA148F8DD5C9C3E7C3F8DF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "176.28 GB",
+        "magnet": "magnet:?xt=urn:btih:97ACE171BF1239B8F86BE77C124BAC94AFA4BCA7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6933547",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6933547",
         "year": "2026",
@@ -19614,7 +19642,7 @@
     {
         "title": "Minecraft [NSP][RUS/Multi11]",
         "size": "1.79 GB",
-        "magnet": "magnet:?xt=urn:btih:5A2203B0BB5AF4D9EA79F140A38C4FBC781B7A67&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:0A6779921568D685D7840EA6E8BC7E004587D5B7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5844923",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5844923",
         "year": "2018, juin",
@@ -19637,9 +19665,9 @@
         ],
         "description": "Minecraft vous réserve de grandes aventures à vivre bloc par bloc.\n\nExplorez des mondes générés aléatoirement et construisez tout ce qui vous passe par la tête, d'un abri de fortune au plus fabuleux des châteaux. Jouez en mode Créatif avec des ressources illimitées, ou creusez jusqu'au centre de la Terre pour fabriquer armes et armures afin de vaincre les dangereux monstres du mode Survie.",
         "title_id": "0100D71004694000",
-        "version": "1.26.60",
-        "update_version": 10682368,
-        "titles": "0100D71004694000:10682368:"
+        "version": "1.26.62",
+        "update_version": 10747904,
+        "titles": "0100D71004694000:10747904:"
     },
     {
         "title": "Don't Starve Together / Dont Starve: Nintendo Switch Edition + Hamlet DLC [NSZ][RUS (+Mod.)/Multi7]",
@@ -130782,19 +130810,19 @@
         "titles": "0100A0C00E0DE000:1703936:"
     },
     {
-        "title": "Cyanotype Daydream - The Girl Who's Called the World (Hakuchuumu no Aojashin / 白昼夢の青写真) [NSZ][ENG (Mod.)/JAP]",
-        "size": "4.23 GB",
-        "magnet": "magnet:?xt=urn:btih:0D027D47CDF977028123DC03F65B17CD48F49A58&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "Cyanotype Daydream - The Girl Who's Called the World (Hakuchuumu no Aojashin / 白昼夢の青写真) [NSZ][ENG,JA{]",
+        "size": "4.92 GB",
+        "magnet": "magnet:?xt=urn:btih:8DCF7C7D6B278D8B0600B3563A7F1781D25E4D2B&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6320651",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6320651",
         "year": "2022, novembre",
         "genre": "Visual Novel",
         "developer": "Laplacian",
         "publisher": "Syawase Works, The Math God",
-        "image_format": ".NSZ (compressé ~18%, taille installée 5.06 GB)",
-        "interface_lang": "Japonais [JAP] + portage angloperevoda s PK",
+        "image_format": ".NSZ (compressé ~18%, taille installée 6.02 GB)",
+        "interface_lang": "Anglais, Japonais [ENG / JAP]",
         "voice_lang": "Japonais",
-        "performance": "Oui (sur 15.0.1, Atmosphere 1.4.1)",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6320651.jpg",
         "screenshots": [
@@ -130807,9 +130835,9 @@
         ],
         "description": "Eta chistaya istoriya (VNDB) — istoriya lyubvi devushki i molodogo cheloveka, kotorye vzamen otdali miru vsyo\nKayto prosypaetsya i obnaruzhivaet, chto nakhoditsya v strannoy komnate, ne pomnya o tom, kto on takoy i kak tuda popal. Edinstvennye lyudi vokrug — tikhaya serebrovolosaya devushka, i ikh nadziratel, Izumo. Po mere togo, kak vokrug nego razvorachivayutsya istorii, Kayto nachinaet osoznavat pravdu i svoyu sobstvennuyu rol v nikh. I vsyo eto eshchyo svyazano so strannoy molchalivoy devushkoy, po imeni Yonagi...\nTri povestvovaniya, nachinayushchiesya sluchaynym obrazom, v itoge skhodyatsya v odnu liniyu. Kogda poslednee predlozhenie budet zakoncheno, u vas ostanutsya chuvstva, chrezvychayno slozhno vyrazhaemye slovami!..\nRoli ozvuchivayut:",
         "title_id": "01003B0018BC8000",
-        "version": "1.0.4",
-        "update_version": 262144,
-        "titles": "01003B0018BC8000:262144:"
+        "version": "2.0.0",
+        "update_version": 327680,
+        "titles": "01003B0018BC8000:327680:"
     },
     {
         "title": "Kanade [NSZ][ENG]",
