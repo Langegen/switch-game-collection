@@ -1,6 +1,6 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-11. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-12. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
@@ -8,7 +8,7 @@
 |---|---|---|---|---|
 | [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |
 | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | 20 | Release-1.1.0 | 2026-11-04 | bo2-360-nx-gamefiles-shader-extractor.zip, bo2-360-nx-release-1.1.0-switch+windows-build-kit.zip, bo2-360-nx-switch-PGO- |
-| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 8 | v1.1.0 | 2026-10-26 | GatefoldNX-1.1.0.zip |
+| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 9 | v2.0.0 | 2026-11-12 | songate-manifest.json, SongateAND-2.0.0.apk, SongateNX-2.0.0.zip, SongateWIN-2.0.0.exe |
 | [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.1 | 2026-11-01 | kickstand-0.1.1-aarch64-apple-darwin.tar.gz, kickstand-0.1.1-x86_64-apple-darwin.tar.gz, kickstand-0.1.1-x86_64-pc-windo |
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
 | [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |
@@ -77,11 +77,12 @@
 | [blade-punisher/switchnow](https://github.com/blade-punisher/switchnow) | ? | v1.3.0 | 2026-10-31 | SwitchNOW-1.3.0-SHA256SUMS.txt, SwitchNOW-1.3.0-showcase.jpg, SwitchNOW-1.3.0-source.zip, SwitchNOW-1.3.0.nro, SwitchNOW |
 | [borisovinfra/Sakura-Switch](https://github.com/borisovinfra/Sakura-Switch) | 6 | v2.1.0 | 2026-10-16 | Sakura-Switch-PRO-v2.1.0-macOS-Intel.zip |
 | [brendongl/supermariowar-nx](https://github.com/brendongl/supermariowar-nx) | 2 | v1.0.0 | 2026-10-22 | SHA256SUMS.txt, smw.nro, SuperMarioWar-NX-v1.0.0-forwarder.nsp, SuperMarioWar-NX-v1.0.0.zip |
+| [byvoid/opencc](https://github.com/byvoid/opencc) | ? | ver.1.4.2 | 2026-08-22 | opencc-1.4.2-1-deb-amd64.zip, opencc-1.4.2-1-deb-arm64.zip, opencc-1.4.2-bazel-src.tar.gz, opencc-1.4.2-bazel-src.tar.xz |
 | [carcaschoi/rcmloader-package](https://github.com/carcaschoi/rcmloader-package) | ? | v1.1.0 | 2021-09-30 | rcmloader.package.zip |
 | [catcheritgf/nx-venom](https://github.com/catcheritgf/nx-venom) | ? | 15.0.0 | 2026-10-17 | NXVenom.zip |
 | [cathery/sys-con](https://github.com/cathery/sys-con) | ? | v0.6.5 | 2024-11-06 | sys-con-0.6.5.zip |
 | [cbreezy210/ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) | 11 | v.1.4.0 | 2026-08-26 | ACNH-Save-Editor-DBI-v1.4.0.zip, acnh_editor_v1.4.0.zip |
-| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 252 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |
+| [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 253 | v1.2.2 | 2026-11-07 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |
 | [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) | 102 | v1.0.2 | 2026-10-27 | SwitchWaker-v1.0.2-switch-eur.zip, SwitchWaker-v1.0.2-switch-eur.zip.sha256, SwitchWaker-v1.0.2-switch.zip, SwitchWaker- |
 | [chiaki-ng/akira](https://github.com/chiaki-ng/akira) | ? | v0.6.5 | 2026-10-05 | akira-0.6.5.zip, akira-companion-darwin-arm64.zip, akira-companion-linux-amd64, akira-companion-windows-amd64.exe, akira |
 | [chiya695/TextReaderOverlay-NX-Revived](https://github.com/chiya695/TextReaderOverlay-NX-Revived) | 2 | v1.9.1 | 2026-08-08 | SHA256SUMS.txt, TextReaderOverlay-NX-1.9.1.zip |
@@ -136,6 +137,7 @@
 | [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) | 57 | 46 | 2026-11-08 | PYXIS_SwitchAIO.zip |
 | [mlemiam/Vanillatmosphere](https://github.com/mlemiam/Vanillatmosphere) | 42 | 1.11.2 | 2026-10-13 | Vanillatmosphere.1.11.2.zip |
 | [morce3232/dbipatcher](https://github.com/morce3232/dbipatcher) | ? | v845 | 2025-11-28 | 824.en.nro, 828.en.nro, 831.en.nro, 839.en.nro, 842.en.nro, 844.en.nro, 845.en.nro |
+| [mrdude2478/tinwoo-release](https://github.com/mrdude2478/tinwoo-release) | ? | 1.0.28 | 2024-08-21 | Tinwoo-Installer.zip |
 | [nicoboss/nsz](https://github.com/nicoboss/nsz) | ? | 5.0.0 | 2026-08-02 | nsz-cli-linux-arm64, nsz-cli-linux-x64, nsz-cli-macos-arm64, nsz-cli-windows-arm64.exe, nsz-cli-windows-x64.exe, nsz-gui |
 | [nixentric/rpynx](https://github.com/nixentric/rpynx) | 8 | v0.1.0 | 2026-10-25 | ffmpeg-7.1.tar.xz, renpy-loader.nro, renpy-runtime.nro, rpynx-importer-macos-arm64.dmg, rpynx-importer-python.zip, rpynx |
 | [nlohmann/json](https://github.com/nlohmann/json) | ? | v3.12.0 | 2025-04-11 | include.zip, include.zip.asc, json.hpp, json.hpp.asc, json.tar.xz, json.tar.xz.asc, json_fwd.hpp, json_fwd.hpp.asc |
@@ -170,6 +172,7 @@
 | [sthetix/lockpick_rcm_pro](https://github.com/sthetix/lockpick_rcm_pro) | ? | 2.2.0 | 2026-09-17 | Lockpick_RCM_Pro-2.2.0.zip |
 | [storm21ch/emunandswitcher](https://github.com/storm21ch/emunandswitcher) | ? | 3.80_FWD | 2024-11-18 | Emunandswitcher.3.80.SD.Files.zip |
 | [superokazaki/html-video-template-nx](https://github.com/superokazaki/html-video-template-nx) | ? | v1.0 | 2018-10-16 | HTML-Video-Template-NX-master.v1.zip |
+| [tallbl0nde/triplayer](https://github.com/tallbl0nde/triplayer) | ? | v1.1.1 | 2021-07-25 | triplayer-1.1.1.zip |
 | [team-neptune/deepsea](https://github.com/team-neptune/deepsea) | ? | v4.15.0 | 2026-03-31 | deepsea-advanced_v4.15.0.zip, deepsea-minimal_v4.15.0.zip, deepsea-normal_v4.15.0.zip |
 | [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) | ? | v1.3.0 | 2020-10-18 | Chiaki-v1.3.0-Android.aab, Chiaki-v1.3.0-Android.apk, Chiaki-v1.3.0-Linux-x86_64.AppImage, Chiaki-v1.3.0-macOS-x86_64.dm |
 | [timschneeb/kdeconnect-nx](https://github.com/timschneeb/kdeconnect-nx) | 14 | v1.0.1 | 2026-06-09 | debug-symbols.zip, kdeconnect-nx.zip |

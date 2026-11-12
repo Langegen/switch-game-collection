@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-11T19:40:25Z",
+ "generated": "2026-11-12T07:15:03Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -2705,6 +2705,30 @@
    "first_seen": "2026-11-09"
   },
   {
+   "name": "COLD-FEAR-NX-PORT",
+   "title": "Cold Fear",
+   "author": "RECOMP-GUTO",
+   "version": "0.1.37",
+   "category": "tool",
+   "description": "Cold Fear (Xbox) no Nintendo Switch por recompilação estática — Vulkan/NVK, mira por giroscópio, 30 FPS",
+   "changelog": "**Português** · [English](#english) · [Español](#español)\n\n## Cold Fear NX 0.1.37\n\nPort refeito sobre o XboxSwitchPortKit: o Direct3D 8 e o DirectSound do Xbox reescritos em Vulkan (NVK) e no áudio do Switch, sem emular a NV2A.\n\n### Novidades\n- **Giroscópio na mira:** segure **ZL** e mova o console. Sensibilidade, velocidade vertical, eixo, estabilidade, correção de drift e inverter X/Y.\n- **Sombras das lâmpadas** corrigidas.\n- **OLED SCREEN BOOST** (AUTO / OFF / ON): clareia os tons escuros na tela OLED.\n- Menu do port: **L3 + R3**.\n- Menus sem faixas pretas; as faixas ficam só no gameplay.\n- Capa do jogo no menu do Switch.\n- 30 FPS na maior parte do jogo, sem overclock.\n\n### Como instalar\n1. Copie `coldfear.nro` para `sdmc:/switch/coldfear/`.\n2. Copie os arquivos do seu disco de Cold Fear (Xbox, NTSC-U) para `sdmc:/switch/coldfear/game/` (ou um `.iso`).\n3. Abra pelo hbmenu **segurando R ao abrir um jogo instalado** (modo título).\n\nO jogo não está incluído: você precisa da sua própria cópia.\n\n### Problemas conhecidos\n- Quedas para 23–26 FPS nas áreas mais pesadas e em carregamentos.\n\n---\n\n## English\n\nThe port rebuilt on the XboxSwitchPortKit: the Xbox's Direct3D 8 and DirectSound rewritten over Vulkan (NVK) and the Switch's audio, with no NV2A emulation.\n\n### What's new\n- **Gyro aiming:** hold **ZL** and move the console. Sensitivity, vertical speed, axis, steadiness, drift correction and invert X/Y.\n- **Lamp shadows** fixed.\n- **OLED SCREEN BOOST** (AUTO / OFF / ON): lifts the dark tones on the OLED screen.\n- Port menu: **L3 + R3**.\n- Menus without black bars; the bars stay in gameplay only.\n- Cover art in the Switch menu.\n- 30 FPS for most of the game, with no overclock.\n\n### How to install\n1. Copy `coldfear.nro` to `sdmc:/switch/coldfear/`.\n2. Copy the files of your own Cold Fear disc (Xbox, NTSC-U) to `sdmc:/switch/coldfear/game/` (or an `.iso`).\n3. Open it from hbmenu **while holding R on an installed game** (title mode).\n\nThe game is not included: you need yo",
+   "url": "https://github.com/gerisson1996/cold-fear-nx-port",
+   "repo": "gerisson1996/cold-fear-nx-port",
+   "updated": "2026-11-11",
+   "download_url": "https://github.com/gerisson1996/COLD-FEAR-NX-PORT/releases/download/v0.1.37/coldfear.nro",
+   "download_type": "file",
+   "sha256": "1db258c0caf7ed2739ac83184f169c1b357fe1acf14c689e00f5d39c8c4d0375",
+   "filesize": 31117937,
+   "extracted": 31117937,
+   "files": [
+    "U: switch/COLD-FEAR-NX-PORT/COLD-FEAR-NX-PORT.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/COLD-FEAR-NX-PORT.jpg",
+   "license": "MIT",
+   "auto": true,
+   "first_seen": "2026-11-12"
+  },
+  {
    "name": "comicreaderswitch",
    "title": "Comic Reader",
    "author": "ZiggyGoofy",
@@ -4026,6 +4050,29 @@
    "first_seen": "2026-11-09"
   },
   {
+   "name": "sys-clk-editor",
+   "title": "sys-clk Editor",
+   "author": "Sun",
+   "version": "2.0.1",
+   "category": "tool",
+   "description": "",
+   "changelog": "# Change Log\r\n* Improved writes to Configuration which show make it look much nicer :)\r\n* Updated Libraries\r\n\r\n**.elf file is only included for debugging purposes and as such is not needed on the SD to run the application**",
+   "url": "https://github.com/sunresearchinstitute/sys-clk-editor",
+   "repo": "sunresearchinstitute/sys-clk-editor",
+   "updated": "2020-02-10",
+   "download_url": "https://github.com/SunResearchInstitute/sys-clk-Editor/releases/download/v2.0.1/sys-clk-Editor.nro",
+   "download_type": "file",
+   "sha256": "97893f7278e2e02ffc7f50405fd473c6810f94fc19f451eff2dc374fca70ce62",
+   "filesize": 913557,
+   "extracted": 913557,
+   "files": [
+    "U: switch/sys-clk-editor/sys-clk-editor.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/sys-clk-editor.jpg",
+   "auto": true,
+   "first_seen": "2026-11-12"
+  },
+  {
    "name": "sys-patch",
    "title": "sys-patch",
    "author": "TotalJustice",
@@ -4080,6 +4127,75 @@
    }
   },
   {
+   "name": "tencent-switcher-gui",
+   "title": "Tencent switcher GUI",
+   "author": "CaiMiao",
+   "version": "0.1.1",
+   "category": "tool",
+   "description": "",
+   "changelog": "> Please prefer use with title takeover to prevent potential crash.",
+   "url": "https://github.com/caimiao/tencent-switcher-gui",
+   "repo": "caimiao/tencent-switcher-gui",
+   "updated": "2021-01-21",
+   "download_url": "https://github.com/CaiMiao/Tencent-switcher-GUI/releases/download/0.1.1/tencent-switcher-gui.nro",
+   "download_type": "file",
+   "sha256": "c3b8a02d3d523a9b07b75873d7f7a9988c55fca0768e2a91d3cc4ac737d1b5ce",
+   "filesize": 7529089,
+   "extracted": 7529089,
+   "files": [
+    "U: switch/tencent-switcher-gui/tencent-switcher-gui.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/tencent-switcher-gui.jpg",
+   "auto": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "name": "ticobro",
+   "title": "Ticobro",
+   "author": "StonedModder",
+   "version": "1.0.0",
+   "category": "tool",
+   "description": "",
+   "changelog": "version 1.0.0 -- initial release expect bugs please report them",
+   "url": "https://github.com/stonedmodder/ticobro",
+   "repo": "stonedmodder/ticobro",
+   "updated": "2026-05-01",
+   "download_url": "https://github.com/StonedModder/Ticobro/releases/download/1.0.0/Ticbro.nro",
+   "download_type": "file",
+   "sha256": "e7118e2a2dfb2ca302e277305aae4e5f9bacfaddf02150f31198d65cb0774dad",
+   "filesize": 10459414,
+   "extracted": 10459414,
+   "files": [
+    "U: switch/ticobro/ticobro.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ticobro.jpg",
+   "auto": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "name": "tinleaf",
+   "title": "Tinleaf Installer",
+   "author": "Adubbz and Xortroll",
+   "version": "1.4.5",
+   "category": "tool",
+   "description": "",
+   "changelog": "Fixed sparse storage.",
+   "url": "https://github.com/blawar/tinleaf",
+   "repo": "blawar/tinleaf",
+   "updated": "2021-09-30",
+   "download_url": "https://github.com/blawar/tinleaf/releases/download/1.4.5/tinleaf.nro",
+   "download_type": "file",
+   "sha256": "9e7b6765e3eddf73d008ea2ba99d3b4eaebf8a63a4d61689aa40dfbe478a13cd",
+   "filesize": 11838099,
+   "extracted": 11838099,
+   "files": [
+    "U: switch/tinleaf/tinleaf.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/tinleaf.jpg",
+   "auto": true,
+   "first_seen": "2026-11-12"
+  },
+  {
    "name": "TinWoo",
    "title": "TinWoo",
    "author": "MrDude",
@@ -4102,6 +4218,97 @@
    "description_i18n": {
     "ru": "Установщик NSP, NSZ и XCI"
    }
+  },
+  {
+   "name": "title-deleter",
+   "title": "Title deleter - a Title Deleter",
+   "author": "Darksoftware",
+   "version": "beta-1",
+   "category": "tool",
+   "description": "",
+   "changelog": "Simply put the title IDs of the title you want to download on \"sdmc:/switch/title-deleter.txt\", and enjoy!\r\n\r\nWe are not responsible for your mistakes be cautious",
+   "url": "https://github.com/darksoftwarellc/title-deleter",
+   "repo": "darksoftwarellc/title-deleter",
+   "updated": "2018-07-25",
+   "download_url": "https://github.com/DarksoftwareLLC/Title-deleter/releases/download/beta-1/title-deleter.nro",
+   "download_type": "file",
+   "sha256": "3110dc4ca2558a924842e2382cd783e6367cf19e9fb8c5fefe94ad3cc6d3ce77",
+   "filesize": 710853,
+   "extracted": 710853,
+   "files": [
+    "U: switch/title-deleter/title-deleter.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/title-deleter.jpg",
+   "auto": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "name": "tmcexplorer-nx",
+   "title": "TmcExplorer-NX",
+   "author": "TM_C0M8U570RZ",
+   "version": "1.0.0",
+   "category": "tool",
+   "description": "",
+   "changelog": "",
+   "url": "https://github.com/tm-c0m8u570rz/tmcexplorer-nx",
+   "repo": "tm-c0m8u570rz/tmcexplorer-nx",
+   "updated": "2026-08-25",
+   "download_url": "https://github.com/TM-C0M8U570RZ/TmcExplorer-NX/releases/download/v1.0.0/TmcExplorer-NX.nro",
+   "download_type": "file",
+   "sha256": "83332c3d473d3811dadce35d0a8069c93436bd51529aa57efbcf188b46159b65",
+   "filesize": 9665053,
+   "extracted": 9665053,
+   "files": [
+    "U: switch/tmcexplorer-nx/tmcexplorer-nx.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/tmcexplorer-nx.jpg",
+   "auto": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "name": "uberhand-overlay",
+   "title": "Uberhand",
+   "author": "efosamark, i3sey, irne, ppkantorski",
+   "version": "2.3.2",
+   "category": "advanced",
+   "description": "",
+   "changelog": "## What's Changed\r\n* added scrolling to text_source by @i3sey in https://github.com/efosamark/Uberhand-Overlay/pull/135\r\n* Bump patch version to build with new libnx by @IrneRacoonovich in https://github.com/efosamark/Uberhand-Overlay/pull/148\r\n* Fix Release action by @IrneRacoonovich in https://github.com/efosamark/Uberhand-Overlay/pull/149\r\n\r\n\r\n**Full Changelog**: https://github.com/efosamark/Uberhand-Overlay/compare/2.3.1...2.3.2",
+   "url": "https://github.com/efosamark/uberhand-overlay",
+   "repo": "efosamark/uberhand-overlay",
+   "updated": "2025-11-20",
+   "download_url": "https://github.com/efosamark/Uberhand-Overlay/releases/download/2.3.2/ovlmenu.ovl",
+   "download_type": "file",
+   "sha256": "6593c8ef8a5cfcba107da363551246e9afd7135fe4b4528e7b8bcc7721de20f2",
+   "filesize": 1503288,
+   "extracted": 1503288,
+   "files": [
+    "U: switch/.overlays/uberhand-overlay.ovl"
+   ],
+   "auto": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "name": "ue4cfgdumper",
+   "title": "UE4cfgdumper",
+   "author": "MasaGratoR",
+   "version": "1.3.3",
+   "category": "tool",
+   "description": "",
+   "changelog": "Make compatibility with Unreal Engine 5.8.0+/6.0.0+ more sturdy.",
+   "url": "https://github.com/masagrator/ue4cfgdumper",
+   "repo": "masagrator/ue4cfgdumper",
+   "updated": "2026-11-09",
+   "download_url": "https://github.com/masagrator/UE4cfgdumper/releases/download/1.3.3/UE4cfgdumper.nro",
+   "download_type": "file",
+   "sha256": "d0339d5692bc22733a1e244bcf8423f1d55e14432e7cf4d8a8191d119f3159bb",
+   "filesize": 547013,
+   "extracted": 547013,
+   "files": [
+    "U: switch/ue4cfgdumper/ue4cfgdumper.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ue4cfgdumper.jpg",
+   "auto": true,
+   "first_seen": "2026-11-12"
   },
   {
    "name": "UltrahandOverlay",
@@ -4167,6 +4374,29 @@
    "description_i18n": {
     "ru": "Меню оверлеев (замена Tesla)"
    }
+  },
+  {
+   "name": "upcomingswitchgames",
+   "title": "UpcomingSwitchGames",
+   "author": "PoloNX",
+   "version": "1.0.0",
+   "category": "tool",
+   "description": "",
+   "changelog": "Here is the first release of this new homebrew; it will allow you to see which upcoming games are available on the Nintendo Switch. If you encounter any bugs with the application, feel free to open an issue.",
+   "url": "https://github.com/polonx/upcomingswitchgames",
+   "repo": "polonx/upcomingswitchgames",
+   "updated": "2024-01-24",
+   "download_url": "https://github.com/PoloNX/UpcomingSwitchGames/releases/download/1.0.0/UpcomingSwitchGames.nro",
+   "download_type": "file",
+   "sha256": "1639f5675284231734780b7e9e3f5fbc5031ae2b30b72bf9ad7c0d0c4c0a867d",
+   "filesize": 9505945,
+   "extracted": 9505945,
+   "files": [
+    "U: switch/upcomingswitchgames/upcomingswitchgames.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/upcomingswitchgames.jpg",
+   "auto": true,
+   "first_seen": "2026-11-12"
   },
   {
    "name": "Weather-and-Moon-Phase-app-for-Nintendo-Switch",
