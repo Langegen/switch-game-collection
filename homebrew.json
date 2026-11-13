@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-13T06:48:51Z",
+ "generated": "2026-11-13T19:45:18Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -894,6 +894,12 @@
   "Neumann": {
    "kinds": [
     "app"
+   ]
+  },
+  "NexStatus": {
+   "kinds": [
+    "app",
+    "overlay"
    ]
   },
   "NooDS": {

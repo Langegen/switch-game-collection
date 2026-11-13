@@ -131,6 +131,7 @@
 | [lozp1/07z](https://github.com/lozp1/07z) | 0 | v1.0.2 | 2026-10-13 | 07z-base-interfaz.zip, 07z-completo.zip, 07z-instalador.nsp, autorun-loader-ams1.11.2-5388824b.kip, autorun-loader-ams1. |
 | [m4l3vich/vkpcnx](https://github.com/m4l3vich/vkpcnx) | 2 | v1.1.0 | 2026-10-15 | vkpcnx-debug.nro, vkpcnx-switch-debug-symbols.zip, vkpcnx-switch-symbols.zip, vkpcnx.nro |
 | [maiaramon/cnx-installer-macos](https://github.com/maiaramon/cnx-installer-macos) | 2 | v1.4 | 2026-06-18 | CNX_Installer.app.zip |
+| [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc1 | 2026-11-13 | kodi-runtime.zip, kodi.nro |
 | [malinkin-s/destinia-nx](https://github.com/malinkin-s/destinia-nx) | 0 | v1.0.0 | 2026-10-25 | destinia-switch-1.0.0.zip, Destinia.0100D3571A000000.v0.nsp, Destinia.0100D3571A000000.v0.nsz, destinia.nro |
 | [masagrator/nxusbx360con](https://github.com/masagrator/nxusbx360con) | ? | 1.0.0 | 2026-06-26 | NxUsbX360Con.nro, ServerNativeArm64.zip, ServerNativeX64.zip |
 | [masagrator/reversenx](https://github.com/masagrator/reversenx) | ? | 0.34-re | 2020-02-28 | ReverseNX-0.34.zip |

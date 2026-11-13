@@ -1323,7 +1323,7 @@
   "bernardogiordano/checkpoint": {
    "description": "Fast and simple homebrew save management framework for 3DS and Switch.",
    "full_name": "BernardoGiordano/Checkpoint",
-   "stargazers_count": 3123,
+   "stargazers_count": 3125,
    "topics": [
     "3ds",
     "3ds-homebrew",
@@ -1776,7 +1776,7 @@
   "sonerx7/nexvyn-os-nx": {
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
    "full_name": "sonerx7/Nexvyn-OS-NX",
-   "stargazers_count": 71,
+   "stargazers_count": 72,
    "topics": [
     "app-market",
     "atmosphere",
@@ -2609,7 +2609,7 @@
     "app"
    ],
    "reason": "",
-   "version": "0.8.7-nx1",
+   "version": "0.8.7-nx-release-1",
    "worst": "allowed"
   },
   "FPSLocker": {
@@ -3336,6 +3336,15 @@
    ],
    "reason": "",
    "version": "0.0.32",
+   "worst": "allowed"
+  },
+  "NexStatus": {
+   "kinds": [
+    "app",
+    "overlay"
+   ],
+   "reason": "",
+   "version": "1.1.3",
    "worst": "allowed"
   },
   "NooDS": {
@@ -4091,7 +4100,7 @@
     "app"
    ],
    "reason": "",
-   "version": "0.1.51",
+   "version": "0.1.58",
    "worst": "allowed"
   },
   "SysDVR": {
@@ -7249,6 +7258,10 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-11-06T02:42:19Z"
   },
+  "agafak1337/tubenx": {
+   "checked": "2026-11-13",
+   "pushed_at": "2026-11-13T18:23:02Z"
+  },
   "ahmadsouri/jak-switch-port": {
    "checked": "2026-11-09",
    "pushed_at": "2026-10-23T09:12:10Z"
@@ -7295,8 +7308,8 @@
   },
   "angle-brackets/kickstand": {
    "candidate": "| [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.1 | 2026-11-01 | kickstand-0.1.1-aarch64-apple-darwin.tar.gz, kickstand-0.1.1-x86_64-apple-darwin.tar.gz, kickstand-0.1.1-x86_64-pc-windo |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-11-01T06:42:46Z"
+   "checked": "2026-11-13",
+   "pushed_at": "2026-11-13T09:17:12Z"
   },
   "angle-brackets/paperboat-switch-port": {
    "checked": "2026-11-09",
@@ -7326,8 +7339,8 @@
    "pushed_at": "2026-08-20T09:18:32Z"
   },
   "armaatus/rommsync-nx": {
-   "checked": "2026-11-12",
-   "pushed_at": "2026-11-12T11:14:47Z"
+   "checked": "2026-11-13",
+   "pushed_at": "2026-11-13T11:09:06Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -7588,8 +7601,8 @@
    "pushed_at": "2026-09-16T16:58:32Z"
   },
   "ctj01/switch2pc": {
-   "checked": "2026-11-12",
-   "pushed_at": "2026-11-12T10:45:06Z"
+   "checked": "2026-11-13",
+   "pushed_at": "2026-11-13T10:36:31Z"
   },
   "curl/curl": {
    "candidate": "| [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |",
@@ -7653,8 +7666,8 @@
    "pushed_at": ""
   },
   "delfus77/nxdock": {
-   "checked": "2026-11-12",
-   "pushed_at": "2026-11-12T10:50:20Z"
+   "checked": "2026-11-13",
+   "pushed_at": "2026-11-13T17:45:07Z"
   },
   "denpingus/nxcloud": {
    "candidate": "| [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |",
@@ -7929,8 +7942,8 @@
    "pushed_at": ""
   },
   "hanazonoarchive/switchtheme_studio": {
-   "checked": "2026-11-12",
-   "pushed_at": "2026-11-12T05:25:25Z"
+   "checked": "2026-11-13",
+   "pushed_at": "2026-11-13T18:54:43Z"
   },
   "happynico7504/spotify-wiiu": {
    "checked": "2026-11-10",
@@ -8066,7 +8079,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-13",
-   "pushed_at": "2026-11-13T06:34:39Z"
+   "pushed_at": "2026-11-13T19:36:57Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8213,6 +8226,11 @@
    "checked": "2026-11-09",
    "pushed_at": "2026-06-18T16:18:45Z"
   },
+  "majingabe/kodi-switch": {
+   "candidate": "| [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc1 | 2026-11-13 | kodi-runtime.zip, kodi.nro |",
+   "checked": "2026-11-13",
+   "pushed_at": "2026-11-13T17:06:17Z"
+  },
   "malinkin-s/destinia-nx": {
    "candidate": "| [malinkin-s/destinia-nx](https://github.com/malinkin-s/destinia-nx) | 0 | v1.0.0 | 2026-10-25 | destinia-switch-1.0.0.zip, Destinia.0100D3571A000000.v0.nsp, Destinia.0100D3571A000000.v0.nsz, destinia.nro |",
    "checked": "2026-11-09",
@@ -8251,8 +8269,8 @@
   },
   "meowdev-mod/control-ps-5": {
    "candidate": "| [MeoWDev-MOD/Control-PS-5](https://github.com/MeoWDev-MOD/Control-PS-5) | 1 | v1.1.0 | 2026-11-04 | Control-PS-5.zip |",
-   "checked": "2026-11-10",
-   "pushed_at": "2026-11-10T16:09:43Z"
+   "checked": "2026-11-13",
+   "pushed_at": "2026-11-13T15:39:50Z"
   },
   "migushthe2nd/ebrowser": {
    "checked": "2026-11-09",
@@ -8281,7 +8299,7 @@
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-13",
-   "pushed_at": "2026-11-13T05:36:25Z"
+   "pushed_at": "2026-11-13T16:03:09Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-10",
@@ -8482,7 +8500,7 @@
   "ppkantorski/libultrahand": {
    "candidate": "| [ppkantorski/libultrahand](https://github.com/ppkantorski/libultrahand) | 68 | v2.5.4 | 2026-11-09 | libultrahand.zip |",
    "checked": "2026-11-13",
-   "pushed_at": "2026-11-13T05:33:39Z"
+   "pushed_at": "2026-11-13T11:19:41Z"
   },
   "ppkantorski/memory-kit": {
    "candidate": "| [ppkantorski/Memory-Kit](https://github.com/ppkantorski/Memory-Kit) | 28 | v1.0.2 | 2026-05-20 | Memory.Kit.zip |",
@@ -8661,7 +8679,7 @@
   },
   "schuler-ph/nsmbw-switch": {
    "checked": "2026-11-13",
-   "pushed_at": "2026-11-12T12:57:02Z"
+   "pushed_at": "2026-11-13T14:09:26Z"
   },
   "sciresm/hactool": {
    "candidate": "| [sciresm/hactool](https://github.com/sciresm/hactool) | ? | 1.4.0 | 2020-06-02 | hactool-1.4.0-win.zip |",
@@ -8789,8 +8807,8 @@
    "pushed_at": ""
   },
   "tbittech/gow3-nx": {
-   "checked": "2026-11-12",
-   "pushed_at": "2026-11-12T17:11:03Z"
+   "checked": "2026-11-13",
+   "pushed_at": "2026-11-13T16:12:18Z"
   },
   "team-failure/tf-os": {
    "candidate": "| [Team-Failure/TF-OS](https://github.com/Team-Failure/TF-OS) | 6 | 3.6 | 2026-03-15 | TF_OS_3.6.zip |",
