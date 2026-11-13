@@ -1,6 +1,6 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-12. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-13. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
@@ -191,7 +191,7 @@
 
 ## Скрыты из fortheusers (опасные пути)
 
-- Hekate: hekate_ctcaer_6.5.4.bin (boot file in SD root)
+- Hekate: hekate_ctcaer_6.5.5.bin (boot file in SD root)
 - SkyNX: SkyNX_Forwarder.nsp (boot file in SD root)
 - TKMM-NX: bootloader/ini/TKMM.ini (bootloader)
 - TegraExplorer: TegraExplorer.bin (boot file in SD root)
