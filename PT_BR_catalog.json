@@ -1,5 +1,37 @@
 [
     {
+        "title": "Million Depth (versão demo) [NSZ][DEMO][ENG]",
+        "size": "413 MB",
+        "magnet": "magnet:?xt=urn:btih:2E5C3540228388AC0120F0803FA5CE1EDCC26EEF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6937545",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6937545",
+        "year": "2026, dezembro",
+        "genre": "Action, Adventure, Roguelite",
+        "developer": "Cyber Space Biotope",
+        "publisher": "Playism",
+        "image_format": ".NSZ (compactado ~79%, tamanho instalado 1.94 GB) [DEMO]",
+        "interface_lang": "Inglês [ENG]",
+        "voice_lang": "Sem dublagem",
+        "performance": "Sim (no 23.0.1, Atmosphere 1.12.2)",
+        "multiplayer": "Não",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6937545.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1113/ae/18ff3169283afbaac91701cd3ca865ae.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/e5/fb097c0a2bebd830da27f3c19cd8f3e5.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/9e/ea61097fc1c8eeb5ef20317e95e0b79e.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/7f/fe6ef73a6a9a0d0cb57c5578f53f0d7f.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/49/fff7d4107c9b3481f111a536d3325249.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/e5/4e3be20e2e7ceddf3b679b5522e7bae5.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/8e/f2e4ccce623ba9891b22b53bb389de8e.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/62/50a65e8dbc36378d1115688c40562062.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/5b/c7dbeb53d2d5d367fe728f0a880c775b.jpeg"
+        ],
+        "description": "Moma parte em uma jornada para encontrar seu amigo - ele está em algum lugar nas profundezas do Million Deeps, um complexo subterrâneo com um milhão de andares. No entanto, ela enfrenta um mundo em constante mudança. A verdadeira história de A Million Deep varia dependendo da linha do tempo, e o destino de Moma muda junto com o mundo ao seu redor.\nAs decisões que você tomou no passado ecoam no futuro – e até mesmo através dos cronogramas – de maneiras inesperadas. Ela deve reunir pistas dispersas para desvendar os muitos mistérios de sua jornada.\nCrie armas e participe de batalhas estratégicas usando mecânicas de parar o tempo enquanto mergulha nas profundezas deste mundo subterrâneo que consiste em um milhão de andares incríveis!",
+        "title_id": "010006102A00E000",
+        "version": "3.1.3",
+        "titles": "010006102A00E000:0:"
+    },
+    {
         "title": "Tearscape [NSP][RUS/Multi11]",
         "size": "163.4 MB",
         "magnet": "magnet:?xt=urn:btih:A7526E495025CD9C780F19E18BE65386A1A923A0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -62,7 +94,7 @@
     {
         "title": "The Witcher 2 Assassins of Kings [NRO][RUS/POL]",
         "size": "7.72 GB",
-        "magnet": "magnet:?xt=urn:btih:A17F3A90F2549CC88F0FE74C9DCCF77F73DFEDDE&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:2D7FDCFFD8D20437FD8B2A1E6730ACA52C1D3515&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6936880",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6936880",
         "year": "2011",
@@ -88,7 +120,7 @@
         ],
         "description": "The Witcher 2: Assassins of Kings se passa logo após os eventos de The Witcher e também no mundo dos livros de Andrzej Sapkowski. O personagem principal ainda é o bruxo Geralt de Rivia.\nDe acordo com a trama, o personagem principal terá que viajar muito, e uma magia poderosa está envolvida na trama do jogo. Os desenvolvedores garantiram um alto nível de rejogabilidade e, no meio do jogo, os possíveis desenvolvimentos do enredo podem ser muito diferentes uns dos outros.\nO final da trama do prólogo terminou com a tentativa de assassinato do Rei Foltest. Geralt não conseguiu evitar a tentativa de assassinato e perdeu o misterioso assassino, que tinha olhos de “bruxo”. Em The Witcher 2: Assassins of Kings, Geralt é acusado de assassinar Foltest e deve investigar o crime e restaurar sua reputação.\nO projeto foi muito bem recebido pela crítica, a grande maioria das análises caracterizou o jogo de forma positiva. O jogo recebeu 9 de 10 pontos e ficou em terceiro lugar na categoria “RPG do Ano” (2011). “Veredicto: um dos melhores RPGs da história, digno de ocupar um lugar ao lado dos titãs do gênero” e “o mundo criado pelos artesãos poloneses no segundo “The Witcher” é tão bom e encantador que muito pode ser perdoado por este jogo e seus criadores”. “Jogo de RPG incrivelmente lindo no mundo de Sapkowski - quase perfeito.”",
         "title_id": null,
-        "version": "0.1.32"
+        "version": "0.1.46"
     },
     {
         "title": "Mercenaries 2 World in Flames (port ) [NRO][RUS/ENG]",
