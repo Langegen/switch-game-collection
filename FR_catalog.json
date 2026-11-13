@@ -1,5 +1,65 @@
 [
     {
+        "title": "Tearscape [NSP][RUS/Multi11]",
+        "size": "163.4 MB",
+        "magnet": "magnet:?xt=urn:btih:A7526E495025CD9C780F19E18BE65386A1A923A0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6937167",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6937167",
+        "year": "2026, août",
+        "genre": "Action, Role-Playing, Adventure, Puzzle",
+        "developer": "Nerds Take Over",
+        "publisher": "NERDS TAKE OVER",
+        "image_format": "NSP",
+        "interface_lang": "Russe, Anglais [RUS / ENG / Multi 11]",
+        "voice_lang": "Sans voix",
+        "performance": "Oui (sur 23.0.1, Atmosphere 1.12.2)",
+        "multiplayer": "Jusqu'à 2 joueurs",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6937167.jpg",
+        "screenshots": [
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/5e9fe7d0f8e3b8964fb69164c03314635c112fd550f93c0b289359aa53a2862e.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a9e6069591c992304f70c04ca4843ba6556c87f93b25acb65509b3e58e7f8f2f.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/2e1697c7806bf93a868daaee606076d8abb6602171f9e21459795acdc9ebd2a2.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a793276beefecf3229bceae67ac73e99d6cea66a8a11d95ffeda8c6ff96ec436.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b6e55bf5889dfd8f74d2a69c658017512041caeaae5fec401f846ef969723ee6.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/103b45e9e86a180ef5d09399eedb41c208602edc211448b732daf860b28e5c09.jpg&output=jpg"
+        ],
+        "description": "Découvre l’univers gothique de ce jeu d’action-aventure 2D en vue de dessus, mélangeant combat effrené, exploration, et pixel art évoquant les classiques du rétro. Affronte de monstrueux ennemis, débloque de nouvelles capacités, et révèle la carte d’un monde gorgé de secrets et défis redoutables.\n\nCOMBAT\n\nCombat précis et maîtrisé, où chaque attaque et parade compte. Affronte d’ubuesques adversaires tout en préservant ton endurance. Consomme tes précieuses fioles de soins avec parcimonie. Améliore ton personnage pour garder l’avantage en bataille.\n\nOUTILS\n\nDécouvre de puissants outils dissimulés au cœur des donjons pour t’aider au combat comme en exploration. Débloque de nouvelles capacités pour terrasser tes adversaires, et traverser les dédales de ce monde pour révéler ses plus profonds secrets.\n\nDONJONS\n\nDébusque les donjons secrets au sein des obscures contrées de Tearscape; chacun d’entre eux recèle ses défis uniques, ennemis mortels, et objets de puissance pour grandir tes capacités combatives et exploratives à l’extrême.\n\nCOMBATS DE BOSS\n\nAffronte de redoutables boss: créatures ubuesques, issues d’obscures expériences. Chaque combat exige précision, stratégie, et la maîtrise de toutes tes compétences pour que victoire soit tienne.\n\nEXPLORATION\n\nDécouvre un vaste monde abondant en chemins entrecroisés, raccourcis cachés, et autres passages secrets. L’absence de linéarité encourage l’exploration, récompensée par de nouvelles compétences et puissants artéfacts.\n\nPNJ\n\nPars à la rencontre de PNJ divers et variés; certains offrant conseils, d’autres espérant ton aide, et quelques-uns aux intentions cachées. Chaque interaction enrichit ton histoire.",
+        "title_id": "0100FCF0280DA000",
+        "version": "1.0.2",
+        "update_version": 131072,
+        "titles": "0100FCF0280DA000:131072:"
+    },
+    {
+        "title": "Telebbit [NSZ][ENG]",
+        "size": "160.3 MB",
+        "magnet": "magnet:?xt=urn:btih:1395729AB75AD6FBA997A73681C23CDA17EB5105&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6937174",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6937174",
+        "year": "2024, octobre",
+        "genre": "Platformer, Action, Puzzle",
+        "developer": "Ikinagames",
+        "publisher": "HYPER REAL",
+        "image_format": ".NSZ (compressé ~85%, taille installée 1.06 GB)",
+        "interface_lang": "Anglais [ENG]",
+        "voice_lang": "Sans voix",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Non",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6937174.jpg",
+        "screenshots": [
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/43fccb0a382ab1a06ab800d74d42c67c62496daef2fe13c915c59b7cb040ae1e.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/82a6d72e7c164563d12c5185d5a0f12857bd348096f02c1e8f47131912c9347a.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a55bf87e82aa002659ef4dcf45f5a381bd8917ab7af0f7ff8d64ccfa020cf37b.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/1a55e80421c5e14eac00d7f1d2522ae5638c8e580d9737fef8aa5569319a267a.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/e05b14f3ff98797ff4bae065443733bf008a48f79968cf92edde06f45a373eaa.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/046d25c9b79883d83351685e8340404cbcd7ad11d3b13e1735781f13ed424f72.jpg&output=jpg"
+        ],
+        "description": "Prenez le téléporteur et échappez-vous du laboratoire !\nCet appareil téléporte l'utilisateur à l'emplacement où il a été tiré, mais les possibilités deviennent infinies quand il est combiné avec les gadgets qui se trouvent dans le niveau ! Mais attention, un boss redoutable va vous barrer la route à chaque fin de niveau... Restez sur vos gardes, nom d'une carotte !\n\nNous sommes en 3023.\n\nLes guerres incessantes, la destruction de l'environnement et les pandémies mortelles ont forcé l'humanité à se réfugier sous terre. Les scientifiques ont alors développé un nouveau moyen de transport personnel, appelé téléporteur, afin de pouvoir se déplacer de manière plus sûre et moins coûteuse, tout en minimisant le contact avec le sol et l'atmosphère pollués.\n\nPour tester le téléporteur, des expériences ont été menées sur des animaux. Au cours d'un test, une erreur du téléporteur a fusionné dans la tête d'un lapin un processeur ultra-performant. Tirant parti de la puissance de sa nouvelle intelligence, le lapin a juré de se venger des humains qui lui ont fait subir des expériences aussi cruelles que douloureuses.\n\n- Un jeu de plateforme rapide avec de la téléportation.\n- Un jeu facile à apprendre mais difficile à maîtriser, qui récompensera la patience et la détermination des meilleurs.\n- Huit zones souterraines différentes, toutes dotées de charmants graphismes en pixelart\n- Mode Speedrun chronométré - Battez les meilleurs temps!",
+        "title_id": "0100A0A0204A4000",
+        "version": "1.05",
+        "update_version": 327680,
+        "titles": "0100A0A0204A4000:327680:"
+    },
+    {
         "title": "The Witcher 2 Assassins of Kings [NRO][RUS/POL]",
         "size": "7.72 GB",
         "magnet": "magnet:?xt=urn:btih:A17F3A90F2549CC88F0FE74C9DCCF77F73DFEDDE&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
@@ -202,9 +262,9 @@
         "titles": "010018F021CB2000:262144:"
     },
     {
-        "title": "Dishonored (portage ) [NRO][ENG]",
-        "size": "3.89 GB",
-        "magnet": "magnet:?xt=urn:btih:C2F9C2A14E6555F4A8CDE772728895DC3A6926AF&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "title": "Dishonored (portage ) [NRO][RUS/ENG]",
+        "size": "7.77 GB",
+        "magnet": "magnet:?xt=urn:btih:7F147FF6644EF6EBEEC1764CD33DFFC4A4E6A169&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6936716",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6936716",
         "year": "2012",
@@ -212,7 +272,7 @@
         "developer": "Arkane Studios",
         "publisher": "cznn999",
         "image_format": "NRO",
-        "interface_lang": "Anglais [ ENG]",
+        "interface_lang": "Russe (ofitsialnyy par 1S-SoftKlab), Anglais [RUS / ENG]",
         "voice_lang": "Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
@@ -2312,7 +2372,7 @@
     {
         "title": "Lost Odyssey (portage ) [NRO][RUS (Mod.)/ENG]",
         "size": "23.9 GB",
-        "magnet": "magnet:?xt=urn:btih:1213DD62F2A94430A292E30C40F86BB856ECAACA&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:F03E07597A5CAB7C826F9758135FEF0E239ABA98&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6924019",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6924019",
         "year": "2007",
@@ -2338,7 +2398,7 @@
         ],
         "description": "L'énergie magique a toujours été contenue dans les êtres vivants, mais sa puissance a considérablement augmenté 30 ans avant les événements du jeu. Cela a grandement influencé la société grâce à la création du dispositif « Magic Engine », qui a permis d'utiliser le pouvoir magique pour l'éclairage, les voitures, les communications, les robots et à d'autres fins. Si auparavant seuls quelques privilégiés pouvaient utiliser la magie, nombreux sont désormais ceux qui ont eu cette opportunité.\nCes progrès ont également créé le désir parmi les deux nations, le Royaume de Gohtz et la République d'Uhra, d'une société monarchique nouvellement réformée ; développer de nouvelles armes de destruction massive plus puissantes. Les Uhra construisent le Grand Bâton, un gigantesque moteur magique, tandis que les Gohtza, hautement industrialisés, étudient activement la magie qui est en eux-mêmes. La troisième nation, les États libres de Numara, reste isolée et neutre, mais tombe dans le désarroi en raison de tentatives de putsch. Uhra combat les Khents, une nation d'hommes-bêtes, et ils envoient leurs forces dans les montagnes Wal pour la bataille finale, où le jeu commence !...\nOdyssée perdue, japonais. Rosuto odessey ロストオデッセイ, ou Lost Odyssey, est un jeu de rôle japonais publié par Microsoft Game Studios exclusivement pour la Xbox 360. Lost Odyssey a été créé par Hironobu Sakaguchi, créateur de la célèbre série Final Fantasy. Il s'agit du troisième projet de Sakaguchi en dehors de Square Enix, après ASH : Archaic Sealed Heat et Blue Dragon. Le joueur contrôle un personnage nommé Kaim, un homme qui a vécu mille ans sans aucun souvenir de son passé, et commence dans un monde dans lequel une « révolution industrielle » magique approche : Kaim a du mal à retrouver sa mémoire et la douleur qu'elle apporte. Famitsu a donné au jeu une note de 36/40, les quatre critiques lui donnant un score de neuf.\nBande-annonce vidéo.",
         "title_id": null,
-        "version": "1.1.0"
+        "version": "1.2.0"
     },
     {
         "title": "Spica Adventure [NSZ][ENG]",
@@ -2553,9 +2613,9 @@
         "title_id": null
     },
     {
-        "title": "Harvest Moon Echoes of Teradea [NSZ][ENG]",
-        "size": "3.52 GB",
-        "magnet": "magnet:?xt=urn:btih:B9E1CCBEEEE84CEDF9DD8C34E09415EEE4A10CC0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "title": "Harvest Moon Echoes of Teradea [NSZ][RUS (Mod.)/ENG]",
+        "size": "5.01 GB",
+        "magnet": "magnet:?xt=urn:btih:B5EFC8805A542A6588A07F6403DB4AED3977FF7C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6923274",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6923274",
         "year": "2026, octobre",
@@ -2563,7 +2623,7 @@
         "developer": "Imagica Geeq Inc.",
         "publisher": "Natsume Inc.",
         "image_format": ".NSZ (compressé ~18%, taille installée 4.30 GB)",
-        "interface_lang": "Anglais [ENG]",
+        "interface_lang": "Anglais [ENG] + traduction automatique optionnelle par erll_2nd pour v131072",
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
@@ -2574,13 +2634,16 @@
             "https://i128.fastpic.org/thumb/2026/1015/5e/e96a1fdcafd7fed2f3e523b9dbf20f5e.jpeg",
             "https://i128.fastpic.org/thumb/2026/1015/32/78525eb333672f640c885e5c9cf54c32.jpeg",
             "https://i128.fastpic.org/thumb/2026/1015/0a/763e77eb95500f56744f5d55eb18760a.jpeg",
-            "https://i128.fastpic.org/thumb/2026/1015/1c/a03d0ace72192ceba02801bec0a0611c.jpeg"
+            "https://i128.fastpic.org/thumb/2026/1015/1c/a03d0ace72192ceba02801bec0a0611c.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/0e/f5795af709c6e2e380c29884f730080e.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/22/baf73617746fc3f86a0024909d319222.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/8d/2d097e9fa115fe436613ded93fa9868d.jpeg"
         ],
         "description": "Otpravlyaytes v nezabyvaemoe puteshestvie po volshebnomu miru Teradei, gde spokoynaya fermerskaya zhizn vstrechaetsya s zakhvatyvayushchimi priklyucheniyami! Zagadochnyy tuman rasprostranyaetsya iz Lesa Ekha, dikie zveri brodyat v nochnoy tme, a strannye bedstviya ugrozhayut derevnyam po vsey zemle.",
         "title_id": "0100839022642000",
-        "version": "1.2.0",
-        "update_version": 131072,
-        "titles": "0100839022642000:131072:"
+        "version": "1.4.0",
+        "update_version": 262144,
+        "titles": "0100839022642000:262144:"
     },
     {
         "title": "Toy Story 3 Complete edition / Disney Pixar Toy Story Retro Roundup (6 jeux) [NSZ][RUS,ENG/Multi19]",
@@ -2771,16 +2834,16 @@
         "titles": "01006BE029808000:131072:"
     },
     {
-        "title": "Tales of Eternia Remastered [NSZ][RUS/Multi9]",
-        "size": "4.74 GB",
-        "magnet": "magnet:?xt=urn:btih:647DCF1FB051F2C04DDF9EF093BDBA46EF696EE4&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "title": "Tales of Eternia Remastered (Tales of Destiny II) [NSZ][RUS/Multi9]",
+        "size": "4.99 GB",
+        "magnet": "magnet:?xt=urn:btih:266DFF1BFF7287D95A5079D78FF7730A08A96CEB&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6922755",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6922755",
         "year": "2026, octobre",
         "genre": "Role-Playing",
         "developer": "Tose Co.Ltd. 株式会社トーセ, Wolfteam",
         "publisher": "Bandai Namco Entertainment",
-        "image_format": ".NSZ (compressé ~13%, taille installée 5.43 GB)",
+        "image_format": ".NSZ (compressé ~13%, taille installée 5.88 GB)",
         "interface_lang": "Russe, Anglais [RUS / ENG / Multi 9]",
         "voice_lang": "Japonais, Anglais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
@@ -2796,9 +2859,9 @@
         ],
         "description": "Découvrez Tales of Eternia, remastérisé pour la première fois.\n\n• Une aventure épique où deux mondes sont en danger\nRendez-vous à Éternia, un monde divisé en deux royaumes isolés, Inféria et Célestia.\nDans le village inférien reculé de Rasheans, Reid Hershel et son amie d’enfance Farah Oersted rencontrent une mystérieuse fille nommée Meredy. Dans leur quête pour découvrir les origines de Meredy, le groupe apprend qu’une collision appelée la « Grande Chute » menace Inféria et Célestia.\nGrâce au pouvoir des esprits élémentaux connus sous le nom de méta-elferias, Reid et ses camarades se lancent dans une aventure épique pour sauver les deux royaumes de la catastrophe.\n\n• Batailles exaltantes offrant rapidité et liberté\nDécouvrez l’Aggressive Linear Motion Battle System (A-LMBS), qui permet diverses utilisations de l’Arte, des combos en continu et la coordination avec chaque membre unique de l’équipe.\nMenez des combats palpitants où vous déjouez les ennemis et les vainquez un après l’autre dans des batailles rapides et dynamiques en 2D.\n\n• La même expérience émouvante, maintenant plus facile à jouer\nL’expérience de jeu est meilleure que jamais grâce aux améliorations de convivialité, notamment les marqueurs de destination, la possibilité de désactiver les affrontements avec les ennemis et le mode ultrarapide pendant le combat automatique.\nDe plus, les graphismes et les effets sonores peuvent être basculés entre différents modes, vous permettant de vous immerger dans l’atmosphère nostalgique du jeu original.",
         "title_id": "010006E0230AC000",
-        "version": "2.0.0",
-        "update_version": 65536,
-        "titles": "010006E0230AC000:65536:"
+        "version": "2.1.0",
+        "update_version": 131072,
+        "titles": "010006E0230AC000:131072:"
     },
     {
         "title": "Prototype 2 (portage ) [NRO][RUS/ENG]",
@@ -23955,15 +24018,15 @@
     },
     {
         "title": "Unrailed 2 Back on Track [NSZ][RUS/Multi10]",
-        "size": "770.9 MB",
-        "magnet": "magnet:?xt=urn:btih:FB610AC6ACFC46A84B996E01EC580CC353E8DE68&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "794.7 MB",
+        "magnet": "magnet:?xt=urn:btih:41E02B072BE3A909DA0DB9C5605300C4394DC8FA&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6824941",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6824941",
         "year": "2026, juin",
         "genre": "Arcade, Simulator, Party, Puzzle",
         "developer": "Indoor Astronaut",
         "publisher": "Indoor Astronaut",
-        "image_format": ".NSZ (compressé ~64%, taille installée 2.18 GB)",
+        "image_format": ".NSZ (compressé ~64%, taille installée 2.23 GB)",
         "interface_lang": "Russe, Anglais [RUS / ENG / Multi 10]",
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.1.0, Atmosphere 1.11.1)",
@@ -23978,9 +24041,9 @@
         ],
         "description": "Unrailed 2: Back on Track en rajoute une couche en termes de chaos multijoueur, en local comme en ligne. Faites équipe avec vos amis pour poser vos rails dans de nouveaux mondes générés de façon procédurale, PENDANT que le train avance ! Réfléchissez vite, avec une liberté plus grande que jamais, et surmontez les nouveaux obstacles sur votre route pour empêcher le grand déraillement ! \n\nCHOISISSEZ VOTRE TRAJET \nLe jeu propose maintenant un scénario réparti dans de nouveaux environnements avec des choix d'embranchements : autant dire que vous ne ferez jamais deux fois la même partie. Ces biomes vous réservent de nouveaux événements, des quêtes annexes, des boss intimidants et autres rencontres aléatoires. À vous de vous adapter au quart de tour ! Vous pourrez aussi donner votre touche personnelle à l'histoire de vos personnages grâce à de nouvelles apparences à débloquer. \n\nVOTRE AVENTURE NE FAIT QUE S'AMÉLIORER \nChaque expédition de votre équipe est plus marquante que la précédente, grâce à de nouvelles récompenses et améliorations permanentes qui vous donnent des capacités modifiant le gameplay, ainsi que de nouveaux moteurs, wagons et extensions à débloquer : de quoi tester une multitude de configurations de trains. Chaque locomotive perdue est l'occasion de reconstruire et de repartir... sur de nouveaux rails ! \n\nCRÉEZ, PARTAGEZ ET JOUEZ AVEC LA COMMUNAUTÉ \nLe mode Contrôleur de terrain inédit vous permet de laisser libre cours à votre imagination pour créer vos propres cartes, les partager avec la communauté Unrailed et peut-être voir votre création mise en avant par le développeur. Si vous n'êtes pas d'humeur créatrice, parcourez les innombrables créations des autres joueurs pour renouveler à jamais le plaisir ! \n\nCOMPÉTITION COOPÉRATIVE \nAssouvissez vos pulsions compétitives en vous tirant la bourre avec une autre équipe dans le nouveau mode Versus à huit. Mesurez les prouesses de votre équipe dans les classements en ligne avec ralentis à l'appui et voyez qui décroche les meilleurs scores.",
         "title_id": "01006D00241E6000",
-        "version": "994.22a",
-        "update_version": 393216,
-        "titles": "01006D00241E6000:393216:"
+        "version": "1032.4e",
+        "update_version": 458752,
+        "titles": "01006D00241E6000:458752:"
     },
     {
         "title": "Crysis 1 / 2 / 3 Remastered [NSZ][RUS/Multi8]",
@@ -25377,9 +25440,9 @@
         "titles": "01008CD00C222000:393216:"
     },
     {
-        "title": "Serial Experiments Lain Offline (Eksperimenty Leyn, port laingame TSX) [NRO][ENG]",
-        "size": "340.1 MB",
-        "magnet": "magnet:?xt=urn:btih:FAF4F7297B6D8955B51F14F6DC47BD305B2A6677&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "title": "Serial Experiments Lain Offline (Eksperimenty Leyn, port laingame TSX) [NRO][RUS/Multi9]",
+        "size": "340.2 MB",
+        "magnet": "magnet:?xt=urn:btih:CFF5A2ED5E9AAD44CDF87F0F676D129D3DF7A167&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6877885",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6877885",
         "year": "1998",
@@ -25387,8 +25450,8 @@
         "developer": "Unknown",
         "publisher": "amydevs",
         "image_format": "NRO",
-        "interface_lang": "Anglais [ENG]",
-        "voice_lang": "Sans voix",
+        "interface_lang": "Russe, Anglais [RUS / ENG / Multi 9]",
+        "voice_lang": "Japonais",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6877885.jpg",
@@ -25404,7 +25467,7 @@
             "https://thumbs4.imagebam.com/34/77/60/ME1EA24P_t.jpg"
         ],
         "description": "Leyn Ivakura — tikhaya i zamknutaya devochka, u kotoroy v 12 let nachalis slukhovye i zritelnye gallyutsinatsii, a pozzhe i nochnye koshmary. Roditeli zapisali eyo na priyomy k psikhologu Toko Yonere, rabotayushchey v Tatibane — tsentre issledovaniy psikhicheskikh rasstroystv i psikhologii kommunikatsiy. Leyn okazalas pervym patsientom v karere Toko, ona iskrenne pytaetsya pomoch ey, no v to zhe vremya sama ispytyvaet stress iz-za zagruzki rutinnymi zadachami na rabote i problem v lichnoy zhizni..\nSerial Experiments Lain («Eksperimenty Leyn») — videoigra po kultovomu anime-serialu, razrabotannaya SR-12W i izdannaya Pioneer LDC 26 noyabrya 1998 goda dlya konsoli PlayStation eksklyuzivno dlya yaponskogo rynka. Igra predstavlyaet soboy interaktivnuyu BD dannykh audio- i videofaylov, v kotorykh nelineyno rasskazyvaetsya istoriya stradayushchey dushevnymi rasstroystvami devochki, a igrok dolzhen osmyslit i sobrat syuzhet voedino.\nGlavnaya tema — kem zhe yavlyaetsya Leyn na samom dele. Poskolku istoriya podayotsya cherez lichnye zapisi geroev, mnogie dannye mogut byt libo lozhyu, libo nevernym vospriyatiem proiskhodyashchego. Tut ne budet chyotkikh otvetov na otdelnye voprosy, iz-za chego syuzhetnye momenty mozhno interpretirovat po-raznomu.\nZatragivaya mnozhestvo filosofskikh voprosov, naprimer, realnost, identichnost i obshchenie, «Eksperimenty Leyn» takzhe kasayutsya obedineniya analogovogo mira kontsa XX veka s tsifrovym, chelovecheskogo sushchestvovaniya v Internete i «pokloneniya Bogu cherez tekhnologii».",
-        "title_id": "01009E85B2FB3000",
+        "title_id": "01009E85B2FB2000",
         "version": "0.4.4"
     },
     {
@@ -32884,16 +32947,16 @@
         "titles": "0100360016800000:131072:"
     },
     {
-        "title": "Ball x Pit [NSZ][RUS/Multi10]",
-        "size": "410.1 MB",
-        "magnet": "magnet:?xt=urn:btih:D1EE16C77F7DF8B00375FFFB7BDDE314A94FF185&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "Ball x Pit + DLC Risen Ballbylon [NSZ][RUS/Multi10]",
+        "size": "495.4 MB",
+        "magnet": "magnet:?xt=urn:btih:7519B859F9D07A7B7521076891E3E1A7D0E1B456&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6759410",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6759410",
         "year": "2025, octobre",
         "genre": "Arcade, Action, Roguelite",
         "developer": "Kenny Sun",
         "publisher": "Devolver Digital",
-        "image_format": ".NSZ (compressé ~50%, taille installée 0.81 GB)",
+        "image_format": ".NSZ (compressé ~44%, taille installée 0.89 GB)",
         "interface_lang": "Russe, Anglais [RUS / ENG / Multi 10]",
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 20.5.0, Atmosphere 1.9.5)",
@@ -32909,9 +32972,9 @@
         ],
         "description": "BALL x PIT est un labyrinthe mortel procédural fantaisiste au rythme effréné où les héros doivent trouver des balles afin de plonger dans les profondeurs d’une fosse aux monstres apparemment sans fond. Développez des munitions et des ressources obscures à la poursuite d’un trésor et recrutez de nouveaux héros qui vous aideront dans votre quête périlleuse.\n\nBallbylon s’est effondrée. Après qu’une météorite et un événement complètement inattendu ont annihilé la ville grandiose, il n’en reste plus qu’une sinistre fosse béante. Beaucoup de chasseurs de trésor de partout se sont réunis sur la tombe de la ville pour y trouver fortune, ratissant ses profondeurs à la recherche des richesses disséminées de Ballbylon. Peu en reviennent.\n\nLa fosse accueille des armées de créatures barbares souhaitant à tout prix mettre fin à votre quête avant même son début. Faites-vous un chemin à travers différents niveaux d’obstacles de plus en plus difficiles avec votre arsenal croissant de projectiles infusés de magie afin de vous approprier les meilleurs prix et de reconstruire Ballbylon.\n\nFusionnez vos balles\nLe système de fusion de balles encourage l’expérimentation explosive avec plus de 60 balles aléatorisées à vous procurer et à combiner lors de votre périple. Découvrez des combinaisons surpuissantes et des synergies inattendues issues de centaines de combinaisons possibles.\n\nBâtissez la nouvelle Ballbylon\nRepoussez les frontières de la nouvelle Ballbylon avec plus de 70 bâtiments uniques offrant des primes de jouabilité et accédez à plus de puissance, à de nouveaux personnages et à bien plus encore! À mesure que votre communauté s’étend, déléguez des tâches automatisées à des héros confinés à la maison afin de conserver votre approvisionnement en ressources alors que vous plongez toujours plus en profondeur dans la fosse.\n\nDécouvrez de nouveaux mondes\nAffrontez des légions d’ennemis variés dans la fosse, combattez dans des déserts arides, des cavernes gelées, des forêts sauvages et bien plus encore. Chaque région offre son lot unique de dangers, qui s’ajoutent aux hordes d’ennemis de plus en plus difficiles à vaincre et aux puissants chefs qui vous subjugueront.\n\nRecrutez d’autres chasseurs\nEn explorant la fosse, vous rencontrerez d’autres chasseurs de trésor désireux d’apporter leurs talents à votre expédition. Chaque personnage est doté d’une mécanique unique pouvant être mise à niveau qui transforme totalement votre façon de jouer. L’expérimentation et l’adaptation sont essentielles à la réussite de la nouvelle Ballbylon!",
         "title_id": "010086A022444000",
-        "version": "1.301",
-        "update_version": 458752,
-        "titles": "010086A022444000:458752:"
+        "version": "1.308",
+        "update_version": 524288,
+        "titles": "010086A022444000:524288:"
     },
     {
         "title": "Fallout 1: A Post Nuclear Role Playing Game (portage natif Community Edition, CE) [RUS/ENG][NSP]",
@@ -58529,8 +58592,8 @@
     },
     {
         "title": "Dog Man Mission Impawsible / Bark in Action [NSZ][RUS (Mod.)/ENG]",
-        "size": "3.14 GB",
-        "magnet": "magnet:?xt=urn:btih:664CE79AAF4E9201EA33BBA1464A6AD3FC14181C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "size": "3.16 GB",
+        "magnet": "magnet:?xt=urn:btih:79E4DCE05F113055FA36458B86982A856674AF83&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6581133",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6581133",
         "year": "2024, décembre - 2026, octobre",
@@ -58538,7 +58601,7 @@
         "developer": "Floor 84 Studio",
         "publisher": "Mindscape",
         "image_format": ".NSZ (compressé ~19%, taille installée 1.34 GB)",
-        "interface_lang": "Anglais [ENG] + traduction automatique par most2820 pour pervoy chasti",
+        "interface_lang": "Anglais [ENG] + traduction automatique par most2820",
         "voice_lang": "Sans voix",
         "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
@@ -85096,7 +85159,7 @@
         "url": "https://rutracker.org/forum/viewtopic.php?t=5780108",
         "year": "2019, septembre",
         "genre": "Puzzle",
-        "developer": "Richard Hogg, Ricky Haggett",
+        "developer": "Hollow Ponds (Richard Hogg, Ricky Haggett)",
         "publisher": "Finji",
         "image_format": ".NSZ (compressé ~44%, taille installée 0.14 GB)",
         "interface_lang": "Anglais ENG]",
@@ -85109,7 +85172,11 @@
             "https://i89.fastpic.org/thumb/2019/0920/a2/1fe97085d835659b902dc69ff13abca2.jpeg",
             "https://i89.fastpic.org/thumb/2019/0920/b4/c19f35c193d6c2a2d088cac75528e9b4.jpeg",
             "https://i89.fastpic.org/thumb/2019/0920/3f/f81313f0780c0e776b05dedb226bce3f.jpeg",
-            "https://i89.fastpic.org/thumb/2019/0920/98/6c9e6833007b797a6d02b46044c6b698.jpeg"
+            "https://i89.fastpic.org/thumb/2019/0920/98/6c9e6833007b797a6d02b46044c6b698.jpeg",
+            "https://i5.imageban.ru/out/2026/11/13/bf1581d1c788204f99cf62a4488ea2d4.png",
+            "https://i129.fastpic.org/thumb/2026/1113/a5/4dc313ef569ce78a0681fd504dba8ca5.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/44/0620c6402a1037f4aa68559430069544.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1113/8f/6b8b6553c560cf5acf2b68c1f1d0388f.jpeg"
         ],
         "description": "Wilmot's Warehouse est un jeu de réflexion dans lequel vous devez mettre votre entrepôt en parfait état. Vous incarnez Wilmot, un magasinier assidu dont le travail consiste à transporter, trier et ranger une grande variété de marchandises. De plus en plus de camions arrivent constamment et les installations de stockage se remplissent progressivement. Organisez vos produits comme bon vous semble : organisez-les par couleur ou par type, par classification décimale Dewey ou par tout autre système sophistiqué que vous seul comprenez : tout est permis ! L'essentiel est de se rappeler où tout se trouve, car lorsque la trappe de service s'ouvre, vous devez rapidement trouver ce dont vous avez besoin et obtenir les très convoitées Quality Stars nécessaires à diverses améliorations qui faciliteront votre travail.",
         "title_id": "0100B450231D8000",
@@ -152451,34 +152518,34 @@
         "titles": "01003DD00BFEE000:0:"
     },
     {
-        "title": "Apple Knight [NSZ][ENG]",
-        "size": "94.4 MB",
-        "magnet": "magnet:?xt=urn:btih:555C72021900F269E4A75AB22634A65CC90A03AA&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "Apple Knight 1-2 [NSZ][ENG]",
+        "size": "142.4 MB",
+        "magnet": "magnet:?xt=urn:btih:9F04D4D9FA1A690B9ABB09CAD75AA711E96AB1B7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6108218",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6108218",
-        "year": "2021, septembre",
+        "year": "2021, septembre — 2025, mars",
         "genre": "Action, Platformer, Arcade",
         "developer": "Limitless",
         "publisher": "Limitless",
-        "image_format": ".NSZ (compressé ~74%, taille installée 0.37 GB)",
+        "image_format": ".NSZ (compressé ~69%, taille installée 0.46 GB)",
         "interface_lang": "Anglais [ENG]",
         "voice_lang": "Sans voix",
-        "performance": "Oui (sur 13.2.0, Atmosphere 1.2.5)",
+        "performance": "Oui (sur 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Non",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6108218.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/fa817352f482befd309cb3fa3ca369d5cd6ecf40fe1221c33d0dda87307028c8.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/1d00c76b60f3d904db672d8a6c1edbdbe7dad9d7dd6c5e78dda45a7046b5afe4.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/4dd460c1c4703d6037ea37410cdb5038b306987670d98330f948d41e7e72bf6b.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/0a25587f5a8dd26e11e4a529a92d96ee72c48ab8bfb6116cd277dda65342dd27.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/9a73699de8476cec3af5282e90a4bb569b54209f6f0e3b45b06b92b410f3a192.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/bc790accd56d281592d1a30f6407bffae0c04d1ff216ba33d518938d2bf2ad0d.jpg&output=jpg"
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/8c0438587cf6d9419c4513f293f2e6f266f02213b58fc7ab9eda71a69f55cd25.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/5777f8c4e9d6759d2afaef27ec234dbc53195648a0a490a8517cf7a7b0317b46.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/78fe31017461d985456d1cebfccdc6cf610f09eebc84fa83d7a5ae2d273df796.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3342d8388c41dcc1f3003ba9b72b90c192e09058a94f797f880f027007e4d0db.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/158e2951714591aadd0e696a3f5969a0dc37f5275e901f283ff430a8590a9ccb.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/f6b2e27b0012bf4cf1382b0ad997707d1b9db6809c25646d80d2ff6233c9c95e.jpg&output=jpg"
         ],
-        "description": "Apple Knight est un magnifique RPG d'action.",
-        "title_id": "01004C1013548000",
+        "description": "Plongez dans une action hack-and-slash intense en affrontant des hordes d'ennemis dans ce platformer palpitant ! Explorez des mondes remplis de donjons, récupérez des équipements puissants et débloquez un vaste arsenal d'armes et de skins.\n\nCaractéristiques du jeu :\n● Arsenal étendu & Personnalisation\nChoisissez parmi une large variété d'armes, de skins, de compétences et d'animaux de compagnie !\n● Esquives et Ruées Dynamiques\nMaîtrisez des ruées rapides pour éviter les attaques ennemies au corps-à-corps et à distance.\n● Secrets Cachés\nDécouvrez de nombreuses zones secrètes dans chaque niveau, remplies de trésors.\n● Mécaniques de Combat Expertes\nParez les attaques au corps-à-corps avec précision et déviez les projectiles grâce à votre fidèle épée !\n● Capacités Spéciales\nVotre épée est bien plus qu'une simple arme—déchaînez des capacités spéciales uniques pour vaincre vos ennemis.\n● IA Ennemi Réactive\nLes ennemis sont assez intelligents pour réagir à vos mouvements, mais assez imprudents pour tomber dans vos pièges !",
+        "title_id": "01007A90223D8000",
         "version": "2.2.6",
         "update_version": 65536,
-        "titles": "01004C1013548000:65536:"
+        "titles": "01007A90223D8000:0:;01004C1013548000:65536:"
     },
     {
         "title": "Ambidextro [NSZ][RUS/Multi10]",
