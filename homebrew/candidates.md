@@ -12,7 +12,7 @@
 | [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
 | [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |
-| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 173 | v0.1.4.3 | 2026-11-12 | NXLibrary-0.1.4.3.dmg, NXLibrary-0.1.4.3.zip |
+| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 176 | v0.1.4.3 | 2026-11-12 | NXLibrary-0.1.4.3.dmg, NXLibrary-0.1.4.3.zip |
 | [BladesawStudios/WiiXLaunch](https://github.com/BladesawStudios/WiiXLaunch) | 6 | 1.0-rc1 | 2026-09-16 | wxl-sdk-1.0-rc1.zip |
 | [BlekjekSudo/mksm-nx](https://github.com/BlekjekSudo/mksm-nx) | 0 | switch-v0.1.0-alpha.1 | 2026-10-20 | checksums.txt, forwarder-checksums.txt, forwarder-manifest.json, MK-Shaolin-Monk-forwarder-source.zip, MK-Shaolin-Monk-f |
 | [Cameudis/SWOTS](https://github.com/Cameudis/SWOTS) | 2 | v0.1.0 | 2026-08-18 | SWOTS-v0.1.0.zip, SWOTS-v0.1.0.zip.sha256 |
@@ -50,7 +50,7 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.5.7 | 2026-11-10 | SHA256SUMS.txt, switch-online-0.5.7-hats.zip, switch-online-0.5.7-sd.zip, switch-online-0.5.7-sdk-sources.tar |
+| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.6.0 | 2026-11-14 | SHA256SUMS.txt, switch-online-0.6.0-hats.zip, switch-online-0.6.0-sd.zip, switch-online-0.6.0-sdk-sources.tar, switch-on |
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 23 | v1.0.9 | 2026-11-05 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 3.0.0 | 2025-11-30 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
@@ -71,7 +71,7 @@
 | [aoihera/ChargeCap](https://github.com/aoihera/ChargeCap) | 6 | 1.1.2 | 2026-10-04 | ChargeCap.zip |
 | [atmosphere-nx/atmosphere](https://github.com/atmosphere-nx/atmosphere) | ? | 1.12.1 | 2026-10-16 | atmosphere-1.12.1-master-6b0c077b4+hbl-2.4.5+hbmenu-3.6.1.zip, fusee.bin |
 | [azarucha/sys-airplay](https://github.com/azarucha/sys-airplay) | 0 | v0.1.0 | 2026-10-12 | sys-airplay.zip |
-| [bakonpancakz/switch-melody](https://github.com/bakonpancakz/switch-melody) | 0 | 1.0.0 | 2026-11-06 | release.zip |
+| [bakonpancakz/switch-melody](https://github.com/bakonpancakz/switch-melody) | 0 | 1.0.0 | 2026-11-14 | release.zip |
 | [bernardogiordano/nx-spa](https://github.com/bernardogiordano/nx-spa) | ? | 1.0 | 2023-08-13 | nx-spa_angular.nro, nx-spa_vue.nro |
 | [biuspoly/pekka-kana-2-switch](https://github.com/biuspoly/pekka-kana-2-switch) | 0 | v1.0 | 2026-10-28 | PekkaKana2_Switch_SD.zip |
 | [blade-punisher/switchnow](https://github.com/blade-punisher/switchnow) | ? | v1.3.0 | 2026-10-31 | SwitchNOW-1.3.0-SHA256SUMS.txt, SwitchNOW-1.3.0-showcase.jpg, SwitchNOW-1.3.0-source.zip, SwitchNOW-1.3.0.nro, SwitchNOW |
@@ -184,11 +184,13 @@
 | [tomvita/nxcheatcode](https://github.com/tomvita/nxcheatcode) | ? | 092526 | 2026-09-25 | titles.zip, version.txt |
 | [werwolv/edizon](https://github.com/werwolv/edizon) | ? | v3.1.0 | 2022-01-16 | EdiZon.nro, ovlEdiZon.ovl |
 | [xhu96/Switch7zip](https://github.com/xhu96/Switch7zip) | 0 | v0.9.11-pre | 2026-05-09 | Switch7zip.nro |
+| [xiefengdaxia/UURemote-ns-switch](https://github.com/xiefengdaxia/UURemote-ns-switch) | 0 | v0.1.64 | 2026-11-14 | UURemote-ns-0.1.64-switch.zip |
 | [ybx77/switch-cloud-sync](https://github.com/ybx77/switch-cloud-sync) | 1 | new | 2026-11-03 | switch-cloud-sync.nro |
 | [yukinsnow/Lite-Link](https://github.com/yukinsnow/Lite-Link) | 6 | v0.3.1 | 2026-10-26 | Lite-Link-v0.3.1-Icons.zip, Lite-Link-v0.3.1-macOS-experimental.zip, Lite-Link-v0.3.1-Switch.nro, Lite-Link-v0.3.1-Switc |
 | [yyoossk/Atmosphere-with-Hekate](https://github.com/yyoossk/Atmosphere-with-Hekate) | 16 | 2.0 | 2025-11-25 | Atmosphere-with-Hekate.zip |
 | [zJ3an/astro-nx](https://github.com/zJ3an/astro-nx) | 2 | v1.2.0 | 2025-11-15 | astro-nx-normal.v1.2.0.zip, astro-nx-vanilla.v1.2.0.zip |
 | [zhongyang219/musicplayer2](https://github.com/zhongyang219/musicplayer2) | ? | V2.78 | 2025-12-27 | MusicPlayer2_V2.78_x64.zip, MusicPlayer2_V2.78_x86.zip |
+| [zhtipu/shank2-nx](https://github.com/zhtipu/shank2-nx) | 3 | v1.0.1 | 2026-11-14 | nsp-loader.zip, shank2-nx-1.0.1.nsp, shank2.nro |
 | [zofo007/NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) | 18 | v1.1.0 | 2026-10-30 | nfscarbon-1.1.0-src.zip, nfscarbon-1.1.0.zip, SHA256SUMS.txt |
 
 ## Скрыты из fortheusers (опасные пути)
