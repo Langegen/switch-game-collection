@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-14T18:05:14Z",
+ "generated": "2026-11-14T22:27:14Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -3424,18 +3424,18 @@
    "name": "Nexvyn-OS-NX",
    "title": "Nexvyn OS",
    "author": "sonerx7",
-   "version": "1.3.10",
+   "version": "1.3.11",
    "category": "game",
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
-   "changelog": "**What's new in 1.3.10**\n- App Market SDK 1.13 & Native 1.2 parity: updated all `112` Store packages (`181` catalog items and `4` beta items) to `targetSdk: \"1.13\"`, explicit `runtime` declarations, and `\"minNative\": \"1.2\"` / `\"targetNative\": \"1.2\"` for native ports and emulators (`Store/catalog.json` and `Store/beta.json` pass `catalog_check` with zero errors and zero warnings)\n- Porting & maximum input support (`sdl2-nexvyn` & `<nexvyn/nxn_port_input.h>`): 16-finger multi-touch, pinch-to-zoom, two-finger tap right-click, two-finger pan scroll, long-press right-click, `nxn_rumble` haptic feedback, and RTS/CRPG/FPS input profiles for ported games\n- Terminal stability & keyboard focus fix: prevented unconditional per-frame keyboard focus capture that could trap system keyboard (`swkbd`) dialogs or block dismissing the on-screen keyboard, plus font-metric, scroll-state, and bounded history guards\n- SDK CLI & AI workflow guides: added `\"native\"` runtime and Store category checks in `SDK/Tools/nxv/nxv.py`, ABI exclusion for header-only `nxn_port_input.h`, and the end-to-end `SDK/AI/GEMINI_WORKFLOW.md` guide\n\n---\n\n**1.3.10'da yenilikler:** App Market SDK 1.13 ve Native 1.2 uyumu: Store'daki tüm `112` paket (`181` katalog ve `4` beta öğesi) `targetSdk: \"1.13\"`, açık `runtime` alanı ve native port/emülatörler için `\"minNative\": \"1.2\"` sürümüne güncellendi · Port ve maksimum giriş desteği: `sdl2-nexvyn` ve `<nexvyn/nxn_port_input.h>` ile 16 parmak çoklu dokunmatik, pinch-to-zoom, iki parmakla sağ tık/kaydırma, uzun basma sağ tık ve `nxn_rumble` titreşim eklendi · Terminal odak ve donma düzeltmesi: her karede koşulsuz klavye odağı alarak sistem klavyesini (`swkbd`) kilitleyebilen sorun giderildi ve tarihçe/ölçü güvenlik korumaları eklendi · SDK CLI ve AI rehberi: `nxv.py` için native/showcase doğrulaması ve `SDK/AI/GEMINI_WORKFLOW.md` eklendi.\n\n**Kurulum / Install:** `NexvynOS.nro` dosyasını `sdmc:/switch/` klasörüne kopyalayın. Mevcut kurulumlar Ayarlar > Yazılım Güncelleme",
+   "changelog": "**What's new in 1.3.11**\n- Browser identity & transport: Chrome 131 User-Agent, Client Hints (`Sec-CH-UA*`), Fetch Metadata (`Sec-Fetch-*`), and Brotli (`br`) HTTP decompression.\n- Modern web & apps: Web Workers (`MessagePort` transfer), `Request.prototype.signal`, `DataView` support in `TextDecoder` & MSE `SourceBuffer.appendBuffer`, and `display: contents` layout support.\n- Google Maps & WebGL games: Google Maps tile rendering/search UI and WebGL / Pointer Lock / gamepad game compatibility.\n- Streaming video & audio: MSE (`H.264` + `AAC`) video playback (including `ok.ru`) and `data:` URI audio support.\n\n---\n\n**1.3.11'de yenilikler:** Tarayıcı çekirdeği Chrome 131 kimliği, Client Hints, Brotli (`br`) açma, Web Worker + `MessagePort` aktarımı, `display: contents` düzeni, `Request.prototype.signal` ve `DataView` MSE desteği ile güçlendirildi; Google Haritalar, WebGL/Pointer Lock oyunları ve `ok.ru` dahil MSE (`H.264` + `AAC`) video akışı çalışır hale getirildi.\n\n**Kurulum / Install:** `NexvynOS.nro` dosyasını `sdmc:/switch/` klasörüne kopyalayın. Mevcut kurulumlar Ayarlar > Yazılım Güncelleme ile güncellenir.",
    "url": "https://github.com/sonerx7/nexvyn-os-nx",
    "repo": "sonerx7/nexvyn-os-nx",
    "updated": "2026-11-14",
-   "download_url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/download/v1.3.10/NexvynOS.nro",
+   "download_url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/download/v1.3.11/NexvynOS.nro",
    "download_type": "file",
-   "sha256": "70b75534237b5be3853f909e0f266047f50ea59882df5e730cb7960023d3ce05",
-   "filesize": 81761921,
-   "extracted": 81761921,
+   "sha256": "94e92a213d10f5783a6fe3b971d3fd496799762454c6166365603bb64d5829b9",
+   "filesize": 82013377,
+   "extracted": 82013377,
    "files": [
     "U: switch/Nexvyn-OS-NX/Nexvyn-OS-NX.nro"
    ],

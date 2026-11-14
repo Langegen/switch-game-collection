@@ -1038,17 +1038,17 @@
    "zip_root": ""
   },
   "sonerx7/nexvyn-os-nx": {
-   "asset_key": "747230171:2026-11-14T11:11:03Z",
-   "extracted": 81761921,
+   "asset_key": "748954883:2026-11-14T22:21:33Z",
+   "extracted": 82013377,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Nexvyn-OS-NX.jpg",
    "nacp": {
     "author": "sonerx7",
     "title": "Nexvyn OS",
-    "version": "1.3.10"
+    "version": "1.3.11"
    },
-   "sha256": "70b75534237b5be3853f909e0f266047f50ea59882df5e730cb7960023d3ce05",
-   "size": 81761921,
+   "sha256": "94e92a213d10f5783a6fe3b971d3fd496799762454c6166365603bb64d5829b9",
+   "size": 82013377,
    "type": "file",
    "zip_root": ""
   },
@@ -1323,7 +1323,7 @@
   "bernardogiordano/checkpoint": {
    "description": "Fast and simple homebrew save management framework for 3DS and Switch.",
    "full_name": "BernardoGiordano/Checkpoint",
-   "stargazers_count": 3128,
+   "stargazers_count": 3129,
    "topics": [
     "3ds",
     "3ds-homebrew",
@@ -1776,7 +1776,7 @@
   "sonerx7/nexvyn-os-nx": {
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
    "full_name": "sonerx7/Nexvyn-OS-NX",
-   "stargazers_count": 75,
+   "stargazers_count": 76,
    "topics": [
     "app-market",
     "atmosphere",
@@ -7408,7 +7408,7 @@
   "bakonpancakz/switch-melody": {
    "candidate": "| [bakonpancakz/switch-melody](https://github.com/bakonpancakz/switch-melody) | 0 | 1.0.0 | 2026-11-14 | release.zip |",
    "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T18:00:43Z"
+   "pushed_at": "2026-11-14T18:06:39Z"
   },
   "bananabasb/jolt": {
    "checked": "2026-11-09",
@@ -8099,7 +8099,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T17:38:21Z"
+   "pushed_at": "2026-11-14T22:06:12Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8247,9 +8247,9 @@
    "pushed_at": "2026-06-18T16:18:45Z"
   },
   "majingabe/kodi-switch": {
-   "candidate": "| [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc1 | 2026-11-13 | kodi-runtime.zip, kodi.nro |",
+   "candidate": "| [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc2 | 2026-11-14 | kodi-runtime.zip, kodi.nro |",
    "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T18:00:20Z"
+   "pushed_at": "2026-11-14T21:05:04Z"
   },
   "malinkin-s/destinia-nx": {
    "candidate": "| [malinkin-s/destinia-nx](https://github.com/malinkin-s/destinia-nx) | 0 | v1.0.0 | 2026-10-25 | destinia-switch-1.0.0.zip, Destinia.0100D3571A000000.v0.nsp, Destinia.0100D3571A000000.v0.nsz, destinia.nro |",
@@ -8319,7 +8319,7 @@
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T16:55:47Z"
+   "pushed_at": "2026-11-14T21:17:42Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-10",
@@ -8715,9 +8715,9 @@
    "pushed_at": ""
   },
   "sec-123/lanywhere-selfhost": {
-   "candidate": "| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.6.0 | 2026-11-14 | SHA256SUMS.txt, switch-online-0.6.0-hats.zip, switch-online-0.6.0-sd.zip, switch-online-0.6.0-sdk-sources.tar, switch-on |",
+   "candidate": "| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.7.0 | 2026-11-14 | SHA256SUMS.txt, switch-online-0.7.0-hats.zip, switch-online-0.7.0-sd.zip, switch-online-0.7.0-sdk-sources.tar, switch-on |",
    "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T12:51:21Z"
+   "pushed_at": "2026-11-14T21:26:04Z"
   },
   "simplysabir/nrodoc": {
    "checked": "2026-11-09",
