@@ -1038,17 +1038,17 @@
    "zip_root": ""
   },
   "sonerx7/nexvyn-os-nx": {
-   "asset_key": "733472691:2026-11-11T00:14:21Z",
-   "extracted": 80485909,
+   "asset_key": "746251341:2026-11-14T04:13:20Z",
+   "extracted": 81760001,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Nexvyn-OS-NX.jpg",
    "nacp": {
     "author": "sonerx7",
     "title": "Nexvyn OS",
-    "version": "1.3.5"
+    "version": "1.3.9"
    },
-   "sha256": "c2c3c3e9b0e8846d1221a492f5384ae5ed3607b39a4464d087b56bac65e0908f",
-   "size": 80485909,
+   "sha256": "ccc77820220b137df67b27046f60d51c7a1ca2c5247a51b37f4916a4582449a4",
+   "size": 81760001,
    "type": "file",
    "zip_root": ""
   },
@@ -1744,7 +1744,7 @@
   "shodowlo/nx-torrent-player": {
    "description": "NX Torrent Player: Stremio on Nintendo Switch",
    "full_name": "shodowlo/NX-torrent-player",
-   "stargazers_count": 33,
+   "stargazers_count": 34,
    "topics": [
     "bittorrent",
     "media-player",
@@ -1776,7 +1776,7 @@
   "sonerx7/nexvyn-os-nx": {
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
    "full_name": "sonerx7/Nexvyn-OS-NX",
-   "stargazers_count": 72,
+   "stargazers_count": 75,
    "topics": [
     "app-market",
     "atmosphere",
@@ -6856,6 +6856,10 @@
    "itotaljustice/payloadernx",
    "suchmememanyskill/payload_launcher"
   ],
+  "/wiki/Pctl_Manager_Switch": [
+   "tailiang2008/nx-pctl-manager",
+   "xfangfang/borealis"
+  ],
   "/wiki/Pixel-Painter_Switch": [
    "16bitwonder/pixel-painter-switch",
    "switchbrew/libnx"
@@ -7259,8 +7263,8 @@
    "pushed_at": "2026-11-06T02:42:19Z"
   },
   "agafak1337/tubenx": {
-   "checked": "2026-11-13",
-   "pushed_at": "2026-11-13T18:23:02Z"
+   "checked": "2026-11-14",
+   "pushed_at": "2026-11-14T00:16:35Z"
   },
   "ahmadsouri/jak-switch-port": {
    "checked": "2026-11-09",
@@ -7307,9 +7311,9 @@
    "pushed_at": "2026-11-12T15:49:04Z"
   },
   "angle-brackets/kickstand": {
-   "candidate": "| [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.1 | 2026-11-01 | kickstand-0.1.1-aarch64-apple-darwin.tar.gz, kickstand-0.1.1-x86_64-apple-darwin.tar.gz, kickstand-0.1.1-x86_64-pc-windo |",
-   "checked": "2026-11-13",
-   "pushed_at": "2026-11-13T09:17:12Z"
+   "candidate": "| [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |",
+   "checked": "2026-11-14",
+   "pushed_at": "2026-11-13T22:08:35Z"
   },
   "angle-brackets/paperboat-switch-port": {
    "checked": "2026-11-09",
@@ -7339,8 +7343,8 @@
    "pushed_at": "2026-08-20T09:18:32Z"
   },
   "armaatus/rommsync-nx": {
-   "checked": "2026-11-13",
-   "pushed_at": "2026-11-13T11:09:06Z"
+   "checked": "2026-11-14",
+   "pushed_at": "2026-11-13T23:04:34Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -7912,6 +7916,11 @@
    "checked": "2026-11-09",
    "pushed_at": ""
   },
+  "gerisson1996/resident-code-veronica-nx-port": {
+   "candidate": "| [gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT](https://github.com/gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT) | 0 | v1.0-nx | 2026-11-13 | recvx.nro |",
+   "checked": "2026-11-14",
+   "pushed_at": "2026-11-13T21:08:54Z"
+  },
   "gowithme-club/switch-playtime-tracker": {
    "candidate": "| [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |",
    "checked": "2026-11-09",
@@ -7925,6 +7934,10 @@
   "greenkaelup/respocket-yuzu-emulator-reworked-v2": {
    "checked": "2026-11-09",
    "pushed_at": "2026-11-05T11:59:52Z"
+  },
+  "gtes/atmosphere-splash-injector": {
+   "checked": "2026-11-14",
+   "pushed_at": "2026-11-13T22:20:28Z"
   },
   "hadokit/solarnx": {
    "candidate": "| [HaDoKit/SolarNX](https://github.com/HaDoKit/SolarNX) | 0 | v0.2.5-alpha | 2026-11-03 | release.json, SolarNX-Rendezvous-linux-x64.zip, SolarNX-Rendezvous-win-x64.zip, SolarNX-Setup.exe, SolarNX-Switch.nro |",
@@ -8078,8 +8091,8 @@
    "pushed_at": "2026-02-16T23:25:56Z"
   },
   "jacquesdupontd/port0r": {
-   "checked": "2026-11-13",
-   "pushed_at": "2026-11-13T19:36:57Z"
+   "checked": "2026-11-14",
+   "pushed_at": "2026-11-14T06:06:23Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8228,8 +8241,8 @@
   },
   "majingabe/kodi-switch": {
    "candidate": "| [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc1 | 2026-11-13 | kodi-runtime.zip, kodi.nro |",
-   "checked": "2026-11-13",
-   "pushed_at": "2026-11-13T17:06:17Z"
+   "checked": "2026-11-14",
+   "pushed_at": "2026-11-14T02:45:18Z"
   },
   "malinkin-s/destinia-nx": {
    "candidate": "| [malinkin-s/destinia-nx](https://github.com/malinkin-s/destinia-nx) | 0 | v1.0.0 | 2026-10-25 | destinia-switch-1.0.0.zip, Destinia.0100D3571A000000.v0.nsp, Destinia.0100D3571A000000.v0.nsz, destinia.nro |",
@@ -8298,8 +8311,8 @@
    "pushed_at": ""
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
-   "checked": "2026-11-13",
-   "pushed_at": "2026-11-13T16:03:09Z"
+   "checked": "2026-11-14",
+   "pushed_at": "2026-11-14T02:59:11Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-10",
