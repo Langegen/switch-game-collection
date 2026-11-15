@@ -1,6 +1,6 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-14. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-15. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
@@ -50,7 +50,7 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.7.0 | 2026-11-14 | SHA256SUMS.txt, switch-online-0.7.0-hats.zip, switch-online-0.7.0-sd.zip, switch-online-0.7.0-sdk-sources.tar, switch-on |
+| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.8.6 | 2026-11-15 | SHA256SUMS.txt, switch-online-0.8.6-hats.zip, switch-online-0.8.6-sd.zip, switch-online-0.8.6-sdk-sources.tar, switch-on |
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 23 | v1.0.9 | 2026-11-05 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 3.0.0 | 2025-11-30 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
@@ -132,7 +132,7 @@
 | [lozp1/07z](https://github.com/lozp1/07z) | 0 | v1.0.2 | 2026-10-13 | 07z-base-interfaz.zip, 07z-completo.zip, 07z-instalador.nsp, autorun-loader-ams1.11.2-5388824b.kip, autorun-loader-ams1. |
 | [m4l3vich/vkpcnx](https://github.com/m4l3vich/vkpcnx) | 2 | v1.1.0 | 2026-10-15 | vkpcnx-debug.nro, vkpcnx-switch-debug-symbols.zip, vkpcnx-switch-symbols.zip, vkpcnx.nro |
 | [maiaramon/cnx-installer-macos](https://github.com/maiaramon/cnx-installer-macos) | 2 | v1.4 | 2026-06-18 | CNX_Installer.app.zip |
-| [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc2 | 2026-11-14 | kodi-runtime.zip, kodi.nro |
+| [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc3 | 2026-11-14 | kodi-runtime.zip, kodi.nro |
 | [malinkin-s/destinia-nx](https://github.com/malinkin-s/destinia-nx) | 0 | v1.0.0 | 2026-10-25 | destinia-switch-1.0.0.zip, Destinia.0100D3571A000000.v0.nsp, Destinia.0100D3571A000000.v0.nsz, destinia.nro |
 | [masagrator/nxusbx360con](https://github.com/masagrator/nxusbx360con) | ? | 1.0.0 | 2026-06-26 | NxUsbX360Con.nro, ServerNativeArm64.zip, ServerNativeX64.zip |
 | [masagrator/reversenx](https://github.com/masagrator/reversenx) | ? | 0.34-re | 2020-02-28 | ReverseNX-0.34.zip |

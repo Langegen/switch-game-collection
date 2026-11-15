@@ -1038,17 +1038,17 @@
    "zip_root": ""
   },
   "sonerx7/nexvyn-os-nx": {
-   "asset_key": "748954883:2026-11-14T22:21:33Z",
-   "extracted": 82013377,
+   "asset_key": "749548162:2026-11-15T02:27:47Z",
+   "extracted": 82643901,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Nexvyn-OS-NX.jpg",
    "nacp": {
     "author": "sonerx7",
     "title": "Nexvyn OS",
-    "version": "1.3.11"
+    "version": "1.3.17"
    },
-   "sha256": "94e92a213d10f5783a6fe3b971d3fd496799762454c6166365603bb64d5829b9",
-   "size": 82013377,
+   "sha256": "351b7461f2d835b6edf401ea0b42c9463f7353bc33091d3504a131483a4143d4",
+   "size": 82643901,
    "type": "file",
    "zip_root": ""
   },
@@ -1776,7 +1776,7 @@
   "sonerx7/nexvyn-os-nx": {
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
    "full_name": "sonerx7/Nexvyn-OS-NX",
-   "stargazers_count": 76,
+   "stargazers_count": 77,
    "topics": [
     "app-market",
     "atmosphere",
@@ -7677,8 +7677,8 @@
    "pushed_at": ""
   },
   "delfus77/nxdock": {
-   "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T09:01:06Z"
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T05:20:46Z"
   },
   "denpingus/nxcloud": {
    "candidate": "| [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |",
@@ -8098,8 +8098,8 @@
    "pushed_at": "2026-02-16T23:25:56Z"
   },
   "jacquesdupontd/port0r": {
-   "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T22:06:12Z"
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T06:06:36Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8247,9 +8247,9 @@
    "pushed_at": "2026-06-18T16:18:45Z"
   },
   "majingabe/kodi-switch": {
-   "candidate": "| [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc2 | 2026-11-14 | kodi-runtime.zip, kodi.nro |",
-   "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T21:05:04Z"
+   "candidate": "| [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc3 | 2026-11-14 | kodi-runtime.zip, kodi.nro |",
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T02:50:33Z"
   },
   "malinkin-s/destinia-nx": {
    "candidate": "| [malinkin-s/destinia-nx](https://github.com/malinkin-s/destinia-nx) | 0 | v1.0.0 | 2026-10-25 | destinia-switch-1.0.0.zip, Destinia.0100D3571A000000.v0.nsp, Destinia.0100D3571A000000.v0.nsz, destinia.nro |",
@@ -8318,8 +8318,8 @@
    "pushed_at": ""
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
-   "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T21:17:42Z"
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T01:41:01Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-10",
@@ -8438,8 +8438,8 @@
    "pushed_at": "2026-11-02T06:56:20Z"
   },
   "nx-std/mono": {
-   "checked": "2026-11-09",
-   "pushed_at": "2026-11-01T05:18:17Z"
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T05:39:37Z"
   },
   "ocornut/imgui": {
    "checked": "2026-11-09",
@@ -8715,9 +8715,9 @@
    "pushed_at": ""
   },
   "sec-123/lanywhere-selfhost": {
-   "candidate": "| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.7.0 | 2026-11-14 | SHA256SUMS.txt, switch-online-0.7.0-hats.zip, switch-online-0.7.0-sd.zip, switch-online-0.7.0-sdk-sources.tar, switch-on |",
-   "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T21:26:04Z"
+   "candidate": "| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.8.6 | 2026-11-15 | SHA256SUMS.txt, switch-online-0.8.6-hats.zip, switch-online-0.8.6-sd.zip, switch-online-0.8.6-sdk-sources.tar, switch-on |",
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T05:52:57Z"
   },
   "simplysabir/nrodoc": {
    "checked": "2026-11-09",
