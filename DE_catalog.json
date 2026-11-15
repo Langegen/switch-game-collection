@@ -365,18 +365,18 @@
         "titles": "0100A0A0204A4000:327680:"
     },
     {
-        "title": "The Witcher 2 Assassins of Kings [NRO][RUS/POL]",
-        "size": "7.72 GB",
-        "magnet": "magnet:?xt=urn:btih:2D7FDCFFD8D20437FD8B2A1E6730ACA52C1D3515&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "The Witcher 2 Assassins of Kings [NRO][RUS/ENG]",
+        "size": "10.18 GB",
+        "magnet": "magnet:?xt=urn:btih:366AB70BFFEFEB3710890B7B0A2E4121A52764C0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6936880",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6936880",
         "year": "2011",
         "genre": "Action, Role-Playing, Homebrew",
         "developer": "CD Projekt RED",
-        "publisher": "sharkandmouse",
+        "publisher": "recomp-nx/tw2de_nx",
         "image_format": "NRO",
-        "interface_lang": "Russisch, Polnisch [RUS / POL]",
-        "voice_lang": "Russisch (von Snowball Studios)",
+        "interface_lang": "Russisch, Englisch [RUS / ENG]",
+        "voice_lang": "Russisch (von Snowball Studios), Englisch",
         "performance": "Ja (auf 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Nein",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6936880.jpg",
@@ -393,7 +393,7 @@
         ],
         "description": "The Witcher 2: Assassins of Kings spielt kurz nach den Ereignissen von The Witcher und spielt ebenfalls in der Welt von Andrzej Sapkowskis Büchern. Die Hauptfigur ist nach wie vor der Hexer Geralt von Riva.\nDer Handlung zufolge muss die Hauptfigur viel reisen, und in der Spielhandlung ist mächtige Magie im Spiel. Die Entwickler haben für einen hohen Wiederspielwert gesorgt und in der Mitte des Spiels können mögliche Handlungsverläufe stark voneinander abweichen.\nDas Ende der Prologhandlung endete mit dem Attentat auf König Foltest. Geralt konnte das Attentat nicht verhindern und vermisste den mysteriösen Mörder, der „Hexer“-Augen hatte. In The Witcher 2: Assassins of Kings wird Geralt des Mordes an Foltest beschuldigt und muss das Verbrechen untersuchen und seinen Ruf wiederherstellen.\nDas Projekt kam bei den Kritikern sehr gut an, die überwiegende Mehrheit der Kritiken charakterisierte das Spiel positiv. Das Spiel erhielt 9 von 10 Punkten und belegte den dritten Platz in der Kategorie „RPG des Jahres“ (2011). „Urteil: eines der besten Rollenspiele der Geschichte, das einen Platz neben den Titanen des Genres verdient“, und „die von polnischen Handwerkern im zweiten „The Witcher“ geschaffene Welt ist so gut und entzückend, dass man diesem Spiel und seinen Schöpfern viel verzeihen kann.“ „Wahnsinnig schönes Rollenspiel in der Welt von Sapkowski – nahezu perfekt.“",
         "title_id": null,
-        "version": "0.1.46"
+        "version": "0.1.2"
     },
     {
         "title": "Mercenaries 2 World in Flames (Port ) [NRO][RUS/ENG]",
@@ -47823,8 +47823,8 @@
     },
     {
         "title": "Neon Abyss 1-2 [NSZ][RUS/Multi8]",
-        "size": "2.1 GB",
-        "magnet": "magnet:?xt=urn:btih:E7354F2588C1AD112F9E4A11271F0F1C1B77319C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "size": "2.11 GB",
+        "magnet": "magnet:?xt=urn:btih:AD67AF723E3D57B1E98D29FBFB8F71FEEC078258&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5919504",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5919504",
         "year": "2020, Juli",
@@ -47838,18 +47838,21 @@
         "multiplayer": "Nein",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5919504.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/2208c2a3a84a2e56a932371cc6077938e70086521ddb59890799d8d6a0e09182.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/ab04579295783255063f23d7e126358fd225d3e61fad34ebea5fcb2c44fe43f7.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d5cffc8b3501e93e26ba617fdaf98154c3c6b9e71d255dfca03a6a07b71c1a68.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/333d0015e664a8e27d760fa70fb298fe19f0314e94d47578250cc443a247be35.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d96800335eb738acc0e8afbb760c6cce746841bb2f12e4b1940060b5de97d2a7.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b27dbbfa079a24eea67e14969ec72f8fd011ac71c6693f8fc6d323df07ffe264.jpg&output=jpg"
+            "https://i116.fastpic.org/thumb/2022/0326/f2/3909ffebb5f8454bd45c71ba1c5aa0f2.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/42/9377fe7318474b99ff84c6061ce4df42.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/fa/87a5b34fa79a2c58db16f00b658bfafa.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/7e/400a618f2c059035b10db7057db02c7e.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/ed/d0ec791f92e170f43b2e94575d283ced.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/5c/21e266ec7c4ea3989fcdf57f3209435c.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/8b/c3e433d842a0f70256f66bb7b453a58b.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/29/a321fc6d9c8961e782e5c5d3cbc93029.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/9a/eccf36bebabd0bc492ce6bb91f0e119a.jpeg"
         ],
-        "description": "Mit unbegrenzten Gegenstandssynergien und einem einzigartigen Dungeon-Entwicklungssystem bietet jeder Durchgang ein neues Erlebnis und jede Entscheidung verändert die Regeln. Mach dich bereit!\n\nDungeon-Entwicklung\nMit jedem Durchgang können neue Räume, Gegenstände, Bosse und vieles mehr freigeschaltet werden! Jedes Dungeon ist einzigartig und wird an deinen Spielstil angepasst.\n\nUnbegrenzte Gegenstandssynergien\nAuf deinem Weg durch die Dungeons sind zufällig auftauchende Gegenstände der Schlüssel zum Eindringen ins Abyss. Ihre passiven Effekte können unbegrenzt gestapelt werden, sodass zahlreiche Kombinationen möglich sind, die jeden Durchgang einzigartig machen.\n\nMinispiele\nDu brauchst eine Pause von dem Tumult? Dann versuch's doch mal mit einem Minispiel, bei dem du auch noch nützliche Dinge sammeln kannst! Allerlei Spaß erwartet dich!",
-        "title_id": "0100BAB01113A000",
+        "description": "Neon Abyss kombiniert rasantes Shoot-and-Run-Storytelling mit komplexer Roguelike-Mechanik. In diesem Spiel schlüpfen Sie in die Rolle eines Mitglieds der von Hades zusammengestellten Grim Squad, die in den Abgrund einbrechen und die neuen Götter besiegen will. Der Tod ist nicht das Ende: Nach dem Tod wirst du noch stärker sein als zuvor.",
+        "title_id": "010052002641E000",
         "version": "1.0.7",
         "update_version": 458752,
-        "titles": "010052002641E000:65536:;0100BAB01113A000:458752:"
+        "titles": "010052002641E000:131072:;0100BAB01113A000:458752:"
     },
     {
         "title": "Staffer Retro a Supernatural Mystery Quest [NSZ][ENG]",
@@ -137173,15 +137176,15 @@
     },
     {
         "title": "Battle Brothers + 9 DLC [NSZ][ENG]",
-        "size": "3.63 GB",
-        "magnet": "magnet:?xt=urn:btih:C09DBD88A6AD75076B3D78493F6F41C3AF90F24C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "3.68 GB",
+        "magnet": "magnet:?xt=urn:btih:AC73795C2234F7B006657C54C52DFFA2AED06D78&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6036738",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6036738",
         "year": "2021, März",
         "genre": "Strategy, Role-Playing",
         "developer": "Overhype Studios",
         "publisher": "Ukiyo Publishing",
-        "image_format": ".NSZ (komprimiert ~15%, installierte Größe 4.28 GB)",
+        "image_format": ".NSZ (komprimiert ~15%, installierte Größe 4.33 GB)",
         "interface_lang": "Englisch [ENG]",
         "voice_lang": "Keine Sprachausgabe",
         "performance": "Ja (auf 14.1.0, Atmosphere 1.3.2)",
@@ -137197,9 +137200,9 @@
         ],
         "description": "Battle Brothers ist ein rundenbasiertes Taktikspiel in dem Du die Kontrolle über eine Söldnertruppe in einer rauhen und düsteren Fantasywelt übernimmst. Du entscheidest welche Aufträge du annimmst, wen du anheuerst, wen du bekämpfst und wie du deine Söldner trainierst und ausrüstest. Die prozedural generierte Weltkarte sorgt dabei für eine immer neue Herausforderung. Der Weg durch blutige Schlachten wird dir alles abverlangen!\n\nDas Spiel findet auf einer übergreifenden Weltkarte und einer kleineren, taktischen Karte statt. Auf der Weltkarte kannst Du dich frei bewegen und nach Aufträgen für deine Truppe suchen, neue Söldner anheuern, in Städten handeln oder Dich in die Wildnis schlagen auf der Suche nach versteckten Reichtümern. Sobald Du mit einer feindlichen Truppe zusammentriffst, beginnt der rundenbasierte Kampf, der auf detaillierten, taktischen Karten ausgetragen wird.\n\nVerwalte eine mittelalterliche Söldnertruppe in einer prozedural generierten, offenen Welt.\n- Bestehe komplexe rundenbasierte Kämpfe mit historischen Waffen und brutalen Verletzungen.\n- Permanente Tode. Alle Charaktere die im Spiel das zeitliche segnen bleiben tot. Es sei denn, sie kehren als Untote zurück.\n- Alle Charaktere haben ihre eigenen, unverwechselbaren Eigenschaften. Heuerst du einen stotternden Rattenfänger, einen gierigen Hexenjäger oder einen betrunkenen, enteigneten Adligen an?\n- Charakterentwicklung ohne einschränkendes Klassensystem. Jeder Charakter gewinnt im Kampf Erfahrung, steigt im Level auf und lernt neue, mächtige Fähigkeiten.\n- Ausrüstung macht einen Unterschied. Jede Waffe bringt eigene Fähigkeiten - spalte Schilde mit einer Axt, schlage Gegner mit einer Keule nieder, forme einen Speerwall oder zerschmettere gegnerische Rüstungen mit dem Kriegshammer. \n- Vielseitige Gegner. Alle Gegner haben einzigartige Ausrüstung, Fähigkeiten und Kampfweisen.\n- Ein dynamisches Eventsystem mit atmosphärischen Begegnungen und harten Entscheidungen außerhalb der Kämpfe.\n- Drei unterschiedliche große Konflikte  - ein Krieg zwischen Adelshäusern, eine Invasion der Orks und Goblins oder das Erwachen der Untoten - lauern am Ende des Spiels.\n- Ein 3 stündiger, orchestraler Soundtrack.",
         "title_id": "0100C5000F294000",
-        "version": "1.13.0",
-        "update_version": 851968,
-        "titles": "0100C5000F294000:851968:"
+        "version": "1.14.0",
+        "update_version": 917504,
+        "titles": "0100C5000F294000:917504:"
     },
     {
         "title": "Last Mage Survivors [NSZ][ENG]",

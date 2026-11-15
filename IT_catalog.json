@@ -365,18 +365,18 @@
         "titles": "0100A0A0204A4000:327680:"
     },
     {
-        "title": "The Witcher 2 Assassins of Kings [NRO][RUS/POL]",
-        "size": "7.72 GB",
-        "magnet": "magnet:?xt=urn:btih:2D7FDCFFD8D20437FD8B2A1E6730ACA52C1D3515&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "The Witcher 2 Assassins of Kings [NRO][RUS/ENG]",
+        "size": "10.18 GB",
+        "magnet": "magnet:?xt=urn:btih:366AB70BFFEFEB3710890B7B0A2E4121A52764C0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6936880",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6936880",
         "year": "2011",
         "genre": "Action, Role-Playing, Homebrew",
         "developer": "CD Projekt RED",
-        "publisher": "sharkandmouse",
+        "publisher": "recomp-nx/tw2de_nx",
         "image_format": "NRO",
-        "interface_lang": "Russo, Polacco [RUS / POL]",
-        "voice_lang": "Russo (di Snowball Studios)",
+        "interface_lang": "Russo, Inglese [RUS / ENG]",
+        "voice_lang": "Russo (di Snowball Studios), Inglese",
         "performance": "Sì (su 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6936880.jpg",
@@ -393,7 +393,7 @@
         ],
         "description": "The Witcher 2: Assassins of Kings è ambientato poco dopo gli eventi di The Witcher e si svolge anche nel mondo dei libri di Andrzej Sapkowski. Il personaggio principale è ancora il witcher Geralt di Rivia.\nSecondo la trama, il personaggio principale dovrà viaggiare molto e nella trama del gioco è coinvolta una potente magia. Gli sviluppatori hanno assicurato un alto livello di rigiocabilità e, a metà gioco, i possibili sviluppi della trama possono essere molto diversi l'uno dall'altro.\nLa fine della trama del prologo si è conclusa con l'attentato a Re Foltest. Geralt non riuscì a impedire il tentativo di omicidio e mancò il misterioso assassino, che aveva gli occhi da \"strego\". In The Witcher 2: Assassins of Kings, Geralt è accusato di aver ucciso Foltest e deve indagare sul crimine e ripristinare la sua reputazione.\nIl progetto è stato accolto molto bene dalla critica, la stragrande maggioranza delle recensioni ha caratterizzato il gioco positivamente. Il gioco ha ricevuto 9 punti su 10 e si è classificato al terzo posto nella categoria \"RPG of the Year\" (2011). \"Verdetto: uno dei migliori giochi di ruolo della storia, degno di prendere posto accanto ai titani del genere\" e \"il mondo creato dagli artigiani polacchi nel secondo \"The Witcher\" è così bello e delizioso che si può perdonare molto a questo gioco e ai suoi creatori.\" \"Gioco di ruolo follemente bello nel mondo di Sapkowski: quasi perfetto.\"",
         "title_id": null,
-        "version": "0.1.46"
+        "version": "0.1.2"
     },
     {
         "title": "Mercenaries 2 World in Flames (port ) [NRO][RUS/ENG]",
@@ -47818,8 +47818,8 @@
     },
     {
         "title": "Neon Abyss 1-2 [NSZ][RUS/Multi8]",
-        "size": "2.1 GB",
-        "magnet": "magnet:?xt=urn:btih:E7354F2588C1AD112F9E4A11271F0F1C1B77319C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "size": "2.11 GB",
+        "magnet": "magnet:?xt=urn:btih:AD67AF723E3D57B1E98D29FBFB8F71FEEC078258&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5919504",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5919504",
         "year": "2020, luglio",
@@ -47833,18 +47833,21 @@
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5919504.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/2208c2a3a84a2e56a932371cc6077938e70086521ddb59890799d8d6a0e09182.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/ab04579295783255063f23d7e126358fd225d3e61fad34ebea5fcb2c44fe43f7.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d5cffc8b3501e93e26ba617fdaf98154c3c6b9e71d255dfca03a6a07b71c1a68.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/333d0015e664a8e27d760fa70fb298fe19f0314e94d47578250cc443a247be35.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d96800335eb738acc0e8afbb760c6cce746841bb2f12e4b1940060b5de97d2a7.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b27dbbfa079a24eea67e14969ec72f8fd011ac71c6693f8fc6d323df07ffe264.jpg&output=jpg"
+            "https://i116.fastpic.org/thumb/2022/0326/f2/3909ffebb5f8454bd45c71ba1c5aa0f2.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/42/9377fe7318474b99ff84c6061ce4df42.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/fa/87a5b34fa79a2c58db16f00b658bfafa.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/7e/400a618f2c059035b10db7057db02c7e.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/ed/d0ec791f92e170f43b2e94575d283ced.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/5c/21e266ec7c4ea3989fcdf57f3209435c.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/8b/c3e433d842a0f70256f66bb7b453a58b.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/29/a321fc6d9c8961e782e5c5d3cbc93029.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/9a/eccf36bebabd0bc492ce6bb91f0e119a.jpeg"
         ],
-        "description": "Con sinergie illimitate di oggetti e un sistema unico di evoluzione dei dungeon, ogni partita è diversa e ogni scelta cambia le carte in tavola. Preparati a scatenare l'inferno!\n\nDungeon in evoluzione\nIn ogni partita potrai sbloccare nuove stanze, oggetti, boss, regole speciali e nuovi finali! Ogni dungeon è unico ed espandibile, poiché si adatta al tuo stile di gioco.\n\nSinergie di oggetti illimitate\nAvanzando nei dungeon, raccoglierai oggetti casuali fondamentali per infiltrarti nel mondo di Abyss e gli effetti passivi possono accumularsi con ogni oggetto. Il numero di applicazioni è illimitato e una grande varietà di combinazioni renderà unica ogni partita.\n\nMini giochi\nFai una pausa dalle uccisioni e partecipa ai mini-giochi per accumulare bottino! Cimentati con il pianoforte, intraprendi una sfida di meditazione, gare di ballo e altro ancora!",
-        "title_id": "0100BAB01113A000",
+        "description": "Neon Abyss combina una narrazione spara e corri frenetica con complesse meccaniche roguelike. In questo gioco proverai il ruolo di un membro della Grim Squad, riunita da Hades, che vuole irrompere nell'Abisso e sconfiggere i nuovi dei. La morte non è la fine: dopo la morte diventerai ancora più forte di prima.",
+        "title_id": "010052002641E000",
         "version": "1.0.7",
         "update_version": 458752,
-        "titles": "010052002641E000:65536:;0100BAB01113A000:458752:"
+        "titles": "010052002641E000:131072:;0100BAB01113A000:458752:"
     },
     {
         "title": "Staffer Retro a Supernatural Mystery Quest [NSZ][ENG]",
@@ -137166,15 +137169,15 @@
     },
     {
         "title": "Battle Brothers + 9 DLC [NSZ][ENG]",
-        "size": "3.63 GB",
-        "magnet": "magnet:?xt=urn:btih:C09DBD88A6AD75076B3D78493F6F41C3AF90F24C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "3.68 GB",
+        "magnet": "magnet:?xt=urn:btih:AC73795C2234F7B006657C54C52DFFA2AED06D78&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6036738",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6036738",
         "year": "2021, marzo",
         "genre": "Strategy, Role-Playing",
         "developer": "Overhype Studios",
         "publisher": "Ukiyo Publishing",
-        "image_format": ".NSZ (compresso ~15%, dimensione installata 4.28 GB)",
+        "image_format": ".NSZ (compresso ~15%, dimensione installata 4.33 GB)",
         "interface_lang": "Inglese [ENG]",
         "voice_lang": "Senza doppiaggio",
         "performance": "Sì (su 14.1.0, Atmosphere 1.3.2)",
@@ -137190,9 +137193,9 @@
         ],
         "description": "Battle Brothers è un GDR tattico a turni nel quale sei il leader di una compagnia di mercenari in un mondo fantasy medievale dai toni realistici e un basso livello di potenza. Tu decidi dove andare, chi assoldare o chi combattere, quali contratti accettare e come addestrare i tuoi uomini in una campagna ambientata in un mondo aperto generato in modo procedurale. Hai ciò che serve per condurli attraverso battaglie sanguinose fino alla vittoria?\n\nIl gioco consiste di una mappa strategica e di un'interfaccia per il combattimento tattico. Puoi muoverti liberamente sulla mappa del mondo per ottenere contratti redditizi, trovare luoghi da saccheggiare, nemici da inseguire, città da rifornire e uomini da assoldare. Questo è anche dove gestisci, fai salire di livello ed equipaggi i tuoi \"Battle Brothers\", i tuoi compagni di battaglia. Quando attacchi un gruppo nemico il gioco passa a una mappa tattica dove prende corpo lo scontro corrente sotto forma di un dettagliato combattimento a turni.\n\nGestisci un gruppo di mercenari medievali in un mondo aperto generato in modo procedurale.\n- Combatti complesse battaglie tattiche a turni con un equipaggiamento storico e ferite brutali.\n- Permadeath (Morte permanente). Tutti i personaggi morti durante un combattimento rimangono morti - a meno che non vengano fatti ritornare in gioco come non-morti.\n- Tutti i personaggi hanno una propria storia e tratti originali. Vuoi un balbuziente acchiappa-topi, un avido cacciatore di streghe o un nobile diseredato e ubriacone?\n- Sviluppo del personaggio senza un sistema di classi restrittivo. Ogni personaggio guadagna esperienza grazie ai combattimenti e può migliorare il proprio livello e acquisire potenti privilegi.\n- Equipaggiamento che conta. Ogni arma garantisce abilità uniche - squarcia scudi con le asce, stordisci nemici con le mazze, forma un muro protettivo con le lance o frantuma l'armatura con un martello da guerra.\n- Selezione variegata di nemici. Tutti i nemici hanno equipaggiamento, abilità e comportamento dell'IA unici.\n- Un sistema di eventi dinamico con incontri ricchi di atmosfera e decisioni difficili da prendere al di fuori dei combattimenti.\n- Tre finali critici - una guerra tra casate di nobili, un'invasione di creature dalla pelle verde e un flagello di non morti - aggiungono una minaccia sempre incombente.\n- Due ore intere di colonna sonora orchestrale.",
         "title_id": "0100C5000F294000",
-        "version": "1.13.0",
-        "update_version": 851968,
-        "titles": "0100C5000F294000:851968:"
+        "version": "1.14.0",
+        "update_version": 917504,
+        "titles": "0100C5000F294000:917504:"
     },
     {
         "title": "Last Mage Survivors [NSZ][ENG]",

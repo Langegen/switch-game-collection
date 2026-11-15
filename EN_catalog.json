@@ -365,18 +365,18 @@
         "titles": "0100A0A0204A4000:327680:"
     },
     {
-        "title": "The Witcher 2 Assassins of Kings [NRO][RUS/POL]",
-        "size": "7.72 GB",
-        "magnet": "magnet:?xt=urn:btih:2D7FDCFFD8D20437FD8B2A1E6730ACA52C1D3515&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "The Witcher 2 Assassins of Kings [NRO][RUS/ENG]",
+        "size": "10.18 GB",
+        "magnet": "magnet:?xt=urn:btih:366AB70BFFEFEB3710890B7B0A2E4121A52764C0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6936880",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6936880",
         "year": "2011",
         "genre": "Action, Role-Playing, Homebrew",
         "developer": "CD Projekt RED",
-        "publisher": "sharkandmouse",
+        "publisher": "recomp-nx/tw2de_nx",
         "image_format": "NRO",
-        "interface_lang": "Russian, Polish [RUS / POL]",
-        "voice_lang": "Russian (by Snowball Studios)",
+        "interface_lang": "Russian, English [RUS / ENG]",
+        "voice_lang": "Russian (by Snowball Studios), English",
         "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6936880.jpg",
@@ -393,7 +393,7 @@
         ],
         "description": "The Witcher 2: Assassins of Kings takes place shortly after the events of The Witcher and also takes place in the world of Andrzej Sapkowski's books. The main character is still the witcher Geralt of Rivia.\nAccording to the plot, the main character will have to travel a lot, and powerful magic is involved in the game plot. The developers have ensured a high level of replayability, and by the middle of the game, possible plot developments can be very different from one another.\nThe end of the prologue plot ended with the assassination attempt on King Foltest. Geralt was unable to prevent the assassination attempt and missed the mysterious killer, who had “witcher” eyes. In The Witcher 2: Assassins of Kings, Geralt is accused of murdering Foltest and must go investigate the crime and restore his reputation.\nThe project was very well received by critics, the vast majority of reviews characterized the game positively. The game received 9 out of 10 points and took third place in the “RPG of the Year” category (2011). “Verdict: one of the best RPGs in history, worthy of taking a place next to the titans of the genre,” and “the world created by Polish craftsmen in the second “The Witcher” is so good and delightful that a lot can be forgiven for this game and its creators.” “Insanely beautiful role-playing game in the world of Sapkowski - almost perfect.”",
         "title_id": null,
-        "version": "0.1.46"
+        "version": "0.1.2"
     },
     {
         "title": "Mercenaries 2 World in Flames (port ) [NRO][RUS/ENG]",
@@ -47808,8 +47808,8 @@
     },
     {
         "title": "Neon Abyss 1-2 [NSZ][RUS/Multi8]",
-        "size": "2.1 GB",
-        "magnet": "magnet:?xt=urn:btih:E7354F2588C1AD112F9E4A11271F0F1C1B77319C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "size": "2.11 GB",
+        "magnet": "magnet:?xt=urn:btih:AD67AF723E3D57B1E98D29FBFB8F71FEEC078258&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5919504",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5919504",
         "year": "2020, July",
@@ -47823,18 +47823,21 @@
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5919504.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/2208c2a3a84a2e56a932371cc6077938e70086521ddb59890799d8d6a0e09182.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/ab04579295783255063f23d7e126358fd225d3e61fad34ebea5fcb2c44fe43f7.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d5cffc8b3501e93e26ba617fdaf98154c3c6b9e71d255dfca03a6a07b71c1a68.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/333d0015e664a8e27d760fa70fb298fe19f0314e94d47578250cc443a247be35.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d96800335eb738acc0e8afbb760c6cce746841bb2f12e4b1940060b5de97d2a7.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b27dbbfa079a24eea67e14969ec72f8fd011ac71c6693f8fc6d323df07ffe264.jpg&output=jpg"
+            "https://i116.fastpic.org/thumb/2022/0326/f2/3909ffebb5f8454bd45c71ba1c5aa0f2.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/42/9377fe7318474b99ff84c6061ce4df42.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/fa/87a5b34fa79a2c58db16f00b658bfafa.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/7e/400a618f2c059035b10db7057db02c7e.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/ed/d0ec791f92e170f43b2e94575d283ced.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/5c/21e266ec7c4ea3989fcdf57f3209435c.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/8b/c3e433d842a0f70256f66bb7b453a58b.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/29/a321fc6d9c8961e782e5c5d3cbc93029.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/9a/eccf36bebabd0bc492ce6bb91f0e119a.jpeg"
         ],
-        "description": "Featuring unlimited item synergies and a unique dungeon evolution system, each run diversifies the experience and every choice alters the ruleset. Get ready to unleash hell!\n\nEvolving Dungeon\nWith each run, you will be able to unlock new rooms, items, bosses, special rules and even new endings! This means each dungeon is unique and expandable, being tailored to your own specific playstyle.\n\nUnlimited Item Synergies\nAs you progress through each dungeon, random item drops will be key in helping you infiltrate the Abyss and these passive effects can stack between every item. With no limit to how many can apply; a wide variety of combinations will make each run unique.\n\nMini-games\nTake a break from slaying minions and take part in  mini-games that will also bag you some loot! Jump into Piano Performances, Meditation Challenge, Dance Competitions, and more!",
-        "title_id": "0100BAB01113A000",
+        "description": "Neon Abyss combines fast-paced shoot-and-run storytelling with complex roguelike mechanics. In this game you will try on the role of a member of the Grim Squad, assembled by Hades, who wants to break into the Abyss and defeat the new gods. Death is not the end: after death you will become even stronger than before.",
+        "title_id": "010052002641E000",
         "version": "1.0.7",
         "update_version": 458752,
-        "titles": "010052002641E000:65536:;0100BAB01113A000:458752:"
+        "titles": "010052002641E000:131072:;0100BAB01113A000:458752:"
     },
     {
         "title": "Staffer Retro a Supernatural Mystery Quest [NSZ][ENG]",
@@ -137160,15 +137163,15 @@
     },
     {
         "title": "Battle Brothers + 9 DLC [NSZ][ENG]",
-        "size": "3.63 GB",
-        "magnet": "magnet:?xt=urn:btih:C09DBD88A6AD75076B3D78493F6F41C3AF90F24C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "3.68 GB",
+        "magnet": "magnet:?xt=urn:btih:AC73795C2234F7B006657C54C52DFFA2AED06D78&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6036738",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6036738",
         "year": "2021, March",
         "genre": "Strategy, Role-Playing",
         "developer": "Overhype Studios",
         "publisher": "Ukiyo Publishing",
-        "image_format": ".NSZ (compressed ~15%, installed size 4.28 GB)",
+        "image_format": ".NSZ (compressed ~15%, installed size 4.33 GB)",
         "interface_lang": "English [ENG]",
         "voice_lang": "No voiceover",
         "performance": "Yes (on 14.1.0, Atmosphere 1.3.2)",
@@ -137184,9 +137187,9 @@
         ],
         "description": "Battle Brothers is a turn based tactical RPG which has you leading a mercenary company in a gritty, low-power, medieval fantasy world. You decide where to go, whom to hire or to fight, what contracts to take and how to train and equip your men in a procedurally generated open world campaign. Do you have what it takes to lead them through bloody battles and to victory?\n\nThe game consists of a strategic worldmap and a tactical combat layer. On the worldmap you can freely travel in order to take contracts that earn you good coin, find places worth looting, enemies worth pursuing or towns to resupply and hire men at. This is also where you manage, level up and equip your Battle Brothers. Once you engage a hostile party the game will switch to a tactical map where the actual fighting takes place as detailed turn based combat.\n\nManage a medieval mercenary company in a procedurally generated open world.\n- Fight complex turn-based tactical battles with historical equipment and brutal injuries.\n- Permadeath. All characters that die in combat will stay dead – unless they return as the undead.\n- All characters come with their own background stories and traits. Want a stuttering ratcatcher, a greedy witch hunter or a drunkard disowned noble?\n- Character development without a restrictive class-system. Each Character gains experience through combat, can level up and acquire powerful perks.\n- Equipment that matters. Different weapons grant unique skills – split shields with axes, stun enemies with maces, form a spearwall with spears or crush armor with a warhammer.\n- Diverse enemy roster. All enemies have unique equipment, skills and AI behavior.\n- a dynamic event system with atmospheric encounters and tough decisions outside of combat.\n- Three late game crises – a war between noble houses, a greenskin invasion and an undead scourge – add a looming threat.\n- Two full hours of orchestral soundtrack.",
         "title_id": "0100C5000F294000",
-        "version": "1.13.0",
-        "update_version": 851968,
-        "titles": "0100C5000F294000:851968:"
+        "version": "1.14.0",
+        "update_version": 917504,
+        "titles": "0100C5000F294000:917504:"
     },
     {
         "title": "Last Mage Survivors [NSZ][ENG]",

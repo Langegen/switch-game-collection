@@ -365,18 +365,18 @@
         "titles": "0100A0A0204A4000:327680:"
     },
     {
-        "title": "The Witcher 2 Assassins of Kings [NRO][RUS/POL]",
-        "size": "7.72 GB",
-        "magnet": "magnet:?xt=urn:btih:2D7FDCFFD8D20437FD8B2A1E6730ACA52C1D3515&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "The Witcher 2 Assassins of Kings [NRO][RUS/ENG]",
+        "size": "10.18 GB",
+        "magnet": "magnet:?xt=urn:btih:366AB70BFFEFEB3710890B7B0A2E4121A52764C0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6936880",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6936880",
         "year": "2011",
         "genre": "Action, Role-Playing, Homebrew",
         "developer": "CD Projekt RED",
-        "publisher": "sharkandmouse",
+        "publisher": "recomp-nx/tw2de_nx",
         "image_format": "NRO",
-        "interface_lang": "俄语, 波兰语 [RUS / POL]",
-        "voice_lang": "俄语 (来自 Snowball Studios)",
+        "interface_lang": "俄语, 英语 [RUS / ENG]",
+        "voice_lang": "俄语 (来自 Snowball Studios), 英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6936880.jpg",
@@ -393,7 +393,7 @@
         ],
         "description": "《巫师 2：国王刺客》的故事发生在《巫师》事件之后不久，也发生在安杰伊·萨普科夫斯基 (Andrzej Sapkowski) 的小说世界中。主角仍然是利维亚的猎魔人杰洛特。\n根据剧情，主角将要进行大量的旅行，游戏剧情中还涉及到强大的魔法。开发者确保了高水平的可重玩性，到了游戏中期，可能的情节发展可能会彼此大不相同。\n序幕情节的结尾以对弗尔泰斯特国王的刺杀企图结束。杰洛特无法阻止暗杀企图，错过了这位有着“巫师”眼睛的神秘杀手。在《巫师 2：国王刺客》中，杰洛特被指控谋杀了弗尔泰斯特，必须前去调查这起罪行并恢复他的声誉。\n该项目受到评论家的好评，绝大多数评论都对游戏给予了积极的评价。该游戏获得了 9 分（满分 10 分），并在“年度 RPG”类别中排名第三（2011 年）。 “结论：历史上最好的角色扮演游戏之一，值得与该类型的巨头并驾齐驱”，以及“波兰工匠在第二部《巫师》中创造的世界是如此美好和令人愉快，对于这款游戏及其创作者来说，很多事情都是可以原谅的。” “Sapkowski 世界中极其美丽的角色扮演游戏 - 近乎完美。”",
         "title_id": null,
-        "version": "0.1.46"
+        "version": "0.1.2"
     },
     {
         "title": "Mercenaries 2 World in Flames (移植版 ) [NRO][RUS/ENG]",
@@ -47685,8 +47685,8 @@
     },
     {
         "title": "Neon Abyss 1-2 [NSZ][RUS/Multi8]",
-        "size": "2.1 GB",
-        "magnet": "magnet:?xt=urn:btih:E7354F2588C1AD112F9E4A11271F0F1C1B77319C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "size": "2.11 GB",
+        "magnet": "magnet:?xt=urn:btih:AD67AF723E3D57B1E98D29FBFB8F71FEEC078258&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5919504",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5919504",
         "year": "2020, 7月",
@@ -47700,18 +47700,21 @@
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5919504.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/df64b8937723a4d45f89762b4aec4eddb719f853db647a5aedf9f1804573b737.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a0aba5c36918e0067d76fe48fcb5831e9d1c6587f4d88b723ac92eae7ff06012.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/ecc827963718730c4188b0d47b1133a768e3cf771926ae0d8ed7af9dd00d7973.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/81b3517aa14fb39cc0cefe0535c60848c500dd18ac8d9978580c1895c779b609.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/30bf9223306e11d6e1073aa7cdce8bfd86d924e00c93132ce34db3247a6ae0f7.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/bba657fed1d1fdb4c85fc19196e0d2cdc2e13ab865bfaab85fdcac4cff31e418.jpg&output=jpg"
+            "https://i116.fastpic.org/thumb/2022/0326/f2/3909ffebb5f8454bd45c71ba1c5aa0f2.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/42/9377fe7318474b99ff84c6061ce4df42.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/fa/87a5b34fa79a2c58db16f00b658bfafa.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/7e/400a618f2c059035b10db7057db02c7e.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/ed/d0ec791f92e170f43b2e94575d283ced.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/5c/21e266ec7c4ea3989fcdf57f3209435c.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/8b/c3e433d842a0f70256f66bb7b453a58b.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/29/a321fc6d9c8961e782e5c5d3cbc93029.jpeg",
+            "https://i116.fastpic.org/thumb/2022/0326/9a/eccf36bebabd0bc492ce6bb91f0e119a.jpeg"
         ],
-        "description": "遊戲擁有無窮無盡的物品協同效果，而獨特的地牢演化系統，令每次進入體驗各不相同，而您的每個選擇都會改變遊戲的規則。做好準備，地獄就在前方！\n\n關於遊戲\n將跑酷射擊的爽快動作與深邃的 roguelike 機制結合，你將在《Neon Abyss》擔任哈迪斯親手創辦特種部隊「死神小隊」的一員，潛入深淵之中，擊敗新生之神。在這裡，死亡並不是終點 - 每次死亡，你都會比以前更為強大。\n\n不斷進化的地牢\n每次進行遊戲，你都能解鎖全新的房間、物品、頭目、特殊規則，甚至於新的結局！這意味著每個地牢都是獨一無二，充滿擴展可能性，能夠為你的遊玩風格進行專屬定制。\n\n無限的物品協同\n隨著在各個地牢中推進，隨機掉落的物品將成為你成功潛入深淵的關鍵。它們的被動效果能夠相互疊加，同時還沒有適用的上限限制。各種各樣的組合，將會令每場遊戲都與眾不同。\n\n孵化和進化寵物\n在深入深淵的路上，如果需要夥伴，或者想來些額外的火力或協助，你大可去找枚蛋來 - 它們能夠變為一隻隨機寵物，擁有特殊的能力，甚至還會根據你存活的時間進行進化。 \n\n迷你遊戲\n從屠殺怪物中歇口氣，參加到隨機的迷你遊戲中來 - 從它們中也能獲得戰利品！來加入鋼琴演奏、冥想挑戰、舞力比拼... 活下來，可是會越來越有趣！",
-        "title_id": "0100BAB01113A000",
+        "description": "《霓虹深渊》将快节奏的射击和奔跑故事叙述与复杂的 Roguelike 机制结合在一起。在这款游戏中，你将扮演由哈迪斯组建的冷酷小队成员的角色，他想要闯入深渊并击败新神。死亡并不是结束：死后你会变得比以前更强大。",
+        "title_id": "010052002641E000",
         "version": "1.0.7",
         "update_version": 458752,
-        "titles": "010052002641E000:65536:;0100BAB01113A000:458752:"
+        "titles": "010052002641E000:131072:;0100BAB01113A000:458752:"
     },
     {
         "title": "Staffer Retro a Supernatural Mystery Quest [NSZ][ENG]",
@@ -136880,15 +136883,15 @@
     },
     {
         "title": "Battle Brothers + 9 DLC [NSZ][ENG]",
-        "size": "3.63 GB",
-        "magnet": "magnet:?xt=urn:btih:C09DBD88A6AD75076B3D78493F6F41C3AF90F24C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "size": "3.68 GB",
+        "magnet": "magnet:?xt=urn:btih:AC73795C2234F7B006657C54C52DFFA2AED06D78&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6036738",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6036738",
         "year": "2021, 3月",
         "genre": "Strategy, Role-Playing",
         "developer": "Overhype Studios",
         "publisher": "Ukiyo Publishing",
-        "image_format": ".NSZ (已压缩 ~15%, 安装大小 4.28 GB)",
+        "image_format": ".NSZ (已压缩 ~15%, 安装大小 4.33 GB)",
         "interface_lang": "英语 [ENG]",
         "voice_lang": "无语音",
         "performance": "是 (在 14.1.0, Atmosphere 1.3.2)",
@@ -136904,9 +136907,9 @@
         ],
         "description": "Battle Brothers — eto takticheskaya poshagovaya RPG, deystvie kotoroy razvorachivaetsya v surovom srednevekovom fantaziynom mire, gde vam predstoit upravlyat naemnicheskoy kompaniey. Vy reshaete, kuda otpravitsya, kogo nanyat ili s kem srazhatsya, kakie kontrakty brat i kak snaryazhat vashikh lyudey na prostorakh otkrytogo protsedurno sgenerirovannogo mira. Smozhete li vy privesti ikh k pobede cherez cheredu krovavykh bitv?\n\nIgrovoy protsess imeet dve sostavlyayushchie: strategicheskaya karta mira i takticheskie srazheniya. Na karte mire vashe peremeshchenie nichem ne ogranicheno: vy mozhete puteshestvovat, chtoby zaklyuchat kontrakty, kotorye prinesut vam khoroshiy dokhod, nakhodit mesta, gde mozhno razzhitsya dobychey, stoyashchikh presledovaniya vragov ili goroda, gde mozhno popolnit zapasy i nanyat lyudey. Zdes zhe vy osushchestvlyaete upravlenie svoimi naemnikami, povyshaete ikh uroven i snaryazhaete v boy. Kak tolko vy stolknetes s vrazhdebnoy gruppoy, igra pereklyuchitsya na takticheskuyu kartu, gde i proiskhodit boy v vide detalnogo poshagovogo srazheniya.\n\nUpravlyayte srednevekovoy naemnicheskoy kompaniey v otkrytom protsedurno sgenerirovannom mire.\n- Primite uchastie v slozhnykh poshagovykh boyakh s istoricheskim snaryazheniem i zhestokimi raneniyami.\n- Voskresheniya net. Vse personazhi, pogibshie v boyu, ostanutsya mertvymi — esli tolko ne vosstanut v vide nezhiti.\n- Kazhdyy personazh imeet svoyu sobstvennuyu istoriyu i unikalnye talanty. Kak naschet zaikayushchegosya krysolova, zhadnogo okhotnika na vedm ili opustivshegosya spivshegosya aristokrata?\n- Razvitie personazha ne ogranicheno strogoy klassovoy sistemoy. Kazhdyy geroy poluchaet opyt v boyu, mozhet povyshat uroven i priobretat moshchnye navyki.\n- Snaryazhenie — nashe vsyo. Kazhdoe oruzhie daet vam unikalnye sposobnosti — razrubayte shchity toporami, oglushayte vragov palitsami, sozdavayte stenu iz kopiy s pomoshchyu pik ili raskalyvayte dospekhi boevym molotom.\n- Vse protivniki imeyut unikalnoe snaryazhenie, umeniya i osobennosti povedeniya v boyu.\n- Dinamichnaya sistema igrovykh sobytiy s atmosfernymi skhvatkami i neprostymi resheniyami za predelami polya boya.\n- Tri krizisa na pozdney stadii igry — voyna dvoryanskikh domov, vtorzhenie zelenokozhikh i nashestvie nezhiti — dobavlyayut novuyu ugrozu.",
         "title_id": "0100C5000F294000",
-        "version": "1.13.0",
-        "update_version": 851968,
-        "titles": "0100C5000F294000:851968:"
+        "version": "1.14.0",
+        "update_version": 917504,
+        "titles": "0100C5000F294000:917504:"
     },
     {
         "title": "Last Mage Survivors [NSZ][ENG]",
