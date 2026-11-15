@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-15T06:35:14Z",
+ "generated": "2026-11-15T18:53:56Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -2909,10 +2909,11 @@
    "updated": "2026-08-07",
    "download_url": "https://github.com/averne/Fizeau/releases/download/v2.8.3/Fizeau-2.8.3-5bf3f0d.zip",
    "download_type": "zip",
-   "sha256": "8c44d2cfee17c9020a1f5ba9223e260c96ea716bf016c7cd0371de0685835b85",
-   "filesize": 1536484,
-   "extracted": 2190566,
+   "sha256": "65145e8d6137a9921edf4d79b0bc3a4f6dda9069ff8794642e00377e33fc9652",
+   "filesize": 1538899,
+   "extracted": 2190583,
    "files": [
+    "G: config/Fizeau/config.ini",
     "U: atmosphere/contents/0100000000000F12/exefs.nsp",
     "U: atmosphere/contents/0100000000000F12/flags/boot2.flag",
     "U: atmosphere/contents/0100000000000F12/toolbox.json",
@@ -2938,16 +2939,17 @@
     "U: atmosphere/exefs_patches/nvnflinger_cmu/bcd23ead031f4d02b4869cc1adea70bf70edfd7b.ips",
     "U: atmosphere/exefs_patches/nvnflinger_cmu/f25463b5d502f1f7913d53559e1c394fda3d9d9e.ips",
     "U: atmosphere/exefs_patches/nvnflinger_cmu/44cba61ee715e0307dc6ef7f56177c6a5625c6c6.ips",
+    "U: atmosphere/exefs_patches/nvnflinger_cmu/64fae929b8ebdc881c27285d97bcc2a16aa3cdfc.ips",
     "U: atmosphere/exefs_patches/nvnflinger_cmu/891b9081511d2d25346598cc345ec071ae10b90b.ips",
     "U: atmosphere/exefs_patches/nvnflinger_cmu/ffe29428924ce91f77c3705eb7d7e32eeb7c45ac.ips",
     "U: atmosphere/exefs_patches/nvnflinger_cmu/824e653f7c84b2835618f035482da3678a8c8c5f.ips",
     "U: atmosphere/exefs_patches/nvnflinger_cmu/cb812afaef6a42954c60315499afcffbca5f15f4.ips",
     "U: atmosphere/exefs_patches/nvnflinger_cmu/08b4cba0de0157faa5b05e114cd44a5a2a7faf4a.ips",
     "U: atmosphere/exefs_patches/nvnflinger_cmu/91bc34d3bd1bcdf6cfe8778e98ae3e62492ba36f.ips",
-    "G: config/Fizeau/config.ini",
     "U: switch/Fizeau/Fizeau.nro",
     "U: switch/.overlays/Fizeau.ovl"
    ],
+   "zip_root": "Fizeau-2.8.3-5bf3f0d/",
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Fizeau.jpg",
    "description_i18n": {
     "ru": "Цветовая температура, гамма и насыщенность экрана"
@@ -4222,6 +4224,29 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/tmcexplorer-nx.jpg",
    "auto": true,
    "first_seen": "2026-11-12"
+  },
+  {
+   "name": "totk-save-editor-app",
+   "title": "ToTK Save Editor",
+   "author": "ToTK Save Editor",
+   "version": "1.0.1",
+   "category": "tool",
+   "description": "",
+   "changelog": "- Fixed a crash when opening the Bows tab on a save with no bows in the inventory.\r\n- Restored arrow editing on the Bows tab (an Arrows tile for viewing and editing your arrow count).\r\n- Added an in-app updater: ToTK Save Editor checks for new releases on launch and can download and install them from the About tab.\r\n\r\nPUSHED, UPDATER WORKS! ENJOY! :D",
+   "url": "https://github.com/electrotamp/totk-save-editor-app",
+   "repo": "electrotamp/totk-save-editor-app",
+   "updated": "2026-08-25",
+   "download_url": "https://github.com/electrotamp/ToTK-Save-Editor-App/releases/download/v1.0.1/totk_save_editor.nro",
+   "download_type": "file",
+   "sha256": "c3a7be776517ddc9880e065ab31c195c514753c3c2ef441d05cd5dbe8e80ee86",
+   "filesize": 37617820,
+   "extracted": 37617820,
+   "files": [
+    "U: switch/totk-save-editor-app/totk-save-editor-app.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/totk-save-editor-app.jpg",
+   "auto": true,
+   "first_seen": "2026-11-15"
   },
   {
    "name": "uberhand-overlay",

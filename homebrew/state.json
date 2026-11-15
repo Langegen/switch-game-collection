@@ -18,9 +18,10 @@
    "zip_root": ""
   },
   "averne/fizeau": {
-   "asset_key": "505578441:2026-08-07T19:37:03Z",
-   "extracted": 2190566,
+   "asset_key": "751036953:2026-11-15T13:07:02Z",
+   "extracted": 2190583,
    "files": [
+    "config/Fizeau/config.ini",
     "atmosphere/contents/0100000000000F12/exefs.nsp",
     "atmosphere/contents/0100000000000F12/flags/boot2.flag",
     "atmosphere/contents/0100000000000F12/toolbox.json",
@@ -46,13 +47,13 @@
     "atmosphere/exefs_patches/nvnflinger_cmu/bcd23ead031f4d02b4869cc1adea70bf70edfd7b.ips",
     "atmosphere/exefs_patches/nvnflinger_cmu/f25463b5d502f1f7913d53559e1c394fda3d9d9e.ips",
     "atmosphere/exefs_patches/nvnflinger_cmu/44cba61ee715e0307dc6ef7f56177c6a5625c6c6.ips",
+    "atmosphere/exefs_patches/nvnflinger_cmu/64fae929b8ebdc881c27285d97bcc2a16aa3cdfc.ips",
     "atmosphere/exefs_patches/nvnflinger_cmu/891b9081511d2d25346598cc345ec071ae10b90b.ips",
     "atmosphere/exefs_patches/nvnflinger_cmu/ffe29428924ce91f77c3705eb7d7e32eeb7c45ac.ips",
     "atmosphere/exefs_patches/nvnflinger_cmu/824e653f7c84b2835618f035482da3678a8c8c5f.ips",
     "atmosphere/exefs_patches/nvnflinger_cmu/cb812afaef6a42954c60315499afcffbca5f15f4.ips",
     "atmosphere/exefs_patches/nvnflinger_cmu/08b4cba0de0157faa5b05e114cd44a5a2a7faf4a.ips",
     "atmosphere/exefs_patches/nvnflinger_cmu/91bc34d3bd1bcdf6cfe8778e98ae3e62492ba36f.ips",
-    "config/Fizeau/config.ini",
     "switch/Fizeau/Fizeau.nro",
     "switch/.overlays/Fizeau.ovl"
    ],
@@ -62,10 +63,10 @@
     "title": "Fizeau",
     "version": "2.8.3"
    },
-   "sha256": "8c44d2cfee17c9020a1f5ba9223e260c96ea716bf016c7cd0371de0685835b85",
-   "size": 1536484,
+   "sha256": "65145e8d6137a9921edf4d79b0bc3a4f6dda9069ff8794642e00377e33fc9652",
+   "size": 1538899,
    "type": "zip",
-   "zip_root": ""
+   "zip_root": "Fizeau-2.8.3-5bf3f0d/"
   },
   "bernardogiordano/checkpoint": {
    "asset_key": "637957756:2026-10-13T18:57:33Z",
@@ -284,6 +285,21 @@
    },
    "sha256": "6593c8ef8a5cfcba107da363551246e9afd7135fe4b4528e7b8bcc7721de20f2",
    "size": 1503288,
+   "type": "file",
+   "zip_root": ""
+  },
+  "electrotamp/totk-save-editor-app": {
+   "asset_key": "529908795:2026-08-25T22:59:04Z",
+   "extracted": 37617820,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/totk-save-editor-app.jpg",
+   "nacp": {
+    "author": "ToTK Save Editor",
+    "title": "ToTK Save Editor",
+    "version": "1.0.1"
+   },
+   "sha256": "c3a7be776517ddc9880e065ab31c195c514753c3c2ef441d05cd5dbe8e80ee86",
+   "size": 37617820,
    "type": "file",
    "zip_root": ""
   },
@@ -1323,7 +1339,7 @@
   "bernardogiordano/checkpoint": {
    "description": "Fast and simple homebrew save management framework for 3DS and Switch.",
    "full_name": "BernardoGiordano/Checkpoint",
-   "stargazers_count": 3129,
+   "stargazers_count": 3128,
    "topics": [
     "3ds",
     "3ds-homebrew",
@@ -1447,6 +1463,12 @@
   "efosamark/uberhand-overlay": {
    "description": "",
    "full_name": "efosamark/uberhand-overlay",
+   "stargazers_count": null,
+   "topics": []
+  },
+  "electrotamp/totk-save-editor-app": {
+   "description": "",
+   "full_name": "electrotamp/totk-save-editor-app",
    "stargazers_count": null,
    "topics": []
   },
@@ -1884,6 +1906,7 @@
   "denpingus/stremnx": "2026-11-09",
   "dl3g0/nx-torrent-player-mod": "2026-11-10",
   "efosamark/uberhand-overlay": "2026-11-12",
+  "electrotamp/totk-save-editor-app": "2026-11-15",
   "ely3m/fuck-u": "2026-11-09",
   "ely3m/weather-and-moon-phase-app-for-nintendo-switch": "2026-11-09",
   "ely3m/weather-app-for-nintendo-switch": "2026-11-09",
@@ -6881,6 +6904,9 @@
   "/wiki/PowertoolsNX_Switch": [
    "cvfiredragon/powertoolsnx"
   ],
+  "/wiki/Prayer_Times_NX_Switch": [
+   "mohamedpro123/prayertimesnx"
+  ],
   "/wiki/ProdInfoEnabler_Switch": [
    "darkxex/prodinfoenabler"
   ],
@@ -7105,6 +7131,9 @@
   ],
   "/wiki/TmcExplorer-NX_Switch": [
    "tm-c0m8u570rz/tmcexplorer-nx"
+  ],
+  "/wiki/ToTK_Save_Editor_Switch": [
+   "electrotamp/totk-save-editor-app"
   ],
   "/wiki/TomoToolNX_Switch": [
    "alexislours/ltd-save-editor",
@@ -7346,8 +7375,8 @@
    "pushed_at": "2026-08-20T09:18:32Z"
   },
   "armaatus/rommsync-nx": {
-   "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T10:32:03Z"
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T11:00:09Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -7582,9 +7611,9 @@
    "pushed_at": "2026-10-24T17:59:53Z"
   },
   "cmdada/3ds-cli": {
-   "candidate": "| [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 45 | 5.3.1 | 2026-11-12 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |",
-   "checked": "2026-11-12",
-   "pushed_at": "2026-11-12T17:14:08Z"
+   "candidate": "| [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 46 | 5.3.1 | 2026-11-12 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |",
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T17:17:44Z"
   },
   "cokecookie/bootmoix": {
    "checked": "2026-11-09",
@@ -7608,8 +7637,8 @@
    "pushed_at": "2026-09-16T16:58:32Z"
   },
   "ctj01/switch2pc": {
-   "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T09:55:08Z"
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T10:28:01Z"
   },
   "curl/curl": {
    "candidate": "| [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |",
@@ -7678,7 +7707,7 @@
   },
   "delfus77/nxdock": {
    "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T05:20:46Z"
+   "pushed_at": "2026-11-15T09:45:04Z"
   },
   "denpingus/nxcloud": {
    "candidate": "| [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |",
@@ -8099,7 +8128,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T06:06:36Z"
+   "pushed_at": "2026-11-15T18:37:18Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8112,8 +8141,8 @@
   },
   "jigsawfr/boreale-ha": {
    "candidate": "| [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |",
-   "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T09:22:57Z"
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T16:26:05Z"
   },
   "jimzrt/incognito_rcm": {
    "checked": "2026-11-10",
@@ -8249,7 +8278,7 @@
   "majingabe/kodi-switch": {
    "candidate": "| [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc3 | 2026-11-14 | kodi-runtime.zip, kodi.nro |",
    "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T02:50:33Z"
+   "pushed_at": "2026-11-15T15:47:13Z"
   },
   "malinkin-s/destinia-nx": {
    "candidate": "| [malinkin-s/destinia-nx](https://github.com/malinkin-s/destinia-nx) | 0 | v1.0.0 | 2026-10-25 | destinia-switch-1.0.0.zip, Destinia.0100D3571A000000.v0.nsp, Destinia.0100D3571A000000.v0.nsz, destinia.nro |",
@@ -8317,9 +8346,13 @@
    "checked": "2026-11-09",
    "pushed_at": ""
   },
+  "mohamedpro123/prayertimesnx": {
+   "checked": "2026-11-15",
+   "pushed_at": ""
+  },
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T01:41:01Z"
+   "pushed_at": "2026-11-15T16:54:50Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-10",
@@ -8719,6 +8752,11 @@
    "checked": "2026-11-15",
    "pushed_at": "2026-11-15T05:52:57Z"
   },
+  "sec-123/roomcircuit_lanywhere-selfhost": {
+   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 0 | v0.8.8 | 2026-11-15 | SHA256SUMS.txt, switch-online-0.8.8-hats.zip, switch-online-0.8.8-sd.zip, switch-online-0.8.8-sdk-sources.tar, switch-on |",
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T09:50:13Z"
+  },
   "simplysabir/nrodoc": {
    "checked": "2026-11-09",
    "pushed_at": "2026-09-02T02:45:05Z"
@@ -8765,8 +8803,8 @@
    "pushed_at": "2026-10-22T20:10:58Z"
   },
   "steve1451-dot/yuanshi-launcher-ns": {
-   "checked": "2026-11-09",
-   "pushed_at": "2026-11-07T10:26:32Z"
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T15:06:07Z"
   },
   "sthetix/fusecheck": {
    "candidate": "| [sthetix/fusecheck](https://github.com/sthetix/fusecheck) | ? | 1.0.5 | 2026-09-27 | FuseCheck-1.0.5.zip |",
@@ -8893,8 +8931,9 @@
    "pushed_at": "2026-06-09T00:53:01Z"
   },
   "timschneeb/nsmbw-nx": {
-   "checked": "2026-11-13",
-   "pushed_at": "2026-11-13T06:34:33Z"
+   "candidate": "| [timschneeb/nsmbw-nx](https://github.com/timschneeb/nsmbw-nx) | 0 | v0.0.1 | 2026-11-15 | assets.json, NSMBW-switch.zip |",
+   "checked": "2026-11-15",
+   "pushed_at": "2026-11-15T13:22:19Z"
   },
   "tobias103435/mkwii-switch-builder": {
    "candidate": "| [Tobias103435/mkwii-switch-builder](https://github.com/Tobias103435/mkwii-switch-builder) | 1 | v1 | 2026-11-03 | MarioKartWii-Switch-builder.zip, mkw-render-deko3d-13abc3bc-f8c9eef0-20261102.tar.xz, mkw-render-deko3d-13abc3bc-f8c9eef |",

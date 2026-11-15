@@ -50,7 +50,7 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/lanywhere-selfhost](https://github.com/SEc-123/lanywhere-selfhost) | 0 | v0.8.6 | 2026-11-15 | SHA256SUMS.txt, switch-online-0.8.6-hats.zip, switch-online-0.8.6-sd.zip, switch-online-0.8.6-sdk-sources.tar, switch-on |
+| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 0 | v0.8.8 | 2026-11-15 | SHA256SUMS.txt, switch-online-0.8.8-hats.zip, switch-online-0.8.8-sd.zip, switch-online-0.8.8-sdk-sources.tar, switch-on |
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 23 | v1.0.9 | 2026-11-05 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 3.0.0 | 2025-11-30 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
@@ -88,7 +88,7 @@
 | [chiya695/TextReaderOverlay-NX-Revived](https://github.com/chiya695/TextReaderOverlay-NX-Revived) | 2 | v1.9.1 | 2026-08-08 | SHA256SUMS.txt, TextReaderOverlay-NX-1.9.1.zip |
 | [chuthree/nx-gamehide](https://github.com/chuthree/nx-gamehide) | 3 | v0.1.0 | 2026-10-13 | NX-GameHide-v0.1.0.zip |
 | [cid2mizard/mikmod-music-visualizer](https://github.com/cid2mizard/mikmod-music-visualizer) | ? | 1.2.1 | 2022-05-17 | MMMV.zip |
-| [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 45 | 5.3.1 | 2026-11-12 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |
+| [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 46 | 5.3.1 | 2026-11-12 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |
 | [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |
 | [d3fau4/nightfall](https://github.com/d3fau4/nightfall) | ? | 1.1.4 | 2021-09-25 | NightFall.zip |
 | [d3st1nyh4x/shrekmosphere](https://github.com/d3st1nyh4x/shrekmosphere) | ? | 0.11.1 | 2020-04-15 | fusee-primary.bin, shrekmosphere-0.11.1-master.zip |
@@ -178,6 +178,7 @@
 | [team-neptune/deepsea](https://github.com/team-neptune/deepsea) | ? | v4.15.0 | 2026-03-31 | deepsea-advanced_v4.15.0.zip, deepsea-minimal_v4.15.0.zip, deepsea-normal_v4.15.0.zip |
 | [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) | ? | v1.3.0 | 2020-10-18 | Chiaki-v1.3.0-Android.aab, Chiaki-v1.3.0-Android.apk, Chiaki-v1.3.0-Linux-x86_64.AppImage, Chiaki-v1.3.0-macOS-x86_64.dm |
 | [timschneeb/kdeconnect-nx](https://github.com/timschneeb/kdeconnect-nx) | 14 | v1.0.1 | 2026-06-09 | debug-symbols.zip, kdeconnect-nx.zip |
+| [timschneeb/nsmbw-nx](https://github.com/timschneeb/nsmbw-nx) | 0 | v0.0.1 | 2026-11-15 | assets.json, NSMBW-switch.zip |
 | [tomvita/atmosphere](https://github.com/tomvita/atmosphere) | ? | dmnt_with_extension | 2025-01-11 | dmnt.zip |
 | [tomvita/breeze-beta](https://github.com/tomvita/breeze-beta) | ? | beta108.4c | 2026-06-17 | Breeze.zip, version.txt |
 | [tomvita/noexes](https://github.com/tomvita/noexes) | ? | 1.4.157 | 2022-05-05 | 054e4f4558454000.zip, 054e4f4558454000_18.zip, JNoexsClient.jar |
