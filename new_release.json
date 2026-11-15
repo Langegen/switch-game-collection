@@ -1,4 +1,9 @@
 [
+  {"title": "Titanium Court", "title_id": "0100FA9028BB8000", "metacritic": null},
+  {"title": "Warp Shift", "title_id": "0100DB300A026000", "metacritic": 80.0},
+  {"title": "Rusty Rangers", "title_id": "01002E302204A000", "metacritic": null},
+  {"title": "Beholder 1, 2, 3, Conductor", "title_id": "0100D1300C1EA000", "metacritic": null},
+  {"title": "Good Job", "title_id": "0100B0500FE4E000", "metacritic": 78.0},
   {"title": "Tetris the Grand Master TGM 4 Absolute Eye", "title_id": "0100A9F027F1C000", "metacritic": null},
   {"title": "Million Depth (демонстрационная версия)", "title_id": "010006102A00E000", "metacritic": null},
   {"title": "Sin Reloaded Gold + Wages of Sin", "title_id": "0100F07026DA8000", "metacritic": null},
@@ -32,12 +37,5 @@
   {"title": "Culdcept Begins", "title_id": "01004F4024504000", "metacritic": null},
   {"title": "Akiba Lost", "title_id": "0100C66026536000", "metacritic": null},
   {"title": "Minecraft", "title_id": "0100D71004694000", "metacritic": 93.0},
-  {"title": "Cyanotype Daydream - The Girl Who's Called the World (Hakuchuumu no Aojashin / 白昼夢の青写真)", "title_id": "01003B0018BC8000", "metacritic": 82.0},
-  {"title": "Tom the Postgirl (демонстрационная версия)", "title_id": "0100105028DAE000", "metacritic": null},
-  {"title": "Rooftops and Alleys the Parkour Game + 4 DLC", "title_id": "0100FC20214B2000", "metacritic": 67.0},
-  {"title": "Shrek 2 Remastered", "title_id": "01000750246F0000", "metacritic": null},
-  {"title": "Marvel Cosmic Invasion + 2 DLC", "title_id": "010059D020C26000", "metacritic": 81.0},
-  {"title": "Steins Gate Re Boot (Reboot)", "title_id": "01008BC024FDE000", "metacritic": null},
-  {"title": "Tanuki Pon's Summer", "title_id": "0100AC602974E000", "metacritic": null},
-  {"title": "Warhammer Survivors", "title_id": "0100CAA026246000", "metacritic": null}
+  {"title": "Cyanotype Daydream - The Girl Who's Called the World (Hakuchuumu no Aojashin / 白昼夢の青写真)", "title_id": "01003B0018BC8000", "metacritic": 82.0}
 ]
