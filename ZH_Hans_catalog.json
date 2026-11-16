@@ -1,5 +1,67 @@
 [
     {
+        "title": "LEGO Batman the Videogame [NRO][RUS]",
+        "size": "5.98 GB",
+        "magnet": "magnet:?xt=urn:btih:DF7468F241B0050047A76348C2B3302E193A10F8&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6938824",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6938824",
+        "year": "2008",
+        "genre": "Action, Adventure, Beatemup, Homebrew",
+        "developer": "Traveller's Tales, Warner Bros. Interactive Entertainment",
+        "publisher": "surblazer",
+        "image_format": "NRO",
+        "interface_lang": "俄语 [RUS], lyubitelskiy",
+        "voice_lang": "无语音",
+        "performance": "是 (在 23.0.1, Atmosphere 1.12.2)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6938824.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1116/78/729b7ab72b0d095a9053280155008178.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/bc/6d8e568e63301ae0572ca7db2e0505bc.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/35/902aeb17a3a163f350402d36b7501b35.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/49/5518a1a2269ea939d69632d1b858ea49.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/3d/64babdadf6c217d540dc4cc0f45e7d3d.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/6c/ba08b06e497f0b8c0623f83b069e646c.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/73/e5526c3d7757d29fa0a8505640a5ad73.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/78/f8a30a0cc15c86c1ac0d724e8c7f6778.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/2f/5bf149ab3aac23003b6bff4d3c51bd2f.jpeg"
+        ],
+        "description": "当阿卡姆的所有恶棍联合起来并挣脱束缚时，只有无所畏惧的二人组有足够的勇气拯救哥谭市。乐高的乐趣、蝙蝠侠的故事情节以及这种组合的纯粹本质在乐高蝙蝠侠：电子游戏中创造了有趣而令人兴奋的冒险。\n扮演蝙蝠侠和他的助手罗宾。在哥谭市建造、管理和战斗，并捕获逃脱的恶棍，如小丑、企鹅和稻草人。\n从不同的角度审视历史，扮演蝙蝠侠的敌人！享受你所拥有的力量，对抗蝙蝠侠并给城市造成严重破坏。正义（和邪恶！）没有时间休息……更多 Switch 上的乐高游戏。",
+        "title_id": null,
+        "version": "0.1.1"
+    },
+    {
+        "title": "The Sims 3 (自制程序) [NRO][ENG]",
+        "size": "3.84 GB",
+        "magnet": "magnet:?xt=urn:btih:963B2A54893D8DCDE04370093F91D6083644C706&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6938765",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6938765",
+        "year": "2010",
+        "genre": "Simulator, Homebrew",
+        "developer": "Maxis, Electronic Arts",
+        "publisher": "Zumoly",
+        "image_format": "NRO",
+        "interface_lang": "英语 [ENG]",
+        "voice_lang": "simlish",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6938765.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1116/cb/dfc835b3768bfc0c1cc167a70817dbcb.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/19/002202c7086b00839075e1ca2c4eb119.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/0a/c0a89f2ea8354f55c008275f4663200a.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/55/9228a9ff77ab4bb50686a3813b968f55.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/65/181289abe2665c27dd1b3db9fbb42d65.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/c3/f1e486258d82f99cc2d997ed5ec8bcc3.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/a7/41f42669acaae13d80611d66529f90a7.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/f7/41b1316f3ba4a785417d5286e7fa0df7.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/8c/99ae150ddcd1e653d729ce2798f55c8c.jpeg"
+        ],
+        "description": "该游戏是一款生活模拟器，玩家必须管理一个或多个角色的虚拟生活，满足他对睡眠、食物的基本需求，与其他角色交流，去工作并实现他的梦想。尽管该模拟器与 PC 版《模拟人生 3》基于相同的游戏引擎构建，但游戏玩法已重新设计，重点关注策略、任务和成就。特别是，游戏中引入了业力系统。\n在开发过程中，创作者希望尽可能为主机版《模拟人生 3》提供原版 PC 版的所有优点，但为了优化，在访问区域时在游戏中引入了加载菜单。尤其是主机版本，这些歌曲由 3OH!3、Flow Rida、School of Seven Bells、Jessica Mauboy、Deadmouse、Cody Simpson 等音乐家用 Simlish 重新录制。\n该游戏在 Xbox 360 上的平均得分为 76 分（满分 100 分）。评论家称赞游戏引入了业力机制，评论家指出游戏的控制很困难，但随着时间的推移可以掌握。",
+        "title_id": null,
+        "version": "0.1.0"
+    },
+    {
         "title": "Hard Corps Uprising (自制程序) [NRO][ENG]",
         "size": "402.8 MB",
         "magnet": "magnet:?xt=urn:btih:E00B94A32595EA6632EE44D72CAEA1C88CE43CD0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -31,7 +93,7 @@
         "version": "0.310"
     },
     {
-        "title": "Barbie Rewind [XCI][ENG]",
+        "title": "Barbie Rewind (16 款游戏) [XCI][ENG]",
         "size": "7.6 GB",
         "magnet": "magnet:?xt=urn:btih:0947B94A6659A5F7EFA905EEA3C964E37646AB35&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6938596",
@@ -120305,9 +120367,9 @@
         "titles": "010064B01857C000:0:"
     },
     {
-        "title": "Fuga Melodies of Steel 1-2-3 [NSZ][ENG/RUS]",
-        "size": "6.51 GB",
-        "magnet": "magnet:?xt=urn:btih:48D737632E20B169243FFD3FB16C1FB80E1BEF51&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "title": "Fuga Melodies of Steel 1-2-3 [NSZ][RUS/ENG]",
+        "size": "6.54 GB",
+        "magnet": "magnet:?xt=urn:btih:03E06E00123EC4CB5503C4BA7C3974CF631AB4BB&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6089371",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6089371",
         "year": "2021, 7月",
@@ -120321,21 +120383,18 @@
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6089371.jpg",
         "screenshots": [
-            "https://i116.fastpic.org/thumb/2022/0324/09/00d8dde6282cee04cd996101b4ba2f09.jpeg",
-            "https://i116.fastpic.org/thumb/2022/0324/08/87fa17e4b091ddae02f64d865a9bfe08.jpeg",
-            "https://i116.fastpic.org/thumb/2022/0324/3d/27d42268fba7f3fec43e17ebd5b0073d.jpeg",
-            "https://i115.fastpic.org/thumb/2021/0801/6f/d20f1f78dbbd40933f8ef2585c99036f.jpeg",
-            "https://i115.fastpic.org/thumb/2021/0801/5c/ca7808b6ddd31fc59729480d5e1e1a5c.jpeg",
-            "https://i115.fastpic.org/thumb/2021/0801/58/fb554ea63ca283f303cfde620e3ba758.jpeg",
-            "https://i115.fastpic.org/thumb/2021/0801/47/a5fe9c81070afc1806f71a871bbbb447.jpeg",
-            "https://i115.fastpic.org/thumb/2021/0801/d8/6d3042829eb3e57747ceb5416f7f20d8.jpeg",
-            "https://i115.fastpic.org/thumb/2021/0801/bd/bf0ab9521cfe15e3ffe93b122ed79fbd.jpeg"
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/368faa54e4b04adce0fe453ed473f7c0f65928dfc9a3801e0c688670ea8de5e2.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/2963c7d1c817cfdbd6801053a6370f2bfbb065ec6910c6d86c81f4d58d19dc25.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/265a8b79b4ce55d2dbe58c3feb5548ada90466f31587c3770812be9c100b09ca.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/8d3b0495223378b7d3641822f6c652c2591199dc833f4a7594df8ef616e2b7ce.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/734bcd10157b0880beb1633e17630a70af3efda4967f55980450ab7dca67c1d0.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/b47cd68a1ca97a68a2c7627dc7de096e3af96890142b0dace89a4cd68905140b.jpg&output=jpg"
         ],
-        "description": "V rokovuyu noch odna mirnaya derevushka byla broshena v plamya voyny. Reshiv spasti svoi semi, gruppa podrostkov saditsya v gigantskiy tank i nachinaet nastupatelnuyu ataku: my dolzhny borotsya vo chto by to ni stalo! Ved esli ne my, ne budet vsekh, kogo my lyubim!\nFuga: Melodies of Steel -- dramaticheskaya rolevaya takticheskaya igra, illyustriruyushchaya silu nadezhdy i otchayaniya, v kotoroy vy upravlyaete poslednimi vyzhivshimi detmi, kazhdyy iz kotorykh -- so svoimi sobstvennymi kharakterom i navykami v raznykh orudiynykh bashnyakh tanka, chtoby srazitsya so zlobnym vragom!",
-        "title_id": "01003F501907B000",
+        "description": "所有的“絕望”所包含的意義即將全部揭曉……\n\n馬爾托突然失蹤了！孩子們被神秘的聲音所吸引，前往了禁忌的洞窟，卻在那裡發現了本應被丟棄在雲海中的塔拉尼斯。\n\n為了營救馬爾托，孩子們再次乘上塔拉尼斯，潛入了貝爾曼帝國。然而，貝爾曼最強的“魔血騎士團”卻阻擋在了他們的面前！\n\n【全新的、兼具爽快感與戰術性的戰鬥系統！】\n\n戰鬥系統發生了重大的變化！針對弱點屬性的連續攻擊會被判定為“弱點連擊”，可以不斷疊加傷害；“輔助攻擊”則可以讓前作中的敵人和傳說中的戰士一起加入戰鬥。\n\n【塔拉尼斯育成要素得到大幅度提升的中場休息任務！】\n\n塔拉尼斯終於可以進化成最終形態了！使用Ω終端，解鎖塔拉尼斯的潛在能力，學習豐富多樣的“塔拉尼斯技能”，便可助力塔拉尼斯的進化！\n\n【戰略要素得到進一步增加的路線行進和事件戰鬥！】\n\n行進路線中充滿了諸如，可以釋放塔拉尼斯潛在能力的能量點，以及可以與輔助角色交流的輔助通信等新要素！\n\n此外，利用虛空界面中的事件年表，還可以解鎖更多的隱藏事件！\n\n《戰場的賦格曲3》是一款充滿極限選擇與決斷的RPG，玩家將在絕望、憤怒與悲傷的盡頭迎來系列史上最大的衝擊與感動！！\n\n※《戰場的賦格曲3》不需要前作的遊玩經驗。沒有遊玩過《戰場的賦格曲》系列的玩家也可以享受本作。",
+        "title_id": "0100C6D0205D6000",
         "version": "1.1.8",
         "update_version": 1179648,
-        "titles": "0100C6D0205D6000:262144:;01000130120EE000:1179648:;01003F501907A000:983040:"
+        "titles": "0100C6D0205D6000:458752:;01000130120EE000:1179648:;01003F501907A000:983040:"
     },
     {
         "title": "Warriors of the Nile 2 [NSZ][ENG]",

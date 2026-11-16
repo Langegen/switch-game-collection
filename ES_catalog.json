@@ -1,5 +1,67 @@
 [
     {
+        "title": "LEGO Batman the Videogame [NRO][RUS]",
+        "size": "5.98 GB",
+        "magnet": "magnet:?xt=urn:btih:DF7468F241B0050047A76348C2B3302E193A10F8&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6938824",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6938824",
+        "year": "2008",
+        "genre": "Action, Adventure, Beatemup, Homebrew",
+        "developer": "Traveller's Tales, Warner Bros. Interactive Entertainment",
+        "publisher": "surblazer",
+        "image_format": "NRO",
+        "interface_lang": "Ruso [RUS], lyubitelskiy",
+        "voice_lang": "Sin voces",
+        "performance": "Sí (en 23.0.1, Atmosphere 1.12.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6938824.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1116/78/729b7ab72b0d095a9053280155008178.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/bc/6d8e568e63301ae0572ca7db2e0505bc.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/35/902aeb17a3a163f350402d36b7501b35.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/49/5518a1a2269ea939d69632d1b858ea49.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/3d/64babdadf6c217d540dc4cc0f45e7d3d.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/6c/ba08b06e497f0b8c0623f83b069e646c.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/73/e5526c3d7757d29fa0a8505640a5ad73.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/78/f8a30a0cc15c86c1ac0d724e8c7f6778.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/2f/5bf149ab3aac23003b6bff4d3c51bd2f.jpeg"
+        ],
+        "description": "Cuando todos los villanos de Arkham se unen y se liberan, sólo un dúo intrépido es lo suficientemente valiente como para salvar Gotham City. La diversión de LEGO, la historia de Batman y la pura naturaleza de esta combinación crean una aventura divertida y emocionante en LEGO Batman: El Videojuego.\nJuega como Batman y su asistente Robin. Construye, gestiona y ábrete camino a través de Gotham y captura a villanos fugitivos como el Joker, el Pingüino y el Espantapájaros.\n¡Mira la historia desde una perspectiva diferente y juega como los enemigos de Batman! Disfruta del poder que tienes, lucha contra Batman y causa estragos en la ciudad. No hay tiempo para que el bien (¡y el mal!) descansen... Más juegos de LEGO en Switch.",
+        "title_id": null,
+        "version": "0.1.1"
+    },
+    {
+        "title": "The Sims 3 (homebrew) [NRO][ENG]",
+        "size": "3.84 GB",
+        "magnet": "magnet:?xt=urn:btih:963B2A54893D8DCDE04370093F91D6083644C706&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6938765",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6938765",
+        "year": "2010",
+        "genre": "Simulator, Homebrew",
+        "developer": "Maxis, Electronic Arts",
+        "publisher": "Zumoly",
+        "image_format": "NRO",
+        "interface_lang": "Inglés [ENG]",
+        "voice_lang": "simlish",
+        "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6938765.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1116/cb/dfc835b3768bfc0c1cc167a70817dbcb.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/19/002202c7086b00839075e1ca2c4eb119.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/0a/c0a89f2ea8354f55c008275f4663200a.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/55/9228a9ff77ab4bb50686a3813b968f55.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/65/181289abe2665c27dd1b3db9fbb42d65.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/c3/f1e486258d82f99cc2d997ed5ec8bcc3.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/a7/41f42669acaae13d80611d66529f90a7.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/f7/41b1316f3ba4a785417d5286e7fa0df7.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/8c/99ae150ddcd1e653d729ce2798f55c8c.jpeg"
+        ],
+        "description": "El juego es un simulador de vida donde el jugador debe gestionar la vida virtual de uno o más personajes, satisfacer sus necesidades básicas de sueño, comida, comunicarse con otros personajes, ir a trabajar y hacer realidad sus sueños. Aunque el simulador se basa en el mismo motor de juego que Los Sims 3 para PC, la jugabilidad ha sido rediseñada para centrarse en la estrategia, las misiones y los logros. En particular, se introdujo un sistema de karma en el juego.\nDurante el desarrollo, los creadores quisieron darle a Los Sims 3 para consolas, si es posible, todas las ventajas del original para PC, sin embargo, para optimizarlo, se introdujo un menú de carga en el juego al visitar áreas. Especialmente para la versión de consola, las canciones fueron regrabadas en simlish por músicos como 3OH!3, Flow Rida, School of Seven Bells, Jessica Mauboy, Deadmouse, Cody Simpson y otros.\nLa puntuación promedio del juego para Xbox 360 es 76 sobre 100. Los críticos elogiaron el juego por introducir la mecánica del karma y los críticos señalaron que los controles del juego son difíciles pero se pueden dominar con el tiempo.",
+        "title_id": null,
+        "version": "0.1.0"
+    },
+    {
         "title": "Hard Corps Uprising (homebrew) [NRO][ENG]",
         "size": "402.8 MB",
         "magnet": "magnet:?xt=urn:btih:E00B94A32595EA6632EE44D72CAEA1C88CE43CD0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -31,7 +93,7 @@
         "version": "0.310"
     },
     {
-        "title": "Barbie Rewind [XCI][ENG]",
+        "title": "Barbie Rewind (16 juegos) [XCI][ENG]",
         "size": "7.6 GB",
         "magnet": "magnet:?xt=urn:btih:0947B94A6659A5F7EFA905EEA3C964E37646AB35&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6938596",
@@ -120557,9 +120619,9 @@
         "titles": "010064B01857C000:0:"
     },
     {
-        "title": "Fuga Melodies of Steel 1-2-3 [NSZ][ENG/RUS]",
-        "size": "6.51 GB",
-        "magnet": "magnet:?xt=urn:btih:48D737632E20B169243FFD3FB16C1FB80E1BEF51&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "title": "Fuga Melodies of Steel 1-2-3 [NSZ][RUS/ENG]",
+        "size": "6.54 GB",
+        "magnet": "magnet:?xt=urn:btih:03E06E00123EC4CB5503C4BA7C3974CF631AB4BB&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6089371",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6089371",
         "year": "2021, julio",
@@ -120573,21 +120635,18 @@
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6089371.jpg",
         "screenshots": [
-            "https://i116.fastpic.org/thumb/2022/0324/09/00d8dde6282cee04cd996101b4ba2f09.jpeg",
-            "https://i116.fastpic.org/thumb/2022/0324/08/87fa17e4b091ddae02f64d865a9bfe08.jpeg",
-            "https://i116.fastpic.org/thumb/2022/0324/3d/27d42268fba7f3fec43e17ebd5b0073d.jpeg",
-            "https://i115.fastpic.org/thumb/2021/0801/6f/d20f1f78dbbd40933f8ef2585c99036f.jpeg",
-            "https://i115.fastpic.org/thumb/2021/0801/5c/ca7808b6ddd31fc59729480d5e1e1a5c.jpeg",
-            "https://i115.fastpic.org/thumb/2021/0801/58/fb554ea63ca283f303cfde620e3ba758.jpeg",
-            "https://i115.fastpic.org/thumb/2021/0801/47/a5fe9c81070afc1806f71a871bbbb447.jpeg",
-            "https://i115.fastpic.org/thumb/2021/0801/d8/6d3042829eb3e57747ceb5416f7f20d8.jpeg",
-            "https://i115.fastpic.org/thumb/2021/0801/bd/bf0ab9521cfe15e3ffe93b122ed79fbd.jpeg"
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/0be8d6246596ab7a85a3d4593e9d25a023f363fdf009fe1c66bfaaeae8aef4ac.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/87d5538388e353294d035f6a846f2d006877c317d4e9670d0a010fad96497209.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/c0939cbe42bd87e5167032f4edec14cf929762ab3f2036ee9816c5924e1ed6c0.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/8f56ef910fa11070130167fdd4bb08c01f4ea65985bfe78a56f3c1d6beea5fa2.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/e270632a0ae0e60b7a00c001dd2db4c7bad92a87c5ba6353a400acf7a107c918.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/986fb87573dc83813bb2de01cff52eb9f41b74c4dfd1b5989eac36b569cc9138.jpg&output=jpg"
         ],
-        "description": "V rokovuyu noch odna mirnaya derevushka byla broshena v plamya voyny. Reshiv spasti svoi semi, gruppa podrostkov saditsya v gigantskiy tank i nachinaet nastupatelnuyu ataku: my dolzhny borotsya vo chto by to ni stalo! Ved esli ne my, ne budet vsekh, kogo my lyubim!\nFuga: Melodies of Steel -- dramaticheskaya rolevaya takticheskaya igra, illyustriruyushchaya silu nadezhdy i otchayaniya, v kotoroy vy upravlyaete poslednimi vyzhivshimi detmi, kazhdyy iz kotorykh -- so svoimi sobstvennymi kharakterom i navykami v raznykh orudiynykh bashnyakh tanka, chtoby srazitsya so zlobnym vragom!",
-        "title_id": "01003F501907B000",
+        "description": "¡Se desvela por fin el significado de toda la «desesperación»!\n\nTras la repentina desaparición de Malt, los niños, siguiendo una voz misteriosa, se adentran en una cueva prohibida donde descubren Taranis, que creían perdido en el mar de nubes.\nDispuestos a rescatar a Malt, los niños vuelven a montar en Taranis y se infiltran en el Imperio Berman. ¡Allí tendrán que enfrentarse a los temibles Caballeros de Sangre Maldita de Berman!\n\n¡Un nuevo sistema de batalla que combina emoción y táctica!\n¡Los combates cambiaron drásticamente con mecánicas como el Combo de Debilidades, que incrementa el daño al encadenar ataques consecutivos en los puntos débiles, o el Ataque de Asistencia, donde enemigos de pasadas entregas y figuras legendarias se unen al combate!\n\n¡Intermedios con un gran incremento en las opciones de desarrollo de Taranis!\nTaranis evoluciona a su forma final. Con el Terminal Ω, ahora es posible desbloquear sus habilidades latentes, lo que permite aprender diversas Habilidades Taranis.\n \n¡Progreso de rutas y batallas de eventos con aún más elementos estratégicos!\nEn las rutas, te aguardan nuevas e interesantes características como los Puntos de Poder, donde podrás desbloquear el potencial latente de Taranis, y la Comunicación de Asistencia, que te permitirá interactuar con personajes de apoyo para fortalecer tus estrategias.\nAdemás, el panel de eventos Akasha te brinda la posibilidad de descubrir y desbloquear una gran cantidad de eventos ocultos, enriqueciendo aún más la experiencia del juego. \n\nFuga: Melodies of Steel 3 te sumerge en un RPG donde cada elección crucial pondrá a prueba tus límites, y te llevará a través de un viaje lleno de desesperación, ira y tristeza, hasta un final cargado con el mayor impacto y emoción de toda la serie.\n\n*No es necesario haber jugado las entregas anteriores para disfrutar de Fuga: Melodies of Steel 3, ya que su narrativa y mecánicas están diseñadas para ser disfrutadas de manera independiente.",
+        "title_id": "0100C6D0205D6000",
         "version": "1.1.8",
         "update_version": 1179648,
-        "titles": "0100C6D0205D6000:262144:;01000130120EE000:1179648:;01003F501907A000:983040:"
+        "titles": "0100C6D0205D6000:458752:;01000130120EE000:1179648:;01003F501907A000:983040:"
     },
     {
         "title": "Warriors of the Nile 2 [NSZ][ENG]",
