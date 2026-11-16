@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-16T06:33:01Z",
+ "generated": "2026-11-16T22:05:42Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -3423,30 +3423,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "name": "Nexvyn-OS-NX",
-   "title": "Nexvyn OS",
-   "author": "sonerx7",
-   "version": "1.3.19",
-   "category": "game",
-   "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
-   "changelog": "**What's new in 1.3.19**\n- Browser: pages that use `style.setProperty` no longer stall (a heavy page script went from 8.4 s to 0.36 s); timers, animation frames and network callbacks are no longer cut off mid-run, so WebAssembly games start; iframe `postMessage` replies arrive; HLS video plays through hls.js, also inside an iframe; `CompressionStream` works; a shared DNS cache with short negative caching; bot-check pages show a clear notice (never bypassed).\n- Browser responsiveness: a page whose callbacks keep running long is moved to a strict time budget, so the system stays smooth.\n- Nexvyn Studio: a new project wizard asks what you want to build and picks the language; one-key Check (manifest, languages, design rules, script syntax) with clickable results; Install and Run; Publish builds a ready App Market submission package, even offline.\n- Game Engine is also available as an App Market module; the built-in copy stays and remains the default.\n- Native C/C++ UI kit: `nxn_os_frame_begin` sets scale, fonts and spacing in one place, so native apps look like Lua, JavaScript and Python apps at every size; the design checker and `nxv check` flag raw widgets, fixed pixel sizes and font scaling.\n- System: the \"system under heavy load\" warning only appears under real CPU, memory or GPU pressure together with sustained stutter; close buttons have 44 px touch areas.\n- USB storage: plugging in a drive shows a notice; when a device is seen but no volume opens, a one-time notice explains it; the system log lists every USB device the console reports, to diagnose hubs.\n- Setup: all languages fit on one screen.\n\n**Kurulum / Install:** `NexvynOS.nro` dosyasını `sdmc:/switch/` klasörüne kopyalayın. Mevcut kurulumlar Ayarlar > Yazılım Güncelleme ile güncellenir.",
-   "url": "https://github.com/sonerx7/nexvyn-os-nx",
-   "repo": "sonerx7/nexvyn-os-nx",
-   "updated": "2026-11-16",
-   "download_url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/download/v1.3.19/NexvynOS.nro",
-   "download_type": "file",
-   "sha256": "86224efb59233c80ee5c0724d28de03d6f1c88f1538370983d752c537023a7ab",
-   "filesize": 82970573,
-   "extracted": 82970573,
-   "files": [
-    "U: switch/Nexvyn-OS-NX/Nexvyn-OS-NX.nro"
-   ],
-   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Nexvyn-OS-NX.jpg",
-   "license": "GPL-3.0",
-   "auto": true,
-   "first_seen": "2026-11-09"
-  },
-  {
    "name": "notes",
    "title": "Notes",
    "author": "Such Meme, Many Skill",
@@ -3821,6 +3797,30 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/reset-parental-controls-nx.jpg",
    "auto": true,
    "first_seen": "2026-11-11"
+  },
+  {
+   "name": "RESIDENT-CODE-VERONICA-NX-PORT",
+   "title": "Code: Veronica X",
+   "author": "RECOMP-GUTO",
+   "version": "1.1-nx",
+   "category": "game",
+   "description": "Resident Evil Code: Veronica X (PS2) running natively on Nintendo Switch — ARM64, OpenGL 3.3, gyro aiming, L3+R3 quick menu with cheats. No game files included.",
+   "changelog": "Bug-fix update for the Nintendo Switch port of *Resident Evil Code: Veronica X*, from testing on real hardware.\n\n> **No game data is included.** You need your own legally obtained copy of the game (PS2, NTSC-U, SLUS-20184) as an `.iso`.\n\n## Fixed\n- **Crash at the password computer:** entering a password (e.g. *1971*) closed the game on Switch. The password check read the message texts as 32-bit addresses.\n- **Teleport cheat lists every room:** 195 of the 205 rooms showed up as \"bad data\", because most are stored on the disc without the end mark. All 205 are listed now.\n- **Readable log:** the room scan and the game no longer cut into each other's lines in `recvx.log`.\n\n## New\n- Loading screen while the shaders compile at start, instead of a black screen.\n- The NRO shows author **RECOMP-GUTO** and version **1.1** in the Switch menu.\n\n## Update\nReplace `recvx.nro` in `sdmc:/switch/recvx/`. Your saves and settings are kept.\n\n## Support\n[Ko-fi](https://ko-fi.com/gerissoncassiano) · [PayPal](https://www.paypal.com/donate/?hosted_button_id=B3YTKT29F5ZLG) · PIX: `pocketneogames@gmail.com`\n\nFull changelog: [CHANGELOG.md](https://github.com/gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT/blob/main/CHANGELOG.md)",
+   "url": "https://github.com/gerisson1996/resident-code-veronica-nx-port",
+   "repo": "gerisson1996/resident-code-veronica-nx-port",
+   "updated": "2026-11-16",
+   "download_url": "https://github.com/gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT/releases/download/v1.1-nx/recvx.nro",
+   "download_type": "file",
+   "sha256": "b82c922a3c9c54c70136a7b7395ac53cf1caa718ab828e49d1a8985397871962",
+   "filesize": 12191756,
+   "extracted": 12191756,
+   "files": [
+    "U: switch/RESIDENT-CODE-VERONICA-NX-PORT/RESIDENT-CODE-VERONICA-NX-PORT.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/RESIDENT-CODE-VERONICA-NX-PORT.jpg",
+   "license": "MIT",
+   "auto": true,
+   "first_seen": "2026-11-16"
   },
   {
    "name": "shallowsea-toolbox",

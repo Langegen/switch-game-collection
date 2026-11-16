@@ -444,6 +444,21 @@
    "type": "file",
    "zip_root": ""
   },
+  "gerisson1996/resident-code-veronica-nx-port": {
+   "asset_key": "755291823:2026-11-16T15:08:06Z",
+   "extracted": 12191756,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/RESIDENT-CODE-VERONICA-NX-PORT.jpg",
+   "nacp": {
+    "author": "RECOMP-GUTO",
+    "title": "Code: Veronica X",
+    "version": "1.1"
+   },
+   "sha256": "b82c922a3c9c54c70136a7b7395ac53cf1caa718ab828e49d1a8985397871962",
+   "size": 12191756,
+   "type": "file",
+   "zip_root": ""
+  },
   "gomprime/switchiptv": {
    "asset_key": "507802660:2026-08-09T18:56:34Z",
    "extracted": 36158469,
@@ -1339,7 +1354,7 @@
   "bernardogiordano/checkpoint": {
    "description": "Fast and simple homebrew save management framework for 3DS and Switch.",
    "full_name": "BernardoGiordano/Checkpoint",
-   "stargazers_count": 3129,
+   "stargazers_count": 3132,
    "topics": [
     "3ds",
     "3ds-homebrew",
@@ -1560,6 +1575,22 @@
     "static-recompilation",
     "vulkan",
     "xbox"
+   ]
+  },
+  "gerisson1996/resident-code-veronica-nx-port": {
+   "description": "Resident Evil Code: Veronica X (PS2) running natively on Nintendo Switch — ARM64, OpenGL 3.3, gyro aiming, L3+R3 quick menu with cheats. No game files included.",
+   "full_name": "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
+   "stargazers_count": 8,
+   "topics": [
+    "code-veronica",
+    "decompilation",
+    "gyro-aiming",
+    "homebrew",
+    "nintendo-switch",
+    "nintendo-switch-homebrew",
+    "port",
+    "ps2",
+    "resident-evil"
    ]
   },
   "gomprime/switchiptv": {
@@ -1795,29 +1826,6 @@
    "stargazers_count": null,
    "topics": []
   },
-  "sonerx7/nexvyn-os-nx": {
-   "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
-   "full_name": "sonerx7/Nexvyn-OS-NX",
-   "stargazers_count": 79,
-   "topics": [
-    "app-market",
-    "atmosphere",
-    "cpython",
-    "desktop-environment",
-    "homebrew",
-    "libnx",
-    "lua",
-    "nexvyn-os",
-    "nintendo-switch",
-    "nro",
-    "os-shell",
-    "pocketpy",
-    "quickjs",
-    "sdk",
-    "switch-homebrew",
-    "window-manager"
-   ]
-  },
   "stardustcfw/haku33": {
    "description": "",
    "full_name": "stardustcfw/haku33",
@@ -1916,6 +1924,7 @@
   "etonedemid/nxpotify": "2026-11-10",
   "falki141/ftpd4sxos": "2026-11-09",
   "gerisson1996/cold-fear-nx-port": "2026-11-12",
+  "gerisson1996/resident-code-veronica-nx-port": "2026-11-16",
   "gomprime/switchiptv": "2026-11-09",
   "guyiicn/readernx": "2026-11-11",
   "hashcade/mhgu-overlay": "2026-11-09",
@@ -7292,7 +7301,7 @@
   },
   "agafak1337/tubenx": {
    "checked": "2026-11-16",
-   "pushed_at": "2026-11-15T19:18:27Z"
+   "pushed_at": "2026-11-16T19:25:39Z"
   },
   "ahmadsouri/jak-switch-port": {
    "checked": "2026-11-09",
@@ -7375,8 +7384,8 @@
    "pushed_at": "2026-08-20T09:18:32Z"
   },
   "armaatus/rommsync-nx": {
-   "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T11:00:09Z"
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T11:25:25Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -7637,8 +7646,8 @@
    "pushed_at": "2026-09-16T16:58:32Z"
   },
   "ctj01/switch2pc": {
-   "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T10:28:01Z"
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T10:42:56Z"
   },
   "curl/curl": {
    "candidate": "| [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |",
@@ -7706,8 +7715,8 @@
    "pushed_at": ""
   },
   "delfus77/nxdock": {
-   "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T09:45:04Z"
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T16:23:01Z"
   },
   "denpingus/nxcloud": {
    "candidate": "| [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |",
@@ -7952,11 +7961,6 @@
    "checked": "2026-11-09",
    "pushed_at": ""
   },
-  "gerisson1996/resident-code-veronica-nx-port": {
-   "candidate": "| [gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT](https://github.com/gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT) | 0 | v1.0-nx | 2026-11-13 | recvx.nro |",
-   "checked": "2026-11-14",
-   "pushed_at": "2026-11-13T21:08:54Z"
-  },
   "gowithme-club/switch-playtime-tracker": {
    "candidate": "| [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |",
    "checked": "2026-11-09",
@@ -8019,6 +8023,10 @@
   "hidki/n1dus": {
    "checked": "2026-11-10",
    "pushed_at": ""
+  },
+  "hjalves/padshell": {
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T21:54:25Z"
   },
   "hookedbehemoth/screen-nx": {
    "alias": "hookedbehemoth/sharenx",
@@ -8128,7 +8136,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-16",
-   "pushed_at": "2026-11-16T06:07:12Z"
+   "pushed_at": "2026-11-16T21:37:28Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8212,6 +8220,11 @@
    "checked": "2026-11-11",
    "pushed_at": ""
   },
+  "kuvwa/nx-stach": {
+   "candidate": "| [kuvwa/NX-Stach](https://github.com/kuvwa/NX-Stach) | 0 | v1.0 | 2026-11-16 | NX-Stach-1.0.zip |",
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T19:43:53Z"
+  },
   "kwsch/nhse": {
    "checked": "2026-11-09",
    "pushed_at": ""
@@ -8224,6 +8237,10 @@
    "candidate": "| [LaLemniscata/ben10-nx](https://github.com/LaLemniscata/ben10-nx) | 0 | v1.1.4 | 2026-11-06 | Ben10-NX-Installer.zip |",
    "checked": "2026-11-09",
    "pushed_at": "2026-11-06T03:13:25Z"
+  },
+  "lciarallo/horizon-nx": {
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T17:54:40Z"
   },
   "lesking72/nx-shrekmenu": {
    "candidate": "| [lesking72/nx-shrekmenu](https://github.com/lesking72/nx-shrekmenu) | ? | v3.5.0-1 | 2022-05-02 | nx-hbmenu.nro, nx-shrekmenu.nro |",
@@ -8260,6 +8277,11 @@
    "candidate": "| [lozp1/07z](https://github.com/lozp1/07z) | 0 | v1.0.2 | 2026-10-13 | 07z-base-interfaz.zip, 07z-completo.zip, 07z-instalador.nsp, autorun-loader-ams1.11.2-5388824b.kip, autorun-loader-ams1. |",
    "checked": "2026-11-09",
    "pushed_at": "2026-11-01T02:05:30Z"
+  },
+  "lswtcs-nx/lswtcs-nx": {
+   "candidate": "| [lswtcs-nx/lswtcs-nx](https://github.com/lswtcs-nx/lswtcs-nx) | 1 | v0.2.0 | 2026-11-16 | lswtcs-v0.2.0.zip, lswtcs.nro, SHA256SUMS.txt |",
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T20:38:49Z"
   },
   "m4l3vich/vkpcnx": {
    "candidate": "| [m4l3vich/vkpcnx](https://github.com/m4l3vich/vkpcnx) | 2 | v1.1.0 | 2026-10-15 | vkpcnx-debug.nro, vkpcnx-switch-debug-symbols.zip, vkpcnx-switch-symbols.zip, vkpcnx.nro |",
@@ -8352,11 +8374,11 @@
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-16",
-   "pushed_at": "2026-11-16T01:45:46Z"
+   "pushed_at": "2026-11-16T20:13:23Z"
   },
   "mohit2096/yuzu-emulator-toolkit": {
    "checked": "2026-11-16",
-   "pushed_at": "2026-11-16T01:31:27Z"
+   "pushed_at": "2026-11-16T19:10:18Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-10",
@@ -8375,6 +8397,11 @@
    "candidate": "| [mrdude2478/tinwoo-release](https://github.com/mrdude2478/tinwoo-release) | ? | 1.0.28 | 2024-08-21 | Tinwoo-Installer.zip |",
    "checked": "2026-11-12",
    "pushed_at": ""
+  },
+  "muratkrdl/systoggle": {
+   "candidate": "| [muratkrdl/SysToggle](https://github.com/muratkrdl/SysToggle) | 0 | v1.0.0 | 2026-11-15 | SysToggle.nro |",
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-15T21:09:48Z"
   },
   "n3evin/amiiboapi": {
    "checked": "2026-11-09",
@@ -8580,7 +8607,7 @@
   },
   "prowahaj13/yuzu-emulator-tutorial": {
    "checked": "2026-11-16",
-   "pushed_at": "2026-11-16T01:34:34Z"
+   "pushed_at": "2026-11-16T19:29:43Z"
   },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
@@ -8739,8 +8766,8 @@
    "pushed_at": ""
   },
   "schuler-ph/nsmbw-switch": {
-   "checked": "2026-11-13",
-   "pushed_at": "2026-11-13T14:09:26Z"
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T18:21:08Z"
   },
   "sciresm/hactool": {
    "candidate": "| [sciresm/hactool](https://github.com/sciresm/hactool) | ? | 1.4.0 | 2020-06-02 | hactool-1.4.0-win.zip |",
@@ -8761,9 +8788,9 @@
    "pushed_at": "2026-11-15T05:52:57Z"
   },
   "sec-123/roomcircuit_lanywhere-selfhost": {
-   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 1 | v0.8.9 | 2026-11-16 | SHA256SUMS.txt, switch-online-0.8.9-hats.zip, switch-online-0.8.9-sd.zip, switch-online-0.8.9-sdk-sources.tar, switch-on |",
+   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 1 | v0.9.1 | 2026-11-16 | SHA256SUMS.txt, switch-online-0.9.1-hats.zip, switch-online-0.9.1-sd.zip, switch-online-0.9.1-sdk-sources.tar, switch-on |",
    "checked": "2026-11-16",
-   "pushed_at": "2026-11-16T06:30:00Z"
+   "pushed_at": "2026-11-16T10:28:26Z"
   },
   "simplysabir/nrodoc": {
    "checked": "2026-11-09",
@@ -8782,6 +8809,11 @@
    "checked": "2026-11-09",
    "pushed_at": "2025-12-25T01:17:48Z"
   },
+  "sonerx7/nexvyn-os-nx": {
+   "candidate": "| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 79 | v1.3.26 | 2026-11-16 | NexvynOS.nro, NexvynSDK-1.3.26.zip, SHA256SUMS.txt |",
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T19:18:40Z"
+  },
   "spacecraft-nx/firmware": {
    "candidate": "| [spacecraft-nx/firmware](https://github.com/spacecraft-nx/firmware) | ? | 0.2.0 | 2021-10-14 | release_0.2.0.zip |",
    "checked": "2026-11-11",
@@ -8793,9 +8825,9 @@
    "pushed_at": ""
   },
   "spin0zai/nup-extractor": {
-   "candidate": "| [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 23 | v1.0.9 | 2026-11-05 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-11-05T20:37:44Z"
+   "candidate": "| [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 61 | v1.0.10 | 2026-11-16 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |",
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T17:12:12Z"
   },
   "spx01/switch-nfp-mitm": {
    "checked": "2026-11-09",
@@ -8984,15 +9016,20 @@
    "checked": "2026-11-10",
    "pushed_at": ""
   },
+  "ultra-nx/ultranx": {
+   "candidate": "| [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX) | 845 | 3.1-R3 | 2026-11-11 | Ultra.zip |",
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-12T17:54:59Z"
+  },
   "underwateroverground/tailscale-nx": {
-   "candidate": "| [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 80 | v1.3.0 | 2026-11-09 | tailscale-nx-1.3.0.zip |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-11-09T14:02:01Z"
+   "candidate": "| [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 84 | v1.3.1 | 2026-11-16 | tailscale-nx-1.3.1.zip |",
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T17:42:44Z"
   },
   "underwateroverground/wireguard-nx": {
-   "candidate": "| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 11 | v1.1.0 | 2026-11-08 | wireguard-nx-1.1.0.zip |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-11-08T14:06:11Z"
+   "candidate": "| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 13 | v1.1.1 | 2026-11-16 | wireguard-nx-1.1.1.zip |",
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T18:23:14Z"
   },
   "unitendo/aurorachat": {
    "checked": "2026-11-09",
@@ -9007,9 +9044,13 @@
    "checked": "2026-11-10",
    "pushed_at": ""
   },
+  "vibeporter/dunwall": {
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T06:16:57Z"
+  },
   "vibeporter/lazarus": {
-   "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T18:01:55Z"
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T15:10:37Z"
   },
   "viggoeklund/robdevhomebrew": {
    "checked": "2026-11-09",

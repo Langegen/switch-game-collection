@@ -50,8 +50,8 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 1 | v0.8.9 | 2026-11-16 | SHA256SUMS.txt, switch-online-0.8.9-hats.zip, switch-online-0.8.9-sd.zip, switch-online-0.8.9-sdk-sources.tar, switch-on |
-| [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 23 | v1.0.9 | 2026-11-05 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
+| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 1 | v0.9.1 | 2026-11-16 | SHA256SUMS.txt, switch-online-0.9.1-hats.zip, switch-online-0.9.1-sd.zip, switch-online-0.9.1-sdk-sources.tar, switch-on |
+| [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 61 | v1.0.10 | 2026-11-16 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 3.0.0 | 2025-11-30 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
 | [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 6 | v1.0.26 | 2026-10-22 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |
@@ -59,8 +59,9 @@
 | [Team-Failure/TF-OS](https://github.com/Team-Failure/TF-OS) | 6 | 3.6 | 2026-03-15 | TF_OS_3.6.zip |
 | [Tobias103435/mkwii-switch-builder](https://github.com/Tobias103435/mkwii-switch-builder) | 1 | v1 | 2026-11-03 | MarioKartWii-Switch-builder.zip, mkw-render-deko3d-13abc3bc-f8c9eef0-20261102.tar.xz, mkw-render-deko3d-13abc3bc-f8c9eef |
 | [Trinalord777/DK64Recomp-NX](https://github.com/Trinalord777/DK64Recomp-NX) | 7 | v1.1.2 | 2026-10-11 | DK64Recomp-NX-v1.1.2.zip |
-| [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 80 | v1.3.0 | 2026-11-09 | tailscale-nx-1.3.0.zip |
-| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 11 | v1.1.0 | 2026-11-08 | wireguard-nx-1.1.0.zip |
+| [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX) | 845 | 3.1-R3 | 2026-11-11 | Ultra.zip |
+| [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 84 | v1.3.1 | 2026-11-16 | tailscale-nx-1.3.1.zip |
+| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 13 | v1.1.1 | 2026-11-16 | wireguard-nx-1.1.1.zip |
 | [VelizarSeleznev/switch-quick-settings](https://github.com/VelizarSeleznev/switch-quick-settings) | 0 | v1.0.0 | 2026-10-25 | quick-settings-1.0.0.zip, quick-settings-demo.mp4 |
 | [Yirr777/PartyBoard-NX](https://github.com/Yirr777/PartyBoard-NX) | 1 | v0.2.0-preview | 2026-11-07 | PartyBoard-forwarder.nsp, partyboard-switch.zip, SHA256SUMS |
 | [aarvsn/gta3-nx](https://github.com/aarvsn/gta3-nx) | 1 | v1.0.0 | 2026-07-31 | gta3-nx.nacp, gta3-nx.nro |
@@ -108,7 +109,6 @@
 | [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) | ? | v2.3.2 | 2023-03-23 | appstore.nro, appstore.rpx, appstore.wuhb, switch-extracttosd.zip, wiiu-extracttosd.zip |
 | [fourminute/fluffy](https://github.com/fourminute/fluffy) | ? | v2.9 | 2019-05-26 | fluffy.exe, fluffy.pyw, Goldleaf.nro, LICENSE.txt, Tinfoil.nro |
 | [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |
-| [gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT](https://github.com/gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT) | 0 | v1.0-nx | 2026-11-13 | recvx.nro |
 | [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |
 | [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |
 | [hamhub7/pause-nx](https://github.com/hamhub7/pause-nx) | ? | 1.2 | 2019-09-11 | PAUSE-nx.v1.2.zip |
@@ -126,10 +126,12 @@
 | [jinghaihan/feth-overlay](https://github.com/jinghaihan/feth-overlay) | 0 | v0.4.1 | 2026-10-15 | feth-overlay.ovl |
 | [jorgebelmar/switch-zcci-compressor](https://github.com/jorgebelmar/switch-zcci-compressor) | 0 | v1.1.4 | 2026-07-23 | 3ds_to_zcci_compressor_v1.1.4.nro |
 | [jshsakura/oc-cookingfoil-client](https://github.com/jshsakura/oc-cookingfoil-client) | 0 | v0.5.1 | 2026-10-24 | cookingfoil-v0.5.1.zip, cookingfoil.nro |
+| [kuvwa/NX-Stach](https://github.com/kuvwa/NX-Stach) | 0 | v1.0 | 2026-11-16 | NX-Stach-1.0.zip |
 | [lesking72/nx-shrekmenu](https://github.com/lesking72/nx-shrekmenu) | ? | v3.5.0-1 | 2022-05-02 | nx-hbmenu.nro, nx-shrekmenu.nro |
 | [libsdl-org/sdl](https://github.com/libsdl-org/sdl) | ? | release-3.4.20 | 2026-11-03 | SDL3-3.4.20-win32-arm64.zip, SDL3-3.4.20-win32-x64.zip, SDL3-3.4.20-win32-x86.zip, SDL3-3.4.20.dmg, SDL3-3.4.20.tar.gz,  |
 | [lord-akkrand/skyrim-nx-toolkit](https://github.com/lord-akkrand/skyrim-nx-toolkit) | ? | v2.7.0 | 2019-11-10 | Skyrim-NX-Toolkit.v2.7.0.zip |
 | [lozp1/07z](https://github.com/lozp1/07z) | 0 | v1.0.2 | 2026-10-13 | 07z-base-interfaz.zip, 07z-completo.zip, 07z-instalador.nsp, autorun-loader-ams1.11.2-5388824b.kip, autorun-loader-ams1. |
+| [lswtcs-nx/lswtcs-nx](https://github.com/lswtcs-nx/lswtcs-nx) | 1 | v0.2.0 | 2026-11-16 | lswtcs-v0.2.0.zip, lswtcs.nro, SHA256SUMS.txt |
 | [m4l3vich/vkpcnx](https://github.com/m4l3vich/vkpcnx) | 2 | v1.1.0 | 2026-10-15 | vkpcnx-debug.nro, vkpcnx-switch-debug-symbols.zip, vkpcnx-switch-symbols.zip, vkpcnx.nro |
 | [maiaramon/cnx-installer-macos](https://github.com/maiaramon/cnx-installer-macos) | 2 | v1.4 | 2026-06-18 | CNX_Installer.app.zip |
 | [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc3 | 2026-11-14 | kodi-runtime.zip, kodi.nro |
@@ -140,6 +142,7 @@
 | [mlemiam/Vanillatmosphere](https://github.com/mlemiam/Vanillatmosphere) | 42 | 1.11.2 | 2026-10-13 | Vanillatmosphere.1.11.2.zip |
 | [morce3232/dbipatcher](https://github.com/morce3232/dbipatcher) | ? | v845 | 2025-11-28 | 824.en.nro, 828.en.nro, 831.en.nro, 839.en.nro, 842.en.nro, 844.en.nro, 845.en.nro |
 | [mrdude2478/tinwoo-release](https://github.com/mrdude2478/tinwoo-release) | ? | 1.0.28 | 2024-08-21 | Tinwoo-Installer.zip |
+| [muratkrdl/SysToggle](https://github.com/muratkrdl/SysToggle) | 0 | v1.0.0 | 2026-11-15 | SysToggle.nro |
 | [nicoboss/nsz](https://github.com/nicoboss/nsz) | ? | 5.0.0 | 2026-08-02 | nsz-cli-linux-arm64, nsz-cli-linux-x64, nsz-cli-macos-arm64, nsz-cli-windows-arm64.exe, nsz-cli-windows-x64.exe, nsz-gui |
 | [nixentric/rpynx](https://github.com/nixentric/rpynx) | 8 | v0.1.0 | 2026-10-25 | ffmpeg-7.1.tar.xz, renpy-loader.nro, renpy-runtime.nro, rpynx-importer-macos-arm64.dmg, rpynx-importer-python.zip, rpynx |
 | [nlohmann/json](https://github.com/nlohmann/json) | ? | v3.12.0 | 2025-04-11 | include.zip, include.zip.asc, json.hpp, json.hpp.asc, json.tar.xz, json.tar.xz.asc, json_fwd.hpp, json_fwd.hpp.asc |
@@ -168,6 +171,7 @@
 | [samedog/NX-Uploader](https://github.com/samedog/NX-Uploader) | 0 | 2.5.0 | 2026-10-05 | NXUploader.nro |
 | [samedog/NX-trex](https://github.com/samedog/NX-trex) | 0 | 2.0.0 | 2026-10-05 | NX-trex.nro |
 | [sciresm/hactool](https://github.com/sciresm/hactool) | ? | 1.4.0 | 2020-06-02 | hactool-1.4.0-win.zip |
+| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 79 | v1.3.26 | 2026-11-16 | NexvynOS.nro, NexvynSDK-1.3.26.zip, SHA256SUMS.txt |
 | [spacecraft-nx/firmware](https://github.com/spacecraft-nx/firmware) | ? | 0.2.0 | 2021-10-14 | release_0.2.0.zip |
 | [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) | ? | v1.25.1 | 2026-04-08 | ldn_mitm_v1.25.1.zip |
 | [sthetix/fusecheck](https://github.com/sthetix/fusecheck) | ? | 1.0.5 | 2026-09-27 | FuseCheck-1.0.5.zip |
