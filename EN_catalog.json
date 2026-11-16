@@ -1,5 +1,63 @@
 [
     {
+        "title": "Hard Corps Uprising (homebrew) [NRO][ENG]",
+        "size": "402.8 MB",
+        "magnet": "magnet:?xt=urn:btih:E00B94A32595EA6632EE44D72CAEA1C88CE43CD0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6938650",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6938650",
+        "year": "2011",
+        "genre": "Action, Platformer, Run&Gun, Homebrew",
+        "developer": "Arc System Works",
+        "publisher": "rashevskyv",
+        "image_format": "NRO",
+        "interface_lang": "English [ENG]",
+        "voice_lang": "English",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6938650.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1115/55/acaecbe6edfc6003ad94b9aec2c12655.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1115/66/4e6b21f63920d3704031bbeeb3815e66.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1115/de/296045126b5706422f478b30447039de.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1115/e5/e756f588e827bdc9736c0308717acde5.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1115/1b/fe1e398e5fc15f8f5287f71dfff46c1b.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1115/a4/b3313a5d9bbded849fdc6ccb1d250ca4.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1115/3e/f969e8e5658ef80b19313625ff837c3e.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1115/46/ee30b1a35883757486d46360794fda46.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1115/71/220c14fe912721f6fce3cdab6c933371.jpeg"
+        ],
+        "description": "Hard Corps: Uprising takes place in the year 2613, when the entire world is under the rule of a powerful empire known as the Commonwealth, led by the power-hungry Tiberius. Ordinary residents suffer from such a dictatorship, so rebel organizations begin to appear everywhere, aiming to overthrow the sinister regime. At the head of one of these rebellious groups is Colonel Bahamut, once a soldier of the elite military unit of the empire, and now a militant oppositionist. His closest comrades in the fight are the orphaned girl Crystal, the experienced veteran Harley Daniels and the mysterious traveler Sayuri. The antagonists are the elite soldier of the imperial troops Leviathan, a former colleague of Bahamut who hated him for his betrayal; and Emperor Tiberius, the militaristic ruler of a vast state who plans to enslave all neighboring nations. An important place in the plot is also occupied by the scientist Geo Mandrake, who was developing the secret weapons of the empire and joined the rebels to protect his wife and daughter from tyranny. Characters named Bahamut and Geo Mandrake have appeared previously in Contra Hard Corps as antagonists.\nThe main artist of the project and at the same time the composer of music for the soundtrack was Daisuke Ishiwatari, previously known for the sound tracks for such games as Guilty Gear, BlazBlue: Calamity Trigger and BlazBlue: Continuum Shift. Producer Kenji Yamamoto said that they would like to make a separate series based on Hard Corps with its own setting and features.\nIt is the thirteenth part of the Contra series and specifically the prequel to the game Contra: Hard Corps.",
+        "title_id": null,
+        "version": "0.310"
+    },
+    {
+        "title": "Barbie Rewind [XCI][ENG]",
+        "size": "7.6 GB",
+        "magnet": "magnet:?xt=urn:btih:0947B94A6659A5F7EFA905EEA3C964E37646AB35&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6938596",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6938596",
+        "year": "2026",
+        "genre": "Simulator",
+        "developer": "Unknown",
+        "publisher": "Unknown",
+        "image_format": "XCI",
+        "interface_lang": "English [ENG]",
+        "voice_lang": "English",
+        "performance": "Yes (on 23.5.0, Atmosphere 1.12.2)",
+        "multiplayer": "Up to 2 players",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6938596.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1116/98/_d96584c47c89e3054c9d6b8696ce4198.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/63/_1181e6eda80b34484afe9096d9d94263.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1116/78/_e62cbdb71655fa05c5ba59f0ee501978.jpeg"
+        ],
+        "description": "Decorate your Dream House™ through different decades by playing classic Barbie games",
+        "title_id": "01002EC025E54000",
+        "version": "1.0.1",
+        "update_version": 65536,
+        "titles": "01002EC025E54000:65536:"
+    },
+    {
         "title": "Castlevania Harmony of Despair + DLC (homebrew) [NRO][ENG]",
         "size": "649.2 MB",
         "magnet": "magnet:?xt=urn:btih:8C49692A97FD597883651F8198711381370983C4&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -570,7 +628,7 @@
     {
         "title": "Dishonored (port ) [NRO][RUS/ENG]",
         "size": "7.77 GB",
-        "magnet": "magnet:?xt=urn:btih:7F147FF6644EF6EBEEC1764CD33DFFC4A4E6A169&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:BE9F748B5E17168516E8C1506D9875A70DF58DE5&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6936716",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6936716",
         "year": "2012",
@@ -596,7 +654,7 @@
         ],
         "description": "“Can you hear them, too? Crying out in the dark?..” ©\nAfter returning from a sea voyage to seek help in the fight against the plague, Corvo Attano (that's you) heads to Dunwall Tower, where he meets with Empress Jessamine Kaldwin. After transmitting the message, they are attacked by assassins led by Daud, who, having neutralized Corvo, kill the empress and kidnap her daughter. Before Jessamine dies, she asks Corvo to take care of her daughter Emily. Hiram Burroughs and other conspirators are accused of killing Corvo himself and thrown into prison. Six months later, Corvo is about to be executed, but he discovers a letter, a key and a sharp sword in his cell...\nThe setting of the entire game is the city of Dunwall, which was copied from London and Edinburgh of the late 19th and early 20th centuries. In the early stages of the game's development, the setting was London in 1666.",
         "title_id": null,
-        "version": "0.20"
+        "version": "0.50"
     },
     {
         "title": "Dead Space 3 (homebrew) [NRO][RUS]",
@@ -2646,8 +2704,8 @@
     },
     {
         "title": "Fear and Hunger (port ) [NRO][RUS/ENG]",
-        "size": "844.7 MB",
-        "magnet": "magnet:?xt=urn:btih:B1485D4C4D2A2BE22DA43B996B390B86264CBA50&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "size": "877.9 MB",
+        "magnet": "magnet:?xt=urn:btih:E94F818E522404C11E1A0CA57542EBDDA25BBBD1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6923956",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6923956",
         "year": "2018",
@@ -2671,9 +2729,9 @@
             "https://i128.fastpic.org/thumb/2026/1017/98/c3dd451bc795f8282839978fbb4fc998.jpeg",
             "https://i128.fastpic.org/thumb/2026/1017/7b/920091d61b62015b625b1c108bb0a97b.jpeg"
         ],
-        "description": "“Our words are like drops of flowing blood. Only grief fully reveals people.” ~©\nThe game is intended exclusively for an adult audience with a stable psyche: extreme cruelty and bloodiness are common throughout the dungeons, there is a demonstration of the use of drugs and difficult topics are raised, from self-torture to sexual violence. All of them are an integral part of the creation of the world and are present to create a special dark atmosphere that shows how far a person can go in his quest to survive.\nThe action takes place in the fantasy Middle Ages, dungeons of fear and hunger, located on the territory of the kingdom of Rondon, an analogue of France and Great Britain in 1590 of the 16th century. There are four characters to choose from: Mercenary, Knight, Dark Priest and Outlander. The heroes go into the dungeons for one purpose - to find a man imprisoned in them named Le'Gard. Each character has their own motive for the descent and their own backstory. At the heart of the world are ancient gods such as Gro-Goroth, the god of destruction and sacrifice, and Sylvian, the goddess of love and creation. They are extremely powerful beings who are worshiped by certain factions of people. There are also new gods in the world, mortals who sit on the throne of Ascension in the legendary city of the gods Ma'Havra.\nThe game has a dozen possible endings.",
+        "description": "“Our words are like drops of flowing blood. Only grief fully reveals people.” ~©\nThe game is intended exclusively for an adult audience with a stable psyche: extreme cruelty and bloodiness are common throughout the dungeons, there is a demonstration of the use of drugs and difficult topics are raised, from self-torture to sexual violence. All of them are an integral part of the creation of the world and are present to create a special dark atmosphere that shows how far a person can go in his quest to survive.\nThe action takes place in the fantasy Middle Ages, dungeons of fear and hunger, located on the territory of the kingdom of Rondon, an analogue of France and Great Britain in 1590 of the 16th century. There are four characters to choose from: Mercenary, Knight, Dark Priest and Outlander. The heroes go into the dungeons for one purpose - to find a man imprisoned in them named Le'Gard. Each character has their own motive for the descent and their own backstory. At the heart of the world are ancient gods such as Gro-Goroth, the god of destruction and sacrifice, and Sylvian, the goddess of love and creation. They are extremely powerful beings who are worshiped by certain factions of people. There are also new gods in the world, mortals who sit on the throne of Ascension in the legendary city of the gods Ma'Havra.\nThe game has a dozen possible endings. The sequel, Fear & Hunger 2: Termina, is here.",
         "title_id": null,
-        "version": "0.1.0"
+        "version": "1.1.0"
     },
     {
         "title": "Lost Odyssey (port ) [NRO][RUS (Mod.)/ENG]",
@@ -4647,8 +4705,8 @@
     },
     {
         "title": "Castlevania Belmont's Curse [NSP][RUS/Multi11]",
-        "size": "3.49 GB",
-        "magnet": "magnet:?xt=urn:btih:C8127CA9F66C4815516C330F116C38EDF4F64845&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "4.8 GB",
+        "magnet": "magnet:?xt=urn:btih:82C6EF1733B1D770B67F964904B42808695B1020&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6916453",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6916453",
         "year": "2026, October",
@@ -4671,9 +4729,9 @@
         ],
         "description": "Medieval Paris, Where the Tolling Bells Herald the End\n1499. Paris is engulfed in flames as monstrous creatures suddenly emerge from the shadows.\nTrevor Belmont, the hero who defeated Dracula, ventures into the burning streets with his daughter, Rose Belmont. Armed with the legendary holy whip, the Vampire Killer, they hunt down the beasts bleeding from the looming castle.\n\nRose is soon swept up in the dark conspiracy that lurks beneath. Will she succeed in saving Paris from devastation?\n\nSatisfying Whip Action\nCastlevania's iconic whip action is more satisfying than ever!\nCrack your whip to move around freely like a trapeze artist!\nMaster the whip mechanics and be creative to pounce on your prey like a wolf in fast-paced combat!\n\nDiverse Bosses and the Arcana System\nFace-off against legendary bosses including Death, Medusa and Carmilla in addition to enigmatic new bosses such as Joan of Arc.\nOnce defeated, bosses are sealed into Rose's tarot cards, turning them into Arcana - use their skills to cast spells and obtain unique special actions\n\nCustomize Your Battle Style with Weapons and Relics\nCustomize Rose’s battle style by using a variety of equipment, including weapons spanning seven distinct categories and Relics that trigger powerful effects through both offense and defense.\nCombine equipment you discover through exploration to create your own playstyle!\n\nIconic Castlevania Atmosphere, Reimagined in New Stages\nFrom iconic Gothic aesthetics to vivid, refined visuals, the game presents a fresh take on the world of Castlevania.\nExplore maps filled with both new features and familiar elements inspired by classic Castlevania titles.",
         "title_id": "0100BA4026E94000",
-        "version": "1.1.0",
-        "update_version": 65536,
-        "titles": "0100BA4026E94000:65536:"
+        "version": "1.1.4",
+        "update_version": 131072,
+        "titles": "0100BA4026E94000:131072:;01005F4027E94000:0:"
     },
     {
         "title": "Keep Driving [NSZ][RUS/Multi8]",
