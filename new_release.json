@@ -1,6 +1,11 @@
 [
-  {"title": "Titanium Court", "title_id": "0100FA9028BB8000", "metacritic": null},
+  {"title": "Fuga Melodies of Steel 1-2-3", "title_id": "01003F501907B000", "metacritic": 84.0},
+  {"title": "Barbie Rewind", "title_id": "01002EC025E54000", "metacritic": null},
+  {"title": "Castlevania Belmont's Curse", "title_id": "0100BA4026E94000", "metacritic": null},
+  {"title": "Battle Brothers + 9 DLC", "title_id": "0100C5000F294000", "metacritic": null},
+  {"title": "Neon Abyss 1-2", "title_id": "010052002641E000", "metacritic": 74.0},
   {"title": "Warp Shift", "title_id": "0100DB300A026000", "metacritic": 80.0},
+  {"title": "Titanium Court", "title_id": "0100FA9028BB8000", "metacritic": null},
   {"title": "Rusty Rangers", "title_id": "01002E302204A000", "metacritic": null},
   {"title": "Beholder 1, 2, 3, Conductor", "title_id": "0100D1300C1EA000", "metacritic": null},
   {"title": "Good Job", "title_id": "0100B0500FE4E000", "metacritic": 78.0},
@@ -30,12 +35,5 @@
   {"title": "Chained Beasts", "title_id": "0100B04026946000", "metacritic": 90.0},
   {"title": "Lou’s Lagoon", "title_id": "010018F021CB2000", "metacritic": null},
   {"title": "Super Bunny Man", "title_id": "0100EF401D9D8000", "metacritic": null},
-  {"title": "Sid Meier's Civilization VII (7) + 42 DLC", "title_id": "0100C3601518C000", "metacritic": 88.0},
-  {"title": "Herdling", "title_id": "0100A9C01FD06000", "metacritic": 77.0},
-  {"title": "Nordic Ashes the Complete Saga: Survivors of Ragnarok, Remnants of Corruption, Dark Knights", "title_id": "0100F2501DEB0000", "metacritic": null},
-  {"title": "Choppa Rescue Rivals", "title_id": "0100F7501198E000", "metacritic": null},
-  {"title": "Culdcept Begins", "title_id": "01004F4024504000", "metacritic": null},
-  {"title": "Akiba Lost", "title_id": "0100C66026536000", "metacritic": null},
-  {"title": "Minecraft", "title_id": "0100D71004694000", "metacritic": 93.0},
-  {"title": "Cyanotype Daydream - The Girl Who's Called the World (Hakuchuumu no Aojashin / 白昼夢の青写真)", "title_id": "01003B0018BC8000", "metacritic": 82.0}
+  {"title": "Sid Meier's Civilization VII (7) + 42 DLC", "title_id": "0100C3601518C000", "metacritic": 88.0}
 ]
