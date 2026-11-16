@@ -881,17 +881,17 @@
    "zip_root": ""
   },
   "qret/modkitnx": {
-   "asset_key": "739190201:2026-11-12T11:16:41Z",
-   "extracted": 11139087,
+   "asset_key": "752163317:2026-11-15T19:53:38Z",
+   "extracted": 11391875,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ModKitNX.jpg",
    "nacp": {
     "author": "qret",
     "title": "ModKitNX",
-    "version": "1.1.1"
+    "version": "1.1.2"
    },
-   "sha256": "822d7706e61005901b422f7c2c4176820b94effdd107058344d387a0069f14ab",
-   "size": 11139087,
+   "sha256": "c521d9e65684a67783e9893b59026d41b72e77f5ac78bb4412c223ce8c17be28",
+   "size": 11391875,
    "type": "file",
    "zip_root": ""
   },
@@ -1054,17 +1054,17 @@
    "zip_root": ""
   },
   "sonerx7/nexvyn-os-nx": {
-   "asset_key": "749548162:2026-11-15T02:27:47Z",
-   "extracted": 82643901,
+   "asset_key": "753534311:2026-11-16T05:07:27Z",
+   "extracted": 82970573,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Nexvyn-OS-NX.jpg",
    "nacp": {
     "author": "sonerx7",
     "title": "Nexvyn OS",
-    "version": "1.3.17"
+    "version": "1.3.19"
    },
-   "sha256": "351b7461f2d835b6edf401ea0b42c9463f7353bc33091d3504a131483a4143d4",
-   "size": 82643901,
+   "sha256": "86224efb59233c80ee5c0724d28de03d6f1c88f1538370983d752c537023a7ab",
+   "size": 82970573,
    "type": "file",
    "zip_root": ""
   },
@@ -1339,7 +1339,7 @@
   "bernardogiordano/checkpoint": {
    "description": "Fast and simple homebrew save management framework for 3DS and Switch.",
    "full_name": "BernardoGiordano/Checkpoint",
-   "stargazers_count": 3128,
+   "stargazers_count": 3129,
    "topics": [
     "3ds",
     "3ds-homebrew",
@@ -1798,7 +1798,7 @@
   "sonerx7/nexvyn-os-nx": {
    "description": "Nexvyn OS - a desktop OS shell for Nintendo Switch homebrew (.nro): the App Market (Store/: apps, games, themes, fonts) and the SDK for app developers (SDK/: Lua, JavaScript, Python, Squirrel, C, Java; English and Turkish).",
    "full_name": "sonerx7/Nexvyn-OS-NX",
-   "stargazers_count": 77,
+   "stargazers_count": 79,
    "topics": [
     "app-market",
     "atmosphere",
@@ -7291,8 +7291,8 @@
    "pushed_at": "2026-11-06T02:42:19Z"
   },
   "agafak1337/tubenx": {
-   "checked": "2026-11-14",
-   "pushed_at": "2026-11-14T09:48:02Z"
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-15T19:18:27Z"
   },
   "ahmadsouri/jak-switch-port": {
    "checked": "2026-11-09",
@@ -8127,8 +8127,8 @@
    "pushed_at": "2026-02-16T23:25:56Z"
   },
   "jacquesdupontd/port0r": {
-   "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T18:37:18Z"
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T06:07:12Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8141,8 +8141,8 @@
   },
   "jigsawfr/boreale-ha": {
    "candidate": "| [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |",
-   "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T16:26:05Z"
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-15T20:36:06Z"
   },
   "jimzrt/incognito_rcm": {
    "checked": "2026-11-10",
@@ -8312,9 +8312,9 @@
    "pushed_at": ""
   },
   "mentalblank/pyxis": {
-   "candidate": "| [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) | 57 | 46 | 2026-11-08 | PYXIS_SwitchAIO.zip |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-11-08T20:14:56Z"
+   "candidate": "| [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) | 58 | 47 | 2026-11-15 | PYXIS_SwitchAIO.zip |",
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-15T20:51:27Z"
   },
   "meowdev-mod/control-ps-5": {
    "candidate": "| [MeoWDev-MOD/Control-PS-5](https://github.com/MeoWDev-MOD/Control-PS-5) | 1 | v1.1.0 | 2026-11-04 | Control-PS-5.zip |",
@@ -8351,8 +8351,12 @@
    "pushed_at": ""
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
-   "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T16:54:50Z"
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T01:45:46Z"
+  },
+  "mohit2096/yuzu-emulator-toolkit": {
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T01:31:27Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-10",
@@ -8471,8 +8475,8 @@
    "pushed_at": "2026-11-02T06:56:20Z"
   },
   "nx-std/mono": {
-   "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T05:39:37Z"
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T03:54:31Z"
   },
   "ocornut/imgui": {
    "checked": "2026-11-09",
@@ -8573,6 +8577,10 @@
    "candidate": "| [proconsule/libusbdvd](https://github.com/proconsule/libusbdvd) | ? | 0.1.3 | 2026-08-21 | libusbdvd-0.1.3.zip, libusbdvd-example-c.nro |",
    "checked": "2026-11-11",
    "pushed_at": ""
+  },
+  "prowahaj13/yuzu-emulator-tutorial": {
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T01:34:34Z"
   },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
@@ -8753,9 +8761,9 @@
    "pushed_at": "2026-11-15T05:52:57Z"
   },
   "sec-123/roomcircuit_lanywhere-selfhost": {
-   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 0 | v0.8.8 | 2026-11-15 | SHA256SUMS.txt, switch-online-0.8.8-hats.zip, switch-online-0.8.8-sd.zip, switch-online-0.8.8-sdk-sources.tar, switch-on |",
-   "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T09:50:13Z"
+   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 1 | v0.8.9 | 2026-11-16 | SHA256SUMS.txt, switch-online-0.8.9-hats.zip, switch-online-0.8.9-sd.zip, switch-online-0.8.9-sdk-sources.tar, switch-on |",
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T06:30:00Z"
   },
   "simplysabir/nrodoc": {
    "checked": "2026-11-09",
@@ -8931,9 +8939,8 @@
    "pushed_at": "2026-06-09T00:53:01Z"
   },
   "timschneeb/nsmbw-nx": {
-   "candidate": "| [timschneeb/nsmbw-nx](https://github.com/timschneeb/nsmbw-nx) | 0 | v0.0.1 | 2026-11-15 | assets.json, NSMBW-switch.zip |",
-   "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T13:22:19Z"
+   "checked": "2026-11-16",
+   "pushed_at": "2026-11-16T04:58:28Z"
   },
   "tobias103435/mkwii-switch-builder": {
    "candidate": "| [Tobias103435/mkwii-switch-builder](https://github.com/Tobias103435/mkwii-switch-builder) | 1 | v1 | 2026-11-03 | MarioKartWii-Switch-builder.zip, mkw-render-deko3d-13abc3bc-f8c9eef0-20261102.tar.xz, mkw-render-deko3d-13abc3bc-f8c9eef |",
