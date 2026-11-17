@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-17T07:58:34Z",
+ "generated": "2026-11-17T20:57:40Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -2738,18 +2738,18 @@
    "name": "comicreaderswitch",
    "title": "Comic Reader",
    "author": "ZiggyGoofy",
-   "version": "0.4.0",
+   "version": "0.6.0",
    "category": "tool",
    "description": "",
-   "changelog": "## ComicReader v0.4.0 — Landscape/Portrait rotation\r\n\r\n**New / Nouveau:**\r\n- 🔄 Rotate the reading view 90° (press **\"-\"**) for a taller, more comfortable portrait reading experience — turn your console clockwise to view it upright. Works in both page and continuous scroll modes, with joysticks remapped accordingly.\r\n- Note: touch gestures (swipe/pinch/bar) in rotated mode are a first pass and may need refinement — buttons and sticks are the most reliable way to navigate while rotated for now.\r\n\r\n---\r\n\r\n🔄 Fais pivoter la vue de lecture à 90° (touche **\"-\"**) pour une lecture plus confortable en hauteur — tourne ta console dans le sens horaire pour voir l'image à l'endroit. Fonctionne en mode page comme en mode défilement, avec les joysticks remappés en conséquence.\r\nRemarque : les gestes tactiles (swipe/pincer/barre) en mode tourné sont une première version et pourraient nécessiter des ajustements — les boutons et joysticks restent le moyen le plus fiable de naviguer en mode tourné pour l'instant.\r\n\r\n## ComicReader v0.4.0 — Bug fixes\r\n\r\n**Fixed / Corrigé :**\r\n- 🐛 Fixed a crash-causing compile issue that had slipped into the previous build\r\n- 🐛 Fixed page stretching when using continuous scroll mode while rotated (portrait)\r\n- 🐛 Fixed zoom-out no longer working in continuous scroll mode\r\n\r\n---\r\n\r\n- 🐛 Correction d'un problème de compilation qui s'était glissé dans la version précédente\r\n- 🐛 Correction de l'étirement des pages en mode défilement continu quand l'affichage est tourné (portrait)\r\n- 🐛 Correction du dézoom qui ne fonctionnait plus en mode défilement continu",
+   "changelog": "## Français\r\n\r\n### Nouveautés\r\n- **Écran de réglages** : touche **-** dans la bibliothèque. Tu peux y changer le dossier des comics sans réinstaller, et régler le filtre chaud.\r\n- **Filtre chaud** : 4 niveaux de teinte orangée pour lire le soir avec moins de lumière bleue. Il s'applique partout et le réglage est mémorisé.\r\n- **Recherche par titre** : touche **Y** dans la bibliothèque (clavier système). **B** efface la recherche.\r\n- **Compteur par œuvre** : « lus/total » sous chaque couverture, en vert quand tout est lu.\r\n- **Marquer comme lu** : touche **X** dans la liste des chapitres (un second appui annule).\r\n- **Chapitre suivant** : à la fin d'un chapitre, une invite propose d'ouvrir directement le suivant (**A** ou **R**).\r\n- **Formats .zip et .rar** reconnus en plus de .cbz et .cbr.\r\n- **Légende des touches** dans la barre latérale de la bibliothèque.\r\n\r\n### Améliorations et corrections\r\n- Barre de progression plus grosse, et elle ne disparaît plus quand on la fait glisser.\r\n- Le compteur est calculé à la demande avec un cache, pour garder une bibliothèque fluide.\r\n\r\n### Installation\r\nCopier `ComicReaderSwitch.nro` dans `/switch/ComicReaderSwitch/` sur la carte SD. Tes réglages et ta progression sont conservés.\r\n\r\n### Remarque\r\nLa recherche utilise le clavier système de la console : elle peut être indisponible si l'application est lancée en mode « title override » (via un jeu) plutôt que via l'album.\r\n\r\n## English\r\n\r\n### What's new\r\n- **Settings screen**: press **-** in the library. Change the comics folder without reinstalling, and adjust the warm filter.\r\n- **Warm filter**: 4 levels of orange tint to read at night with less blue light. Applies everywhere and the setting is saved.\r\n- **Title search**: press **Y** in the library (system keyboard). **B** clears the search.\r\n- **Per-series counter**: \"read/total\" under each cover, green when everything is read.\r\n- **Mark as read**: press **X** in the chapter list (press again to undo).\r\n- **Next chapter**: at th",
    "url": "https://github.com/ziggygoofy/comicreaderswitch",
    "repo": "ziggygoofy/comicreaderswitch",
-   "updated": "2026-07-24",
-   "download_url": "https://github.com/ZiggyGoofy/ComicReaderSwitch/releases/download/v0.4.0/ComicReaderSwitch.nro",
+   "updated": "2026-11-17",
+   "download_url": "https://github.com/ZiggyGoofy/ComicReaderSwitch/releases/download/v0.6.0/ComicReaderSwitch.nro",
    "download_type": "file",
-   "sha256": "6dbf1fcd9bac4fca0feaf0fe655aba3d54b934b395c5432cc48019f284fde939",
-   "filesize": 9595804,
-   "extracted": 9595804,
+   "sha256": "419fc10628720df46e2a6b5b6511fab8d9823870cc2a1c99e00cdf91e62a53cc",
+   "filesize": 9612188,
+   "extracted": 9612188,
    "files": [
     "U: switch/comicreaderswitch/comicreaderswitch.nro"
    ],
