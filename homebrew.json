@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-16T22:05:42Z",
+ "generated": "2026-11-17T07:58:34Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -3942,18 +3942,18 @@
    "name": "StremNX",
    "title": "StremNX",
    "author": "stremnx",
-   "version": "0.3.1",
+   "version": "0.3.2",
    "category": "tool",
    "description": "Unofficial Stremio client for Nintendo Switch homebrew. MainStream-style UI, Stremio addons & account sync, mpv player, built-in torrent engine and SD card downloads. Not affiliated with Stremio.",
-   "changelog": "Bug fix release for subtitles and the freezes some people hit in 0.3.0.\n\n## Fixes\n- **Subtitles from addons often did not show up.** OpenSubtitles v3 (the official Stremio subtitles addon) is now always available, even when it is not on your account or you are not logged in. Pick your language in **Settings → Subtitles**.\n- Subtitle files and downloaded videos are passed to the player with a path it always understands.\n- The app could freeze while a stream was stalled (a torrent without peers, a slow link). The player no longer waits on mpv for its state.\n- The torrent engine could get stuck waiting for network packets and freeze the screen with it.\n- Pausing or deleting a download no longer holds the screen.\n\n## New\n- The player tells you when there are no subtitles in your language for a video.\n- A watchdog writes to `log.txt` where the app got stuck if it ever freezes for more than 4 seconds. If you still get a freeze, wait ~5 seconds, close the app and attach `sdmc:/switch/stremnx/log.txt` to an [issue](https://github.com/denpingus/StremNX/issues) (look for lines starting with `WATCHDOG:`).\n\n## Install / update\nCopy `stremnx.nro` to `sdmc:/switch/stremnx/stremnx.nro` (replace the old one) and open it from the Homebrew Menu in **title mode** (hold **R** while launching a game). Your login, history and downloads are kept.\n\n> [!IMPORTANT]\n> Unofficial client — not affiliated with or endorsed by Stremio or Nintendo. StremNX ships with no content or piracy addons.",
+   "changelog": "Fixes debrid playback and adds updates inside the app.\n\n## Fixes\n- **Torrentio + Real-Debrid (and any `https://` stream) failed with \"Playback error: loading failed\".** The player's FFmpeg has no HTTPS support, so remote streams are now read through the app's own network stack, with seeking and automatic reconnection when the link drops.\n\n## New\n- **In-app updates.** StremNX checks for a new version when it starts and shows a window to install it: the new `.nro` is downloaded, checked and put in place of the old one, then the app restarts into it. You can also check by hand or turn off the check in **Settings → Updates**.\n\n## Install / update\nCopy `stremnx.nro` to `sdmc:/switch/stremnx/stremnx.nro` (replace the old one) and open it from the Homebrew Menu in **title mode** (hold **R** while launching a game). Your login, history and downloads are kept. This is the last time you need to copy it by hand: from now on, new versions install from inside the app.\n\n> [!IMPORTANT]\n> Unofficial client — not affiliated with or endorsed by Stremio or Nintendo. StremNX ships with no content or piracy addons.",
    "url": "https://github.com/denpingus/stremnx",
    "repo": "denpingus/stremnx",
-   "updated": "2026-10-19",
-   "download_url": "https://github.com/denpingus/StremNX/releases/download/v0.3.1/stremnx.nro",
+   "updated": "2026-11-16",
+   "download_url": "https://github.com/denpingus/StremNX/releases/download/v0.3.2/stremnx.nro",
    "download_type": "file",
-   "sha256": "05e0fbddb4fda25523a66d21b03e9863865aae8ced015c745940fe988cd293f6",
-   "filesize": 30564355,
-   "extracted": 30564355,
+   "sha256": "be6dfafb897b838583b3727dfa2522bbb3b45121d47adaab6b36e605bb6030b8",
+   "filesize": 30568451,
+   "extracted": 30568451,
    "files": [
     "U: switch/StremNX/StremNX.nro"
    ],

@@ -1,11 +1,12 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-16. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-17. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
 | Репозиторий | ★ | Версия | Дата | Файлы |
 |---|---|---|---|---|
+| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 0 | v0.3.0 | 2026-11-17 | nx-discord-rpc-0.3.0.zip, SHA256SUMS |
 | [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |
 | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | 20 | Release-1.1.0 | 2026-11-04 | bo2-360-nx-gamefiles-shader-extractor.zip, bo2-360-nx-release-1.1.0-switch+windows-build-kit.zip, bo2-360-nx-switch-PGO- |
 | [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 9 | v2.0.0 | 2026-11-12 | songate-manifest.json, SongateAND-2.0.0.apk, SongateNX-2.0.0.zip, SongateWIN-2.0.0.exe |
@@ -70,7 +71,7 @@
 | [alexislours/tomo_starterfree](https://github.com/alexislours/tomo_starterfree) | 0 | v1.1.0 | 2026-06-05 | tomo_starterfree-strict-v1.1.0.zip, tomo_starterfree-v1.1.0.zip |
 | [anoviis/joyvibe](https://github.com/anoviis/joyvibe) | ? | 1.0.0 | 2026-05-19 | joyvibe.zip |
 | [aoihera/ChargeCap](https://github.com/aoihera/ChargeCap) | 6 | 1.1.2 | 2026-10-04 | ChargeCap.zip |
-| [atmosphere-nx/atmosphere](https://github.com/atmosphere-nx/atmosphere) | ? | 1.12.1 | 2026-10-16 | atmosphere-1.12.1-master-6b0c077b4+hbl-2.4.5+hbmenu-3.6.1.zip, fusee.bin |
+| [atmosphere-nx/atmosphere](https://github.com/atmosphere-nx/atmosphere) | ? | 1.12.2 | 2026-11-11 | atmosphere-1.12.2-master-4e3f37038+hbl-2.4.5+hbmenu-3.6.1.zip, fusee.bin |
 | [azarucha/sys-airplay](https://github.com/azarucha/sys-airplay) | 0 | v0.1.0 | 2026-10-12 | sys-airplay.zip |
 | [bakonpancakz/switch-melody](https://github.com/bakonpancakz/switch-melody) | 0 | 1.0.0 | 2026-11-14 | release.zip |
 | [bernardogiordano/nx-spa](https://github.com/bernardogiordano/nx-spa) | ? | 1.0 | 2023-08-13 | nx-spa_angular.nro, nx-spa_vue.nro |
@@ -85,7 +86,8 @@
 | [cbreezy210/ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) | 11 | v.1.4.0 | 2026-08-26 | ACNH-Save-Editor-DBI-v1.4.0.zip, acnh_editor_v1.4.0.zip |
 | [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 253 | v1.3.0 | 2026-11-12 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |
 | [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) | 102 | v1.0.2 | 2026-10-27 | SwitchWaker-v1.0.2-switch-eur.zip, SwitchWaker-v1.0.2-switch-eur.zip.sha256, SwitchWaker-v1.0.2-switch.zip, SwitchWaker- |
-| [chiaki-ng/akira](https://github.com/chiaki-ng/akira) | ? | v0.6.5 | 2026-10-05 | akira-0.6.5.zip, akira-companion-darwin-arm64.zip, akira-companion-linux-amd64, akira-companion-windows-amd64.exe, akira |
+| [chatelp/acnh-power-pockets](https://github.com/chatelp/acnh-power-pockets) | ? | v1.2.0 | 2026-11-13 | ACNH-Power-Pockets-v1.2.0.zip |
+| [chiaki-ng/akira](https://github.com/chiaki-ng/akira) | ? | v0.7.0 | 2026-11-16 | akira-0.7.0.zip, akira-companion-darwin-arm64.zip, akira-companion-linux-amd64, akira-companion-windows-amd64.exe, akira |
 | [chiya695/TextReaderOverlay-NX-Revived](https://github.com/chiya695/TextReaderOverlay-NX-Revived) | 2 | v1.9.1 | 2026-08-08 | SHA256SUMS.txt, TextReaderOverlay-NX-1.9.1.zip |
 | [chuthree/nx-gamehide](https://github.com/chuthree/nx-gamehide) | 3 | v0.1.0 | 2026-10-13 | NX-GameHide-v0.1.0.zip |
 | [cid2mizard/mikmod-music-visualizer](https://github.com/cid2mizard/mikmod-music-visualizer) | ? | 1.2.1 | 2022-05-17 | MMMV.zip |
@@ -109,10 +111,12 @@
 | [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) | ? | v2.3.2 | 2023-03-23 | appstore.nro, appstore.rpx, appstore.wuhb, switch-extracttosd.zip, wiiu-extracttosd.zip |
 | [fourminute/fluffy](https://github.com/fourminute/fluffy) | ? | v2.9 | 2019-05-26 | fluffy.exe, fluffy.pyw, Goldleaf.nro, LICENSE.txt, Tinfoil.nro |
 | [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |
+| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 3 | v1.0 | 2026-11-17 | gow-nx.zip |
 | [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |
 | [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |
 | [hamhub7/pause-nx](https://github.com/hamhub7/pause-nx) | ? | 1.2 | 2019-09-11 | PAUSE-nx.v1.2.zip |
 | [hamletdufromage/sigpatches-updater](https://github.com/hamletdufromage/sigpatches-updater) | ? | 0.2 | 2020-09-12 | sigpatches-updater.zip |
+| [hjalves/padshell](https://github.com/hjalves/padshell) | 1 | v0.0.1 | 2026-11-16 | padshell.nro |
 | [hotshotz79/nx-romget](https://github.com/hotshotz79/nx-romget) | ? | 0.1 | 2020-04-20 | main.py, NX-RomGet.zip |
 | [huntereb/awoo-installer](https://github.com/huntereb/awoo-installer) | ? | 1.3.6 | 2025-11-15 | Awoo-Installer.zip |
 | [hwfly-nx/firmware](https://github.com/hwfly-nx/firmware) | ? | 0.7.2 | 2023-01-08 | release_072.zip |
@@ -171,7 +175,7 @@
 | [samedog/NX-Uploader](https://github.com/samedog/NX-Uploader) | 0 | 2.5.0 | 2026-10-05 | NXUploader.nro |
 | [samedog/NX-trex](https://github.com/samedog/NX-trex) | 0 | 2.0.0 | 2026-10-05 | NX-trex.nro |
 | [sciresm/hactool](https://github.com/sciresm/hactool) | ? | 1.4.0 | 2020-06-02 | hactool-1.4.0-win.zip |
-| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 79 | v1.3.26 | 2026-11-16 | NexvynOS.nro, NexvynSDK-1.3.26.zip, SHA256SUMS.txt |
+| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 79 | v1.3.27 | 2026-11-17 | NexvynOS.nro, NexvynSDK-1.3.27.zip, SHA256SUMS.txt |
 | [spacecraft-nx/firmware](https://github.com/spacecraft-nx/firmware) | ? | 0.2.0 | 2021-10-14 | release_0.2.0.zip |
 | [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) | ? | v1.25.1 | 2026-04-08 | ldn_mitm_v1.25.1.zip |
 | [sthetix/fusecheck](https://github.com/sthetix/fusecheck) | ? | 1.0.5 | 2026-09-27 | FuseCheck-1.0.5.zip |
