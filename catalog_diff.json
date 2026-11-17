@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1794860299,
+  "generated_at": 1794889624,
   "window_hours": 72,
   "deleted_topic_ids": [],
   "added_or_updated": {
@@ -735,38 +735,6 @@
         "version": "1.2.0",
         "update_version": 196608,
         "titles": "0100F07026DA8000:196608:"
-      },
-      {
-        "title": "Million Depth (демонстрационная версия) [NSZ][DEMO][ENG]",
-        "size": "413 MB",
-        "magnet": "magnet:?xt=urn:btih:2E5C3540228388AC0120F0803FA5CE1EDCC26EEF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6937545",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6937545",
-        "year": "2026, декабрь",
-        "genre": "Action, Adventure, Roguelite",
-        "developer": "Cyber Space Biotope",
-        "publisher": "Playism",
-        "image_format": ".NSZ (сжато ~79%, установленный объём 1.94 ГБ) [DEMO]",
-        "interface_lang": "Английский [ENG]",
-        "voice_lang": "не озвучивается",
-        "performance": "Да (на 23.0.1, Atmosphere 1.12.2)",
-        "multiplayer": "нет",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6937545.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1113/ae/18ff3169283afbaac91701cd3ca865ae.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/fb097c0a2bebd830da27f3c19cd8f3e5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/9e/ea61097fc1c8eeb5ef20317e95e0b79e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/7f/fe6ef73a6a9a0d0cb57c5578f53f0d7f.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/49/fff7d4107c9b3481f111a536d3325249.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/4e3be20e2e7ceddf3b679b5522e7bae5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/8e/f2e4ccce623ba9891b22b53bb389de8e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/62/50a65e8dbc36378d1115688c40562062.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/5b/c7dbeb53d2d5d367fe728f0a880c775b.jpeg"
-        ],
-        "description": "Мома отправляется в путь, чтобы найти своего друга — он находится где-то в недрах «Миллиона глубин» подземного комплекса, насчитывающего миллион этажей. Однако её ждёт мир, который постоянно меняется. Истинная история «Миллиона глубин» разнится в зависимости от временной линии, а судьба самой Момы меняется вместе с окружающим её миром.\nРешения, принятые вами в прошлом, эхом отзываются в будущем — и даже в других временных линиях — самым неожиданным образом. Ей предстоит собрать воедино разрозненные подсказки, чтобы разгадать многочисленные тайны своего путешествия.\nСоздавайте оружие и участвуйте в стратегических сражениях с использованием механики остановки времени, погружаясь в глубины этого подземного мира, состоящего из миллиона удивительных этажей!",
-        "title_id": "010006102A00E000",
-        "version": "3.1.3",
-        "titles": "010006102A00E000:0:"
       }
     ],
     "en": [
@@ -1500,38 +1468,6 @@
         "version": "1.2.0",
         "update_version": 196608,
         "titles": "0100F07026DA8000:196608:"
-      },
-      {
-        "title": "Million Depth (demo version) [NSZ][DEMO][ENG]",
-        "size": "413 MB",
-        "magnet": "magnet:?xt=urn:btih:2E5C3540228388AC0120F0803FA5CE1EDCC26EEF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6937545",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6937545",
-        "year": "2026, December",
-        "genre": "Action, Adventure, Roguelite",
-        "developer": "Cyber Space Biotope",
-        "publisher": "Playism",
-        "image_format": ".NSZ (compressed ~79%, installed size 1.94 GB) [DEMO]",
-        "interface_lang": "English [ENG]",
-        "voice_lang": "No voiceover",
-        "performance": "Yes (on 23.0.1, Atmosphere 1.12.2)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6937545.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1113/ae/18ff3169283afbaac91701cd3ca865ae.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/fb097c0a2bebd830da27f3c19cd8f3e5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/9e/ea61097fc1c8eeb5ef20317e95e0b79e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/7f/fe6ef73a6a9a0d0cb57c5578f53f0d7f.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/49/fff7d4107c9b3481f111a536d3325249.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/4e3be20e2e7ceddf3b679b5522e7bae5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/8e/f2e4ccce623ba9891b22b53bb389de8e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/62/50a65e8dbc36378d1115688c40562062.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/5b/c7dbeb53d2d5d367fe728f0a880c775b.jpeg"
-        ],
-        "description": "Moma goes on a journey to find his friend - he is somewhere in the depths of the Million Deeps, an underground complex with a million floors. However, she faces a world that is constantly changing. The true story of A Million Deep varies depending on the timeline, and Moma's fate changes along with the world around her.\nThe decisions you made in the past echo into the future—and even across timelines—in unexpected ways. She must piece together scattered clues to unravel the many mysteries of her journey.\nCraft weapons and engage in strategic battles using time-stopping mechanics as you delve into the depths of this underground world consisting of a million amazing floors!",
-        "title_id": "010006102A00E000",
-        "version": "3.1.3",
-        "titles": "010006102A00E000:0:"
       }
     ],
     "es": [
@@ -2265,38 +2201,6 @@
         "version": "1.2.0",
         "update_version": 196608,
         "titles": "0100F07026DA8000:196608:"
-      },
-      {
-        "title": "Million Depth (versión demo) [NSZ][DEMO][ENG]",
-        "size": "413 MB",
-        "magnet": "magnet:?xt=urn:btih:2E5C3540228388AC0120F0803FA5CE1EDCC26EEF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6937545",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6937545",
-        "year": "2026, diciembre",
-        "genre": "Action, Adventure, Roguelite",
-        "developer": "Cyber Space Biotope",
-        "publisher": "Playism",
-        "image_format": ".NSZ (comprimido ~79%, tamaño instalado 1.94 GB) [DEMO]",
-        "interface_lang": "Inglés [ENG]",
-        "voice_lang": "Sin voces",
-        "performance": "Sí (en 23.0.1, Atmosphere 1.12.2)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6937545.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1113/ae/18ff3169283afbaac91701cd3ca865ae.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/fb097c0a2bebd830da27f3c19cd8f3e5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/9e/ea61097fc1c8eeb5ef20317e95e0b79e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/7f/fe6ef73a6a9a0d0cb57c5578f53f0d7f.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/49/fff7d4107c9b3481f111a536d3325249.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/4e3be20e2e7ceddf3b679b5522e7bae5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/8e/f2e4ccce623ba9891b22b53bb389de8e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/62/50a65e8dbc36378d1115688c40562062.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/5b/c7dbeb53d2d5d367fe728f0a880c775b.jpeg"
-        ],
-        "description": "Moma emprende un viaje para encontrar a su amigo: se encuentra en algún lugar de las profundidades de Million Deeps, un complejo subterráneo con un millón de pisos. Sin embargo, se enfrenta a un mundo que cambia constantemente. La verdadera historia de A Million Deep varía según la línea de tiempo, y el destino de Moma cambia junto con el mundo que la rodea.\nLas decisiones que tomó en el pasado resuenan en el futuro (e incluso en todas las líneas de tiempo) de maneras inesperadas. Debe reunir pistas dispersas para desentrañar los numerosos misterios de su viaje.\n¡Crea armas y participa en batallas estratégicas utilizando mecánicas que detienen el tiempo mientras te adentras en las profundidades de este mundo subterráneo que consta de un millón de pisos increíbles!",
-        "title_id": "010006102A00E000",
-        "version": "3.1.3",
-        "titles": "010006102A00E000:0:"
       }
     ],
     "fr": [
@@ -3030,38 +2934,6 @@
         "version": "1.2.0",
         "update_version": 196608,
         "titles": "0100F07026DA8000:196608:"
-      },
-      {
-        "title": "Million Depth (version démo) [NSZ][DEMO][ENG]",
-        "size": "413 MB",
-        "magnet": "magnet:?xt=urn:btih:2E5C3540228388AC0120F0803FA5CE1EDCC26EEF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6937545",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6937545",
-        "year": "2026, décembre",
-        "genre": "Action, Adventure, Roguelite",
-        "developer": "Cyber Space Biotope",
-        "publisher": "Playism",
-        "image_format": ".NSZ (compressé ~79%, taille installée 1.94 GB) [DEMO]",
-        "interface_lang": "Anglais [ENG]",
-        "voice_lang": "Sans voix",
-        "performance": "Oui (sur 23.0.1, Atmosphere 1.12.2)",
-        "multiplayer": "Non",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6937545.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1113/ae/18ff3169283afbaac91701cd3ca865ae.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/fb097c0a2bebd830da27f3c19cd8f3e5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/9e/ea61097fc1c8eeb5ef20317e95e0b79e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/7f/fe6ef73a6a9a0d0cb57c5578f53f0d7f.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/49/fff7d4107c9b3481f111a536d3325249.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/4e3be20e2e7ceddf3b679b5522e7bae5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/8e/f2e4ccce623ba9891b22b53bb389de8e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/62/50a65e8dbc36378d1115688c40562062.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/5b/c7dbeb53d2d5d367fe728f0a880c775b.jpeg"
-        ],
-        "description": "Moma part en voyage pour retrouver son ami - il se trouve quelque part dans les profondeurs du Million Deeps, un complexe souterrain d'un million d'étages. Cependant, elle fait face à un monde en constante évolution. L'histoire vraie de A Million Deep varie en fonction de la chronologie et le destin de Moma change avec le monde qui l'entoure.\nLes décisions que vous avez prises dans le passé se répercutent dans le futur, et même à travers les époques, de manière inattendue. Elle doit rassembler des indices épars pour percer les nombreux mystères de son voyage.\nFabriquez des armes et participez à des batailles stratégiques en utilisant des mécanismes d'arrêt du temps tout en plongeant dans les profondeurs de ce monde souterrain composé d'un million d'étages incroyables !",
-        "title_id": "010006102A00E000",
-        "version": "3.1.3",
-        "titles": "010006102A00E000:0:"
       }
     ],
     "de": [
@@ -3795,38 +3667,6 @@
         "version": "1.2.0",
         "update_version": 196608,
         "titles": "0100F07026DA8000:196608:"
-      },
-      {
-        "title": "Million Depth (Demo-Version) [NSZ][DEMO][ENG]",
-        "size": "413 MB",
-        "magnet": "magnet:?xt=urn:btih:2E5C3540228388AC0120F0803FA5CE1EDCC26EEF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6937545",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6937545",
-        "year": "2026, Dezember",
-        "genre": "Action, Adventure, Roguelite",
-        "developer": "Cyber Space Biotope",
-        "publisher": "Playism",
-        "image_format": ".NSZ (komprimiert ~79%, installierte Größe 1.94 GB) [DEMO]",
-        "interface_lang": "Englisch [ENG]",
-        "voice_lang": "Keine Sprachausgabe",
-        "performance": "Ja (auf 23.0.1, Atmosphere 1.12.2)",
-        "multiplayer": "Nein",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6937545.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1113/ae/18ff3169283afbaac91701cd3ca865ae.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/fb097c0a2bebd830da27f3c19cd8f3e5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/9e/ea61097fc1c8eeb5ef20317e95e0b79e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/7f/fe6ef73a6a9a0d0cb57c5578f53f0d7f.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/49/fff7d4107c9b3481f111a536d3325249.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/4e3be20e2e7ceddf3b679b5522e7bae5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/8e/f2e4ccce623ba9891b22b53bb389de8e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/62/50a65e8dbc36378d1115688c40562062.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/5b/c7dbeb53d2d5d367fe728f0a880c775b.jpeg"
-        ],
-        "description": "Moma macht sich auf die Suche nach seinem Freund – er befindet sich irgendwo in den Tiefen der Million Deeps, einem unterirdischen Komplex mit einer Million Stockwerken. Allerdings sieht sie sich einer Welt gegenüber, die sich ständig verändert. Die wahre Geschichte von A Million Deep variiert je nach Zeitachse und Momas Schicksal ändert sich zusammen mit der Welt um sie herum.\nDie Entscheidungen, die Sie in der Vergangenheit getroffen haben, wirken sich auf unerwartete Weise auf die Zukunft aus – und sogar über Zeitachsen hinweg. Sie muss verstreute Hinweise zusammenfügen, um die vielen Geheimnisse ihrer Reise zu lüften.\nStelle Waffen her und nimm an strategischen Schlachten mit zeitstoppenden Mechaniken teil, während du in die Tiefen dieser unterirdischen Welt eintauchst, die aus Millionen erstaunlicher Stockwerke besteht!",
-        "title_id": "010006102A00E000",
-        "version": "3.1.3",
-        "titles": "010006102A00E000:0:"
       }
     ],
     "it": [
@@ -4560,38 +4400,6 @@
         "version": "1.2.0",
         "update_version": 196608,
         "titles": "0100F07026DA8000:196608:"
-      },
-      {
-        "title": "Million Depth (versione demo) [NSZ][DEMO][ENG]",
-        "size": "413 MB",
-        "magnet": "magnet:?xt=urn:btih:2E5C3540228388AC0120F0803FA5CE1EDCC26EEF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6937545",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6937545",
-        "year": "2026, dicembre",
-        "genre": "Action, Adventure, Roguelite",
-        "developer": "Cyber Space Biotope",
-        "publisher": "Playism",
-        "image_format": ".NSZ (compresso ~79%, dimensione installata 1.94 GB) [DEMO]",
-        "interface_lang": "Inglese [ENG]",
-        "voice_lang": "Senza doppiaggio",
-        "performance": "Sì (su 23.0.1, Atmosphere 1.12.2)",
-        "multiplayer": "No",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6937545.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1113/ae/18ff3169283afbaac91701cd3ca865ae.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/fb097c0a2bebd830da27f3c19cd8f3e5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/9e/ea61097fc1c8eeb5ef20317e95e0b79e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/7f/fe6ef73a6a9a0d0cb57c5578f53f0d7f.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/49/fff7d4107c9b3481f111a536d3325249.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/4e3be20e2e7ceddf3b679b5522e7bae5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/8e/f2e4ccce623ba9891b22b53bb389de8e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/62/50a65e8dbc36378d1115688c40562062.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/5b/c7dbeb53d2d5d367fe728f0a880c775b.jpeg"
-        ],
-        "description": "Moma intraprende un viaggio alla ricerca del suo amico: si trova da qualche parte nelle profondità del Million Deeps, un complesso sotterraneo con un milione di piani. Tuttavia, si trova ad affrontare un mondo in costante cambiamento. La vera storia di A Million Deep varia a seconda della sequenza temporale e il destino di Moma cambia insieme al mondo che la circonda.\nLe decisioni che hai preso in passato si ripercuotono nel futuro, e anche attraverso le linee temporali, in modi inaspettati. Dovrà mettere insieme gli indizi sparsi per svelare i molti misteri del suo viaggio.\nCrea armi e affronta battaglie strategiche utilizzando meccanismi che fermano il tempo mentre approfondisci le profondità di questo mondo sotterraneo composto da un milione di fantastici piani!",
-        "title_id": "010006102A00E000",
-        "version": "3.1.3",
-        "titles": "010006102A00E000:0:"
       }
     ],
     "pt_br": [
@@ -5325,38 +5133,6 @@
         "version": "1.2.0",
         "update_version": 196608,
         "titles": "0100F07026DA8000:196608:"
-      },
-      {
-        "title": "Million Depth (versão demo) [NSZ][DEMO][ENG]",
-        "size": "413 MB",
-        "magnet": "magnet:?xt=urn:btih:2E5C3540228388AC0120F0803FA5CE1EDCC26EEF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6937545",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6937545",
-        "year": "2026, dezembro",
-        "genre": "Action, Adventure, Roguelite",
-        "developer": "Cyber Space Biotope",
-        "publisher": "Playism",
-        "image_format": ".NSZ (compactado ~79%, tamanho instalado 1.94 GB) [DEMO]",
-        "interface_lang": "Inglês [ENG]",
-        "voice_lang": "Sem dublagem",
-        "performance": "Sim (no 23.0.1, Atmosphere 1.12.2)",
-        "multiplayer": "Não",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6937545.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1113/ae/18ff3169283afbaac91701cd3ca865ae.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/fb097c0a2bebd830da27f3c19cd8f3e5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/9e/ea61097fc1c8eeb5ef20317e95e0b79e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/7f/fe6ef73a6a9a0d0cb57c5578f53f0d7f.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/49/fff7d4107c9b3481f111a536d3325249.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/4e3be20e2e7ceddf3b679b5522e7bae5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/8e/f2e4ccce623ba9891b22b53bb389de8e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/62/50a65e8dbc36378d1115688c40562062.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/5b/c7dbeb53d2d5d367fe728f0a880c775b.jpeg"
-        ],
-        "description": "Moma parte em uma jornada para encontrar seu amigo - ele está em algum lugar nas profundezas do Million Deeps, um complexo subterrâneo com um milhão de andares. No entanto, ela enfrenta um mundo em constante mudança. A verdadeira história de A Million Deep varia dependendo da linha do tempo, e o destino de Moma muda junto com o mundo ao seu redor.\nAs decisões que você tomou no passado ecoam no futuro – e até mesmo através dos cronogramas – de maneiras inesperadas. Ela deve reunir pistas dispersas para desvendar os muitos mistérios de sua jornada.\nCrie armas e participe de batalhas estratégicas usando mecânicas de parar o tempo enquanto mergulha nas profundezas deste mundo subterrâneo que consiste em um milhão de andares incríveis!",
-        "title_id": "010006102A00E000",
-        "version": "3.1.3",
-        "titles": "010006102A00E000:0:"
       }
     ],
     "zh_hans": [
@@ -6090,38 +5866,6 @@
         "version": "1.2.0",
         "update_version": 196608,
         "titles": "0100F07026DA8000:196608:"
-      },
-      {
-        "title": "Million Depth (试玩版) [NSZ][DEMO][ENG]",
-        "size": "413 MB",
-        "magnet": "magnet:?xt=urn:btih:2E5C3540228388AC0120F0803FA5CE1EDCC26EEF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
-        "topic_id": "6937545",
-        "url": "https://rutracker.org/forum/viewtopic.php?t=6937545",
-        "year": "2026, 12月",
-        "genre": "Action, Adventure, Roguelite",
-        "developer": "Cyber Space Biotope",
-        "publisher": "Playism",
-        "image_format": ".NSZ (已压缩 ~79%, 安装大小 1.94 GB) [DEMO]",
-        "interface_lang": "英语 [ENG]",
-        "voice_lang": "无语音",
-        "performance": "是 (在 23.0.1, Atmosphere 1.12.2)",
-        "multiplayer": "无",
-        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6937545.jpg",
-        "screenshots": [
-          "https://i129.fastpic.org/thumb/2026/1113/ae/18ff3169283afbaac91701cd3ca865ae.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/fb097c0a2bebd830da27f3c19cd8f3e5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/9e/ea61097fc1c8eeb5ef20317e95e0b79e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/7f/fe6ef73a6a9a0d0cb57c5578f53f0d7f.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/49/fff7d4107c9b3481f111a536d3325249.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/e5/4e3be20e2e7ceddf3b679b5522e7bae5.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/8e/f2e4ccce623ba9891b22b53bb389de8e.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/62/50a65e8dbc36378d1115688c40562062.jpeg",
-          "https://i129.fastpic.org/thumb/2026/1113/5b/c7dbeb53d2d5d367fe728f0a880c775b.jpeg"
-        ],
-        "description": "莫马踏上寻找他朋友的旅程 - 他在百万深渊深处的某个地方，这是一个拥有一百万层楼的地下建筑群。然而，她面对的是一个不断变化的世界。 《百万深渊》的真实故事因时间线而异，而莫玛的命运也随着她周围的世界而变化。\n您过去做出的决定会以意想不到的方式回响到未来，甚至跨越时间线。她必须拼凑零散的线索，解开旅途中的诸多谜团。\n当你深入这个由一百万个令人惊叹的楼层组成的地下世界的深处时，制作武器并使用时间停止机制参与战略战斗！",
-        "title_id": "010006102A00E000",
-        "version": "3.1.3",
-        "titles": "010006102A00E000:0:"
       }
     ]
   }
