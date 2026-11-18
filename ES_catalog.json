@@ -1,5 +1,33 @@
 [
     {
+        "title": "Kowloon's Gate Suzaku [XCI][ENG]",
+        "size": "1.86 GB",
+        "magnet": "magnet:?xt=urn:btih:4292D650851FA1582180FB1488C939A4187153DD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6939431",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6939431",
+        "year": "2026",
+        "genre": "Adventure, Puzzle",
+        "developer": "JETMAN",
+        "publisher": "Unknown",
+        "image_format": "XCI",
+        "interface_lang": "Inglés [ENG]",
+        "voice_lang": "Inglés",
+        "performance": "Sí(en 23.5.0, Atmosphere 1.12.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6939431.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1118/17/8f3ce0f348a5ac1f9b8a47c09f97be17.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1118/e0/54274819123e64403032e73e72123de0.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1118/0b/711adc44da5b1251f3e123c098943a0b.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1118/ec/1431169150f267b22dae08f22123b8ec.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1118/71/9fb9a97c78da016d7b6b22f320c3f271.jpeg"
+        ],
+        "description": "El icónico y surrealista juego gótico asiático ambientado en un mundo inspirado en Kowloon renace en Nintendo Switch™.",
+        "title_id": "0100DC20244AE000",
+        "version": "1.0.0",
+        "titles": "0100DC20244AE000:0:"
+    },
+    {
         "title": "Ridge Racer 6 (homebrew) + 77 DLC [NRO][ENG]",
         "size": "7.23 GB",
         "magnet": "magnet:?xt=urn:btih:EF9CC575AC7CAE142669EC7ACA2F7777DAC04CD5&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -13,7 +41,7 @@
         "interface_lang": "Inglés [ENG]",
         "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "No",
+        "multiplayer": "Hasta 2 jugadores",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6939263.jpg",
         "screenshots": [
             "https://i129.fastpic.org/thumb/2026/1117/f3/dfb0599346befb83aff863aaa99ab5f3.jpeg",
@@ -400,7 +428,7 @@
         "image_format": "NRO",
         "interface_lang": "Inglés [ENG]",
         "voice_lang": "Sin voces",
-        "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
+        "performance": "Sí (en 23.5.0, Atmosphere 1.12.2)",
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6938181.jpg",
         "screenshots": [
@@ -12166,9 +12194,9 @@
         "version": "3.7"
     },
     {
-        "title": "Dragon Quest Builders / Dragon Quest Builders 2 [NSP][ENG]",
-        "size": "2.6 GB",
-        "magnet": "magnet:?xt=urn:btih:5C3F1BC080F2CA4A6D740A6CD6217820C18832EC&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "Dragon Quest Builders / Dragon Quest Builders 2 [NSP][ENG,RUS]",
+        "size": "2.97 GB",
+        "magnet": "magnet:?xt=urn:btih:B898AACB735408AF2C7C7CCC81C156F69BA91B10&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5749437",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5749437",
         "year": "2018, febrero",
@@ -12176,7 +12204,7 @@
         "developer": "Square Enix",
         "publisher": "Nintendo",
         "image_format": "NSP",
-        "interface_lang": "Inglés [ENG]",
+        "interface_lang": "Inglés [ENG] + traducción automática opcional de EgokaP, port Larich_D",
         "voice_lang": "Ninguno",
         "performance": "Sí (en 21.2.0, Atmosphere 1.10.2)",
         "multiplayer": "No",
@@ -12192,8 +12220,8 @@
         "description": "Para ponerle un alto a los seguidores de una antigua fuerza maligna, deberás unir fuerzas con el misterioso Malroth y construir de un mundo devastado el reino de tus sueños. En esta aventura al estilo juego de rol, explorarás enormes islas, reunirás y crearás materiales, diseñarás pueblos, los subirás de nivel y los defenderás de monstruos y jefes junto a los habitantes de los pueblos. A medida que avanzas, descubrirás y elaborarás recetas. Salpica, desliza, explora bajo el agua, viaja rápidamente y disfruta de la perspectiva opcional en primera persona mientras intentas encontrarlos a todos. En la Isla del Despertar, tú y tres constructores más podrán explorar juntos a través de la comunicación local*, o en línea **.\n\nComparte capturas de pantalla y publícalas en línea a través del tablón de anuncios, o visita las islas de los otros jugadores y usa el lápiz mágico para crear un plano de tu creación favorita ***. Puedes recibir recetas que te permitirán crear el atuendo del constructor legendario y el trono de Draconarius al poseer el juego original DRAGON QUEST BUILDERS para la consola Nintendo Switch™. ¿Por qué no aventurarse en estilo conforme ayudas a los necesitados, participas en la vida cotidiana de los ciudadanos y dominas las últimas técnicas agrícolas? ¡Todo en un día de trabajo del constructor!",
         "title_id": "010042000A986000",
         "version": "1.0.1",
-        "update_version": 327680,
-        "titles": "010042000A986000:327680:;010008900705C000:65536:"
+        "update_version": 393216,
+        "titles": "010042000A986000:393216:;010008900705C000:65536:"
     },
     {
         "title": "Cat Quest III (3) [NSZ][RUS/Multi10]",
@@ -14092,15 +14120,15 @@
     },
     {
         "title": "Ravenswatch + 10 DLC [NSZ][RUS/Multi10]",
-        "size": "2.2 GB",
-        "magnet": "magnet:?xt=urn:btih:7C403C88336BF92AE52DF4A87C9198334A780D2B&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "2.24 GB",
+        "magnet": "magnet:?xt=urn:btih:9EAA99D06D81ECA8705827583767F4EA8DF24B1F&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6634231",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6634231",
         "year": "2025, enero",
         "genre": "Action, Role-Playing, Roguelike",
         "developer": "Marjorie Roy",
         "publisher": "Nacon",
-        "image_format": ".NSZ (comprimido ~49%, tamaño instalado 4.37 GB)",
+        "image_format": ".NSZ (comprimido ~49%, tamaño instalado 4.36 GB)",
         "interface_lang": "Ruso, Inglés [RUS / ENG / Multi 10]",
         "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
@@ -14116,9 +14144,9 @@
         ],
         "description": "LOS CUENTOS SE HAN VUELTO OSCUROS\nRavenswatch es un «roguelike» de acción con vista cenital en que encarnas a héroes de cuentos y leyendas que deben matar hordas de criaturas de pesadilla en combates trepidantes. Tras el éxito de Curse of the Dead Gods©, Passtech Games regresa con una fórmula mejorada y una adictiva experiencia de juego con una rejugabilidad infinita. Puede jugarse en solitario o en modo cooperativo con hasta cuatro jugadores.\n\n9 HÉROES INSPIRADOS EN CUENTOS POPULARES\nEncarna a 9 héroes, cada uno con su estilo propio y mecánicas de juego individuales, incluyendo a Caperucita Roja, que padece licantropía; Sun Wukong, el rey mono caído; la Reina de las Nieves con sus poderes maléficos; y muchos otros personajes conocidos que tienen un lado oscuro y más violento de lo que quizás recuerdes.\n\nEXPULSA LA PESADILLA DE REVERIE\nLa Pesadilla ha invadido el mundo de los sueños y lo está corrompiendo todo a su paso. Enfrentada a este mal, la Ravenswatch está reuniendo a héroes de cuentos y leyendas de todo el mundo para librar una batalla crucial y restablecer el frágil equilibrio.\nPero los propios héroes están corrompidos. ¿Hasta dónde llegan las raíces de este mal?\n* Explora 3 mapas abiertos llenos de actividades e inspirados en bosques y pantanos encantados, «Las mil y una noches» y las leyendas artúricas respectivamente.\n* Ayuda a los habitantes de Reverie, como los Tres Cerditos, Simbad el marino y el hada Morgana, y consigue valiosas recompensas que te ayudarán en próximas batallas.\n* Desvela la historia de cada personaje y de Reverie, partida tras partida.\n* Ravenswatch es una combinación creada meticulosamente de ambientación de fantasía oscura y estilo de cómic.\n\nUNA MECÁNICA DE JUEGO TREPIDANTE, EN SOLITARIO O EN MODO COOPERATIVO\nPara vencer a la Pesadilla y llegar al último capítulo necesitarás un desarrollo potente, concentración o un trabajo en equipo excelente. Tienes 3 días y 3 noches para aumentar tu poder. Enfréntate al jefe del capítulo cuando creas que estás preparado... o cuando ya no tengas elección.\n* En la más pura tradición del género «roguelike», Ravenswatch es un juego complicado pero justo, equilibrado y refinado gracias a los comentarios de la comunidad.\n* Épicos combates con jefes y más de 50 formidable enemigos de diseño único.\n* Con cada nivel completado te ganas el derecho a elegir un nuevo talento y mejorar las habilidades de tus héroes. Combina talentos, objetos y sueños para lograr las versiones más poderosas de tus personajes.\n* Más diversión todavía con amigos o usando la función de emparejamiento: explora las sinergias y relaciones entre los héroes con hasta cuatro jugadores en modo cooperativo.\n\nELEVADA REJUGABILIDAD\nDurante tu partida, optimiza el tiempo y aprovecha al máximo las mejoras que consigas. Con cada nueva partida, explora un nuevo mapa lleno de actividades y enemigos. Desbloquea nuevos héroes y nuevo contenido de una partida a otra.\n* Más de 200 talentos, 50 objetos mágicos e infinitas combinaciones de desarrollo.\n* Mapas generados aleatoriamente con una amplia gama de actividades.\n* 4 niveles de dificultad y modos de juego personalizados para un desafío aún mayor o para disfrutar de Ravenswatch a tu propio ritmo.\n* Las actualizaciones regulares añadirán nuevo contenido gratuito.",
         "title_id": "0100E6701DF4E000",
-        "version": "1.19.0",
-        "update_version": 1245184,
-        "titles": "0100E6701DF4E000:1245184:"
+        "version": "1.20.0",
+        "update_version": 1310720,
+        "titles": "0100E6701DF4E000:1310720:"
     },
     {
         "title": "Night in the Woods [NSZ][RUS (Mod.)/ENG]",
@@ -21950,15 +21978,15 @@
     },
     {
         "title": "Avatar Legends the Fighting Game [NSZ][ENG]",
-        "size": "7.68 GB",
-        "magnet": "magnet:?xt=urn:btih:40D582B8B8037B904021E8A84620E035DAE8EF37&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "size": "7.95 GB",
+        "magnet": "magnet:?xt=urn:btih:6473324CC9AF8D218EDAB7F66BC82224C5572ECE&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6885836",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6885836",
         "year": "2026, julio",
         "genre": "Fighting",
         "developer": "Gameplay Group International",
         "publisher": "PM Studios",
-        "image_format": ".NSZ (comprimido ~16%, tamaño instalado 9.16 GB)",
+        "image_format": ".NSZ (comprimido ~16%, tamaño instalado 9.15 GB)",
         "interface_lang": "Inglés [ENG]",
         "voice_lang": "Inglés",
         "performance": "Sí (en 22.5.0, Atmosphere 1.11.2)",
@@ -21974,9 +22002,9 @@
         ],
         "description": "Agua. Tierra. Fuego. Aire.\n\nDomina los elementos y lucha con personajes legendarios en Avatar Legends: The Fighting Game.\n\nCon una animación 2D dibujada a mano que respeta la esencia de la serie, Avatar Legends: The Fighting Game te permite vivir el mundo de Avatar como nunca antes. Elige entre 12 personajes jugables y enfréntate a otros jugadores en distintos modos, como versus local y en línea, historia, arcade, entrenamiento, espectador y galería de arte.\n\nEdición estándar:\n\n● Animación 2D dibujada a mano\nEsta animación logra dar vida a los personajes y a sus estilos de combate únicos de Avatar: La leyenda de Aang, La leyenda de Korra y el universo expandido.\n\n● Gran variedad de modos de juego\nIncluye los modos historia, arcade, juego local y en línea, entrenamiento, espectador y una galería de arte con ilustraciones conceptuales inéditas.\n\n● Modos historia y arcade\nVive una historia original creada por Michael Dante DiMartino y Tim Hedrick, autores de la serie. Define el destino del tiempo y el espacio en el modo historia y luego disfruta recorridos arcade con narrativas para cada personaje jugable.\n\n● Modo entrenamiento integral\nEl modo entrenamiento ofrece herramientas avanzadas para jugadores de todos los niveles, incluidas cajas de impacto, datos de fotogramas, estados guardados y mucho más.\n\n● Galería de arte\nExplora ilustraciones originales nunca antes vistas de la serie y celebra la historia, los personajes y el mundo de Avatar.\n\n● Fácil de aprender, difícil de soltar\nCualquiera puede comenzar a dominar los elementos con controles simples e intuitivos, ideales para partidas rápidas con amigos y familiares. Detrás de lo accesible se esconde un profundo sistema de combate que recompensa la habilidad técnica y la creatividad.\n\n● Juego en línea sin interrupciones\nEnfréntate a jugadores de todo el mundo con código de red rollback y juego multiplataforma. Partidas competitivas y casuales, salas, modo espectador, repeticiones y mucho más garantizan una experiencia competitiva sin importar dónde estés ni contra quién luches.\n\nCaracterísticas de juego\n\n● Domina el flujo y los puntos de energía\nControla el combate con el flujo para desplazarte, esquivar y superar a tus oponentes con gran movilidad. Luego, acumula puntos de energía mediante tu habilidad para desatar movimientos especiales mejorados y poderosas superartes cinematográficas capaces de cambiar el rumbo de la batalla.\n\n● Personajes secundarios\nElige entre tres personajes secundarios para acompañar a tu luchador. Cada uno aporta habilidades únicas que potencian distintas fortalezas y abren nuevas posibilidades estratégicas. Prueba distintas combinaciones y descubre cuál se adapta mejor a tu estilo de juego.",
         "title_id": "0100CBB027BA4000",
-        "version": "1.0.4",
-        "update_version": 262144,
-        "titles": "0100CBB027BA4000:262144:"
+        "version": "1.0.5",
+        "update_version": 327680,
+        "titles": "0100CBB027BA4000:327680:"
     },
     {
         "title": "Clock Tower Rewind [NSP][ENG]",
@@ -28262,7 +28290,7 @@
     {
         "title": "Azure Striker Gunvolt 1-2-3 Trilogy Enhanced / Gunvolt Chronicles Luminous Avenger iX 1+2 Dual Collection [NSP][ENG]",
         "size": "11.16 GB",
-        "magnet": "magnet:?xt=urn:btih:A8FF017245AA6F68BC886EF8821AB369749CE9D7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:B8113A2BFD64CA5579AE22C680B9447453D3CF3D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6880115",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6880115",
         "year": "2024-2026",
@@ -28276,18 +28304,18 @@
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6880115.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/51d24a674b7a8b044ba7e3ef1f2d070d48a62ad0d2949e92814ebb2e7b68cf75.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3b24340957bd9e1b113f01106d53da2c93f3a1d3a1a786ae40e82198cc724eee.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/02627823a0297fb0400c211dda0d841285016e436d534a35a21f1e37467462d2.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/50d333c1c68f7bff40762a490481114bde32492459ac263e26145a6c13c77721.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/724fa5c9b60a001d3a9edc174e1cea66d7cf50df8ab689b83493263b15079e3e.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/2ed9cc4d7e48cd2eb3303621cce9504fa73f768a6e28c34ec20c7cf5527e6676.jpg&output=jpg"
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d35a5b75bfab6a63bd45908a799b360adfd1c101e049b865c683f00fb370871f.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/c8a8dac96aa5104e46629f89cf6f729f02c33d4f67e864a245dcc9355fd9606a.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/bee40a694e269a36aade01878f68955ebdbfb4211176ee53a52ea303bf065dc9.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/1af41759b13a83fd92b2c3f66732c127142fe88683f6d8a4482afd7a7e4b8927.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d5cd285c2949eec0c5f0d81e15b48ceac803106a4d67d6e796e7c014ede84477.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/231a028e4f4ebec20ae3fe79de5d95f6e8930b3bd54d97bb0dfaf44409417ffc.jpg&output=jpg"
         ],
-        "description": "Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection reune y actualiza el ápeX de la acción 2D para jugadores tanto nuevos como veteranos.\nEsta Dual Collection incluye Luminous Avenger iX 1 y 2 con todo su contenido descargable, además de nuevos ajustes de equilibrado.\nTambién incluye el nuevo modo de \"Batalla infinita\".\n\n●Rebalanceo \"Director's Cut\"\nEl modo berserker de \"gatillo tenebroso\" de Luminous Avenger iX está ahora potenciado.\nLuminous Avenger iX 2 recibe un nuevo sistema llamado \"Spike Smash\" que potencia la rueda cortante, el arma principal de Copen.\nSe han implementado varios ajustes más que reequilibran la experiencia de juego para mejorarla.\n\n●Todos los DLC incluidos\nTodos los elementos ya vienen incluidos, incluyendo contenido que antes tenía disponibilidad limitada.\n\n●Nuevo modo Batalla infinita\nLuminous Avenger iX y Luminous Avenger iX 2 reciben ambos un nuevo modo llamado \"Batalla infinita\". Configura los ajustes a tu gusto y enfréntate a una oleada interminable y aleatoria de jefes.\n¿Cuántos podrás derrotar? ¡Enfréntate a este reto en el ápeX!\n\n●Dos historias de ciencia ficción llenas de personalidad\nCopen es un combatiente curtido en mil batallas en una amarga distopía futura.\n¿Podrá ayudar a la gente a la que conoce? ¿Podrán ellos ayudarle a él?\n\n[Reparto de voces]\nCopen: Yuma Uchida (japonés)\n           Alejandro Saab (inglés, iX 2)\nLola: Mayu Mineda (japonés)\n        Cassandra Lee Morris (inglés, iX 2)\nKohaku: Yumiri Hanamori (japonés)\n            Kira Buckland (inglés, iX 2)\nBlade: Yui Ishikawa (japonés)\nNull: Sumire Morohoshi (japonés) \n       Natalie Rose Hoover (inglés)",
-        "title_id": "0100CEB027550000",
-        "version": "2.1.0",
-        "update_version": 458752,
-        "titles": "0100E40022CE2000:458752:;0100CEB027550000:131072:"
+        "description": "Azure Striker Gunvolt Trilogy Enhanced es una colección de tres juegos de plataformas y acción 2D: Azure Striker Gunvolt (2014), Azure Striker Gunvolt 2 (2016) y Azure Striker Gunvolt 3 (2022), reunidos por primera vez con todos los DLC incluidos.\n\nLa serie Gunvolt cuenta con una historia rica en detalles que se desarrolla en tiempo real a través de diálogos durante las misiones, y también con un amplio catálogo musical de docenas de canciones interpretadas por los personajes de los juegos.\n\nEsta trilogía especial viene además con mejoras exclusivas: revisiones del sistema de combate por parte del propio director, voces y canciones mejoradas, y hasta los CD drama o seriales de voz hasta ahora exclusivos en Japón. ¡Esta colección es la más completa hasta el momento!\n\n■Juegos incluidos\nAzure Striker Gunvolt:\nCruza las fases a toda velocidad y acaba con los enemigos usando tu electrosfera en este trepidante juego de plataformas y acción.\nPodrás controlar a Gunvolt, un joven dotado con habilidades sobrehumanas (lo que se conoce como \"adepto\") que puede controlar la electricidad y que debe enfrentarse al tiránico Grupo Sumeragi en una batalla por la libertad.\nLa versión de la Trilogy Enhanced añade nuevas habilidades al arsenal de Gunvolt. ¡Desata su abrumador poder como nunca antes en la serie!\n\nAzure Striker Gunvolt 2:\nCopen, el rival de Gunvolt, es el nuevo protagonista al que podrás controlar junto al Azure Striker.\nCopen usa su impulso para arremeter contra los enemigos antes de lanzar una devastadora ráfaga de láseres guiados.\nDomina su Avance Blitz aéreo para volar con elegancia por los escenarios y destruir a los enemigos desde las alturas, desbloqueando nuevas armas gracias a las habilidades de los jefes derrotados.\nLas voces de Copen y Lola se han grabado de nuevo para la versión de la Trilogy Enhanced.\n\nAzure Striker Gunvolt 3:\nLlega un novedoso estilo de acción junto a una nueva protagonista, Kirin, que puede cambiarse con Gunvolt para superar cualquier obstáculo.\nKirin tiene el poder de teletransportarse al instante para abatir a los enemigos con su habilidad Cadena de Arco, que desatará una tormenta de golpes a velocidad inusitada. También puedes pasarle el testigo a Gunvolt, cuyos ataques con dardos eléctricos son mucho más potentes, y ahora puede atravesar las hordas enemigas a la vez que las aniquila, se teletransporta y desata nuevas Artes Voltáicas.\nEl sistema de Pulso de Imagen recupera a personajes de toda la franquicia en forma de potenciadores y ataques, con más de 150 variantes que coleccionar.\n\n■Reparto de voces\n Gunvolt - Kaito Ishikawa\n Lumen/Joule - Megu Sakuragawa\n Nova - Ayumu Murase\n Copen - Yuma Uchida\n Lola - Mayu Mineda\n Zonda - Sho Nogami / Kaori Nazuka\n Kirin - Yu Sasahara\n ZedΩ - Shun Horie\n Layla/Luxia - Rico Sasaki",
+        "title_id": "0100E40022CE2000",
+        "version": "2.1.2",
+        "update_version": 589824,
+        "titles": "0100E40022CE2000:589824:;0100CEB027550000:131072:"
     },
     {
         "title": "WRC 10 / WRC 9 The Official Game / WRC 8 FIA World Rally Championship [NSZ][RUS/Multi9]",
@@ -86113,33 +86141,34 @@
         "titles": "0100D63017A06000:196608:"
     },
     {
-        "title": "SpeedRunners [NSP][RUS/Multi11]",
-        "size": "598.1 MB",
-        "magnet": "magnet:?xt=urn:btih:85D0339901C680A285948ED078CFB4E7A82AEB9C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "title": "SpeedRunners / Speed Runners 2 King of Speed [NSZ][RUS/Multi11]",
+        "size": "2.39 GB",
+        "magnet": "magnet:?xt=urn:btih:34864A9E7852A389E18BE44E2E6E738D7ABAE21A&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5840109",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5840109",
         "year": "2020, enero",
-        "genre": "Platformer, Arcade",
+        "genre": "Platformer, Arcade, Party",
         "developer": "DoubleDutch Games",
         "publisher": "tinyBuild Games",
-        "image_format": "NSP",
+        "image_format": ".NSZ (comprimido ~11%, tamaño instalado 0.60 GB)",
         "interface_lang": "Ruso, Inglés [RUS / ENG / Multi 11]",
-        "voice_lang": "Sin voces",
+        "voice_lang": "Inglés",
         "performance": "Sí (en 9.0.1, Atmosphere 0.10.2)",
         "multiplayer": "Hasta 4 jugadores",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5840109.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/36492dffa2e1fc8f568cbbdc76060c14c64f08e2f1217d01948402abb7adf784.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/95b0d5c8d114f7b6d6bf3318997a719e00f618af9ef588289c5ac2a96afc5308.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/1495a9178317b3bac4ac2aa1eb49878747bbfe086c2f1aaa58bfd5a493a511bc.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/63dd276cae6bbdfb228eda8ef158852cb4a571af5979cf6f821d405ce92cf9bf.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a5996c7c0f22dbf7d79477bc664ea0fbc5db449fe585809d5f231a016d5ca914.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/578ef31d6c00451bcac540e43c07dd8e7a24cad642b30791dd2ec84a755d74f9.jpg&output=jpg"
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/8a510f49cca6a757bc34374c5af2fee0834d818aea783739380be216720e9c23.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/f536b4c8a397eebc4b95e0322841ebaa91737d7285cc217fa076038c73a0e61a.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/de02fd0adcd6e9e485c293beaabe195cf3014a8dad5da1135b9d606825218394.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/751a2c18d5b755136786b551d8115cfdfa9020520b8b23d27a01728b81351fe7.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/6b67d483970aa6039cda3d1b126b6b99029ecbb9f4a4fd7aeb70423bc1fa1bcd.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/c85aab178bdfd896069da362a8efacc59776c4d7c35fb29021344c37dc8e22ca.jpg&output=jpg"
         ],
-        "description": "En una ciudad llena de superhéroe, llegar a los crímenes se convierte en una competición para cada uno. Afortunamente hay suficientes cohetes, bombas, ganchos, pinchos, y otras mejoras tiradas por los alrededores -- para hacer la competición divertida y rápida. Bienvenido a SpeedRunners.\n\nSpeedrunners es un competitivo plataformas de 4 jugadores con ganchos, poderes, y escenarios interactivos. Corre, salta, balancéate por todos lados, usa cohetes de fuego, agarrate a la gente para lanzarla fuera de la pantalla.",
-        "title_id": "0100C8B00C4AE000",
+        "description": "LA SIGUIENTE GENERACIÓN DE SPEEDRUNNERS\nCon esta secuela, nuestro objetivo es adaptar esa «experiencia SpeedRunners» especial a una nueva era, sin renunciar a la profundidad y fluidez del sistema de movimiento, y sin que deje de ser fácil de entender. Además, King of Speed ofrece unos gráficos espectaculares en alta definición y un código de red mejorado.\n\nHAY QUE IR DEPRISA\nSpeedRunners 2: King of Speed es un trepidante juego de plataformas competitivo y la secuela de uno de los juegos independientes más queridos de la década de los 2010. Elige a uno de los personajes del enérgico grupo de superhéroes excéntricos, tanto veteranos como nuevos, y enfréntate a tus rivales en las frenéticas carreras de hasta 4 jugadores por sala en modo local u online.\n\nCORRE HASTA QUE NO QUEDE NADIE\nTu objetivo es adelantarte por todos los medios y aferrarte al primer puesto mientras a tus rivales los devora, uno a uno, un anillo de fuego. Prepárate para correr como si te fuera la vida en ello por varias pistas maravillosas ambientadas en un mundo retrofuturista inspirado en la utopía de los superhéroes de los años 60.\n\nA TODO GAS\nSaca a tus rivales fuera de la pantalla y acaba con la competencia mediante el uso de poderosos objetos como los misiles, las trampas, los rayos congelantes o un gancho dorado que te permite tirar de los corredores que tienes por delante. ¡Arruina amistades, rompe mandos y toma decisiones en décimas de segundo para convertirte en el verdadero rey de la velocidad!\n\nDOMINA LA COMPETITIVIDAD DE LAS PLATAFORMAS\nAprende la disposición de los mapas diseñados con destreza y domina las mecánicas de movimiento tan intuitivas como profundas. Memoriza la ubicación de los propulsores, los objetos, las secciones de rebote en la pared, los obstáculos, los techos azules a los que te puedes enganchar y las palancas que abren o cierran recorridos. ¡Corre, salta, deslízate y balancéate hacia la victoria!\n\nCORRE A TU MANERA\nSpeedRunners 2 es un juego competitivo que se puede disfrutar de forma casual, pero que también tiene un gran umbral de habilidad. Esto te permitirá desarrollar tu destreza en el speedrunning durante muchas horas. Únete a una comunidad exclusiva para participar en torneos, crear desafíos personalizados y escalar posiciones en las  tablas de clasificación, o reúnete con tus amigos en una sala privada para disfrutar de una diversión JcJ más desenfadada.",
+        "title_id": "01004CC023582000",
         "version": "1.0.0",
-        "titles": "0100C8B00C4AE000:0:"
+        "update_version": 131072,
+        "titles": "01004CC023582000:131072:;0100C8B00C4AE000:0:"
     },
     {
         "title": "Football Manager 26 Touch [XCI][ENG]",

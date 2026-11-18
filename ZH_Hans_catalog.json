@@ -1,5 +1,33 @@
 [
     {
+        "title": "Kowloon's Gate Suzaku [XCI][ENG]",
+        "size": "1.86 GB",
+        "magnet": "magnet:?xt=urn:btih:4292D650851FA1582180FB1488C939A4187153DD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6939431",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6939431",
+        "year": "2026",
+        "genre": "Adventure, Puzzle",
+        "developer": "JETMAN",
+        "publisher": "Unknown",
+        "image_format": "XCI",
+        "interface_lang": "英语 [ENG]",
+        "voice_lang": "英语",
+        "performance": "是(在 23.5.0, Atmosphere 1.12.2)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6939431.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1118/17/8f3ce0f348a5ac1f9b8a47c09f97be17.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1118/e0/54274819123e64403032e73e72123de0.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1118/0b/711adc44da5b1251f3e123c098943a0b.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1118/ec/1431169150f267b22dae08f22123b8ec.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1118/71/9fb9a97c78da016d7b6b22f320c3f271.jpeg"
+        ],
+        "description": "这款以九龙为灵感的世界的标志性超现实亚洲哥特式游戏在 Nintendo Switch™ 上重生。",
+        "title_id": "0100DC20244AE000",
+        "version": "1.0.0",
+        "titles": "0100DC20244AE000:0:"
+    },
+    {
         "title": "Ridge Racer 6 (自制程序) + 77 DLC [NRO][ENG]",
         "size": "7.23 GB",
         "magnet": "magnet:?xt=urn:btih:EF9CC575AC7CAE142669EC7ACA2F7777DAC04CD5&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -13,7 +41,7 @@
         "interface_lang": "英语 [ENG]",
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
-        "multiplayer": "无",
+        "multiplayer": "最多 2 人",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6939263.jpg",
         "screenshots": [
             "https://i129.fastpic.org/thumb/2026/1117/f3/dfb0599346befb83aff863aaa99ab5f3.jpeg",
@@ -400,7 +428,7 @@
         "image_format": "NRO",
         "interface_lang": "英语 [ENG]",
         "voice_lang": "无语音",
-        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "performance": "是 (在 23.5.0, Atmosphere 1.12.2)",
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6938181.jpg",
         "screenshots": [
@@ -12146,9 +12174,9 @@
         "version": "3.7"
     },
     {
-        "title": "Dragon Quest Builders / Dragon Quest Builders 2 [NSP][ENG]",
-        "size": "2.6 GB",
-        "magnet": "magnet:?xt=urn:btih:5C3F1BC080F2CA4A6D740A6CD6217820C18832EC&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "Dragon Quest Builders / Dragon Quest Builders 2 [NSP][ENG,RUS]",
+        "size": "2.97 GB",
+        "magnet": "magnet:?xt=urn:btih:B898AACB735408AF2C7C7CCC81C156F69BA91B10&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5749437",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5749437",
         "year": "2018, 2月",
@@ -12156,7 +12184,7 @@
         "developer": "Square Enix",
         "publisher": "Nintendo",
         "image_format": "NSP",
-        "interface_lang": "英语 [ENG]",
+        "interface_lang": "英语 [ENG] + 可选机翻 来自 EgokaP, 移植版 Larich_D",
         "voice_lang": "无",
         "performance": "是 (在 21.2.0, Atmosphere 1.10.2)",
         "multiplayer": "无",
@@ -12172,8 +12200,8 @@
         "description": "Eta igra dostupna tolko na angliyskom, frantsuzskom, italyanskom, nemetskom i ispanskom yazykakh.\n\nDragon Quest Builders 2 vyydet na Nintendo Switch. Zdes sochetayutsya elementy rolevoy igry i geympley po sozdaniyu igrovogo mira. Sobirayte materialy i sozdavayte oruzhie, zdaniya i dazhe tselye goroda!\n\nS pomoshchyu zagadochnogo Malrota i drugikh zhiteley vy budete issledovat ogromnye ostrova, vypolnyat razlichnye zadaniya i srazhatsya s opasnymi monstrami i bossami. Gotovy dat otpor Synam Khargona?\n\nV podarok vy takzhe poluchite nabor zagruzhaemogo kontenta Bonusnyy nabor zagruzhaemykh versiy, kotoryy soderzhit predmety: \n\nStackable slime\nOrnamental medicinal herb\nOrnamental chimaera wing\nPixelated protagonist\nPixelated prince\nPixelated princess\nLegendary line art\nDragon Quest logo\nSoul Sigil block.\nWater Sigil block\nMoon Sigil block\nStar Sigil block\nSun Sigil block\n\nIgrayte s udovolstviem!",
         "title_id": "010042000A986000",
         "version": "1.0.1",
-        "update_version": 327680,
-        "titles": "010042000A986000:327680:;010008900705C000:65536:"
+        "update_version": 393216,
+        "titles": "010042000A986000:393216:;010008900705C000:65536:"
     },
     {
         "title": "Cat Quest III (3) [NSZ][RUS/Multi10]",
@@ -14067,15 +14095,15 @@
     },
     {
         "title": "Ravenswatch + 10 DLC [NSZ][RUS/Multi10]",
-        "size": "2.2 GB",
-        "magnet": "magnet:?xt=urn:btih:7C403C88336BF92AE52DF4A87C9198334A780D2B&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "size": "2.24 GB",
+        "magnet": "magnet:?xt=urn:btih:9EAA99D06D81ECA8705827583767F4EA8DF24B1F&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6634231",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6634231",
         "year": "2025, 1月",
         "genre": "Action, Role-Playing, Roguelike",
         "developer": "Marjorie Roy",
         "publisher": "Nacon",
-        "image_format": ".NSZ (已压缩 ~49%, 安装大小 4.37 GB)",
+        "image_format": ".NSZ (已压缩 ~49%, 安装大小 4.36 GB)",
         "interface_lang": "俄语, 英语 [RUS / ENG / Multi 10]",
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
@@ -14089,9 +14117,9 @@
         ],
         "description": "黑化的童話故事 \n《Ravenswatch》是款上帝視角的 roguelike 動作遊戲，你會扮演童話故事及傳奇故事的英雄，必須在精神緊繃的戰鬥中屠戮夢魘般的生物。《Curse of the Dead Gods©》大獲成功後，Passtech Games 以改善的常規、令人愛不釋手的遊戲體驗及永無止境的重玩性回歸。本遊戲可單人遊玩，或至多 4 名玩家合作進行。\n\n由熱門的童話故事啟發的 9 名英雄\n扮演 9 位不同的英雄，各有不同的轉折及不同的遊戲玩法，包括：患有變狼症的小紅帽、墮落的猴王孫悟空、擁有邪惡力量的雪皇后，以及許多擁有黑暗面，且比印象中更加暴力的角色。\n\n將噩夢逐出洛維勒\n噩夢已入侵夢境的世界，並在清醒時刻腐化著一切。Ravenswatch 面臨著邪惡勢力，正從世界各地集結童話故事及傳奇故事的英雄，以打一場殘酷的戰鬥並恢復脆弱的平衡。\n但英雄本身已遭腐化。邪惡的根究竟扎了多深了呢？\n* 探索 3 個充滿各種活動，及受到森林與沼澤、一千零一夜與亞瑟王傳奇故事啟發的開放世界地圖。\n* 協助三隻小豬、水手辛巴達及摩根勒菲等洛維勒的居民，並賺取能在未來的戰鬥發揮作用的珍貴獎勵。\n* 每遊玩一場遊戲，就能揭露每個角色及洛維勒的故事。\n*《Ravenswatch》為精心設計的遊戲，將黑暗奇幻氛圍及漫畫風格相互結合。\n\n可單獨或多人合作、精神緊繃的遊戲玩法\n若想擊敗噩夢並抵達最終章節，你會需要一個壯碩的身體、堅強的專注力及／或絕佳的團隊合作。你有 3 天 3 夜的時間提升自己的力量。準備就緒……或再也沒有選擇餘地時，就能面對關卡魔王。\n* 在純粹傳統的 roguelike 類型中，《Ravenswatch》是款極具挑戰，但公平、相當平衡又細緻的遊戲，而這都要感謝社群的意見回饋。\n* 史詩魔王戰鬥，以及超過 50 種強勁、經過獨特設計的敵人。 \n* 每完成一個等級，就能選擇新的天賦，並改善英雄的技能。將天賦、物品及夢想相互結合，以打造出最強大的角色。\n* 與好友盡享更多遊戲樂趣，或使用對戰配對功能：在至多 4 名玩家的合作模式中，探索各英雄間的偕同作用及關係。\n\n高度重新遊玩價值\n在遊玩期間，最佳化你的時間，並好好利用賺取的升級。每遊玩一場新遊戲，就能探索充滿活動及敵人的新地圖。每次遊玩遊戲，都能解鎖新英雄及新內容。\n* 超過 200 種天賦、50 種魔法物品及永無止境的組建。\n* 具有多種活動的隨機生成地圖。\n* 4 種難度等級及自訂的遊戲模式，能盡享更艱鉅的挑戰，或依據自己的步調享受《Ravenswatch》這款遊戲。\n* 將會定期更新以加入新內容。",
         "title_id": "0100E6701DF4E000",
-        "version": "1.19.0",
-        "update_version": 1245184,
-        "titles": "0100E6701DF4E000:1245184:"
+        "version": "1.20.0",
+        "update_version": 1310720,
+        "titles": "0100E6701DF4E000:1310720:"
     },
     {
         "title": "Night in the Woods [NSZ][RUS (Mod.)/ENG]",
@@ -21889,15 +21917,15 @@
     },
     {
         "title": "Avatar Legends the Fighting Game [NSZ][ENG]",
-        "size": "7.68 GB",
-        "magnet": "magnet:?xt=urn:btih:40D582B8B8037B904021E8A84620E035DAE8EF37&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "size": "7.95 GB",
+        "magnet": "magnet:?xt=urn:btih:6473324CC9AF8D218EDAB7F66BC82224C5572ECE&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6885836",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6885836",
         "year": "2026, 7月",
         "genre": "Fighting",
         "developer": "Gameplay Group International",
         "publisher": "PM Studios",
-        "image_format": ".NSZ (已压缩 ~16%, 安装大小 9.16 GB)",
+        "image_format": ".NSZ (已压缩 ~16%, 安装大小 9.15 GB)",
         "interface_lang": "英语 [ENG]",
         "voice_lang": "英语",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
@@ -21913,9 +21941,9 @@
         ],
         "description": "本作品忠於系列原作的手繪 2D 動畫，《Avatar Legends: The Fighting Game》 將帶你感受《降世神通》的精彩世界。玩家可選 12 個可操作角色，並在多種模式中戰鬥，包括：離線與線上對戰、故事、街機、訓練、觀戰以及美術藝廊。\n\n標準版：\n\n● 手繪 2D 動畫\n栩栩如生的手繪 2D 動畫，忠實還原《Avatar: The Last Airbender》、《The Legend of Korra》以及其延伸世界的各個角色和獨特戰鬥風格。\n\n● 豐富的遊戲模式\n包括故事模式、街機模式、離線與線上對戰、訓練模式、觀戰模式；以及收錄首度公開概念美術的美術藝廊。\n\n● 故事及街機模式\n體驗由原作者 Michael Dante DiMartino 及 Tim Hedrick 親自擬定大綱的全新原創故事。在主線故事模式中掌控時空的命運，並在街機模式中經歷所有可用角色的專屬劇情。\n\n● 強大的訓練模式\n訓練模式為所有水平的玩家提供進階工具，包括判定框、影格數據和狀態儲存等。\n\n● 美術藝廊\n探索首度公開的原作設計，向《降世神通》的歷史、角色和世界致敬。\n\n● 輕鬆上手，欲罷不能\n簡單直觀的操作，讓任何玩家都可使用御術對決，適合與親朋好友即席切磋。格鬥系統可簡單入門，卻具備深度，考驗玩家的技術和創意。\n\n● 流暢線上對戰\n透過回滾型網路代碼和跨平台連線功能，與全球玩家競技。積分賽、休閒賽、大廳、觀戰模式、重播功能等一應俱全；無論你身在何處、對手是誰，都能確保流暢的競技體驗。\n\n遊戲玩法特色\n\n● 善用「流」和能量點數\n使用「流」來進行衝刺、閃避，並以高速移動壓制對手；再巧妙累積能量點數，釋放強力招式和華麗的超級奧義，一舉扭轉戰局。\n\n● 支援角色\n從三個支援角色中選出一位與你的格鬥家並肩作戰。他們每人都擁有獨特能力，可帶來不同優勢和新戰略。嘗試各種組合，找出最適合你風格的完美搭檔。",
         "title_id": "0100CBB027BA4000",
-        "version": "1.0.4",
-        "update_version": 262144,
-        "titles": "0100CBB027BA4000:262144:"
+        "version": "1.0.5",
+        "update_version": 327680,
+        "titles": "0100CBB027BA4000:327680:"
     },
     {
         "title": "Clock Tower Rewind [NSP][ENG]",
@@ -28190,7 +28218,7 @@
     {
         "title": "Azure Striker Gunvolt 1-2-3 Trilogy Enhanced / Gunvolt Chronicles Luminous Avenger iX 1+2 Dual Collection [NSP][ENG]",
         "size": "11.16 GB",
-        "magnet": "magnet:?xt=urn:btih:A8FF017245AA6F68BC886EF8821AB369749CE9D7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:B8113A2BFD64CA5579AE22C680B9447453D3CF3D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6880115",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6880115",
         "year": "2024-2026",
@@ -28204,18 +28232,18 @@
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6880115.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3cee7bcac4c577018983d0b5f66dcc6c7bb0de2a05936035b241fce33de072e5.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/0529c426bdd9aaf1eca4e2793ec864d59b5f636cd3577d90d8efa7fd2625cf93.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/8fcd362e8f4110e285e363c21330327058032ae94ebe14753f1cdfdbcb216b82.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/7245c369216a7293b16f6ebc72fc127c0a094d5e3d8f684c58b6e86f22106ae9.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/dade43a4e7431b903bb72d3d55f97d8b67be04547b698a3af54694a66501f0f8.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3e0a59e511945129f7db700859dc8803c0321b0c90e20806173a8847bd854a6e.jpg&output=jpg"
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/86f3217f2f70d699d88fe7c360b0bd0f689174a1258cdb3829c36e65e96504fc.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/bec84a35d67a00405946f1451c1a7fc50baf5ed3b235b9ea910315e84bf87975.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/951631efcdd0686e9a649ac41a8df8ec79e276534517f8dc7cf07b6b51a21aa9.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/bfcb688f3985682eb6c5542f0551be0a8af162daf34170e66fb0076850b3212c.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/726264ba7ccb0abbb998e2d1c7589a0d3d036c8381109749195743934b7ddf0c.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/231a028e4f4ebec20ae3fe79de5d95f6e8930b3bd54d97bb0dfaf44409417ffc.jpg&output=jpg"
         ],
-        "description": "極限2D動作遊戲《銀白鋼鐵X》系列兩部作品合二為一。\n搭載所有DLC，並重新調整了遊戲平衡，以導演剪輯版之姿完全新生。\n此外還搭載了新模式「無盡戰鬥」。\n這是曾經遊玩過原版的玩家也能以新鮮的心情享受的特別模式。\n\n●特點①重新調整遊戲平衡的導演剪輯版規格\n《銀白鋼鐵X》強化了失控系統「闇影扳機」。\n《銀白鋼鐵X2》則是基於新功能「砥礪粉碎系統」，大幅強化了主武器裂破轉輪！\n除此之外還進行了各種細部調校。\n\n●特點②過往的DLC全數搭載\n包含原先難以獲得的項目在內，「所有」DLC全數搭載。\n\n●特點③ 新模式「無盡戰鬥」\n《銀白鋼鐵X》、《銀白鋼鐵X2》兩部作品都將追加能夠在自由的設定下與隨機出現的頭目連續戰鬥的「無盡戰鬥」模式。\n你能過關斬將到什麼地步呢？挑戰自己的「極限」吧！\n\n●特點④ 以全語音構成的極限戰鬥故事\n壓倒性的劣勢──以遭受巨大惡勢力支配的未來世界為舞台，英雄「亞裘拉」隻身挑戰威脅。\n由豪華配音陣容呈獻，衰敗與解放的故事。\n\n《配音陣容》\n亞裘拉 … 内田雄馬\nRoRo … 峯田茉優\n琥珀 … 花守ゆみり\n鋒刃 … 石川由依\n努兒 … 諸星すみれ",
-        "title_id": "0100CEB027550000",
-        "version": "2.1.0",
-        "update_version": 458752,
-        "titles": "0100E40022CE2000:458752:;0100CEB027550000:131072:"
+        "description": "本作是收錄了正統2D橫向捲軸動作遊戲《蒼藍雷霆GUNVOLT》（2014年）、《蒼藍雷霆GUNVOLT 2》（2016年）、《蒼藍雷霆GUNVOLT 3 鎖環》（2022年）共3部作品與所有DLC的完全版。\n\n作為GUNVOLT系列的共同特徵，在動作關卡中不斷插入的「輕小說」風格的全語音對話，以及超過37首由「電子謠精（Cyber Diva）」演唱的歌曲會為遊戲世界增添色彩。\n\n此外，由系列總監綜觀3部作品後，重新調整了動作性，並翻新語音與樂曲，再加上搭載能享受重新構築的特典廣播劇CD等相關內容的資料庫模式等要素，是包含了嶄新體驗在內的最終完全版。\n\n【收錄作品介紹】\n■《蒼藍雷霆GUNVOLT》\n《蒼藍雷霆GUNVOLT》能夠享受高速的奔馳感，以及利用「雷擊鱗」擊倒敵人的爽快動作所帶來的樂趣。\n玩家扮演的鋼伏特要使用雷擊的「第七波動（Seventh）」，為了自由而與皇神集團的能力者們展開激烈的戰鬥。\n在此之上，本次的版本還為鋼伏特增添了新的技能。\n鋼伏特的雷擊動作會朝向更進一步的巔峰解放。\n\n■《蒼藍雷霆GUNVOLT 2》\n本作將勁敵「亞裘拉」追加為新的可遊玩角色。\n亞裘拉能利用衝撞鎖定敵人，並連續發射強力的鎖定射擊。\n只要活用在空中衝刺的「電光衝刺」就能展開華麗的空戰，並且還能擷取頭目的能力，化為自己的技能使用。\n此外，本次的版本還以新的配音陣容重新收錄了亞裘拉和RoRo的語音，以及RoRo所演唱的歌曲。\n\n■《蒼藍雷霆GUNVOLT 3 鎖環》\n本作能夠在新主角「麒麟」與系列主角鋼伏特之間切換，享受爽快動作帶來的樂趣。\n麒麟會透過可從任何地方瞬間拉近距離，並使用無數斬擊打倒敵人的一擊必殺技「雷霆煉鎖」帶來豪邁的斬殺動作，鋼伏特則在以往的避雷針與雷擊組合的戰鬥風格基礎之上，加入了能一邊穿過敵人一邊破壞的「火花衝刺」，以及瞬間移動後零距離施放雷擊的「閃電突擊」等華麗的「雷電衍藝」。\n此外，本作還搭載了超過150種會出現過往角色並以動作提供輔助的「印象脈衝」。\n\n【配音陣容】\n　鋼伏特… 石川界人\n　席安 ／ 慕爾芙 … 櫻川めぐ\n　紫電 … 村瀬歩\n　亞裘拉 … 内田雄馬\n　RoRo … 峯田茉優\n　潘緹拉 … 野上翔 ／ 名塚佳織\n　麒麟 … 篠原侑\n　ZEDΩ.（傑德） … 堀江瞬\n　蕾拉 ／ 勒克席雅 … 佐々木李子",
+        "title_id": "0100E40022CE2000",
+        "version": "2.1.2",
+        "update_version": 589824,
+        "titles": "0100E40022CE2000:589824:;0100CEB027550000:131072:"
     },
     {
         "title": "WRC 10 / WRC 9 The Official Game / WRC 8 FIA World Rally Championship [NSZ][RUS/Multi9]",
@@ -85934,33 +85962,34 @@
         "titles": "0100D63017A06000:196608:"
     },
     {
-        "title": "SpeedRunners [NSP][RUS/Multi11]",
-        "size": "598.1 MB",
-        "magnet": "magnet:?xt=urn:btih:85D0339901C680A285948ED078CFB4E7A82AEB9C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "title": "SpeedRunners / Speed Runners 2 King of Speed [NSZ][RUS/Multi11]",
+        "size": "2.39 GB",
+        "magnet": "magnet:?xt=urn:btih:34864A9E7852A389E18BE44E2E6E738D7ABAE21A&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "5840109",
         "url": "https://rutracker.org/forum/viewtopic.php?t=5840109",
         "year": "2020, 1月",
-        "genre": "Platformer, Arcade",
+        "genre": "Platformer, Arcade, Party",
         "developer": "DoubleDutch Games",
         "publisher": "tinyBuild Games",
-        "image_format": "NSP",
+        "image_format": ".NSZ (已压缩 ~11%, 安装大小 0.60 GB)",
         "interface_lang": "俄语, 英语 [RUS / ENG / Multi 11]",
-        "voice_lang": "无语音",
+        "voice_lang": "英语",
         "performance": "是 (在 9.0.1, Atmosphere 0.10.2)",
         "multiplayer": "最多 4 人",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/5840109.jpg",
         "screenshots": [
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/36492dffa2e1fc8f568cbbdc76060c14c64f08e2f1217d01948402abb7adf784.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/95b0d5c8d114f7b6d6bf3318997a719e00f618af9ef588289c5ac2a96afc5308.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/1495a9178317b3bac4ac2aa1eb49878747bbfe086c2f1aaa58bfd5a493a511bc.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/63dd276cae6bbdfb228eda8ef158852cb4a571af5979cf6f821d405ce92cf9bf.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a5996c7c0f22dbf7d79477bc664ea0fbc5db449fe585809d5f231a016d5ca914.jpg&output=jpg",
-            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/578ef31d6c00451bcac540e43c07dd8e7a24cad642b30791dd2ec84a755d74f9.jpg&output=jpg"
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/8a510f49cca6a757bc34374c5af2fee0834d818aea783739380be216720e9c23.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/f536b4c8a397eebc4b95e0322841ebaa91737d7285cc217fa076038c73a0e61a.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/de02fd0adcd6e9e485c293beaabe195cf3014a8dad5da1135b9d606825218394.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/751a2c18d5b755136786b551d8115cfdfa9020520b8b23d27a01728b81351fe7.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/6b67d483970aa6039cda3d1b126b6b99029ecbb9f4a4fd7aeb70423bc1fa1bcd.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/c85aab178bdfd896069da362a8efacc59776c4d7c35fb29021344c37dc8e22ca.jpg&output=jpg"
         ],
-        "description": "V gorode, polnom supergeroev, pribytie k mestu prestupleniya - samo po sebe sorevnovanie. K schastyu, po puti est dostatochno raket, bomb, kryukov-koshek, shipov i drugikh prelestey. Dobro pozhalovat v SpeedRunners!\n\nSpeedRunners - sorevnovatelnyy platformer dlya 4-kh igrokov, s kryukami-koshkami usileniyami i interaktivnymi obektami. Begite, prygayte, letayte na kryukakh, strelyayte raketami, prityagivayte igrokov - delayte vsyo, chtoby oni vybyli.",
-        "title_id": "0100C8B00C4AE000",
+        "description": "一款快节奏的平台游戏，4 名玩家在本地竞争。奔跑、跳跃、躲避其他玩家，并使用一系列武器将对手从屏幕上扔出去！\n在一个充满超级英雄的城市里，到达犯罪现场本身就是一场竞争。幸运的是，沿途有大量的火箭、炸弹、抓钩、尖刺和其他好东西。欢迎来到极速跑者！ SpeedRunners 是一款适合 4 名玩家的竞技平台游戏，配有抓钩、能量道具和互动对象。奔跑、跳跃、钩飞、发射火箭、吸引玩家 - 尽一切努力让他们退出。",
+        "title_id": "01004CC023582000",
         "version": "1.0.0",
-        "titles": "0100C8B00C4AE000:0:"
+        "update_version": 131072,
+        "titles": "01004CC023582000:131072:;0100C8B00C4AE000:0:"
     },
     {
         "title": "Football Manager 26 Touch [XCI][ENG]",
