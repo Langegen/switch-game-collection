@@ -1,4 +1,15 @@
 [
+  {"title": "SpeedRunners / Speed Runners 2 King of Speed", "title_id": "01004CC023582000", "metacritic": 84.0},
+  {"title": "Kowloon's Gate Suzaku", "title_id": "0100DC20244AE000", "metacritic": null},
+  {"title": "Dragon Quest Builders / Dragon Quest Builders 2", "title_id": "010042000A986000", "metacritic": 86.0},
+  {"title": "Ravenswatch + 10 DLC", "title_id": "0100E6701DF4E000", "metacritic": 84.0},
+  {"title": "Avatar Legends the Fighting Game", "title_id": "0100CBB027BA4000", "metacritic": null},
+  {"title": "Azure Striker Gunvolt 1-2-3 Trilogy Enhanced / Gunvolt Chronicles Luminous Avenger iX 1+2 Dual Collection", "title_id": "0100E40022CE2000", "metacritic": 81.0},
+  {"title": "Sacred 2 Remaster", "title_id": "010074402766A000", "metacritic": null},
+  {"title": "502's Arcade", "title_id": "01009B101466C000", "metacritic": null},
+  {"title": "Moomin Midsummer Madness / Moomintroll: Winter's Warmth / Snufkin Melody of Moominvalley (Снусмумрик: Мелодия Муми-дола, Муми-тролль: Тепло среди зимы, Опасное лето)", "title_id": "010009E0263CA000", "metacritic": 81.0},
+  {"title": "Yog-Sothoth's Yard", "title_id": "010064C02639A000", "metacritic": 73.0},
+  {"title": "Death Road to Canada", "title_id": "0100423009358000", "metacritic": 79.0},
   {"title": "The Cat in the Hat Rainy Day Mayhem", "title_id": "0100778022442000", "metacritic": null},
   {"title": "Future Knight", "title_id": "0100E7C027960000", "metacritic": null},
   {"title": "Hasbro Games Junior Collection", "title_id": "0100060027530000", "metacritic": null},
@@ -17,16 +28,5 @@
   {"title": "Rusty Rangers", "title_id": "01002E302204A000", "metacritic": null},
   {"title": "Beholder 1, 2, 3, Conductor", "title_id": "0100D1300C1EA000", "metacritic": null},
   {"title": "Good Job", "title_id": "0100B0500FE4E000", "metacritic": 78.0},
-  {"title": "Tetris the Grand Master TGM 4 Absolute Eye", "title_id": "0100A9F027F1C000", "metacritic": null},
-  {"title": "Million Depth (демонстрационная версия)", "title_id": "010006102A00E000", "metacritic": null},
-  {"title": "Sin Reloaded Gold + Wages of Sin", "title_id": "0100F07026DA8000", "metacritic": null},
-  {"title": "Dog Man Mission Impawsible / Bark in Action", "title_id": "010092E02849A000", "metacritic": null},
-  {"title": "Telebbit", "title_id": "0100A0A0204A4000", "metacritic": null},
-  {"title": "Apple Knight 1-2", "title_id": "01007A90223D8000", "metacritic": null},
-  {"title": "Tearscape", "title_id": "0100FCF0280DA000", "metacritic": null},
-  {"title": "Serial Experiments Lain Offline (Эксперименты Лэйн, порт laingame TSX)", "title_id": "01009E85B2FB2000", "metacritic": null},
-  {"title": "Unrailed 2 Back on Track", "title_id": "01006D00241E6000", "metacritic": 77.0},
-  {"title": "Harvest Moon Echoes of Teradea", "title_id": "0100839022642000", "metacritic": null},
-  {"title": "Tales of Eternia Remastered (Tales of Destiny II)", "title_id": "010006E0230AC000", "metacritic": null},
-  {"title": "Ball x Pit + DLC Risen Ballbylon", "title_id": "010086A022444000", "metacritic": 84.0}
+  {"title": "Tetris the Grand Master TGM 4 Absolute Eye", "title_id": "0100A9F027F1C000", "metacritic": null}
 ]
