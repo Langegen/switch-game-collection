@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-18T07:32:35Z",
+ "generated": "2026-11-18T20:34:16Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -2738,18 +2738,18 @@
    "name": "comicreaderswitch",
    "title": "Comic Reader",
    "author": "ZiggyGoofy",
-   "version": "0.6.0",
+   "version": "0.7.0",
    "category": "tool",
    "description": "",
-   "changelog": "## Français\r\n\r\n### Nouveautés\r\n- **Écran de réglages** : touche **-** dans la bibliothèque. Tu peux y changer le dossier des comics sans réinstaller, et régler le filtre chaud.\r\n- **Filtre chaud** : 4 niveaux de teinte orangée pour lire le soir avec moins de lumière bleue. Il s'applique partout et le réglage est mémorisé.\r\n- **Recherche par titre** : touche **Y** dans la bibliothèque (clavier système). **B** efface la recherche.\r\n- **Compteur par œuvre** : « lus/total » sous chaque couverture, en vert quand tout est lu.\r\n- **Marquer comme lu** : touche **X** dans la liste des chapitres (un second appui annule).\r\n- **Chapitre suivant** : à la fin d'un chapitre, une invite propose d'ouvrir directement le suivant (**A** ou **R**).\r\n- **Formats .zip et .rar** reconnus en plus de .cbz et .cbr.\r\n- **Légende des touches** dans la barre latérale de la bibliothèque.\r\n\r\n### Améliorations et corrections\r\n- Barre de progression plus grosse, et elle ne disparaît plus quand on la fait glisser.\r\n- Le compteur est calculé à la demande avec un cache, pour garder une bibliothèque fluide.\r\n\r\n### Installation\r\nCopier `ComicReaderSwitch.nro` dans `/switch/ComicReaderSwitch/` sur la carte SD. Tes réglages et ta progression sont conservés.\r\n\r\n### Remarque\r\nLa recherche utilise le clavier système de la console : elle peut être indisponible si l'application est lancée en mode « title override » (via un jeu) plutôt que via l'album.\r\n\r\n## English\r\n\r\n### What's new\r\n- **Settings screen**: press **-** in the library. Change the comics folder without reinstalling, and adjust the warm filter.\r\n- **Warm filter**: 4 levels of orange tint to read at night with less blue light. Applies everywhere and the setting is saved.\r\n- **Title search**: press **Y** in the library (system keyboard). **B** clears the search.\r\n- **Per-series counter**: \"read/total\" under each cover, green when everything is read.\r\n- **Mark as read**: press **X** in the chapter list (press again to undo).\r\n- **Next chapter**: at th",
+   "changelog": "## Français\r\n\r\n### Nouveautés\r\n- **Épingler des œuvres** : touche **X** dans la bibliothèque. Les œuvres épinglées passent en tête de la grille et portent un petit ruban doré. Les épingles sont mémorisées.\r\n- **Écran « Touches »** : dans les réglages (touche **-**), la liste complète des commandes de la bibliothèque, de la liste des chapitres et de la lecture.\r\n- La légende des touches de la bibliothèque affiche maintenant « X : épingler ».\r\n\r\n### Corrections\r\n- En mode portrait, les informations de la barre de lecture ne se chevauchent plus.\r\n\r\n### Performances\r\n- Les miniatures et les couvertures de dossiers sont gardées en mémoire : revenir à la bibliothèque ou entrer dans une œuvre ne redécode plus d'images.\r\n- Les textes affichés sont mis en cache au lieu d'être redessinés à chaque image : la navigation est plus fluide.\r\n- La progression de lecture est mise en cache, et le mode défilement n'écrit plus sur la carte SD à chaque image quand la page n'a pas changé.\r\n- Le compteur « lus/total » est calculé à la demande.\r\n\r\n### Installation\r\nCopier `ComicReaderSwitch.nro` dans `/switch/ComicReaderSwitch/` sur la carte SD. Tes réglages, ta progression et tes miniatures sont conservés.\r\n\r\n## English\r\n\r\n### What's new\r\n- **Pin series**: press **X** in the library. Pinned series move to the top of the grid and get a small gold ribbon. Pins are saved.\r\n- **\"Controls\" screen**: in settings (**-** key), the full list of commands for the library, the chapter list and reading.\r\n- The library key legend now shows \"X: pin\".\r\n\r\n### Fixes\r\n- In portrait mode, the reader bar information no longer overlaps.\r\n\r\n### Performance\r\n- Thumbnails and folder covers are kept in memory: going back to the library or entering a series no longer re-decodes images.\r\n- Rendered text is cached instead of being redrawn every frame: navigation is smoother.\r\n- Reading progress is cached, and scroll mode no longer writes to the SD card every frame when the page hasn't changed.\r\n- The \"read/total\" coun",
    "url": "https://github.com/ziggygoofy/comicreaderswitch",
    "repo": "ziggygoofy/comicreaderswitch",
-   "updated": "2026-11-17",
-   "download_url": "https://github.com/ZiggyGoofy/ComicReaderSwitch/releases/download/v0.6.0/ComicReaderSwitch.nro",
+   "updated": "2026-11-18",
+   "download_url": "https://github.com/ZiggyGoofy/ComicReaderSwitch/releases/download/v0.7.0/ComicReaderSwitch.nro",
    "download_type": "file",
-   "sha256": "419fc10628720df46e2a6b5b6511fab8d9823870cc2a1c99e00cdf91e62a53cc",
-   "filesize": 9612188,
-   "extracted": 9612188,
+   "sha256": "8d4178a80945079b74add69c9320686d5ee56388a6ecd4a73c34f452ff194b54",
+   "filesize": 9624476,
+   "extracted": 9624476,
    "files": [
     "U: switch/comicreaderswitch/comicreaderswitch.nro"
    ],
@@ -3727,6 +3727,30 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/pokemontv.jpg",
    "auto": true,
    "first_seen": "2026-11-11"
+  },
+  {
+   "name": "RadioNX",
+   "title": "RadioNX",
+   "author": "Muveeer",
+   "version": "1.0.1",
+   "category": "tool",
+   "description": "Nintendo Switch homebrew internet radio with stations from around the world",
+   "changelog": "Fixed a few things",
+   "url": "https://github.com/muveeer/radionx",
+   "repo": "muveeer/radionx",
+   "updated": "2026-11-18",
+   "download_url": "https://github.com/Muveeer/RadioNX/releases/download/v1.0.1/RadioNX.nro",
+   "download_type": "file",
+   "sha256": "89a208c6f8509978a25d5f9c624d4da8f6c22b7cb3452972124f5d34ca83b8d7",
+   "filesize": 33286982,
+   "extracted": 33286982,
+   "files": [
+    "U: switch/RadioNX/RadioNX.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/RadioNX.jpg",
+   "license": "GPL-3.0",
+   "auto": true,
+   "first_seen": "2026-11-18"
   },
   {
    "name": "readernx",

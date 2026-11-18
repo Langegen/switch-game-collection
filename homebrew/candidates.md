@@ -13,8 +13,8 @@
 | [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
 | [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |
-| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 37 | v1.0.6 | 2026-11-18 | slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slingshot-builder-x86_64.AppImage |
-| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 176 | v0.1.4.3 | 2026-11-12 | NXLibrary-0.1.4.3.dmg, NXLibrary-0.1.4.3.zip |
+| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 40 | v1.1.0 | 2026-11-18 | slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slingshot-builder-x86_64.AppImage, slingsho |
+| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 195 | v0.2.0 | 2026-11-18 | NXLibrary-0.2.0.dmg, NXLibrary-0.2.0.zip |
 | [BladesawStudios/WiiXLaunch](https://github.com/BladesawStudios/WiiXLaunch) | 6 | 1.0-rc1 | 2026-09-16 | wxl-sdk-1.0-rc1.zip |
 | [BlekjekSudo/mksm-nx](https://github.com/BlekjekSudo/mksm-nx) | 0 | switch-v0.1.0-alpha.1 | 2026-10-20 | checksums.txt, forwarder-checksums.txt, forwarder-manifest.json, MK-Shaolin-Monk-forwarder-source.zip, MK-Shaolin-Monk-f |
 | [Cameudis/SWOTS](https://github.com/Cameudis/SWOTS) | 2 | v0.1.0 | 2026-08-18 | SWOTS-v0.1.0.zip, SWOTS-v0.1.0.zip.sha256 |
@@ -52,7 +52,7 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 1 | v0.9.1 | 2026-11-16 | SHA256SUMS.txt, switch-online-0.9.1-hats.zip, switch-online-0.9.1-sd.zip, switch-online-0.9.1-sdk-sources.tar, switch-on |
+| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 2 | v0.9.1 | 2026-11-16 | SHA256SUMS.txt, switch-online-0.9.1-hats.zip, switch-online-0.9.1-sd.zip, switch-online-0.9.1-sdk-sources.tar, switch-on |
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 61 | v1.0.10 | 2026-11-16 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 3.0.0 | 2025-11-30 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
@@ -113,7 +113,7 @@
 | [fourminute/fluffy](https://github.com/fourminute/fluffy) | ? | v2.9 | 2019-05-26 | fluffy.exe, fluffy.pyw, Goldleaf.nro, LICENSE.txt, Tinfoil.nro |
 | [gasu95/HK-Checker](https://github.com/gasu95/HK-Checker) | 0 | v1.0 | 2026-11-17 | HKChecker.nro |
 | [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |
-| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 28 | v1.2 | 2026-11-17 | gow-nx.zip |
+| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 36 | v1.3 | 2026-11-18 | gow-nx.zip |
 | [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |
 | [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |
 | [hamhub7/pause-nx](https://github.com/hamhub7/pause-nx) | ? | 1.2 | 2019-09-11 | PAUSE-nx.v1.2.zip |
@@ -137,7 +137,7 @@
 | [libsdl-org/sdl](https://github.com/libsdl-org/sdl) | ? | release-3.4.20 | 2026-11-03 | SDL3-3.4.20-win32-arm64.zip, SDL3-3.4.20-win32-x64.zip, SDL3-3.4.20-win32-x86.zip, SDL3-3.4.20.dmg, SDL3-3.4.20.tar.gz,  |
 | [lord-akkrand/skyrim-nx-toolkit](https://github.com/lord-akkrand/skyrim-nx-toolkit) | ? | v2.7.0 | 2019-11-10 | Skyrim-NX-Toolkit.v2.7.0.zip |
 | [lozp1/07z](https://github.com/lozp1/07z) | 0 | v1.0.2 | 2026-10-13 | 07z-base-interfaz.zip, 07z-completo.zip, 07z-instalador.nsp, autorun-loader-ams1.11.2-5388824b.kip, autorun-loader-ams1. |
-| [lswtcs-nx/lswtcs-nx](https://github.com/lswtcs-nx/lswtcs-nx) | 1 | v0.2.0 | 2026-11-16 | lswtcs-v0.2.0.zip, lswtcs.nro, SHA256SUMS.txt |
+| [lswtcs-nx/lswtcs-nx](https://github.com/lswtcs-nx/lswtcs-nx) | 4 | v0.3.0 | 2026-11-18 | lswtcs-v0.3.0.zip, lswtcs.nro, SHA256SUMS.txt |
 | [m4l3vich/vkpcnx](https://github.com/m4l3vich/vkpcnx) | 2 | v1.1.0 | 2026-10-15 | vkpcnx-debug.nro, vkpcnx-switch-debug-symbols.zip, vkpcnx-switch-symbols.zip, vkpcnx.nro |
 | [maiaramon/cnx-installer-macos](https://github.com/maiaramon/cnx-installer-macos) | 2 | v1.4 | 2026-06-18 | CNX_Installer.app.zip |
 | [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc3 | 2026-11-14 | kodi-runtime.zip, kodi.nro |
@@ -156,7 +156,7 @@
 | [notnotme/osp](https://github.com/notnotme/osp) | ? | 0.4.5 | 2020-10-19 | osp.zip |
 | [plutooo/nx-btred](https://github.com/plutooo/nx-btred) | ? | 0.9.3 | 2021-04-26 | nx-bted-0.9.3.zip |
 | [plv890/CorkDeck](https://github.com/plv890/CorkDeck) | 16 | v0.3e | 2026-10-11 | CorkDeck-0.3e.zip, SHA256SUMS.txt |
-| [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 12 | v1.1.5 | 2026-11-12 | 7th-Heaven-NX-1.1.5-linux-arm64.zip, 7th-Heaven-NX-1.1.5-linux-x64.zip, 7th-Heaven-NX-1.1.5-macos-arm64.zip, 7th-Heaven- |
+| [ppkantorski/7th-Heaven-NX](https://github.com/ppkantorski/7th-Heaven-NX) | 13 | v1.1.6 | 2026-11-18 | 7th-Heaven-NX-1.1.6-linux-arm64.zip, 7th-Heaven-NX-1.1.6-linux-x64.zip, 7th-Heaven-NX-1.1.6-macos-arm64.zip, 7th-Heaven- |
 | [ppkantorski/Alchemist-Repos](https://github.com/ppkantorski/Alchemist-Repos) | 5 | 2026-04-23 | 2026-04-23 | cucholix_contents.zip, cucholix_pchtxts.zip, Fl4sh9174_pchtxts.zip, KeatonTheBot_pchtxts.zip, StevensND_pchtxts.zip, the |
 | [ppkantorski/Alchemist](https://github.com/ppkantorski/Alchemist) | 47 | v1.0.6 | 2026-04-23 | Alchemist.zip |
 | [ppkantorski/HOC-Toolkit](https://github.com/ppkantorski/HOC-Toolkit) | 24 | v2.0.7 | 2026-11-01 | hoc-toolkit.zip |
@@ -179,7 +179,7 @@
 | [samedog/NX-trex](https://github.com/samedog/NX-trex) | 0 | 2.0.0 | 2026-10-05 | NX-trex.nro |
 | [sciresm/hactool](https://github.com/sciresm/hactool) | ? | 1.4.0 | 2020-06-02 | hactool-1.4.0-win.zip |
 | [shodowlo/NX-torrent-player](https://github.com/shodowlo/NX-torrent-player) | 37 | v0.6.0 | 2026-11-18 | NX-torrent-player.nro, NX2-torrent-player.nro |
-| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 79 | v1.3.27 | 2026-11-17 | NexvynOS.nro, NexvynSDK-1.3.27.zip, SHA256SUMS.txt |
+| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 80 | v1.3.27 | 2026-11-17 | NexvynOS.nro, NexvynSDK-1.3.27.zip, SHA256SUMS.txt |
 | [spacecraft-nx/firmware](https://github.com/spacecraft-nx/firmware) | ? | 0.2.0 | 2021-10-14 | release_0.2.0.zip |
 | [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) | ? | v1.25.1 | 2026-04-08 | ldn_mitm_v1.25.1.zip |
 | [sthetix/fusecheck](https://github.com/sthetix/fusecheck) | ? | 1.0.5 | 2026-09-27 | FuseCheck-1.0.5.zip |
