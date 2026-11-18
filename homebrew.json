@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-17T20:57:40Z",
+ "generated": "2026-11-18T07:32:35Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -3612,30 +3612,6 @@
    "description_i18n": {
     "ru": "Загрузчик оверлеев"
    }
-  },
-  {
-   "name": "NX-torrent-player",
-   "title": "NX Torrent Player",
-   "author": "shodowlo",
-   "version": "0.5.0",
-   "category": "tool",
-   "description": "NX Torrent Player: Stremio on Nintendo Switch",
-   "changelog": "### Player\n- The track dialog becomes a right-hand panel, so the video keeps playing\n  behind it — L / R step the speed, or the subtitle delay while it is open\n- \"Next episode\" card at the end, and prev/next on the episode screen\n\n### Subtitles\n- From the account's Stremio subtitle addons, in the same list as the file's\n  own tracks\n\n### French\n- Full translation, in Options → General → Language (English by default,\n  applies on restart)\n\n### Options\n- Split into a sidebar. Audio boost for 5.1 mixes ONLY in handheld\n\n### Fixes\n- TLS is now verified against a CA bundle shipped with the app",
-   "url": "https://github.com/shodowlo/nx-torrent-player",
-   "repo": "shodowlo/nx-torrent-player",
-   "updated": "2026-08-09",
-   "download_url": "https://github.com/shodowlo/NX-torrent-player/releases/download/v0.5.0/NX-torrent-player.nro",
-   "download_type": "file",
-   "sha256": "287c58b3dfa05bacfb799e822c4e65d3c766adb7fc02be97c4ec053876837f28",
-   "filesize": 32690819,
-   "extracted": 32690819,
-   "files": [
-    "U: switch/NX-torrent-player/NX-torrent-player.nro"
-   ],
-   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/NX-torrent-player.jpg",
-   "license": "Apache-2.0",
-   "auto": true,
-   "first_seen": "2026-11-09"
   },
   {
    "name": "nx-torrent-player-mod",

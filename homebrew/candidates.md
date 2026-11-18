@@ -1,18 +1,19 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-17. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-18. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
 | Репозиторий | ★ | Версия | Дата | Файлы |
 |---|---|---|---|---|
-| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 0 | v0.3.0 | 2026-11-17 | nx-discord-rpc-0.3.0.zip, SHA256SUMS |
+| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 0 | v0.4.0 | 2026-11-17 | nx-discord-rpc-0.4.0.zip, SHA256SUMS |
 | [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |
 | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | 20 | Release-1.1.0 | 2026-11-04 | bo2-360-nx-gamefiles-shader-extractor.zip, bo2-360-nx-release-1.1.0-switch+windows-build-kit.zip, bo2-360-nx-switch-PGO- |
 | [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 9 | v2.0.0 | 2026-11-12 | songate-manifest.json, SongateAND-2.0.0.apk, SongateNX-2.0.0.zip, SongateWIN-2.0.0.exe |
 | [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
 | [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |
+| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 37 | v1.0.6 | 2026-11-18 | slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slingshot-builder-x86_64.AppImage |
 | [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 176 | v0.1.4.3 | 2026-11-12 | NXLibrary-0.1.4.3.dmg, NXLibrary-0.1.4.3.zip |
 | [BladesawStudios/WiiXLaunch](https://github.com/BladesawStudios/WiiXLaunch) | 6 | 1.0-rc1 | 2026-09-16 | wxl-sdk-1.0-rc1.zip |
 | [BlekjekSudo/mksm-nx](https://github.com/BlekjekSudo/mksm-nx) | 0 | switch-v0.1.0-alpha.1 | 2026-10-20 | checksums.txt, forwarder-checksums.txt, forwarder-manifest.json, MK-Shaolin-Monk-forwarder-source.zip, MK-Shaolin-Monk-f |
@@ -61,8 +62,8 @@
 | [Tobias103435/mkwii-switch-builder](https://github.com/Tobias103435/mkwii-switch-builder) | 1 | v1 | 2026-11-03 | MarioKartWii-Switch-builder.zip, mkw-render-deko3d-13abc3bc-f8c9eef0-20261102.tar.xz, mkw-render-deko3d-13abc3bc-f8c9eef |
 | [Trinalord777/DK64Recomp-NX](https://github.com/Trinalord777/DK64Recomp-NX) | 7 | v1.1.2 | 2026-10-11 | DK64Recomp-NX-v1.1.2.zip |
 | [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX) | 845 | 3.1-R3 | 2026-11-11 | Ultra.zip |
-| [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 84 | v1.3.1 | 2026-11-16 | tailscale-nx-1.3.1.zip |
-| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 13 | v1.1.1 | 2026-11-16 | wireguard-nx-1.1.1.zip |
+| [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 86 | v1.4.0 | 2026-11-17 | tailscale-nx-1.4.0.zip |
+| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 13 | v1.1.2 | 2026-11-17 | wireguard-nx-1.1.2.zip |
 | [VelizarSeleznev/switch-quick-settings](https://github.com/VelizarSeleznev/switch-quick-settings) | 0 | v1.0.0 | 2026-10-25 | quick-settings-1.0.0.zip, quick-settings-demo.mp4 |
 | [Yirr777/PartyBoard-NX](https://github.com/Yirr777/PartyBoard-NX) | 1 | v0.2.0-preview | 2026-11-07 | PartyBoard-forwarder.nsp, partyboard-switch.zip, SHA256SUMS |
 | [aarvsn/gta3-nx](https://github.com/aarvsn/gta3-nx) | 1 | v1.0.0 | 2026-07-31 | gta3-nx.nacp, gta3-nx.nro |
@@ -81,7 +82,7 @@
 | [brendongl/supermariowar-nx](https://github.com/brendongl/supermariowar-nx) | 2 | v1.0.0 | 2026-10-22 | SHA256SUMS.txt, smw.nro, SuperMarioWar-NX-v1.0.0-forwarder.nsp, SuperMarioWar-NX-v1.0.0.zip |
 | [byvoid/opencc](https://github.com/byvoid/opencc) | ? | ver.1.4.2 | 2026-08-22 | opencc-1.4.2-1-deb-amd64.zip, opencc-1.4.2-1-deb-arm64.zip, opencc-1.4.2-bazel-src.tar.gz, opencc-1.4.2-bazel-src.tar.xz |
 | [carcaschoi/rcmloader-package](https://github.com/carcaschoi/rcmloader-package) | ? | v1.1.0 | 2021-09-30 | rcmloader.package.zip |
-| [catcheritgf/nx-venom](https://github.com/catcheritgf/nx-venom) | ? | 15.0.0 | 2026-10-17 | NXVenom.zip |
+| [catcheritgf/nx-venom](https://github.com/catcheritgf/nx-venom) | ? | 16.0.0 | 2026-11-12 | NXVenom.zip |
 | [cathery/sys-con](https://github.com/cathery/sys-con) | ? | v0.6.5 | 2024-11-06 | sys-con-0.6.5.zip |
 | [cbreezy210/ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) | 11 | v.1.4.0 | 2026-08-26 | ACNH-Save-Editor-DBI-v1.4.0.zip, acnh_editor_v1.4.0.zip |
 | [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 253 | v1.3.0 | 2026-11-12 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |
@@ -110,8 +111,9 @@
 | [f-l-a/nxupdatetracker](https://github.com/f-l-a/nxupdatetracker) | ? | v2.0 | 2023-10-10 | NXUpdateTracker.html, NXUpdateTracker.zip |
 | [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) | ? | v2.3.2 | 2023-03-23 | appstore.nro, appstore.rpx, appstore.wuhb, switch-extracttosd.zip, wiiu-extracttosd.zip |
 | [fourminute/fluffy](https://github.com/fourminute/fluffy) | ? | v2.9 | 2019-05-26 | fluffy.exe, fluffy.pyw, Goldleaf.nro, LICENSE.txt, Tinfoil.nro |
+| [gasu95/HK-Checker](https://github.com/gasu95/HK-Checker) | 0 | v1.0 | 2026-11-17 | HKChecker.nro |
 | [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |
-| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 15 | v1.1 | 2026-11-17 | gow-nx.zip |
+| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 28 | v1.2 | 2026-11-17 | gow-nx.zip |
 | [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |
 | [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |
 | [hamhub7/pause-nx](https://github.com/hamhub7/pause-nx) | ? | 1.2 | 2019-09-11 | PAUSE-nx.v1.2.zip |
@@ -176,6 +178,7 @@
 | [samedog/NX-Uploader](https://github.com/samedog/NX-Uploader) | 0 | 2.5.0 | 2026-10-05 | NXUploader.nro |
 | [samedog/NX-trex](https://github.com/samedog/NX-trex) | 0 | 2.0.0 | 2026-10-05 | NX-trex.nro |
 | [sciresm/hactool](https://github.com/sciresm/hactool) | ? | 1.4.0 | 2020-06-02 | hactool-1.4.0-win.zip |
+| [shodowlo/NX-torrent-player](https://github.com/shodowlo/NX-torrent-player) | 37 | v0.6.0 | 2026-11-18 | NX-torrent-player.nro, NX2-torrent-player.nro |
 | [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 79 | v1.3.27 | 2026-11-17 | NexvynOS.nro, NexvynSDK-1.3.27.zip, SHA256SUMS.txt |
 | [spacecraft-nx/firmware](https://github.com/spacecraft-nx/firmware) | ? | 0.2.0 | 2021-10-14 | release_0.2.0.zip |
 | [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) | ? | v1.25.1 | 2026-04-08 | ldn_mitm_v1.25.1.zip |
@@ -195,6 +198,7 @@
 | [xhu96/Switch7zip](https://github.com/xhu96/Switch7zip) | 0 | v0.9.11-pre | 2026-05-09 | Switch7zip.nro |
 | [xiefengdaxia/UURemote-ns-switch](https://github.com/xiefengdaxia/UURemote-ns-switch) | 0 | v0.1.64 | 2026-11-14 | UURemote-ns-0.1.64-switch.zip |
 | [ybx77/switch-cloud-sync](https://github.com/ybx77/switch-cloud-sync) | 1 | new | 2026-11-03 | switch-cloud-sync.nro |
+| [yorha59/swagent](https://github.com/yorha59/swagent) | 1 | v1.35.0 | 2026-11-18 | swagent-atmosphere-sd.zip, swagent.nsp |
 | [yukinsnow/Lite-Link](https://github.com/yukinsnow/Lite-Link) | 6 | v0.3.1 | 2026-10-26 | Lite-Link-v0.3.1-Icons.zip, Lite-Link-v0.3.1-macOS-experimental.zip, Lite-Link-v0.3.1-Switch.nro, Lite-Link-v0.3.1-Switc |
 | [yyoossk/Atmosphere-with-Hekate](https://github.com/yyoossk/Atmosphere-with-Hekate) | 16 | 2.0 | 2025-11-25 | Atmosphere-with-Hekate.zip |
 | [zhongyang219/musicplayer2](https://github.com/zhongyang219/musicplayer2) | ? | V2.78 | 2025-12-27 | MusicPlayer2_V2.78_x64.zip, MusicPlayer2_V2.78_x86.zip |
