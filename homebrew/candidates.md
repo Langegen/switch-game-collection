@@ -1,18 +1,19 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-18. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-19. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
 | Репозиторий | ★ | Версия | Дата | Файлы |
 |---|---|---|---|---|
-| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 0 | v0.4.0 | 2026-11-17 | nx-discord-rpc-0.4.0.zip, SHA256SUMS |
+| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 0 | v0.5.0 | 2026-11-18 | exefs.nsp, nx-discord-rpc-0.5.0.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |
 | [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |
 | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | 20 | Release-1.1.0 | 2026-11-04 | bo2-360-nx-gamefiles-shader-extractor.zip, bo2-360-nx-release-1.1.0-switch+windows-build-kit.zip, bo2-360-nx-switch-PGO- |
 | [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 9 | v2.0.0 | 2026-11-12 | songate-manifest.json, SongateAND-2.0.0.apk, SongateNX-2.0.0.zip, SongateWIN-2.0.0.exe |
 | [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
 | [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |
+| [BanhMi93P/deadpool-nx](https://github.com/BanhMi93P/deadpool-nx) | 4 | v1.0.0 | 2026-11-19 | deadpool-nx-v1.0.0.zip |
 | [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 40 | v1.1.0 | 2026-11-18 | slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slingshot-builder-x86_64.AppImage, slingsho |
 | [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 195 | v0.2.0 | 2026-11-18 | NXLibrary-0.2.0.dmg, NXLibrary-0.2.0.zip |
 | [BladesawStudios/WiiXLaunch](https://github.com/BladesawStudios/WiiXLaunch) | 6 | 1.0-rc1 | 2026-09-16 | wxl-sdk-1.0-rc1.zip |
@@ -52,7 +53,7 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 2 | v0.9.1 | 2026-11-16 | SHA256SUMS.txt, switch-online-0.9.1-hats.zip, switch-online-0.9.1-sd.zip, switch-online-0.9.1-sdk-sources.tar, switch-on |
+| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 2 | v0.9.2 | 2026-11-18 | SHA256SUMS.txt, switch-online-0.9.2-hats.zip, switch-online-0.9.2-sd.zip, switch-online-0.9.2-sdk-sources.tar, switch-on |
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 61 | v1.0.10 | 2026-11-16 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 3.0.0 | 2025-11-30 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
@@ -106,7 +107,7 @@
 | [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | ? | v2.7.6 | 2026-09-19 | sftpgo-2.7.6-1.aarch64.rpm, sftpgo-2.7.6-1.armv7hl.rpm, sftpgo-2.7.6-1.ppc64le.rpm, sftpgo-2.7.6-1.x86_64.rpm, sftpgo_2. |
 | [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) | ? | 4.3 | 2025-02-22 | Duino-Coin_4.3_linux.zip, Duino-Coin_4.3_windows.zip |
 | [dvnvdx/NX-Tether](https://github.com/dvnvdx/NX-Tether) | 4 | v0.1.7 | 2026-10-28 | nx-tether-0.1.7.zip |
-| [etonedemid/slaunch](https://github.com/etonedemid/slaunch) | ? | v2.2.2 | 2026-11-11 | sInstaller.nro, slaunch-v2.2.2-sd.zip, slaunch-v2.2.2-source.tar.xz |
+| [etonedemid/slaunch](https://github.com/etonedemid/slaunch) | ? | v2.5.2 | 2026-11-19 | sInstaller.nro, slaunch-v2.5.2-sd.zip, slaunch-v2.5.2-source.tar.xz |
 | [exelix11/dvr-patches](https://github.com/exelix11/dvr-patches) | ? | fw-23.0.1 | 2026-10-11 | dvr-patches.zip |
 | [f-l-a/nxupdatetracker](https://github.com/f-l-a/nxupdatetracker) | ? | v2.0 | 2023-10-10 | NXUpdateTracker.html, NXUpdateTracker.zip |
 | [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) | ? | v2.3.2 | 2023-03-23 | appstore.nro, appstore.rpx, appstore.wuhb, switch-extracttosd.zip, wiiu-extracttosd.zip |
@@ -137,7 +138,7 @@
 | [libsdl-org/sdl](https://github.com/libsdl-org/sdl) | ? | release-3.4.20 | 2026-11-03 | SDL3-3.4.20-win32-arm64.zip, SDL3-3.4.20-win32-x64.zip, SDL3-3.4.20-win32-x86.zip, SDL3-3.4.20.dmg, SDL3-3.4.20.tar.gz,  |
 | [lord-akkrand/skyrim-nx-toolkit](https://github.com/lord-akkrand/skyrim-nx-toolkit) | ? | v2.7.0 | 2019-11-10 | Skyrim-NX-Toolkit.v2.7.0.zip |
 | [lozp1/07z](https://github.com/lozp1/07z) | 0 | v1.0.2 | 2026-10-13 | 07z-base-interfaz.zip, 07z-completo.zip, 07z-instalador.nsp, autorun-loader-ams1.11.2-5388824b.kip, autorun-loader-ams1. |
-| [lswtcs-nx/lswtcs-nx](https://github.com/lswtcs-nx/lswtcs-nx) | 4 | v0.3.0 | 2026-11-18 | lswtcs-v0.3.0.zip, lswtcs.nro, SHA256SUMS.txt |
+| [lswtcs-nx/lswtcs-nx](https://github.com/lswtcs-nx/lswtcs-nx) | 4 | v0.4.0 | 2026-11-18 | lswtcs-v0.4.0.zip, lswtcs.nro, SHA256SUMS.txt |
 | [m4l3vich/vkpcnx](https://github.com/m4l3vich/vkpcnx) | 2 | v1.1.0 | 2026-10-15 | vkpcnx-debug.nro, vkpcnx-switch-debug-symbols.zip, vkpcnx-switch-symbols.zip, vkpcnx.nro |
 | [maiaramon/cnx-installer-macos](https://github.com/maiaramon/cnx-installer-macos) | 2 | v1.4 | 2026-06-18 | CNX_Installer.app.zip |
 | [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc3 | 2026-11-14 | kodi-runtime.zip, kodi.nro |
