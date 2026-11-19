@@ -762,17 +762,17 @@
    "zip_root": ""
   },
   "muveeer/radionx": {
-   "asset_key": "765046693:2026-11-18T21:20:32Z",
-   "extracted": 45781574,
+   "asset_key": "767402794:2026-11-19T11:21:51Z",
+   "extracted": 37976786,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/RadioNX.jpg",
    "nacp": {
     "author": "Muveeer",
     "title": "RadioNX",
-    "version": "1.0.0"
+    "version": "2.1.0"
    },
-   "sha256": "c4eea6544ff0aa0bed6166ede99c85ea7c975bdbe0c42435651d5a9fa324a8d7",
-   "size": 45781574,
+   "sha256": "4733a9a45d51ba66666501cd5b661e510556f8d5aa9ea308a68923eb9f8235a8",
+   "size": 37976786,
    "type": "file",
    "zip_root": ""
   },
@@ -1367,7 +1367,7 @@
   "bernardogiordano/checkpoint": {
    "description": "Fast and simple homebrew save management framework for 3DS and Switch.",
    "full_name": "BernardoGiordano/Checkpoint",
-   "stargazers_count": 3135,
+   "stargazers_count": 3134,
    "topics": [
     "3ds",
     "3ds-homebrew",
@@ -1593,7 +1593,7 @@
   "gerisson1996/resident-code-veronica-nx-port": {
    "description": "Resident Evil Code: Veronica X (PS2) running natively on Nintendo Switch — ARM64, OpenGL 3.3, gyro aiming, L3+R3 quick menu with cheats. No game files included.",
    "full_name": "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
-   "stargazers_count": 11,
+   "stargazers_count": 12,
    "topics": [
     "code-veronica",
     "decompilation",
@@ -1727,8 +1727,10 @@
   "muveeer/radionx": {
    "description": "Nintendo Switch homebrew internet radio with stations from around the world",
    "full_name": "Muveeer/RadioNX",
-   "stargazers_count": 15,
+   "stargazers_count": 17,
    "topics": [
+    "atmosphere",
+    "nintendo-switch-homebrew",
     "switch",
     "switch-homebrew"
    ]
@@ -2048,7 +2050,7 @@
     "app"
    ],
    "reason": "",
-   "version": "0.6.5",
+   "version": "0.7.0",
    "worst": "allowed"
   },
   "AlephOne": {
@@ -3370,7 +3372,7 @@
     "overlay"
    ],
    "reason": "",
-   "version": "1.1.3",
+   "version": "1.1.11",
    "worst": "allowed"
   },
   "NooDS": {
@@ -4416,7 +4418,7 @@
     "app"
    ],
    "reason": "",
-   "version": "1.7.1",
+   "version": "1.9.0",
    "worst": "allowed"
   },
   "Whats-in-the-box-NX": {
@@ -4900,7 +4902,7 @@
     "app"
    ],
    "reason": "",
-   "version": "build-141",
+   "version": "build-143",
    "worst": "allowed"
   },
   "hbmenu": {
@@ -5708,7 +5710,7 @@
     "app"
    ],
    "reason": "",
-   "version": "1.0.8",
+   "version": "1.1.1",
    "worst": "allowed"
   },
   "sporegram": {
@@ -5965,7 +5967,7 @@
     "sysmodule"
    ],
    "reason": "atmosphere/contents/0100000000001000/exefs.nsp (system title override)",
-   "version": "1.2.5",
+   "version": "1.2.6",
    "worst": "warn"
   },
   "uae4all2": {
@@ -7264,9 +7266,9 @@
  },
  "rejected": {
   "0xsharkboy/nx-discord-rpc": {
-   "candidate": "| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 0 | v0.5.0 | 2026-11-18 | exefs.nsp, nx-discord-rpc-0.5.0.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |",
+   "candidate": "| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 1 | v0.7.0 | 2026-11-19 | exefs.nsp, nx-discord-rpc-0.7.0.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |",
    "checked": "2026-11-19",
-   "pushed_at": "2026-11-18T23:07:12Z"
+   "pushed_at": "2026-11-19T14:45:00Z"
   },
   "16bitwonder/nx-versions": {
    "checked": "2026-11-18",
@@ -7394,8 +7396,9 @@
    "pushed_at": ""
   },
   "antman2023/uuremote-ns": {
-   "checked": "2026-11-09",
-   "pushed_at": "2026-10-19T10:18:28Z"
+   "candidate": "| [Antman2023/UURemote-ns](https://github.com/Antman2023/UURemote-ns) | 14 | v0.1.10 | 2026-11-19 | SHA256SUMS, UURemote-ns-0.1.10-switch.zip, UURemote-ns.nro |",
+   "checked": "2026-11-19",
+   "pushed_at": "2026-11-19T13:33:30Z"
   },
   "aoihera/chargecap": {
    "candidate": "| [aoihera/ChargeCap](https://github.com/aoihera/ChargeCap) | 6 | 1.1.2 | 2026-10-04 | ChargeCap.zip |",
@@ -7408,8 +7411,8 @@
    "pushed_at": "2026-08-20T09:18:32Z"
   },
   "armaatus/rommsync-nx": {
-   "checked": "2026-11-18",
-   "pushed_at": "2026-11-18T11:51:02Z"
+   "checked": "2026-11-19",
+   "pushed_at": "2026-11-19T11:48:57Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -7689,8 +7692,8 @@
    "pushed_at": "2026-09-16T16:58:32Z"
   },
   "ctj01/switch2pc": {
-   "checked": "2026-11-18",
-   "pushed_at": "2026-11-18T11:09:08Z"
+   "checked": "2026-11-19",
+   "pushed_at": "2026-11-19T11:12:32Z"
   },
   "curl/curl": {
    "candidate": "| [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |",
@@ -8014,9 +8017,9 @@
    "pushed_at": ""
   },
   "gerisson1996/gow-collection-nx": {
-   "candidate": "| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 36 | v1.3 | 2026-11-18 | gow-nx.zip |",
-   "checked": "2026-11-18",
-   "pushed_at": "2026-11-18T09:30:40Z"
+   "candidate": "| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 43 | v1.3 | 2026-11-18 | gow-nx.zip |",
+   "checked": "2026-11-19",
+   "pushed_at": "2026-11-19T16:05:35Z"
   },
   "gowithme-club/switch-playtime-tracker": {
    "candidate": "| [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |",
@@ -8210,7 +8213,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-19",
-   "pushed_at": "2026-11-19T07:06:42Z"
+   "pushed_at": "2026-11-19T20:36:50Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8453,11 +8456,11 @@
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-19",
-   "pushed_at": "2026-11-19T03:05:16Z"
+   "pushed_at": "2026-11-19T12:44:37Z"
   },
   "mohit2096/yuzu-emulator-toolkit": {
    "checked": "2026-11-19",
-   "pushed_at": "2026-11-19T01:37:25Z"
+   "pushed_at": "2026-11-19T18:46:23Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-18",
@@ -8686,7 +8689,7 @@
   },
   "prowahaj13/yuzu-emulator-tutorial": {
    "checked": "2026-11-19",
-   "pushed_at": "2026-11-19T01:47:53Z"
+   "pushed_at": "2026-11-19T18:51:10Z"
   },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
@@ -8898,9 +8901,9 @@
    "pushed_at": "2025-12-25T01:17:48Z"
   },
   "sonerx7/nexvyn-os-nx": {
-   "candidate": "| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 80 | v1.3.27 | 2026-11-17 | NexvynOS.nro, NexvynSDK-1.3.27.zip, SHA256SUMS.txt |",
-   "checked": "2026-11-18",
-   "pushed_at": "2026-11-18T18:59:43Z"
+   "candidate": "| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 82 | v1.3.27 | 2026-11-17 | NexvynOS.nro, NexvynSDK-1.3.27.zip, SHA256SUMS.txt |",
+   "checked": "2026-11-19",
+   "pushed_at": "2026-11-19T15:33:14Z"
   },
   "spacecraft-nx/firmware": {
    "candidate": "| [spacecraft-nx/firmware](https://github.com/spacecraft-nx/firmware) | ? | 0.2.0 | 2021-10-14 | release_0.2.0.zip |",
@@ -9110,14 +9113,19 @@
    "pushed_at": "2026-11-12T17:54:59Z"
   },
   "underwateroverground/tailscale-nx": {
-   "candidate": "| [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 86 | v1.4.0 | 2026-11-17 | tailscale-nx-1.4.0.zip |",
-   "checked": "2026-11-18",
-   "pushed_at": "2026-11-17T21:51:11Z"
+   "candidate": "| [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 88 | v1.4.1 | 2026-11-19 | tailscale-nx-1.4.1.zip |",
+   "checked": "2026-11-19",
+   "pushed_at": "2026-11-19T15:34:18Z"
   },
   "underwateroverground/wireguard-nx": {
-   "candidate": "| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 13 | v1.1.2 | 2026-11-17 | wireguard-nx-1.1.2.zip |",
-   "checked": "2026-11-18",
-   "pushed_at": "2026-11-17T21:53:55Z"
+   "candidate": "| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 15 | v1.1.3 | 2026-11-19 | wireguard-nx-1.1.3.zip |",
+   "checked": "2026-11-19",
+   "pushed_at": "2026-11-19T15:34:21Z"
+  },
+  "underwateroverground/zerotier-nx": {
+   "candidate": "| [UnderwaterOverground/zerotier-nx](https://github.com/UnderwaterOverground/zerotier-nx) | 1 | v1.0.0 | 2026-11-19 | zerotier-nx-1.0.0.zip |",
+   "checked": "2026-11-19",
+   "pushed_at": "2026-11-19T12:35:53Z"
   },
   "unitendo/aurorachat": {
    "checked": "2026-11-17",

@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-19T07:29:59Z",
+ "generated": "2026-11-19T20:40:26Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -3732,18 +3732,18 @@
    "name": "RadioNX",
    "title": "RadioNX",
    "author": "Muveeer",
-   "version": "2.0.0",
+   "version": "2.1.0",
    "category": "tool",
    "description": "Nintendo Switch homebrew internet radio with stations from around the world",
-   "changelog": "Added the radio from the GTA games, touch controls, and some minor fixes",
+   "changelog": "Added GTA V radio and other fixes",
    "url": "https://github.com/muveeer/radionx",
    "repo": "muveeer/radionx",
-   "updated": "2026-11-18",
-   "download_url": "https://github.com/Muveeer/RadioNX/releases/download/v2.0.0/RadioNX.nro",
+   "updated": "2026-11-19",
+   "download_url": "https://github.com/Muveeer/RadioNX/releases/download/v2.1.0/RadioNX.nro",
    "download_type": "file",
-   "sha256": "c4eea6544ff0aa0bed6166ede99c85ea7c975bdbe0c42435651d5a9fa324a8d7",
-   "filesize": 45781574,
-   "extracted": 45781574,
+   "sha256": "4733a9a45d51ba66666501cd5b661e510556f8d5aa9ea308a68923eb9f8235a8",
+   "filesize": 37976786,
+   "extracted": 37976786,
    "files": [
     "U: switch/RadioNX/RadioNX.nro"
    ],
