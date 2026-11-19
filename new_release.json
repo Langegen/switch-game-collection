@@ -1,4 +1,11 @@
 [
+  {"title": "Lucky Tower Ultimate", "title_id": "0100B5B01AC50000", "metacritic": null},
+  {"title": "Коллекция RPG от Kemco (80 шт.): Monochrome Order / Asdivine: Hearts 1-2, Dios, Menace, Kamura / Sephirothic Stories / Alphadia Genesis 1-2 / Revenant Dogma / Miden Tower / Seek Hearts / Ruinverse / Ghost Sync / Overrogue / Raging Bytes / Cross Tails и др.", "title_id": "010040E00C2D2000", "metacritic": 60.0},
+  {"title": "Reverie in the Moonlight", "title_id": "0100BD1025E02000", "metacritic": 81.0},
+  {"title": "Discounty", "title_id": "0100D7401D59A000", "metacritic": 79.0},
+  {"title": "Death Road to Canada", "title_id": "0100423009358000", "metacritic": 79.0},
+  {"title": "Village in the Shade", "title_id": "0100254027E50000", "metacritic": null},
+  {"title": "Terrifier the Artcade Game", "title_id": "0100D2F023288000", "metacritic": null},
   {"title": "SpeedRunners / Speed Runners 2 King of Speed", "title_id": "01004CC023582000", "metacritic": 84.0},
   {"title": "Kowloon's Gate Suzaku", "title_id": "0100DC20244AE000", "metacritic": null},
   {"title": "Dragon Quest Builders / Dragon Quest Builders 2", "title_id": "010042000A986000", "metacritic": 86.0},
@@ -9,7 +16,6 @@
   {"title": "502's Arcade", "title_id": "01009B101466C000", "metacritic": null},
   {"title": "Moomin Midsummer Madness / Moomintroll: Winter's Warmth / Snufkin Melody of Moominvalley (Снусмумрик: Мелодия Муми-дола, Муми-тролль: Тепло среди зимы, Опасное лето)", "title_id": "010009E0263CA000", "metacritic": 81.0},
   {"title": "Yog-Sothoth's Yard", "title_id": "010064C02639A000", "metacritic": 73.0},
-  {"title": "Death Road to Canada", "title_id": "0100423009358000", "metacritic": 79.0},
   {"title": "The Cat in the Hat Rainy Day Mayhem", "title_id": "0100778022442000", "metacritic": null},
   {"title": "Future Knight", "title_id": "0100E7C027960000", "metacritic": null},
   {"title": "Hasbro Games Junior Collection", "title_id": "0100060027530000", "metacritic": null},
@@ -23,10 +29,5 @@
   {"title": "Castlevania Belmont's Curse", "title_id": "0100BA4026E94000", "metacritic": null},
   {"title": "Battle Brothers + 9 DLC", "title_id": "0100C5000F294000", "metacritic": null},
   {"title": "Neon Abyss 1-2", "title_id": "010052002641E000", "metacritic": 74.0},
-  {"title": "Warp Shift", "title_id": "0100DB300A026000", "metacritic": 80.0},
-  {"title": "Titanium Court", "title_id": "0100FA9028BB8000", "metacritic": null},
-  {"title": "Rusty Rangers", "title_id": "01002E302204A000", "metacritic": null},
-  {"title": "Beholder 1, 2, 3, Conductor", "title_id": "0100D1300C1EA000", "metacritic": null},
-  {"title": "Good Job", "title_id": "0100B0500FE4E000", "metacritic": 78.0},
-  {"title": "Tetris the Grand Master TGM 4 Absolute Eye", "title_id": "0100A9F027F1C000", "metacritic": null}
+  {"title": "Warp Shift", "title_id": "0100DB300A026000", "metacritic": 80.0}
 ]
