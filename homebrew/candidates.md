@@ -1,6 +1,6 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-19. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-20. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
@@ -54,10 +54,10 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 2 | v0.9.2 | 2026-11-18 | SHA256SUMS.txt, switch-online-0.9.2-hats.zip, switch-online-0.9.2-sd.zip, switch-online-0.9.2-sdk-sources.tar, switch-on |
+| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 3 | v0.9.2 | 2026-11-18 | SHA256SUMS.txt, switch-online-0.9.2-hats.zip, switch-online-0.9.2-sd.zip, switch-online-0.9.2-sdk-sources.tar, switch-on |
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 61 | v1.0.10 | 2026-11-16 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
-| [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 3.0.0 | 2025-11-30 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
+| [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 4.0.0 | 2026-11-20 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
 | [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 6 | v1.0.26 | 2026-10-22 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |
 | [Strrationalism/CPyMO](https://github.com/Strrationalism/CPyMO) | 153 | v1.1.9 | 2023-08-14 | CPyMO.ASCII.Art.for.Linux.zip, CPyMO.ASCII.Art.for.macOS.zip, CPyMO.ASCII.Art.for.Windows.zip, CPyMO.for.Android.Accessi |
 | [Team-Failure/TF-OS](https://github.com/Team-Failure/TF-OS) | 6 | 3.6 | 2026-03-15 | TF_OS_3.6.zip |
@@ -83,6 +83,7 @@
 | [blade-punisher/switchnow](https://github.com/blade-punisher/switchnow) | ? | v1.3.0 | 2026-10-31 | SwitchNOW-1.3.0-SHA256SUMS.txt, SwitchNOW-1.3.0-showcase.jpg, SwitchNOW-1.3.0-source.zip, SwitchNOW-1.3.0.nro, SwitchNOW |
 | [borisovinfra/Sakura-Switch](https://github.com/borisovinfra/Sakura-Switch) | 6 | v2.1.0 | 2026-10-16 | Sakura-Switch-PRO-v2.1.0-macOS-Intel.zip |
 | [brendongl/supermariowar-nx](https://github.com/brendongl/supermariowar-nx) | 2 | v1.0.0 | 2026-10-22 | SHA256SUMS.txt, smw.nro, SuperMarioWar-NX-v1.0.0-forwarder.nsp, SuperMarioWar-NX-v1.0.0.zip |
+| [byrilo/PhonePadNX](https://github.com/byrilo/PhonePadNX) | 0 | v0.3.3 | 2026-11-20 | PhonePadNX-0.3.3.zip |
 | [byvoid/opencc](https://github.com/byvoid/opencc) | ? | ver.1.4.2 | 2026-08-22 | opencc-1.4.2-1-deb-amd64.zip, opencc-1.4.2-1-deb-arm64.zip, opencc-1.4.2-bazel-src.tar.gz, opencc-1.4.2-bazel-src.tar.xz |
 | [carcaschoi/rcmloader-package](https://github.com/carcaschoi/rcmloader-package) | ? | v1.1.0 | 2021-09-30 | rcmloader.package.zip |
 | [catcheritgf/nx-venom](https://github.com/catcheritgf/nx-venom) | ? | 16.0.0 | 2026-11-12 | NXVenom.zip |
@@ -116,7 +117,7 @@
 | [fourminute/fluffy](https://github.com/fourminute/fluffy) | ? | v2.9 | 2019-05-26 | fluffy.exe, fluffy.pyw, Goldleaf.nro, LICENSE.txt, Tinfoil.nro |
 | [gasu95/HK-Checker](https://github.com/gasu95/HK-Checker) | 0 | v1.0 | 2026-11-17 | HKChecker.nro |
 | [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |
-| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 43 | v1.3 | 2026-11-18 | gow-nx.zip |
+| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 45 | v1.3 | 2026-11-18 | gow-nx.zip |
 | [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |
 | [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |
 | [hamhub7/pause-nx](https://github.com/hamhub7/pause-nx) | ? | 1.2 | 2019-09-11 | PAUSE-nx.v1.2.zip |
