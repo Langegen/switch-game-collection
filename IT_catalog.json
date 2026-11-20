@@ -1,5 +1,65 @@
 [
     {
+        "title": "Idle Immortal + 2 DLC [NSZ][ENG]",
+        "size": "1.1 GB",
+        "magnet": "magnet:?xt=urn:btih:187F20BD3CD26931CD99B594E86F1CBD3D3289BE&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6940332",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6940332",
+        "year": "2026, agosto",
+        "genre": "Action, Arcade",
+        "developer": "Happy Player",
+        "publisher": "Happy Player",
+        "image_format": ".NSZ (compresso ~21%, dimensione installata 1.38 GB)",
+        "interface_lang": "Inglese [ENG]",
+        "voice_lang": "Senza doppiaggio",
+        "performance": "Sì (su 23.0.1, Atmosphere 1.12.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6940332.jpg",
+        "screenshots": [
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/3057a0535689e6d313977e3d91e994a6cf1d9415be1d2f2a91cadc00d30781f4.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/cc8b5ca09f172c335c78eb3bfa07084bdf4f0186fe2f85f7d9ecb164049b6a91.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/8f41b690d1adc946975a0502d8c6a9299d4884a2011368538e80fb2f69e3451f.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/83e1a1d86753efff461cc6fbeda6cb0f3073d79a22be0847ce56f65f4c0919ec.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/403ff106d405278576dc8c3aebe07aca29c2535fa7e73c557a54c8ec70718100.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/aedd4221f8c23509e8871cfe0413138d26ea193905139e2c3a051d9df71bc40c.jpg&output=jpg"
+        ],
+        "description": "+ Idle Gameplay: Enjoy a relaxing idle experience designed to help you unwind. Even while you are away, your sect keeps battling, growing stronger, and moving closer to ascension. \n\n+ Squad Building: Recruit from 16 playable characters. Each character has unique talents, classes, and skills. Bring in the disciples you need and freely build your own squad. \n\n+ Character Growth: Each character can choose one of six different cultivation paths. They can also practice different cultivation techniques to gain unique bonuses. Even characters of the same class can grow into completely different builds. \n\n+ Explore the World: Journey across the land, discover other sects and factions, and advance the story. Gather resources for personal cultivation and sect development. Encounter random events and uncover unexpected treasures. \n\n+ Sect Management: While exploring the world, you will also manage your own sect. Earn reputation and sect resources to upgrade and expand your home base. Build different sect facilities to continuously produce useful items. A powerful sect will help you go further on the path to immortality.",
+        "title_id": "010037D02742E000",
+        "version": "1.4",
+        "update_version": 262144,
+        "titles": "010037D02742E000:262144:"
+    },
+    {
+        "title": "Metroid Prime 2 Echoes (homebrew) [NRO][ENG]",
+        "size": "1.27 GB",
+        "magnet": "magnet:?xt=urn:btih:675C73D540E50DB2BC0CF5D70D0BCECA0326F203&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6940357",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6940357",
+        "year": "2004",
+        "genre": "Action, Adventure, First Person Shooter, Metroidvania, Homebrew",
+        "developer": "Retro Studios, Nintendo",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Inglese [ENG]",
+        "voice_lang": "Inglese",
+        "performance": "Sì (su 23.5.0, Atmosphere 1.12.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6940357.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1120/32/3e092e97f082f5b65af20b4d9a013232.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1120/b9/6c09849c30783c115daf73ae87f86cb9.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1120/46/538be62e4048e843118bc36c0f1bce46.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1120/dc/c04029fa179644a16bb734b2a53358dc.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1120/3c/b4be965a42598a7a8c2b61122b1ce73c.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1120/cd/458cef6802e87697d9f97507238e26cd.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1120/db/eaaa69fd0e820abfa1cdaee4861400db.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1120/3d/9197e522a0d0fe54b019465c0839f13d.jpeg"
+        ],
+        "description": "Il personaggio principale del gioco, il cacciatore di taglie Samus Aran, va alla ricerca di una nave della Federazione Galattica scomparsa sul pianeta Aether. Arrivando sul posto, Samus scopre che il pianeta, dopo una catastrofe cosmica, ha acquisito un doppio minaccioso: il pianeta Dark Ether, abitato dai crudeli Ings. Samus deve aiutare Luminoth, che dimora nell'etere, visitando tre templi. I nemici del cacciatore nel gioco non sono solo Ingi, ma anche i pirati spaziali e il suo doppio, Dark Samus.",
+        "title_id": null,
+        "version": "0.5.0"
+    },
+    {
         "title": "Titan Souls (homebrew) [NRO][ENG]",
         "size": "188.6 MB",
         "magnet": "magnet:?xt=urn:btih:F16E70130C6F3A6E36B1591011D1809CDC3D98B7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
@@ -17960,7 +18020,7 @@
     {
         "title": "Splatoon 3 + DLC Side Order, Inkopolis [NSP][RUS/Multi7]",
         "size": "13.88 GB",
-        "magnet": "magnet:?xt=urn:btih:41821A8CA42FAC3A0C391DC1D79B8F364F7952BB&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:685942136B16B46281DFD8D79C149DB6C27AB62C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6250732",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6250732",
         "year": "2022, settembre",
@@ -17983,9 +18043,9 @@
         ],
         "description": "Siamo a Splatville, una città baciata dal sole nel cuore di Splattonia, dove ti aspettano tante novità in fatto di armi, mosse, scenari e abbigliamento!\n\nInchiostra i tuoi rivali in colorate battaglie online, respingi ondate di Salmonoidi e sventa l'invasione degli Octariani!",
         "title_id": "0100C2500FC20000",
-        "version": "11.3.0",
-        "update_version": 2752512,
-        "titles": "0100C2500FC20000:2752512:;010046C021AA8000:0:"
+        "version": "12.0.0",
+        "update_version": 2818048,
+        "titles": "0100C2500FC20000:2818048:;010046C021AA8000:0:"
     },
     {
         "title": "Gurei [NSZ][RUS/Multi7]",
@@ -24365,19 +24425,19 @@
         "titles": "01004A600EC0A000:720896:"
     },
     {
-        "title": "Sonic Racing Crossworlds + 8 DLC [NSZ][RUS/Multi10]",
-        "size": "10.85 GB",
-        "magnet": "magnet:?xt=urn:btih:6EC0E3E70AA50C52C03FD707E08895B937A82C21&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "Sonic Racing Crossworlds + 12 DLC [NSZ][RUS/Multi10]",
+        "size": "11.89 GB",
+        "magnet": "magnet:?xt=urn:btih:02A96F795CED02A3BEF9D5723B78F6DD5CD1D977&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6748998",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6748998",
         "year": "2025, settembre",
         "genre": "Racing, Arcade",
         "developer": "Sonic Team",
         "publisher": "SEGA",
-        "image_format": ".NSZ (compresso ~8%, dimensione installata 11.58 GB)",
+        "image_format": ".NSZ (compresso ~8%, dimensione installata 12.89 GB)",
         "interface_lang": "Russo, Inglese [RUS / ENG / Multi 10]",
         "voice_lang": "Giapponese, Inglese, Francese, Tedesco, Spagnolo, Italiano",
-        "performance": "Sì (su 21.2.0, Atmosphere 1.10.2)",
+        "performance": "Sì (su 22.5.0, Atmosphere 1.12.2)",
         "multiplayer": "Fino a 8 giocatori",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6748998.jpg",
         "screenshots": [
@@ -24389,9 +24449,9 @@
         ],
         "description": "**Per accedere ai contenuti della Digital Deluxe Edition su Nintendo Switch™ 2, acquista la Digital Deluxe Edition per Nintendo Switch™ e il pacchetto upgrade alla Nintendo Switch™ 2 Edition. I possessori dell'edizione per Nintendo Switch™ 2 possono accedere ai contenuti della Digital Deluxe Edition anche acquistando il pass stagionale per Nintendo Switch™.\n\nSfreccia sul tracciato, sull'acqua, in aria e nello spazio con Sonic Racing: CrossWorlds! Sfrutta i Ring di trasferimento per teletrasportarti in nuove dimensioni in cui ogni angolo nasconde una sorpresa.  \n\nCorri verso la vittoria in solitaria o con la tua squadra, in modalità offline o online e affronta giocatori da tutto il mondo. Costruisci l'auto definitiva che rispecchi il tuo stile di guida, sblocca gadget per avere la meglio sui tuoi avversari e scatena i tuoi poteri per vincere!\n\nPronti, partenza, teletrasporto!   \nSfreccia su 24 percorsi e teletrasportati in 15 CrossWorld con i Ring di trasferimento, con meccaniche uniche che porteranno gli iconici personaggi della saga di Sonic e SEGA in nuove dimensioni. Usa l'imprevedibilità a tuo favore, cambiando il paesaggio durante ogni gara!  \n\nChe vinca il migliore!\nScegli fra 23 iconici personaggi, la scuderia più grande che un gioco della serie Sonic Racing abbia mai avuto! \n\nPersonalizza la tua esperienza  \nMescola 45 veicoli unici con ben 70 gadget di ogni tipo per modificare la tua gara, potenziare il tuo kart e creare il veicolo definitivo che rispecchi il tuo stile di gioco. \n\nDomina la gara grazie ai potenziamenti!  \nDomina i tuoi avversari con 23 oggetti, alcuni dei quali già visti e apprezzati, e con novità come il monster truck!  \n\nMille modi di giocare  \nChiama gli amici e giocate in locale condividendo lo schermo nella modalità Gran Premio e nella nuova modalità Parco delle Corse, sfida piloti da tutto il mondo e aumenta il tuo grado nella modalità World Match, affronta gli amici online nelle lobby da 12 giocatori con regole personalizzate nella gara amichevole, o metti alla prova le tue abilità di guida nella modalità Corsa contro il Tempo.",
         "title_id": "01006E001823C000",
-        "version": "1.43",
-        "update_version": 720896,
-        "titles": "01006E001823C000:720896:"
+        "version": "2.00",
+        "update_version": 786432,
+        "titles": "01006E001823C000:786432:"
     },
     {
         "title": "EA Sports FC 24 [NSZ][RUS/Multi11]",
@@ -31719,8 +31779,8 @@
     },
     {
         "title": "Sea of Stars + DLC Throes of the Watchmaker [NSZ][RUS/Multi9]",
-        "size": "4.84 GB",
-        "magnet": "magnet:?xt=urn:btih:67EAAC0705E93E35390521D4E140B99636B8C7A4&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "4.72 GB",
+        "magnet": "magnet:?xt=urn:btih:7EDF0E3168C8CDF9240E736F99BBA71F6DFF4BB6&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6320199",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6320199",
         "year": "2023, agosto",
@@ -31743,9 +31803,9 @@
         ],
         "description": "Sea of Stars tells the story of two Children of the Solstice who combine the powers of the sun and moon to perform Eclipse Magic, the only force capable of fighting off the monstrous creations of an evil alchemist known as The Fleshmancer.\nEngaging turn-based combat\n\nPressing the action button in sync with the animations increases damage output while reducing incoming damage. Along with timed hits, combat features multi-character combo attacks, boosting, and a strategic \"locks\" system offering options to play with different damage types in order to hinder enemies while they are channeling powerful attacks or spells, all in an immersive take on the genre; no random encounters, no transitions to separate battlefields, and no grinding.\n\nUnshackled traversal. \nSwim, climb, vault, jump off or hoist up ledges as you traverse seamlessly through the world with a navigation system based on platformer expertise that breaks free from the classic bound-to-the-grid tileset movement.\n\nA story rich adventure. \nDozens of original characters and story arcs will take you on a captivating journey. Sometimes epic, sometimes silly, and other times emotional, Sea of Stars does its RPG duty of exploring classic themes of adventure and friendship, while also being chock-full of the unexpected twists and events you’d expect from a Sabotage production.\n\nA world you can touch. \nThere are many ways to hang out in the world of Sea of Stars if you feel the need for a change of pace in your adventures. Sailing, cooking, fishing, stopping by a tavern to listen to a song or play the infamous tabletop game known as \"Wheels\".....every system has been designed to deliver an experience that pays respect to retro classics, while rethinking in some areas to offer a smooth and modernized experience.",
         "title_id": "01008C0016544000",
-        "version": "3.0.60151",
-        "update_version": 917504,
-        "titles": "01008C0016544000:917504:"
+        "version": "3.0.60151a",
+        "update_version": 983040,
+        "titles": "01008C0016544000:983040:"
     },
     {
         "title": "Dungeon Slime Collection (Puzzle’s Adventure / Dungeon Slime 2: Puzzle in the Dark Forest) [NSZ][ENG]",
