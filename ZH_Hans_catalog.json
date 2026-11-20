@@ -1,5 +1,35 @@
 [
     {
+        "title": "Titan Souls (自制程序) [NRO][ENG]",
+        "size": "188.6 MB",
+        "magnet": "magnet:?xt=urn:btih:F16E70130C6F3A6E36B1591011D1809CDC3D98B7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6940128",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6940128",
+        "year": "2015",
+        "genre": "Action, Adventure, Homebrew",
+        "developer": "Acid Nerve, Devolver Digital",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "英语 [ENG]",
+        "voice_lang": "英语",
+        "performance": "是 (在 23.5.0, Atmosphere 1.12.2)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6940128.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1119/f0/c99ed0fd5458cc440335857d785a4bf0.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/ac/15451390d0185f4ca84e9be98f8a5bac.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/33/09bd21d11630ce81af877d5635258933.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/c5/b442dbf7ce7d847fce6c65d13a8489c5.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/2e/93731a59c53c372bc92f1ff63f4c6a2e.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/56/1a26e52bc29d3f5a5ea5bcbe83d60e56.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/16/b69ec5638c12cd48194ae7dc4161af16.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/36/f14bcca4433ffe977a4d87a7e3fc4d36.jpeg"
+        ],
+        "description": "在我们的世界和彼岸世界之间存在着泰坦之魂，它们是所有生命的精神源泉和总和。现在，他们分散在废墟中，由休眠的泰坦守护，肩负着保护他们安全的任务，一位孤独的英雄，只手持一支箭，重新组装泰坦灵魂的碎片，寻求真理和力量。\n巨大的泰坦：探索祖先的古代遗迹，发现非凡而独特的泰坦，每个泰坦都有自己凶猛的攻击和隐藏的弱点。找到并利用它们的弱点来杀死怪物并吸收它们所蕴含的原始力量。\n简单的战斗：向可怕的泰坦发射你的单箭，然后将其返回你的手上以进行另一次强力打击。冲刺并逃离泰坦的攻击，但不要害怕死亡，因为死亡是不可避免的，并且在泰坦之魂中大量存在。\n隐藏的秘密：这个王国并非没有秘密。被遗忘已久的泰坦潜伏在阴影中，徘徊在这片土地最遥远的角落——找到他们，消灭他们，夺取他们的灵魂，以发现这里力量的真正范围。来自死亡之门的创作者。",
+        "title_id": null,
+        "version": "1.0.0"
+    },
+    {
         "title": "Deadpool (自制程序) [NRO][RUS]",
         "size": "5.28 GB",
         "magnet": "magnet:?xt=urn:btih:60B405EA331DD256BEF61E6BECF58653041B7AAB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -31,9 +61,9 @@
         "version": "1.0.0"
     },
     {
-        "title": "God of War Collection 1-2 (移植版 y) [NRO][RUS (Mod.)/ENG]",
-        "size": "3.15 GB",
-        "magnet": "magnet:?xt=urn:btih:991CFFCB67C7D44362DB864974219551906BAF53&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "God of War Collection 1-2 (移植版 y) [NRO][RUS]",
+        "size": "3.79 GB",
+        "magnet": "magnet:?xt=urn:btih:0D48FF69F101D0CD0D6AF4EE1CCDCF811232383A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6939814",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6939814",
         "year": "2014",
@@ -41,8 +71,8 @@
         "developer": "Sanzaru Games, SCE Santa Monica Studio",
         "publisher": "Unknown",
         "image_format": "NRO",
-        "interface_lang": "俄语 来自 RETROGAMING v 1 chasti, 英语 [RUS / ENG]",
-        "voice_lang": "俄语 来自 Mechanics VoiceOver (R.G. MVO) v 1 chasti, 英语",
+        "interface_lang": "俄语 来自 RETROGAMING [RUS]",
+        "voice_lang": "俄语 来自 Mechanics VoiceOver (R.G. MVO)",
         "performance": "是 (在 23.5.0, Atmosphere 1.12.2)",
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6939814.jpg",
@@ -23304,7 +23334,7 @@
     {
         "title": "Absolum [NSP][RUS/Multi10]",
         "size": "2.61 GB",
-        "magnet": "magnet:?xt=urn:btih:7AEA322D2444E17FBF01E54AAAFE153DDB5F1E14&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:42272E456639C1CD1327F6F7181EAA333288DF3F&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6755656",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6755656",
         "year": "2025, 10月",
@@ -23327,9 +23357,9 @@
         ],
         "description": "Srazhaytes za izgnannykh geroev Talama v ozhestochennoy bitve i vyrvite magiyu iz lap Solnechnogo Korolya Azry v Absolum, originalnoy igre v zhanre roguelite beat ‘em up ot Dotemu.\nTalam raskololsya iz-za magicheskogo kataklizma, vyzvannogo ambitsioznymi charodeyami, iz-za chego prostoy narod utratil doverie k magii. Solnechnyy Korol Azra vospolzovalsya vseobshchey panikoy, porabotiv magov s pomoshchyu svoego Bagrovogo Ordena, i postavil vernykh printsev pravit zavoevannymi zemlyami. Poka voyska Azry zakhvatyvayut vse novye zemli, velikaya charodeyka Uchavi i nebolshaya gruppa povstantsev vykhodyat iz teni i ispolzuyut zapretnuyu magiyu, chtoby brosit vyzov ego tiranii i pokolebat absolyutnuyu vlast despotichnogo korolya.\nPoznakomtes s izgnannymi geroyami Talama, u kazhdogo iz kotorykh svoy stil boya.",
         "title_id": "0100A83022A22000",
-        "version": "1.2.1",
-        "update_version": 589824,
-        "titles": "0100A83022A22000:589824:"
+        "version": "1.22",
+        "update_version": 655360,
+        "titles": "0100A83022A22000:655360:"
     },
     {
         "title": "Just Shapes and Beats [NSP][RUS/Multi9]",
@@ -35888,8 +35918,8 @@
     },
     {
         "title": "Geometry Dash / World / Meltdown / Sub Zero (移植版 y) [NRO][ENG]",
-        "size": "280.8 MB",
-        "magnet": "magnet:?xt=urn:btih:CC2E21990B85B39C6215FB8A2959BEF7D3DB1319&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "305.3 MB",
+        "magnet": "magnet:?xt=urn:btih:B91EB59125EC87E693757206B1C800BF7A649EC7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6879001",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6879001",
         "year": "2013",
@@ -35913,9 +35943,9 @@
             "https://i127.fastpic.org/thumb/2026/0706/82/f0d7a6f4ca0662a07c8b4c30f007b682.jpeg",
             "https://i127.fastpic.org/thumb/2026/0706/93/b52a3c2bb36d3c74dc9dc4ae5191b293.jpeg"
         ],
-        "description": "Igra soderzhit 27 urovney. 20 iz nikh otkryty srazu, 4 otkryvaetsya za sbor monet, skrytykh vnutri urovney. Eshchyo 4 urovnya nakhodyatsya v «Bashne», gde urovni otkryvayutsya posledovatelno. Kazhdyy uroven — nabor razlichnykh prepyatstviy, kotorye neobkhodimo proyti igroku, ispolzuya raznye, smenyayushchie sebya rezhimy igry. Polosa prepyatstviy sinkhronizirovana s saundtrekom urovnya, v kachestve kotorogo vystupayut elektronnye muzykalnye treki takikh kompozitorov, kak Waterflame, DJ-Nate, F-777, DJVI, MDK i drugikh. Upravlyaetsya personazh nazhatiem ili zazhatiem knopki A. Stolknuvshis s prepyatstviem, igrok nachinaet prokhozhdenie urovnya zanovo.\nPomimo klassicheskogo rezhima igry, prisutstvuet i rezhim platformera — rezhim s neogranichennym vremenem prokhozhdeniya i vozmozhnostyu upravlyat personazhem. Vnutri oboikh rezhimov sushchestvuet rezhim praktiki, v kotorom mozhno stavit tochki sokhraneniya posredi urovnya, s kotorykh igrok nachinaet svoy pust posle smerti. Personazh igroka mozhet prinimat sleduyushchie formy:",
+        "description": "游戏包含 27 个关卡。其中 20 个可立即打开，4 个可通过收集隐藏在关卡内的硬币来解锁。另外 4 层位于“塔”内，各层按顺序打开。每个关卡都是玩家必须使用不同的、不断变化的游戏模式来克服的一组不同的障碍。障碍训练场与关卡配乐同步，其中包括来自 Waterflame、DJ-Nate、F-777、DJVI、MDK 等作曲家的电子音乐曲目。通过按下或按住按钮来控制角色 \nA. 当遇到障碍时，玩家会重新开始关卡。\n除了经典的游戏模式外，还有平台游戏模式 - 一种具有无限完成时间和控制角色能力的模式。在这两种模式中，都有一种练习模式，您可以在关卡中间放置保存点，玩家可以从这里开始死后的生活。玩家角色可以采用以下形式：",
         "title_id": null,
-        "version": "1.0.1"
+        "version": "1.0.4"
     },
     {
         "title": "Missing Banban [NSZ][RUS/Multi23]",

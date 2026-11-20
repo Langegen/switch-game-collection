@@ -1,5 +1,35 @@
 [
     {
+        "title": "Titan Souls (Homebrew) [NRO][ENG]",
+        "size": "188.6 MB",
+        "magnet": "magnet:?xt=urn:btih:F16E70130C6F3A6E36B1591011D1809CDC3D98B7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6940128",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6940128",
+        "year": "2015",
+        "genre": "Action, Adventure, Homebrew",
+        "developer": "Acid Nerve, Devolver Digital",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Englisch [ENG]",
+        "voice_lang": "Englisch",
+        "performance": "Ja (auf 23.5.0, Atmosphere 1.12.2)",
+        "multiplayer": "Nein",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6940128.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1119/f0/c99ed0fd5458cc440335857d785a4bf0.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/ac/15451390d0185f4ca84e9be98f8a5bac.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/33/09bd21d11630ce81af877d5635258933.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/c5/b442dbf7ce7d847fce6c65d13a8489c5.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/2e/93731a59c53c372bc92f1ff63f4c6a2e.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/56/1a26e52bc29d3f5a5ea5bcbe83d60e56.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/16/b69ec5638c12cd48194ae7dc4161af16.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/36/f14bcca4433ffe977a4d87a7e3fc4d36.jpeg"
+        ],
+        "description": "Zwischen unserer Welt und der Welt dahinter liegen die Seelen der Titanen, die spirituelle Quelle und Summe allen Lebens. Jetzt, verstreut in den Ruinen und bewacht von den schlafenden Titanen, deren Aufgabe es ist, sie zu beschützen, setzt ein einsamer Held, bewaffnet mit nur einem Pfeil, die Scherben der Titanseele auf der Suche nach Wahrheit und Macht wieder zusammen.\nKolossale Titanen: Erkunden Sie die antiken Ruinen Ihrer Vorfahren und entdecken Sie außergewöhnliche und einzigartige Titanen, jeder mit seinen eigenen wilden Angriffen und verborgenen Schwächen. Finden und nutzen Sie ihre Schwächen, um Monster zu töten und die in ihnen enthaltene Urkraft zu absorbieren.\nEinfacher Kampf: Feuern Sie Ihren einzelnen Pfeil auf die monströsen Titanen ab und legen Sie ihn für einen weiteren mächtigen Schlag wieder auf Ihre Hand. Fliehe und renne vor den Angriffen der Titanen, aber fürchte dich nicht vor dem Tod, denn er ist unvermeidlich und in den Seelen der Titanen reichlich vorhanden.\nVerborgene Geheimnisse: Dieses Königreich ist nicht ohne Geheimnisse. Längst vergessene Titanen lauern in den Schatten und durchstreifen die entlegensten Winkel des Landes – finden Sie sie, zerstören Sie sie und nehmen Sie ihre Seelen an sich, um das wahre Ausmaß der Macht zu entdecken, die hier liegt. Von den Machern von Death's Door.",
+        "title_id": null,
+        "version": "1.0.0"
+    },
+    {
         "title": "Deadpool (Homebrew) [NRO][RUS]",
         "size": "5.28 GB",
         "magnet": "magnet:?xt=urn:btih:60B405EA331DD256BEF61E6BECF58653041B7AAB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -31,9 +61,9 @@
         "version": "1.0.0"
     },
     {
-        "title": "God of War Collection 1-2 (Port y) [NRO][RUS (Mod.)/ENG]",
-        "size": "3.15 GB",
-        "magnet": "magnet:?xt=urn:btih:991CFFCB67C7D44362DB864974219551906BAF53&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "God of War Collection 1-2 (Port y) [NRO][RUS]",
+        "size": "3.79 GB",
+        "magnet": "magnet:?xt=urn:btih:0D48FF69F101D0CD0D6AF4EE1CCDCF811232383A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6939814",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6939814",
         "year": "2014",
@@ -41,8 +71,8 @@
         "developer": "Sanzaru Games, SCE Santa Monica Studio",
         "publisher": "Unknown",
         "image_format": "NRO",
-        "interface_lang": "Russisch von RETROGAMING v 1 chasti, Englisch [RUS / ENG]",
-        "voice_lang": "Russisch von Mechanics VoiceOver (R.G. MVO) v 1 chasti, Englisch",
+        "interface_lang": "Russisch von RETROGAMING [RUS]",
+        "voice_lang": "Russisch von Mechanics VoiceOver (R.G. MVO)",
         "performance": "Ja (auf 23.5.0, Atmosphere 1.12.2)",
         "multiplayer": "Nein",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6939814.jpg",
@@ -23377,7 +23407,7 @@
     {
         "title": "Absolum [NSP][RUS/Multi10]",
         "size": "2.61 GB",
-        "magnet": "magnet:?xt=urn:btih:7AEA322D2444E17FBF01E54AAAFE153DDB5F1E14&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:42272E456639C1CD1327F6F7181EAA333288DF3F&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6755656",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6755656",
         "year": "2025, Oktober",
@@ -23400,9 +23430,9 @@
         ],
         "description": "Absolum wurde in liebevoller Kleinarbeit von dem Dreamteam erschaffen, das Side-Scrolling-Beat ’em ups neu definiert hat. Dieses packende Abenteuer kombiniert erstklassige Kampf-Action mit modernen Roguelike-Elementen, um die Atmosphäre vergangener Fantasy-Arcade-Hits wieder aufleben zu lassen – alles in der unvergleichlichen Welt von Talamh.\n\nEIN EPISCHES ABENTEUER IN EINER UNVERGLEICHLICHEN FANTASY-WELT\n\nNach einer magischen Katastrophe, die von ehrgeizigen Zauberern verursacht wurde, lag die Welt Talamh in Schutt und Asche, und das einfache Volk begegnete aller Magie mit Misstrauen. Der Sonnenkönig Azra nutzte die dadurch entstandene Panik, um Zauberer mithilfe seines Scharlachroten Ordens zu versklaven, und setzte loyale Prinzen ein, um über die eroberten Reiche zu herrschen.\nWährend Azras Streitkräfte immer mehr Land erobern, erheben sich die Hochmagierin Uchawi und eine kleine Gruppe von Rebellen aus den Schatten, um sich mit ihrer verbotenen Magie seiner absoluten Macht zu widersetzen und sein tyrannisches Regime zu stürzen.\n\nAUS DER ZERSTÖRUNG ERHEBEN SICH NEUE HELDEN\n\nLerne die ausgestoßenen Helden von Talamh kennen, die alle ihren eigenen Kampfstil mit sich bringen.\nAus den Schatten von Yeldrim erhebt sich Galandra als unaufhaltbare Naturgewalt. Sie führt ihr gewaltiges Schwert mit tödlicher Präzision und beängstigender, zerstörerischer nekromantischer Kraft. Ihr ruhiges Auftreten ist wie ein dünner Schleier, der die rasende Wut, die in ihr brodelt, kaum verbergen kann.\nKarl ist der letzte freie Zwerg von Talamh. Mit einer Donnerbüchse seiner Vorfahren und seinen bloßen Fäusten ist er ein Meister des Nahkampfs und der explosiven Taktik. Was ihm an Reichweite fehlt, gleicht er durch rohe Kraft und schnelles Denken wieder aus – was ihn zu einem wertvollen Verbündeten im Kampf gegen Azras Unterdrückung macht.\nIm Laufe ihrer Prüfungen schließen sich ihnen zwei geheimnisvolle Helden im Kampf gegen den Sonnenkönig an: Brome, ein magisches Ausnahmetalent, der die Zukunft seines Volkes sichern will, und der rätselhafte Cider, ein flinker Scharmützler, der in den verstreuten Fragmenten seiner eigenen Seele nach Antworten sucht.\n\nDAS ROGUE ’EM UP-ORIGINAL VON DOTEMU\n\nAbsolum kombiniert Dotemus und Guard Crushs meisterhafte Beherrschung des Beat ’em up-Gameplays mit Supamonks erstklassiger Grafik und Animation. Mit seiner rasanten Action und seinem endlosen Wiederspielwert fordert Absolum dich immer neu heraus – denn dank zahlreicher erkundbarer Pfade und unberechenbarer Begegnungen bietet jeder Durchlauf neue Erlebnisse.\n\nEIN NEUES, FESSELNDES GAMEPLAY ERWARTET DICH\n\nBesiege Azras Elitewache mit einer Mischung aus rasanten Kombiserien und Zauberkräften und entfessele Angriffe, die ebenso kraftvoll wie strategisch sind. Nutze magische Konter und seltene Gegenstände, um das Blatt zu deinen Gunsten zu wenden. Erlebe ein Kampfsystem, das sowohl Geschick als auch Timing erfordert und dich dazu antreibt, bei jedem Durchlauf neue Strategien zu entwickeln, um Chaos in den feindlichen Rängen zu säen.\n\nBEAT ’EM UP AUF HÖCHSTEM NIVEAU\n\nFühre den Aufstand gegen Azras Regime als einsamer Held an oder spiele gemeinsam mit einem Freund – entweder auf der Couch oder im Koop-Modus. Kombiniere deine Elementarkräfte und koordiniere deine Angriffe zu unglaublichen Kombiserien!\n\nDie Welt von Talamh ist ein komplexes Geflecht voller Geheimnisse, Geschichten und Verrat. Von den majestätischen Minen von Grandery bis zu den üppigen Wäldern von Jaroba: Jede Etappe deiner Odyssee wird von einem grandiosen Soundtrack aus der Feder des Komponisten Gareth Coker (Ori, Halo Infinite, Prince of Persia) untermalt, mit Beiträgen von Yuka Kitamura (Dark Souls, Elden Ring), Mick Gordon (Doom Eternal, Atomic Heart) und vielen andere",
         "title_id": "0100A83022A22000",
-        "version": "1.2.1",
-        "update_version": 589824,
-        "titles": "0100A83022A22000:589824:"
+        "version": "1.22",
+        "update_version": 655360,
+        "titles": "0100A83022A22000:655360:"
     },
     {
         "title": "Just Shapes and Beats [NSP][RUS/Multi9]",
@@ -35986,8 +36016,8 @@
     },
     {
         "title": "Geometry Dash / World / Meltdown / Sub Zero (Port y) [NRO][ENG]",
-        "size": "280.8 MB",
-        "magnet": "magnet:?xt=urn:btih:CC2E21990B85B39C6215FB8A2959BEF7D3DB1319&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "305.3 MB",
+        "magnet": "magnet:?xt=urn:btih:B91EB59125EC87E693757206B1C800BF7A649EC7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6879001",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6879001",
         "year": "2013",
@@ -36011,9 +36041,9 @@
             "https://i127.fastpic.org/thumb/2026/0706/82/f0d7a6f4ca0662a07c8b4c30f007b682.jpeg",
             "https://i127.fastpic.org/thumb/2026/0706/93/b52a3c2bb36d3c74dc9dc4ae5191b293.jpeg"
         ],
-        "description": "Igra soderzhit 27 urovney. 20 iz nikh otkryty srazu, 4 otkryvaetsya za sbor monet, skrytykh vnutri urovney. Eshchyo 4 urovnya nakhodyatsya v «Bashne», gde urovni otkryvayutsya posledovatelno. Kazhdyy uroven — nabor razlichnykh prepyatstviy, kotorye neobkhodimo proyti igroku, ispolzuya raznye, smenyayushchie sebya rezhimy igry. Polosa prepyatstviy sinkhronizirovana s saundtrekom urovnya, v kachestve kotorogo vystupayut elektronnye muzykalnye treki takikh kompozitorov, kak Waterflame, DJ-Nate, F-777, DJVI, MDK i drugikh. Upravlyaetsya personazh nazhatiem ili zazhatiem knopki A. Stolknuvshis s prepyatstviem, igrok nachinaet prokhozhdenie urovnya zanovo.\nPomimo klassicheskogo rezhima igry, prisutstvuet i rezhim platformera — rezhim s neogranichennym vremenem prokhozhdeniya i vozmozhnostyu upravlyat personazhem. Vnutri oboikh rezhimov sushchestvuet rezhim praktiki, v kotorom mozhno stavit tochki sokhraneniya posredi urovnya, s kotorykh igrok nachinaet svoy pust posle smerti. Personazh igroka mozhet prinimat sleduyushchie formy:",
+        "description": "Das Spiel enthält 27 Level. 20 davon sind sofort geöffnet, 4 werden durch das Sammeln von in den Levels versteckten Münzen freigeschaltet. Weitere 4 Ebenen befinden sich im „Tower“, wo die Ebenen nacheinander geöffnet werden. Jedes Level besteht aus einer Reihe verschiedener Hindernisse, die der Spieler mithilfe unterschiedlicher, wechselnder Spielmodi überwinden muss. Der Hindernisparcours ist mit dem Soundtrack des Levels synchronisiert, der elektronische Musiktitel von Komponisten wie Waterflame, DJ-Nate, F-777, DJVI, MDK und anderen enthält. Der Charakter wird durch Drücken oder Halten einer Taste gesteuert \nA. Wenn der Spieler auf ein Hindernis stößt, beginnt er das Level erneut.\nNeben dem klassischen Spielmodus gibt es auch einen Plattformmodus – einen Modus mit unbegrenzter Abschlusszeit und der Möglichkeit, einen Charakter zu steuern. In beiden Modi gibt es einen Übungsmodus, in dem man in der Mitte des Levels Speicherpunkte platzieren kann, von denen aus der Spieler sein Leben nach dem Tod beginnt. Der Spielercharakter kann die folgenden Formen annehmen:",
         "title_id": null,
-        "version": "1.0.1"
+        "version": "1.0.4"
     },
     {
         "title": "Missing Banban [NSZ][RUS/Multi23]",

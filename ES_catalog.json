@@ -1,5 +1,35 @@
 [
     {
+        "title": "Titan Souls (homebrew) [NRO][ENG]",
+        "size": "188.6 MB",
+        "magnet": "magnet:?xt=urn:btih:F16E70130C6F3A6E36B1591011D1809CDC3D98B7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6940128",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6940128",
+        "year": "2015",
+        "genre": "Action, Adventure, Homebrew",
+        "developer": "Acid Nerve, Devolver Digital",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Inglés [ENG]",
+        "voice_lang": "Inglés",
+        "performance": "Sí (en 23.5.0, Atmosphere 1.12.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6940128.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1119/f0/c99ed0fd5458cc440335857d785a4bf0.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/ac/15451390d0185f4ca84e9be98f8a5bac.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/33/09bd21d11630ce81af877d5635258933.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/c5/b442dbf7ce7d847fce6c65d13a8489c5.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/2e/93731a59c53c372bc92f1ff63f4c6a2e.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/56/1a26e52bc29d3f5a5ea5bcbe83d60e56.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/16/b69ec5638c12cd48194ae7dc4161af16.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1119/36/f14bcca4433ffe977a4d87a7e3fc4d36.jpeg"
+        ],
+        "description": "Entre nuestro mundo y el mundo del más allá se encuentran las Almas de los Titanes, la fuente espiritual y la suma de toda la vida. Ahora disperso en ruinas y custodiado por los titanes inactivos encargados de mantenerlos a salvo, un héroe solitario, armado con una sola flecha, vuelve a reunir los fragmentos del alma del titán en una búsqueda de la verdad y el poder.\nTitanes colosales: explora las antiguas ruinas de tus antepasados ​​y descubre titanes extraordinarios y únicos, cada uno con sus propios ataques feroces y debilidades ocultas. Encuentra y explota sus debilidades para matar monstruos y absorber el poder primario que contienen.\nCombate simple: dispara tu única flecha a los monstruosos titanes y devuélvela a tu mano para otro poderoso golpe. Corre y huye de los ataques de los Titanes, pero no temas a la muerte, ya que es inevitable y se encuentra en abundancia en las Almas de los Titanes.\nSecretos ocultos: este reino no está exento de secretos. Titanes olvidados hace mucho tiempo acechan en las sombras y merodean por los rincones más lejanos de la tierra: encuéntralos, destrúyelos y toma sus almas para descubrir el verdadero alcance del poder que se encuentra aquí. De los creadores de Death's Door.",
+        "title_id": null,
+        "version": "1.0.0"
+    },
+    {
         "title": "Deadpool (homebrew) [NRO][RUS]",
         "size": "5.28 GB",
         "magnet": "magnet:?xt=urn:btih:60B405EA331DD256BEF61E6BECF58653041B7AAB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -31,9 +61,9 @@
         "version": "1.0.0"
     },
     {
-        "title": "God of War Collection 1-2 (port y) [NRO][RUS (Mod.)/ENG]",
-        "size": "3.15 GB",
-        "magnet": "magnet:?xt=urn:btih:991CFFCB67C7D44362DB864974219551906BAF53&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "title": "God of War Collection 1-2 (port y) [NRO][RUS]",
+        "size": "3.79 GB",
+        "magnet": "magnet:?xt=urn:btih:0D48FF69F101D0CD0D6AF4EE1CCDCF811232383A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6939814",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6939814",
         "year": "2014",
@@ -41,8 +71,8 @@
         "developer": "Sanzaru Games, SCE Santa Monica Studio",
         "publisher": "Unknown",
         "image_format": "NRO",
-        "interface_lang": "Ruso de RETROGAMING v 1 chasti, Inglés [RUS / ENG]",
-        "voice_lang": "Ruso de Mechanics VoiceOver (R.G. MVO) v 1 chasti, Inglés",
+        "interface_lang": "Ruso de RETROGAMING [RUS]",
+        "voice_lang": "Ruso de Mechanics VoiceOver (R.G. MVO)",
         "performance": "Sí (en 23.5.0, Atmosphere 1.12.2)",
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6939814.jpg",
@@ -23366,7 +23396,7 @@
     {
         "title": "Absolum [NSP][RUS/Multi10]",
         "size": "2.61 GB",
-        "magnet": "magnet:?xt=urn:btih:7AEA322D2444E17FBF01E54AAAFE153DDB5F1E14&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:42272E456639C1CD1327F6F7181EAA333288DF3F&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6755656",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6755656",
         "year": "2025, octubre",
@@ -23389,9 +23419,9 @@
         ],
         "description": "UNA AVENTURA ÉPICA EN UN MUNDO DE FANTASÍA ORIGINAL\n\nLa destrucción de Talamh provocada por un cataclismo mágico a manos de magos ambiciosos hizo que la gente común y corriente desconfiara de la magia. Azra, el rey del sol, se aprovechó de este pánico, esclavizó a los magos a través de su Crimson Order y dejó el gobierno de los reinos conquistados en manos de sus príncipes leales.\nA medida que las fuerzas de Azra reclaman cada vez más tierras, la gran hechicera Uchawi y un pequeño grupo de rebeldes surgen de las sombras, empuñando magia prohibida para desafiar su régimen opresivo y poder mágico absoluto.\n\nDESDE LA DESTRUCCIÓN SURGEN NUEVOS HÉROES\n\nConoce a los héroes marginados de Talamh, cada uno con un estilo de pelea único.\nDesde las sombras de Yeldrim, Galandra aparece como una fuerza imparable de la naturaleza. Su espada colosal golpea con una precisión letal, combinada con poderes nigrománticos escalofriantes y destructivos. Su actitud tranquila es un velo delgado que apenas oculta la ira en su interior.\nKarl es el último enano libre de Talamh. Armado con un trabuco ancestral y sus puños, es un maestro de las peleas a corta distancia y las tácticas explosivas. Lo que le falta en alcance a media distancia lo compensa con su fuerza bruta y mente ágil, y eso lo convierte en un aliado incondicional en la revuelta contra la opresión de Azra.\nDurante sus desafíos, dos misteriosos héroes se unirán a ellos en una búsqueda para derrocar al rey del sol: Brome, un mago prodigio en una misión para preservar las futuras generaciones de su pueblo, y el enigmático Cider, un ágil escaramuzador en busca de respuestas entre los fragmentos dispersos de su propia alma.\n\nUN VIDEOJUEGO ROGUE ‘EM UP ORIGINAL CREADO POR DOTEMU\n\nAbsolum combina la maestría de Dotemu y Guard Crush en la jugabilidad de este beat 'em up con el mejor arte y animación de Supamonks. Con su acción rápida y jugabilidad infinita, Absolum presenta un desafío con varios caminos a explorar y encuentros impredecibles que te permitirán vivir una experiencia nueva cada vez que juegues.\n\nUN NUEVO JUEGO EMOCIONANTE QUE DOMINAR\n\nDerrota a la guardia élite de Azra con combos rápidos y lanzamiento de hechizos para desatar movimientos que parecen ser tan poderosos como estratégicos. Usa contraataques mágicos y objetos raros para cambiar la historia a tu favor y experimenta un sistema de combate que exige habilidad y sincronización que te impulsará a crear nuevas estrategias en cada ataque para causar estragos entre las filas enemigas.\n\nEL GÉNERO BEAT ‘EM UP EN SU MÁXIMA EXPRESIÓN\n\nLidera la revuelta contra el régimen de Azra como un héroe solitario o forma equipo con un amigo en tu sofá o en modo cooperativo. ¡Combina tus poderes elementales y sincroniza tus ataques con combos increíbles!\n\nEl mundo de Talamh es un intrincado tapiz repleto de secretos, historias y traiciones. Desde las majestuosas minas de Grandery hasta los frondosos bosques de Jaroba, cada paso de tu odisea estará acompañado por una magnífica banda sonora del compositor Gareth Coker (Ori, Halo Infinite, Prince of Persia), con colaboraciones de Yuka Kitamura (Dark Souls, Elden Ring), Mick Gordon (Doom Eternal, Atomic Heart), ¡y muchos más!",
         "title_id": "0100A83022A22000",
-        "version": "1.2.1",
-        "update_version": 589824,
-        "titles": "0100A83022A22000:589824:"
+        "version": "1.22",
+        "update_version": 655360,
+        "titles": "0100A83022A22000:655360:"
     },
     {
         "title": "Just Shapes and Beats [NSP][RUS/Multi9]",
@@ -35976,8 +36006,8 @@
     },
     {
         "title": "Geometry Dash / World / Meltdown / Sub Zero (port y) [NRO][ENG]",
-        "size": "280.8 MB",
-        "magnet": "magnet:?xt=urn:btih:CC2E21990B85B39C6215FB8A2959BEF7D3DB1319&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "size": "305.3 MB",
+        "magnet": "magnet:?xt=urn:btih:B91EB59125EC87E693757206B1C800BF7A649EC7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6879001",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6879001",
         "year": "2013",
@@ -36001,9 +36031,9 @@
             "https://i127.fastpic.org/thumb/2026/0706/82/f0d7a6f4ca0662a07c8b4c30f007b682.jpeg",
             "https://i127.fastpic.org/thumb/2026/0706/93/b52a3c2bb36d3c74dc9dc4ae5191b293.jpeg"
         ],
-        "description": "Igra soderzhit 27 urovney. 20 iz nikh otkryty srazu, 4 otkryvaetsya za sbor monet, skrytykh vnutri urovney. Eshchyo 4 urovnya nakhodyatsya v «Bashne», gde urovni otkryvayutsya posledovatelno. Kazhdyy uroven — nabor razlichnykh prepyatstviy, kotorye neobkhodimo proyti igroku, ispolzuya raznye, smenyayushchie sebya rezhimy igry. Polosa prepyatstviy sinkhronizirovana s saundtrekom urovnya, v kachestve kotorogo vystupayut elektronnye muzykalnye treki takikh kompozitorov, kak Waterflame, DJ-Nate, F-777, DJVI, MDK i drugikh. Upravlyaetsya personazh nazhatiem ili zazhatiem knopki A. Stolknuvshis s prepyatstviem, igrok nachinaet prokhozhdenie urovnya zanovo.\nPomimo klassicheskogo rezhima igry, prisutstvuet i rezhim platformera — rezhim s neogranichennym vremenem prokhozhdeniya i vozmozhnostyu upravlyat personazhem. Vnutri oboikh rezhimov sushchestvuet rezhim praktiki, v kotorom mozhno stavit tochki sokhraneniya posredi urovnya, s kotorykh igrok nachinaet svoy pust posle smerti. Personazh igroka mozhet prinimat sleduyushchie formy:",
+        "description": "El juego contiene 27 niveles. 20 de ellos se abren inmediatamente, 4 se desbloquean recogiendo monedas escondidas dentro de los niveles. Otros 4 niveles están ubicados en la \"Torre\", donde los niveles se abren secuencialmente. Cada nivel es un conjunto de obstáculos diferentes que el jugador debe superar, utilizando modos de juego diferentes y cambiantes. La carrera de obstáculos está sincronizada con la banda sonora del nivel, que incluye pistas de música electrónica de compositores como Waterflame, DJ-Nate, F-777, DJVI, MDK y otros. El personaje se controla presionando o manteniendo presionado un botón. \nR. Cuando se enfrenta a un obstáculo, el jugador comienza el nivel nuevamente.\nAdemás del modo de juego clásico, también hay un modo de plataformas, un modo con tiempo de finalización ilimitado y la capacidad de controlar un personaje. Dentro de ambos modos, hay un modo de práctica en el que puedes colocar puntos de guardado en el medio del nivel, desde donde el jugador comienza su vida después de la muerte. El personaje del jugador puede adoptar las siguientes formas:",
         "title_id": null,
-        "version": "1.0.1"
+        "version": "1.0.4"
     },
     {
         "title": "Missing Banban [NSZ][RUS/Multi23]",
