@@ -16,7 +16,7 @@
 | [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |
 | [BanhMi93P/deadpool-nx](https://github.com/BanhMi93P/deadpool-nx) | 4 | v1.0.0 | 2026-11-19 | deadpool-nx-v1.0.0.zip |
 | [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 40 | v1.1.0 | 2026-11-18 | slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slingshot-builder-x86_64.AppImage, slingsho |
-| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 195 | v0.2.0 | 2026-11-18 | NXLibrary-0.2.0.dmg, NXLibrary-0.2.0.zip |
+| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 213 | v0.2.1 | 2026-11-20 | NXLibrary-0.2.1.dmg, NXLibrary-0.2.1.zip |
 | [BladesawStudios/WiiXLaunch](https://github.com/BladesawStudios/WiiXLaunch) | 6 | 1.0-rc1 | 2026-09-16 | wxl-sdk-1.0-rc1.zip |
 | [BlekjekSudo/mksm-nx](https://github.com/BlekjekSudo/mksm-nx) | 0 | switch-v0.1.0-alpha.1 | 2026-10-20 | checksums.txt, forwarder-checksums.txt, forwarder-manifest.json, MK-Shaolin-Monk-forwarder-source.zip, MK-Shaolin-Monk-f |
 | [Cameudis/SWOTS](https://github.com/Cameudis/SWOTS) | 2 | v0.1.0 | 2026-08-18 | SWOTS-v0.1.0.zip, SWOTS-v0.1.0.zip.sha256 |
@@ -54,11 +54,11 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 3 | v0.9.2 | 2026-11-18 | SHA256SUMS.txt, switch-online-0.9.2-hats.zip, switch-online-0.9.2-sd.zip, switch-online-0.9.2-sdk-sources.tar, switch-on |
+| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 4 | v0.9.5 | 2026-11-20 | SHA256SUMS.txt, switch-online-0.9.5-hats.zip, switch-online-0.9.5-sd.zip, switch-online-0.9.5-sdk-sources.tar, switch-on |
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 61 | v1.0.10 | 2026-11-16 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 4.0.0 | 2026-11-20 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
-| [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 6 | v1.0.26 | 2026-10-22 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |
+| [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 6 | v1.0.27 | 2026-11-20 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |
 | [Strrationalism/CPyMO](https://github.com/Strrationalism/CPyMO) | 153 | v1.1.9 | 2023-08-14 | CPyMO.ASCII.Art.for.Linux.zip, CPyMO.ASCII.Art.for.macOS.zip, CPyMO.ASCII.Art.for.Windows.zip, CPyMO.for.Android.Accessi |
 | [Team-Failure/TF-OS](https://github.com/Team-Failure/TF-OS) | 6 | 3.6 | 2026-03-15 | TF_OS_3.6.zip |
 | [Tobias103435/mkwii-switch-builder](https://github.com/Tobias103435/mkwii-switch-builder) | 1 | v1 | 2026-11-03 | MarioKartWii-Switch-builder.zip, mkw-render-deko3d-13abc3bc-f8c9eef0-20261102.tar.xz, mkw-render-deko3d-13abc3bc-f8c9eef |
@@ -194,6 +194,7 @@
 | [team-neptune/deepsea](https://github.com/team-neptune/deepsea) | ? | v4.15.0 | 2026-03-31 | deepsea-advanced_v4.15.0.zip, deepsea-minimal_v4.15.0.zip, deepsea-normal_v4.15.0.zip |
 | [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) | ? | v1.3.0 | 2020-10-18 | Chiaki-v1.3.0-Android.aab, Chiaki-v1.3.0-Android.apk, Chiaki-v1.3.0-Linux-x86_64.AppImage, Chiaki-v1.3.0-macOS-x86_64.dm |
 | [timschneeb/kdeconnect-nx](https://github.com/timschneeb/kdeconnect-nx) | 14 | v1.0.1 | 2026-06-09 | debug-symbols.zip, kdeconnect-nx.zip |
+| [timschneeb/nsmbw-nx](https://github.com/timschneeb/nsmbw-nx) | 0 | v1.0.0 | 2026-11-20 | assets.json, NSMBW-switch.zip |
 | [tomvita/atmosphere](https://github.com/tomvita/atmosphere) | ? | dmnt_with_extension | 2025-01-11 | dmnt.zip |
 | [tomvita/breeze-beta](https://github.com/tomvita/breeze-beta) | ? | beta108.4c | 2026-06-17 | Breeze.zip, version.txt |
 | [tomvita/noexes](https://github.com/tomvita/noexes) | ? | 1.4.157 | 2022-05-05 | 054e4f4558454000.zip, 054e4f4558454000_18.zip, JNoexsClient.jar |

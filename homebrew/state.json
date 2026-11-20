@@ -909,17 +909,17 @@
    "zip_root": ""
   },
   "qret/modkitnx": {
-   "asset_key": "752163317:2026-11-15T19:53:38Z",
-   "extracted": 11391875,
+   "asset_key": "771080465:2026-11-20T08:40:05Z",
+   "extracted": 11387779,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ModKitNX.jpg",
    "nacp": {
     "author": "qret",
     "title": "ModKitNX",
-    "version": "1.1.2"
+    "version": "1.1.3"
    },
-   "sha256": "c521d9e65684a67783e9893b59026d41b72e77f5ac78bb4412c223ce8c17be28",
-   "size": 11391875,
+   "sha256": "c18ed3a458bd780e3124a5613f4d744fbfc9601309a7e84b8daffe6134cdf580",
+   "size": 11387779,
    "type": "file",
    "zip_root": ""
   },
@@ -1367,7 +1367,7 @@
   "bernardogiordano/checkpoint": {
    "description": "Fast and simple homebrew save management framework for 3DS and Switch.",
    "full_name": "BernardoGiordano/Checkpoint",
-   "stargazers_count": 3134,
+   "stargazers_count": 3135,
    "topics": [
     "3ds",
     "3ds-homebrew",
@@ -7275,8 +7275,8 @@
  "rejected": {
   "0xsharkboy/nx-discord-rpc": {
    "candidate": "| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 1 | v0.7.0 | 2026-11-19 | exefs.nsp, nx-discord-rpc-0.7.0.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |",
-   "checked": "2026-11-19",
-   "pushed_at": "2026-11-19T14:45:00Z"
+   "checked": "2026-11-20",
+   "pushed_at": "2026-11-20T20:21:28Z"
   },
   "16bitwonder/nx-versions": {
    "checked": "2026-11-18",
@@ -7419,8 +7419,8 @@
    "pushed_at": "2026-08-20T09:18:32Z"
   },
   "armaatus/rommsync-nx": {
-   "checked": "2026-11-19",
-   "pushed_at": "2026-11-19T11:48:57Z"
+   "checked": "2026-11-20",
+   "pushed_at": "2026-11-20T11:45:59Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -7519,9 +7519,9 @@
    "pushed_at": "2026-11-18T16:42:00Z"
   },
   "bium23/nxlibrary": {
-   "candidate": "| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 195 | v0.2.0 | 2026-11-18 | NXLibrary-0.2.0.dmg, NXLibrary-0.2.0.zip |",
-   "checked": "2026-11-18",
-   "pushed_at": "2026-11-18T11:54:07Z"
+   "candidate": "| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 213 | v0.2.1 | 2026-11-20 | NXLibrary-0.2.1.dmg, NXLibrary-0.2.1.zip |",
+   "checked": "2026-11-20",
+   "pushed_at": "2026-11-20T16:53:54Z"
   },
   "biuspoly/pekka-kana-2-switch": {
    "candidate": "| [biuspoly/pekka-kana-2-switch](https://github.com/biuspoly/pekka-kana-2-switch) | 0 | v1.0 | 2026-10-28 | PekkaKana2_Switch_SD.zip |",
@@ -7701,8 +7701,8 @@
    "pushed_at": "2026-09-16T16:58:32Z"
   },
   "ctj01/switch2pc": {
-   "checked": "2026-11-19",
-   "pushed_at": "2026-11-19T11:12:32Z"
+   "checked": "2026-11-20",
+   "pushed_at": "2026-11-20T10:59:57Z"
   },
   "curl/curl": {
    "candidate": "| [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |",
@@ -8222,7 +8222,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T07:06:20Z"
+   "pushed_at": "2026-11-20T20:07:51Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8465,11 +8465,11 @@
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T02:55:56Z"
+   "pushed_at": "2026-11-20T19:53:54Z"
   },
   "mohit2096/yuzu-emulator-toolkit": {
    "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T00:59:24Z"
+   "pushed_at": "2026-11-20T17:28:33Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-18",
@@ -8698,7 +8698,7 @@
   },
   "prowahaj13/yuzu-emulator-tutorial": {
    "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T01:02:04Z"
+   "pushed_at": "2026-11-20T18:18:21Z"
   },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
@@ -8883,9 +8883,9 @@
    "pushed_at": "2026-11-15T05:52:57Z"
   },
   "sec-123/roomcircuit_lanywhere-selfhost": {
-   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 3 | v0.9.2 | 2026-11-18 | SHA256SUMS.txt, switch-online-0.9.2-hats.zip, switch-online-0.9.2-sd.zip, switch-online-0.9.2-sdk-sources.tar, switch-on |",
+   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 4 | v0.9.5 | 2026-11-20 | SHA256SUMS.txt, switch-online-0.9.5-hats.zip, switch-online-0.9.5-sd.zip, switch-online-0.9.5-sdk-sources.tar, switch-on |",
    "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T05:37:25Z"
+   "pushed_at": "2026-11-20T20:05:26Z"
   },
   "shodowlo/nx-torrent-player": {
    "candidate": "| [shodowlo/NX-torrent-player](https://github.com/shodowlo/NX-torrent-player) | 37 | v0.6.0 | 2026-11-18 | NX-torrent-player.nro, NX2-torrent-player.nro |",
@@ -8911,8 +8911,8 @@
   },
   "sonerx7/nexvyn-os-nx": {
    "candidate": "| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 82 | v1.3.27 | 2026-11-17 | NexvynOS.nro, NexvynSDK-1.3.27.zip, SHA256SUMS.txt |",
-   "checked": "2026-11-19",
-   "pushed_at": "2026-11-19T15:33:14Z"
+   "checked": "2026-11-20",
+   "pushed_at": "2026-11-20T17:35:59Z"
   },
   "spacecraft-nx/firmware": {
    "candidate": "| [spacecraft-nx/firmware](https://github.com/spacecraft-nx/firmware) | ? | 0.2.0 | 2021-10-14 | release_0.2.0.zip |",
@@ -8938,9 +8938,9 @@
    "pushed_at": ""
   },
   "steklorez/switchagent": {
-   "candidate": "| [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 6 | v1.0.26 | 2026-10-22 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-10-22T20:10:58Z"
+   "candidate": "| [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 6 | v1.0.27 | 2026-11-20 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |",
+   "checked": "2026-11-20",
+   "pushed_at": "2026-11-20T20:15:11Z"
   },
   "steve1451-dot/yuanshi-launcher-ns": {
    "checked": "2026-11-15",
@@ -9071,8 +9071,9 @@
    "pushed_at": "2026-06-09T00:53:01Z"
   },
   "timschneeb/nsmbw-nx": {
-   "checked": "2026-11-16",
-   "pushed_at": "2026-11-16T04:58:28Z"
+   "candidate": "| [timschneeb/nsmbw-nx](https://github.com/timschneeb/nsmbw-nx) | 0 | v1.0.0 | 2026-11-20 | assets.json, NSMBW-switch.zip |",
+   "checked": "2026-11-20",
+   "pushed_at": "2026-11-20T20:22:24Z"
   },
   "tobias103435/mkwii-switch-builder": {
    "candidate": "| [Tobias103435/mkwii-switch-builder](https://github.com/Tobias103435/mkwii-switch-builder) | 1 | v1 | 2026-11-03 | MarioKartWii-Switch-builder.zip, mkw-render-deko3d-13abc3bc-f8c9eef0-20261102.tar.xz, mkw-render-deko3d-13abc3bc-f8c9eef |",

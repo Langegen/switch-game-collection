@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-20T07:19:29Z",
+ "generated": "2026-11-20T20:24:26Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -3361,18 +3361,18 @@
    "name": "ModKitNX",
    "title": "ModKitNX",
    "author": "qret",
-   "version": "1.1.2",
+   "version": "1.1.3",
    "category": "game",
    "description": "Nintendo Switch homebrew that makes games built for a newer firmware run on yours: unpacks ZBIC, swaps the game's sdk, adds a module that fills in missing functions and grants the needed permissions — one button, one button back. Also loads mods without LayeredFS.",
-   "changelog": "ModKitNX: adds a home screen shortcut that opens the app with full memory (offered once on first start), makes the game list and game pages load much faster thanks to a cache, and updates the list right after installing or removing with focus kept on the same game.\n\n---\nsha256 (ModKitNX.nro): `c521d9e65684a67783e9893b59026d41b72e77f5ac78bb4412c223ce8c17be28`",
+   "changelog": "ModKitNX: the game page has a single remove button that also removes the sdk swap, and hidden sdk choices no longer catch the cursor.\n\n---\nsha256 (ModKitNX.nro): `c18ed3a458bd780e3124a5613f4d744fbfc9601309a7e84b8daffe6134cdf580`",
    "url": "https://github.com/qret/modkitnx",
    "repo": "qret/modkitnx",
-   "updated": "2026-11-15",
-   "download_url": "https://github.com/qret/ModKitNX/releases/download/v1.1.2/ModKitNX.nro",
+   "updated": "2026-11-20",
+   "download_url": "https://github.com/qret/ModKitNX/releases/download/v1.1.3/ModKitNX.nro",
    "download_type": "file",
-   "sha256": "c521d9e65684a67783e9893b59026d41b72e77f5ac78bb4412c223ce8c17be28",
-   "filesize": 11391875,
-   "extracted": 11391875,
+   "sha256": "c18ed3a458bd780e3124a5613f4d744fbfc9601309a7e84b8daffe6134cdf580",
+   "filesize": 11387779,
+   "extracted": 11387779,
    "files": [
     "U: switch/ModKitNX/ModKitNX.nro"
    ],
