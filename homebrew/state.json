@@ -7274,9 +7274,9 @@
  },
  "rejected": {
   "0xsharkboy/nx-discord-rpc": {
-   "candidate": "| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 1 | v0.7.0 | 2026-11-19 | exefs.nsp, nx-discord-rpc-0.7.0.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |",
-   "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T20:21:28Z"
+   "candidate": "| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 2 | v0.7.2 | 2026-11-20 | exefs.nsp, nx-discord-rpc-0.7.2.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |",
+   "checked": "2026-11-21",
+   "pushed_at": "2026-11-20T20:51:40Z"
   },
   "16bitwonder/nx-versions": {
    "checked": "2026-11-18",
@@ -7426,6 +7426,10 @@
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
    "checked": "2026-11-09",
    "pushed_at": "2026-10-28T21:16:50Z"
+  },
+  "astralemu/ryuldnnx": {
+   "checked": "2026-11-21",
+   "pushed_at": "2026-11-21T00:35:46Z"
   },
   "atlasnx/kosmos": {
    "checked": "2026-11-18",
@@ -8221,8 +8225,8 @@
    "pushed_at": "2026-02-16T23:25:56Z"
   },
   "jacquesdupontd/port0r": {
-   "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T20:07:51Z"
+   "checked": "2026-11-21",
+   "pushed_at": "2026-11-21T07:06:08Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8297,6 +8301,11 @@
   "knight1/match-version-unlocker": {
    "checked": "2026-11-09",
    "pushed_at": "2026-11-06T08:59:14Z"
+  },
+  "kohaku743/horizon-nx-companion": {
+   "candidate": "| [KoHaku743/horizon-nx-companion](https://github.com/KoHaku743/horizon-nx-companion) | 0 | v0.2.0 | 2026-11-20 | horizon-nx-companion-linux-x86_64.tar.gz, horizon-nx-companion-macos.zip, horizon-nx-companion-windows.zip |",
+   "checked": "2026-11-21",
+   "pushed_at": "2026-11-20T23:08:57Z"
   },
   "konstanty/libmodplug": {
    "checked": "2026-11-18",
@@ -8464,12 +8473,12 @@
    "pushed_at": ""
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
-   "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T19:53:54Z"
+   "checked": "2026-11-21",
+   "pushed_at": "2026-11-21T01:17:20Z"
   },
   "mohit2096/yuzu-emulator-toolkit": {
-   "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T17:28:33Z"
+   "checked": "2026-11-21",
+   "pushed_at": "2026-11-21T05:12:03Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-18",
@@ -8697,8 +8706,8 @@
    "pushed_at": ""
   },
   "prowahaj13/yuzu-emulator-tutorial": {
-   "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T18:18:21Z"
+   "checked": "2026-11-21",
+   "pushed_at": "2026-11-21T00:36:24Z"
   },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
@@ -8720,8 +8729,8 @@
    "pushed_at": ""
   },
   "ramondias07/budokai3-nx": {
-   "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T06:55:32Z"
+   "checked": "2026-11-21",
+   "pushed_at": "2026-11-20T22:28:11Z"
   },
   "rashevskyv/4ifir": {
    "candidate": "| [rashevskyv/4ifir](https://github.com/rashevskyv/4ifir) | ? | 25.07.27.11 | 2025-07-27 | 4IFIR-Wizard-update-25.07.27.11.zip |",
@@ -8883,14 +8892,18 @@
    "pushed_at": "2026-11-15T05:52:57Z"
   },
   "sec-123/roomcircuit_lanywhere-selfhost": {
-   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 4 | v0.9.5 | 2026-11-20 | SHA256SUMS.txt, switch-online-0.9.5-hats.zip, switch-online-0.9.5-sd.zip, switch-online-0.9.5-sdk-sources.tar, switch-on |",
-   "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T20:05:26Z"
+   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 5 | v0.9.6 | 2026-11-21 | SHA256SUMS.txt, switch-online-0.9.6-hats.zip, switch-online-0.9.6-sd.zip, switch-online-0.9.6-sdk-sources.tar, switch-on |",
+   "checked": "2026-11-21",
+   "pushed_at": "2026-11-21T01:16:04Z"
   },
   "shodowlo/nx-torrent-player": {
    "candidate": "| [shodowlo/NX-torrent-player](https://github.com/shodowlo/NX-torrent-player) | 37 | v0.6.0 | 2026-11-18 | NX-torrent-player.nro, NX2-torrent-player.nro |",
    "checked": "2026-11-18",
    "pushed_at": "2026-11-18T01:49:39Z"
+  },
+  "shubhxyt/nsmbw-native": {
+   "checked": "2026-11-21",
+   "pushed_at": "2026-11-21T05:47:33Z"
   },
   "simplysabir/nrodoc": {
    "checked": "2026-11-09",
@@ -9128,14 +9141,14 @@
    "pushed_at": "2026-11-19T15:34:18Z"
   },
   "underwateroverground/wireguard-nx": {
-   "candidate": "| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 15 | v1.1.3 | 2026-11-19 | wireguard-nx-1.1.3.zip |",
-   "checked": "2026-11-19",
-   "pushed_at": "2026-11-19T15:34:21Z"
+   "candidate": "| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 15 | v1.1.4 | 2026-11-20 | wireguard-nx-1.1.4.zip |",
+   "checked": "2026-11-21",
+   "pushed_at": "2026-11-20T21:30:54Z"
   },
   "underwateroverground/zerotier-nx": {
-   "candidate": "| [UnderwaterOverground/zerotier-nx](https://github.com/UnderwaterOverground/zerotier-nx) | 1 | v1.0.0 | 2026-11-19 | zerotier-nx-1.0.0.zip |",
-   "checked": "2026-11-19",
-   "pushed_at": "2026-11-19T12:35:53Z"
+   "candidate": "| [UnderwaterOverground/zerotier-nx](https://github.com/UnderwaterOverground/zerotier-nx) | 3 | v1.0.1 | 2026-11-20 | zerotier-nx-1.0.1.zip |",
+   "checked": "2026-11-21",
+   "pushed_at": "2026-11-20T21:19:16Z"
   },
   "unitendo/aurorachat": {
    "checked": "2026-11-17",

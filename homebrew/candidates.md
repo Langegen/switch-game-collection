@@ -1,12 +1,12 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-20. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-21. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
 | Репозиторий | ★ | Версия | Дата | Файлы |
 |---|---|---|---|---|
-| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 1 | v0.7.0 | 2026-11-19 | exefs.nsp, nx-discord-rpc-0.7.0.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |
+| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 2 | v0.7.2 | 2026-11-20 | exefs.nsp, nx-discord-rpc-0.7.2.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |
 | [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |
 | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | 20 | Release-1.1.0 | 2026-11-04 | bo2-360-nx-gamefiles-shader-extractor.zip, bo2-360-nx-release-1.1.0-switch+windows-build-kit.zip, bo2-360-nx-switch-PGO- |
 | [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 9 | v2.0.0 | 2026-11-12 | songate-manifest.json, SongateAND-2.0.0.apk, SongateNX-2.0.0.zip, SongateWIN-2.0.0.exe |
@@ -43,6 +43,7 @@
 | [Jack-The-Yoshi/One-Click-Game-Manager-OCGM-](https://github.com/Jack-The-Yoshi/One-Click-Game-Manager-OCGM-) | 1 | v1.0.1 | 2026-02-16 | OCGM.nro |
 | [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |
 | [KakarottoCake/gcadapter-oc-nx](https://github.com/KakarottoCake/gcadapter-oc-nx) | 0 | v0.1.5-alpha | 2026-07-29 | gcadapter-oc-nx.zip |
+| [KoHaku743/horizon-nx-companion](https://github.com/KoHaku743/horizon-nx-companion) | 0 | v0.2.0 | 2026-11-20 | horizon-nx-companion-linux-x86_64.tar.gz, horizon-nx-companion-macos.zip, horizon-nx-companion-windows.zip |
 | [LaLemniscata/ben10-nx](https://github.com/LaLemniscata/ben10-nx) | 0 | v1.1.4 | 2026-11-06 | Ben10-NX-Installer.zip |
 | [MeoWDev-MOD/Control-PS-5](https://github.com/MeoWDev-MOD/Control-PS-5) | 1 | v1.1.0 | 2026-11-04 | Control-PS-5.zip |
 | [NX-Family/NX-Translation](https://github.com/NX-Family/NX-Translation) | 34 | FW22.5.0-TR2.01 | 2026-09-11 | NX-Translation_arabic.zip, NX-Translation_basque.zip, NX-Translation_bulgarian.zip, NX-Translation_catalan.zip, NX-Trans |
@@ -54,7 +55,7 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 4 | v0.9.5 | 2026-11-20 | SHA256SUMS.txt, switch-online-0.9.5-hats.zip, switch-online-0.9.5-sd.zip, switch-online-0.9.5-sdk-sources.tar, switch-on |
+| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 5 | v0.9.6 | 2026-11-21 | SHA256SUMS.txt, switch-online-0.9.6-hats.zip, switch-online-0.9.6-sd.zip, switch-online-0.9.6-sdk-sources.tar, switch-on |
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 61 | v1.0.10 | 2026-11-16 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 4.0.0 | 2026-11-20 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
@@ -65,8 +66,8 @@
 | [Trinalord777/DK64Recomp-NX](https://github.com/Trinalord777/DK64Recomp-NX) | 7 | v1.1.2 | 2026-10-11 | DK64Recomp-NX-v1.1.2.zip |
 | [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX) | 845 | 3.1-R3 | 2026-11-11 | Ultra.zip |
 | [UnderwaterOverground/tailscale-nx](https://github.com/UnderwaterOverground/tailscale-nx) | 88 | v1.4.1 | 2026-11-19 | tailscale-nx-1.4.1.zip |
-| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 15 | v1.1.3 | 2026-11-19 | wireguard-nx-1.1.3.zip |
-| [UnderwaterOverground/zerotier-nx](https://github.com/UnderwaterOverground/zerotier-nx) | 1 | v1.0.0 | 2026-11-19 | zerotier-nx-1.0.0.zip |
+| [UnderwaterOverground/wireguard-nx](https://github.com/UnderwaterOverground/wireguard-nx) | 15 | v1.1.4 | 2026-11-20 | wireguard-nx-1.1.4.zip |
+| [UnderwaterOverground/zerotier-nx](https://github.com/UnderwaterOverground/zerotier-nx) | 3 | v1.0.1 | 2026-11-20 | zerotier-nx-1.0.1.zip |
 | [VelizarSeleznev/switch-quick-settings](https://github.com/VelizarSeleznev/switch-quick-settings) | 0 | v1.0.0 | 2026-10-25 | quick-settings-1.0.0.zip, quick-settings-demo.mp4 |
 | [Yirr777/PartyBoard-NX](https://github.com/Yirr777/PartyBoard-NX) | 1 | v0.2.0-preview | 2026-11-07 | PartyBoard-forwarder.nsp, partyboard-switch.zip, SHA256SUMS |
 | [aarvsn/gta3-nx](https://github.com/aarvsn/gta3-nx) | 1 | v1.0.0 | 2026-07-31 | gta3-nx.nacp, gta3-nx.nro |
