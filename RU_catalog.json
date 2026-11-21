@@ -1,5 +1,35 @@
 [
     {
+        "title": "Small Saga [NSZ][ENG]",
+        "size": "271 MB",
+        "magnet": "magnet:?xt=urn:btih:86231C262BBA445D717773DC5348455909939B9C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6940811",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6940811",
+        "year": "2026, август",
+        "genre": "Adventure, Role-Playing",
+        "developer": "Даша Ногани",
+        "publisher": "Vertical Reach",
+        "image_format": ".NSZ (сжато ~29%, установленный объём 0.38 ГБ)",
+        "interface_lang": "Английский [ENG]",
+        "voice_lang": "не озвучивается",
+        "performance": "Да (на 22.5.0, Atmosphere 1.12.2)",
+        "multiplayer": "нет",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6940811.jpg",
+        "screenshots": [
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/8bbe7205aca10e19fc1956b05fe2423462e13eba522ddbd6945024c213ae6910.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d26417cef179bc0c2dbeb4bdf43afbeaa8e23293ef21276d70006ad0e459e704.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a3ed9331ac0d705b7f770be0ddaa69c16a443c3673575772448728e2554b3a7d.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/ab94c8990d41f0e4855426597b58f2599d16ab1ac828a4de5783c12854366800.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/022f7d1ddb5a623549776de2a4910e54cae9a090d8256bd3f16f73bef3136dd3.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/450b1d68c23303533fb4b958f7529e67105bdd7a082a9afdaee32088f8600f99.jpg&output=jpg"
+        ],
+        "description": "Глубоко под улицами Лондона разъяренный мышонок жаждет отомстить богу, который украл его хвост. Это — эпическая ролевая адвенчура, но в миниатюрном масштабе!..\nСпуститесь под лондонские мостовые — там раскинулось средневековое королевство Родентия, населенное крысами, мышами, кротами, белками и землеройками.",
+        "title_id": "0100731029A0A000",
+        "version": "2.05a",
+        "update_version": 65536,
+        "titles": "0100731029A0A000:65536:"
+    },
+    {
         "title": "Aurelia (хоумбрю 18+) [NRO][RUS/Multi8]",
         "size": "259.4 MB",
         "magnet": "magnet:?xt=urn:btih:F856D2E5BAE6AD00FDB456F54416C49A58E797AC&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -546,7 +576,7 @@
     {
         "title": "Manhunt (порт) [NRO][RUS]",
         "size": "2.41 GB",
-        "magnet": "magnet:?xt=urn:btih:0FD44A26D8EB707340683A02860568BAAC913D4C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:7BF1599B27B43A0F081CDDF8A6575BC9B3DBE98F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6938945",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6938945",
         "year": "2004",
@@ -555,7 +585,7 @@
         "publisher": "Unknown",
         "image_format": "NRO",
         "interface_lang": "Русский [RUS]",
-        "voice_lang": "английская",
+        "voice_lang": "Русская (от NoData)",
         "performance": "Да (на 20.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Unknown",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6938945.jpg",
@@ -570,7 +600,7 @@
         ],
         "description": "Шокирующая жестокость и откровенные сцены насилия сделали эту игру одним из самых скандальных проектов в истории индустрии развлечений и вызвали небывалый общественный резонанс.\nАмерика полна мрачных индустриальных городков, где царит вседозволенность. В Карцер-Сити ценят только острые ощущения, самое сильное из которых – игра с человеческой жизнью. Нет ничего более захватывающего, чем желание подарить и отнять жизнь ради забавы. На сей раз стал жертвой ты, Джеймс Эрл Кэш. Они подарили тебе жизнь. Теперь они снова начнут на тебя охоту.\nТы просыпаешься в панике, оглушенный собственным дыханием. Ты должен бежать, спрятаться, выжить. Если сумеешь протянуть достаточно долго, то, может быть, узнаешь, кто стоит за всем этим.\nЭто жестокий, кровавый спорт.",
         "title_id": null,
-        "version": "16.11.2026"
+        "version": "1.0"
     },
     {
         "title": "Yokai Landlord Monster Mystery [NSZ][ENG]",
@@ -3954,7 +3984,7 @@
     {
         "title": "Prototype 2 (порт) [NRO][RUS/ENG]",
         "size": "7.4 GB",
-        "magnet": "magnet:?xt=urn:btih:7A70BCE46E42FBE12125385F7CB22996A96E1266&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:2FCC85160CB8783299C364883DAD896CF69A723A&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6922832",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6922832",
         "year": "2012",
@@ -3968,16 +3998,19 @@
         "multiplayer": "Нет",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922832.jpg",
         "screenshots": [
-            "https://i128.fastpic.org/thumb/2026/1014/f7/d5a7efca9090c18543a5bdc296792af7.jpeg",
-            "https://i128.fastpic.org/thumb/2026/1014/45/6d3fd59471787e659e6f3f1ad29acc45.jpeg",
-            "https://i128.fastpic.org/thumb/2026/1014/1a/a7fd5df34fa3d42b9a259ec9bc66bd1a.jpeg",
-            "https://i128.fastpic.org/thumb/2026/1014/43/03e4a313fda73b69015a3f05bc6e5443.jpeg",
-            "https://i128.fastpic.org/thumb/2026/1014/c4/b74000c401d4b208f7a1f29f24ccaec4.jpeg",
-            "https://i128.fastpic.org/thumb/2026/1014/28/3f0399f06f4369acc05f288fa47cec28.jpeg"
+            "https://i129.fastpic.org/thumb/2026/1121/24/b8da738847788fe9ebc74aee0a6d6024.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/51/b954c00ee0285947280416e6b233e451.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/f2/d0825dd309558a021db677af558d2ef2.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/e8/918611b6359da6fcf39095ddacd075e8.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/58/635e3b82e974a186e3318e5bc6a79b58.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/56/b42181ffc45f186e5ac8c307fba0f156.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/2f/4ca03f2d9cd9dc339856aaa026a76a2f.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/76/b186aaa371ad899d22ab2309b83fe976.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/20/7a718ccc9625730cd2f72637d92ea620.jpeg"
         ],
         "description": "Вырвавшийся на свободу смертоносный вирус превратил мегаполис в преддверие ада. Разделенный на зоны безопасности, город стал огромной ловушкой. Часть улиц контролируют военные, уничтожающие любое проявление заразы. Остальные районы превратились в «красную зону» – обиталище мутантов, безжалостно пожирающих своих жертв. Где-то там, среди разрушенных зданий, скрывается Алекс Мерсер, главный виновник распространения вируса. А теперь туда стремится и бывший сержант Джеймс Хеллер, жаждущий отомстить за свою семью, погибшую в первые дни катаклизма. Добро пожаловать в Нью-Йорк Зеро. Сезон охоты открыт. Продолжение жестокого и кровавого бестселлера от студии Radical Entertainment продолжит рассказ о превращении человека в абсолютное оружие. Сейте хаос и разрушение на городских улицах с помощью способностей, которые дает вам вирус. Трансформируйте тело героя, поглощая многочисленных врагов. Используйте безграничные возможности перемещения, чтобы исследовать руины Нью-Йорк Зеро в поисках новых впечатлений. Сражайтесь. Убивайте. Меняйтесь. Принесите свою человечность в жертву ради единой цели – уничтожить… Алекса… Мерсера!",
         "title_id": null,
-        "version": "0.5.0"
+        "version": "1.0.0"
     },
     {
         "title": "Prey 2006 (хоумбрю openPrey) [NRO][ENG,RUS (Voice Mod.)]",

@@ -1,5 +1,35 @@
 [
     {
+        "title": "Small Saga [NSZ][ENG]",
+        "size": "271 MB",
+        "magnet": "magnet:?xt=urn:btih:86231C262BBA445D717773DC5348455909939B9C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6940811",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6940811",
+        "year": "2026, August",
+        "genre": "Adventure, Role-Playing",
+        "developer": "Dasha Nogani",
+        "publisher": "Vertical Reach",
+        "image_format": ".NSZ (compressed ~29%, installed size 0.38 GB)",
+        "interface_lang": "English [ENG]",
+        "voice_lang": "No voiceover",
+        "performance": "Yes (on 22.5.0, Atmosphere 1.12.2)",
+        "multiplayer": "No",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6940811.jpg",
+        "screenshots": [
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/8bbe7205aca10e19fc1956b05fe2423462e13eba522ddbd6945024c213ae6910.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/d26417cef179bc0c2dbeb4bdf43afbeaa8e23293ef21276d70006ad0e459e704.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/a3ed9331ac0d705b7f770be0ddaa69c16a443c3673575772448728e2554b3a7d.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/ab94c8990d41f0e4855426597b58f2599d16ab1ac828a4de5783c12854366800.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/022f7d1ddb5a623549776de2a4910e54cae9a090d8256bd3f16f73bef3136dd3.jpg&output=jpg",
+            "https://wsrv.nl/?url=https://img-eshop.cdn.nintendo.net/i/450b1d68c23303533fb4b958f7529e67105bdd7a082a9afdaee32088f8600f99.jpg&output=jpg"
+        ],
+        "description": "Venture below the streets of London, and you will find the medieval kingdom of rats, mice, moles, squirrels, and shrews known as Rodentia.\n\nIf the rodents have a cardinal law, it is this: never attack a god. But Verm never had much respect for the rule of law. His tail was stolen by the Yellow God of Death, and now the mouse will have to fight all manner of beasts and titans on his quest to get it back.\n\nFeatures:\n• Team up with a colourful cast of misfit rodents.\n• Encounter awe-inspiring titans. Clash with a swashbuckling water vole, a pious lab rabbit, a poetry-spewing kraken, and many more.\n• Meet the hideous vermin who run society, then overthrow them.\n• Brandish your tiny weapons in strategic, turn-based combat.\n• There is no grinding. Small Saga is a tightly-focused and boss-oriented adventure.",
+        "title_id": "0100731029A0A000",
+        "version": "2.05a",
+        "update_version": 65536,
+        "titles": "0100731029A0A000:65536:"
+    },
+    {
         "title": "Aurelia [NRO][RUS/Multi8]",
         "size": "259.4 MB",
         "magnet": "magnet:?xt=urn:btih:F856D2E5BAE6AD00FDB456F54416C49A58E797AC&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -546,7 +576,7 @@
     {
         "title": "Manhunt (port ) [NRO][RUS]",
         "size": "2.41 GB",
-        "magnet": "magnet:?xt=urn:btih:0FD44A26D8EB707340683A02860568BAAC913D4C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:7BF1599B27B43A0F081CDDF8A6575BC9B3DBE98F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6938945",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6938945",
         "year": "2004",
@@ -555,7 +585,7 @@
         "publisher": "Unknown",
         "image_format": "NRO",
         "interface_lang": "Russian [RUS]",
-        "voice_lang": "English",
+        "voice_lang": "Russian (by NoData)",
         "performance": "Yes (on 20.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Unknown",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6938945.jpg",
@@ -570,7 +600,7 @@
         ],
         "description": "Shocking cruelty and explicit scenes of violence made this game one of the most scandalous projects in the history of the entertainment industry and caused an unprecedented public outcry.\nAmerica is full of gloomy industrial towns where permissiveness reigns. In Carcer City, they value only thrills, the strongest of which is playing with human life. There is nothing more exciting than the desire to give and take life for fun. This time the victim is you, James Earl Cash. They gave you life. Now they will start hunting you again.\nYou wake up in a panic, deafened by your own breathing. You have to run, hide, survive. If you can hang on long enough, you might find out who's behind it all.\nThis is a cruel, bloody sport.",
         "title_id": null,
-        "version": "16.11.2026"
+        "version": "1.0"
     },
     {
         "title": "Yokai Landlord Monster Mystery [NSZ][ENG]",
@@ -3954,7 +3984,7 @@
     {
         "title": "Prototype 2 (port ) [NRO][RUS/ENG]",
         "size": "7.4 GB",
-        "magnet": "magnet:?xt=urn:btih:7A70BCE46E42FBE12125385F7CB22996A96E1266&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:2FCC85160CB8783299C364883DAD896CF69A723A&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6922832",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6922832",
         "year": "2012",
@@ -3968,16 +3998,19 @@
         "multiplayer": "No",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6922832.jpg",
         "screenshots": [
-            "https://i128.fastpic.org/thumb/2026/1014/f7/d5a7efca9090c18543a5bdc296792af7.jpeg",
-            "https://i128.fastpic.org/thumb/2026/1014/45/6d3fd59471787e659e6f3f1ad29acc45.jpeg",
-            "https://i128.fastpic.org/thumb/2026/1014/1a/a7fd5df34fa3d42b9a259ec9bc66bd1a.jpeg",
-            "https://i128.fastpic.org/thumb/2026/1014/43/03e4a313fda73b69015a3f05bc6e5443.jpeg",
-            "https://i128.fastpic.org/thumb/2026/1014/c4/b74000c401d4b208f7a1f29f24ccaec4.jpeg",
-            "https://i128.fastpic.org/thumb/2026/1014/28/3f0399f06f4369acc05f288fa47cec28.jpeg"
+            "https://i129.fastpic.org/thumb/2026/1121/24/b8da738847788fe9ebc74aee0a6d6024.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/51/b954c00ee0285947280416e6b233e451.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/f2/d0825dd309558a021db677af558d2ef2.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/e8/918611b6359da6fcf39095ddacd075e8.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/58/635e3b82e974a186e3318e5bc6a79b58.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/56/b42181ffc45f186e5ac8c307fba0f156.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/2f/4ca03f2d9cd9dc339856aaa026a76a2f.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/76/b186aaa371ad899d22ab2309b83fe976.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/20/7a718ccc9625730cd2f72637d92ea620.jpeg"
         ],
         "description": "A deadly virus that has broken free has turned the metropolis into the threshold of hell. Divided into security zones, the city has become a huge trap. Some of the streets are controlled by the military, who destroy any manifestation of the infection. The remaining areas have turned into a “red zone” - the abode of mutants who mercilessly devour their victims. Somewhere out there, among the destroyed buildings, is hiding Alex Mercer, the main culprit in the spread of the virus. And now former sergeant James Heller is also heading there, eager to avenge his family who died in the first days of the cataclysm. Welcome to New York Zero. Hunting season is open. The continuation of the cruel and bloody bestseller from the studio Radical Entertainment will continue the story of the transformation of a person into an absolute weapon. Wreak havoc and destruction on the city streets using the abilities the virus gives you. Transform the hero's body by absorbing numerous enemies. Use limitless travel options to explore the ruins of New York Zero for new experiences. Fight. Kill. Change. Sacrifice your humanity for a single goal - to destroy... Alex... Mercer!",
         "title_id": null,
-        "version": "0.5.0"
+        "version": "1.0.0"
     },
     {
         "title": "Prey 2006 (khoumbryu openPrey) [NRO][ENG,RUS (Voice Mod.)]",
