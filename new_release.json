@@ -1,4 +1,8 @@
 [
+  {"title": "Small Saga", "title_id": "0100731029A0A000", "metacritic": null},
+  {"title": "The Witch's Bakery", "title_id": "0100BCB025968000", "metacritic": null},
+  {"title": "EA Sports FC 27", "title_id": "0100C49025D3E000", "metacritic": null},
+  {"title": "Acorn Avengers", "title_id": "0100BB8028D10000", "metacritic": null},
   {"title": "Idle Immortal + 2 DLC", "title_id": "010037D02742E000", "metacritic": null},
   {"title": "Sonic Racing Crossworlds + 12 DLC", "title_id": "01006E001823C000", "metacritic": 82.0},
   {"title": "Sea of Stars + DLC Throes of the Watchmaker", "title_id": "01008C0016544000", "metacritic": 87.0},
@@ -28,6 +32,5 @@
   {"title": "Anthology of The Killer (9 частей)", "title_id": "0100C4F0226AA000", "metacritic": null},
   {"title": "Captain Tsubasa 2: World Fighters + 5 DLC", "title_id": "01009720213B0000", "metacritic": null},
   {"title": "Tanuki Pon's Summer", "title_id": "0100AC602974E000", "metacritic": null},
-  {"title": "The Merlies", "title_id": "0100091028782000", "metacritic": null},
-  {"title": "Fuga Melodies of Steel 1-2-3", "title_id": "0100C6D0205D6000", "metacritic": 84.0}
+  {"title": "The Merlies", "title_id": "0100091028782000", "metacritic": null}
 ]
