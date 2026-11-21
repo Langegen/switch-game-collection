@@ -1,5 +1,36 @@
 [
     {
+        "title": "Sonic Dream Team (自制程序) [NRO][RUS/Multi17]",
+        "size": "2.22 GB",
+        "magnet": "magnet:?xt=urn:btih:6EFBA7014617235CCD6146EFA63A40AF56508DC6&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6941279",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6941279",
+        "year": "2023",
+        "genre": "3D Platformer, Adventure, Homebrew",
+        "developer": "Hardlight, Sega",
+        "publisher": "Thorhax",
+        "image_format": "NRO",
+        "interface_lang": "俄语, 英语 [RUS / ENG / Multi 17]",
+        "voice_lang": "英语",
+        "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "无",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6941279.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1121/68/e31b48f7e8d9b76034d035537fd4c968.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/55/21c6900e8fea5f7dbb213d8dd6751155.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/6d/9ca517eedb77e27413024f1f776f2e6d.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/a6/4f8b2b8485906eda0cc4da34627e61a6.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/d5/6c929072e026433875ccf75c1315b3d5.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/a1/15e2e1178fbe86826b08badda61bf2a1.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/e8/073686589a7e07d06ea3e925112afee8.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/37/e86d663909d0e35edfa0124ba8788e37.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/c2/a55084865c3a80e95b77b28f64f46dc2.jpeg"
+        ],
+        "description": "《梦之队》中的梦幻世界是围绕兔子 Cream 的回归塑造游戏情节的结果，而开发人员则希望为她参与危险情况创造一个逻辑依据。游戏本身是围绕创造连续游戏玩法的理念而构建的，其关卡是根据过山车和 U 形管设计的。该游戏开发时间不到2年，成为移动设备上第一款3D索尼克游戏。 Hardlight Studio此前曾开发过该系列的其他手游，例如《索尼克跳跃》、《索尼克冲刺》和《索尼克力量：速度之战》。\n《索尼克梦之队》是一款 3D 平台游戏，其中刺猬索尼克和他的朋友们穿越艾格曼博士梦中的各个世界。最初，游戏中有 6 个可玩角色：索尼克、艾米·罗斯、塔尔斯、兔子奶油色、针鼹纳克尔斯和蝙蝠鲁吉。完成某些任务后，影子可以解锁为第七个可玩角色。除了执行寻的攻击和使用助推器之外，索尼克和艾米还可以通过一排环进行空中冲刺和轻微冲刺，塔尔斯和奶油能够短时间飞行，纳克鲁斯和鲁奇可以滑行和攀爬墙壁。暗影的追踪攻击已被有针对性的混沌位移取代，他还可以使用混沌控制来减慢时间。\n《索尼克梦之队》是《刺猬索尼克》系列的一部分，于 2023 年 12 月 5 日通过 Apple Arcade 在 iOS、macOS 和 tvOS 上发布。在游戏中，角色索尼克、塔尔斯、纳克鲁斯、艾米·罗斯、胭脂和奶油在梦幻天堂的世界中旅行，这个世界已被艾格曼博士使用一种由名为阿里姆的生物守护的神秘装置破坏。玩家扮演六个角色之一，通过完成各个级别的一系列任务来收集梦想宝珠。每个角色都有自己的能力，收集足够的梦想宝珠后即可使用。扮演不同角色的能力代表着对《索尼克冒险》和《索尼克英雄》中开创的类似 3D 游戏玩法的回归。 Switch 上的其他索尼克游戏。",
+        "title_id": null,
+        "version": "1.10.3"
+    },
+    {
         "title": "Small Saga [NSZ][ENG]",
         "size": "271 MB",
         "magnet": "magnet:?xt=urn:btih:86231C262BBA445D717773DC5348455909939B9C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -40,7 +71,7 @@
         "developer": "Mirthal Games, Critical Bliss",
         "publisher": "distample",
         "image_format": ".NSZ (已压缩 ~16%, 安装大小 0.31 GB)",
-        "interface_lang": "俄语 英语 [RUS / ENG / Multi 8]",
+        "interface_lang": "俄语, 英语 [RUS / ENG / Multi 8]",
         "voice_lang": "无语音",
         "performance": "是 (在 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
@@ -367,7 +398,7 @@
     {
         "title": "Call of Duty Black Ops 1-2 (移植版 y) [NRO][RUS]",
         "size": "18.93 GB",
-        "magnet": "magnet:?xt=urn:btih:84EAF12C1112B2585A130D7064AF0F0568E993F7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:9D2DDDD4A6FAB40AC1DBB972E0178EE534D837EB&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6939615",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6939615",
         "year": "2010-2012",
@@ -393,7 +424,7 @@
         ],
         "description": "Treyarch 关于冷战阴暗面的二元论。在第一部分中，你扮演中央情报局特工亚历克斯·梅森，他在一个神秘的房间里接受审讯，过去的记忆被构建成一个充满背叛和别人记忆碎片的情节。古巴湾、沃尔库塔营地、越南丛林和世界各地的秘密行动构成了一部间谍惊悚片。它的主题是洗涤意识、秘密任务和维克多·雷泽诺夫的形象。\n《黑色行动 II》将故事同时带入两个时代：1980 年代和 2025 年。在那里，亚历克斯的儿子大卫·梅森 (David Mason) 成为英雄，他的对手是富有魅力的劳尔·梅南德斯 (Raul Menendez)，后者是该系列中最令人难忘的对手之一。该游戏是第一个提供受玩家决策影响的情节的游戏。打击部队的任务改变了战争的进程并有多种结局。未来武器、无人机和网络战争与您在该系列中期待的经典电影动作并存。\n两个端口都有战役模式，而不仅仅是多人游戏。\n如何安装：",
         "title_id": null,
-        "version": "1.0.0"
+        "version": "1.1.0"
     },
     {
         "title": "Kowloon's Gate Suzaku [XCI][ENG]",
@@ -1179,7 +1210,7 @@
     {
         "title": "The Witcher 2 Assassins of Kings [NRO][RUS/ENG]",
         "size": "10.18 GB",
-        "magnet": "magnet:?xt=urn:btih:366AB70BFFEFEB3710890B7B0A2E4121A52764C0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:518924B3047074BECADAE8915D93149979014191&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6936880",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6936880",
         "year": "2011",
@@ -1205,7 +1236,7 @@
         ],
         "description": "《巫师 2：国王刺客》的故事发生在《巫师》事件之后不久，也发生在安杰伊·萨普科夫斯基 (Andrzej Sapkowski) 的小说世界中。主角仍然是利维亚的猎魔人杰洛特。\n根据剧情，主角将要进行大量的旅行，游戏剧情中还涉及到强大的魔法。开发者确保了高水平的可重玩性，到了游戏中期，可能的情节发展可能会彼此大不相同。\n序幕情节的结尾以对弗尔泰斯特国王的刺杀企图结束。杰洛特无法阻止暗杀企图，错过了这位有着“巫师”眼睛的神秘杀手。在《巫师 2：国王刺客》中，杰洛特被指控谋杀了弗尔泰斯特，必须前去调查这起罪行并恢复他的声誉。\n该项目受到评论家的好评，绝大多数评论都对游戏给予了积极的评价。该游戏获得了 9 分（满分 10 分），并在“年度 RPG”类别中排名第三（2011 年）。 “结论：历史上最好的角色扮演游戏之一，值得与该类型的巨头并驾齐驱”，以及“波兰工匠在第二部《巫师》中创造的世界是如此美好和令人愉快，对于这款游戏及其创作者来说，很多事情都是可以原谅的。” “Sapkowski 世界中极其美丽的角色扮演游戏 - 近乎完美。”",
         "title_id": null,
-        "version": "0.1.2"
+        "version": "0.2.0"
     },
     {
         "title": "Mercenaries 2 World in Flames (移植版 ) [NRO][RUS/ENG]",
@@ -1725,8 +1756,8 @@
     },
     {
         "title": "Mass Effect 2 (移植版 ) [NRO][RUS/ENG]",
-        "size": "13.43 GB",
-        "magnet": "magnet:?xt=urn:btih:9F4FF2003723932B2B9D237DCF0B3B3B60756516&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "size": "16.1 GB",
+        "magnet": "magnet:?xt=urn:btih:7BDCBD7E25A6549DDAE2A00588F11461B132B317&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6934554",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6934554",
         "year": "2010",
@@ -1735,7 +1766,7 @@
         "publisher": "Unknown",
         "image_format": "NRO",
         "interface_lang": "俄语, 英语 [RUS / ENG]",
-        "voice_lang": "英语",
+        "voice_lang": "俄语, 英语 [RUS / ENG]",
         "performance": "是 (在 20.5.0, Atmosphere 1.11.2)",
         "multiplayer": "无",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6934554.jpg",
@@ -1749,7 +1780,7 @@
         ],
         "description": "薛帕德指挥官击退死神入侵两年后，人类有了新的敌人。在可居住空间的边缘，有人正在逐渐摧毁人类的殖民地。为了阻止迫在眉睫的威胁，薛帕德必须与塞伯鲁斯网络合作，这是一个宣称不惜一切代价捍卫人类生存的无情组织。为了完成这一重要任务，薛帕德必须组建一支非常强大的团队，并指挥银河系中最强大的宇宙飞船。但即使拥有如此多的资源，大多数人仍认为他的冒险毫无希望。谢泼德指挥官必须证明反对者是错误的。",
         "title_id": null,
-        "version": "16.11.2026"
+        "version": "21.11.2026"
     },
     {
         "title": "Dead Space (自制程序) [NRO][RUS/Multi5]",

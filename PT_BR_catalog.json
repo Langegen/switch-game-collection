@@ -1,5 +1,36 @@
 [
     {
+        "title": "Sonic Dream Team (homebrew) [NRO][RUS/Multi17]",
+        "size": "2.22 GB",
+        "magnet": "magnet:?xt=urn:btih:6EFBA7014617235CCD6146EFA63A40AF56508DC6&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6941279",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6941279",
+        "year": "2023",
+        "genre": "3D Platformer, Adventure, Homebrew",
+        "developer": "Hardlight, Sega",
+        "publisher": "Thorhax",
+        "image_format": "NRO",
+        "interface_lang": "Russo, Inglês [RUS / ENG / Multi 17]",
+        "voice_lang": "Inglês",
+        "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "Não",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6941279.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1121/68/e31b48f7e8d9b76034d035537fd4c968.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/55/21c6900e8fea5f7dbb213d8dd6751155.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/6d/9ca517eedb77e27413024f1f776f2e6d.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/a6/4f8b2b8485906eda0cc4da34627e61a6.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/d5/6c929072e026433875ccf75c1315b3d5.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/a1/15e2e1178fbe86826b08badda61bf2a1.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/e8/073686589a7e07d06ea3e925112afee8.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/37/e86d663909d0e35edfa0124ba8788e37.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1121/c2/a55084865c3a80e95b77b28f64f46dc2.jpeg"
+        ],
+        "description": "O mundo dos sonhos em Dream Team foi criado como resultado da formação do enredo do jogo em torno do retorno do coelho Cream, enquanto os desenvolvedores queriam criar uma justificativa lógica para sua participação em situações perigosas. O jogo em si foi construído em torno da ideia de criar uma jogabilidade contínua, com níveis desenhados a partir de montanhas-russas e halfpipes. O jogo foi desenvolvido em menos de 2 anos e se tornou o primeiro jogo Sonic 3D em dispositivos móveis. Hardlight Studio já trabalhou em outros jogos mobile da série, como Sonic Jump, Sonic Dash e Sonic Forces: Speed ​​​​Battle.\nSonic Dream Team é um jogo de plataformas 3D no qual Sonic the Hedgehog e seus amigos viajam por vários mundos localizados dentro dos sonhos do Dr. Eggman. Inicialmente, seis personagens jogáveis ​​estão disponíveis no jogo: Sonic, Amy Rose, Tails, Cream the Rabbit, Knuckles the Echidna e Rouge the Bat. Depois de completar certas tarefas, Shadow pode ser desbloqueado como o sétimo personagem jogável. Além de realizar ataques teleguiados e usar o medidor de impulso, Sonic e Amy podem realizar ataques aéreos e leves através de fileiras de anéis, Tails e Cream são capazes de voar por curtos períodos de tempo, e Knuckles e Rouge podem planar e escalar paredes. O ataque teleguiado de Shadow foi substituído por um Deslocamento do Caos direcionado, e ele também pode usar o Controle do Caos para desacelerar o tempo.\nSonic Dream Team, parte da série Sonic the Hedgehog, foi lançado em 5 de dezembro de 2023 para iOS, macOS e tvOS via Apple Arcade. No jogo, os personagens Sonic, Tails, Knuckles, Amy Rose, Rouge e Cream viajam pelo mundo de Reverie Haven, que foi corrompido pelo Doutor Eggman usando um misterioso dispositivo guardado por uma criatura chamada Ariem. Jogando como um dos seis personagens, o jogador coleta Dream Orbs completando uma série de tarefas em vários níveis. Cada personagem tem suas próprias habilidades e fica disponível após coletar Dream Orbs suficientes. A capacidade de jogar com personagens diferentes representa um retorno à jogabilidade 3D semelhante, pioneira em Sonic Adventure e Sonic Heroes. Outros jogos do Sonic no Switch.",
+        "title_id": null,
+        "version": "1.10.3"
+    },
+    {
         "title": "Small Saga [NSZ][ENG]",
         "size": "271 MB",
         "magnet": "magnet:?xt=urn:btih:86231C262BBA445D717773DC5348455909939B9C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
@@ -40,7 +71,7 @@
         "developer": "Mirthal Games, Critical Bliss",
         "publisher": "distample",
         "image_format": ".NSZ (compactado ~16%, tamanho instalado 0.31 GB)",
-        "interface_lang": "Russo Inglês [RUS / ENG / Multi 8]",
+        "interface_lang": "Russo, Inglês [RUS / ENG / Multi 8]",
         "voice_lang": "Sem dublagem",
         "performance": "Sim (no 22.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
@@ -367,7 +398,7 @@
     {
         "title": "Call of Duty Black Ops 1-2 (port y) [NRO][RUS]",
         "size": "18.93 GB",
-        "magnet": "magnet:?xt=urn:btih:84EAF12C1112B2585A130D7064AF0F0568E993F7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:9D2DDDD4A6FAB40AC1DBB972E0178EE534D837EB&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6939615",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6939615",
         "year": "2010-2012",
@@ -393,7 +424,7 @@
         ],
         "description": "Duologia da Treyarch sobre o lado sombrio da Guerra Fria. Na primeira parte, você interpreta o agente da CIA Alex Mason, que é interrogado em uma sala misteriosa, e memórias do passado são construídas em uma trama cheia de traições e fragmentos da memória de outra pessoa. O Golfo de Cuba, o campo de Vorkuta, as selvas do Vietname e as operações secretas em todo o mundo compõem um thriller de espionagem. É baseado no tema de uma consciência lavada, missões secretas e na figura de Viktor Reznov.\nBlack Ops II leva a história em duas épocas ao mesmo tempo: os eventos da década de 1980 e 2025. Lá, o filho de Alex, David Mason, se torna o herói, e ele enfrenta a oposição do carismático Raul Menendez, um dos antagonistas mais memoráveis ​​da série. O jogo foi o primeiro da linha a apresentar um enredo influenciado pelas decisões do jogador. As missões do Strike Force mudam o curso da guerra e têm múltiplos finais. Armas futurísticas, drones e guerra cibernética acompanham a ação cinematográfica clássica que você espera da série.\nAmbas as portas têm uma campanha, não apenas multijogador.\nComo instalar:",
         "title_id": null,
-        "version": "1.0.0"
+        "version": "1.1.0"
     },
     {
         "title": "Kowloon's Gate Suzaku [XCI][ENG]",
@@ -1179,7 +1210,7 @@
     {
         "title": "The Witcher 2 Assassins of Kings [NRO][RUS/ENG]",
         "size": "10.18 GB",
-        "magnet": "magnet:?xt=urn:btih:366AB70BFFEFEB3710890B7B0A2E4121A52764C0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "magnet": "magnet:?xt=urn:btih:518924B3047074BECADAE8915D93149979014191&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6936880",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6936880",
         "year": "2011",
@@ -1205,7 +1236,7 @@
         ],
         "description": "The Witcher 2: Assassins of Kings se passa logo após os eventos de The Witcher e também no mundo dos livros de Andrzej Sapkowski. O personagem principal ainda é o bruxo Geralt de Rivia.\nDe acordo com a trama, o personagem principal terá que viajar muito, e uma magia poderosa está envolvida na trama do jogo. Os desenvolvedores garantiram um alto nível de rejogabilidade e, no meio do jogo, os possíveis desenvolvimentos do enredo podem ser muito diferentes uns dos outros.\nO final da trama do prólogo terminou com a tentativa de assassinato do Rei Foltest. Geralt não conseguiu evitar a tentativa de assassinato e perdeu o misterioso assassino, que tinha olhos de “bruxo”. Em The Witcher 2: Assassins of Kings, Geralt é acusado de assassinar Foltest e deve investigar o crime e restaurar sua reputação.\nO projeto foi muito bem recebido pela crítica, a grande maioria das análises caracterizou o jogo de forma positiva. O jogo recebeu 9 de 10 pontos e ficou em terceiro lugar na categoria “RPG do Ano” (2011). “Veredicto: um dos melhores RPGs da história, digno de ocupar um lugar ao lado dos titãs do gênero” e “o mundo criado pelos artesãos poloneses no segundo “The Witcher” é tão bom e encantador que muito pode ser perdoado por este jogo e seus criadores”. “Jogo de RPG incrivelmente lindo no mundo de Sapkowski - quase perfeito.”",
         "title_id": null,
-        "version": "0.1.2"
+        "version": "0.2.0"
     },
     {
         "title": "Mercenaries 2 World in Flames (port ) [NRO][RUS/ENG]",
@@ -1726,8 +1757,8 @@
     },
     {
         "title": "Mass Effect 2 (port ) [NRO][RUS/ENG]",
-        "size": "13.43 GB",
-        "magnet": "magnet:?xt=urn:btih:9F4FF2003723932B2B9D237DCF0B3B3B60756516&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
+        "size": "16.1 GB",
+        "magnet": "magnet:?xt=urn:btih:7BDCBD7E25A6549DDAE2A00588F11461B132B317&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6934554",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6934554",
         "year": "2010",
@@ -1736,7 +1767,7 @@
         "publisher": "Unknown",
         "image_format": "NRO",
         "interface_lang": "Russo, Inglês [RUS / ENG]",
-        "voice_lang": "Inglês",
+        "voice_lang": "Russo, Inglês [RUS / ENG]",
         "performance": "Sim (no 20.5.0, Atmosphere 1.11.2)",
         "multiplayer": "Não",
         "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6934554.jpg",
@@ -1750,7 +1781,7 @@
         ],
         "description": "Dois anos depois do Comandante Shepard ter repelido a invasão Reaper, a humanidade tem um novo inimigo. Na periferia do espaço habitável, alguém está destruindo gradualmente as colônias humanas. Para deter a ameaça iminente, Shepard terá de cooperar com a rede Cerberus, uma organização implacável que proclama a sobrevivência da humanidade a qualquer custo. Para completar esta importante missão, Shepard deve montar uma equipe muito forte e assumir o comando da nave mais poderosa da galáxia. Mas mesmo com tais recursos, a maioria considera seu empreendimento sem esperança. O Comandante Shepard deve provar que os pessimistas estão errados.",
         "title_id": null,
-        "version": "16.11.2026"
+        "version": "21.11.2026"
     },
     {
         "title": "Dead Space (homebrew) [NRO][RUS/Multi5]",
