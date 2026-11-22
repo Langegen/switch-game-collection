@@ -1,6 +1,6 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-21. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-22. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
@@ -33,7 +33,7 @@
 | [ELY3M/Strobe-Alarm-Clock-for-switch](https://github.com/ELY3M/Strobe-Alarm-Clock-for-switch) | 1 | 09-22-2026-02.46.24.AM | 2026-09-22 | Strobe-Alarm-Clock-for-switch.nro |
 | [ELY3M/Strobe-for-switch](https://github.com/ELY3M/Strobe-for-switch) | 0 | 09-22-2026-02.46.06.AM | 2026-09-22 | Strobe-for-switch.nro |
 | [ELY3M/Weather-Text-for-Nintendo-Switch](https://github.com/ELY3M/Weather-Text-for-Nintendo-Switch) | 0 | 09-22-2026-02.01.56.AM | 2026-09-22 | Weather-Text-for-Nintendo-Switch.nro |
-| [EnzoBernardinoMartins/key2con](https://github.com/EnzoBernardinoMartins/key2con) | 8 | v0.2.0 | 2026-10-13 | key2con.v0-2-0.zip |
+| [EnzoBernardinoMartins/key2con](https://github.com/EnzoBernardinoMartins/key2con) | 9 | v0.2.1 | 2026-11-21 | key2con.v0-2-1.zip |
 | [ErrLogic/nada](https://github.com/ErrLogic/nada) | 1 | v0.1.0 | 2026-07-04 | sys-nada-v0.1.0.zip |
 | [FunkinNXTeam/FunkinLegacy](https://github.com/FunkinNXTeam/FunkinLegacy) | 3 | NX-1.0.1 | 2026-02-04 | Funkin.nro |
 | [HaDoKit/SolarNX](https://github.com/HaDoKit/SolarNX) | 0 | v0.2.5-alpha | 2026-11-03 | release.json, SolarNX-Rendezvous-linux-x64.zip, SolarNX-Rendezvous-win-x64.zip, SolarNX-Setup.exe, SolarNX-Switch.nro |

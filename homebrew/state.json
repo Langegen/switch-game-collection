@@ -3404,7 +3404,7 @@
     "app"
    ],
    "reason": "",
-   "version": "0.6.6",
+   "version": "0.7.0",
    "worst": "allowed"
   },
   "OpenArenaNX": {
@@ -5066,7 +5066,7 @@
     "app"
    ],
    "reason": "",
-   "version": "0.5.1",
+   "version": "0.5.2",
    "worst": "allowed"
   },
   "laines": {
@@ -7377,7 +7377,7 @@
    "pushed_at": ""
   },
   "andrewbenington/openhome": {
-   "checked": "2026-11-14",
+   "checked": "2026-11-22",
    "pushed_at": ""
   },
   "andrythebeast/songate": {
@@ -7770,7 +7770,7 @@
    "pushed_at": ""
   },
   "davegamble/cjson": {
-   "checked": "2026-11-14",
+   "checked": "2026-11-22",
    "pushed_at": ""
   },
   "delfus77/nxdock": {
@@ -7923,9 +7923,9 @@
    "pushed_at": ""
   },
   "enzobernardinomartins/key2con": {
-   "candidate": "| [EnzoBernardinoMartins/key2con](https://github.com/EnzoBernardinoMartins/key2con) | 8 | v0.2.0 | 2026-10-13 | key2con.v0-2-0.zip |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-10-16T23:51:07Z"
+   "candidate": "| [EnzoBernardinoMartins/key2con](https://github.com/EnzoBernardinoMartins/key2con) | 9 | v0.2.1 | 2026-11-21 | key2con.v0-2-1.zip |",
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-21T21:42:12Z"
   },
   "errlogic/nada": {
    "candidate": "| [ErrLogic/nada](https://github.com/ErrLogic/nada) | 1 | v0.1.0 | 2026-07-04 | sys-nada-v0.1.0.zip |",
@@ -8229,8 +8229,8 @@
    "pushed_at": "2026-02-16T23:25:56Z"
   },
   "jacquesdupontd/port0r": {
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-21T19:03:03Z"
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T06:36:19Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8384,8 +8384,8 @@
   },
   "lswtcs-nx/lswtcs-nx": {
    "candidate": "| [lswtcs-nx/lswtcs-nx](https://github.com/lswtcs-nx/lswtcs-nx) | 4 | v0.5.0 | 2026-11-21 | lswtcs-v0.5.0.zip, lswtcs.nro, SHA256SUMS.txt |",
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-21T19:05:23Z"
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-21T19:21:09Z"
   },
   "m4l3vich/vkpcnx": {
    "candidate": "| [m4l3vich/vkpcnx](https://github.com/m4l3vich/vkpcnx) | 2 | v1.1.0 | 2026-10-15 | vkpcnx-debug.nro, vkpcnx-switch-debug-symbols.zip, vkpcnx-switch-symbols.zip, vkpcnx.nro |",
@@ -8482,12 +8482,12 @@
    "pushed_at": ""
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-21T17:16:13Z"
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T02:59:31Z"
   },
   "mohit2096/yuzu-emulator-toolkit": {
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-21T14:00:29Z"
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T00:52:00Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-18",
@@ -8725,8 +8725,8 @@
    "pushed_at": ""
   },
   "prowahaj13/yuzu-emulator-tutorial": {
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-21T16:00:17Z"
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T02:48:47Z"
   },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
@@ -8750,6 +8750,14 @@
   "ramondias07/budokai3-nx": {
    "checked": "2026-11-21",
    "pushed_at": "2026-11-21T09:45:27Z"
+  },
+  "ramondias07/mgstts-nx": {
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T02:39:00Z"
+  },
+  "ramondias07/xmow-nx": {
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T02:38:53Z"
   },
   "rashevskyv/4ifir": {
    "candidate": "| [rashevskyv/4ifir](https://github.com/rashevskyv/4ifir) | ? | 25.07.27.11 | 2025-07-27 | 4IFIR-Wizard-update-25.07.27.11.zip |",
@@ -9012,7 +9020,7 @@
   },
   "suchmememanyskill/themezer-nx": {
    "alias": "themezernx/themezer-nx",
-   "checked": "2026-11-14",
+   "checked": "2026-11-22",
    "pushed_at": ""
   },
   "superokazaki/html-video-template-nx": {
