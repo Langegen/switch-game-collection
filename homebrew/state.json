@@ -924,7 +924,7 @@
    "zip_root": ""
   },
   "rashevskyv/dbipatcher": {
-   "asset_key": "712860658:2026-11-05T09:40:28Z",
+   "asset_key": "779537488:2026-11-22T15:41:26Z",
    "extracted": 16637485,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/dbipatcher.jpg",
@@ -933,7 +933,7 @@
     "title": "DBI",
     "version": "921"
    },
-   "sha256": "816db30d9ccc88e3a1cdc6e294ae71ba92b101628437ecddc94d9168fb1aa319",
+   "sha256": "1f8ccd8d9d8a944b3be3ef6d3c0ef9f4b433fb94d40747ce0b129be5ad310082",
    "size": 16637485,
    "type": "file",
    "zip_root": ""
@@ -1544,7 +1544,7 @@
   "erige005/kirikiroid2-nx": {
    "description": "Kirikiroid2 for Nintendo Switch - the first port of Kirikiroid2 (KiriKiri2/krkr visual novel player) to Switch homebrew",
    "full_name": "Erige005/Kirikiroid2-NX",
-   "stargazers_count": 22,
+   "stargazers_count": 23,
    "topics": [
     "devkitpro",
     "homebrew",
@@ -1657,7 +1657,7 @@
   "kaays/mc3_nx": {
    "description": "Modern Combat 3: Fallen Nation (Android 1.1.7g, 32-bit) running natively on the Nintendo Switch — android32 so-loader port.",
    "full_name": "Kaays/mc3_nx",
-   "stargazers_count": 2,
+   "stargazers_count": 3,
    "topics": [
     "android32",
     "gameloft",
@@ -7274,9 +7274,9 @@
  },
  "rejected": {
   "0xsharkboy/nx-discord-rpc": {
-   "candidate": "| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 2 | v0.7.2 | 2026-11-20 | exefs.nsp, nx-discord-rpc-0.7.2.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |",
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-20T20:51:40Z"
+   "candidate": "| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 2 | v0.7.3 | 2026-11-22 | exefs.nsp, nx-discord-rpc-0.7.3.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |",
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T11:23:32Z"
   },
   "16bitwonder/nx-versions": {
    "checked": "2026-11-18",
@@ -7286,6 +7286,10 @@
    "candidate": "| [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |",
    "checked": "2026-11-09",
    "pushed_at": "2026-10-19T16:23:08Z"
+  },
+  "26zl/switchsd": {
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T19:22:42Z"
   },
   "a1ex4/ownfoil": {
    "checked": "2026-11-19",
@@ -7381,9 +7385,9 @@
    "pushed_at": ""
   },
   "andrythebeast/songate": {
-   "candidate": "| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 9 | v2.0.0 | 2026-11-12 | songate-manifest.json, SongateAND-2.0.0.apk, SongateNX-2.0.0.zip, SongateWIN-2.0.0.exe |",
-   "checked": "2026-11-12",
-   "pushed_at": "2026-11-12T15:49:04Z"
+   "candidate": "| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 11 | v2.1.0 | 2026-11-22 | songate-manifest.json, SongateAND-2.1.0.apk, SongateNX-2.1.0.zip, SongateWIN-2.1.0.exe |",
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T18:48:49Z"
   },
   "angle-brackets/kickstand": {
    "candidate": "| [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |",
@@ -7419,8 +7423,8 @@
    "pushed_at": "2026-08-20T09:18:32Z"
   },
   "armaatus/rommsync-nx": {
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-21T11:10:38Z"
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T11:31:24Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -7679,9 +7683,9 @@
    "pushed_at": "2026-10-24T17:59:53Z"
   },
   "cmdada/3ds-cli": {
-   "candidate": "| [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 46 | 5.3.1 | 2026-11-12 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |",
-   "checked": "2026-11-15",
-   "pushed_at": "2026-11-15T17:17:44Z"
+   "candidate": "| [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 48 | 5.3.2 | 2026-11-22 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |",
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T17:15:19Z"
   },
   "cokecookie/bootmoix": {
    "checked": "2026-11-17",
@@ -7705,8 +7709,8 @@
    "pushed_at": "2026-09-16T16:58:32Z"
   },
   "ctj01/switch2pc": {
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-21T10:44:36Z"
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T10:48:28Z"
   },
   "curl/curl": {
    "candidate": "| [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |",
@@ -8230,7 +8234,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T06:36:19Z"
+   "pushed_at": "2026-11-22T19:36:56Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8243,8 +8247,8 @@
   },
   "jhondydario/greeny": {
    "candidate": "| [JhondyDario/Greeny](https://github.com/JhondyDario/Greeny) | 1 | v1.0.0 | 2026-11-20 | greeny-1.0.0.zip, greeny-overlay-source-1.0.0.zip, greeny.nro |",
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-21T12:38:08Z"
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T19:34:19Z"
   },
   "jigsawfr/boreale-ha": {
    "candidate": "| [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |",
@@ -8403,8 +8407,8 @@
   },
   "majingabe/kodi-switch": {
    "candidate": "| [majingabe/kodi-switch](https://github.com/majingabe/kodi-switch) | 0 | v22.0rc3 | 2026-11-14 | kodi-runtime.zip, kodi.nro |",
-   "checked": "2026-11-17",
-   "pushed_at": "2026-11-16T23:11:22Z"
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T15:59:33Z"
   },
   "malinkin-s/destinia-nx": {
    "candidate": "| [malinkin-s/destinia-nx](https://github.com/malinkin-s/destinia-nx) | 0 | v1.0.0 | 2026-10-25 | destinia-switch-1.0.0.zip, Destinia.0100D3571A000000.v0.nsp, Destinia.0100D3571A000000.v0.nsz, destinia.nro |",
@@ -8483,11 +8487,11 @@
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T02:59:31Z"
+   "pushed_at": "2026-11-22T19:23:01Z"
   },
   "mohit2096/yuzu-emulator-toolkit": {
    "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T00:52:00Z"
+   "pushed_at": "2026-11-22T15:51:40Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-18",
@@ -8726,7 +8730,7 @@
   },
   "prowahaj13/yuzu-emulator-tutorial": {
    "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T02:48:47Z"
+   "pushed_at": "2026-11-22T18:12:57Z"
   },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
@@ -8897,8 +8901,8 @@
    "pushed_at": ""
   },
   "schuler-ph/nsmbw-switch": {
-   "checked": "2026-11-16",
-   "pushed_at": "2026-11-16T18:21:08Z"
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T14:59:12Z"
   },
   "sciresm/hactool": {
    "candidate": "| [sciresm/hactool](https://github.com/sciresm/hactool) | ? | 1.4.0 | 2020-06-02 | hactool-1.4.0-win.zip |",
@@ -8929,8 +8933,8 @@
    "pushed_at": "2026-11-18T01:49:39Z"
   },
   "shubhxyt/nsmbw-native": {
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-21T05:47:33Z"
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T13:38:07Z"
   },
   "simplysabir/nrodoc": {
    "checked": "2026-11-09",
@@ -8978,9 +8982,9 @@
    "pushed_at": ""
   },
   "steklorez/switchagent": {
-   "candidate": "| [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 6 | v1.0.27 | 2026-11-20 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |",
-   "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T20:15:11Z"
+   "candidate": "| [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 7 | v1.0.27 | 2026-11-22 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |",
+   "checked": "2026-11-22",
+   "pushed_at": "2026-11-22T13:14:43Z"
   },
   "steve1451-dot/yuanshi-launcher-ns": {
    "checked": "2026-11-15",

@@ -6,10 +6,10 @@
 
 | Репозиторий | ★ | Версия | Дата | Файлы |
 |---|---|---|---|---|
-| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 2 | v0.7.2 | 2026-11-20 | exefs.nsp, nx-discord-rpc-0.7.2.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |
+| [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 2 | v0.7.3 | 2026-11-22 | exefs.nsp, nx-discord-rpc-0.7.3.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |
 | [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |
 | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | 20 | Release-1.1.0 | 2026-11-04 | bo2-360-nx-gamefiles-shader-extractor.zip, bo2-360-nx-release-1.1.0-switch+windows-build-kit.zip, bo2-360-nx-switch-PGO- |
-| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 9 | v2.0.0 | 2026-11-12 | songate-manifest.json, SongateAND-2.0.0.apk, SongateNX-2.0.0.zip, SongateWIN-2.0.0.exe |
+| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 11 | v2.1.0 | 2026-11-22 | songate-manifest.json, SongateAND-2.1.0.apk, SongateNX-2.1.0.zip, SongateWIN-2.1.0.exe |
 | [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |
 | [Antman2023/UURemote-ns](https://github.com/Antman2023/UURemote-ns) | 14 | v0.1.10 | 2026-11-19 | SHA256SUMS, UURemote-ns-0.1.10-switch.zip, UURemote-ns.nro |
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
@@ -60,7 +60,7 @@
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 61 | v1.0.10 | 2026-11-16 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 4.0.0 | 2026-11-20 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
-| [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 6 | v1.0.27 | 2026-11-20 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |
+| [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 7 | v1.0.27 | 2026-11-22 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |
 | [Strrationalism/CPyMO](https://github.com/Strrationalism/CPyMO) | 153 | v1.1.9 | 2023-08-14 | CPyMO.ASCII.Art.for.Linux.zip, CPyMO.ASCII.Art.for.macOS.zip, CPyMO.ASCII.Art.for.Windows.zip, CPyMO.for.Android.Accessi |
 | [Team-Failure/TF-OS](https://github.com/Team-Failure/TF-OS) | 6 | 3.6 | 2026-03-15 | TF_OS_3.6.zip |
 | [Tobias103435/mkwii-switch-builder](https://github.com/Tobias103435/mkwii-switch-builder) | 1 | v1 | 2026-11-03 | MarioKartWii-Switch-builder.zip, mkw-render-deko3d-13abc3bc-f8c9eef0-20261102.tar.xz, mkw-render-deko3d-13abc3bc-f8c9eef |
@@ -98,7 +98,7 @@
 | [chiya695/TextReaderOverlay-NX-Revived](https://github.com/chiya695/TextReaderOverlay-NX-Revived) | 2 | v1.9.1 | 2026-08-08 | SHA256SUMS.txt, TextReaderOverlay-NX-1.9.1.zip |
 | [chuthree/nx-gamehide](https://github.com/chuthree/nx-gamehide) | 3 | v0.1.0 | 2026-10-13 | NX-GameHide-v0.1.0.zip |
 | [cid2mizard/mikmod-music-visualizer](https://github.com/cid2mizard/mikmod-music-visualizer) | ? | 1.2.1 | 2022-05-17 | MMMV.zip |
-| [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 46 | 5.3.1 | 2026-11-12 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |
+| [cmdada/3DS-CLI](https://github.com/cmdada/3DS-CLI) | 48 | 5.3.2 | 2026-11-22 | 3ds_cli.zip, hbas-switch-3ds-cli.zip, hbas-wiiu-3ds-cli.zip, Image |
 | [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |
 | [d3fau4/nightfall](https://github.com/d3fau4/nightfall) | ? | 1.1.4 | 2021-09-25 | NightFall.zip |
 | [d3st1nyh4x/shrekmosphere](https://github.com/d3st1nyh4x/shrekmosphere) | ? | 0.11.1 | 2020-04-15 | fusee-primary.bin, shrekmosphere-0.11.1-master.zip |
