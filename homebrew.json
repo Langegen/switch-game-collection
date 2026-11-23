@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-23T07:42:00Z",
+ "generated": "2026-11-23T23:56:12Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -46,6 +46,11 @@
   "AARebootApplet": {
    "kinds": [
     "sysmodule"
+   ]
+  },
+  "ACNH-Power-Pockets": {
+   "kinds": [
+    "app"
    ]
   },
   "ASCIIStarWars": {
@@ -257,6 +262,11 @@
    ]
   },
   "Clanbomber": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Classof09": {
    "kinds": [
     "app"
    ]
@@ -576,6 +586,11 @@
    ]
   },
   "Homebrew_SD_Setup": {
+   "kinds": [
+    "app"
+   ]
+  },
+  "Honeydew": {
    "kinds": [
     "app"
    ]

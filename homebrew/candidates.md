@@ -14,9 +14,9 @@
 | [Antman2023/UURemote-ns](https://github.com/Antman2023/UURemote-ns) | 14 | v0.1.10 | 2026-11-19 | SHA256SUMS, UURemote-ns-0.1.10-switch.zip, UURemote-ns.nro |
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
 | [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |
-| [BanhMi93P/asura-nx](https://github.com/BanhMi93P/asura-nx) | 4 | v1.0.1 | 2026-11-23 | asura-nx-v1.0.1.zip |
-| [BanhMi93P/deadpool-nx](https://github.com/BanhMi93P/deadpool-nx) | 4 | v1.0.0 | 2026-11-19 | deadpool-nx-v1.0.0.zip |
-| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 40 | v1.1.0 | 2026-11-18 | slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slingshot-builder-x86_64.AppImage, slingsho |
+| [BanhMi93P/asura-nx](https://github.com/BanhMi93P/asura-nx) | 8 | v1.0.2 | 2026-11-23 | asura-nx-v1.0.2.zip |
+| [BanhMi93P/deadpool-nx](https://github.com/BanhMi93P/deadpool-nx) | 20 | v1.0.1 | 2026-11-23 | deadpool-nx-v1.0.1.zip |
+| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 55 | v1.2.0 | 2026-11-23 | slingshot-builder-linux-x86_64.tar.xz, slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slin |
 | [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 213 | v0.2.1 | 2026-11-20 | NXLibrary-0.2.1.dmg, NXLibrary-0.2.1.zip |
 | [BladesawStudios/WiiXLaunch](https://github.com/BladesawStudios/WiiXLaunch) | 6 | 1.0-rc1 | 2026-09-16 | wxl-sdk-1.0-rc1.zip |
 | [BlekjekSudo/mksm-nx](https://github.com/BlekjekSudo/mksm-nx) | 0 | switch-v0.1.0-alpha.1 | 2026-10-20 | checksums.txt, forwarder-checksums.txt, forwarder-manifest.json, MK-Shaolin-Monk-forwarder-source.zip, MK-Shaolin-Monk-f |
@@ -37,7 +37,7 @@
 | [EnzoBernardinoMartins/key2con](https://github.com/EnzoBernardinoMartins/key2con) | 9 | v0.2.1 | 2026-11-21 | key2con.v0-2-1.zip |
 | [ErrLogic/nada](https://github.com/ErrLogic/nada) | 1 | v0.1.0 | 2026-07-04 | sys-nada-v0.1.0.zip |
 | [FunkinNXTeam/FunkinLegacy](https://github.com/FunkinNXTeam/FunkinLegacy) | 3 | NX-1.0.1 | 2026-02-04 | Funkin.nro |
-| [HaDoKit/SolarNX](https://github.com/HaDoKit/SolarNX) | 0 | v0.2.5-alpha | 2026-11-03 | release.json, SolarNX-Rendezvous-linux-x64.zip, SolarNX-Rendezvous-win-x64.zip, SolarNX-Setup.exe, SolarNX-Switch.nro |
+| [HaDoKit/SolarNX](https://github.com/HaDoKit/SolarNX) | 2 | v0.2.5-alpha | 2026-11-03 | release.json, SolarNX-Rendezvous-linux-x64.zip, SolarNX-Rendezvous-win-x64.zip, SolarNX-Setup.exe, SolarNX-Switch.nro |
 | [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 277 | 2.6.1 | 2026-11-12 | dist.zip, dist_ext.zip |
 | [ImYourBoyRoy/switch-sd-mgr](https://github.com/ImYourBoyRoy/switch-sd-mgr) | 1 | v7.0.0 | 2026-05-31 | Switch-SD-Manager_Windows_Portable.zip, Switch.SD.Updater_7.0.0_amd64.AppImage, Switch.SD.Updater_7.0.0_amd64.deb, Switc |
 | [Insektaure/CheatShelf](https://github.com/Insektaure/CheatShelf) | 1 | 0.1.2 | 2026-10-23 | cheatshelf.ovl |
@@ -94,7 +94,6 @@
 | [cbreezy210/ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor) | 11 | v.1.4.0 | 2026-08-26 | ACNH-Save-Editor-DBI-v1.4.0.zip, acnh_editor_v1.4.0.zip |
 | [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | 253 | v1.3.0 | 2026-11-12 | pgo-profile-EU.zip, pgo-profile-EU.zip.sha256, pgo-profile-USA.zip, pgo-profile-USA.zip.sha256, shader-template.sealed,  |
 | [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) | 102 | v1.0.2 | 2026-10-27 | SwitchWaker-v1.0.2-switch-eur.zip, SwitchWaker-v1.0.2-switch-eur.zip.sha256, SwitchWaker-v1.0.2-switch.zip, SwitchWaker- |
-| [chatelp/acnh-power-pockets](https://github.com/chatelp/acnh-power-pockets) | ? | v1.2.0 | 2026-11-13 | ACNH-Power-Pockets-v1.2.0.zip |
 | [chiaki-ng/akira](https://github.com/chiaki-ng/akira) | ? | v0.7.0 | 2026-11-16 | akira-0.7.0.zip, akira-companion-darwin-arm64.zip, akira-companion-linux-amd64, akira-companion-windows-amd64.exe, akira |
 | [chiya695/TextReaderOverlay-NX-Revived](https://github.com/chiya695/TextReaderOverlay-NX-Revived) | 2 | v1.9.1 | 2026-08-08 | SHA256SUMS.txt, TextReaderOverlay-NX-1.9.1.zip |
 | [chuthree/nx-gamehide](https://github.com/chuthree/nx-gamehide) | 3 | v0.1.0 | 2026-10-13 | NX-GameHide-v0.1.0.zip |
@@ -104,7 +103,6 @@
 | [d3fau4/nightfall](https://github.com/d3fau4/nightfall) | ? | 1.1.4 | 2021-09-25 | NightFall.zip |
 | [d3st1nyh4x/shrekmosphere](https://github.com/d3st1nyh4x/shrekmosphere) | ? | 0.11.1 | 2020-04-15 | fusee-primary.bin, shrekmosphere-0.11.1-master.zip |
 | [danialonso/nx-control](https://github.com/danialonso/nx-control) | 0 | v0.2.5 | 2026-10-30 | NX-Control-0.2.5.zip |
-| [dannyboyjaros/switchclassof09](https://github.com/dannyboyjaros/switchclassof09) | 0 | v1.0.0 | 2026-11-08 | class.of.09.zip |
 | [dannyboyjaros/switchclassof09thereup](https://github.com/dannyboyjaros/switchclassof09thereup) | 0 | v1.0.1 | 2026-11-10 | class.of.09.zip |
 | [darkxex/nxmpforme](https://github.com/darkxex/nxmpforme) | ? | 0.1.2 | 2022-02-05 | nxmp.zip |
 | [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |
@@ -120,7 +118,7 @@
 | [fourminute/fluffy](https://github.com/fourminute/fluffy) | ? | v2.9 | 2019-05-26 | fluffy.exe, fluffy.pyw, Goldleaf.nro, LICENSE.txt, Tinfoil.nro |
 | [gasu95/HK-Checker](https://github.com/gasu95/HK-Checker) | 0 | v1.0 | 2026-11-17 | HKChecker.nro |
 | [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |
-| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 45 | v1.3 | 2026-11-18 | gow-nx.zip |
+| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 58 | 1.4 | 2026-11-23 | gow-nx.zip |
 | [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |
 | [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |
 | [hamhub7/pause-nx](https://github.com/hamhub7/pause-nx) | ? | 1.2 | 2019-09-11 | PAUSE-nx.v1.2.zip |
@@ -200,10 +198,13 @@
 | [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) | ? | v1.3.0 | 2020-10-18 | Chiaki-v1.3.0-Android.aab, Chiaki-v1.3.0-Android.apk, Chiaki-v1.3.0-Linux-x86_64.AppImage, Chiaki-v1.3.0-macOS-x86_64.dm |
 | [timschneeb/kdeconnect-nx](https://github.com/timschneeb/kdeconnect-nx) | 14 | v1.0.1 | 2026-06-09 | debug-symbols.zip, kdeconnect-nx.zip |
 | [timschneeb/nsmbw-nx](https://github.com/timschneeb/nsmbw-nx) | 0 | v1.0.0 | 2026-11-20 | assets.json, NSMBW-switch.zip |
+| [tomeoeo/switch-shell-car](https://github.com/tomeoeo/switch-shell-car) | 0 | v1.1.0 | 2026-11-23 | shellrc.nro, shell_rc-ha.zip |
 | [tomvita/atmosphere](https://github.com/tomvita/atmosphere) | ? | dmnt_with_extension | 2025-01-11 | dmnt.zip |
 | [tomvita/breeze-beta](https://github.com/tomvita/breeze-beta) | ? | beta108.4c | 2026-06-17 | Breeze.zip, version.txt |
 | [tomvita/noexes](https://github.com/tomvita/noexes) | ? | 1.4.157 | 2022-05-05 | 054e4f4558454000.zip, 054e4f4558454000_18.zip, JNoexsClient.jar |
 | [tomvita/nxcheatcode](https://github.com/tomvita/nxcheatcode) | ? | 092526 | 2026-09-25 | titles.zip, version.txt |
+| [tukwk/switchcloud](https://github.com/tukwk/switchcloud) | 0 | v0.1.0 | 2026-11-23 | README.md, README.ru.md, scswitch.nro |
+| [waite1209rec/botw-recomp-ps5](https://github.com/waite1209rec/botw-recomp-ps5) | 0 | v0.1 | 2026-11-23 | BOTWPS-0.1-toolchain.zip, BOTWPS-0.1.zip |
 | [werwolv/edizon](https://github.com/werwolv/edizon) | ? | v3.1.0 | 2022-01-16 | EdiZon.nro, ovlEdiZon.ovl |
 | [xhu96/Switch7zip](https://github.com/xhu96/Switch7zip) | 0 | v0.9.11-pre | 2026-05-09 | Switch7zip.nro |
 | [xiefengdaxia/UURemote-ns-switch](https://github.com/xiefengdaxia/UURemote-ns-switch) | 0 | v0.1.64 | 2026-11-14 | UURemote-ns-0.1.64-switch.zip |
