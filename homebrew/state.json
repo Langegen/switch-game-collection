@@ -1727,7 +1727,7 @@
   "muveeer/radionx": {
    "description": "Nintendo Switch homebrew internet radio with stations from around the world",
    "full_name": "Muveeer/RadioNX",
-   "stargazers_count": 19,
+   "stargazers_count": 21,
    "topics": [
     "atmosphere",
     "nintendo-switch-homebrew",
@@ -1762,7 +1762,7 @@
   "qret/modkitnx": {
    "description": "Nintendo Switch homebrew that makes games built for a newer firmware run on yours: unpacks ZBIC, swaps the game's sdk, adds a module that fills in missing functions and grants the needed permissions — one button, one button back. Also loads mods without LayeredFS.",
    "full_name": "qret/ModKitNX",
-   "stargazers_count": 3,
+   "stargazers_count": 4,
    "topics": [
     "atmosphere",
     "borealis",
@@ -1806,7 +1806,7 @@
   "scamnscoot/streamfin": {
    "description": "StreamFin - streaming-only Stremio client for homebrewed Nintendo Switch. Switchfin fork speaking the Stremio addon protocol.",
    "full_name": "scamNscoot/StreamFin",
-   "stargazers_count": 43,
+   "stargazers_count": 44,
    "topics": [
     "borealis",
     "mpv",
@@ -7385,9 +7385,9 @@
    "pushed_at": ""
   },
   "andrythebeast/songate": {
-   "candidate": "| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 11 | v2.1.0 | 2026-11-22 | songate-manifest.json, SongateAND-2.1.0.apk, SongateNX-2.1.0.zip, SongateWIN-2.1.0.exe |",
-   "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T18:48:49Z"
+   "candidate": "| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 11 | v2.1.1 | 2026-11-22 | songate-manifest.json, SongateAND-2.1.1.apk, SongateNX-2.1.1.zip, SongateWIN-2.1.1.exe |",
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-22T22:50:47Z"
   },
   "angle-brackets/kickstand": {
    "candidate": "| [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |",
@@ -7498,6 +7498,11 @@
   "bananabasb/jolt": {
    "checked": "2026-11-09",
    "pushed_at": "2025-12-07T14:14:55Z"
+  },
+  "banhmi93p/asura-nx": {
+   "candidate": "| [BanhMi93P/asura-nx](https://github.com/BanhMi93P/asura-nx) | 4 | v1.0.1 | 2026-11-23 | asura-nx-v1.0.1.zip |",
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-23T03:07:38Z"
   },
   "banhmi93p/deadpool-nx": {
    "candidate": "| [BanhMi93P/deadpool-nx](https://github.com/BanhMi93P/deadpool-nx) | 4 | v1.0.0 | 2026-11-19 | deadpool-nx-v1.0.0.zip |",
@@ -8233,8 +8238,8 @@
    "pushed_at": "2026-02-16T23:25:56Z"
   },
   "jacquesdupontd/port0r": {
-   "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T19:36:56Z"
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-23T07:36:25Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8247,8 +8252,8 @@
   },
   "jhondydario/greeny": {
    "candidate": "| [JhondyDario/Greeny](https://github.com/JhondyDario/Greeny) | 1 | v1.0.0 | 2026-11-20 | greeny-1.0.0.zip, greeny-overlay-source-1.0.0.zip, greeny.nro |",
-   "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T19:34:19Z"
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-23T00:39:43Z"
   },
   "jigsawfr/boreale-ha": {
    "candidate": "| [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |",
@@ -8482,16 +8487,16 @@
    "pushed_at": ""
   },
   "mohamedpro123/prayertimesnx": {
-   "checked": "2026-11-15",
+   "checked": "2026-11-23",
    "pushed_at": ""
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
-   "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T19:23:01Z"
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-23T00:43:03Z"
   },
   "mohit2096/yuzu-emulator-toolkit": {
-   "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T15:51:40Z"
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-23T02:08:14Z"
   },
   "moonlight-stream/moonlight-docs": {
    "checked": "2026-11-18",
@@ -8512,9 +8517,9 @@
    "pushed_at": ""
   },
   "muratkrdl/systoggle": {
-   "candidate": "| [muratkrdl/SysToggle](https://github.com/muratkrdl/SysToggle) | 0 | v1.0.0 | 2026-11-15 | SysToggle.nro |",
-   "checked": "2026-11-16",
-   "pushed_at": "2026-11-15T21:09:48Z"
+   "candidate": "| [muratkrdl/SysToggle](https://github.com/muratkrdl/SysToggle) | 1 | v1.0.0 | 2026-11-15 | SysToggle.nro |",
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-22T20:23:40Z"
   },
   "n3evin/amiiboapi": {
    "checked": "2026-11-17",
@@ -8620,8 +8625,8 @@
    "pushed_at": "2026-11-02T06:56:20Z"
   },
   "nx-std/mono": {
-   "checked": "2026-11-18",
-   "pushed_at": "2026-11-18T02:08:05Z"
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-23T03:10:42Z"
   },
   "ocornut/imgui": {
    "checked": "2026-11-17",
@@ -8729,8 +8734,8 @@
    "pushed_at": ""
   },
   "prowahaj13/yuzu-emulator-tutorial": {
-   "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T18:12:57Z"
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-23T07:10:54Z"
   },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
@@ -8752,16 +8757,16 @@
    "pushed_at": ""
   },
   "ramondias07/budokai3-nx": {
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-21T09:45:27Z"
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-22T23:11:53Z"
   },
   "ramondias07/mgstts-nx": {
-   "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T02:39:00Z"
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-22T22:42:59Z"
   },
   "ramondias07/xmow-nx": {
-   "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T02:38:53Z"
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-22T23:39:32Z"
   },
   "rashevskyv/4ifir": {
    "candidate": "| [rashevskyv/4ifir](https://github.com/rashevskyv/4ifir) | ? | 25.07.27.11 | 2025-07-27 | 4IFIR-Wizard-update-25.07.27.11.zip |",
@@ -8901,8 +8906,8 @@
    "pushed_at": ""
   },
   "schuler-ph/nsmbw-switch": {
-   "checked": "2026-11-22",
-   "pushed_at": "2026-11-22T14:59:12Z"
+   "checked": "2026-11-23",
+   "pushed_at": "2026-11-22T20:24:25Z"
   },
   "sciresm/hactool": {
    "candidate": "| [sciresm/hactool](https://github.com/sciresm/hactool) | ? | 1.4.0 | 2020-06-02 | hactool-1.4.0-win.zip |",
