@@ -1,6 +1,6 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-23. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-24. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
@@ -9,7 +9,8 @@
 | [0xsharkboy/nx-discord-rpc](https://github.com/0xsharkboy/nx-discord-rpc) | 2 | v0.7.3 | 2026-11-22 | exefs.nsp, nx-discord-rpc-0.7.3.zip, nx-discord-rpc.nro, nx-discord-rpc.ovl, SHA256SUMS, toolbox.json |
 | [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |
 | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | 20 | Release-1.1.0 | 2026-11-04 | bo2-360-nx-gamefiles-shader-extractor.zip, bo2-360-nx-release-1.1.0-switch+windows-build-kit.zip, bo2-360-nx-switch-PGO- |
-| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 11 | v2.1.1 | 2026-11-22 | songate-manifest.json, SongateAND-2.1.1.apk, SongateNX-2.1.1.zip, SongateWIN-2.1.1.exe |
+| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 11 | v2.2.0 | 2026-11-24 | songate-manifest.json, SongateAND-2.2.0.apk, SongateNX-2.2.0.zip, SongateWIN-2.2.0.exe |
+| [Angle-Brackets/UprisingNX](https://github.com/Angle-Brackets/UprisingNX) | 1 | v0.1.0 | 2026-11-24 | UprisingNX-v0.1.0.zip, uprising_nx.nro |
 | [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |
 | [Antman2023/UURemote-ns](https://github.com/Antman2023/UURemote-ns) | 14 | v0.1.10 | 2026-11-19 | SHA256SUMS, UURemote-ns-0.1.10-switch.zip, UURemote-ns.nro |
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
@@ -118,7 +119,7 @@
 | [fourminute/fluffy](https://github.com/fourminute/fluffy) | ? | v2.9 | 2019-05-26 | fluffy.exe, fluffy.pyw, Goldleaf.nro, LICENSE.txt, Tinfoil.nro |
 | [gasu95/HK-Checker](https://github.com/gasu95/HK-Checker) | 0 | v1.0 | 2026-11-17 | HKChecker.nro |
 | [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |
-| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 58 | 1.4 | 2026-11-23 | gow-nx.zip |
+| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 62 | 1.4 | 2026-11-23 | gow-nx.zip |
 | [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |
 | [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |
 | [hamhub7/pause-nx](https://github.com/hamhub7/pause-nx) | ? | 1.2 | 2019-09-11 | PAUSE-nx.v1.2.zip |
@@ -206,6 +207,7 @@
 | [tukwk/switchcloud](https://github.com/tukwk/switchcloud) | 0 | v0.1.0 | 2026-11-23 | README.md, README.ru.md, scswitch.nro |
 | [waite1209rec/botw-recomp-ps5](https://github.com/waite1209rec/botw-recomp-ps5) | 0 | v0.1 | 2026-11-23 | BOTWPS-0.1-toolchain.zip, BOTWPS-0.1.zip |
 | [werwolv/edizon](https://github.com/werwolv/edizon) | ? | v3.1.0 | 2022-01-16 | EdiZon.nro, ovlEdiZon.ovl |
+| [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.0.0 | 2026-11-24 | SHA256SUMS.txt, WarpPoint-1.0.0.dmg, WarpPoint-Switch-1.0.0.zip |
 | [xhu96/Switch7zip](https://github.com/xhu96/Switch7zip) | 0 | v0.9.11-pre | 2026-05-09 | Switch7zip.nro |
 | [xiefengdaxia/UURemote-ns-switch](https://github.com/xiefengdaxia/UURemote-ns-switch) | 0 | v0.1.64 | 2026-11-14 | UURemote-ns-0.1.64-switch.zip |
 | [ybx77/switch-cloud-sync](https://github.com/ybx77/switch-cloud-sync) | 1 | new | 2026-11-03 | switch-cloud-sync.nro |

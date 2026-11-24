@@ -1579,7 +1579,7 @@
   "gerisson1996/cold-fear-nx-port": {
    "description": "Cold Fear (Xbox) no Nintendo Switch por recompilação estática — Vulkan/NVK, mira por giroscópio, 30 FPS",
    "full_name": "gerisson1996/COLD-FEAR-NX-PORT",
-   "stargazers_count": 3,
+   "stargazers_count": 4,
    "topics": [
     "cold-fear",
     "homebrew",
@@ -7409,9 +7409,9 @@
    "pushed_at": ""
   },
   "andrythebeast/songate": {
-   "candidate": "| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 11 | v2.1.1 | 2026-11-22 | songate-manifest.json, SongateAND-2.1.1.apk, SongateNX-2.1.1.zip, SongateWIN-2.1.1.exe |",
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-22T22:50:47Z"
+   "candidate": "| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 11 | v2.2.0 | 2026-11-24 | songate-manifest.json, SongateAND-2.2.0.apk, SongateNX-2.2.0.zip, SongateWIN-2.2.0.exe |",
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T03:21:05Z"
   },
   "angle-brackets/kickstand": {
    "candidate": "| [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |",
@@ -7421,6 +7421,11 @@
   "angle-brackets/paperboat-switch-port": {
    "checked": "2026-11-09",
    "pushed_at": "2026-10-21T20:34:07Z"
+  },
+  "angle-brackets/uprisingnx": {
+   "candidate": "| [Angle-Brackets/UprisingNX](https://github.com/Angle-Brackets/UprisingNX) | 1 | v0.1.0 | 2026-11-24 | UprisingNX-v0.1.0.zip, uprising_nx.nro |",
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T05:02:18Z"
   },
   "anonymoususer98/mii-creator": {
    "checked": "2026-11-18",
@@ -7456,8 +7461,8 @@
    "pushed_at": "2026-10-28T21:16:50Z"
   },
   "astralemu/ryuldnnx": {
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-23T23:41:04Z"
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T01:36:05Z"
   },
   "atlasnx/kosmos": {
    "checked": "2026-11-18",
@@ -7807,8 +7812,8 @@
    "pushed_at": ""
   },
   "delfus77/nxdock": {
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-23T14:42:35Z"
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T04:16:48Z"
   },
   "denpingus/nxcloud": {
    "candidate": "| [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |",
@@ -8067,9 +8072,9 @@
    "pushed_at": ""
   },
   "gerisson1996/gow-collection-nx": {
-   "candidate": "| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 58 | 1.4 | 2026-11-23 | gow-nx.zip |",
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-23T20:02:00Z"
+   "candidate": "| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 62 | 1.4 | 2026-11-23 | gow-nx.zip |",
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T09:56:25Z"
   },
   "gowithme-club/switch-playtime-tracker": {
    "candidate": "| [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |",
@@ -8091,8 +8096,8 @@
   },
   "hadokit/solarnx": {
    "candidate": "| [HaDoKit/SolarNX](https://github.com/HaDoKit/SolarNX) | 2 | v0.2.5-alpha | 2026-11-03 | release.json, SolarNX-Rendezvous-linux-x64.zip, SolarNX-Rendezvous-win-x64.zip, SolarNX-Setup.exe, SolarNX-Switch.nro |",
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-23T12:37:17Z"
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T08:51:42Z"
   },
   "hamhub7/pause-nx": {
    "candidate": "| [hamhub7/pause-nx](https://github.com/hamhub7/pause-nx) | ? | 1.2 | 2019-09-11 | PAUSE-nx.v1.2.zip |",
@@ -8266,8 +8271,8 @@
    "pushed_at": "2026-02-16T23:25:56Z"
   },
   "jacquesdupontd/port0r": {
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-23T23:36:24Z"
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T09:36:36Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8523,8 +8528,8 @@
    "pushed_at": ""
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-23T21:07:00Z"
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T05:50:38Z"
   },
   "mohit2096/yuzu-emulator-toolkit": {
    "checked": "2026-11-23",
@@ -8766,8 +8771,8 @@
    "pushed_at": ""
   },
   "prowahaj13/yuzu-emulator-tutorial": {
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-23T19:49:15Z"
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T04:36:09Z"
   },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
@@ -9267,13 +9272,18 @@
   },
   "waite1209rec/botw-recomp-ps5": {
    "candidate": "| [waite1209rec/botw-recomp-ps5](https://github.com/waite1209rec/botw-recomp-ps5) | 0 | v0.1 | 2026-11-23 | BOTWPS-0.1-toolchain.zip, BOTWPS-0.1.zip |",
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-23T19:35:45Z"
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T04:42:56Z"
   },
   "werwolv/edizon": {
    "candidate": "| [werwolv/edizon](https://github.com/werwolv/edizon) | ? | v3.1.0 | 2022-01-16 | EdiZon.nro, ovlEdiZon.ovl |",
    "checked": "2026-11-17",
    "pushed_at": ""
+  },
+  "willv678/warppoint": {
+   "candidate": "| [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.0.0 | 2026-11-24 | SHA256SUMS.txt, WarpPoint-1.0.0.dmg, WarpPoint-Switch-1.0.0.zip |",
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T03:17:07Z"
   },
   "xc987/nx-fetch": {
    "checked": "2026-11-18",
