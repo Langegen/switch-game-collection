@@ -1,5 +1,36 @@
 [
     {
+        "title": "Call of Duty: Modern Warfare 2 (port ) [NRO][RUS]",
+        "size": "7.72 GB",
+        "magnet": "magnet:?xt=urn:btih:A974BC62B7056F56C09A995D1F537784356FF184&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet",
+        "topic_id": "6942227",
+        "url": "https://rutracker.org/forum/viewtopic.php?t=6942227",
+        "year": "2009",
+        "genre": "Action, shooter, 3D, 1st person, Homebrew",
+        "developer": "Infinity Ward",
+        "publisher": "Unknown",
+        "image_format": "NRO",
+        "interface_lang": "Russian [RUS]",
+        "voice_lang": "Russian",
+        "performance": "Yes (on 20.5.0, Atmosphere 1.11.2)",
+        "multiplayer": "C botami",
+        "cover": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/covers/6942227.jpg",
+        "screenshots": [
+            "https://i129.fastpic.org/thumb/2026/1123/49/4936b2b82cb4465bda24c70a975b5349.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1123/e7/c3dfc1fb888fb3879e5cc64828b446e7.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1123/63/0477e65f24fd3824330d405cd880d563.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1123/40/aeaa7b0a90865e32e06c3f99e2e93740.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1123/f4/eb61954b01c47929fc974214a9a34af4.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1123/50/467ccfea16d12b671080b0d838bb6750.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1123/68/ad83540fa5909bdd003e1759bed81c68.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1123/50/f4f7d00906e0c1b6cf6274978fadde50.jpeg",
+            "https://i129.fastpic.org/thumb/2026/1123/86/0c68cb7b71c6a3af1b9b371c4b12c486.jpeg"
+        ],
+        "description": "Prodolzhenie nashumevshego boevika Call of Duty 4: Modern Warfare, razoshedshegosya po vsemu miru tirazhom 14 millionov ekzemplyarov i udostoivshegosya zvaniya «Igra 2007 goda» ot bolshinstva igrovykh izdaniy. Deystvie razvorachivaetsya spustya neskolko let posle sobytiy, proizoshedshikh v pervoy chasti blokbastera. V sostave spetsotryada po borbe s terrorizmom pod komandovaniem kapitana Dzhona Maktavisha igrok primet uchastie v opasneyshikh operatsiyakh v samykh raznykh ugolkakh mira: v zasnezhennykh gorakh Kazakhstana i trushchobakh Rio-de-Zhaneyro, v peskakh Afganistana i dazhe na beskraynikh prostorakh Rossii. V zakhvatyvayushchikh dukh perestrelkakh i rukopashnykh skhvatkakh s ekstremistami boytsy elitnogo otryada budut ispolzovat noveyshee oruzhie, snaryazhenie i tekhniku.",
+        "title_id": null,
+        "version": "1.0.1"
+    },
+    {
         "title": "Blood and Glory Legend (homebrew) [NRO][RUS]",
         "size": "328.7 MB",
         "magnet": "magnet:?xt=urn:btih:60A8AE488D6FCC9E3092DF155C5E23080B6276C3&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
@@ -102526,16 +102557,16 @@
         "titles": "0100772022592000:131072:"
     },
     {
-        "title": "Star Ores Inc [NSZ][RUS/Multi11]",
-        "size": "1.81 GB",
-        "magnet": "magnet:?xt=urn:btih:18FF7CC9BF399C585F2203D5665CFB7DC57863F2&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
+        "title": "Star Ores Inc + 2 DLC [NSZ][RUS/Multi11]",
+        "size": "1.87 GB",
+        "magnet": "magnet:?xt=urn:btih:7A619EEEE7321274732348AF4203F50B2C03AEAC&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
         "topic_id": "6775233",
         "url": "https://rutracker.org/forum/viewtopic.php?t=6775233",
         "year": "2025, November",
         "genre": "Simulator",
         "developer": "Black Beak Games",
         "publisher": "Three River Games (3RG)",
-        "image_format": ".NSZ (compressed ~36%, installed size 2.81 GB)",
+        "image_format": ".NSZ (compressed ~36%, installed size 2.83 GB)",
         "interface_lang": "Russian, English [RUS / ENG / Multi 11]",
         "voice_lang": "No voiceover",
         "performance": "Yes (on 20.5.0, Atmosphere 1.9.5)",
@@ -102551,9 +102582,9 @@
         ],
         "description": "Star Ores Inc. is an intergalactic mining adventure that catapults you onto an abandoned space station in the middle of space. As a freshly minted entrepreneur, you begin your career in a world full of ores, machines, and galactic possibilities.\n\nDig through massive asteroids and extract rare minerals, which you refine into valuable high-tech products. With the help of specialized robots, conveyor systems, and automated machinery, you build an efficient production chain—from raw material extraction to sales.\n\nBut that's just the beginning:\n- Explore hidden sectors, reactivate old terminals, and upgrade your laser to unearth even deeper treasures. Strange infestations are waiting for you to clear them.\n- Customers from every corner of the galaxy flock to your station to buy your products.\n- Activate the space station, perfect your operations, and become a legend of space mining.\n\nStart your career at Star Ores Inc. now.",
         "title_id": "01008ED024492000",
-        "version": "1.0.42",
-        "update_version": 327680,
-        "titles": "01008ED024492000:327680:"
+        "version": "1.0.43",
+        "update_version": 393216,
+        "titles": "01008ED024492000:393216:"
     },
     {
         "title": "Soulbind: Tales of the Underworld [NSP][RUS/Multi10]",
