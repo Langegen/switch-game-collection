@@ -639,6 +639,21 @@
    "type": "file",
    "zip_root": ""
   },
+  "kazar-root/nxnow": {
+   "asset_key": "757057603:2026-11-17T00:49:57Z",
+   "extracted": 36135295,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/NxNow.jpg",
+   "nacp": {
+    "author": "KazaR-RooT",
+    "title": "NxNow",
+    "version": "0.2.4"
+   },
+   "sha256": "72550ab9cd33bcbc46ef14f188d360eb4e2ba4bc5f1e51bf8a6d486a80873b04",
+   "size": 36135295,
+   "type": "file",
+   "zip_root": ""
+  },
   "kipi000/nsw-fetch": {
    "asset_key": "214304838:2024-12-18T22:25:41Z",
    "extracted": 777719,
@@ -762,17 +777,17 @@
    "zip_root": ""
   },
   "muveeer/radionx": {
-   "asset_key": "767402794:2026-11-19T11:21:51Z",
-   "extracted": 37976786,
+   "asset_key": "786884116:2026-11-24T11:17:33Z",
+   "extracted": 39046954,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/RadioNX.jpg",
    "nacp": {
     "author": "Muveeer",
     "title": "RadioNX",
-    "version": "2.1.0"
+    "version": "2.2.0"
    },
-   "sha256": "4733a9a45d51ba66666501cd5b661e510556f8d5aa9ea308a68923eb9f8235a8",
-   "size": 37976786,
+   "sha256": "bebd036d8a06cb6947327d79e8a4cb2d3541d0f3d6f78345aad648338206ca88",
+   "size": 39046954,
    "type": "file",
    "zip_root": ""
   },
@@ -1367,7 +1382,7 @@
   "bernardogiordano/checkpoint": {
    "description": "Fast and simple homebrew save management framework for 3DS and Switch.",
    "full_name": "BernardoGiordano/Checkpoint",
-   "stargazers_count": 3136,
+   "stargazers_count": 3137,
    "topics": [
     "3ds",
     "3ds-homebrew",
@@ -1669,6 +1684,32 @@
     "switch-homebrew"
    ]
   },
+  "kazar-root/nxnow": {
+   "description": "Unofficial GeForce NOW cloud gaming client for Nintendo Switch (homebrew .nro). Play your Steam, Battle.net and EA PC games on your Switch with no gaming PC or Moonlight: up to 60 FPS, virtual keyboard, mouse mode, QR-code sign-in and 8 languages. Not affiliated with NVIDIA or Nintendo. KazaR-RooT",
+   "full_name": "kazar-root/NxNow",
+   "stargazers_count": 14,
+   "topics": [
+    "cloud-gaming",
+    "counter",
+    "cpp",
+    "diablo",
+    "ffmpeg",
+    "geforce-now",
+    "homebrew",
+    "kazar-root",
+    "libnx",
+    "nintendo-switch",
+    "nro",
+    "nvidia",
+    "nxnow",
+    "streaming",
+    "streaming-video",
+    "strike",
+    "warcraft",
+    "webrtc",
+    "world-of-warcraft"
+   ]
+  },
   "kipi000/nsw-fetch": {
    "description": "",
    "full_name": "kipi000/nsw-fetch",
@@ -1730,6 +1771,8 @@
    "stargazers_count": 21,
    "topics": [
     "atmosphere",
+    "gta-radio",
+    "gta6-radio",
     "nintendo-switch-homebrew",
     "switch",
     "switch-homebrew"
@@ -1943,6 +1986,7 @@
   "itotaljustice/nx-deviceid-viewer": "2026-11-10",
   "jinghaihan/mhgu-overlay": "2026-11-12",
   "kaays/mc3_nx": "2026-11-09",
+  "kazar-root/nxnow": "2026-11-24",
   "kipi000/nsw-fetch": "2026-11-10",
   "lordelan/n1dus": "2026-11-10",
   "masagrator/getnetworkpass": "2026-11-11",
@@ -7409,9 +7453,9 @@
    "pushed_at": ""
   },
   "andrythebeast/songate": {
-   "candidate": "| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 11 | v2.2.0 | 2026-11-24 | songate-manifest.json, SongateAND-2.2.0.apk, SongateNX-2.2.0.zip, SongateWIN-2.2.0.exe |",
+   "candidate": "| [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 12 | v2.2.1 | 2026-11-24 | songate-manifest.json, SongateAND-2.2.1.apk, SongateNX-2.2.1.zip, SongateWIN-2.2.1.exe |",
    "checked": "2026-11-24",
-   "pushed_at": "2026-11-24T03:21:05Z"
+   "pushed_at": "2026-11-24T13:38:30Z"
   },
   "angle-brackets/kickstand": {
    "candidate": "| [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |",
@@ -7425,7 +7469,7 @@
   "angle-brackets/uprisingnx": {
    "candidate": "| [Angle-Brackets/UprisingNX](https://github.com/Angle-Brackets/UprisingNX) | 1 | v0.1.0 | 2026-11-24 | UprisingNX-v0.1.0.zip, uprising_nx.nro |",
    "checked": "2026-11-24",
-   "pushed_at": "2026-11-24T05:02:18Z"
+   "pushed_at": "2026-11-24T22:20:23Z"
   },
   "anonymoususer98/mii-creator": {
    "checked": "2026-11-18",
@@ -7452,8 +7496,8 @@
    "pushed_at": "2026-08-20T09:18:32Z"
   },
   "armaatus/rommsync-nx": {
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-23T12:45:35Z"
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T13:49:54Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -7462,7 +7506,7 @@
   },
   "astralemu/ryuldnnx": {
    "checked": "2026-11-24",
-   "pushed_at": "2026-11-24T01:36:05Z"
+   "pushed_at": "2026-11-24T18:08:42Z"
   },
   "atlasnx/kosmos": {
    "checked": "2026-11-18",
@@ -7556,9 +7600,9 @@
    "pushed_at": "2026-10-12T04:54:49Z"
   },
   "berny23/slingshot-animals-recomp": {
-   "candidate": "| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 55 | v1.2.0 | 2026-11-23 | slingshot-builder-linux-x86_64.tar.xz, slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slin |",
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-23T15:59:06Z"
+   "candidate": "| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 56 | v1.2.1 | 2026-11-24 | slingshot-builder-linux-x86_64.tar.xz, slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slin |",
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T20:46:29Z"
   },
   "bium23/nxlibrary": {
    "candidate": "| [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 213 | v0.2.1 | 2026-11-20 | NXLibrary-0.2.1.dmg, NXLibrary-0.2.1.zip |",
@@ -7743,8 +7787,8 @@
    "pushed_at": "2026-09-16T16:58:32Z"
   },
   "ctj01/switch2pc": {
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-23T11:51:23Z"
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T13:21:50Z"
   },
   "curl/curl": {
    "candidate": "| [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |",
@@ -7813,7 +7857,7 @@
   },
   "delfus77/nxdock": {
    "checked": "2026-11-24",
-   "pushed_at": "2026-11-24T04:16:48Z"
+   "pushed_at": "2026-11-24T13:30:47Z"
   },
   "denpingus/nxcloud": {
    "candidate": "| [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |",
@@ -8054,8 +8098,8 @@
    "pushed_at": "2026-11-11T16:14:01Z"
   },
   "g-brrzzn/recomp-playbook": {
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-21T19:13:02Z"
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T21:53:24Z"
   },
   "garyodernichts/udpih_nxpayload": {
    "checked": "2026-11-19",
@@ -8074,12 +8118,12 @@
   "gerisson1996/gow-collection-nx": {
    "candidate": "| [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 62 | 1.4 | 2026-11-23 | gow-nx.zip |",
    "checked": "2026-11-24",
-   "pushed_at": "2026-11-24T09:56:25Z"
+   "pushed_at": "2026-11-24T10:11:27Z"
   },
   "gowithme-club/switch-playtime-tracker": {
    "candidate": "| [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-11-09T14:40:52Z"
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T16:40:51Z"
   },
   "granule256/nxcourier": {
    "candidate": "| [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |",
@@ -8272,7 +8316,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-24",
-   "pushed_at": "2026-11-24T09:36:36Z"
+   "pushed_at": "2026-11-24T21:36:46Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8284,9 +8328,9 @@
    "pushed_at": ""
   },
   "jhondydario/greeny": {
-   "candidate": "| [JhondyDario/Greeny](https://github.com/JhondyDario/Greeny) | 1 | v1.0.0 | 2026-11-20 | greeny-1.0.0.zip, greeny-overlay-source-1.0.0.zip, greeny.nro |",
-   "checked": "2026-11-23",
-   "pushed_at": "2026-11-23T22:34:11Z"
+   "candidate": "| [JhondyDario/Greeny](https://github.com/JhondyDario/Greeny) | 7 | v1.0.0 | 2026-11-20 | greeny-1.0.0.zip, greeny-overlay-source-1.0.0.zip, greeny.nro |",
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T21:58:35Z"
   },
   "jigsawfr/boreale-ha": {
    "candidate": "| [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |",
@@ -8433,6 +8477,10 @@
    "checked": "2026-11-22",
    "pushed_at": "2026-11-21T19:21:09Z"
   },
+  "lsyymmilo/handkerchief2000-nx": {
+   "checked": "2026-11-24",
+   "pushed_at": "2026-11-24T13:13:29Z"
+  },
   "m4l3vich/vkpcnx": {
    "candidate": "| [m4l3vich/vkpcnx](https://github.com/m4l3vich/vkpcnx) | 2 | v1.1.0 | 2026-10-15 | vkpcnx-debug.nro, vkpcnx-switch-debug-symbols.zip, vkpcnx-switch-symbols.zip, vkpcnx.nro |",
    "checked": "2026-11-09",
@@ -8529,7 +8577,7 @@
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-24",
-   "pushed_at": "2026-11-24T05:50:38Z"
+   "pushed_at": "2026-11-24T17:24:55Z"
   },
   "mohit2096/yuzu-emulator-toolkit": {
    "checked": "2026-11-23",
@@ -8772,7 +8820,7 @@
   },
   "prowahaj13/yuzu-emulator-tutorial": {
    "checked": "2026-11-24",
-   "pushed_at": "2026-11-24T04:36:09Z"
+   "pushed_at": "2026-11-24T15:30:34Z"
   },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
@@ -9273,7 +9321,7 @@
   "waite1209rec/botw-recomp-ps5": {
    "candidate": "| [waite1209rec/botw-recomp-ps5](https://github.com/waite1209rec/botw-recomp-ps5) | 0 | v0.1 | 2026-11-23 | BOTWPS-0.1-toolchain.zip, BOTWPS-0.1.zip |",
    "checked": "2026-11-24",
-   "pushed_at": "2026-11-24T04:42:56Z"
+   "pushed_at": "2026-11-24T19:07:18Z"
   },
   "werwolv/edizon": {
    "candidate": "| [werwolv/edizon](https://github.com/werwolv/edizon) | ? | v3.1.0 | 2022-01-16 | EdiZon.nro, ovlEdiZon.ovl |",

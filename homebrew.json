@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-24T09:57:42Z",
+ "generated": "2026-11-24T22:29:34Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -3680,6 +3680,30 @@
    "first_seen": "2026-11-09"
   },
   {
+   "name": "NxNow",
+   "title": "NxNow",
+   "author": "KazaR-RooT",
+   "version": "0.2.4",
+   "category": "game",
+   "description": "Unofficial GeForce NOW cloud gaming client for Nintendo Switch (homebrew .nro). Play your Steam, Battle.net and EA PC games on your Switch with no gaming PC or Moonlight: up to 60 FPS, virtual keyboard, mouse mode, QR-code sign-in and 8 languages. Not affiliated with NVIDIA or Nintendo. KazaR-RooT",
+   "changelog": "# NxNow v0.2e — New logo and small visual improvements\r\n\r\nA small update with a **new logo for the application**, consistent header branding and a cleaner game-launch layout. All v0.2d keyboard and streaming fixes are included.\r\n\r\n## What's changed\r\n\r\n- **NxNow V3 app icon** for hbmenu, startup/loading, temporary image placeholders and this GitHub page.\r\n- The **NxNow Externe cloud logo** in app headers, including game details, sign-in, game launch and stream status, with **NxNow written in white** in the menu, details, launch and stream-status headers.\r\n- A compact **54 × 54 menu logo**, aligned with the navigation buttons.\r\n- **Long launch titles use at most two lines.** The font adapts when needed; exceptionally long names end in an ellipsis. Instructions, requested settings and cancellation stay clear.\r\n\r\n## Play, type and tune your stream\r\n\r\nThese existing tools remain available in v0.2e:\r\n\r\n- **Type text in games and launcher fields:** focus a chat or text field and press **ZR + R3** to open or close the native Switch virtual keyboard.\r\n- **Switch input modes:** press **L3 + R3** to switch between gamepad and mouse/keyboard controls.\r\n- **See live performance:** press **− and + together** to show or hide FPS, bitrate, ping, battery and input mode.\r\n- **Choose your next stream:** adjust profiles, resolution, FPS, bitrate, codec, server location and controls in Settings or the game's Next stream panel. Changes are saved automatically for the next session.\r\n- **Eight interface languages:** English, Simplified Chinese, Spanish, Russian, Italian, French, Polish and Ukrainian, with automatic console-language selection. Game language is configured separately and depends on the game's support.\r\n\r\n## Screenshots\r\n\r\n![The NxNow library and new cloud logo](https://raw.githubusercontent.com/kazar-root/NxNow/v0.2.4/docs/screenshots/v0.2e/library-world-of-warcraft.jpg)\r\n\r\n![In-game chat and live performance on Nintendo Switch](https://raw.githubusercontent.com/kazar-root/Nx",
+   "url": "https://github.com/kazar-root/nxnow",
+   "repo": "kazar-root/nxnow",
+   "updated": "2026-11-17",
+   "download_url": "https://github.com/kazar-root/NxNow/releases/download/v0.2.4/NxNow.nro",
+   "download_type": "file",
+   "sha256": "72550ab9cd33bcbc46ef14f188d360eb4e2ba4bc5f1e51bf8a6d486a80873b04",
+   "filesize": 36135295,
+   "extracted": 36135295,
+   "files": [
+    "U: switch/NxNow/NxNow.nro"
+   ],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/NxNow.jpg",
+   "license": "MIT",
+   "auto": true,
+   "first_seen": "2026-11-24"
+  },
+  {
    "name": "nxpotify",
    "title": "NXpotify",
    "author": "etonedemid",
@@ -3752,18 +3776,18 @@
    "name": "RadioNX",
    "title": "RadioNX",
    "author": "Muveeer",
-   "version": "2.1.0",
+   "version": "2.2.0",
    "category": "tool",
    "description": "Nintendo Switch homebrew internet radio with stations from around the world",
-   "changelog": "Added GTA V radio and other fixes",
+   "changelog": "Updated GTA Radio menu and added all the radio stations from GTA 6",
    "url": "https://github.com/muveeer/radionx",
    "repo": "muveeer/radionx",
-   "updated": "2026-11-19",
-   "download_url": "https://github.com/Muveeer/RadioNX/releases/download/v2.1.0/RadioNX.nro",
+   "updated": "2026-11-24",
+   "download_url": "https://github.com/Muveeer/RadioNX/releases/download/v2.2.0/RadioNX.nro",
    "download_type": "file",
-   "sha256": "4733a9a45d51ba66666501cd5b661e510556f8d5aa9ea308a68923eb9f8235a8",
-   "filesize": 37976786,
-   "extracted": 37976786,
+   "sha256": "bebd036d8a06cb6947327d79e8a4cb2d3541d0f3d6f78345aad648338206ca88",
+   "filesize": 39046954,
+   "extracted": 39046954,
    "files": [
     "U: switch/RadioNX/RadioNX.nro"
    ],
