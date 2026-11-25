@@ -1,6 +1,6 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-24. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-25. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
@@ -10,7 +10,7 @@
 | [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |
 | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | 20 | Release-1.1.0 | 2026-11-04 | bo2-360-nx-gamefiles-shader-extractor.zip, bo2-360-nx-release-1.1.0-switch+windows-build-kit.zip, bo2-360-nx-switch-PGO- |
 | [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 12 | v2.2.1 | 2026-11-24 | songate-manifest.json, SongateAND-2.2.1.apk, SongateNX-2.2.1.zip, SongateWIN-2.2.1.exe |
-| [Angle-Brackets/UprisingNX](https://github.com/Angle-Brackets/UprisingNX) | 1 | v0.1.0 | 2026-11-24 | UprisingNX-v0.1.0.zip, uprising_nx.nro |
+| [Angle-Brackets/UprisingNX](https://github.com/Angle-Brackets/UprisingNX) | 2 | v0.1.2 | 2026-11-25 | UprisingNX-v0.1.2.zip, uprising_nx.nro |
 | [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |
 | [Antman2023/UURemote-ns](https://github.com/Antman2023/UURemote-ns) | 14 | v0.1.10 | 2026-11-19 | SHA256SUMS, UURemote-ns-0.1.10-switch.zip, UURemote-ns.nro |
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
@@ -43,7 +43,7 @@
 | [ImYourBoyRoy/switch-sd-mgr](https://github.com/ImYourBoyRoy/switch-sd-mgr) | 1 | v7.0.0 | 2026-05-31 | Switch-SD-Manager_Windows_Portable.zip, Switch.SD.Updater_7.0.0_amd64.AppImage, Switch.SD.Updater_7.0.0_amd64.deb, Switc |
 | [Insektaure/CheatShelf](https://github.com/Insektaure/CheatShelf) | 1 | 0.1.2 | 2026-10-23 | cheatshelf.ovl |
 | [Jack-The-Yoshi/One-Click-Game-Manager-OCGM-](https://github.com/Jack-The-Yoshi/One-Click-Game-Manager-OCGM-) | 1 | v1.0.1 | 2026-02-16 | OCGM.nro |
-| [JhondyDario/Greeny](https://github.com/JhondyDario/Greeny) | 7 | v1.0.0 | 2026-11-20 | greeny-1.0.0.zip, greeny-overlay-source-1.0.0.zip, greeny.nro |
+| [JhondyDario/Greeny](https://github.com/JhondyDario/Greeny) | 7 | v1.0.1 | 2026-11-25 | greeny-1.0.1.zip, greeny-overlay-source-1.0.1.zip, greeny.nro |
 | [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |
 | [KakarottoCake/gcadapter-oc-nx](https://github.com/KakarottoCake/gcadapter-oc-nx) | 0 | v0.1.5-alpha | 2026-07-29 | gcadapter-oc-nx.zip |
 | [KoHaku743/horizon-nx-companion](https://github.com/KoHaku743/horizon-nx-companion) | 0 | v0.3.0 | 2026-11-21 | horizon-nx-companion-linux-x86_64.tar.gz, horizon-nx-companion-macos.zip, horizon-nx-companion-windows.zip |
@@ -107,6 +107,7 @@
 | [dannyboyjaros/switchclassof09thereup](https://github.com/dannyboyjaros/switchclassof09thereup) | 0 | v1.0.1 | 2026-11-10 | class.of.09.zip |
 | [darkxex/nxmpforme](https://github.com/darkxex/nxmpforme) | ? | 0.1.2 | 2022-02-05 | nxmp.zip |
 | [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |
+| [derzhivkurse/lego-batman2-nx](https://github.com/derzhivkurse/lego-batman2-nx) | 1 | installer | 2026-11-24 | lego-batman2-nx-sd.zip |
 | [devkitPro/3ds-hbmenu](https://github.com/devkitPro/3ds-hbmenu) | ? | v2.4.4 | 2026-11-01 | 3ds-hbmenu-v2.4.4.zip |
 | [dpadninja/realdrift_nx](https://github.com/dpadninja/realdrift_nx) | 1 | v1.5.3 | 2026-11-04 | realdrift_nx-v1.5.3.zip |
 | [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | ? | v2.7.6 | 2026-09-19 | sftpgo-2.7.6-1.aarch64.rpm, sftpgo-2.7.6-1.armv7hl.rpm, sftpgo-2.7.6-1.ppc64le.rpm, sftpgo-2.7.6-1.x86_64.rpm, sftpgo_2. |
@@ -128,6 +129,7 @@
 | [hotshotz79/nx-romget](https://github.com/hotshotz79/nx-romget) | ? | 0.1 | 2020-04-20 | main.py, NX-RomGet.zip |
 | [huntereb/awoo-installer](https://github.com/huntereb/awoo-installer) | ? | 1.3.6 | 2025-11-15 | Awoo-Installer.zip |
 | [hwfly-nx/firmware](https://github.com/hwfly-nx/firmware) | ? | 0.7.2 | 2023-01-08 | release_072.zip |
+| [iArtem88/nx-pilot](https://github.com/iArtem88/nx-pilot) | 0 | v0.5.0 | 2026-11-25 | nx-pilot-0.5.0.zip, nx-pilot-installer.nro |
 | [iGlitch/Syobon-NX](https://github.com/iGlitch/Syobon-NX) | 0 | 1.0 | 2026-07-29 | syobon-nx.zip |
 | [incuryou/PiJava](https://github.com/incuryou/PiJava) | 10 | v0.2.114-keyui7-gpuf5-fit41-menu7 | 2026-11-02 | FIT41-RELEASE-NOTES-CN.md, J2me-vm-0.2.114-keyui7-gpuf5-fit41-menu7.nro, J2me-vm-0.2.114-keyui7-gpuf5-fit41-menu7.nsp, P |
 | [istador/ojds-nx](https://github.com/istador/ojds-nx) | ? | v1.0.8 | 2022-10-20 | OJDS-NX-v1.0.8.zip |
@@ -205,9 +207,8 @@
 | [tomvita/noexes](https://github.com/tomvita/noexes) | ? | 1.4.157 | 2022-05-05 | 054e4f4558454000.zip, 054e4f4558454000_18.zip, JNoexsClient.jar |
 | [tomvita/nxcheatcode](https://github.com/tomvita/nxcheatcode) | ? | 092526 | 2026-09-25 | titles.zip, version.txt |
 | [tukwk/switchcloud](https://github.com/tukwk/switchcloud) | 0 | v0.1.0 | 2026-11-23 | README.md, README.ru.md, scswitch.nro |
-| [waite1209rec/botw-recomp-ps5](https://github.com/waite1209rec/botw-recomp-ps5) | 0 | v0.1 | 2026-11-23 | BOTWPS-0.1-toolchain.zip, BOTWPS-0.1.zip |
 | [werwolv/edizon](https://github.com/werwolv/edizon) | ? | v3.1.0 | 2022-01-16 | EdiZon.nro, ovlEdiZon.ovl |
-| [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.0.0 | 2026-11-24 | SHA256SUMS.txt, WarpPoint-1.0.0.dmg, WarpPoint-Switch-1.0.0.zip |
+| [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.0.1 | 2026-11-25 | SHA256SUMS.txt, WarpPoint-1.0.1.dmg, WarpPoint-Switch-1.0.1.zip |
 | [xhu96/Switch7zip](https://github.com/xhu96/Switch7zip) | 0 | v0.9.11-pre | 2026-05-09 | Switch7zip.nro |
 | [xiefengdaxia/UURemote-ns-switch](https://github.com/xiefengdaxia/UURemote-ns-switch) | 0 | v0.1.64 | 2026-11-14 | UURemote-ns-0.1.64-switch.zip |
 | [ybx77/switch-cloud-sync](https://github.com/ybx77/switch-cloud-sync) | 1 | new | 2026-11-03 | switch-cloud-sync.nro |

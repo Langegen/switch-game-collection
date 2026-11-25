@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-24T22:29:34Z",
+ "generated": "2026-11-25T08:38:28Z",
  "hidden": [
   "appstore",
   "appstore_survey",
@@ -1314,6 +1314,11 @@
    "kinds": [
     "app",
     "sysmodule"
+   ]
+  },
+  "SwitchDeck": {
+   "kinds": [
+    "app"
    ]
   },
   "SwitchFTPClient": {
