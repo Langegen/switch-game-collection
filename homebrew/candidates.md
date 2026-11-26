@@ -12,12 +12,12 @@
 | [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 12 | v2.2.1 | 2026-11-24 | songate-manifest.json, SongateAND-2.2.1.apk, SongateNX-2.2.1.zip, SongateWIN-2.2.1.exe |
 | [Angle-Brackets/UprisingNX](https://github.com/Angle-Brackets/UprisingNX) | 4 | v0.1.2 | 2026-11-25 | UprisingNX-v0.1.2.zip, uprising_nx.nro |
 | [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |
-| [Antman2023/UURemote-ns](https://github.com/Antman2023/UURemote-ns) | 14 | v0.1.10 | 2026-11-19 | SHA256SUMS, UURemote-ns-0.1.10-switch.zip, UURemote-ns.nro |
+| [Antman2023/UURemote-ns](https://github.com/Antman2023/UURemote-ns) | 17 | v0.1.11 | 2026-11-26 | SHA256SUMS, UURemote-ns-0.1.11-switch.zip, UURemote-ns.nro |
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
 | [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |
 | [BanhMi93P/asura-nx](https://github.com/BanhMi93P/asura-nx) | 8 | v1.0.2 | 2026-11-23 | asura-nx-v1.0.2.zip |
 | [BanhMi93P/deadpool-nx](https://github.com/BanhMi93P/deadpool-nx) | 23 | v1.0.2 | 2026-11-25 | deadpool-nx-v1.0.2.zip |
-| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 60 | v1.3.1 | 2026-11-25 | slingshot-builder-linux-x86_64.tar.xz, slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slin |
+| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 60 | v1.3.2 | 2026-11-26 | slingshot-builder-linux-x86_64.tar.xz, slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slin |
 | [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 213 | v0.2.1 | 2026-11-20 | NXLibrary-0.2.1.dmg, NXLibrary-0.2.1.zip |
 | [BladesawStudios/WiiXLaunch](https://github.com/BladesawStudios/WiiXLaunch) | 6 | 1.0-rc1 | 2026-09-16 | wxl-sdk-1.0-rc1.zip |
 | [BlekjekSudo/mksm-nx](https://github.com/BlekjekSudo/mksm-nx) | 0 | switch-v0.1.0-alpha.1 | 2026-10-20 | checksums.txt, forwarder-checksums.txt, forwarder-manifest.json, MK-Shaolin-Monk-forwarder-source.zip, MK-Shaolin-Monk-f |
@@ -39,7 +39,7 @@
 | [ErrLogic/nada](https://github.com/ErrLogic/nada) | 1 | v0.1.0 | 2026-07-04 | sys-nada-v0.1.0.zip |
 | [FunkinNXTeam/FunkinLegacy](https://github.com/FunkinNXTeam/FunkinLegacy) | 3 | NX-1.0.1 | 2026-02-04 | Funkin.nro |
 | [HaDoKit/SolarNX](https://github.com/HaDoKit/SolarNX) | 2 | v0.2.5-alpha | 2026-11-03 | release.json, SolarNX-Rendezvous-linux-x64.zip, SolarNX-Rendezvous-win-x64.zip, SolarNX-Setup.exe, SolarNX-Switch.nro |
-| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 277 | 2.6.1 | 2026-11-12 | dist.zip, dist_ext.zip |
+| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 293 | 2.6.1 | 2026-11-12 | dist.zip, dist_ext.zip |
 | [ImYourBoyRoy/switch-sd-mgr](https://github.com/ImYourBoyRoy/switch-sd-mgr) | 1 | v7.0.0 | 2026-05-31 | Switch-SD-Manager_Windows_Portable.zip, Switch.SD.Updater_7.0.0_amd64.AppImage, Switch.SD.Updater_7.0.0_amd64.deb, Switc |
 | [Insektaure/CheatShelf](https://github.com/Insektaure/CheatShelf) | 1 | 0.1.2 | 2026-10-23 | cheatshelf.ovl |
 | [Jack-The-Yoshi/One-Click-Game-Manager-OCGM-](https://github.com/Jack-The-Yoshi/One-Click-Game-Manager-OCGM-) | 1 | v1.0.1 | 2026-02-16 | OCGM.nro |
@@ -60,7 +60,7 @@
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
 | [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 5 | v0.9.8 | 2026-11-21 | SHA256SUMS.txt, switch-online-0.9.8-hats.zip, switch-online-0.9.8-sd.zip, switch-online-0.9.8-sdk-sources.tar, switch-on |
-| [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 75 | v1.0.12 | 2026-11-25 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
+| [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 78 | v1.0.13 | 2026-11-26 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 4.0.0 | 2026-11-20 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
 | [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 7 | v1.0.27 | 2026-11-22 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |
@@ -190,7 +190,7 @@
 | [samedog/NX-trex](https://github.com/samedog/NX-trex) | 0 | 2.0.0 | 2026-10-05 | NX-trex.nro |
 | [sciresm/hactool](https://github.com/sciresm/hactool) | ? | 1.4.0 | 2020-06-02 | hactool-1.4.0-win.zip |
 | [shodowlo/NX-torrent-player](https://github.com/shodowlo/NX-torrent-player) | 37 | v0.6.0 | 2026-11-18 | NX-torrent-player.nro, NX2-torrent-player.nro |
-| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 85 | v1.4.0 | 2026-11-25 | NexvynOS.nro, NexvynSDK-1.4.0.zip, SHA256SUMS.txt |
+| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 85 | v1.4.1 | 2026-11-26 | NexvynOS.nro, NexvynSDK-1.4.1.zip, SHA256SUMS.txt |
 | [spacecraft-nx/firmware](https://github.com/spacecraft-nx/firmware) | ? | 0.2.0 | 2021-10-14 | release_0.2.0.zip |
 | [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) | ? | v1.25.1 | 2026-04-08 | ldn_mitm_v1.25.1.zip |
 | [sthetix/fusecheck](https://github.com/sthetix/fusecheck) | ? | 1.0.5 | 2026-09-27 | FuseCheck-1.0.5.zip |
@@ -201,7 +201,7 @@
 | [team-neptune/deepsea](https://github.com/team-neptune/deepsea) | ? | v4.15.0 | 2026-03-31 | deepsea-advanced_v4.15.0.zip, deepsea-minimal_v4.15.0.zip, deepsea-normal_v4.15.0.zip |
 | [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) | ? | v1.3.0 | 2020-10-18 | Chiaki-v1.3.0-Android.aab, Chiaki-v1.3.0-Android.apk, Chiaki-v1.3.0-Linux-x86_64.AppImage, Chiaki-v1.3.0-macOS-x86_64.dm |
 | [timschneeb/kdeconnect-nx](https://github.com/timschneeb/kdeconnect-nx) | 14 | v1.0.1 | 2026-06-09 | debug-symbols.zip, kdeconnect-nx.zip |
-| [timschneeb/nsmbw-nx](https://github.com/timschneeb/nsmbw-nx) | 0 | v1.0.0 | 2026-11-20 | assets.json, NSMBW-switch.zip |
+| [timschneeb/nsmbw-nx](https://github.com/timschneeb/nsmbw-nx) | 9 | v1.0.0 | 2026-11-20 | assets.json, NSMBW-switch.zip |
 | [tomeoeo/switch-shell-car](https://github.com/tomeoeo/switch-shell-car) | 0 | v1.1.1 | 2026-11-25 | shellrc.nro, shell_rc-ha.zip |
 | [tomvita/atmosphere](https://github.com/tomvita/atmosphere) | ? | dmnt_with_extension | 2025-01-11 | dmnt.zip |
 | [tomvita/breeze-beta](https://github.com/tomvita/breeze-beta) | ? | beta108.4c | 2026-06-17 | Breeze.zip, version.txt |
@@ -209,7 +209,7 @@
 | [tomvita/nxcheatcode](https://github.com/tomvita/nxcheatcode) | ? | 092526 | 2026-09-25 | titles.zip, version.txt |
 | [tukwk/switchcloud](https://github.com/tukwk/switchcloud) | 0 | v0.1.0 | 2026-11-23 | README.md, README.ru.md, scswitch.nro |
 | [werwolv/edizon](https://github.com/werwolv/edizon) | ? | v3.1.0 | 2022-01-16 | EdiZon.nro, ovlEdiZon.ovl |
-| [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.3.0 | 2026-11-26 | SHA256SUMS.txt, WarpPoint-1.3.0.dmg, WarpPoint-Switch-1.3.0.zip |
+| [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.12.0 | 2026-11-26 | SHA256SUMS.txt, WarpPoint-1.12.0.dmg, WarpPoint-Switch-1.12.0.zip |
 | [xhu96/Switch7zip](https://github.com/xhu96/Switch7zip) | 0 | v0.9.11-pre | 2026-05-09 | Switch7zip.nro |
 | [xiefengdaxia/UURemote-ns-switch](https://github.com/xiefengdaxia/UURemote-ns-switch) | 0 | v0.1.64 | 2026-11-14 | UURemote-ns-0.1.64-switch.zip |
 | [ybx77/switch-cloud-sync](https://github.com/ybx77/switch-cloud-sync) | 1 | new | 2026-11-03 | switch-cloud-sync.nro |
@@ -219,6 +219,7 @@
 | [zhongyang219/musicplayer2](https://github.com/zhongyang219/musicplayer2) | ? | V2.78 | 2025-12-27 | MusicPlayer2_V2.78_x64.zip, MusicPlayer2_V2.78_x86.zip |
 | [zhtipu/shank2-nx](https://github.com/zhtipu/shank2-nx) | 3 | v1.0.1 | 2026-11-14 | nsp-loader.zip, shank2-nx-1.0.1.nsp, shank2.nro |
 | [zofo007/NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) | 18 | v1.1.0 | 2026-10-30 | nfscarbon-1.1.0-src.zip, nfscarbon-1.1.0.zip, SHA256SUMS.txt |
+| [zuhayermasud/Calculator_NX-Overlay](https://github.com/zuhayermasud/Calculator_NX-Overlay) | 0 | v2.0.0-ultrahand | 2026-11-26 | ovl-Calculator_NX.ovl |
 
 ## Скрыты из fortheusers (опасные пути)
 

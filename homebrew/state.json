@@ -1382,7 +1382,7 @@
   "bernardogiordano/checkpoint": {
    "description": "Fast and simple homebrew save management framework for 3DS and Switch.",
    "full_name": "BernardoGiordano/Checkpoint",
-   "stargazers_count": 3139,
+   "stargazers_count": 3140,
    "topics": [
     "3ds",
     "3ds-homebrew",
@@ -7496,9 +7496,9 @@
    "pushed_at": "2026-11-03T10:24:02Z"
   },
   "antman2023/uuremote-ns": {
-   "candidate": "| [Antman2023/UURemote-ns](https://github.com/Antman2023/UURemote-ns) | 14 | v0.1.10 | 2026-11-19 | SHA256SUMS, UURemote-ns-0.1.10-switch.zip, UURemote-ns.nro |",
-   "checked": "2026-11-19",
-   "pushed_at": "2026-11-19T13:33:30Z"
+   "candidate": "| [Antman2023/UURemote-ns](https://github.com/Antman2023/UURemote-ns) | 17 | v0.1.11 | 2026-11-26 | SHA256SUMS, UURemote-ns-0.1.11-switch.zip, UURemote-ns.nro |",
+   "checked": "2026-11-26",
+   "pushed_at": "2026-11-26T12:21:56Z"
   },
   "aoihera/chargecap": {
    "candidate": "| [aoihera/ChargeCap](https://github.com/aoihera/ChargeCap) | 6 | 1.1.2 | 2026-10-04 | ChargeCap.zip |",
@@ -7511,8 +7511,8 @@
    "pushed_at": "2026-08-20T09:18:32Z"
   },
   "armaatus/rommsync-nx": {
-   "checked": "2026-11-25",
-   "pushed_at": "2026-11-25T16:10:13Z"
+   "checked": "2026-11-26",
+   "pushed_at": "2026-11-26T12:37:19Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -7615,9 +7615,9 @@
    "pushed_at": "2026-10-12T04:54:49Z"
   },
   "berny23/slingshot-animals-recomp": {
-   "candidate": "| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 60 | v1.3.1 | 2026-11-25 | slingshot-builder-linux-x86_64.tar.xz, slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slin |",
+   "candidate": "| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 60 | v1.3.2 | 2026-11-26 | slingshot-builder-linux-x86_64.tar.xz, slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slin |",
    "checked": "2026-11-26",
-   "pushed_at": "2026-11-25T23:13:43Z"
+   "pushed_at": "2026-11-26T19:32:01Z"
   },
   "biigdrong/borderlands2-mobile": {
    "checked": "2026-11-25",
@@ -7806,8 +7806,8 @@
    "pushed_at": "2026-09-16T16:58:32Z"
   },
   "ctj01/switch2pc": {
-   "checked": "2026-11-25",
-   "pushed_at": "2026-11-25T12:10:55Z"
+   "checked": "2026-11-26",
+   "pushed_at": "2026-11-26T11:58:39Z"
   },
   "curl/curl": {
    "candidate": "| [curl/curl](https://github.com/curl/curl) | ? | curl-8_23_0 | 2026-10-14 | curl-8-.23.0.jpg, curl-8.23.0.tar.bz2, curl-8.23.0.tar.bz2.asc, curl-8.23.0.tar.gz, curl-8.23.0.tar.gz.asc, curl-8.23.0. |",
@@ -7876,7 +7876,7 @@
   },
   "delfus77/nxdock": {
    "checked": "2026-11-26",
-   "pushed_at": "2026-11-26T06:41:52Z"
+   "pushed_at": "2026-11-26T11:21:24Z"
   },
   "denpingus/nxcloud": {
    "candidate": "| [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |",
@@ -8243,9 +8243,9 @@
    "pushed_at": ""
   },
   "horizon-oc/horizon-oc": {
-   "candidate": "| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 277 | 2.6.1 | 2026-11-12 | dist.zip, dist_ext.zip |",
-   "checked": "2026-11-12",
-   "pushed_at": "2026-11-12T12:01:43Z"
+   "candidate": "| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 293 | 2.6.1 | 2026-11-12 | dist.zip, dist_ext.zip |",
+   "checked": "2026-11-26",
+   "pushed_at": "2026-11-26T20:43:56Z"
   },
   "hotshotz79/nx-romget": {
    "candidate": "| [hotshotz79/nx-romget](https://github.com/hotshotz79/nx-romget) | ? | 0.1 | 2020-04-20 | main.py, NX-RomGet.zip |",
@@ -8350,7 +8350,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-26",
-   "pushed_at": "2026-11-26T08:06:23Z"
+   "pushed_at": "2026-11-26T21:06:13Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8518,7 +8518,7 @@
   "luckyhiro/pypck": {
    "candidate": "| [LuckyHiro/PyPCK](https://github.com/LuckyHiro/PyPCK) | 0 | pypckv01 | 2026-11-25 | PyPCK.zip |",
    "checked": "2026-11-26",
-   "pushed_at": "2026-11-25T23:27:11Z"
+   "pushed_at": "2026-11-26T15:15:19Z"
   },
   "m4l3vich/vkpcnx": {
    "candidate": "| [m4l3vich/vkpcnx](https://github.com/m4l3vich/vkpcnx) | 2 | v1.1.0 | 2026-10-15 | vkpcnx-debug.nro, vkpcnx-switch-debug-symbols.zip, vkpcnx-switch-symbols.zip, vkpcnx.nro |",
@@ -8616,7 +8616,7 @@
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
    "checked": "2026-11-26",
-   "pushed_at": "2026-11-26T04:51:15Z"
+   "pushed_at": "2026-11-26T14:54:48Z"
   },
   "mohit2096/yuzu-emulator-toolkit": {
    "checked": "2026-11-23",
@@ -8859,7 +8859,7 @@
   },
   "prowahaj13/yuzu-emulator-tutorial": {
    "checked": "2026-11-26",
-   "pushed_at": "2026-11-26T02:38:18Z"
+   "pushed_at": "2026-11-26T20:55:03Z"
   },
   "r4ytendo/crash_bit_nx": {
    "candidate": "| [R4ytendo/crash_bit_nx](https://github.com/R4ytendo/crash_bit_nx) | 0 | v1.0.0 | 2026-10-17 | crash_bit_nx.nro |",
@@ -9091,9 +9091,9 @@
    "pushed_at": "2025-12-25T01:17:48Z"
   },
   "sonerx7/nexvyn-os-nx": {
-   "candidate": "| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 85 | v1.4.0 | 2026-11-25 | NexvynOS.nro, NexvynSDK-1.4.0.zip, SHA256SUMS.txt |",
-   "checked": "2026-11-25",
-   "pushed_at": "2026-11-25T20:25:49Z"
+   "candidate": "| [sonerx7/Nexvyn-OS-NX](https://github.com/sonerx7/Nexvyn-OS-NX) | 85 | v1.4.1 | 2026-11-26 | NexvynOS.nro, NexvynSDK-1.4.1.zip, SHA256SUMS.txt |",
+   "checked": "2026-11-26",
+   "pushed_at": "2026-11-26T21:30:14Z"
   },
   "spacecraft-nx/firmware": {
    "candidate": "| [spacecraft-nx/firmware](https://github.com/spacecraft-nx/firmware) | ? | 0.2.0 | 2021-10-14 | release_0.2.0.zip |",
@@ -9106,9 +9106,9 @@
    "pushed_at": ""
   },
   "spin0zai/nup-extractor": {
-   "candidate": "| [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 75 | v1.0.12 | 2026-11-25 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |",
+   "candidate": "| [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 78 | v1.0.13 | 2026-11-26 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |",
    "checked": "2026-11-26",
-   "pushed_at": "2026-11-25T22:57:18Z"
+   "pushed_at": "2026-11-26T15:27:34Z"
   },
   "spx01/switch-nfp-mitm": {
    "checked": "2026-11-25",
@@ -9260,9 +9260,9 @@
    "pushed_at": "2026-06-09T00:53:01Z"
   },
   "timschneeb/nsmbw-nx": {
-   "candidate": "| [timschneeb/nsmbw-nx](https://github.com/timschneeb/nsmbw-nx) | 0 | v1.0.0 | 2026-11-20 | assets.json, NSMBW-switch.zip |",
-   "checked": "2026-11-20",
-   "pushed_at": "2026-11-20T20:22:24Z"
+   "candidate": "| [timschneeb/nsmbw-nx](https://github.com/timschneeb/nsmbw-nx) | 9 | v1.0.0 | 2026-11-20 | assets.json, NSMBW-switch.zip |",
+   "checked": "2026-11-26",
+   "pushed_at": "2026-11-26T21:32:38Z"
   },
   "tobias103435/mkwii-switch-builder": {
    "candidate": "| [Tobias103435/mkwii-switch-builder](https://github.com/Tobias103435/mkwii-switch-builder) | 1 | v1 | 2026-11-03 | MarioKartWii-Switch-builder.zip, mkw-render-deko3d-13abc3bc-f8c9eef0-20261102.tar.xz, mkw-render-deko3d-13abc3bc-f8c9eef |",
@@ -9377,12 +9377,12 @@
   },
   "whaaooo42/nxspoof": {
    "checked": "2026-11-26",
-   "pushed_at": "2026-11-26T02:40:20Z"
+   "pushed_at": "2026-11-26T18:42:08Z"
   },
   "willv678/warppoint": {
-   "candidate": "| [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.3.0 | 2026-11-26 | SHA256SUMS.txt, WarpPoint-1.3.0.dmg, WarpPoint-Switch-1.3.0.zip |",
+   "candidate": "| [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.12.0 | 2026-11-26 | SHA256SUMS.txt, WarpPoint-1.12.0.dmg, WarpPoint-Switch-1.12.0.zip |",
    "checked": "2026-11-26",
-   "pushed_at": "2026-11-26T07:44:25Z"
+   "pushed_at": "2026-11-26T21:10:37Z"
   },
   "xc987/nx-fetch": {
    "checked": "2026-11-26",
@@ -9478,6 +9478,11 @@
   "zserge/jsmn": {
    "checked": "2026-11-26",
    "pushed_at": ""
+  },
+  "zuhayermasud/calculator_nx-overlay": {
+   "candidate": "| [zuhayermasud/Calculator_NX-Overlay](https://github.com/zuhayermasud/Calculator_NX-Overlay) | 0 | v2.0.0-ultrahand | 2026-11-26 | ovl-Calculator_NX.ovl |",
+   "checked": "2026-11-26",
+   "pushed_at": "2026-11-26T12:11:10Z"
   }
  }
 }
