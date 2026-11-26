@@ -20,7 +20,7 @@ class GitLabReleaseTests(unittest.TestCase):
         releases = [release("v2.0.0-test", links), release("v1.9.0", links),
                     release("v1.10.0", links)]
         with patch.object(h, "http_get", side_effect=[
-            json.dumps({"path_with_namespace": REPO}).encode(), json.dumps(releases).encode()
+            json.dumps({"path_with_namespace": REPO, "id": ID}).encode(), json.dumps(releases).encode()
         ]):
             result = h.latest_gitlab_release(REPO, ID)
         self.assertEqual(result["tag_name"], "v1.10.0")
@@ -50,6 +50,22 @@ class GitLabReleaseTests(unittest.TestCase):
         asset, _ = h.pick_asset(data, "*.nro")
         self.assertIsNone(asset)
 
+    def test_resolve_approved_path_without_hardcoded_id(self):
+        with patch.object(h, "http_get", side_effect=[
+            json.dumps({"path_with_namespace": REPO, "id": ID}).encode(),
+            json.dumps([release("v1.0.0", [])]).encode()
+        ]) as fetch:
+            result = h.latest_gitlab_release(REPO)
+        self.assertEqual(result["tag_name"], "v1.0.0")
+        self.assertIn("example%2Fcompressor", fetch.call_args_list[0].args[0])
+        self.assertIn(f"/projects/{ID}/releases", fetch.call_args_list[1].args[0])
+
+    def test_resolved_id_mismatch(self):
+        with patch.object(h, "http_get", return_value=json.dumps(
+                {"path_with_namespace": REPO, "id": ID + 1}).encode()):
+            with self.assertRaises(ValueError):
+                h.latest_gitlab_release(REPO, ID)
+
     def test_project_id_mismatch(self):
         with patch.object(h, "http_get", return_value=b'{"path_with_namespace":"other/project"}'):
             with self.assertRaises(ValueError):
@@ -57,7 +73,7 @@ class GitLabReleaseTests(unittest.TestCase):
 
     def test_test_only_release(self):
         with patch.object(h, "http_get", side_effect=[
-            json.dumps({"path_with_namespace": REPO}).encode(),
+            json.dumps({"path_with_namespace": REPO, "id": ID}).encode(),
             json.dumps([release("v2.0.0-rc1", [])]).encode()
         ]):
             self.assertIsNone(h.latest_gitlab_release(REPO, ID))

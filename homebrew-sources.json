@@ -88,7 +88,6 @@
   {
    "provider": "gitlab",
    "repo": "ismaellozanoperezserrano/hacbrewpacklz",
-   "project_id": 88310088,
    "name": "hacbrewpacklz",
    "title": "hacBrewPackLZ",
    "asset": "*.nro",

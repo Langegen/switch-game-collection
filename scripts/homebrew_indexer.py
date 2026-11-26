@@ -7,7 +7,7 @@ Sources:
     or other forbidden places are hidden, the rest get their kinds
     (app / overlay / sysmodule).
   * homebrew-sources.json: hand-picked GitHub/GitLab projects (missing or
-    outdated in fortheusers). GitLab projects require an explicit project ID
+    outdated in fortheusers). GitLab projects resolve an approved project path
     and use stable NRO release assets. These are approved by being in the list.
   * Discovery (needs GITHUB_TOKEN): GitHub topics and GameBrew. A release with a
     single .nro or .ovl is added automatically ("auto": true). Everything else
@@ -308,18 +308,27 @@ def normalize_gitlab_release(release: dict, repo: str, project_id: int) -> dict:
     }
 
 
-def latest_gitlab_release(repo: str, project_id: int) -> dict | None:
+def latest_gitlab_release(repo: str, project_id: int | None = None) -> dict | None:
     """Approved manual GitLab projects only; do not discover or select test releases."""
     if not re.fullmatch(r"[A-Za-z0-9_.-]+(?:/[A-Za-z0-9_.-]+)+", repo):
         raise ValueError("invalid GitLab project path")
-    if type(project_id) is not int or project_id <= 0:
+    if project_id is not None and (type(project_id) is not int or project_id <= 0):
         raise ValueError("invalid GitLab project ID")
-    api = f"https://gitlab.com/api/v4/projects/{project_id}"
+    if any(part in (".", "..") for part in repo.split("/")):
+        raise ValueError("invalid GitLab project path")
+    project_path = urllib.parse.quote(repo, safe="")
+    api = f"https://gitlab.com/api/v4/projects/{project_path}"
     try:
         project = json.loads(http_get(api, accept="application/json"))
         if project.get("path_with_namespace", "").casefold() != repo.casefold():
-            raise ValueError("GitLab project ID does not match the approved path")
-        releases = json.loads(http_get(api + "/releases?per_page=100", accept="application/json"))
+            raise ValueError("GitLab project does not match the approved path")
+        resolved_id = project.get("id")
+        if type(resolved_id) is not int or resolved_id <= 0:
+            raise ValueError("invalid resolved GitLab project ID")
+        if project_id is not None and project_id != resolved_id:
+            raise ValueError("GitLab project ID does not match the approved project")
+        project_id = resolved_id
+        releases = json.loads(http_get(f"https://gitlab.com/api/v4/projects/{project_id}/releases?per_page=100", accept="application/json"))
     except urllib.error.HTTPError as e:
         if e.code == 404:
             return None
@@ -701,7 +710,7 @@ def main() -> int:
             cfg = dict(cfg, ftu_title=ftu.get("title", ""))
         try:
             if provider == "gitlab":
-                rel = latest_gitlab_release(cfg["repo"], cfg["project_id"])
+                rel = latest_gitlab_release(cfg["repo"], cfg.get("project_id"))
             elif provider == "github":
                 rel = latest_release(cfg["repo"], cfg.get("prerelease", False))
             else:
