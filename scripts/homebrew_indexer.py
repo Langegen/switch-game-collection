@@ -44,6 +44,7 @@ import zipfile
 from pathlib import Path
 
 from homebrew_localization import apply_zh_hans
+from audit_localization import audit_homebrew
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "homebrew-sources.json"
@@ -746,6 +747,7 @@ def main() -> int:
     }
     zh_hans = json.loads((DATA_DIR / "descriptions_zh_hans.json").read_text(encoding="utf-8"))
     log(f"zh-Hans descriptions: {apply_zh_hans(out, zh_hans)}")
+    log(f"Localization audit: {json.dumps(audit_homebrew(out), ensure_ascii=False)}")
     OUTPUT_FILE.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")

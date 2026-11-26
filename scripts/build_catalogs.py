@@ -10,6 +10,8 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+from audit_localization import audit_catalog
+
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
@@ -1390,6 +1392,9 @@ def build_catalog_for_lang(lang_code):
     print(f"Descriptions from TitleDB: {titledb_desc_count} / {len(catalog)}", flush=True)
     print(f"Descriptions translated / cached: {translated_desc_count} / {len(catalog)}", flush=True)
     print(f"Screenshots from TitleDB: {titledb_ss_count} / {len(catalog)}", flush=True)
+
+    # Report script-based review candidates on each existing scheduled build.
+    print("Localization audit: " + json.dumps(audit_catalog(catalog, lang_code), ensure_ascii=False), flush=True)
 
     # Write output JSON
     output_path = BASE_DIR / cfg["output_file"]
