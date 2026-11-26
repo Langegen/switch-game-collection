@@ -1,0 +1,180 @@
+{
+  "source_commit": "c07132d0346298384cbd5c978c7aef486b7cdf93",
+  "source_catalog": "ZH_Hans_catalog.json",
+  "records": 7358,
+  "changed_records": 7333,
+  "changed_fields": {
+    "genre": 7322,
+    "multiplayer": 47,
+    "voice_lang": 27,
+    "interface_lang": 6,
+    "description": 4,
+    "performance": 1
+  },
+  "protected_field_differences": 0,
+  "before": {
+    "title": {
+      "han_present": 366,
+      "cyrillic_review": 0,
+      "latin_review": 6992,
+      "missing": 0,
+      "other": 0
+    },
+    "description": {
+      "han_present": 2974,
+      "cyrillic_review": 1,
+      "latin_review": 4383,
+      "missing": 0,
+      "other": 0
+    },
+    "genre": {
+      "han_present": 44,
+      "cyrillic_review": 0,
+      "latin_review": 7311,
+      "missing": 3,
+      "other": 0
+    },
+    "developer": {
+      "han_present": 46,
+      "cyrillic_review": 0,
+      "latin_review": 7205,
+      "missing": 106,
+      "other": 1
+    },
+    "publisher": {
+      "han_present": 7,
+      "cyrillic_review": 0,
+      "latin_review": 7096,
+      "missing": 248,
+      "other": 7
+    },
+    "year": {
+      "han_present": 6773,
+      "cyrillic_review": 0,
+      "latin_review": 4,
+      "missing": 38,
+      "other": 543
+    },
+    "image_format": {
+      "han_present": 5264,
+      "cyrillic_review": 0,
+      "latin_review": 2091,
+      "missing": 3,
+      "other": 0
+    },
+    "interface_lang": {
+      "han_present": 7348,
+      "cyrillic_review": 0,
+      "latin_review": 6,
+      "missing": 4,
+      "other": 0
+    },
+    "voice_lang": {
+      "han_present": 7305,
+      "cyrillic_review": 0,
+      "latin_review": 32,
+      "missing": 21,
+      "other": 0
+    },
+    "multiplayer": {
+      "han_present": 7299,
+      "cyrillic_review": 0,
+      "latin_review": 48,
+      "missing": 5,
+      "other": 6
+    },
+    "performance": {
+      "han_present": 7351,
+      "cyrillic_review": 0,
+      "latin_review": 6,
+      "missing": 1,
+      "other": 0
+    }
+  },
+  "after": {
+    "title": {
+      "han_present": 366,
+      "cyrillic_review": 0,
+      "latin_review": 6992,
+      "missing": 0,
+      "other": 0
+    },
+    "description": {
+      "han_present": 2978,
+      "cyrillic_review": 1,
+      "latin_review": 4379,
+      "missing": 0,
+      "other": 0
+    },
+    "genre": {
+      "han_present": 7353,
+      "cyrillic_review": 0,
+      "latin_review": 2,
+      "missing": 3,
+      "other": 0
+    },
+    "developer": {
+      "han_present": 46,
+      "cyrillic_review": 0,
+      "latin_review": 7205,
+      "missing": 106,
+      "other": 1
+    },
+    "publisher": {
+      "han_present": 7,
+      "cyrillic_review": 0,
+      "latin_review": 7096,
+      "missing": 248,
+      "other": 7
+    },
+    "year": {
+      "han_present": 6773,
+      "cyrillic_review": 0,
+      "latin_review": 4,
+      "missing": 38,
+      "other": 543
+    },
+    "image_format": {
+      "han_present": 5264,
+      "cyrillic_review": 0,
+      "latin_review": 2091,
+      "missing": 3,
+      "other": 0
+    },
+    "interface_lang": {
+      "han_present": 7354,
+      "cyrillic_review": 0,
+      "latin_review": 0,
+      "missing": 4,
+      "other": 0
+    },
+    "voice_lang": {
+      "han_present": 7332,
+      "cyrillic_review": 0,
+      "latin_review": 5,
+      "missing": 21,
+      "other": 0
+    },
+    "multiplayer": {
+      "han_present": 7346,
+      "cyrillic_review": 0,
+      "latin_review": 7,
+      "missing": 5,
+      "other": 0
+    },
+    "performance": {
+      "han_present": 7352,
+      "cyrillic_review": 0,
+      "latin_review": 5,
+      "missing": 1,
+      "other": 0
+    }
+  },
+  "unmapped_genre_terms": [
+    [
+      "va",
+      2
+    ]
+  ],
+  "notes": "Dry-run of reviewed display-term rules against the actual existing catalog. Counts are script presence, not linguistic-quality scores. This report does not claim full catalog regeneration. Generated catalog file is unchanged until regenerated. No changes to identifiers or acquisition fields."
+}
