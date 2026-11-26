@@ -1,6 +1,6 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-25. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-26. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
@@ -16,8 +16,8 @@
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
 | [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |
 | [BanhMi93P/asura-nx](https://github.com/BanhMi93P/asura-nx) | 8 | v1.0.2 | 2026-11-23 | asura-nx-v1.0.2.zip |
-| [BanhMi93P/deadpool-nx](https://github.com/BanhMi93P/deadpool-nx) | 20 | v1.0.1 | 2026-11-23 | deadpool-nx-v1.0.1.zip |
-| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 59 | v1.3.0 | 2026-11-25 | slingshot-builder-linux-x86_64.tar.xz, slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slin |
+| [BanhMi93P/deadpool-nx](https://github.com/BanhMi93P/deadpool-nx) | 23 | v1.0.2 | 2026-11-25 | deadpool-nx-v1.0.2.zip |
+| [Berny23/slingshot-animals-recomp](https://github.com/Berny23/slingshot-animals-recomp) | 60 | v1.3.1 | 2026-11-25 | slingshot-builder-linux-x86_64.tar.xz, slingshot-builder-macos-universal.zip, slingshot-builder-windows-x86_64.exe, slin |
 | [Bium23/NxLibrary](https://github.com/Bium23/NxLibrary) | 213 | v0.2.1 | 2026-11-20 | NXLibrary-0.2.1.dmg, NXLibrary-0.2.1.zip |
 | [BladesawStudios/WiiXLaunch](https://github.com/BladesawStudios/WiiXLaunch) | 6 | 1.0-rc1 | 2026-09-16 | wxl-sdk-1.0-rc1.zip |
 | [BlekjekSudo/mksm-nx](https://github.com/BlekjekSudo/mksm-nx) | 0 | switch-v0.1.0-alpha.1 | 2026-10-20 | checksums.txt, forwarder-checksums.txt, forwarder-manifest.json, MK-Shaolin-Monk-forwarder-source.zip, MK-Shaolin-Monk-f |
@@ -46,7 +46,7 @@
 | [JhondyDario/Greeny](https://github.com/JhondyDario/Greeny) | 8 | v1.0.1 | 2026-11-25 | greeny-1.0.1.zip, greeny-overlay-source-1.0.1.zip, greeny.nro |
 | [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |
 | [KakarottoCake/gcadapter-oc-nx](https://github.com/KakarottoCake/gcadapter-oc-nx) | 0 | v0.1.5-alpha | 2026-07-29 | gcadapter-oc-nx.zip |
-| [KoHaku743/horizon-nx-companion](https://github.com/KoHaku743/horizon-nx-companion) | 0 | v0.3.0 | 2026-11-21 | horizon-nx-companion-linux-x86_64.tar.gz, horizon-nx-companion-macos.zip, horizon-nx-companion-windows.zip |
+| [KoHaku743/horizon-nx-companion](https://github.com/KoHaku743/horizon-nx-companion) | 0 | v0.4.0 | 2026-11-25 | horizon-nx-companion-linux-x86_64.tar.gz, horizon-nx-companion-macos.zip, horizon-nx-companion-windows.zip |
 | [LaLemniscata/ben10-nx](https://github.com/LaLemniscata/ben10-nx) | 0 | v1.1.4 | 2026-11-06 | Ben10-NX-Installer.zip |
 | [LuckyHiro/PyPCK](https://github.com/LuckyHiro/PyPCK) | 0 | pypckv01 | 2026-11-25 | PyPCK.zip |
 | [MeoWDev-MOD/Control-PS-5](https://github.com/MeoWDev-MOD/Control-PS-5) | 1 | v1.1.0 | 2026-11-04 | Control-PS-5.zip |
@@ -60,7 +60,7 @@
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
 | [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 5 | v0.9.8 | 2026-11-21 | SHA256SUMS.txt, switch-online-0.9.8-hats.zip, switch-online-0.9.8-sd.zip, switch-online-0.9.8-sdk-sources.tar, switch-on |
-| [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 75 | v1.0.11 | 2026-11-25 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
+| [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 75 | v1.0.12 | 2026-11-25 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 4.0.0 | 2026-11-20 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
 | [Steklorez/SwitchAgent](https://github.com/Steklorez/SwitchAgent) | 7 | v1.0.27 | 2026-11-22 | SHA256SUMS.txt, SwitchAgent-Portable-x64.zip, SwitchAgent-Setup-x64.exe |
@@ -123,7 +123,7 @@
 | [gasu95/HK-Checker](https://github.com/gasu95/HK-Checker) | 0 | v1.0 | 2026-11-17 | HKChecker.nro |
 | [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |
 | [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 62 | 1.4 | 2026-11-23 | gow-nx.zip |
-| [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.0 | 2026-11-09 | gowithme-club-switch-1.0.0.zip |
+| [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.1 | 2026-11-26 | gowithme-club-switch-1.0.1.zip |
 | [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |
 | [hamhub7/pause-nx](https://github.com/hamhub7/pause-nx) | ? | 1.2 | 2019-09-11 | PAUSE-nx.v1.2.zip |
 | [hamletdufromage/sigpatches-updater](https://github.com/hamletdufromage/sigpatches-updater) | ? | 0.2 | 2020-09-12 | sigpatches-updater.zip |
@@ -173,7 +173,7 @@
 | [ppkantorski/HOC-Toolkit](https://github.com/ppkantorski/HOC-Toolkit) | 24 | v2.0.7 | 2026-11-01 | hoc-toolkit.zip |
 | [ppkantorski/Memory-Kit](https://github.com/ppkantorski/Memory-Kit) | 28 | v1.0.2 | 2026-05-20 | Memory.Kit.zip |
 | [ppkantorski/UltraGB-Overlay](https://github.com/ppkantorski/UltraGB-Overlay) | 13 | v1.0.2 | 2026-07-13 | sdout.zip, ultragb.ovl |
-| [ppkantorski/libultrahand](https://github.com/ppkantorski/libultrahand) | 68 | v2.5.4 | 2026-11-09 | libultrahand.zip |
+| [ppkantorski/libultrahand](https://github.com/ppkantorski/libultrahand) | 71 | v2.5.4 | 2026-11-09 | libultrahand.zip |
 | [proconsule/libusbdvd](https://github.com/proconsule/libusbdvd) | ? | 0.1.3 | 2026-08-21 | libusbdvd-0.1.3.zip, libusbdvd-example-c.nro |
 | [rajkosto/nx-hbloader](https://github.com/rajkosto/nx-hbloader) | ? | v1.1 | 2018-07-30 | nx-hbloader_with_debug.zip |
 | [rajkosto/sys-ftpd](https://github.com/rajkosto/sys-ftpd) | ? | b2 | 2018-08-14 | sys-ftpd.zip |
@@ -209,7 +209,7 @@
 | [tomvita/nxcheatcode](https://github.com/tomvita/nxcheatcode) | ? | 092526 | 2026-09-25 | titles.zip, version.txt |
 | [tukwk/switchcloud](https://github.com/tukwk/switchcloud) | 0 | v0.1.0 | 2026-11-23 | README.md, README.ru.md, scswitch.nro |
 | [werwolv/edizon](https://github.com/werwolv/edizon) | ? | v3.1.0 | 2022-01-16 | EdiZon.nro, ovlEdiZon.ovl |
-| [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.0.1 | 2026-11-25 | SHA256SUMS.txt, WarpPoint-1.0.1.dmg, WarpPoint-Switch-1.0.1.zip |
+| [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.3.0 | 2026-11-26 | SHA256SUMS.txt, WarpPoint-1.3.0.dmg, WarpPoint-Switch-1.3.0.zip |
 | [xhu96/Switch7zip](https://github.com/xhu96/Switch7zip) | 0 | v0.9.11-pre | 2026-05-09 | Switch7zip.nro |
 | [xiefengdaxia/UURemote-ns-switch](https://github.com/xiefengdaxia/UURemote-ns-switch) | 0 | v0.1.64 | 2026-11-14 | UURemote-ns-0.1.64-switch.zip |
 | [ybx77/switch-cloud-sync](https://github.com/ybx77/switch-cloud-sync) | 1 | new | 2026-11-03 | switch-cloud-sync.nro |
