@@ -44,17 +44,24 @@
     "han_present": 7356,
     "latin_review": 2
   },
-  "validation": "Equivalent in-memory transformation against the complete existing catalog, all 7358 entries. The 42 reviewed summaries preserve the original and are not full translations. Generated file upload failed; the existing catalog blob is unchanged. The Python reproduction script and tests are provided; native Switch build and actual full Python generation are pending.",
+  "validation": "Equivalent in-memory transformation against the complete existing catalog, all 7358 entries. The 42 reviewed summaries preserve the original and are not full translations. Generated file upload failed; the existing catalog blob is unchanged. The Python reproduction script and tests are provided; native Switch build and actual full Python generation are pending. Seventeen unit tests covering the exact committed Python helpers passed on the host, and seventeen standalone C++ language metadata assertions passed. The integration builder, full native NRO build and live translation service remain unverified.",
   "local_test_results": {
-    "reviewed_metadata_and_audit_python_tests": {
-      "passed": 9,
-      "failed": 0,
-      "source_blobs_verified": true
-    },
     "language_metadata_cpp_assertions": {
       "passed": 17,
       "failed": 0,
       "source_blobs_verified": true
+    },
+    "python_unit_tests": {
+      "passed": 17,
+      "failed": 0,
+      "source_blobs_verified": true,
+      "suites": [
+        "audit_localization",
+        "catalog_display_terms",
+        "catalog_reviewed_metadata",
+        "homebrew_localization",
+        "regenerate_zh_hans_display"
+      ]
     }
   }
 }
