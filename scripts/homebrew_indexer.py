@@ -43,6 +43,8 @@ import urllib.request
 import zipfile
 from pathlib import Path
 
+from homebrew_localization import apply_zh_hans
+
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "homebrew-sources.json"
 OUTPUT_FILE = ROOT / "homebrew.json"
@@ -742,6 +744,8 @@ def main() -> int:
         "fortheusers": dict(sorted(ftu_meta.items())),
         "packages": sorted(unique, key=lambda p: p["name"].lower()),
     }
+    zh_hans = json.loads((DATA_DIR / "descriptions_zh_hans.json").read_text(encoding="utf-8"))
+    log(f"zh-Hans descriptions: {apply_zh_hans(out, zh_hans)}")
     OUTPUT_FILE.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")

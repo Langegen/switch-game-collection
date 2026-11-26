@@ -18,12 +18,12 @@
   "UltrahandOverlay"
  ],
  "fortheusers": {
-  "100boxesNX": {
+  "2048": {
    "kinds": [
     "app"
    ]
   },
-  "2048": {
+  "100boxesNX": {
    "kinds": [
     "app"
    ]
@@ -243,7 +243,8 @@
     "app"
    ],
    "description_i18n": {
-    "ru": "Резервные копии и восстановление сохранений"
+    "ru": "Резервные копии и восстановление сохранений",
+    "zh-Hans": "游戏存档备份与恢复工具。"
    }
   },
   "CheezitTheGame": {
@@ -391,7 +392,8 @@
     "overlay"
    ],
    "description_i18n": {
-    "ru": "Оверлей с читами"
+    "ru": "Оверлей с читами",
+    "zh-Hans": "游戏金手指管理悬浮界面。"
    }
   },
   "Edizon": {
@@ -537,7 +539,8 @@
     "app"
    ],
    "description_i18n": {
-    "ru": "Установщик NSP, файловый менеджер, управление контентом"
+    "ru": "Установщик NSP, файловый менеджер, управление контентом",
+    "zh-Hans": "本地软件内容管理及文件浏览工具。"
    }
   },
   "GuitarNX": {
@@ -785,7 +788,8 @@
     "sysmodule"
    ],
    "description_i18n": {
-    "ru": "Геймпады PS, Xbox и других по Bluetooth"
+    "ru": "Геймпады PS, Xbox и других по Bluetooth",
+    "zh-Hans": "通过蓝牙连接 PlayStation、Xbox 等第三方手柄。"
    }
   },
   "Mod_Manager": {
@@ -898,7 +902,8 @@
     "app"
    ],
    "description_i18n": {
-    "ru": "Установка тем главного меню"
+    "ru": "Установка тем главного меню",
+    "zh-Hans": "Switch HOME 菜单主题管理工具。"
    }
   },
   "NaziZombiesPortable": {
@@ -1267,7 +1272,8 @@
     "overlay"
    ],
    "description_i18n": {
-    "ru": "Оверлей: частоты, температура, FPS"
+    "ru": "Оверлей: частоты, температура, FPS",
+    "zh-Hans": "悬浮显示频率、温度及帧率等性能信息。"
    }
   },
   "StreamFinEX": {
@@ -1527,7 +1533,8 @@
     "sysmodule"
    ],
    "description_i18n": {
-    "ru": "Меню оверлеев (замена Tesla)"
+    "ru": "Меню оверлеев (замена Tesla)",
+    "zh-Hans": "悬浮菜单管理器，可作为 Tesla 菜单的替代方案。"
    }
   },
   "Unlucky": {
@@ -1759,7 +1766,8 @@
   "emuiibo": {
    "kinds": [],
    "description_i18n": {
-    "ru": "Виртуальные amiibo"
+    "ru": "Виртуальные amiibo",
+    "zh-Hans": "虚拟 amiibo 管理系统模块。"
    }
   },
   "emummc-toggle": {
@@ -1812,7 +1820,8 @@
     "app"
    ],
    "description_i18n": {
-    "ru": "FTP-сервер для доступа к карте с ПК"
+    "ru": "FTP-сервер для доступа к карте с ПК",
+    "zh-Hans": "通过 FTP 在局域网中访问 SD 卡文件。"
    }
   },
   "ftpsrv": {
@@ -1936,7 +1945,8 @@
     "app"
    ],
    "description_i18n": {
-    "ru": "Резервные копии сохранений с облаком"
+    "ru": "Резервные копии сохранений с облаком",
+    "zh-Hans": "游戏存档备份、恢复及云端存档管理工具。"
    }
   },
   "julius": {
@@ -1981,7 +1991,8 @@
     "sysmodule"
    ],
    "description_i18n": {
-    "ru": "Локальная игра по сети через LAN"
+    "ru": "Локальная игра по сети через LAN",
+    "zh-Hans": "局域网联机辅助系统模块。"
    }
   },
   "lennytube": {
@@ -2120,7 +2131,8 @@
     "sysmodule"
    ],
    "description_i18n": {
-    "ru": "Загрузчик оверлеев"
+    "ru": "Загрузчик оверлеев",
+    "zh-Hans": "悬浮界面加载器。"
    }
   },
   "nx-vr": {
@@ -2384,7 +2396,8 @@
     "app"
    ],
    "description_i18n": {
-    "ru": "Меню хоумбрю с FTP, MTP и установкой игр"
+    "ru": "Меню хоумбрю с FTP, MTP и установкой игр",
+    "zh-Hans": "自制软件菜单与文件管理工具，支持 FTP 和 MTP 文件传输。"
    }
   },
   "sporegram": {
@@ -2638,7 +2651,8 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/aio-switch-updater.jpg",
    "description_i18n": {
-    "ru": "Обновление CFW, читов и файлов прошивки"
+    "ru": "Обновление CFW, читов и файлов прошивки",
+    "zh-Hans": "集中更新自制系统、金手指及固件文件的工具。"
    }
   },
   {
@@ -2662,7 +2676,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/atmosphere-updater.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "Atmosphère 自制系统更新工具（开发中的项目）。"
+   }
   },
   {
    "name": "battery_desync_fix_nx",
@@ -2685,7 +2702,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/battery_desync_fix_nx.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "用于修复 Switch 电池电量显示与实际电量不同步的问题。"
+   }
   },
   {
    "name": "BM64Switch",
@@ -2709,7 +2729,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/BM64Switch.jpg",
    "license": "GPL-3.0",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "《炸弹人64》原生移植版，采用静态重编译和 libultraship 渲染；需自行提供合法拥有的原版游戏文件。"
+   }
   },
   {
    "name": "Checkpoint",
@@ -2733,7 +2756,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Checkpoint.jpg",
    "license": "GPL-3.0",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "适用于 3DS 和 Switch 的轻量化游戏存档管理工具，支持备份和恢复。"
+   }
   },
   {
    "name": "COLD-FEAR-NX-PORT",
@@ -2757,7 +2783,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/COLD-FEAR-NX-PORT.jpg",
    "license": "MIT",
    "auto": true,
-   "first_seen": "2026-11-12"
+   "first_seen": "2026-11-12",
+   "description_i18n": {
+    "zh-Hans": "《Cold Fear》Xbox 版的 Switch 原生移植项目，支持陀螺仪瞄准，使用 Vulkan/NVK 渲染。"
+   }
   },
   {
    "name": "comicreaderswitch",
@@ -2780,7 +2809,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/comicreaderswitch.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "离线漫画阅读器，支持 CBZ、CBR 格式、封面浏览和阅读进度记录。"
+   }
   },
   {
    "name": "ctr-nxwallet",
@@ -2803,7 +2835,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ctr-nxwallet.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "用于保存和查看会员卡、活动门票等二维码的轻量工具。"
+   }
   },
   {
    "name": "DarkTube",
@@ -2826,7 +2861,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/DarkTube.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "Switch 自制软件平台的第三方 YouTube 播放器。"
+   }
   },
   {
    "name": "dbipatcher",
@@ -2849,7 +2887,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/dbipatcher.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "用于为 DBI 制作和应用其他语言翻译的项目。"
+   }
   },
   {
    "name": "easypm",
@@ -2872,7 +2913,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/easypm.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "简化 Switch 关机和重启操作的电源菜单工具。"
+   }
   },
   {
    "name": "exefsmanager",
@@ -2895,7 +2939,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/exefsmanager.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "管理 ExeFS 模组的启用和停用状态。"
+   }
   },
   {
    "name": "Ferry-Switch",
@@ -2919,7 +2966,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Ferry-Switch.jpg",
    "license": "GPL-3.0",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "Switch FTP 服务与文件浏览工具，支持在局域网中管理设备文件。"
+   }
   },
   {
    "name": "Fizeau",
@@ -2977,7 +3027,8 @@
    "zip_root": "Fizeau-2.8.3-5bf3f0d/",
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Fizeau.jpg",
    "description_i18n": {
-    "ru": "Цветовая температура, гамма и насыщенность экрана"
+    "ru": "Цветовая температура, гамма и насыщенность экрана",
+    "zh-Hans": "调整屏幕色温、伽马和饱和度。"
    }
   },
   {
@@ -3001,7 +3052,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ftpd4sxos.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "FTP 文件传输服务工具。"
+   }
   },
   {
    "name": "fuck-u",
@@ -3024,7 +3078,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/fuck-u.png",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "在 Switch 屏幕显示一句英文粗俗用语的演示程序。"
+   }
   },
   {
    "name": "GameTime-Tracker",
@@ -3048,7 +3105,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/GameTime-Tracker.jpg",
    "license": "NOASSERTION",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "记录并统计 Switch 已安装游戏的游玩时长。"
+   }
   },
   {
    "name": "getnetworkpass",
@@ -3071,7 +3131,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/getnetworkpass.jpg",
    "auto": true,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-11",
+   "description_i18n": {
+    "zh-Hans": "用于查看当前连接网络信息的维护工具；请仅在有权管理的网络上使用。"
+   }
   },
   {
    "name": "green-nx",
@@ -3094,7 +3157,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/green-nx.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "第三方 Xbox Cloud Gaming 客户端，采用 WebRTC 串流和硬件视频解码。"
+   }
   },
   {
    "name": "haku33",
@@ -3117,7 +3183,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/haku33.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "Switch 系统重置工具。重置可能造成数据丢失，使用前务必备份。"
+   }
   },
   {
    "name": "Hekate-Toolbox",
@@ -3140,7 +3209,8 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Hekate-Toolbox.jpg",
    "description_i18n": {
-    "ru": "Перезагрузка в Hekate и переключение системных модулей"
+    "ru": "Перезагрузка в Hekate и переключение системных модулей",
+    "zh-Hans": "Hekate 维护工具，支持选择重启配置及管理系统模块。"
    }
   },
   {
@@ -3165,7 +3235,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/HomeTile-switch.jpg",
    "license": "GPL-3.0",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "在 Switch HOME 菜单管理 NRO 自制软件快捷启动器。"
+   }
   },
   {
    "name": "icongrabber",
@@ -3188,7 +3261,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/icongrabber.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "第三方 SteamGridDB 图标浏览工具，用于管理自定义软件图标。"
+   }
   },
   {
    "name": "incognito",
@@ -3211,7 +3287,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/incognito.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "Switch 设备个人信息维护工具。可能改变重要系统数据，使用前须充分了解风险并备份。"
+   }
   },
   {
    "name": "iptv-player",
@@ -3235,7 +3314,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/iptv-player.jpg",
    "license": "GPL-3.0",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "支持 Xtream Codes 账户及 M3U 播放列表的 IPTV 播放器；请使用有权访问的媒体服务。"
+   }
   },
   {
    "name": "joy-con_utility",
@@ -3258,7 +3340,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/joy-con_utility.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "Joy-Con 手柄固件维护工具，涉及固件操作时应注意备份和硬件风险。"
+   }
   },
   {
    "name": "Kirikiroid2-NX",
@@ -3282,7 +3367,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Kirikiroid2-NX.jpg",
    "license": "NOASSERTION",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "Kirikiroid2 视觉小说运行引擎的 Switch 移植版。"
+   }
   },
   {
    "name": "LANHelper",
@@ -3305,7 +3393,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/LANHelper.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "用于 Nintendo Switch LAN Play 网络环境的 IP 地址辅助工具。"
+   }
   },
   {
    "name": "ligh_is_green",
@@ -3328,7 +3419,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ligh_is_green.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "Switch 第三方 Xbox Cloud Gaming 客户端，采用原生 WebRTC。"
+   }
   },
   {
    "name": "mc3_nx",
@@ -3352,7 +3446,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/mc3_nx.jpg",
    "license": "MIT",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "《Modern Combat 3: Fallen Nation》Android 版的 Switch 原生移植项目。"
+   }
   },
   {
    "name": "mhgu-overlay",
@@ -3375,7 +3472,10 @@
    ],
    "license": "MIT",
    "auto": true,
-   "first_seen": "2026-11-12"
+   "first_seen": "2026-11-12",
+   "description_i18n": {
+    "zh-Hans": "《怪物猎人GU》的悬浮信息工具，提供怪物信息、伤害显示和游玩辅助。"
+   }
   },
   {
    "name": "ModKitNX",
@@ -3399,7 +3499,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ModKitNX.jpg",
    "license": "GPL-3.0",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "Switch 游戏兼容性与模组管理工具；具体支持情况以项目说明为准。"
+   }
   },
   {
    "name": "n1dus",
@@ -3422,7 +3525,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/n1dus.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "NSP、XCI 文件的本地管理与格式转换工具；操作前请备份数据。"
+   }
   },
   {
    "name": "netsurf-switch",
@@ -3445,7 +3551,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/netsurf-switch.jpg",
    "auto": true,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-11",
+   "description_i18n": {
+    "zh-Hans": "NetSurf 浏览器引擎的 Switch 移植版，采用 SDL2 前端。"
+   }
   },
   {
    "name": "notes",
@@ -3468,7 +3577,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/notes.jpg",
    "auto": true,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-11",
+   "description_i18n": {
+    "zh-Hans": "Switch 上的简易便笺工具。"
+   }
   },
   {
    "name": "nslibrary",
@@ -3492,7 +3604,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nslibrary.jpg",
    "license": "Apache-2.0",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "用于管理个人合法备份的自托管 Switch 软件库，支持文件扫描、元数据整理和重复项检查。"
+   }
   },
   {
    "name": "nsw-fetch",
@@ -3515,7 +3630,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nsw-fetch.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "Switch 版 Neofetch，用于展示设备及系统信息。"
+   }
   },
   {
    "name": "NX-Activity-Log",
@@ -3538,7 +3656,8 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/NX-Activity-Log.jpg",
    "description_i18n": {
-    "ru": "Статистика времени в играх"
+    "ru": "Статистика времени в играх",
+    "zh-Hans": "查看各游戏的累计游玩时长及游玩记录。"
    }
   },
   {
@@ -3562,7 +3681,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-archive-browser.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "用于在 Switch 上浏览 Internet Archive 公开档案的工具；请遵守内容使用许可。"
+   }
   },
   {
    "name": "nx-deviceid-viewer",
@@ -3585,7 +3707,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-deviceid-viewer.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "查看设备标识信息的工具；请妥善保护导出的设备信息。"
+   }
   },
   {
    "name": "nx-midi",
@@ -3608,7 +3733,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-midi.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "在 Switch 上播放 MIDI 音乐文件。"
+   }
   },
   {
    "name": "nx-ovlloader",
@@ -3635,7 +3763,8 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-ovlloader.jpg",
    "description_i18n": {
-    "ru": "Загрузчик оверлеев"
+    "ru": "Загрузчик оверлеев",
+    "zh-Hans": "用于加载悬浮界面的后台系统模块。"
    }
   },
   {
@@ -3659,7 +3788,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx-torrent-player-mod.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "Switch 上的第三方 Stremio 媒体客户端项目。"
+   }
   },
   {
    "name": "nx.js",
@@ -3682,7 +3814,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nx.js.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "用于开发及运行 Switch 自制软件的 JavaScript 运行时。"
+   }
   },
   {
    "name": "NxNow",
@@ -3706,7 +3841,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/NxNow.jpg",
    "license": "MIT",
    "auto": true,
-   "first_seen": "2026-11-24"
+   "first_seen": "2026-11-24",
+   "description_i18n": {
+    "zh-Hans": "第三方 GeForce NOW 云游戏客户端，支持虚拟键盘和鼠标模式；与 NVIDIA、任天堂无官方关联。"
+   }
   },
   {
    "name": "nxpotify",
@@ -3729,7 +3867,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/nxpotify.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "Switch 上的非官方 Spotify Connect 客户端。"
+   }
   },
   {
    "name": "ovlSysmodule",
@@ -3751,7 +3892,8 @@
     "U: switch/.overlays/ovl-sysmodules.ovl"
    ],
    "description_i18n": {
-    "ru": "Оверлей: включение и выключение системных модулей"
+    "ru": "Оверлей: включение и выключение системных модулей",
+    "zh-Hans": "在悬浮菜单中管理后台系统模块的启用状态。"
    }
   },
   {
@@ -3775,7 +3917,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/pokemontv.jpg",
    "auto": true,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-11",
+   "description_i18n": {
+    "zh-Hans": "非官方 Pokémon TV 网站及客户端项目。"
+   }
   },
   {
    "name": "RadioNX",
@@ -3799,7 +3944,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/RadioNX.jpg",
    "license": "GPL-3.0",
    "auto": true,
-   "first_seen": "2026-11-18"
+   "first_seen": "2026-11-18",
+   "description_i18n": {
+    "zh-Hans": "互联网电台播放器，支持收听不同地区的网络广播。"
+   }
   },
   {
    "name": "readernx",
@@ -3822,7 +3970,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/readernx.jpg",
    "auto": true,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-11",
+   "description_i18n": {
+    "zh-Hans": "轻量电子书阅读器，支持 PDF、EPUB 及漫画格式，并支持 Wi-Fi 文件上传。"
+   }
   },
   {
    "name": "reset-parental-controls-nx",
@@ -3845,7 +3996,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/reset-parental-controls-nx.jpg",
    "auto": true,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-11",
+   "description_i18n": {
+    "zh-Hans": "家长控制设置维护工具；仅供设备管理者在授权范围内使用。"
+   }
   },
   {
    "name": "RESIDENT-CODE-VERONICA-NX-PORT",
@@ -3869,7 +4023,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/RESIDENT-CODE-VERONICA-NX-PORT.jpg",
    "license": "MIT",
    "auto": true,
-   "first_seen": "2026-11-16"
+   "first_seen": "2026-11-16",
+   "description_i18n": {
+    "zh-Hans": "《生化危机：代号维罗妮卡X》的 Switch 原生移植项目，原项目不包含游戏文件。"
+   }
   },
   {
    "name": "shallowsea-toolbox",
@@ -3892,7 +4049,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/shallowsea-toolbox.jpg",
    "auto": true,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-11",
+   "description_i18n": {
+    "zh-Hans": "ShallowSea 自制系统整合包更新维护工具。"
+   }
   },
   {
    "name": "sharedfontdumper",
@@ -3915,7 +4075,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/sharedfontdumper.jpg",
    "auto": true,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-11",
+   "description_i18n": {
+    "zh-Hans": "用于导出 Switch 系统共享字体的工具；请遵守字体授权。"
+   }
   },
   {
    "name": "smt5-save-editor",
@@ -3938,7 +4101,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/smt5-save-editor.jpg",
    "auto": true,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-11",
+   "description_i18n": {
+    "zh-Hans": "《真·女神转生V》存档编辑器，修改前建议备份存档。"
+   }
   },
   {
    "name": "stardust-toolkit",
@@ -3961,7 +4127,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/stardust-toolkit.jpg",
    "auto": true,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-10",
+   "description_i18n": {
+    "zh-Hans": "StarDustCFW 更新维护工具。"
+   }
   },
   {
    "name": "StreamFin",
@@ -3985,7 +4154,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/StreamFin.jpg",
    "license": "Apache-2.0",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "支持 Stremio 扩展协议的第三方媒体串流客户端，源自 Switchfin。"
+   }
   },
   {
    "name": "StremNX",
@@ -4009,7 +4181,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/StremNX.jpg",
    "license": "GPL-3.0",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "非官方 Stremio 客户端，提供媒体播放和账户同步等功能。"
+   }
   },
   {
    "name": "Switch-Super-Installer",
@@ -4033,7 +4208,10 @@
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Switch-Super-Installer.jpg",
    "license": "GPL-3.0",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "Switch 自制软件内容管理工具，基于 TinWoo 和 Awoo Installer 开发。"
+   }
   },
   {
    "name": "switchiptv",
@@ -4056,7 +4234,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/switchiptv.jpg",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "支持 M3U、Xtream Codes、节目单、收藏及播放历史的 IPTV 播放器。"
+   }
   },
   {
    "name": "sys-clk-editor",
@@ -4079,7 +4260,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/sys-clk-editor.jpg",
    "auto": true,
-   "first_seen": "2026-11-12"
+   "first_seen": "2026-11-12",
+   "description_i18n": {
+    "zh-Hans": "用于编辑 sys-clk 频率配置的工具；调整频率时注意设备稳定性。"
+   }
   },
   {
    "name": "sys-patch",
@@ -4104,7 +4288,8 @@
     "U: switch/.overlays/sys-patch-overlay.ovl"
    ],
    "description_i18n": {
-    "ru": "Системный модуль с патчами fs, es, ldr, nim"
+    "ru": "Системный модуль с патчами fs, es, ldr, nim",
+    "zh-Hans": "开机时运行的系统补丁模块；修改系统组件前请核对兼容性。"
    }
   },
   {
@@ -4132,7 +4317,8 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/syscon1x2024.jpg",
    "description_i18n": {
-    "ru": "Поддержка сторонних USB-геймпадов"
+    "ru": "Поддержка сторонних USB-геймпадов",
+    "zh-Hans": "提供第三方 USB 游戏手柄支持的系统模块。"
    }
   },
   {
@@ -4156,7 +4342,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/tencent-switcher-gui.jpg",
    "auto": true,
-   "first_seen": "2026-11-12"
+   "first_seen": "2026-11-12",
+   "description_i18n": {
+    "zh-Hans": "用于维护腾讯版 Switch 系统区域相关设置的图形化工具。"
+   }
   },
   {
    "name": "ticobro",
@@ -4179,7 +4368,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ticobro.jpg",
    "auto": true,
-   "first_seen": "2026-11-12"
+   "first_seen": "2026-11-12",
+   "description_i18n": {
+    "zh-Hans": "TicoHQ 综合管理工具。"
+   }
   },
   {
    "name": "tinleaf",
@@ -4202,7 +4394,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/tinleaf.jpg",
    "auto": true,
-   "first_seen": "2026-11-12"
+   "first_seen": "2026-11-12",
+   "description_i18n": {
+    "zh-Hans": "Switch 本地 NSP、NSZ、XCI、XCZ 内容管理工具。"
+   }
   },
   {
    "name": "TinWoo",
@@ -4225,7 +4420,8 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/TinWoo.jpg",
    "description_i18n": {
-    "ru": "Установщик NSP, NSZ и XCI"
+    "ru": "Установщик NSP, NSZ и XCI",
+    "zh-Hans": "Switch 本地 NSP、NSZ、XCI 内容管理工具。"
    }
   },
   {
@@ -4249,7 +4445,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/title-deleter.jpg",
    "auto": true,
-   "first_seen": "2026-11-12"
+   "first_seen": "2026-11-12",
+   "description_i18n": {
+    "zh-Hans": "用于移除指定软件内容的维护工具；删除前应确认目标并备份。"
+   }
   },
   {
    "name": "tmcexplorer-nx",
@@ -4272,7 +4471,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/tmcexplorer-nx.jpg",
    "auto": true,
-   "first_seen": "2026-11-12"
+   "first_seen": "2026-11-12",
+   "description_i18n": {
+    "zh-Hans": "Nintendo Switch 文件浏览器。"
+   }
   },
   {
    "name": "totk-save-editor-app",
@@ -4295,7 +4497,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/totk-save-editor-app.jpg",
    "auto": true,
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-15",
+   "description_i18n": {
+    "zh-Hans": "《塞尔达传说：王国之泪》存档编辑工具，支持角色属性、物品及其他存档数据管理。"
+   }
   },
   {
    "name": "uberhand-overlay",
@@ -4317,7 +4522,10 @@
     "U: switch/.overlays/uberhand-overlay.ovl"
    ],
    "auto": true,
-   "first_seen": "2026-11-12"
+   "first_seen": "2026-11-12",
+   "description_i18n": {
+    "zh-Hans": "可自定义的悬浮操作菜单框架。"
+   }
   },
   {
    "name": "ue4cfgdumper",
@@ -4340,7 +4548,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/ue4cfgdumper.jpg",
    "auto": true,
-   "first_seen": "2026-11-12"
+   "first_seen": "2026-11-12",
+   "description_i18n": {
+    "zh-Hans": "供开发者分析 Unreal Engine 游戏图形配置的辅助工具。"
+   }
   },
   {
    "name": "UltrahandOverlay",
@@ -4404,7 +4615,8 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/UltrahandOverlay.jpg",
    "description_i18n": {
-    "ru": "Меню оверлеев (замена Tesla)"
+    "ru": "Меню оверлеев (замена Tesla)",
+    "zh-Hans": "悬浮菜单及工具包管理器，可作为 Tesla 菜单的替代方案。"
    }
   },
   {
@@ -4428,7 +4640,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/upcomingswitchgames.jpg",
    "auto": true,
-   "first_seen": "2026-11-12"
+   "first_seen": "2026-11-12",
+   "description_i18n": {
+    "zh-Hans": "查看即将推出的 Switch 游戏信息。"
+   }
   },
   {
    "name": "Weather-and-Moon-Phase-app-for-Nintendo-Switch",
@@ -4451,7 +4666,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Weather-and-Moon-Phase-app-for-Nintendo-Switch.png",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "Switch 天气及月相查询工具。"
+   }
   },
   {
    "name": "Weather-app-for-Nintendo-Switch",
@@ -4474,7 +4692,10 @@
    ],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/Weather-app-for-Nintendo-Switch.png",
    "auto": true,
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-09",
+   "description_i18n": {
+    "zh-Hans": "查询当前天气、气温及天气状况的工具。"
+   }
   }
  ]
 }
