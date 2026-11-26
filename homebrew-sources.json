@@ -84,6 +84,28 @@
    "repo": "WerWolv/ovl-sysmodules",
    "description": "Overlay to toggle sysmodules",
    "description_i18n": { "ru": "Оверлей: включение и выключение системных модулей" }
+  },
+  {
+   "provider": "gitlab",
+   "repo": "ismaellozanoperezserrano/hacbrewpacklz",
+   "project_id": 88310088,
+   "name": "hacbrewpacklz",
+   "title": "hacBrewPackLZ",
+   "asset": "*.nro",
+   "dest": "switch/hacbrewpacklz.nro",
+   "description": "Experimental LZ4 compression utility for compatible, legally owned Switch software. Back up important data before use.",
+   "description_i18n": {
+    "zh-Hans": "实验性 Switch LZ4 压缩工具，用于兼容且合法拥有的软件。使用前请备份重要数据。",
+    "ru": "Экспериментальная утилита сжатия LZ4 для совместимого легально приобретённого ПО Switch. Перед использованием сохраните резервную копию.",
+    "ja": "対応する正規所有のSwitchソフトウェア向けの実験的なLZ4圧縮ツール。使用前に重要なデータをバックアップしてください。",
+    "es": "Herramienta experimental de compresión LZ4 para software compatible de Switch adquirido legalmente. Haz una copia de seguridad antes de usarla.",
+    "fr": "Outil expérimental de compression LZ4 pour les logiciels Switch compatibles détenus légalement. Sauvegardez les données importantes avant utilisation.",
+    "de": "Experimentelles LZ4-Komprimierungswerkzeug für kompatible, rechtmäßig erworbene Switch-Software. Vor der Verwendung wichtige Daten sichern.",
+    "it": "Strumento sperimentale di compressione LZ4 per software Switch compatibile e legalmente posseduto. Eseguire un backup dei dati importanti prima dell'uso.",
+    "pt-BR": "Utilitário experimental de compactação LZ4 para software Switch compatível e adquirido legalmente. Faça backup dos dados importantes antes de usar.",
+    "hu": "Kísérleti LZ4 tömörítőeszköz kompatibilis, jogszerűen birtokolt Switch szoftverekhez. Használat előtt készítsen biztonsági mentést.",
+    "ar": "أداة تجريبية لضغط LZ4 لبرامج Switch المتوافقة والمملوكة قانونيًا. انسخ البيانات المهمة احتياطيًا قبل الاستخدام."
+   }
   }
  ]
 }
