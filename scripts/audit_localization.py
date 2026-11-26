@@ -19,6 +19,8 @@ def classify(value, locale):
     if value is None or not str(value).strip() or str(value).strip().lower() in PLACEHOLDERS:
         return "missing"
     text = str(value).strip()
+    if locale.lower().replace("_", "-").startswith("zh") and text.startswith("中文摘要（保留原文）："):
+        return "summary_with_original"
     if NEUTRAL.fullmatch(text):
         return "neutral"
     if not locale.lower().startswith("ru") and CYRILLIC.search(text):
@@ -52,7 +54,7 @@ def audit_catalog(data, locale, include_indices=False):
                 raise ValueError(f"Invalid catalog entry at index {i}")
             category = classify(row.get(field), locale)
             counts[category] += 1
-            if include_indices and (category.endswith("_review") or category == "missing"):
+            if include_indices and (category.endswith("_review") or category in ("missing", "summary_with_original")):
                 review.append(i)
         result["fields"][field] = dict(sorted(counts.items()))
         if include_indices:

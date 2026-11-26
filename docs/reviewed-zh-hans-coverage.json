@@ -1,0 +1,15 @@
+{
+  "source_catalog_blob": "0a1b0381132c6846607cc951e3da8d7e649a5061",
+  "records": 7358,
+  "matched_reviewed_title_records": 42,
+  "changed_display_fields": {
+    "title": 42,
+    "description": 42,
+    "developer": 169,
+    "publisher": 428
+  },
+  "changed_records": 538,
+  "protected_field_comparisons": 58864,
+  "protected_field_differences": 0,
+  "method": "Equivalent in-memory application of exact title-ID + title alias, source-preserving summaries and exact company-name aliases to the actual catalog. No full catalog regeneration; the 42 summaries are not full translations. Python unit tests added, execution pending."
+}

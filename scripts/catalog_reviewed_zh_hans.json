@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "scope": "Reviewed common Chinese display names and short factual summaries; not a claim of full or official translations. Exact base title + verified title ID. Existing source description and title are retained.",
+  "titles": {
+    "the legend of zelda: breath of the wild (botw) + the master trials and the champions ballad": {
+      "title_ids": [
+        "01007EF00011F000"
+      ],
+      "display_name": "塞尔达传说：旷野之息",
+      "summary": "在广阔的海拉鲁世界自由探索、解谜和冒险，逐步发现这片土地的秘密。"
+    },
+    "the witcher 3: wild hunt - complete edition": {
+      "title_ids": [
+        "01003D100E9C6000",
+        "0100A0800E9C4000"
+      ],
+      "display_name": "巫师3：狂猎 完整版",
+      "summary": "扮演来自利维亚的猎魔人杰洛特，在战乱中的奇幻世界追寻希里、狩猎怪物并面对艰难抉择。"
+    },
+    "hollow knight silksong": {
+      "title_ids": [
+        "010013C00E930000"
+      ],
+      "display_name": "空洞骑士：丝之歌",
+      "summary": "扮演大黄蜂，在陌生而危险的王国中探索、战斗并发现隐藏的秘密。"
+    },
+    "dragon quest builders / dragon quest builders 2": {
+      "title_ids": [
+        "010042000A986000"
+      ],
+      "display_name": "勇者斗恶龙：建造者 1、2",
+      "summary": "结合角色扮演与沙盒建造玩法，收集材料、建设世界并展开冒险。"
+    },
+    "stardew valley": {
+      "title_ids": [
+        "0100E65002BB8000"
+      ],
+      "display_name": "星露谷物语",
+      "summary": "继承祖父留下的农场，利用手中的工具和资金开垦土地，逐步建立自己的乡村生活。"
+    },
+    "katana zero": {
+      "title_ids": [
+        "010029600D56A000"
+      ],
+      "display_name": "武士零",
+      "summary": "以高速动作与时间操控为核心的横版游戏，通过闪避、战斗和探索揭开主角过去的秘密。"
+    },
+    "the binding of isaac: afterbirth plus / repentance": {
+      "title_ids": [
+        "010021C000B6A000"
+      ],
+      "display_name": "以撒的结合：胎衣+／忏悔",
+      "summary": "融合俯视角射击、动作冒险与 Roguelike 随机地牢玩法的游戏。"
+    },
+    "hades": {
+      "title_ids": [
+        "0100535012974000"
+      ],
+      "display_name": "黑帝斯",
+      "summary": "扮演冥界王子，借助武器和奥林匹斯诸神的力量不断尝试逃离冥界。"
+    },
+    "monster hunter rise (mhr) + sunbreak + 264 dlc": {
+      "title_ids": [
+        "0100B04011742000"
+      ],
+      "display_name": "怪物猎人：崛起／曙光",
+      "summary": "在富有日本风情的区域展开狩猎，探索环境并挑战各种强大的怪物。"
+    },
+    "dead cells + return to castlevania, the queen and the sea, fatal falls, the bad seed, rise of the giant dlc": {
+      "title_ids": [
+        "0100646009FBE000"
+      ],
+      "display_name": "死亡细胞",
+      "summary": "扮演炼金实验产生的特殊生命，在不断变化的岛屿中探索并借助不同身体进行战斗。"
+    },
+    "octopath traveler 0 (zero)": {
+      "title_ids": [
+        "01005270232F2000"
+      ],
+      "display_name": "歧路旅人0",
+      "summary": "围绕神秘戒指展开一段关于重建、复仇和冒险的角色扮演故事。"
+    },
+    "tomb raider (2013) definitive edition": {
+      "title_ids": [
+        "0100092021C80000"
+      ],
+      "display_name": "古墓丽影（2013）决定版",
+      "summary": "劳拉在日本附近海域的探险中遭遇风暴，随后必须在险境中求生并探索岛屿。"
+    },
+    "tomb raider definitive edition": {
+      "title_ids": [
+        "0100092021C80000"
+      ],
+      "display_name": "古墓丽影 决定版",
+      "summary": "劳拉在日本附近海域的探险中遭遇风暴，随后必须在险境中求生并探索岛屿。"
+    },
+    "ori and the blind forest: definitive edition": {
+      "title_ids": [
+        "010061D00DB74000"
+      ],
+      "display_name": "奥日与黑暗森林 决定版",
+      "summary": "小小的精灵奥日为拯救遭受灾难的尼博尔森林而展开平台跳跃冒险。"
+    },
+    "cuphead + the delicious last course dlc": {
+      "title_ids": [
+        "0100A5C00D162000"
+      ],
+      "display_name": "茶杯头",
+      "summary": "以首领战为主要玩法的经典动作平台游戏，画面和音乐采用复古动画风格。"
+    },
+    "bioshock 2": {
+      "title_ids": [
+        "01002620102C6000"
+      ],
+      "display_name": "生化奇兵2",
+      "summary": "扮演大老爹原型德尔塔，在水下城市销魂城寻找与自己命运相连的小妹妹。"
+    },
+    "bioshock": {
+      "title_ids": [
+        "0100AD10102B2000"
+      ],
+      "display_name": "生化奇兵",
+      "summary": "探索遭遇灾难的水下城市销魂城，在危机四伏的环境中求生并了解这座城市的历史。"
+    },
+    "bioshock infinite": {
+      "title_ids": [
+        "0100D560102C8000"
+      ],
+      "display_name": "生化奇兵：无限",
+      "summary": "私家侦探布克前往空中城市哥伦比亚，寻找并营救拥有神秘能力的伊丽莎白。"
+    },
+    "final fantasy x (10) hd remaster": {
+      "title_ids": [
+        "0100BC300CB48000"
+      ],
+      "display_name": "最终幻想X 高清重制版",
+      "summary": "以提达及其旅伴的冒险为核心的经典角色扮演游戏高清版本。"
+    },
+    "diablo iii: eternal collection": {
+      "title_ids": [
+        "01001B300B9BF000"
+      ],
+      "display_name": "暗黑破坏神III：永恒之战版",
+      "summary": "在天使与恶魔冲突的世界中展开战斗，挑战怪物并探索奇幻冒险。"
+    },
+    "minecraft nintendo switch edition + 38 dlc": {
+      "title_ids": [
+        "01006BD001E06000"
+      ],
+      "display_name": "我的世界",
+      "summary": "在由方块组成的随机世界中探索、建造和冒险，也可在创造模式下自由发挥创意。"
+    },
+    "layton's mystery journey katrielle and the millionaires' conspiracy deluxe edition": {
+      "title_ids": [
+        "0100FB700D224000"
+      ],
+      "display_name": "雷顿的神秘之旅：卡特莉艾尔与大富翁的阴谋 豪华版",
+      "summary": "跟随卡特莉艾尔调查伦敦的谜题和案件，寻找关于失踪父亲的线索。"
+    },
+    "darksiders: warmastered edition": {
+      "title_ids": [
+        "0100E1400BA96000"
+      ],
+      "display_name": "暗黑血统 重制版",
+      "summary": "扮演天启四骑士之一的战争，调查末日提前降临的真相，并面对天堂与地狱冲突的后果。"
+    },
+    "xenoblade chronicles 2 & torna: the golden country (7 dlc)": {
+      "title_ids": [
+        "0100E95004038000"
+      ],
+      "display_name": "异度神剑2／黄金之国伊拉",
+      "summary": "在云海与巨神兽构成的世界中，跟随莱克斯及神秘异刃展开角色扮演冒险。"
+    },
+    "dragon quest vii (7) reimagined + 6 dlc": {
+      "title_ids": [
+        "0100A9D01C446000"
+      ],
+      "display_name": "勇者斗恶龙VII Reimagined",
+      "summary": "与伙伴从一座看似孤立的岛屿出发，追寻世界消失的土地与过去的秘密。"
+    },
+    "darksiders iii (3)": {
+      "title_ids": [
+        "0100F8F014190000"
+      ],
+      "display_name": "暗黑血统III",
+      "summary": "扮演天启四骑士之一的狂怒，寻找七宗罪，并尝试恢复世界的力量平衡。"
+    },
+    "darksiders genesis": {
+      "title_ids": [
+        "0100F2300D4BA000"
+      ],
+      "display_name": "暗黑血统：创世纪",
+      "summary": "以末日世界为背景的动作冒险，讲述前作之前的故事，并引入骑士纷争。"
+    },
+    "darksiders ii (2): deathinitive edition": {
+      "title_ids": [
+        "010071800BA98000"
+      ],
+      "display_name": "暗黑血统II 决定版",
+      "summary": "暗黑血统系列第二作的完整版本，整合原作及其追加内容。"
+    },
+    "resident evil revelations 1-2": {
+      "title_ids": [
+        "0100643002136000"
+      ],
+      "display_name": "生化危机：启示录1、2",
+      "summary": "生存恐怖系列作品；原简介介绍了发生在《生化危机4》和《生化危机5》之间的病毒调查故事。"
+    },
+    "hollow knight": {
+      "title_ids": [
+        "0100633007D48000"
+      ],
+      "display_name": "空洞骑士",
+      "summary": "在相互连通的地下王国探索洞穴、古城和荒地，与受感染的生物战斗并发现世界秘密。"
+    },
+    "splatoon 2 + octo expansion + dlc": {
+      "title_ids": [
+        "0100F8F0000A2000"
+      ],
+      "display_name": "喷射战士2",
+      "summary": "以4对4的墨水涂地对抗为核心的射击游戏，包含不同战场、武器和玩法。"
+    },
+    "persona 5 royal (p5r)": {
+      "title_ids": [
+        "01005CA01580E000"
+      ],
+      "display_name": "女神异闻录5 皇家版",
+      "summary": "围绕转学到东京的高中生展开的角色扮演故事，是《女神异闻录5》的扩展版本。"
+    },
+    "undertale": {
+      "title_ids": [
+        "010080B00AD66000"
+      ],
+      "display_name": "传说之下",
+      "summary": "在奇异地下世界展开角色扮演冒险，可通过交流与选择解决冲突，不一定需要击败所有敌人。"
+    },
+    "naruto x boruto ultimate ninja storm connections + 11 dlc": {
+      "title_ids": [
+        "01005A20190A6000"
+      ],
+      "display_name": "火影忍者×博人传 终极风暴羁绊",
+      "summary": "以《火影忍者》和《博人传》角色为基础的动作格斗游戏，包含故事模式与忍者对战。"
+    },
+    "naruto shippuden: ultimate ninja storm 4 road to boruto": {
+      "title_ids": [
+        "01006CF00CF61000"
+      ],
+      "display_name": "火影忍者疾风传：究极忍者风暴4 博人之路",
+      "summary": "重现忍界大战并延伸到博人相关故事的动作格斗游戏。"
+    },
+    "crisis core - final fantasy vii (7) reunion": {
+      "title_ids": [
+        "01004BC0166CC000"
+      ],
+      "display_name": "核心危机 -最终幻想VII- Reunion",
+      "summary": "《最终幻想VII》前传的现代化版本，采用高清画面、配音和重新制作的音乐。"
+    },
+    "celeste": {
+      "title_ids": [
+        "01002B30028F6000"
+      ],
+      "display_name": "蔚蓝",
+      "summary": "跟随玛德琳攀登塞莱斯特山，在高难度平台跳跃挑战中面对内心的困扰。"
+    },
+    "dragon ball z kakarot a new power awakens set + 20 dlc": {
+      "title_ids": [
+        "010051C0134F8000"
+      ],
+      "display_name": "龙珠Z：卡卡罗特",
+      "summary": "重温《龙珠Z》的故事和经典战斗，在角色扮演与动作玩法中探索龙珠世界。"
+    }
+  },
+  "entities": {
+    "nintendo": "任天堂",
+    "nintendo ead": "任天堂情报开发本部",
+    "nintendo epd": "任天堂企划制作本部",
+    "capcom": "卡普空",
+    "square enix": "史克威尔艾尼克斯",
+    "bandai namco entertainment": "万代南梦宫娱乐",
+    "sega": "世嘉",
+    "ubisoft": "育碧",
+    "konami": "科乐美",
+    "koei tecmo games co., ltd.": "光荣特库摩",
+    "nippon ichi software": "日本一软件",
+    "nihon falcom": "日本Falcom",
+    "atari": "雅达利",
+    "microsoft studios": "微软工作室"
+  }
+}

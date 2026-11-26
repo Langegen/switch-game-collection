@@ -11,6 +11,10 @@ class AuditTests(unittest.TestCase):
             self.assertEqual(classify(text, "zh-Hans"), expected)
         self.assertEqual(classify("русский", "ru"), "other")
 
+    def test_chinese_summary_not_counted_as_full_translation(self):
+        self.assertEqual(classify("中文摘要（保留原文）：\n摘要\n\n原文：\nEnglish", "zh-Hans"),
+                         "summary_with_original")
+
     def test_fields_and_indices(self):
         result = audit_catalog({"games": [{"title": "中文", "description": "English"},
                                          {"title": "Name", "description": "中文简介"}]}, "zh-Hans", True)

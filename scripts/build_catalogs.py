@@ -12,6 +12,7 @@ from pathlib import Path
 
 from audit_localization import audit_catalog
 from catalog_display_terms import apply_display_terms
+from catalog_reviewed_metadata import apply_reviewed_metadata, has_chinese_prose
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
@@ -816,12 +817,11 @@ def needs_translation(text, target_lang, *, prose=False):
     if re.search(r"[\u0400-\u04FF]", text):
         return True
     if prose and target_lang == "zh-CN":
-        return not re.search(r"[\u3400-\u4DBF\u4E00-\u9FFF]", text) and bool(
-            re.search(r"[A-Za-z]{2,}", text))
+        return bool(re.search(r"[A-Za-z]{2,}", text)) and not has_chinese_prose(text)
     return False
 
 
-def cached_translation(text, cache):
+def cached_translation(text, cache, *, target_lang=None, prose=False):
     """Never treat an empty value or an old transliteration fallback as a translation."""
     translated = cache.get(text)
     if not isinstance(translated, str) or not translated.strip():
@@ -830,6 +830,8 @@ def cached_translation(text, cache):
         return None
     if re.search(r"[\u0400-\u04FF]", text) and translated.strip() in (
             transliterate(text).strip(), clean_homoglyphs(transliterate(text)).strip()):
+        return None
+    if prose and target_lang == "zh-CN" and not has_chinese_prose(translated):
         return None
     return translated.strip()
 
@@ -855,8 +857,9 @@ def localized_description(item, titledb_entry, cfg, cache):
     source, official = description_source(item, titledb_entry, cfg["target_lang"])
     if official:
         return source
-    return text_from_cache(source, cache) if needs_translation(
-        source, cfg["target_lang"], prose=True) else source
+    if needs_translation(source, cfg["target_lang"], prose=True):
+        return cached_translation(source, cache, target_lang=cfg["target_lang"], prose=True) or source
+    return source
 
 
 def exact_localized_title(raw_title, localized, original):
@@ -890,9 +893,10 @@ def fetch_translation_single(text, target_lang):
     return text, None
 
 
-def batch_preload_translations(texts, cache, cache_file, target_lang, max_workers=20):
+def batch_preload_translations(texts, cache, cache_file, target_lang, max_workers=20, prose_texts=None):
+    prose_texts = prose_texts or set()
     to_fetch = [t for t in set(texts) if needs_translation(t, target_lang, prose=True)
-                and cached_translation(t, cache) is None]
+                and cached_translation(t, cache, target_lang=target_lang, prose=t in prose_texts) is None]
     if not to_fetch:
         return
     print(f"Pre-translating {len(to_fetch)} unique texts into '{target_lang}' with {max_workers} threads...", flush=True)
@@ -902,7 +906,8 @@ def batch_preload_translations(texts, cache, cache_file, target_lang, max_worker
         futures = {executor.submit(fetch_translation_single, t, target_lang): t for t in to_fetch}
         for future in concurrent.futures.as_completed(futures):
             orig_text, translated_text = future.result()
-            if cached_translation(orig_text, {orig_text: translated_text}) is not None:
+            if cached_translation(orig_text, {orig_text: translated_text},
+                                  target_lang=target_lang, prose=orig_text in prose_texts) is not None:
                 cache[orig_text] = translated_text
             else:
                 # Network failure or unchanged/transliterated output is retryable.
@@ -1181,8 +1186,10 @@ def build_catalog_for_lang(lang_code):
     print(f"==================================================", flush=True)
 
     display_terms = {}
+    reviewed_metadata = {}
     if lang_code.lower() == "zh-hans":
         display_terms = json.loads((SCRIPTS_DIR / "catalog_display_zh_hans.json").read_text(encoding="utf-8"))
+        reviewed_metadata = json.loads((SCRIPTS_DIR / "catalog_reviewed_zh_hans.json").read_text(encoding="utf-8"))
 
     # 1. Load source files
     if os.path.exists(RU_CATALOG_FILE):
@@ -1240,6 +1247,7 @@ def build_catalog_for_lang(lang_code):
 
     # 4. First-pass rule-based translation to collect only truly remaining uncached strings
     texts_to_translate = set()
+    prose_to_translate = set()
     for item in ru_catalog:
         raw_tid = str(item.get("title_id", "")).strip().upper()
         tdb_entry = titledb_entries_by_tid.get(raw_tid)
@@ -1252,6 +1260,7 @@ def build_catalog_for_lang(lang_code):
         desc_source, official = description_source(item, tdb_entry, cfg["target_lang"])
         if not official and needs_translation(desc_source, cfg["target_lang"], prose=True):
             texts_to_translate.add(desc_source)
+            prose_to_translate.add(desc_source)
 
         # Check other fields after rule-based pass
         t = translate_title(item.get("title", ""), tdb_entry, cfg, {})
@@ -1286,10 +1295,12 @@ def build_catalog_for_lang(lang_code):
         if needs_translation(mp, cfg["target_lang"]):
             texts_to_translate.add(mp)
 
-    untranslated = [t for t in texts_to_translate if cached_translation(t, cache) is None]
+    untranslated = [t for t in texts_to_translate if cached_translation(
+        t, cache, target_lang=cfg["target_lang"], prose=t in prose_to_translate) is None]
     if untranslated:
         print(f"Found {len(untranslated)} uncached strings requiring online translation into [{lang_code.upper()}].", flush=True)
-        batch_preload_translations(untranslated, cache, cfg["cache_file"], cfg["target_lang"], max_workers=20)
+        batch_preload_translations(untranslated, cache, cfg["cache_file"], cfg["target_lang"],
+                                   max_workers=20, prose_texts=prose_to_translate)
     else:
         print(f"All required strings for [{lang_code.upper()}] are already present in translation cache!", flush=True)
 
@@ -1392,6 +1403,8 @@ def build_catalog_for_lang(lang_code):
         })
         if display_terms:
             apply_display_terms(catalog[-1], display_terms, item.get("description"))
+        if reviewed_metadata:
+            apply_reviewed_metadata(catalog[-1], reviewed_metadata)
 
     elapsed = time.time() - start_time
     print(f"\nAssembly for [{lang_code.upper()}] Complete in {elapsed:.2f}s!", flush=True)

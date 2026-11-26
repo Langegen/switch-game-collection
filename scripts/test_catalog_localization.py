@@ -16,6 +16,14 @@ class CatalogLocalizationTests(unittest.TestCase):
         self.assertEqual(b.localized_description(item, upstream, self.cfg, {}),
                          "Explore the island.")
 
+    def test_latin_only_translation_cache_is_not_chinese_prose(self):
+        source = "Explore the island."
+        cache = {source: "Explore the wonderful island."}
+        self.assertIsNone(b.cached_translation(source, cache, target_lang="zh-CN", prose=True))
+        self.assertEqual(b.localized_description({"description": source}, {}, self.cfg, cache), source)
+        self.assertEqual(b.localized_description({"description": source}, {}, self.cfg, {source: "探索岛屿。"}), "探索岛屿。")
+        self.assertTrue(b.needs_translation("Long English prose that has not been translated 中文", "zh-CN", prose=True))
+
     def test_native_description_preferred(self):
         self.assertEqual(b.localized_description(
             {"description": "English prose"}, {"description": "中文简介"},
