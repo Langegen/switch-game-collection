@@ -1,0 +1,60 @@
+{
+  "source_blob": "0a1b0381132c6846607cc951e3da8d7e649a5061",
+  "records": 7358,
+  "changed_records": 7337,
+  "changed_fields": {
+    "genre": 7322,
+    "multiplayer": 47,
+    "developer": 169,
+    "voice_lang": 27,
+    "publisher": 428,
+    "title": 42,
+    "description": 46,
+    "interface_lang": 6,
+    "performance": 1
+  },
+  "unchanged_non_display_field_comparisons": 85685,
+  "non_display_field_differences": 0,
+  "idempotence_checked_records": 7358,
+  "description_before": {
+    "han_present": 2974,
+    "summary_with_original": 0,
+    "latin_review": 4383,
+    "cyrillic_review": 1
+  },
+  "description_after": {
+    "han_present": 2978,
+    "summary_with_original": 42,
+    "latin_review": 4337,
+    "cyrillic_review": 1
+  },
+  "title_before": {
+    "han_present": 366,
+    "latin_review": 6992
+  },
+  "title_after": {
+    "han_present": 408,
+    "latin_review": 6950
+  },
+  "genre_before": {
+    "han_present": 44,
+    "latin_review": 7314
+  },
+  "genre_after": {
+    "han_present": 7356,
+    "latin_review": 2
+  },
+  "validation": "Equivalent in-memory transformation against the complete existing catalog, all 7358 entries. The 42 reviewed summaries preserve the original and are not full translations. Generated file upload failed; the existing catalog blob is unchanged. The Python reproduction script and tests are provided; native Switch build and actual full Python generation are pending.",
+  "local_test_results": {
+    "reviewed_metadata_and_audit_python_tests": {
+      "passed": 9,
+      "failed": 0,
+      "source_blobs_verified": true
+    },
+    "language_metadata_cpp_assertions": {
+      "passed": 17,
+      "failed": 0,
+      "source_blobs_verified": true
+    }
+  }
+}
