@@ -11,6 +11,7 @@ import urllib.request
 from pathlib import Path
 
 from audit_localization import audit_catalog
+from catalog_display_terms import apply_display_terms
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
@@ -1179,6 +1180,10 @@ def build_catalog_for_lang(lang_code):
     print(f"=== Building Catalog for [{lang_code.upper()}] ({cfg['output_file']}) ===", flush=True)
     print(f"==================================================", flush=True)
 
+    display_terms = {}
+    if lang_code.lower() == "zh-hans":
+        display_terms = json.loads((SCRIPTS_DIR / "catalog_display_zh_hans.json").read_text(encoding="utf-8"))
+
     # 1. Load source files
     if os.path.exists(RU_CATALOG_FILE):
         print(f"Loading {RU_CATALOG_FILE}...", flush=True)
@@ -1385,6 +1390,8 @@ def build_catalog_for_lang(lang_code):
             "title_id": item.get("title_id", ""),
             **version_fields(item),
         })
+        if display_terms:
+            apply_display_terms(catalog[-1], display_terms, item.get("description"))
 
     elapsed = time.time() - start_time
     print(f"\nAssembly for [{lang_code.upper()}] Complete in {elapsed:.2f}s!", flush=True)
