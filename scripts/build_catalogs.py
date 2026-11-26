@@ -805,6 +805,69 @@ def save_cache(cache, cache_file):
         json.dump(cache, f, ensure_ascii=False, indent=2)
 
 
+
+def needs_translation(text, target_lang, *, prose=False):
+    """Detect obvious untranslated text, not a general language classifier."""
+    if not isinstance(text, str) or not text.strip():
+        return False
+    if re.search(r"[\u0400-\u04FF]", text):
+        return True
+    if prose and target_lang == "zh-CN":
+        return not re.search(r"[\u3400-\u4DBF\u4E00-\u9FFF]", text) and bool(
+            re.search(r"[A-Za-z]{2,}", text))
+    return False
+
+
+def cached_translation(text, cache):
+    """Never treat an empty value or an old transliteration fallback as a translation."""
+    translated = cache.get(text)
+    if not isinstance(translated, str) or not translated.strip():
+        return None
+    if translated.strip() == text.strip():
+        return None
+    if re.search(r"[\u0400-\u04FF]", text) and translated.strip() in (
+            transliterate(text).strip(), clean_homoglyphs(transliterate(text)).strip()):
+        return None
+    return translated.strip()
+
+
+def text_from_cache(text, cache):
+    return cached_translation(text, cache) or text
+
+
+def description_source(item, titledb_entry, target_lang):
+    """Prefer the supplied localized description; check its script before using it."""
+    official = titledb_entry.get("description")
+    raw = item.get("description")
+    official = official.strip() if isinstance(official, str) else ""
+    raw = raw.strip() if isinstance(raw, str) else ""
+    if official and not needs_translation(official, target_lang, prose=True):
+        return official, True
+    if raw and not needs_translation(raw, target_lang, prose=True):
+        return raw, False
+    return official or raw, False
+
+
+def localized_description(item, titledb_entry, cfg, cache):
+    source, official = description_source(item, titledb_entry, cfg["target_lang"])
+    if official:
+        return source
+    return text_from_cache(source, cache) if needs_translation(
+        source, cfg["target_lang"], prose=True) else source
+
+
+def exact_localized_title(raw_title, localized, original):
+    """Only replace an identified base title, retaining release-specific suffixes."""
+    if not isinstance(raw_title, str) or not isinstance(localized, str) or not isinstance(original, str):
+        return None
+    if not localized.strip() or not original.strip():
+        return None
+    match = re.fullmatch(r"(.*?)(\s*(?:\[[^\[\]]*\]\s*)*)", raw_title.strip())
+    if not match or match.group(1).strip().casefold() != original.strip().casefold():
+        return None
+    return localized.strip() + match.group(2)
+
+
 def fetch_translation_single(text, target_lang):
     if not text:
         return text, text
@@ -821,11 +884,12 @@ def fetch_translation_single(text, target_lang):
         except Exception:
             if attempt < 2:
                 time.sleep(0.5)
-    return text, transliterate(text)
+    return text, None
 
 
 def batch_preload_translations(texts, cache, cache_file, target_lang, max_workers=20):
-    to_fetch = [t for t in set(texts) if t and t not in cache and (re.search(r"[\u0400-\u04FF]", t) or target_lang in ["zh-CN", "ja", "ko"])]
+    to_fetch = [t for t in set(texts) if needs_translation(t, target_lang, prose=True)
+                and cached_translation(t, cache) is None]
     if not to_fetch:
         return
     print(f"Pre-translating {len(to_fetch)} unique texts into '{target_lang}' with {max_workers} threads...", flush=True)
@@ -835,7 +899,11 @@ def batch_preload_translations(texts, cache, cache_file, target_lang, max_worker
         futures = {executor.submit(fetch_translation_single, t, target_lang): t for t in to_fetch}
         for future in concurrent.futures.as_completed(futures):
             orig_text, translated_text = future.result()
-            cache[orig_text] = translated_text
+            if cached_translation(orig_text, {orig_text: translated_text}) is not None:
+                cache[orig_text] = translated_text
+            else:
+                # Network failure or unchanged/transliterated output is retryable.
+                cache.pop(orig_text, None)
             done += 1
             if done % 50 == 0 or done == len(to_fetch):
                 print(f"  Progress: {done}/{len(to_fetch)} translated ({time.time() - start:.1f}s)", flush=True)
@@ -886,8 +954,8 @@ def translate_year(val, cfg, cache):
     t = re.sub(r"\bпорт\b", "port", t, flags=re.IGNORECASE)
     t = re.sub(r"\bгода?\b", "", t, flags=re.IGNORECASE)
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
-    return clean_homoglyphs(t.strip())
+        t = text_from_cache(t, cache)
+    return t.strip()
 
 
 def translate_genre(val, cfg, cache):
@@ -901,8 +969,8 @@ def translate_genre(val, cfg, cache):
     t = re.sub(r"\bAventure\b", "Adventure", t)
     t = re.sub(r"Ш-Ш", cfg["genres"].get("ш-ш", "Shmup / Shooter"), t)
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
-    return clean_homoglyphs(t)
+        t = text_from_cache(t, cache)
+    return t
 
 
 def translate_image_format(val, cfg, cache):
@@ -941,8 +1009,8 @@ def translate_image_format(val, cfg, cache):
     t = re.sub(r"\bбайт\b", "bytes", t, flags=re.IGNORECASE)
     t = re.sub(r"\bплюс\b", "+", t, flags=re.IGNORECASE)
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
-    return clean_homoglyphs(t)
+        t = text_from_cache(t, cache)
+    return t
 
 
 def translate_interface_lang(val, cfg, cache):
@@ -959,9 +1027,9 @@ def translate_interface_lang(val, cfg, cache):
         t = re.sub(r"\b" + re.escape(ru_lang) + r"\b", loc_lang, t, flags=re.IGNORECASE)
 
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
+        t = text_from_cache(t, cache)
 
-    return clean_homoglyphs(t)
+    return t
 
 
 def translate_voice_lang(val, cfg, cache):
@@ -980,9 +1048,9 @@ def translate_voice_lang(val, cfg, cache):
         t = re.sub(r"\b" + re.escape(ru_lang) + r"\b", loc_lang, t, flags=re.IGNORECASE)
 
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
+        t = text_from_cache(t, cache)
 
-    return clean_homoglyphs(t)
+    return t
 
 
 def translate_performance(val, cfg, cache):
@@ -1002,8 +1070,8 @@ def translate_performance(val, cfg, cache):
     t = re.sub(r"\bНе проверено\b", cfg["perf_not_tested"], t, flags=re.I)
     t = re.sub(r"\bРаботает\b", "Works", t, flags=re.I)
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
-    return clean_homoglyphs(t)
+        t = text_from_cache(t, cache)
+    return t
 
 
 def translate_multiplayer(val, cfg, cache):
@@ -1024,11 +1092,11 @@ def translate_multiplayer(val, cfg, cache):
     if m_exact:
         return cfg["mp_exact"].format(N=m_exact.group(1))
 
-    if t in cache:
-        return cache[t]
+    if cached_translation(t, cache) is not None:
+        return cached_translation(t, cache)
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
-    return clean_homoglyphs(t)
+        t = text_from_cache(t, cache)
+    return t
 
 
 def translate_title(val, titledb_entry, cfg, cache):
@@ -1082,9 +1150,9 @@ def translate_title(val, titledb_entry, cfg, cache):
             tags_str = "".join(tags)
             t = titledb_entry["name"] + (" " + tags_str if tags_str else "")
         else:
-            t = cache.get(t, transliterate(t))
+            t = text_from_cache(t, cache)
 
-    return clean_homoglyphs(t)
+    return t
 
 
 def translate_entity(val, titledb_entry, field_name, cache):
@@ -1096,10 +1164,8 @@ def translate_entity(val, titledb_entry, field_name, cache):
     if titledb_entry and titledb_entry.get(field_name):
         return titledb_entry[field_name]
     if re.search(r"[\u0400-\u04FF]", t):
-        if t in cache:
-            return cache[t]
-        return transliterate(t)
-    return clean_homoglyphs(t)
+        return text_from_cache(t, cache)
+    return t
 
 
 def build_catalog_for_lang(lang_code):
@@ -1175,47 +1241,45 @@ def build_catalog_for_lang(lang_code):
             tdb_entry = titledb_entries_by_name.get(name)
         tdb_entry = tdb_entry or {}
 
-        # Unmatched descriptions
-        if not (tdb_entry and str(tdb_entry.get("description", "")).strip()):
-            raw_desc = item.get("description", "")
-            if re.search(r"[\u0400-\u04FF]", raw_desc) or cfg["target_lang"] in ["zh-CN", "ja", "ko"]:
-                if raw_desc not in cache:
-                    texts_to_translate.add(raw_desc)
+        # A populated upstream description may still be in the wrong language.
+        desc_source, official = description_source(item, tdb_entry, cfg["target_lang"])
+        if not official and needs_translation(desc_source, cfg["target_lang"], prose=True):
+            texts_to_translate.add(desc_source)
 
         # Check other fields after rule-based pass
         t = translate_title(item.get("title", ""), tdb_entry, cfg, {})
-        if re.search(r"[\u0400-\u04FF]", t) and t not in cache:
+        if needs_translation(t, cfg["target_lang"]):
             texts_to_translate.add(t)
 
         y = translate_year(item.get("year", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", y) and y not in cache:
+        if needs_translation(y, cfg["target_lang"]):
             texts_to_translate.add(y)
 
         g = translate_genre(item.get("genre", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", g) and g not in cache:
+        if needs_translation(g, cfg["target_lang"]):
             texts_to_translate.add(g)
 
         img = translate_image_format(item.get("image_format", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", img) and img not in cache:
+        if needs_translation(img, cfg["target_lang"]):
             texts_to_translate.add(img)
 
         il = translate_interface_lang(item.get("interface_lang", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", il) and il not in cache:
+        if needs_translation(il, cfg["target_lang"]):
             texts_to_translate.add(il)
 
         vl = translate_voice_lang(item.get("voice_lang", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", vl) and vl not in cache:
+        if needs_translation(vl, cfg["target_lang"]):
             texts_to_translate.add(vl)
 
         pf = translate_performance(item.get("performance", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", pf) and pf not in cache:
+        if needs_translation(pf, cfg["target_lang"]):
             texts_to_translate.add(pf)
 
         mp = translate_multiplayer(item.get("multiplayer", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", mp) and mp not in cache:
+        if needs_translation(mp, cfg["target_lang"]):
             texts_to_translate.add(mp)
 
-    untranslated = [t for t in texts_to_translate if t not in cache]
+    untranslated = [t for t in texts_to_translate if cached_translation(t, cache) is None]
     if untranslated:
         print(f"Found {len(untranslated)} uncached strings requiring online translation into [{lang_code.upper()}].", flush=True)
         batch_preload_translations(untranslated, cache, cfg["cache_file"], cfg["target_lang"], max_workers=20)
@@ -1261,24 +1325,26 @@ def build_catalog_for_lang(lang_code):
 
         screenshots = [proxy_image_url(s) for s in screenshots]
 
-        # Description
-        tdb_desc = tdb_entry.get("description")
-        if tdb_desc and isinstance(tdb_desc, str) and tdb_desc.strip():
-            description = clean_homoglyphs(tdb_desc.strip())
+        # Description: preserve original text if translation is unavailable.
+        desc_source, official = description_source(item, tdb_entry, cfg["target_lang"])
+        description = localized_description(item, tdb_entry, cfg, cache)
+        if official:
             titledb_desc_count += 1
-        else:
-            raw_desc = item.get("description", "")
-            if raw_desc in cache:
-                description = clean_homoglyphs(cache[raw_desc])
-                translated_desc_count += 1
-            elif re.search(r"[\u0400-\u04FF]", raw_desc):
-                description = clean_homoglyphs(cache.get(raw_desc, transliterate(raw_desc)))
-                translated_desc_count += 1
-            else:
-                description = clean_homoglyphs(raw_desc)
+        elif description != desc_source:
+            translated_desc_count += 1
 
         # Fields translation
         title = translate_title(item.get("title", ""), tdb_entry, cfg, cache)
+        # Never replace an edition or collection using a fuzzy title match.
+        if raw_tid and raw_tid in titledb_entries_by_tid and raw_tid in fb_entries_by_tid:
+            release_ids = release_titles(item).split(";")
+            if len(release_ids) <= 1:
+                preferred = exact_localized_title(
+                    item.get("title", ""),
+                    titledb_entries_by_tid[raw_tid].get("name"),
+                    fb_entries_by_tid[raw_tid].get("name"))
+                if preferred is not None:
+                    title = preferred
         year = translate_year(item.get("year", ""), cfg, cache)
         genre = translate_genre(item.get("genre", ""), cfg, cache)
         developer = translate_entity(item.get("developer", ""), tdb_entry, "developer", cache)
