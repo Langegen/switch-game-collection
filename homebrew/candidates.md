@@ -1,6 +1,6 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-26. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-27. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
@@ -10,7 +10,7 @@
 | [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |
 | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | 20 | Release-1.1.0 | 2026-11-04 | bo2-360-nx-gamefiles-shader-extractor.zip, bo2-360-nx-release-1.1.0-switch+windows-build-kit.zip, bo2-360-nx-switch-PGO- |
 | [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 12 | v2.2.1 | 2026-11-24 | songate-manifest.json, SongateAND-2.2.1.apk, SongateNX-2.2.1.zip, SongateWIN-2.2.1.exe |
-| [Angle-Brackets/UprisingNX](https://github.com/Angle-Brackets/UprisingNX) | 4 | v0.1.2 | 2026-11-25 | UprisingNX-v0.1.2.zip, uprising_nx.nro |
+| [Angle-Brackets/UprisingNX](https://github.com/Angle-Brackets/UprisingNX) | 7 | v0.1.3 | 2026-11-26 | UprisingNX-v0.1.3.zip, uprising_nx.nro |
 | [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |
 | [Antman2023/UURemote-ns](https://github.com/Antman2023/UURemote-ns) | 17 | v0.1.11 | 2026-11-26 | SHA256SUMS, UURemote-ns-0.1.11-switch.zip, UURemote-ns.nro |
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
@@ -43,7 +43,7 @@
 | [ImYourBoyRoy/switch-sd-mgr](https://github.com/ImYourBoyRoy/switch-sd-mgr) | 1 | v7.0.0 | 2026-05-31 | Switch-SD-Manager_Windows_Portable.zip, Switch.SD.Updater_7.0.0_amd64.AppImage, Switch.SD.Updater_7.0.0_amd64.deb, Switc |
 | [Insektaure/CheatShelf](https://github.com/Insektaure/CheatShelf) | 1 | 0.1.2 | 2026-10-23 | cheatshelf.ovl |
 | [Jack-The-Yoshi/One-Click-Game-Manager-OCGM-](https://github.com/Jack-The-Yoshi/One-Click-Game-Manager-OCGM-) | 1 | v1.0.1 | 2026-02-16 | OCGM.nro |
-| [JhondyDario/Greeny](https://github.com/JhondyDario/Greeny) | 8 | v1.0.1 | 2026-11-25 | greeny-1.0.1.zip, greeny-overlay-source-1.0.1.zip, greeny.nro |
+| [JhondyDario/Greeny](https://github.com/JhondyDario/Greeny) | 10 | v1.0.1 | 2026-11-25 | greeny-1.0.1.zip, greeny-overlay-source-1.0.1.zip, greeny.nro |
 | [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |
 | [KakarottoCake/gcadapter-oc-nx](https://github.com/KakarottoCake/gcadapter-oc-nx) | 0 | v0.1.5-alpha | 2026-07-29 | gcadapter-oc-nx.zip |
 | [KoHaku743/horizon-nx-companion](https://github.com/KoHaku743/horizon-nx-companion) | 0 | v0.4.0 | 2026-11-25 | horizon-nx-companion-linux-x86_64.tar.gz, horizon-nx-companion-macos.zip, horizon-nx-companion-windows.zip |
@@ -107,6 +107,7 @@
 | [danialonso/nx-control](https://github.com/danialonso/nx-control) | 0 | v0.2.5 | 2026-10-30 | NX-Control-0.2.5.zip |
 | [dannyboyjaros/switchclassof09thereup](https://github.com/dannyboyjaros/switchclassof09thereup) | 0 | v1.0.1 | 2026-11-10 | class.of.09.zip |
 | [darkxex/nxmpforme](https://github.com/darkxex/nxmpforme) | ? | 0.1.2 | 2022-02-05 | nxmp.zip |
+| [ddf8196/betterrenderdragon](https://github.com/ddf8196/betterrenderdragon) | ? | v1.4.4 | 2024-08-12 | BetterRenderDragon-1.4.4.zip, BetterRenderDragon.dll |
 | [denpingus/NXCloud](https://github.com/denpingus/NXCloud) | 7 | v0.5.1-beta | 2026-10-23 | nxcloud.nro, nxstream.nro |
 | [derzhivkurse/lego-batman2-nx](https://github.com/derzhivkurse/lego-batman2-nx) | 6 | installer | 2026-11-24 | lego-batman2-nx-sd.zip |
 | [devkitPro/3ds-hbmenu](https://github.com/devkitPro/3ds-hbmenu) | ? | v2.4.4 | 2026-11-01 | 3ds-hbmenu-v2.4.4.zip |
@@ -175,8 +176,11 @@
 | [ppkantorski/UltraGB-Overlay](https://github.com/ppkantorski/UltraGB-Overlay) | 13 | v1.0.2 | 2026-07-13 | sdout.zip, ultragb.ovl |
 | [ppkantorski/libultrahand](https://github.com/ppkantorski/libultrahand) | 71 | v2.5.4 | 2026-11-09 | libultrahand.zip |
 | [proconsule/libusbdvd](https://github.com/proconsule/libusbdvd) | ? | 0.1.3 | 2026-08-21 | libusbdvd-0.1.3.zip, libusbdvd-example-c.nro |
+| [pugmatt/bedrockconnect](https://github.com/pugmatt/bedrockconnect) | ? | 1.72.1 | 2026-10-27 | BedrockConnect-1.0-SNAPSHOT.jar, BedrockConnect-setup.zip |
 | [rajkosto/nx-hbloader](https://github.com/rajkosto/nx-hbloader) | ? | v1.1 | 2018-07-30 | nx-hbloader_with_debug.zip |
 | [rajkosto/sys-ftpd](https://github.com/rajkosto/sys-ftpd) | ? | b2 | 2018-08-14 | sys-ftpd.zip |
+| [ramonDias07/Budokai3-nx](https://github.com/ramonDias07/Budokai3-nx) | 3 | v0.1.62-installer | 2026-11-26 | B3deko-0.1.62.zip |
+| [ramonDias07/XMOW-nx](https://github.com/ramonDias07/XMOW-nx) | 3 | v0.1.34f | 2026-11-27 | XMOW-nx-installer-v0.1.34f.zip, XMOW-nx-v0.1.34f.zip |
 | [rashevskyv/4ifir](https://github.com/rashevskyv/4ifir) | ? | 25.07.27.11 | 2025-07-27 | 4IFIR-Wizard-update-25.07.27.11.zip |
 | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) | ? | 912ru | 2026-09-18 | dbi.config, DBI.nro, dbibackend-qt.exe, dbibackend.exe, dbibackend.tar.xz, latest.zip |
 | [realTimexo/Switch-Toolbox-2](https://github.com/realTimexo/Switch-Toolbox-2) | 1 | v2.1.3 | 2026-11-06 | SwitchToolbox2-2.1.3.zip |
@@ -201,7 +205,7 @@
 | [team-neptune/deepsea](https://github.com/team-neptune/deepsea) | ? | v4.15.0 | 2026-03-31 | deepsea-advanced_v4.15.0.zip, deepsea-minimal_v4.15.0.zip, deepsea-normal_v4.15.0.zip |
 | [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) | ? | v1.3.0 | 2020-10-18 | Chiaki-v1.3.0-Android.aab, Chiaki-v1.3.0-Android.apk, Chiaki-v1.3.0-Linux-x86_64.AppImage, Chiaki-v1.3.0-macOS-x86_64.dm |
 | [timschneeb/kdeconnect-nx](https://github.com/timschneeb/kdeconnect-nx) | 14 | v1.0.1 | 2026-06-09 | debug-symbols.zip, kdeconnect-nx.zip |
-| [timschneeb/nsmbw-nx](https://github.com/timschneeb/nsmbw-nx) | 9 | v1.0.0 | 2026-11-20 | assets.json, NSMBW-switch.zip |
+| [timschneeb/nsmbw-nx](https://github.com/timschneeb/nsmbw-nx) | 9 | v1.3.0 | 2026-11-27 | assets.json, NSMBW-switch.zip |
 | [tomeoeo/switch-shell-car](https://github.com/tomeoeo/switch-shell-car) | 0 | v1.1.1 | 2026-11-25 | shellrc.nro, shell_rc-ha.zip |
 | [tomvita/atmosphere](https://github.com/tomvita/atmosphere) | ? | dmnt_with_extension | 2025-01-11 | dmnt.zip |
 | [tomvita/breeze-beta](https://github.com/tomvita/breeze-beta) | ? | beta108.4c | 2026-06-17 | Breeze.zip, version.txt |
@@ -209,7 +213,7 @@
 | [tomvita/nxcheatcode](https://github.com/tomvita/nxcheatcode) | ? | 092526 | 2026-09-25 | titles.zip, version.txt |
 | [tukwk/switchcloud](https://github.com/tukwk/switchcloud) | 0 | v0.1.0 | 2026-11-23 | README.md, README.ru.md, scswitch.nro |
 | [werwolv/edizon](https://github.com/werwolv/edizon) | ? | v3.1.0 | 2022-01-16 | EdiZon.nro, ovlEdiZon.ovl |
-| [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.12.0 | 2026-11-26 | SHA256SUMS.txt, WarpPoint-1.12.0.dmg, WarpPoint-Switch-1.12.0.zip |
+| [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.12.1 | 2026-11-26 | SHA256SUMS.txt, WarpPoint-1.12.1.dmg, WarpPoint-Switch-1.12.1.zip |
 | [xhu96/Switch7zip](https://github.com/xhu96/Switch7zip) | 0 | v0.9.11-pre | 2026-05-09 | Switch7zip.nro |
 | [xiefengdaxia/UURemote-ns-switch](https://github.com/xiefengdaxia/UURemote-ns-switch) | 0 | v0.1.64 | 2026-11-14 | UURemote-ns-0.1.64-switch.zip |
 | [ybx77/switch-cloud-sync](https://github.com/ybx77/switch-cloud-sync) | 1 | new | 2026-11-03 | switch-cloud-sync.nro |
