@@ -59,7 +59,7 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 5 | v0.9.8 | 2026-11-21 | SHA256SUMS.txt, switch-online-0.9.8-hats.zip, switch-online-0.9.8-sd.zip, switch-online-0.9.8-sdk-sources.tar, switch-on |
+| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 6 | v0.9.8 | 2026-11-21 | SHA256SUMS.txt, switch-online-0.9.8-hats.zip, switch-online-0.9.8-sd.zip, switch-online-0.9.8-sdk-sources.tar, switch-on |
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 78 | v1.0.13 | 2026-11-26 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 4.0.0 | 2026-11-20 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |

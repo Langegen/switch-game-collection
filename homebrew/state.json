@@ -457,6 +457,21 @@
    "type": "file",
    "zip_root": ""
   },
+  "gitlab:ismaellozanoperezserrano/hacbrewpacklz": {
+   "asset_key": "gitlab:88310088:v1.5.4:14546588:https://gitlab.com/ismaellozanoperezserrano/hacbrewpacklz/-/releases/v1.5.4/downloads/hacBrewPackLZ.nro:2026-11-23T17:52:11.287Z",
+   "extracted": 3304503,
+   "files": [],
+   "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/hacbrewpacklz.jpg",
+   "nacp": {
+    "author": "MaellyPooh",
+    "title": "hacBrewPackLZ",
+    "version": "1.5.4"
+   },
+   "sha256": "01391543998a2a014feee62391081d255408dc3f74a0316411cc0d43b617a8c7",
+   "size": 3304503,
+   "type": "file",
+   "zip_root": ""
+  },
   "gomprime/switchiptv": {
    "asset_key": "507802660:2026-08-09T18:56:34Z",
    "extracted": 36158469,
@@ -8386,7 +8401,7 @@
   },
   "jacquesdupontd/port0r": {
    "checked": "2026-11-27",
-   "pushed_at": "2026-11-27T08:06:17Z"
+   "pushed_at": "2026-11-27T08:36:19Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -9103,9 +9118,9 @@
    "pushed_at": "2026-11-15T05:52:57Z"
   },
   "sec-123/roomcircuit_lanywhere-selfhost": {
-   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 5 | v0.9.8 | 2026-11-21 | SHA256SUMS.txt, switch-online-0.9.8-hats.zip, switch-online-0.9.8-sd.zip, switch-online-0.9.8-sdk-sources.tar, switch-on |",
-   "checked": "2026-11-21",
-   "pushed_at": "2026-11-21T09:36:24Z"
+   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 6 | v0.9.8 | 2026-11-21 | SHA256SUMS.txt, switch-online-0.9.8-hats.zip, switch-online-0.9.8-sd.zip, switch-online-0.9.8-sdk-sources.tar, switch-on |",
+   "checked": "2026-11-27",
+   "pushed_at": "2026-11-27T08:45:54Z"
   },
   "shodowlo/nx-torrent-player": {
    "candidate": "| [shodowlo/NX-torrent-player](https://github.com/shodowlo/NX-torrent-player) | 37 | v0.6.0 | 2026-11-18 | NX-torrent-player.nro, NX2-torrent-player.nro |",
