@@ -36,7 +36,7 @@ jobs:
         run: python scripts/build_ru_catalog.py
 
       - name: Run Multi-Language Catalogs build script (EN, ES, FR, DE, IT, PT-BR, ZH-Hans)
-        run: python scripts/build_catalogs.py --lang all
+        run: python scripts/build_catalogs.py --lang all --max-translate 300
 
       - name: Generate unified 72-hour catalog diff
         run: python scripts/generate_catalog_diff.py

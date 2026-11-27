@@ -15,6 +15,11 @@ if hasattr(sys.stdout, "reconfigure"):
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPTS_DIR))
+
+from audit_localization import audit_catalog
+from catalog_display_terms import apply_display_terms
 
 RU_CATALOG_FILE = str(BASE_DIR / "RU_catalog.json")
 SWITCH_GAMES_FILE = str(BASE_DIR / "switch_games.json")
@@ -716,6 +721,23 @@ def clean_homoglyphs(text):
     return "".join(HOMOGLYPH_MAP.get(ch, ch) for ch in text)
 
 
+def clean_homoglyphs_safe(text):
+    """Strip Cyrillic homoglyphs only when text is not genuine Russian/Cyrillic prose."""
+    if not text:
+        return ""
+    if re.search(r"[БГДЁЖЗИЙЛПФЦЧШЩЪЫЬЭЮЯбвгдёжзийклмнптфцчшщъыьэюя]", text):
+        return text
+    return clean_homoglyphs(text)
+
+
+def has_chinese_prose(text):
+    if not isinstance(text, str) or re.search(r"[\u0400-\u052f]", text):
+        return False
+    han = len(re.findall(r"[\u3400-\u4dbf\u4e00-\u9fff]", text))
+    latin = len(re.findall(r"[A-Za-z]", text))
+    return han > 0 and latin <= max(12, han * 3)
+
+
 def load_json_file(filename, fallback_url):
     local_path = BASE_DIR / filename
     if local_path.exists() and local_path.stat().st_size > 1000:
@@ -805,6 +827,80 @@ def save_cache(cache, cache_file):
         json.dump(cache, f, ensure_ascii=False, indent=2)
 
 
+def needs_translation(text, target_lang=None, prose=False):
+    if not isinstance(text, str) or not text.strip():
+        return False
+    if re.search(r"[\u0400-\u04FF]", text):
+        return True
+    if prose and target_lang in ("zh-CN", "ja", "ko"):
+        if target_lang == "zh-CN":
+            return not has_chinese_prose(text)
+        return True
+    return False
+
+
+def cached_translation(text, cache, target_lang=None, prose=False):
+    if not text or not isinstance(cache, dict) or text not in cache:
+        return None
+    val = cache.get(text)
+    if not isinstance(val, str):
+        return None
+    val = val.strip()
+    if not val or val == text.strip() or val == transliterate(text).strip():
+        return None
+    if prose and target_lang == "zh-CN" and not has_chinese_prose(val):
+        return None
+    return val
+
+
+def text_from_cache(text, cache, target_lang=None, prose=False):
+    tr = cached_translation(text, cache, target_lang=target_lang, prose=prose)
+    return tr if tr is not None else text
+
+
+def description_source(item, tdb_entry):
+    tdb_desc = tdb_entry.get("description") if isinstance(tdb_entry, dict) else None
+    if isinstance(tdb_desc, str) and tdb_desc.strip():
+        return tdb_desc.strip()
+    raw_desc = item.get("description", "") if isinstance(item, dict) else ""
+    return raw_desc.strip() if isinstance(raw_desc, str) else ""
+
+
+def localized_description(item, tdb_entry, cfg, cache):
+    target_lang = cfg.get("target_lang") if isinstance(cfg, dict) else None
+    src = description_source(item, tdb_entry)
+    if not src:
+        return ""
+    tdb_desc = tdb_entry.get("description") if isinstance(tdb_entry, dict) else None
+    if isinstance(tdb_desc, str) and tdb_desc.strip():
+        clean_tdb = tdb_desc.strip()
+        if target_lang in ("zh-CN", "ja", "ko"):
+            if not needs_translation(clean_tdb, target_lang=target_lang, prose=True):
+                return clean_homoglyphs_safe(clean_tdb)
+            tr = cached_translation(clean_tdb, cache, target_lang=target_lang, prose=True)
+            return clean_homoglyphs_safe(tr if tr is not None else clean_tdb)
+        if not re.search(r"[\u0400-\u04FF]", clean_tdb):
+            return clean_homoglyphs_safe(clean_tdb)
+    tr = cached_translation(src, cache, target_lang=target_lang, prose=True)
+    return clean_homoglyphs_safe(tr if tr is not None else src)
+
+
+def exact_localized_title(raw_title, tdb_name, fallback_name=None):
+    if not isinstance(raw_title, str) or not isinstance(tdb_name, str) or not tdb_name.strip():
+        return None
+    m = re.match(r"^(.*?)((?:\s*\[[^\]]+\])+)\s*$", raw_title.strip())
+    if m:
+        base = m.group(1).strip()
+        suffix = m.group(2).strip()
+    else:
+        base = raw_title.strip()
+        suffix = ""
+    if fallback_name and fallback_name.strip():
+        if base.casefold() != fallback_name.strip().casefold():
+            return None
+    return tdb_name.strip() + (f" {suffix}" if suffix else "")
+
+
 def fetch_translation_single(text, target_lang):
     if not text:
         return text, text
@@ -821,13 +917,23 @@ def fetch_translation_single(text, target_lang):
         except Exception:
             if attempt < 2:
                 time.sleep(0.5)
-    return text, transliterate(text)
+    return text, None
 
 
-def batch_preload_translations(texts, cache, cache_file, target_lang, max_workers=20):
-    to_fetch = [t for t in set(texts) if t and t not in cache and (re.search(r"[\u0400-\u04FF]", t) or target_lang in ["zh-CN", "ja", "ko"])]
+def batch_preload_translations(texts, cache, cache_file, target_lang, max_workers=20, prose_texts=None, max_translate=0):
+    prose_set = set(prose_texts or ())
+    to_fetch = [
+        t for t in dict.fromkeys(texts)
+        if t
+        and cached_translation(t, cache, target_lang=target_lang, prose=(t in prose_set)) is None
+        and needs_translation(t, target_lang=target_lang, prose=(t in prose_set))
+    ]
     if not to_fetch:
         return
+    if max_translate and max_translate > 0 and len(to_fetch) > max_translate:
+        remaining = len(to_fetch) - max_translate
+        print(f"Limiting online translation batch to {max_translate} strings ({remaining} deferred for future runs).", flush=True)
+        to_fetch = sorted(to_fetch)[:max_translate]
     print(f"Pre-translating {len(to_fetch)} unique texts into '{target_lang}' with {max_workers} threads...", flush=True)
     start = time.time()
     done = 0
@@ -835,7 +941,16 @@ def batch_preload_translations(texts, cache, cache_file, target_lang, max_worker
         futures = {executor.submit(fetch_translation_single, t, target_lang): t for t in to_fetch}
         for future in concurrent.futures.as_completed(futures):
             orig_text, translated_text = future.result()
-            cache[orig_text] = translated_text
+            valid = cached_translation(
+                orig_text,
+                {orig_text: translated_text} if isinstance(translated_text, str) else {},
+                target_lang=target_lang,
+                prose=(orig_text in prose_set),
+            )
+            if valid is not None:
+                cache[orig_text] = valid
+            else:
+                cache.pop(orig_text, None)
             done += 1
             if done % 50 == 0 or done == len(to_fetch):
                 print(f"  Progress: {done}/{len(to_fetch)} translated ({time.time() - start:.1f}s)", flush=True)
@@ -886,8 +1001,8 @@ def translate_year(val, cfg, cache):
     t = re.sub(r"\bпорт\b", "port", t, flags=re.IGNORECASE)
     t = re.sub(r"\bгода?\b", "", t, flags=re.IGNORECASE)
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
-    return clean_homoglyphs(t.strip())
+        t = text_from_cache(t, cache)
+    return clean_homoglyphs_safe(t.strip())
 
 
 def translate_genre(val, cfg, cache):
@@ -901,8 +1016,8 @@ def translate_genre(val, cfg, cache):
     t = re.sub(r"\bAventure\b", "Adventure", t)
     t = re.sub(r"Ш-Ш", cfg["genres"].get("ш-ш", "Shmup / Shooter"), t)
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
-    return clean_homoglyphs(t)
+        t = text_from_cache(t, cache)
+    return clean_homoglyphs_safe(t)
 
 
 def translate_image_format(val, cfg, cache):
@@ -941,8 +1056,8 @@ def translate_image_format(val, cfg, cache):
     t = re.sub(r"\bбайт\b", "bytes", t, flags=re.IGNORECASE)
     t = re.sub(r"\bплюс\b", "+", t, flags=re.IGNORECASE)
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
-    return clean_homoglyphs(t)
+        t = text_from_cache(t, cache)
+    return clean_homoglyphs_safe(t)
 
 
 def translate_interface_lang(val, cfg, cache):
@@ -959,9 +1074,9 @@ def translate_interface_lang(val, cfg, cache):
         t = re.sub(r"\b" + re.escape(ru_lang) + r"\b", loc_lang, t, flags=re.IGNORECASE)
 
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
+        t = text_from_cache(t, cache)
 
-    return clean_homoglyphs(t)
+    return clean_homoglyphs_safe(t)
 
 
 def translate_voice_lang(val, cfg, cache):
@@ -980,9 +1095,9 @@ def translate_voice_lang(val, cfg, cache):
         t = re.sub(r"\b" + re.escape(ru_lang) + r"\b", loc_lang, t, flags=re.IGNORECASE)
 
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
+        t = text_from_cache(t, cache)
 
-    return clean_homoglyphs(t)
+    return clean_homoglyphs_safe(t)
 
 
 def translate_performance(val, cfg, cache):
@@ -1002,8 +1117,8 @@ def translate_performance(val, cfg, cache):
     t = re.sub(r"\bНе проверено\b", cfg["perf_not_tested"], t, flags=re.I)
     t = re.sub(r"\bРаботает\b", "Works", t, flags=re.I)
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
-    return clean_homoglyphs(t)
+        t = text_from_cache(t, cache)
+    return clean_homoglyphs_safe(t)
 
 
 def translate_multiplayer(val, cfg, cache):
@@ -1024,11 +1139,12 @@ def translate_multiplayer(val, cfg, cache):
     if m_exact:
         return cfg["mp_exact"].format(N=m_exact.group(1))
 
-    if t in cache:
-        return cache[t]
+    tr = cached_translation(t, cache)
+    if tr is not None:
+        return clean_homoglyphs_safe(tr)
     if re.search(r"[\u0400-\u04FF]", t):
-        t = cache.get(t, transliterate(t))
-    return clean_homoglyphs(t)
+        t = text_from_cache(t, cache)
+    return clean_homoglyphs_safe(t)
 
 
 def translate_title(val, titledb_entry, cfg, cache):
@@ -1082,9 +1198,9 @@ def translate_title(val, titledb_entry, cfg, cache):
             tags_str = "".join(tags)
             t = titledb_entry["name"] + (" " + tags_str if tags_str else "")
         else:
-            t = cache.get(t, transliterate(t))
+            t = text_from_cache(t, cache)
 
-    return clean_homoglyphs(t)
+    return clean_homoglyphs_safe(t)
 
 
 def translate_entity(val, titledb_entry, field_name, cache):
@@ -1096,13 +1212,11 @@ def translate_entity(val, titledb_entry, field_name, cache):
     if titledb_entry and titledb_entry.get(field_name):
         return titledb_entry[field_name]
     if re.search(r"[\u0400-\u04FF]", t):
-        if t in cache:
-            return cache[t]
-        return transliterate(t)
-    return clean_homoglyphs(t)
+        return clean_homoglyphs_safe(text_from_cache(t, cache))
+    return clean_homoglyphs_safe(t)
 
 
-def build_catalog_for_lang(lang_code):
+def build_catalog_for_lang(lang_code, max_translate=0):
     cfg = LANG_CONFIGS.get(lang_code.lower())
     if not cfg:
         raise ValueError(f"Unsupported language code: {lang_code}. Supported: {list(LANG_CONFIGS.keys())}")
@@ -1161,12 +1275,20 @@ def build_catalog_for_lang(lang_code):
                     fb_entries_by_name[name] = v
         print(f"Indexed {len(fb_entries_by_tid)} TitleDB Fallback entries for screenshots in [{lang_code.upper()}].", flush=True)
 
-    # 3. Load Translation Cache
+    # 3. Load Translation Cache and optional display terminology
     cache = load_cache(cfg["cache_file"])
     print(f"Loaded {len(cache)} cached translations from {cfg['cache_file']}.", flush=True)
 
+    display_terms = {}
+    if lang_code.lower() == "zh-hans":
+        terms_path = SCRIPTS_DIR / "catalog_display_zh_hans.json"
+        if terms_path.exists():
+            with open(terms_path, "r", encoding="utf-8") as f:
+                display_terms = json.load(f)
+
     # 4. First-pass rule-based translation to collect only truly remaining uncached strings
     texts_to_translate = set()
+    prose_to_translate = set()
     for item in ru_catalog:
         raw_tid = str(item.get("title_id", "")).strip().upper()
         tdb_entry = titledb_entries_by_tid.get(raw_tid)
@@ -1175,50 +1297,61 @@ def build_catalog_for_lang(lang_code):
             tdb_entry = titledb_entries_by_name.get(name)
         tdb_entry = tdb_entry or {}
 
-        # Unmatched descriptions
-        if not (tdb_entry and str(tdb_entry.get("description", "")).strip()):
-            raw_desc = item.get("description", "")
-            if re.search(r"[\u0400-\u04FF]", raw_desc) or cfg["target_lang"] in ["zh-CN", "ja", "ko"]:
-                if raw_desc not in cache:
-                    texts_to_translate.add(raw_desc)
+        # Descriptions (including fallback descriptions in non-target languages)
+        src_desc = description_source(item, tdb_entry)
+        if needs_translation(src_desc, target_lang=cfg["target_lang"], prose=True):
+            if cached_translation(src_desc, cache, target_lang=cfg["target_lang"], prose=True) is None:
+                texts_to_translate.add(src_desc)
+                prose_to_translate.add(src_desc)
 
         # Check other fields after rule-based pass
         t = translate_title(item.get("title", ""), tdb_entry, cfg, {})
-        if re.search(r"[\u0400-\u04FF]", t) and t not in cache:
+        if re.search(r"[\u0400-\u04FF]", t) and cached_translation(t, cache) is None:
             texts_to_translate.add(t)
 
         y = translate_year(item.get("year", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", y) and y not in cache:
+        if re.search(r"[\u0400-\u04FF]", y) and cached_translation(y, cache) is None:
             texts_to_translate.add(y)
 
         g = translate_genre(item.get("genre", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", g) and g not in cache:
+        if re.search(r"[\u0400-\u04FF]", g) and cached_translation(g, cache) is None:
             texts_to_translate.add(g)
 
         img = translate_image_format(item.get("image_format", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", img) and img not in cache:
+        if re.search(r"[\u0400-\u04FF]", img) and cached_translation(img, cache) is None:
             texts_to_translate.add(img)
 
         il = translate_interface_lang(item.get("interface_lang", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", il) and il not in cache:
+        if re.search(r"[\u0400-\u04FF]", il) and cached_translation(il, cache) is None:
             texts_to_translate.add(il)
 
         vl = translate_voice_lang(item.get("voice_lang", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", vl) and vl not in cache:
+        if re.search(r"[\u0400-\u04FF]", vl) and cached_translation(vl, cache) is None:
             texts_to_translate.add(vl)
 
         pf = translate_performance(item.get("performance", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", pf) and pf not in cache:
+        if re.search(r"[\u0400-\u04FF]", pf) and cached_translation(pf, cache) is None:
             texts_to_translate.add(pf)
 
         mp = translate_multiplayer(item.get("multiplayer", ""), cfg, {})
-        if re.search(r"[\u0400-\u04FF]", mp) and mp not in cache:
+        if re.search(r"[\u0400-\u04FF]", mp) and cached_translation(mp, cache) is None:
             texts_to_translate.add(mp)
 
-    untranslated = [t for t in texts_to_translate if t not in cache]
+    untranslated = [
+        t for t in texts_to_translate
+        if cached_translation(t, cache, target_lang=cfg["target_lang"], prose=(t in prose_to_translate)) is None
+    ]
     if untranslated:
         print(f"Found {len(untranslated)} uncached strings requiring online translation into [{lang_code.upper()}].", flush=True)
-        batch_preload_translations(untranslated, cache, cfg["cache_file"], cfg["target_lang"], max_workers=20)
+        batch_preload_translations(
+            untranslated,
+            cache,
+            cfg["cache_file"],
+            cfg["target_lang"],
+            max_workers=20,
+            prose_texts=prose_to_translate,
+            max_translate=max_translate,
+        )
     else:
         print(f"All required strings for [{lang_code.upper()}] are already present in translation cache!", flush=True)
 
@@ -1262,23 +1395,20 @@ def build_catalog_for_lang(lang_code):
         screenshots = [proxy_image_url(s) for s in screenshots]
 
         # Description
+        description = localized_description(item, tdb_entry, cfg, cache)
         tdb_desc = tdb_entry.get("description")
         if tdb_desc and isinstance(tdb_desc, str) and tdb_desc.strip():
-            description = clean_homoglyphs(tdb_desc.strip())
             titledb_desc_count += 1
-        else:
-            raw_desc = item.get("description", "")
-            if raw_desc in cache:
-                description = clean_homoglyphs(cache[raw_desc])
-                translated_desc_count += 1
-            elif re.search(r"[\u0400-\u04FF]", raw_desc):
-                description = clean_homoglyphs(cache.get(raw_desc, transliterate(raw_desc)))
-                translated_desc_count += 1
-            else:
-                description = clean_homoglyphs(raw_desc)
+        elif cached_translation(description_source(item, tdb_entry), cache, target_lang=cfg["target_lang"], prose=True) is not None:
+            translated_desc_count += 1
 
         # Fields translation
         title = translate_title(item.get("title", ""), tdb_entry, cfg, cache)
+        if tdb_entry.get("name") and not re.search(r"[\u0400-\u04FF]", title):
+            fb_name = fb_entries_by_tid.get(raw_tid, {}).get("name") if lang_code != "en" else None
+            exact_title = exact_localized_title(title, tdb_entry.get("name"), fb_name)
+            if exact_title:
+                title = exact_title
         year = translate_year(item.get("year", ""), cfg, cache)
         genre = translate_genre(item.get("genre", ""), cfg, cache)
         developer = translate_entity(item.get("developer", ""), tdb_entry, "developer", cache)
@@ -1296,7 +1426,7 @@ def build_catalog_for_lang(lang_code):
         else:
             cover = proxy_image_url(item.get("cover", ""))
 
-        catalog.append({
+        record = {
             "title": title,
             "size": item.get("size", ""),
             "magnet": item.get("magnet", ""),
@@ -1316,7 +1446,10 @@ def build_catalog_for_lang(lang_code):
             "description": description,
             "title_id": item.get("title_id", ""),
             **version_fields(item),
-        })
+        }
+        if display_terms:
+            apply_display_terms(record, display_terms, item.get("description"))
+        catalog.append(record)
 
     elapsed = time.time() - start_time
     print(f"\nAssembly for [{lang_code.upper()}] Complete in {elapsed:.2f}s!", flush=True)
@@ -1324,6 +1457,8 @@ def build_catalog_for_lang(lang_code):
     print(f"Descriptions from TitleDB: {titledb_desc_count} / {len(catalog)}", flush=True)
     print(f"Descriptions translated / cached: {translated_desc_count} / {len(catalog)}", flush=True)
     print(f"Screenshots from TitleDB: {titledb_ss_count} / {len(catalog)}", flush=True)
+    audit_report = audit_catalog(catalog, lang_code)
+    print(f"Audit [{lang_code.upper()}]: {json.dumps(audit_report['fields'], ensure_ascii=False)}", flush=True)
 
     # Write output JSON
     output_path = BASE_DIR / cfg["output_file"]
@@ -1336,6 +1471,7 @@ def build_catalog_for_lang(lang_code):
 def main():
     parser = argparse.ArgumentParser(description="Build localized Nintendo Switch catalogs.")
     parser.add_argument("--lang", default="all", help="Language code to build: en, es, fr, de, it, pt-br, zh-hans, or 'all'")
+    parser.add_argument("--max-translate", type=int, default=0, help="Maximum uncached strings to fetch online per language (0 = unlimited)")
     args = parser.parse_args()
 
     if args.lang.lower() == "all":
@@ -1345,7 +1481,7 @@ def main():
 
     print(f"Starting catalog build process for languages: {languages}")
     for lang in languages:
-        build_catalog_for_lang(lang)
+        build_catalog_for_lang(lang, max_translate=args.max_translate)
 
     if args.lang.lower() == "all":
         try:

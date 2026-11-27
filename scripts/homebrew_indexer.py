@@ -6,8 +6,9 @@ Sources:
     manifest is checked; packages that write to the bootloader, Atmosphere core
     or other forbidden places are hidden, the rest get their kinds
     (app / overlay / sysmodule).
-  * homebrew-sources.json: hand-picked GitHub projects (missing or outdated in
-    fortheusers). These are approved by being in the list.
+  * homebrew-sources.json: hand-picked GitHub/GitLab projects (missing or
+    outdated in fortheusers). GitLab projects resolve an approved project path
+    and use stable NRO release assets. These are approved by being in the list.
   * Discovery (needs GITHUB_TOKEN): GitHub topics and GameBrew. A release with a
     single .nro or .ovl is added automatically ("auto": true). Everything else
     goes to homebrew/candidates.md for manual review.
@@ -42,6 +43,10 @@ import urllib.parse
 import urllib.request
 import zipfile
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from audit_localization import audit_homebrew
+from homebrew_localization import apply_zh_hans
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "homebrew-sources.json"
@@ -199,7 +204,7 @@ def selftest() -> int:
 # Network
 
 def http_get(url: str, *, github_api: bool = False, accept: str | None = None,
-             retries: int = 3, timeout: int = 60) -> bytes:
+             retries: int = 3, timeout: int = 60, max_bytes: int | None = None) -> bytes:
     headers = {"User-Agent": USER_AGENT}
     if github_api:
         headers["Accept"] = accept or "application/vnd.github+json"
@@ -213,7 +218,12 @@ def http_get(url: str, *, github_api: bool = False, accept: str | None = None,
         try:
             req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return resp.read()
+                if max_bytes is None:
+                    return resp.read()
+                data = resp.read(max_bytes + 1)
+                if len(data) > max_bytes:
+                    raise ValueError("release asset exceeds size limit")
+                return data
         except urllib.error.HTTPError as e:
             if e.code in (403, 429) and github_api:
                 reset = e.headers.get("X-RateLimit-Reset")
@@ -249,6 +259,98 @@ def latest_release(repo: str, prerelease: bool = False) -> dict | None:
         if e.code == 404:
             return None
         raise
+
+
+def gitlab_project_url(repo: str, project_id: int, url: str) -> bool:
+    """Only accept HTTPS release/package assets belonging to the approved project."""
+    try:
+        parts = urllib.parse.urlsplit(url)
+        if parts.scheme != "https" or parts.hostname != "gitlab.com" or parts.username or parts.password:
+            return False
+        if parts.port not in (None, 443):
+            return False
+        path = urllib.parse.unquote(parts.path)
+        if any(p in (".", "..") for p in path.split("/")) or "\\" in path:
+            return False
+        return (path.startswith("/" + repo + "/-/") or
+                path.startswith(f"/-/project/{project_id}/uploads/") or
+                path.startswith(f"/api/v4/projects/{project_id}/packages/generic/"))
+    except (TypeError, ValueError):
+        return False
+
+
+def normalize_gitlab_release(release: dict, repo: str, project_id: int) -> dict:
+    """Convert GitLab release links to the existing, validated asset interface."""
+    assets = []
+    seen = set()
+    for link in (release.get("assets") or {}).get("links", []):
+        if not isinstance(link, dict):
+            continue
+        for url in (link.get("direct_asset_url"), link.get("url")):
+            if not isinstance(url, str) or not gitlab_project_url(repo, project_id, url):
+                continue
+            name = urllib.parse.unquote(urllib.parse.urlsplit(url).path.rsplit("/", 1)[-1])
+            if not re.fullmatch(r"[A-Za-z0-9._+-]+\.nro", name, re.I):
+                continue
+            if url in seen:
+                break
+            seen.add(url)
+            assets.append({
+                "id": f"gitlab:{project_id}:{release['tag_name']}:{link.get('id', '')}:{url}",
+                "name": name,
+                "browser_download_url": url,
+                "updated_at": release.get("released_at", ""),
+                "size": 0,
+                "state": "uploaded",
+            })
+            break
+    return {
+        "tag_name": release["tag_name"],
+        "published_at": release.get("released_at") or "",
+        "body": release.get("description") or "",
+        "html_url": f"https://gitlab.com/{repo}/-/releases",
+        "assets": assets,
+    }
+
+
+def latest_gitlab_release(repo: str, project_id: int | None = None) -> dict | None:
+    """Approved manual GitLab projects only; do not discover or select test releases."""
+    if not re.fullmatch(r"[A-Za-z0-9_.-]+(?:/[A-Za-z0-9_.-]+)+", repo):
+        raise ValueError("invalid GitLab project path")
+    if project_id is not None and (type(project_id) is not int or project_id <= 0):
+        raise ValueError("invalid GitLab project ID")
+    if any(part in (".", "..") for part in repo.split("/")):
+        raise ValueError("invalid GitLab project path")
+    project_path = urllib.parse.quote(repo, safe="")
+    api = f"https://gitlab.com/api/v4/projects/{project_path}"
+    try:
+        project = json.loads(http_get(api, accept="application/json"))
+        if project.get("path_with_namespace", "").casefold() != repo.casefold():
+            raise ValueError("GitLab project does not match the approved path")
+        resolved_id = project.get("id")
+        if type(resolved_id) is not int or resolved_id <= 0:
+            raise ValueError("invalid resolved GitLab project ID")
+        if project_id is not None and project_id != resolved_id:
+            raise ValueError("GitLab project ID does not match the approved project")
+        project_id = resolved_id
+        releases = json.loads(http_get(f"https://gitlab.com/api/v4/projects/{project_id}/releases?per_page=100", accept="application/json"))
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return None
+        raise
+    if not isinstance(releases, list):
+        raise ValueError("invalid GitLab releases response")
+    stable = []
+    for release in releases:
+        if not isinstance(release, dict):
+            continue
+        match = re.fullmatch(r"[vV]?(\d+)\.(\d+)\.(\d+)", str(release.get("tag_name", "")))
+        if match and not release.get("upcoming_release"):
+            stable.append((tuple(map(int, match.groups())), release))
+    if not stable:
+        return None
+    return normalize_gitlab_release(max(stable, key=lambda item: item[0])[1],
+                                    project["path_with_namespace"], project_id)
 
 
 # ---------------------------------------------------------------------------
@@ -360,7 +462,7 @@ def build_package(name: str, repo: str, release: dict, asset: dict, cfg: dict,
     if not entry or entry.get("asset_key") != key:
         if asset.get("size", 0) > MAX_ASSET_BYTES:
             return None, f"asset too big ({asset['size'] // (1024 * 1024)} MB)"
-        data = http_get(asset["browser_download_url"], timeout=300)
+        data = http_get(asset["browser_download_url"], timeout=300, max_bytes=MAX_ASSET_BYTES)
         entry = {"asset_key": key, "sha256": hashlib.sha256(data).hexdigest(), "size": len(data)}
         lname = asset["name"].lower()
         nro_bytes = None
@@ -418,7 +520,8 @@ def build_package(name: str, repo: str, release: dict, asset: dict, cfg: dict,
         "category": cfg.get("category") or guess_category(a, cfg),
         "description": cfg.get("description", ""),
         "changelog": (release.get("body") or "").strip()[:2000],
-        "url": f"https://github.com/{repo}",
+        "url": (f"https://gitlab.com/{cfg['repo']}" if cfg.get("provider") == "gitlab"
+                else f"https://github.com/{repo}"),
         "repo": repo.lower(),
         "updated": (release.get("published_at") or "")[:10],
         "download_url": asset["browser_download_url"],
@@ -601,14 +704,22 @@ def main() -> int:
 
     # Hand-picked projects.
     for cfg in sources.get("packages", []):
+        provider = cfg.get("provider", "github")
         repo = cfg["repo"].lower()
+        if provider == "gitlab":
+            repo = "gitlab:" + repo
         manual_repos.add(repo)
-        ftu = ftu_by_repo.get(repo)
+        ftu = ftu_by_repo.get(repo) if provider == "github" else None
         name = cfg.get("name") or (ftu["name"] if ftu else cfg["repo"].split("/")[1])
         if ftu and not cfg.get("title"):
             cfg = dict(cfg, ftu_title=ftu.get("title", ""))
         try:
-            rel = latest_release(cfg["repo"], cfg.get("prerelease", False))
+            if provider == "gitlab":
+                rel = latest_gitlab_release(cfg["repo"], cfg.get("project_id"))
+            elif provider == "github":
+                rel = latest_release(cfg["repo"], cfg.get("prerelease", False))
+            else:
+                raise ValueError(f"unsupported provider: {provider}")
             if not rel:
                 problems.append(f"| {cfg['repo']} | нет релизов |")
                 continue
@@ -742,6 +853,11 @@ def main() -> int:
         "fortheusers": dict(sorted(ftu_meta.items())),
         "packages": sorted(unique, key=lambda p: p["name"].lower()),
     }
+    zh_path = DATA_DIR / "descriptions_zh_hans.json"
+    if zh_path.exists():
+        zh_hans = json.loads(zh_path.read_text(encoding="utf-8"))
+        log(f"zh-Hans descriptions: {apply_zh_hans(out, zh_hans)}")
+    log(f"Localization audit: {json.dumps(audit_homebrew(out), ensure_ascii=False)}")
     OUTPUT_FILE.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")

@@ -11,6 +11,7 @@ on:
       - 'homebrew-sources.json'
       - 'scripts/homebrew_indexer.py'
       - 'homebrew/path_rules.txt'
+      - 'homebrew/descriptions_zh_hans.json'
 
 permissions:
   contents: write
