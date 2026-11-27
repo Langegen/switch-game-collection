@@ -10,7 +10,7 @@
 | [2003scape/rsc-c](https://github.com/2003scape/rsc-c) | 136 | mudclient177-rev1 | 2022-04-01 | mudclient177-linux-x86_64.tar.gz, mudclient177-web.zip, mudclient177-wii.zip, mudclient177-windows-x86_64.zip, mudclient |
 | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | 20 | Release-1.1.0 | 2026-11-04 | bo2-360-nx-gamefiles-shader-extractor.zip, bo2-360-nx-release-1.1.0-switch+windows-build-kit.zip, bo2-360-nx-switch-PGO- |
 | [AndryTheBeast/Songate](https://github.com/AndryTheBeast/Songate) | 12 | v2.2.1 | 2026-11-24 | songate-manifest.json, SongateAND-2.2.1.apk, SongateNX-2.2.1.zip, SongateWIN-2.2.1.exe |
-| [Angle-Brackets/UprisingNX](https://github.com/Angle-Brackets/UprisingNX) | 7 | v0.1.3 | 2026-11-26 | UprisingNX-v0.1.3.zip, uprising_nx.nro |
+| [Angle-Brackets/UprisingNX](https://github.com/Angle-Brackets/UprisingNX) | 8 | v0.1.3 | 2026-11-26 | UprisingNX-v0.1.3.zip, uprising_nx.nro |
 | [Angle-Brackets/kickstand](https://github.com/Angle-Brackets/kickstand) | 0 | v0.1.2 | 2026-11-13 | kickstand-0.1.2-aarch64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-apple-darwin.tar.gz, kickstand-0.1.2-x86_64-pc-windo |
 | [Antman2023/UURemote-ns](https://github.com/Antman2023/UURemote-ns) | 17 | v0.1.11 | 2026-11-26 | SHA256SUMS, UURemote-ns-0.1.11-switch.zip, UURemote-ns.nro |
 | [ArakiW/switch-dsh-client](https://github.com/ArakiW/switch-dsh-client) | 0 | v0.1.0 | 2026-08-18 | switch-dsh-client.nro |
@@ -27,7 +27,7 @@
 | [ComputingVictor/Switch_IPTV](https://github.com/ComputingVictor/Switch_IPTV) | 1 | v0.2.0 | 2026-10-18 | SwitchIPTV-v0.2.0.zip |
 | [DanilKhmyrov/CryptoDeck](https://github.com/DanilKhmyrov/CryptoDeck) | 0 | v1.0.0 | 2026-08-14 | cryptodeck.nro |
 | [Dimasick-git/Ryazha-Status-Monitor](https://github.com/Dimasick-git/Ryazha-Status-Monitor) | 3 | 1.5.5-deko3d | 2026-10-27 | Ryazha-Status-Monitor.ovl, Ryazha-Status-Monitor.zip |
-| [DomazinUS/Switify](https://github.com/DomazinUS/Switify) | 31 | v0.7.1 | 2026-08-20 | SHA256SUMS.txt, Switify-0.7.1.zip, Switify-Overlay-0.5.0.zip, Switify-source-0.7.1.zip |
+| [DomazinUS/Switify](https://github.com/DomazinUS/Switify) | 32 | v0.8.0 | 2026-11-27 | SHA256SUMS.txt, Switify-0.8.0.zip, Switify-Overlay-0.6.0.zip, Switify-source-0.8.0.zip |
 | [Dream-Cypher/STRAHLocalization](https://github.com/Dream-Cypher/STRAHLocalization) | 0 | v0.14 | 2026-11-01 | STRAH_en_patch_switch_0.14.zip |
 | [ELY3M/Clock-for-switch](https://github.com/ELY3M/Clock-for-switch) | 0 | 09-22-2026-01.57.09.AM | 2026-09-22 | Clock-for-switch.nro |
 | [ELY3M/Mice-Breeder-for-switch](https://github.com/ELY3M/Mice-Breeder-for-switch) | 0 | 09-22-2026-01.51.03.AM | 2026-09-22 | Mice-Breeder-for-switch.nro |
@@ -39,11 +39,11 @@
 | [ErrLogic/nada](https://github.com/ErrLogic/nada) | 1 | v0.1.0 | 2026-07-04 | sys-nada-v0.1.0.zip |
 | [FunkinNXTeam/FunkinLegacy](https://github.com/FunkinNXTeam/FunkinLegacy) | 3 | NX-1.0.1 | 2026-02-04 | Funkin.nro |
 | [HaDoKit/SolarNX](https://github.com/HaDoKit/SolarNX) | 2 | v0.2.5-alpha | 2026-11-03 | release.json, SolarNX-Rendezvous-linux-x64.zip, SolarNX-Rendezvous-win-x64.zip, SolarNX-Setup.exe, SolarNX-Switch.nro |
-| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 293 | 2.6.1 | 2026-11-12 | dist.zip, dist_ext.zip |
+| [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) | 294 | 2.6.1 | 2026-11-12 | dist.zip, dist_ext.zip |
 | [ImYourBoyRoy/switch-sd-mgr](https://github.com/ImYourBoyRoy/switch-sd-mgr) | 1 | v7.0.0 | 2026-05-31 | Switch-SD-Manager_Windows_Portable.zip, Switch.SD.Updater_7.0.0_amd64.AppImage, Switch.SD.Updater_7.0.0_amd64.deb, Switc |
 | [Insektaure/CheatShelf](https://github.com/Insektaure/CheatShelf) | 1 | 0.1.2 | 2026-10-23 | cheatshelf.ovl |
 | [Jack-The-Yoshi/One-Click-Game-Manager-OCGM-](https://github.com/Jack-The-Yoshi/One-Click-Game-Manager-OCGM-) | 1 | v1.0.1 | 2026-02-16 | OCGM.nro |
-| [JhondyDario/Greeny](https://github.com/JhondyDario/Greeny) | 10 | v1.0.1 | 2026-11-25 | greeny-1.0.1.zip, greeny-overlay-source-1.0.1.zip, greeny.nro |
+| [JhondyDario/Greeny](https://github.com/JhondyDario/Greeny) | 11 | v1.0.1 | 2026-11-25 | greeny-1.0.1.zip, greeny-overlay-source-1.0.1.zip, greeny.nro |
 | [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |
 | [KakarottoCake/gcadapter-oc-nx](https://github.com/KakarottoCake/gcadapter-oc-nx) | 0 | v0.1.5-alpha | 2026-07-29 | gcadapter-oc-nx.zip |
 | [KoHaku743/horizon-nx-companion](https://github.com/KoHaku743/horizon-nx-companion) | 0 | v0.4.0 | 2026-11-25 | horizon-nx-companion-linux-x86_64.tar.gz, horizon-nx-companion-macos.zip, horizon-nx-companion-windows.zip |
@@ -59,7 +59,7 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 6 | v0.9.8 | 2026-11-21 | SHA256SUMS.txt, switch-online-0.9.8-hats.zip, switch-online-0.9.8-sd.zip, switch-online-0.9.8-sdk-sources.tar, switch-on |
+| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 6 | v0.9.14 | 2026-11-27 | SHA256SUMS.txt, switch-online-0.9.14-hats.zip, switch-online-0.9.14-sd.zip, switch-online-0.9.14-sdk-sources.tar, switch |
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 78 | v1.0.13 | 2026-11-26 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 4.0.0 | 2026-11-20 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
@@ -120,7 +120,7 @@
 | [f-l-a/nxupdatetracker](https://github.com/f-l-a/nxupdatetracker) | ? | v2.0 | 2023-10-10 | NXUpdateTracker.html, NXUpdateTracker.zip |
 | [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) | ? | v2.3.2 | 2023-03-23 | appstore.nro, appstore.rpx, appstore.wuhb, switch-extracttosd.zip, wiiu-extracttosd.zip |
 | [fourminute/fluffy](https://github.com/fourminute/fluffy) | ? | v2.9 | 2019-05-26 | fluffy.exe, fluffy.pyw, Goldleaf.nro, LICENSE.txt, Tinfoil.nro |
-| [g-brrzzn/return-to-castle-nx](https://github.com/g-brrzzn/return-to-castle-nx) | 1 | v1.0.0 | 2026-11-25 | return-to-castle-nx-v1.0.0-debug.zip, return-to-castle-nx-v1.0.0.zip, SHA256SUMS.txt |
+| [g-brrzzn/return-to-castle-nx](https://github.com/g-brrzzn/return-to-castle-nx) | 4 | v1.1.0 | 2026-11-27 | return-to-castle-nx-v1.1.0-debug.zip, return-to-castle-nx-v1.1.0.zip, SHA256SUMS.txt |
 | [gasu95/HK-Checker](https://github.com/gasu95/HK-Checker) | 0 | v1.0 | 2026-11-17 | HKChecker.nro |
 | [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |
 | [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 62 | 1.4 | 2026-11-23 | gow-nx.zip |
