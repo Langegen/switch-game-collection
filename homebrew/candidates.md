@@ -1,6 +1,6 @@
 # Кандидаты в магазин хоумбрю
 
-Обновлено: 2026-11-27. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
+Обновлено: 2026-11-28. Чтобы добавить проект, впишите его в `homebrew-sources.json` (раздел `packages`).
 
 ## Нужна проверка
 
@@ -59,7 +59,7 @@
 | [Revolution81/Butterscotch-Switch-Builder](https://github.com/Revolution81/Butterscotch-Switch-Builder) | 0 | v1.1 | 2026-10-22 | Butterscotch-Switch-Builder-PUBLIC.zip |
 | [Riviera71/Flare-Switch](https://github.com/Riviera71/Flare-Switch) | 7 | 1.11 | 2020-01-24 | flare-v1.11.zip, flare.nro |
 | [Roguei/switch-rdp](https://github.com/Roguei/switch-rdp) | 0 | b50 | 2026-10-24 | RDP_b50.nro, RDP_b50.zip |
-| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 6 | v0.9.14 | 2026-11-27 | SHA256SUMS.txt, switch-online-0.9.14-hats.zip, switch-online-0.9.14-sd.zip, switch-online-0.9.14-sdk-sources.tar, switch |
+| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 7 | v0.9.15 | 2026-11-28 | SHA256SUMS.txt, switch-online-0.9.15-hats.zip, switch-online-0.9.15-sd.zip, switch-online-0.9.15-sdk-sources.tar, switch |
 | [SPIN0ZAi/nup-extractor](https://github.com/SPIN0ZAi/nup-extractor) | 78 | v1.0.13 | 2026-11-26 | NUP_Extractor-windows-x64.zip, NUP_Extractor.exe, SHA256SUMS.txt |
 | [SamsWebs/storm-engine-v2](https://github.com/SamsWebs/storm-engine-v2) | 4 | v2.8.0 | 2026-10-06 | libstormenginev2_2.8.0_amd64.deb, libstormenginev2_2.8.0_arm64.deb, stormengine2-2.8.0-win64.zip |
 | [Slushi-Github/HaxeNXCompiler](https://github.com/Slushi-Github/HaxeNXCompiler) | 16 | 4.0.0 | 2026-11-20 | Linux64_HaxeNXCompiler.zip, Mac64_HaxeNXCompiler.zip, Win64_HaxeNXCompiler.zip |
@@ -124,7 +124,7 @@
 | [gasu95/HK-Checker](https://github.com/gasu95/HK-Checker) | 0 | v1.0 | 2026-11-17 | HKChecker.nro |
 | [genwald/generic-mod-manager](https://github.com/genwald/generic-mod-manager) | ? | v0.1 | 2018-09-10 | All-in-One_GenericModManager.zip, Generic-Mod-Manager.py |
 | [gerisson1996/gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | 62 | 1.4 | 2026-11-23 | gow-nx.zip |
-| [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.1 | 2026-11-26 | gowithme-club-switch-1.0.1.zip |
+| [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 1 | v1.0.1 | 2026-11-26 | gowithme-club-switch-1.0.1.zip |
 | [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |
 | [hamhub7/pause-nx](https://github.com/hamhub7/pause-nx) | ? | 1.2 | 2019-09-11 | PAUSE-nx.v1.2.zip |
 | [hamletdufromage/sigpatches-updater](https://github.com/hamletdufromage/sigpatches-updater) | ? | 0.2 | 2020-09-12 | sigpatches-updater.zip |
@@ -216,11 +216,13 @@
 | [willv678/WarpPoint](https://github.com/willv678/WarpPoint) | 0 | v1.12.1 | 2026-11-26 | SHA256SUMS.txt, WarpPoint-1.12.1.dmg, WarpPoint-Switch-1.12.1.zip |
 | [xhu96/Switch7zip](https://github.com/xhu96/Switch7zip) | 0 | v0.9.11-pre | 2026-05-09 | Switch7zip.nro |
 | [xiefengdaxia/UURemote-ns-switch](https://github.com/xiefengdaxia/UURemote-ns-switch) | 0 | v0.1.64 | 2026-11-14 | UURemote-ns-0.1.64-switch.zip |
+| [yassinsolim/aw-nx](https://github.com/yassinsolim/aw-nx) | 1 | v0.1.0 | 2026-11-28 | aw-nx.nro |
 | [ybx77/switch-cloud-sync](https://github.com/ybx77/switch-cloud-sync) | 1 | new | 2026-11-03 | switch-cloud-sync.nro |
 | [yorha59/swagent](https://github.com/yorha59/swagent) | 1 | v1.35.0 | 2026-11-18 | swagent-atmosphere-sd.zip, swagent.nsp |
 | [yukinsnow/Lite-Link](https://github.com/yukinsnow/Lite-Link) | 6 | v0.3.1 | 2026-10-26 | Lite-Link-v0.3.1-Icons.zip, Lite-Link-v0.3.1-macOS-experimental.zip, Lite-Link-v0.3.1-Switch.nro, Lite-Link-v0.3.1-Switc |
 | [yyoossk/Atmosphere-with-Hekate](https://github.com/yyoossk/Atmosphere-with-Hekate) | 16 | 2.0 | 2025-11-25 | Atmosphere-with-Hekate.zip |
 | [zhongyang219/musicplayer2](https://github.com/zhongyang219/musicplayer2) | ? | V2.78 | 2025-12-27 | MusicPlayer2_V2.78_x64.zip, MusicPlayer2_V2.78_x86.zip |
+| [zhtipu/nx-porting-kit](https://github.com/zhtipu/nx-porting-kit) | 0 | v1.1.0 | 2026-11-28 | NXPortingKit.zip, NXPortingKit.zip.sha256 |
 | [zhtipu/shank2-nx](https://github.com/zhtipu/shank2-nx) | 3 | v1.0.1 | 2026-11-14 | nsp-loader.zip, shank2-nx-1.0.1.nsp, shank2.nro |
 | [zofo007/NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) | 18 | v1.1.0 | 2026-10-30 | nfscarbon-1.1.0-src.zip, nfscarbon-1.1.0.zip, SHA256SUMS.txt |
 | [zuhayermasud/Calculator_NX-Overlay](https://github.com/zuhayermasud/Calculator_NX-Overlay) | 0 | v2.0.0-ultrahand | 2026-11-26 | ovl-Calculator_NX.ovl |

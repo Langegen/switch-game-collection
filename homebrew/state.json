@@ -458,17 +458,17 @@
    "zip_root": ""
   },
   "gitlab:ismaellozanoperezserrano/hacbrewpacklz": {
-   "asset_key": "gitlab:88310088:v1.5.4:14546588:https://gitlab.com/ismaellozanoperezserrano/hacbrewpacklz/-/releases/v1.5.4/downloads/hacBrewPackLZ.nro:2026-11-23T17:52:11.287Z",
-   "extracted": 3304503,
+   "asset_key": "gitlab:88310088:v1.5.5:14670630:https://gitlab.com/ismaellozanoperezserrano/hacbrewpacklz/-/releases/v1.5.5/downloads/hacBrewPackLZ.nro:2026-11-28T04:48:44.356Z",
+   "extracted": 3357751,
    "files": [],
    "icon_url": "https://raw.githubusercontent.com/Langegen/switch-game-collection/main/homebrew/icons/hacbrewpacklz.jpg",
    "nacp": {
     "author": "MaellyPooh",
     "title": "hacBrewPackLZ",
-    "version": "1.5.4"
+    "version": "1.5.5"
    },
-   "sha256": "01391543998a2a014feee62391081d255408dc3f74a0316411cc0d43b617a8c7",
-   "size": 3304503,
+   "sha256": "ae1cc4fce0cfc422d25bc2cbc2ce1dd402da4e51296699fd883b07f0c08332df",
+   "size": 3357751,
    "type": "file",
    "zip_root": ""
   },
@@ -860,8 +860,8 @@
    "zip_root": ""
   },
   "ppkantorski/nx-ovlloader": {
-   "asset_key": "724446046:2026-11-08T16:06:42Z",
-   "extracted": 121992,
+   "asset_key": "803554341:2026-11-28T06:43:02Z",
+   "extracted": 122021,
    "files": [
     "atmosphere/contents/420000000007E51A/exefs.nsp",
     "atmosphere/contents/420000000007E51A/flags/boot2.flag",
@@ -875,8 +875,8 @@
     "title": "Ultrahand Reload",
     "version": "1.0.1"
    },
-   "sha256": "0a64b1e557daa61ab2a1e10639f8f69da7b19154b44e00b4d8f50bafcec499a7",
-   "size": 80956,
+   "sha256": "5ec79246281349069d4fae1221d1107acd42f59d4efa65a787a78faa531a8605",
+   "size": 80971,
    "type": "zip",
    "zip_root": ""
   },
@@ -7427,7 +7427,7 @@
    "pushed_at": "2026-08-01T15:20:05Z"
   },
   "adaptlearning/adapt_authoring": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "adrianaferraris/yuzu-emu": {
@@ -7439,7 +7439,7 @@
    "pushed_at": ""
   },
   "adubbz/nanovg-deko3d": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "adubbz/tinfoil": {
@@ -7459,7 +7459,7 @@
    "pushed_at": "2026-10-23T09:12:10Z"
   },
   "aida-enna/videosetupnx": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "akheron/jansson": {
@@ -7517,8 +7517,8 @@
   },
   "angle-brackets/uprisingnx": {
    "candidate": "| [Angle-Brackets/UprisingNX](https://github.com/Angle-Brackets/UprisingNX) | 8 | v0.1.3 | 2026-11-26 | UprisingNX-v0.1.3.zip, uprising_nx.nro |",
-   "checked": "2026-11-27",
-   "pushed_at": "2026-11-27T18:08:37Z"
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-27T23:58:50Z"
   },
   "anonymoususer98/mii-creator": {
    "checked": "2026-11-26",
@@ -7553,8 +7553,8 @@
    "pushed_at": "2026-11-27T12:23:29Z"
   },
   "aryan2371/yuzu-emulator-enhancer": {
-   "checked": "2026-11-27",
-   "pushed_at": "2026-11-27T19:52:22Z"
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T02:34:35Z"
   },
   "ashrafhanyy/maxpayne2_nx": {
    "candidate": "| [AshrafHanyy/maxpayne2_nx](https://github.com/AshrafHanyy/maxpayne2_nx) | 0 | v0.1.0 | 2026-10-28 | maxpayne.nro |",
@@ -7588,7 +7588,7 @@
    "pushed_at": ""
   },
   "atmosphere-nx/atmosphere-libs": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "atmosphere-nx/atmosphere-splashes": {
@@ -7711,11 +7711,11 @@
   },
   "byvoid/opencc": {
    "candidate": "| [byvoid/opencc](https://github.com/byvoid/opencc) | ? | ver.1.4.2 | 2026-08-22 | opencc-1.4.2-1-deb-amd64.zip, opencc-1.4.2-1-deb-arm64.zip, opencc-1.4.2-bazel-src.tar.gz, opencc-1.4.2-bazel-src.tar.xz |",
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "caimiao/borealis": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "cameudis/swots": {
@@ -8022,8 +8022,8 @@
    "pushed_at": ""
   },
   "eduquisehuayra-collab/yuzu-switch-emulator-tutorial": {
-   "checked": "2026-11-27",
-   "pushed_at": "2026-11-27T19:45:21Z"
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T02:25:57Z"
   },
   "elijahxb/switch-playlogtool": {
    "checked": "2026-11-09",
@@ -8076,7 +8076,7 @@
    "pushed_at": "2026-11-10T08:38:31Z"
   },
   "encode-dcc/kentutils": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "enzobernardinomartins/key2con": {
@@ -8159,8 +8159,12 @@
    "checked": "2026-11-27",
    "pushed_at": ""
   },
+  "franciscoovc/kh-steam-to-switch": {
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-27T22:58:09Z"
+  },
   "free-tv/iptv": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "fukuchi/libqrencode": {
@@ -8201,9 +8205,9 @@
    "pushed_at": "2026-11-24T10:11:27Z"
   },
   "gowithme-club/switch-playtime-tracker": {
-   "candidate": "| [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 0 | v1.0.1 | 2026-11-26 | gowithme-club-switch-1.0.1.zip |",
-   "checked": "2026-11-27",
-   "pushed_at": "2026-11-27T13:27:30Z"
+   "candidate": "| [gowithme-club/switch-playtime-tracker](https://github.com/gowithme-club/switch-playtime-tracker) | 1 | v1.0.1 | 2026-11-26 | gowithme-club-switch-1.0.1.zip |",
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T02:52:16Z"
   },
   "granule256/nxcourier": {
    "candidate": "| [granule256/nxcourier](https://github.com/granule256/nxcourier) | 3 | v1.0.3 | 2026-10-27 | NXC-NS-v1.0.3.zip, NXC-PC-v1.0.3.zip, SHA256SUMS.txt |",
@@ -8337,8 +8341,8 @@
   },
   "imyourboyroy/switch-sd-mgr": {
    "candidate": "| [ImYourBoyRoy/switch-sd-mgr](https://github.com/ImYourBoyRoy/switch-sd-mgr) | 1 | v7.0.0 | 2026-05-31 | Switch-SD-Manager_Windows_Portable.zip, Switch.SD.Updater_7.0.0_amd64.AppImage, Switch.SD.Updater_7.0.0_amd64.deb, Switc |",
-   "checked": "2026-11-09",
-   "pushed_at": "2026-08-03T15:09:32Z"
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T07:09:01Z"
   },
   "incuryou/pijava": {
    "candidate": "| [incuryou/PiJava](https://github.com/incuryou/PiJava) | 10 | v0.2.114-keyui7-gpuf5-fit41-menu7 | 2026-11-02 | FIT41-RELEASE-NOTES-CN.md, J2me-vm-0.2.114-keyui7-gpuf5-fit41-menu7.nro, J2me-vm-0.2.114-keyui7-gpuf5-fit41-menu7.nsp, P |",
@@ -8365,7 +8369,7 @@
    "pushed_at": ""
   },
   "itotaljustice/libhaze": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "itotaljustice/nand-dumper": {
@@ -8391,7 +8395,7 @@
    "pushed_at": ""
   },
   "itotaljustice/yati": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "jack-the-yoshi/one-click-game-manager-ocgm-": {
@@ -8400,8 +8404,8 @@
    "pushed_at": "2026-02-16T23:25:56Z"
   },
   "jacquesdupontd/port0r": {
-   "checked": "2026-11-27",
-   "pushed_at": "2026-11-27T21:06:27Z"
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T07:36:09Z"
   },
   "jakibaki/hid-mitm": {
    "candidate": "| [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) | ? | 0.1.2 | 2019-07-22 | companion_apps.zip, hid-mitm.zip |",
@@ -8418,8 +8422,8 @@
   },
   "jhondydario/greeny": {
    "candidate": "| [JhondyDario/Greeny](https://github.com/JhondyDario/Greeny) | 11 | v1.0.1 | 2026-11-25 | greeny-1.0.1.zip, greeny-overlay-source-1.0.1.zip, greeny.nro |",
-   "checked": "2026-11-27",
-   "pushed_at": "2026-11-27T11:23:13Z"
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T04:19:38Z"
   },
   "jigsawfr/boreale-ha": {
    "candidate": "| [JigSawFr/boreale-ha](https://github.com/JigSawFr/boreale-ha) | 0 | v0.10.0 | 2026-10-31 | boreale.zip, SHA256SUMS.txt |",
@@ -8466,7 +8470,7 @@
    "pushed_at": "2026-11-13T03:52:52Z"
   },
   "k3yn/xplayer": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "kakarottocake/gcadapter-oc-nx": {
@@ -8531,7 +8535,7 @@
    "pushed_at": ""
   },
   "libretro/lakka-libreelec": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "libsdl-org/sdl": {
@@ -8618,7 +8622,7 @@
    "pushed_at": ""
   },
   "mcmrarm/switch-game-card-dumper": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "mdsssa/telegramnx": {
@@ -8639,6 +8643,10 @@
    "candidate": "| [MeoWDev-MOD/Control-PS-5](https://github.com/MeoWDev-MOD/Control-PS-5) | 1 | v1.1.0 | 2026-11-04 | Control-PS-5.zip |",
    "checked": "2026-11-13",
    "pushed_at": "2026-11-13T15:39:50Z"
+  },
+  "micleachristian/gt4-switch-native-port": {
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T03:30:01Z"
   },
   "migushthe2nd/ebrowser": {
    "checked": "2026-11-25",
@@ -8670,8 +8678,8 @@
    "pushed_at": ""
   },
   "mohamedsaid5363-star/miiverse-archipelago": {
-   "checked": "2026-11-27",
-   "pushed_at": "2026-11-27T18:01:13Z"
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T01:50:29Z"
   },
   "mohit2096/yuzu-emulator-toolkit": {
    "checked": "2026-11-23",
@@ -8692,7 +8700,7 @@
   },
   "mrdude2478/tinwoo-release": {
    "candidate": "| [mrdude2478/tinwoo-release](https://github.com/mrdude2478/tinwoo-release) | ? | 1.0.28 | 2024-08-21 | Tinwoo-Installer.zip |",
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "muratkrdl/systoggle": {
@@ -8781,7 +8789,7 @@
    "pushed_at": ""
   },
   "noirscape/switchguide-updater": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "notnotme/osp": {
@@ -8894,8 +8902,8 @@
   },
   "ppkantorski/libultrahand": {
    "candidate": "| [ppkantorski/libultrahand](https://github.com/ppkantorski/libultrahand) | 71 | v2.5.4 | 2026-11-09 | libultrahand.zip |",
-   "checked": "2026-11-27",
-   "pushed_at": "2026-11-27T00:24:38Z"
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T06:25:15Z"
   },
   "ppkantorski/memory-kit": {
    "candidate": "| [ppkantorski/Memory-Kit](https://github.com/ppkantorski/Memory-Kit) | 28 | v1.0.2 | 2026-05-20 | Memory.Kit.zip |",
@@ -9122,9 +9130,9 @@
    "pushed_at": "2026-11-15T05:52:57Z"
   },
   "sec-123/roomcircuit_lanywhere-selfhost": {
-   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 6 | v0.9.14 | 2026-11-27 | SHA256SUMS.txt, switch-online-0.9.14-hats.zip, switch-online-0.9.14-sd.zip, switch-online-0.9.14-sdk-sources.tar, switch |",
-   "checked": "2026-11-27",
-   "pushed_at": "2026-11-27T16:24:52Z"
+   "candidate": "| [SEc-123/Roomcircuit_lanywhere-selfhost](https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost) | 7 | v0.9.15 | 2026-11-28 | SHA256SUMS.txt, switch-online-0.9.15-hats.zip, switch-online-0.9.15-sd.zip, switch-online-0.9.15-sdk-sources.tar, switch |",
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T03:06:17Z"
   },
   "shodowlo/nx-torrent-player": {
    "candidate": "| [shodowlo/NX-torrent-player](https://github.com/shodowlo/NX-torrent-player) | 37 | v0.6.0 | 2026-11-18 | NX-torrent-player.nro, NX2-torrent-player.nro |",
@@ -9136,8 +9144,8 @@
    "pushed_at": "2026-11-22T13:38:07Z"
   },
   "shupian0510/ludonimbus-nx": {
-   "checked": "2026-11-25",
-   "pushed_at": "2026-11-25T00:44:37Z"
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T05:34:48Z"
   },
   "simplysabir/nrodoc": {
    "checked": "2026-11-09",
@@ -9261,7 +9269,7 @@
   },
   "tallbl0nde/triplayer": {
    "candidate": "| [tallbl0nde/triplayer](https://github.com/tallbl0nde/triplayer) | ? | v1.1.1 | 2021-07-25 | triplayer-1.1.1.zip |",
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "tbittech/gow3-nx": {
@@ -9459,7 +9467,7 @@
    "pushed_at": ""
   },
   "xfangfang/borealis": {
-   "checked": "2026-11-20",
+   "checked": "2026-11-28",
    "pushed_at": ""
   },
   "xfufly/switch2brew": {
@@ -9491,6 +9499,11 @@
   "yariklol879-ops/pgba-nx": {
    "checked": "2026-11-09",
    "pushed_at": "2026-11-02T19:17:32Z"
+  },
+  "yassinsolim/aw-nx": {
+   "candidate": "| [yassinsolim/aw-nx](https://github.com/yassinsolim/aw-nx) | 1 | v0.1.0 | 2026-11-28 | aw-nx.nro |",
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T07:47:28Z"
   },
   "ybx77/switch-cloud-sync": {
    "candidate": "| [ybx77/switch-cloud-sync](https://github.com/ybx77/switch-cloud-sync) | 1 | new | 2026-11-03 | switch-cloud-sync.nro |",
@@ -9525,6 +9538,11 @@
    "candidate": "| [zhongyang219/musicplayer2](https://github.com/zhongyang219/musicplayer2) | ? | V2.78 | 2025-12-27 | MusicPlayer2_V2.78_x64.zip, MusicPlayer2_V2.78_x86.zip |",
    "checked": "2026-11-26",
    "pushed_at": ""
+  },
+  "zhtipu/nx-porting-kit": {
+   "candidate": "| [zhtipu/nx-porting-kit](https://github.com/zhtipu/nx-porting-kit) | 0 | v1.1.0 | 2026-11-28 | NXPortingKit.zip, NXPortingKit.zip.sha256 |",
+   "checked": "2026-11-28",
+   "pushed_at": "2026-11-28T07:30:39Z"
   },
   "zhtipu/shank2-nx": {
    "candidate": "| [zhtipu/shank2-nx](https://github.com/zhtipu/shank2-nx) | 3 | v1.0.1 | 2026-11-14 | nsp-loader.zip, shank2-nx-1.0.1.nsp, shank2.nro |",
